@@ -1,0 +1,162 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p><i>Você se orgulha ao resistir a um biscoito doce. Na hora que dá vontade de “comer uma coisinha”, pega logo um daqueles pacotes de biscoitos salgados “sequilhos”, perfeitos para quem está de dieta. Cuidado: o feitiço pode virar contra o feiticeiro. “Um biscoito doce sem recheio tem menos calorias e gordura total do que um tradicional cream cracker”.</i></p><p class=\"fonte\"><u>Fonte</u>: Revista Superinteressante - Edição Especial de Junho de 2010 – Adaptado</p><table><thead><tr><th colspan=\"3\">HORA DO LANCHE</th></tr><tr><th>TIPO</th><th>PORÇÃO</th><th>CALORIAS</th></tr></thead><tbody><tr><td colspan=\"3\"><b><i>SALGADOS</i></b></td></tr><tr><td>BISCOITO ÁGUA E SAL</td><td>6 UNIDADES</td><td>133</td></tr><tr><td>CREAM CRACKER</td><td>5 UNIDADES</td><td>160</td></tr><tr><td colspan=\"3\"><b>DOCES</b></td></tr><tr><td>BISCOITO DE AVEIA</td><td>6 UNIDADES</td><td>135</td></tr><tr><td>BISCOITO MAISENA</td><td>6 UNIDADES</td><td>135</td></tr><tr><td>BISCOITO WAFER CHOCOLATE</td><td>4 UNIDADES</td><td>142</td></tr><tr><td>BISCOITO RECHEADO DE CHOCOLATE</td><td>2 UNIDADES</td><td>155</td></tr></tbody></table><p>Hoje pela manhã, Eric consumiu um pacote inteiro de biscoito do tipo wafer de chocolate que contém 24 unidades. O número de calorias que ele adquiriu foi de</p>",
+    "options": {
+      "A": "568",
+      "B": "852",
+      "C": "930",
+      "D": "1704"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na tabela, a linha do BISCOITO WAFER CHOCOLATE mostra que uma porção de <b>4 unidades</b> tem <b>142 calorias</b>.</p><p>O pacote de Eric tem 24 unidades. Quantas porções de 4 unidades cabem em 24?</p><p>\\[24 \\div 4 = 6\\]</p><p>São 6 porções, e cada uma tem 142 calorias:</p><p>\\[6 \\cdot 142 = 852\\]</p><p>Conta sem calculadora: \\(6 \\cdot 142 = 6 \\cdot 100 + 6 \\cdot 40 + 6 \\cdot 2 = 600 + 240 + 12 = 852\\).</p><p>Pensando como regra de três: 4 unidades dão 142 calorias; 24 unidades são 6 vezes mais, então as calorias também são 6 vezes mais. Eric consumiu 852 calorias. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É \\(4 \\cdot 142\\): o aluno dividiu 24 por 6 (a porção de outros biscoitos da tabela) e achou 4 porções, ou confundiu as 4 unidades da porção com o número de porções.",
+      "C": "É \\(6 \\cdot 155\\): o número de porções está certo, mas as calorias foram lidas na linha errada (biscoito recheado de chocolate, 155 calorias).",
+      "D": "É \\(12 \\cdot 142\\): o aluno dividiu 24 por 2 (a porção do biscoito recheado) em vez de 4 e contou o dobro de porções."
+    },
+    "tip": "Com tabela de porções, descubra primeiro quantas porções cabem na quantidade pedida e só depois multiplique pelas calorias da linha certa."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura abaixo representa o teclado alfanumérico do telefone celular de Mariana:</p><p><img src=\"img/f2011/mat-q02.png\" alt=\"Teclado de telefone celular com 12 teclas em 4 linhas e 3 colunas. Primeira linha: 1; 2 com as letras ABC; 3 com DEF. Segunda linha: 4 com GHI; 5 com JKL; 6 com MNO. Terceira linha: 7 com PQRS; 8 com TUV; 9 com WXYZ. Quarta linha: asterisco; 0; cerquilha (#).\"></p><p>Cada tecla com os algarismos 2 até 9 compartilha o espaço com as letras do alfabeto, que são utilizadas quando queremos escrever alguma mensagem de texto.</p><p>Para digitar uma letra, pressiona-se seguidamente a tecla correspondente, um número de vezes igual ao de sua posição na tecla. Por exemplo, para digitar a letra <b>K,</b> que ocupa a 2ª posição no grupo <b>JKL</b> da tecla correspondente, deve-se pressionar <b>5</b><sub>JKL</sub> duas vezes.</p><p>Caso se deseje digitar duas letras seguidas que estão numa mesma tecla, deve-se digitar uma, fazer uma pausa, e então digitar a próxima letra.</p><p>Observe o quadro com mais exemplos:</p><table><thead><tr><th>Para digitar...</th><th>Deve-se pressionar...</th></tr></thead><tbody><tr><td><b>A</b></td><td><b>2</b><sub>ABC</sub></td></tr><tr><td><b>S</b></td><td><b>7</b><sub>PQRS</sub> <b>7</b><sub>PQRS</sub> <b>7</b><sub>PQRS</sub> <b>7</b><sub>PQRS</sub></td></tr><tr><td><b>AMO</b></td><td><b>2</b><sub>ABC</sub> <b>6</b><sub>MNO</sub> (fazer uma pausa) <b>6</b><sub>MNO</sub> <b>6</b><sub>MNO</sub> <b>6</b><sub>MNO</sub></td></tr><tr><td><b>DADO</b></td><td><b>3</b><sub>DEF</sub> <b>2</b><sub>ABC</sub> <b>3</b><sub>DEF</sub> <b>6</b><sub>MNO</sub> <b>6</b><sub>MNO</sub> <b>6</b><sub>MNO</sub></td></tr></tbody></table><p>Mariana quer escrever seu nome numa mensagem em seu celular. A seqüência numérica que ela deverá pressionar para escrever seu nome é</p>",
+    "options": {
+      "A": "627777442662",
+      "B": "622774442662",
+      "C": "627774442262",
+      "D": "627774442662"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.logica"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para cada letra de MARIANA, veja em que tecla ela está e qual é a sua posição no grupo. A posição diz quantas vezes a tecla é pressionada:</p><ul><li><b>M</b>: tecla 6 (MNO), 1ª posição: 6</li><li><b>A</b>: tecla 2 (ABC), 1ª posição: 2</li><li><b>R</b>: tecla 7 (PQRS), 3ª posição: 777</li><li><b>I</b>: tecla 4 (GHI), 3ª posição: 444</li><li><b>A</b>: 2</li><li><b>N</b>: tecla 6 (MNO), 2ª posição: 66</li><li><b>A</b>: 2</li></ul><p>As teclas usadas, em ordem, são 6, 2, 7, 4, 2, 6, 2. Nunca há duas letras seguidas na mesma tecla, então não é preciso fazer pausa.</p><p>Juntando os blocos: 6 | 2 | 777 | 444 | 2 | 66 | 2, ou seja, <b>627774442662</b>.</p><p>Todas as alternativas têm 12 algarismos e são muito parecidas, então compare bloco a bloco: só a D tem exatamente essa sequência. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Tem quatro 7 e só dois 4: 7777 é a letra S (4ª posição de PQRS) e 44 é o H. A sequência escreveria MASHANA.",
+      "B": "Começa com 6 22 77, que dá M, B, Q: o A foi pressionado duas vezes (vira B) e o R só duas vezes (vira Q).",
+      "C": "O final 22 6 2 dá B, M, A: trocou o número de toques do A (1 toque) e do N (2 toques). A sequência escreveria MARIBMA."
+    },
+    "tip": "Em problemas de código, traduza letra por letra e depois leia a resposta de volta, separando os blocos, para conferir."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Juliana irá participar de uma corrida de longa distância. Para se preparar para esta prova, seu treinador fez um planejamento para ela correr 198 km durante 27 dias, de acordo com as seguintes etapas:</p><table><tbody><tr><th>1ª etapa</th><td>Na 1ª semana de treinamento, Juliana deverá correr a mesma distância todos os dias.</td></tr><tr><th>2ª etapa</th><td>A cada nova semana, Juliana intensifica seu treinamento, correndo por dia 3 km a mais do que correu por dia na semana anterior.</td></tr></tbody></table><p>Representando por \\(x\\) a distância que deverá ser percorrida, por dia, na 1ª semana de treino, a equação que descreve o planejamento do treinador para a preparação de Juliana é</p>",
+    "options": {
+      "A": "\\(25x + 117 = 198\\)",
+      "B": "\\(27x + 118 = 198\\)",
+      "C": "\\(27x + 117 = 198\\)",
+      "D": "\\(25x + 117 = 198\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro veja como os 27 dias se dividem em semanas: \\(27 = 7 + 7 + 7 + 6\\). São três semanas completas de 7 dias e uma 4ª semana com apenas 6 dias.</p><p>A cada semana, Juliana corre 3 km a mais por dia do que na semana anterior:</p><table><thead><tr><th>Semana</th><th>Dias</th><th>km por dia</th><th>Total da semana</th></tr></thead><tbody><tr><td>1ª</td><td>7</td><td>\\(x\\)</td><td>\\(7x\\)</td></tr><tr><td>2ª</td><td>7</td><td>\\(x + 3\\)</td><td>\\(7x + 21\\)</td></tr><tr><td>3ª</td><td>7</td><td>\\(x + 6\\)</td><td>\\(7x + 42\\)</td></tr><tr><td>4ª</td><td>6</td><td>\\(x + 9\\)</td><td>\\(6x + 54\\)</td></tr></tbody></table><p>Somando as quatro semanas e igualando aos 198 km do planejamento:</p><p>\\[(7x + 7x + 7x + 6x) + (21 + 42 + 54) = 198\\]</p><p>\\[27x + 117 = 198\\]</p><p>Faz sentido o coeficiente ser 27: em cada um dos 27 dias ela corre \\(x\\) km, e a partir da 2ª semana soma-se o acréscimo daquela semana.</p><p>Conferência: \\(27x = 81\\), então \\(x = 3\\). As distâncias diárias seriam 3, 6, 9 e 12 km, e \\(7 \\cdot 3 + 7 \\cdot 6 + 7 \\cdot 9 + 6 \\cdot 12 = 21 + 42 + 63 + 72 = 198\\). Fecha certinho. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O termo com \\(x\\) está errado: como Juliana corre \\(x\\) km (mais o acréscimo) em cada um dos 27 dias, ele tem que ser \\(27x\\), e não \\(25x\\).",
+      "B": "O \\(27x\\) está certo, mas a constante não: os acréscimos somam \\(7 \\cdot 3 + 7 \\cdot 6 + 6 \\cdot 9 = 21 + 42 + 54 = 117\\), e não 118.",
+      "D": "Na tela ela aparece igual à alternativa A, porque no formulário original as duas são a mesma equação (só muda um espaço antes do 117). Pelo mesmo motivo da A, está errada: o coeficiente de \\(x\\) deveria ser 27, um \\(x\\) para cada dia de treino."
+    },
+    "tip": "Quando o total de dias não é múltiplo de 7, separe as semanas completas da semana incompleta antes de montar a equação."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Marília leva seu filho Joel todos os dias para a escola. Ela sai de casa pela rua A e vira à direita na rua C, passando pela padaria até chegar à escola. Ao deixar Joel, Marília retorna para casa pela rua B.</p><p>Observe o desenho do percurso feito por Marília.</p><p><img src=\"img/f2011/mat-q04.png\" alt=\"Desenho de três ruas, com trechos curvos, que formam um triângulo. No canto de cima à esquerda fica a casa; no canto de cima à direita, a padaria; no canto de baixo à direita, a escola de Joel. A rua A liga a casa à padaria (lado de cima), a rua C liga a padaria à escola (lado da direita) e a rua B, inclinada, liga a escola de volta à casa.\"></p><p>Considere as seguintes informações:</p><ul><li>A distância da casa de Marília até a padaria, pela rua A, mede \\(\\boldsymbol{3x}\\) quilômetros.</li><li>A distância da padaria até a escola, pela rua C, mede \\(\\boldsymbol{(x + 2)}\\) quilômetros.</li><li>A distância da escola até a casa, pela rua B, mede \\(\\boldsymbol{x \\cdot (x + 10)}\\) quilômetros.</li></ul><p>Comparando essas três distâncias, Marília percebeu que a distância percorrida, pela rua B, entre a escola e sua casa é igual ao produto das outras duas distâncias.</p><p>Represente a situação descrita acima por uma equação. O valor de \\(x\\) é</p>",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Traduza a frase de Marília: a distância pela rua B é igual ao <b>produto</b> (multiplicação) das distâncias pelas ruas A e C.</p><p>\\[x(x + 10) = 3x(x + 2)\\]</p><p>Aplique a distributiva nos dois lados:</p><p>\\[x^2 + 10x = 3x^2 + 6x\\]</p><p>Passe tudo para o lado direito:</p><p>\\[0 = 3x^2 - x^2 + 6x - 10x \\quad\\Rightarrow\\quad 2x^2 - 4x = 0\\]</p><p>Coloque \\(2x\\) em evidência:</p><p>\\[2x(x - 2) = 0\\]</p><p>Um produto só é zero se um dos fatores for zero: \\(x = 0\\) ou \\(x = 2\\). Com \\(x = 0\\) a rua A mediria \\(3 \\cdot 0 = 0\\) km, o que não faz sentido. Logo \\(x = 2\\).</p><p>Outro caminho, mais curto: como \\(x\\) não é zero, dá para dividir os dois lados de \\(x(x + 10) = 3x(x + 2)\\) por \\(x\\). Fica \\(x + 10 = 3x + 6\\), então \\(4 = 2x\\) e \\(x = 2\\).</p><p>Conferência: rua A \\(= 3 \\cdot 2 = 6\\) km, rua C \\(= 2 + 2 = 4\\) km e rua B \\(= 2 \\cdot (2 + 10) = 24\\) km. De fato, \\(6 \\cdot 4 = 24\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Com \\(x = 4\\), A e C medem 12 e 6 km (produto 72), mas B mede \\(4 \\cdot 14 = 56\\) km. O 4 pode aparecer quando se para em \\(2x = 4\\) sem dividir por 2.",
+      "C": "Com \\(x = 6\\), A e C medem 18 e 8 km (produto 144), mas B mede \\(6 \\cdot 16 = 96\\) km, então a igualdade não vale.",
+      "D": "Com \\(x = 8\\), A e C medem 24 e 10 km (produto 240), mas B mede \\(8 \\cdot 18 = 144\\) km, então a igualdade não vale."
+    },
+    "tip": "Produto é multiplicação; numa equação do tipo \\(ax^2 + bx = 0\\), coloque \\(x\\) em evidência e descarte a raiz que não faz sentido no problema."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O vidro traseiro de um automóvel tem o formato de um trapézio isósceles, com algumas de suas dimensões descritas na figura abaixo:</p><p><img src=\"img/f2011/mat-q05.png\" alt=\"Trapézio isósceles com a base maior embaixo, medindo 150 cm, e a base menor em cima, medindo 100 cm; a altura, marcada à direita, é h. Apoiado na base maior há um semicírculo branco com centro no ponto médio dessa base, e um segmento (o limpador) vai do centro até o arco. O semicírculo fica todo dentro do trapézio, sem encostar nos lados nem na base menor, e as partes do trapézio fora dele estão pintadas de cinza.\"></p><p>O limpador do vidro traseiro, situado no centro da base deste trapézio, possui 50 cm de comprimento e limpa uma região em forma de semicírculo.</p><p>A medida da área da região que pode ser atingida pelo limpador, em centímetros quadrados é de</p><p>(Use \\(\\pi = 3\\))</p>",
+    "options": {
+      "A": "7500",
+      "B": "3500",
+      "C": "3750",
+      "D": "2500"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O limpador está preso no centro da base maior e gira em torno desse ponto. Como ele tem 50 cm, a região limpa é um semicírculo de <b>raio 50 cm</b>.</p><p>A área de um círculo inteiro é \\(\\pi r^2\\). O semicírculo é a metade:</p><p>\\[A = \\frac{\\pi r^2}{2} = \\frac{3 \\cdot 50^2}{2} = \\frac{3 \\cdot 2500}{2} = \\frac{7500}{2} = 3750\\]</p><p>A área atingida pelo limpador é de 3750 cm². Resposta: <b>C</b>.</p><p>Repare que as medidas 150 cm, 100 cm e a altura \\(h\\) do trapézio não entram na conta: elas só mostram o formato do vidro. O que importa é o comprimento do limpador, que é o raio.</p>",
+    "distractors": {
+      "A": "É \\(3 \\cdot 50^2\\), a área do círculo inteiro. Faltou dividir por 2, já que o limpador só varre meio círculo.",
+      "B": "Não sai de nenhum raciocínio correto: é um valor próximo da resposta que pode aparecer por erro de conta, como achar \\(3 \\cdot 2500 = 7000\\) (o certo é 7500) e depois dividir por 2.",
+      "D": "É só \\(50^2\\): o raio foi elevado ao quadrado, mas faltou multiplicar por \\(\\pi = 3\\) e dividir por 2. (Também é a área cinza que sobraria se alguém supusesse altura de 50 cm: o trapézio teria \\((150 + 100) \\cdot 50 \\div 2 = 6250\\) cm², e \\(6250 - 3750 = 2500\\); mas a pergunta é sobre a parte limpa.)"
+    },
+    "tip": "O comprimento de um braço que gira em torno de um ponto é o raio; meia-volta varre metade da área do círculo, ou seja, \\(\\dfrac{\\pi r^2}{2}\\)."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p><b><i>Segurança na utilização de escadas</i></b></p><p><i>Tome sempre todas as precauções contra quedas quando utilizar uma escada de mão a qualquer altura. Para conseguir a máxima segurança e maior facilidade na subida, as normas de segurança recomendam que <b>os pés da escada devam ficar afastados da parede uma distância igual a um quarto da altura que a escada alcançar</b>. Seguindo esta norma, em chão firme e plano, a escada deve ficar estável.</i></p><p class=\"fonte\"><u>Fonte</u>: <u>http://www.comofazer.org/</u></p><p>Uma escada alcança a altura de 1,20 m. Seguindo as normas de segurança recomendadas no texto, em metros, a distância (<b>d</b>) dos pés da escada à parede deverá ser de</p><p><img src=\"img/f2011/mat-q06.png\" alt=\"Desenho esquemático de uma escada encostada numa parede vertical. Ao lado, a altura que a escada alcança na parede está marcada como 1,2 m; no chão, um segmento horizontal que sai da base da parede está marcado com a letra d, a distância entre os pés da escada e a parede.\"></p>",
+    "options": {
+      "A": "0,2 m",
+      "B": "0,3 m",
+      "C": "0,4 m",
+      "D": "0,5 m"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O texto diz que a distância dos pés da escada até a parede deve ser igual a <b>um quarto</b> da altura que a escada alcança.</p><p>A escada alcança 1,20 m, então:</p><p>\\[d = \\frac{1}{4} \\cdot 1{,}20 = \\frac{1{,}20}{4} = 0{,}30\\]</p><p>Sem calculadora: 1,20 m é o mesmo que 120 cm, e \\(120 \\div 4 = 30\\) cm, que é 0,30 m (ou 0,3 m).</p><p>Conferência: \\(4 \\cdot 0{,}3 = 1{,}2\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "0,2 m é um sexto de 1,20 m (\\(1{,}20 \\div 6 = 0{,}2\\)), não um quarto; também aparece quando se pega só a parte decimal de 1,2.",
+      "C": "0,4 m é um terço de 1,20 m (\\(1{,}20 \\div 3 = 0{,}4\\)): a divisão foi feita por 3, e não por 4.",
+      "D": "Quatro vezes 0,5 m dá 2 m, e não 1,2 m; logo 0,5 m não é um quarto da altura (está perto da metade dela, que é 0,6 m)."
+    },
+    "tip": "Um quarto de um valor é esse valor dividido por 4; para dividir decimais, ajuda trocar de unidade (1,20 m = 120 cm)."
+  }
+]

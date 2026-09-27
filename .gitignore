@@ -1,0 +1,5 @@
+node_modules/
+build/
+dist/
+# Original PDFs are not versioned; each data/exams/<id>/meta.json links to the official files.
+sources/

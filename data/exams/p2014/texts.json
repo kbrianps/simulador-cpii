@@ -1,0 +1,124 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto I",
+    "title": "Como as grandes cidades afetam a qualidade de vida",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Uma pesquisa do Instituto de Psiquiatria do Hospital das Clínicas da Faculdade de Medicina da Universidade de",
+      "São Paulo (USP) foi a fundo para saber que tipo de pane as grandes cidades provocam no cérebro de quem habita",
+      "esse cenário. Batizado de São Paulo Megacity<sup>1</sup>, o estudo foi feito com mais de 5 mil moradores da região",
+      "metropolitana da capital paulista. Os resultados revelam: quase 30% dos participantes apresentam transtornos",
+      "psicológicos.",
+      "O trabalho, vencedor do Prêmio SAÚDE 2012 na categoria Saúde Mental e Emocional, é parte de um grande",
+      "levantamento feito em 24 países. E, na opinião da psiquiatra Laura Helena Silveira Guerra de Andrade, responsável",
+      "pelo projeto por aqui, ele serve de modelo – e de alerta – para outros aglomerados com mais de 10 milhões de",
+      "habitantes, incluindo cidades brasileiras que se aproximam dessa dimensão. “Constatamos que, nelas, as mulheres",
+      "têm mais distúrbios de ansiedade e humor, enquanto homens ficam propensos a problemas de controle de impulso",
+      "e abuso de drogas”, resume a médica.",
+      "A vulnerabilidade<sup>2</sup> feminina tem explicação sobretudo em dois fatores. Um deles, aponta Wang Yuan Pang,",
+      "psiquiatra integrante do SP Megacity, está na oscilação hormonal. O outro, no excesso de responsabilidade.",
+      "O perrengue<sup>3</sup> com as contas no fim do mês engrossa a lista de responsáveis pela fragilidade mental. “Quando o",
+      "desemprego é alto, sem renda para o sustento familiar, o risco de compensar a angústia no álcool e nas substâncias",
+      "ilícitas se amplia”, explica Pang. “Além disso, muita gente vive em áreas de privação, com infraestrutura precária e",
+      "graves problemas de marginalização, o que também contribui para esse quadro”, acrescenta."
+    ],
+    "para_starts": [
+      1,
+      6,
+      12,
+      14
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Disponível em http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/como-grandes-cidades-afetam-qualidade-vida-735567.shtml. Acesso em 25/09/2014. Fragmento.",
+    "glossary": [
+      {
+        "term": "Megacity",
+        "def": "metrópole, cidade grande."
+      },
+      {
+        "term": "vulnerabilidade",
+        "def": "qualidade ou estado do que é ou se encontra vulnerável, frágil, prejudicado."
+      },
+      {
+        "term": "perrengue",
+        "def": "situação complicada, difícil de ser resolvida."
+      }
+    ],
+    "epigraph": "“A cidade não é um lugar. É a moldura de uma vida.” (Mia Couto)"
+  },
+  {
+    "id": "T2",
+    "label": "Texto II",
+    "title": "Para comer depois",
+    "subtitle": null,
+    "author": "Adélia Prado",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Na minha cidade, nos domingos de tarde,",
+      "as pessoas se põem na sombra com faca e laranjas.",
+      "Tomam a fresca<sup>1</sup> e riem do rapaz de bicicleta,",
+      "a campainha desatada, o aro enfeitado de laranjas:",
+      "‘Eh bobagem!’",
+      "Daqui a muito progresso tecno-ilógico,",
+      "quando for impossível detectar o domingo",
+      "pelo sumo das laranjas no ar e bicicletas,",
+      "em meu país de memória e sentimento,",
+      "basta fechar os olhos:",
+      "é domingo, é domingo, é domingo."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      5
+    ],
+    "images": [],
+    "source": "Disponível em http://errancia.wordpress.com/2006/03/06/para-comer-depois/",
+    "glossary": [
+      {
+        "term": "tomar a fresca",
+        "def": "refrescar-se ao ar livre nos dias mais quentes."
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto III",
+    "title": "Tarde de sábado",
+    "subtitle": null,
+    "author": "Cecília Meireles",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "A tardezinha de sábado, um pouco cinzenta, um pouco fria, parece não possuir nada de muito particular para",
+      "ninguém. Os automóveis deslizam; as pessoas entram e saem dos cinemas; os namorados conversam por aqui e por",
+      "ali; os bares funcionam ativamente, numa fabulosa produção de sanduíches e cachorros-quentes. Apesar da",
+      "fresquidão, as mocinhas trazem nos pés sandálias douradas, enquanto agasalham a cabeça em echarpes de muitas",
+      "voltas.",
+      "Tudo isso é rotina. Há um certo ar de monotonia por toda parte. O bondinho do Pão de Açúcar lá vai",
+      "cumprindo o seu destino turístico, e moços bem falantes explicam, de lápis na mão, em seus escritórios coloridos e",
+      "envidraçados, apartamentos que vão ser construídos em poucos meses, com tantos andares, vista para todos os",
+      "lados, vestíbulos de mármore, tanto de entrada, mais tantas prestações, sem reajustamento – o melhor emprego",
+      "de capital jamais oferecido! (...)",
+      "Andam barquinhos pela baía, com um raio de sol a brilhar nas velas; há uns pescadores carregados de linhas,",
+      "samburás, caniços, muito compenetrados da sua perícia; há famílias inteiras que não se sabe de onde vêm nem se",
+      "pode imaginar para onde vão, e que ocupam muito lugar na calçada, com a boca cheia de coisas que devem ser",
+      "balas, caramelos, pipocas, que passam de uma bochecha para a outra e lhes devem causar uma delícia infinita."
+    ],
+    "para_starts": [
+      1,
+      6,
+      11
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto extraído do livro <i>Escolha o seu sonho</i>. Rio de Janeiro: Editora Record, 2002. Fragmento.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

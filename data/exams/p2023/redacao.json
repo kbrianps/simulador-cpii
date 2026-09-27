@@ -1,0 +1,31 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "Combate ao racismo: como construir uma convivência antirracista?",
+  "prompt_html": "<p>Os textos da prova de Língua Portuguesa servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto <b>dissertativo-argumentativo</b> que manifeste seu ponto de vista a respeito da seguinte questão:</p><p class=\"tema\"><b><i>Combate ao racismo: como construir uma convivência antirracista?</i></b></p>",
+  "requirements": [
+    "evitar cópia integral ou parcial de fragmentos dos textos da prova",
+    "conter obrigatoriamente argumentos que sustentem suas opiniões",
+    "ter entre 20 e 25 linhas",
+    "apresentar letra legível e não conter rasuras",
+    "ter, no mínimo, três parágrafos",
+    "estar de acordo com a norma-padrão para a modalidade escrita",
+    "ser em prosa",
+    "estar de acordo com a proposta apresentada",
+    "ser transcrito no local indicado na FOLHA DE TEXTOS DEFINITIVOS"
+  ],
+  "zero_criteria": [
+    "folha completamente em branco",
+    "número insuficiente de linhas (9 linhas ou menos)",
+    "letra ilegível",
+    "fuga ao tema",
+    "fuga ao tipo textual (ausência de qualquer indício de opinião)",
+    "palavras de baixo calão e/ou comentários ofensivos ou que desrespeitem os direitos humanos"
+  ],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem sob o título “IMPORTANTE:”, introduzida por “Seu texto deverá:”.",
+    "Os critérios de nota zero vêm sob o título “OBSERVAÇÃO FINAL:”, introduzidos por “A nota ZERO será atribuída às redações que apresentarem alguma das seguintes características:”.",
+    "A prova termina com o aviso, em negrito: “É importante lembrar de NÃO COLOCAR SEU NOME em nenhum lugar da Redação, para que ela não seja anulada.”"
+  ]
+}

@@ -1,0 +1,296 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No poema, predomina o uso do pretérito imperfeito do indicativo, como se observa nas seguintes estrofes:</p><blockquote><p><i>Não se usava quadro-negro.<br>As contas se faziam<br>em pequenas lousas<br>individuais.</i></p><p><i>Não havia chamada<br>e sim o ritual<br>de entradas, compassadas.<br>“— Bença, Mestra...”</i></p></blockquote><p>A utilização desse tempo verbal é recorrente porque, no texto, são narradas</p>",
+    "options": {
+      "A": "experiências do passado, alternadas com perspectivas de futuro.",
+      "B": "situações vivenciadas na escola do passado e na do presente, simultaneamente.",
+      "C": "experiências comuns na escola do passado, em comparação com a do presente.",
+      "D": "situações vivenciadas na escola no passado, com o desejo de que se repitam no futuro."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pretérito imperfeito do indicativo (usava, faziam, havia, sentava, lia) indica ações <b>habituais</b> no passado, aquilo que costumava acontecer todos os dias. É o tempo ideal para descrever a rotina de uma escola antiga, como faz a autora, que abre o poema com “Minha escola primária...”.</p><p>Repare agora nas negações: “Nem recreio, nem exames. / Nem notas, nem férias. / Sem cânticos, sem merenda...”, “Não se usava quadro-negro”, “Não havia chamada”. Por que citar o que <i>não</i> existia? Porque recreio, provas, notas, merenda, quadro-negro e chamada são coisas comuns na escola de hoje. Ao apontar o que faltava, o poema compara, mesmo sem dizer isso diretamente, a escola do passado com a do presente.</p><p>O poema narra, portanto, experiências comuns (habituais) da escola antiga, em comparação com a atual. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O poema não fala do futuro: os verbos descrevem o que acontecia antigamente (usava, havia, sentava), e não há planos nem perspectivas para depois.",
+      "B": "A escola de hoje só aparece de forma indireta, pela comparação. O que é narrado são situações da escola antiga, e não duas escolas vividas ao mesmo tempo.",
+      "D": "A autora não mostra desejo de que aquilo volte: ela corrige a própria lembrança para citar os “bolos de palmatória” e descreve uma escola rígida, sem recreio nem brincadeira."
+    },
+    "tip": "O pretérito imperfeito (usava, havia, fazia) expressa ações habituais do passado; é o tempo típico das lembranças e das descrições de rotina."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No poema, são frequentes versos curtos e formados por frases nominais. Na última estrofe, esse recurso é intensificado para</p>",
+    "options": {
+      "A": "concretizar as conversas dos alunos.",
+      "B": "enfatizar a rotina rígida da escola.",
+      "C": "mostrar a agitação dos alunos.",
+      "D": "listar os objetos da escola."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Frase nominal é a frase <b>sem verbo</b>, como “Banco dos meninos.” ou “Muito respeito.”. Na última estrofe, esse recurso aparece em sequência, misturado a frases curtíssimas com verbo: “Banco dos meninos. / Banco das meninas. / Tudo muito sério. / Não se brincava. / Muito respeito. / Leitura alta. / Soletrava-se.”</p><p>O efeito é o de uma lista seca, de ritmo marcado e repetitivo, como se a autora anotasse as regras e as tarefas de todos os dias: meninos separados das meninas, seriedade, nada de brincadeira, respeito, leitura em voz alta, soletração, lição e tabuada cantada em coro. Esse ritmo imita a rotina <b>rígida</b> e sempre igual daquela escola.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Os alunos não conversam na estrofe: eles leem em voz alta, soletram e cantam a tabuada em coro, tudo de forma controlada. Não há diálogo entre eles.",
+      "C": "É o contrário: “Tudo muito sério.” e “Não se brincava.” mostram alunos quietos e disciplinados, sem nenhuma agitação.",
+      "D": "Aparecem poucos objetos (os bancos, a palmatória); a maior parte dos versos fala de comportamentos e atividades. A enumeração não é um inventário, e sim um modo de mostrar a rigidez da rotina."
+    },
+    "tip": "Quando um poema acumula frases curtas e sem verbo, pergunte que efeito esse ritmo cria: aqui, a secura das frases imita a disciplina da escola."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A frase do Texto 2 que apresenta um exemplo de <u>antítese</u> é</p>",
+    "options": {
+      "A": "“Minha percepção é que criança é livre, inteira e intensa.” (linha 1)",
+      "B": "“Brincar, aprender, correr, subir na árvore, tudo é uma coisa só.” (linhas 2-3)",
+      "C": "“Não tem rico nem pobre, branco nem preto, noite nem dia.” (linhas 7-8)",
+      "D": "“É educada para ser senhor da natureza, das coisas.” (linha 12)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Antítese</b> é a figura de linguagem que aproxima palavras ou ideias de sentidos <b>opostos</b>, como “amor e ódio” ou “luz e sombra”.</p><p>Na alternativa C, o entrevistado junta três pares de opostos: rico e pobre, branco e preto, noite e dia (linhas 7-8). Ele usa esses contrastes justamente para dizer que, quando se olha o mundo como um conjunto, essas divisões deixam de existir.</p><p>Nas outras frases não há oposição: em A e B, as palavras se somam numa enumeração (qualidades da criança e atividades que ela faz); em D, “das coisas” apenas amplia “da natureza”, reforçando a mesma ideia de domínio.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "As palavras “livre, inteira e intensa” são três qualidades que se somam para descrever a criança; nenhuma se opõe às outras. É uma enumeração, não uma antítese.",
+      "B": "A frase lista atividades (brincar, aprender, correr, subir na árvore) que, para o autor, formam “uma coisa só”. A ideia é de união, e não de oposição.",
+      "D": "“Natureza” e “coisas” não são opostas: o segundo termo apenas amplia o primeiro, reforçando que a criança é educada para dominar tudo."
+    },
+    "tip": "Para achar uma antítese, procure na mesma frase pares de palavras de sentido contrário, como rico e pobre ou noite e dia."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Releia o fragmento a seguir: <i>Tudo é uma coisa só e <u>você</u> faz parte da natureza</i> (linha 8).</p><p>Considerando o contexto da entrevista, o pronome “você” empregado no trecho destacado refere-se</p>",
+    "options": {
+      "A": "ao entrevistador.",
+      "B": "às pessoas em geral.",
+      "C": "aos leitores da entrevista.",
+      "D": "a um interlocutor específico."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe como o entrevistado fala ao longo da resposta: “<b>A gente</b> precisa voltar para a nossa origem” (linhas 5-6), “Quando <b>a gente</b> trata as coisas como um conjunto” (linhas 6-7). Ele não fala de uma pessoa específica, e sim de todos nós, dos seres humanos em geral.</p><p>O “você” da linha 8 segue o mesmo caminho: “Tudo é uma coisa só e você faz parte da natureza”. Aqui “você” não se dirige ao entrevistador nem ao leitor; tem sentido <b>genérico</b>, igual a “qualquer pessoa” ou “a gente”. Faça o teste da troca: “Tudo é uma coisa só e <b>todo mundo</b> faz parte da natureza”. O sentido se mantém.</p><p>Esse “você” genérico é muito comum na fala do dia a dia, e a entrevista tem outras marcas de oralidade, como o “né” (linha 11).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Embora a entrevista tenha um entrevistador, a afirmação não é sobre ele: fazer parte da natureza vale para qualquer pessoa, não só para quem fez a pergunta.",
+      "C": "Os leitores também fazem parte da natureza, mas a frase não se dirige só a eles; o “você” generaliza a ideia para todos os seres humanos.",
+      "D": "É o oposto do que acontece: o “você” não aponta para ninguém em particular, tem valor genérico, como “a gente”."
+    },
+    "tip": "Nem todo “você” se dirige a alguém: na fala, ele pode ter sentido genérico, equivalente a “a gente” ou “qualquer pessoa”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia a seguinte frase do Texto 3 (linhas 7-8):</p><blockquote><i>Ensinar o voo, isso elas não podem fazer, porque o voo já nasce dentro dos pássaros.</i></blockquote><p>Analisando o sentido que as palavras “voo” e “pássaros” assumem ao longo do texto, conclui-se que elas representam, respectivamente,</p>",
+    "options": {
+      "A": "raciocínio lógico e professores.",
+      "B": "experiências e professores.",
+      "C": "autonomia e estudantes.",
+      "D": "deveres e estudantes."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O texto é todo construído com <b>metáforas</b>: as escolas são “gaiolas” ou “asas” (linha 1). E quem fica preso na gaiola ou é levado a voar pelas asas? Os pássaros. Como quem frequenta a escola são os alunos, os <b>pássaros</b> representam os <b>estudantes</b>.</p><p>E o voo? As escolas-gaiola deixam os pássaros “sob controle” (linha 3) e existem para que eles “desaprendam a arte do voo” (linha 2). Então o voo é o contrário do controle: é a liberdade de ir por conta própria. Além disso, “o voo já nasce dentro dos pássaros” (linha 8) e “Só pode ser encorajado” (linha 9): é uma capacidade do próprio aluno, que a escola não ensina, apenas estimula. Essa capacidade de pensar e agir por si mesmo se chama <b>autonomia</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Os pássaros não são os professores: quem encoraja o voo são as escolas. E o voo não é “raciocínio lógico”, e sim a liberdade que o controle da gaiola destrói.",
+      "B": "Os pássaros são quem frequenta a escola-gaiola ou a escola-asa, isto é, os estudantes, e não os professores. Além disso, “experiências” não traduz a ideia de liberdade, oposta ao controle, que o voo representa.",
+      "D": "Os pássaros são mesmo os estudantes, mas o voo não pode ser “deveres”: dever é algo imposto de fora, e o texto diz que o voo nasce dentro do pássaro e é justamente o que a gaiola, que controla, faz desaprender."
+    },
+    "tip": "Em textos metafóricos, descubra o que cada imagem representa observando aquilo a que ela se opõe: voo contra gaiola, liberdade contra controle."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia a seguinte frase do Texto 3 (linhas 8-9):</p><blockquote><i>O voo não pode ser ensinado.</i></blockquote><p>Nela, o agente da ação de “ensinar” não está expresso, indicando que essa informação é secundária.</p><p>Considerando o sentido do texto, assinale, entre as alternativas, aquela que dá o maior destaque ao agente da ação de “ensinar”.</p>",
+    "options": {
+      "A": "O voo não pode ser ensinado pelas escolas.",
+      "B": "As escolas não poderão mais ensinar o voo.",
+      "C": "O voo não poderá ser ensinado nas gaiolas.",
+      "D": "As escolas não podem ensinar o voo."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A frase “O voo não pode ser ensinado” está na <b>voz passiva</b> e não diz <b>quem</b> ensina: o agente foi omitido. Pelo texto, sabemos que esse agente seriam as escolas: “Ensinar o voo, isso elas não podem fazer” (linhas 7-8).</p><p>O agente ganha mais destaque quando se torna o <b>sujeito</b> da oração, na voz ativa, logo no começo da frase: “<b>As escolas</b> não podem ensinar o voo.” Essa versão também mantém o tempo verbal (“pode” e “podem” estão no presente) e, portanto, o sentido do texto.</p><p>Em A, o agente aparece, mas como agente da passiva (“pelas escolas”), no fim da frase, em posição secundária; quem continua em primeiro plano é “o voo”. Em B, as escolas são sujeito, mas “não poderão mais” muda o sentido do texto.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O agente foi expresso (“pelas escolas”), mas como agente da passiva, no fim da frase; o destaque continua com “o voo”, que é o sujeito.",
+      "B": "Coloca as escolas como sujeito, mas “não poderão mais” sugere que hoje elas conseguem ensinar o voo e vão deixar de conseguir. Para o texto, o voo nunca pôde ser ensinado, pois “já nasce dentro dos pássaros”.",
+      "C": "Continua na voz passiva sem agente: “nas gaiolas” indica lugar, e não quem ensina. O futuro “poderá” também altera o sentido."
+    },
+    "tip": "Na voz ativa, o agente é o sujeito e costuma abrir a frase; na passiva, ele vira agente da passiva (introduzido por “por”, “pelo”, “pela”) ou simplesmente some."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>No segundo parágrafo do Texto 3, o autor faz a seguinte afirmação (linhas 3-4):</p><blockquote><i>Engaiolados, o seu dono pode levá-los para onde quiser.</i></blockquote><p>Mantendo o sentido do texto, é possível reescrever essa frase do seguinte modo:</p>",
+    "options": {
+      "A": "Já que estão engaiolados, o seu dono pode levá-los para onde quiser.",
+      "B": "Para que sejam engaiolados, o seu dono pode levá-los para onde quiser.",
+      "C": "Embora estejam engaiolados, o seu dono pode levá-los para onde quiser.",
+      "D": "A menos que estejam engaiolados, o seu dono pode levá-los para onde quiser."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A palavra “Engaiolados”, sozinha no início da frase, forma uma oração reduzida de particípio. Para descobrir que relação ela estabelece, pense no sentido: por que o dono pode levar os pássaros para onde quiser? <b>Porque</b> eles estão engaiolados, “sob controle” (linha 3). A gaiola é a <b>causa</b> desse poder do dono.</p><p>Precisamos, então, de um conectivo de causa. “Já que” tem esse valor (como “uma vez que” e “visto que”): “Já que estão engaiolados, o seu dono pode levá-los para onde quiser.”</p><p>Observação: no texto está impresso “levá-las” (linha 3), mas a forma que concorda com “pássaros” (masculino) é “levá-los”, como aparece na questão.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Para que” indica finalidade: a frase passaria a dizer que o dono leva os pássaros a algum lugar com o objetivo de engaiolá-los, o que o texto não afirma.",
+      "C": "“Embora” indica concessão, uma ideia de contraste (“apesar de estarem presos”). Mas não há contraste: estar na gaiola é justamente o que permite ao dono levá-los.",
+      "D": "“A menos que” indica uma condição de exceção: o dono poderia levá-los para onde quisesse, exceto se estivessem engaiolados. É o contrário do sentido original."
+    },
+    "tip": "Ao reescrever uma oração reduzida, descubra primeiro a relação lógica (causa, finalidade, concessão, condição) e só depois escolha o conectivo que a expressa."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2",
+      "T3"
+    ],
+    "stem": "<p>No Texto 3, o autor diz que há escolas que são gaiolas. A citação, extraída do Texto 2, que confirma essa ideia é</p>",
+    "options": {
+      "A": "“Quando ela entra na escola, entra numa forma, que é a chamada formação.” (linhas 1-2)",
+      "B": "“Brincar, aprender, correr, subir na árvore, tudo é uma coisa só.” (linhas 2-3)",
+      "C": "“A gente precisa voltar para a nossa origem de aprender as coisas não divididas.” (linhas 5-6)",
+      "D": "“Quando a gente trata as coisas como um conjunto, a gente toma conta, cuida.” (linhas 6-7)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No Texto 3, as escolas-gaiola são as que prendem e controlam: nelas os pássaros ficam “sob controle” (linha 3) e desaprendem “a arte do voo” (linha 2). Precisamos achar, no Texto 2, uma frase que também mostre a escola limitando, prendendo a criança.</p><p>Em A, Munduruku diz que, ao entrar na escola, a criança “entra numa <b>forma</b>, que é a chamada formação” (linha 2). Ele brinca com as palavras “forma” e “formação”: aqui, “forma” tem o sentido de fôrma, isto é, um molde que aperta e impõe à criança um formato, assim como a gaiola prende o pássaro. A ideia fica ainda mais clara adiante, quando ele afirma: “A escola aprisiona o pensamento” (linha 8).</p><p>As outras frases falam da criança livre ou de um jeito melhor de aprender, e não da escola que prende.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A frase descreve a criança antes da escola, que vive os saberes de forma integral e livre; ela lembra mais o pássaro em voo do que a gaiola.",
+      "C": "É uma proposta de solução (voltar a aprender as coisas sem divisões), e não a descrição da escola que aprisiona.",
+      "D": "Mostra o lado positivo de enxergar o mundo como um conjunto (cuidar, tomar conta); não fala da escola que controla os alunos."
+    },
+    "tip": "Para relacionar dois textos, resuma a ideia do primeiro (escola-gaiola é a escola que prende) e procure no segundo a frase com o mesmo sentido, ainda que use outra imagem."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>No último quadrinho do Texto 4, Calvin conclui que</p>",
+    "options": {
+      "A": "precisa estudar mais, pois não tem conhecimento de assuntos úteis para sua vida.",
+      "B": "tem conhecimentos específicos, mas que não interessam ao contexto escolar.",
+      "C": "é um garoto inteligente, pois domina todos os conhecimentos com facilidade.",
+      "D": "domina muitos assuntos, mas ainda assim se considera burro na escola."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Reconstrua a história: a professora pergunta quem foi o primeiro presidente, um conteúdo escolar. Calvin não sabe, mas conta, todo animado, que conhece “a origem secreta de cada super-herói” de uma liga de heróis (quadro 2). Resultado: fica de castigo depois da aula (quadro 3).</p><p>No último quadrinho, ele se defende: “Eu não sou burro. É que o conhecimento que eu domino não tem uma utilização prática.” Ou seja, ele sabe muita coisa, mas coisas muito específicas (histórias de super-heróis), que não servem para responder às perguntas da escola. É o que diz a alternativa <b>B</b>.</p><p>O humor está justamente aí: em vez de admitir que não sabe a matéria, Calvin transforma a falha numa justificativa a seu favor.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calvin não conclui que precisa estudar mais. Pelo contrário, ele se defende (“Eu não sou burro”) e põe a culpa no tipo de conhecimento que domina, e não na falta de estudo.",
+      "C": "Ele não diz que domina todos os conhecimentos: acabou de mostrar que não sabe quem foi o primeiro presidente. Seu saber se limita aos super-heróis.",
+      "D": "Contradiz a fala de Calvin, que começa justamente com “Eu não sou burro”; ele não se considera burro."
+    },
+    "tip": "Em tirinhas, a conclusão costuma estar no último quadro: leia a fala final à luz do que aconteceu antes (pergunta, resposta e castigo)."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2",
+      "T3",
+      "T4"
+    ],
+    "stem": "<p>No Texto 3, Rubem Alves estabelece, de modo poético, a diferença entre as escolas consideradas tradicionais e aquelas que apresentam propostas mais inovadoras.</p><p>Relacionando o texto 3 aos demais textos da prova, pode-se afirmar que</p>",
+    "options": {
+      "A": "no Texto 1, os alunos se comportam como pássaros em voo.",
+      "B": "no Texto 2, o entrevistado critica as escolas que são asas.",
+      "C": "nos Textos 1 e 4, a escola estimula nos alunos a vontade de voar mais alto.",
+      "D": "no Texto 4, o personagem Calvin se sente como um pássaro engaiolado."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.semantica.figuras",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, lembre o que cada imagem do Texto 3 representa: a escola-gaiola prende e controla; a escola-asa encoraja o aluno a “voar”, isto é, a ter autonomia.</p><p>No Texto 4, Calvin tem um saber próprio (a origem dos super-heróis), mas a escola só valoriza a resposta esperada. Como não responde à pergunta e fala do assunto que lhe interessa, ele é punido: “Você fica depois da aula, Calvin.” Ficar retido na escola é quase ficar preso, e no último quadro ele aparece desanimado, com o rosto apoiado na mão. Calvin se sente como um <b>pássaro engaiolado</b>.</p><p>As outras alternativas não combinam com os textos: no Texto 1, a escola é rígida (“Tudo muito sério. / Não se brincava.”), e no Texto 2 o entrevistado critica a escola que “aprisiona o pensamento” (linha 8), ou seja, a escola-gaiola. Por fim, nos Textos 1 e 4 a escola reprime os alunos em vez de estimulá-los a voar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "No Texto 1, os alunos vivem sob regras rígidas e castigos (“Não se brincava.”, “bolos de palmatória”); parecem pássaros engaiolados, não em voo.",
+      "B": "O entrevistado critica a escola que “entorta o pensamento da criança” (linha 5) e “aprisiona o pensamento” (linha 8), isto é, a escola-gaiola, e não a escola-asa.",
+      "C": "Nos dois textos, a escola reprime em vez de estimular: há palmatória e silêncio no Texto 1 e castigo para Calvin no Texto 4."
+    },
+    "tip": "Em questões que relacionam vários textos, teste cada alternativa voltando ao texto citado: basta um detalhe contrário para eliminá-la."
+  }
+]

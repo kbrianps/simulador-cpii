@@ -1,0 +1,271 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A diabetes é uma doença silenciosa que ataca milhões de pessoas ao redor do mundo. Existem dois tipos de diabetes, sendo o tipo 2 o de maior incidência.</p><p>Observe o infográfico:</p><p><img src=\"img/p2017m/mat-q11.png\" alt=\"Infográfico em tons de cinza com o título DIABETES EM NÚMEROS, dividido em quatro blocos. Bloco 1 (ícone de uma pessoa e uma seta apontando para seis pessoas): “Atinge mais de 380 milhões de pessoas no mundo, sendo 12 milhões apenas no Brasil”. Bloco 2 (ícone de uma gota de sangue e células): “Estima-se que até 2035 592 milhões de pessoas tenham a doença”. Bloco 3: “179 milhões de pessoas com diabetes ainda não diagnosticaram a doença e correm o risco de desenvolver maiores complicações com maiores custos, sendo 3,2 milhões de casos no Brasil”, ao lado do ícone de uma pessoa ligada a uma bolsa de soro. Bloco 4 (ícones de gotas e um gráfico de rosca): “62% dos brasileiros têm, pelo menos, um fator de risco para o desenvolvimento do diabetes e 45% das pessoas desconhecem as mais simples práticas de controle do pré-diabetes e diabetes”.\"></p><p class=\"fonte\">Fonte: http://www.farmaciadiabetes.com.br/programa-diabetes-controlada/. Acesso em 22/07/2017.</p><p>De acordo com o infográfico, o percentual de pessoas no mundo que são portadoras da diabetes e já tiveram a doença diagnosticada é de, aproximadamente,</p>",
+    "options": {
+      "A": "41%.",
+      "B": "47%.",
+      "C": "53%.",
+      "D": "64%."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O infográfico informa que há mais de 380 milhões de pessoas com diabetes no mundo e que 179 milhões delas <b>ainda não</b> diagnosticaram a doença.</p><p><b>1º passo:</b> quem já tem o diagnóstico é o total menos os não diagnosticados:</p><p>\\[380 - 179 = 201 \\text{ milhões}\\]</p><p><b>2º passo:</b> escrever essa parte como porcentagem do total:</p><p>\\[\\frac{201}{380} \\approx 0{,}53 = 53\\%\\]</p><p>Sem calculadora: metade de 380 é 190 e 1% de 380 é 3,8. Como \\(201 - 190 = 11\\), que é quase \\(3 \\times 3{,}8\\), a porcentagem fica perto de \\(50\\% + 3\\% = 53\\%\\). Conferindo: \\(0{,}53 \\times 380 = 201{,}4\\), bem perto de 201.</p><p>Os números do Brasil (12 milhões e 3,2 milhões) e a previsão para 2035 (592 milhões) não entram na conta, porque a pergunta é sobre o mundo hoje.</p><p>Resposta: <b>(C) 53%</b>.</p>",
+    "distractors": {
+      "A": "41% não corresponde a nenhuma conta natural com os números do infográfico. Além disso, como 179 é menos da metade de 380, os diagnosticados são mais da metade do total, então qualquer valor abaixo de 50% já está descartado.",
+      "B": "47% é \\(\\dfrac{179}{380}\\), a porcentagem dos que <b>ainda não</b> foram diagnosticados. É o complemento da resposta: \\(47\\% + 53\\% = 100\\%\\).",
+      "D": "64% é \\(\\dfrac{380}{592}\\): compara o número atual de doentes com a previsão para 2035, o que não tem relação com o diagnóstico."
+    },
+    "tip": "Se o dado fala de quem NÃO tem a característica pedida, subtraia do total antes de calcular a porcentagem."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Tânia comprou uma caixa de bombons. Ela comeu um e deu um terço do restante para sua neta. No dia seguinte, comeu mais um e percebeu que restaram apenas 5 bombons na caixa.</p><p>O número de bombons inicialmente contidos na caixa fechada era de</p>",
+    "options": {
+      "A": "19.",
+      "B": "16.",
+      "C": "13.",
+      "D": "10."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(n\\) o número inicial de bombons e acompanhe o que acontece com a caixa:</p><ul><li>Tânia come 1: sobram \\(n - 1\\).</li><li>Dá um terço do restante para a neta: ficam dois terços do restante, isto é, \\(\\dfrac{2}{3}(n - 1)\\).</li><li>No dia seguinte come mais 1: sobram \\(\\dfrac{2}{3}(n - 1) - 1\\).</li></ul><p>Como restaram 5 bombons:</p><p>\\[\\frac{2}{3}(n - 1) - 1 = 5 \\;\\Rightarrow\\; \\frac{2}{3}(n - 1) = 6 \\;\\Rightarrow\\; n - 1 = 9 \\;\\Rightarrow\\; n = 10\\]</p><p>Outro jeito, de trás para frente: antes de comer o último bombom havia \\(5 + 1 = 6\\). Esses 6 são os dois terços que ficaram depois do presente, então cada terço vale 3 e o restante era \\(3 \\times 3 = 9\\). Somando o primeiro bombom comido: \\(9 + 1 = 10\\).</p><p>Conferindo: \\(10 - 1 = 9\\); a neta recebe 3; ficam 6; Tânia come 1; restam 5. Resposta: <b>(D) 10</b>.</p>",
+    "distractors": {
+      "A": "Quem faz \\(5 + 1 = 6\\) e trata esses 6 como um terço do restante (\\(6 \\times 3 = 18\\), mais 1, dá 19) confunde a parte que ficou (dois terços) com a parte dada à neta.",
+      "B": "Sai de \\(5 \\times 3 + 1 = 16\\): esquece o bombom comido no segundo dia e usa o terço de forma errada. Teste: \\(16 - 1 = 15\\), a neta leva 5, ficam 10 e depois 9, não 5.",
+      "C": "Sai de dobrar 6 (\\(6 \\times 2 = 12\\), mais 1, dá 13), como se a neta tivesse recebido metade do restante, e não um terço. Teste: \\(13 - 1 = 12\\), a neta leva 4, ficam 8 e depois 7, não 5."
+    },
+    "tip": "Em problemas do tipo “no fim sobrou tanto”, desfaça os passos de trás para frente e confira refazendo a história com o número encontrado."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe atentamente a sequência de equações do 2º grau a seguir, nas quais os coeficientes \\(b\\) e \\(c\\) variam de acordo com um padrão:</p><p>\\[\\begin{array}{rl} \\text{I.} & x^2 - 1x - 2 = 0 \\\\ \\text{II.} & x^2 + 0x - 1 = 0 \\\\ \\text{III.} & x^2 + 1x + 0 = 0 \\\\ \\text{IV.} & x^2 + 2x + 1 = 0 \\\\ & \\text{. . . . . . . . . . . . . .} \\end{array}\\]</p><p>As raízes da oitava equação dessa sequência são</p>",
+    "options": {
+      "A": "\\(1\\) e \\(5\\).",
+      "B": "\\(-1\\) e \\(-5\\).",
+      "C": "\\(2\\) e \\(3\\).",
+      "D": "\\(-2\\) e \\(-3\\)."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare os coeficientes de uma equação para a seguinte:</p><ul><li>\\(b\\): \\(-1,\\ 0,\\ 1,\\ 2,\\ \\ldots\\) (aumenta 1 a cada equação);</li><li>\\(c\\): \\(-2,\\ -1,\\ 0,\\ 1,\\ \\ldots\\) (também aumenta 1 a cada equação).</li></ul><p>Continuando o padrão até a oitava equação:</p><ul><li>V: \\(x^2 + 3x + 2 = 0\\)</li><li>VI: \\(x^2 + 4x + 3 = 0\\)</li><li>VII: \\(x^2 + 5x + 4 = 0\\)</li><li>VIII: \\(x^2 + 6x + 5 = 0\\)</li></ul><p>Para resolver \\(x^2 + 6x + 5 = 0\\), procure dois números com soma \\(-6\\) e produto \\(5\\): são \\(-1\\) e \\(-5\\). Assim, \\((x + 1)(x + 5) = 0\\), e as raízes são \\(x = -1\\) e \\(x = -5\\).</p><p>Pela fórmula de Bhaskara dá o mesmo: \\(\\Delta = 6^2 - 4 \\cdot 1 \\cdot 5 = 16\\) e \\(x = \\dfrac{-6 \\pm 4}{2}\\), ou seja, \\(x = -1\\) ou \\(x = -5\\).</p><p>Conferindo:</p><ul><li>\\((-1)^2 + 6 \\cdot (-1) + 5 = 1 - 6 + 5 = 0\\);</li><li>\\((-5)^2 + 6 \\cdot (-5) + 5 = 25 - 30 + 5 = 0\\).</li></ul><p>Curiosidade: em todas as equações da lista vale \\(c = b - 1\\), por isso \\(-1\\) é sempre uma das raízes.</p><p>Resposta: <b>(B) \\(-1\\) e \\(-5\\)</b>.</p>",
+    "distractors": {
+      "A": "1 e 5 são as raízes de \\(x^2 - 6x + 5 = 0\\). É um erro de sinal: a soma das raízes é \\(-b = -6\\), e não \\(+6\\). Teste: \\(1^2 + 6 \\cdot 1 + 5 = 12 \\neq 0\\).",
+      "C": "2 e 3 são as raízes de \\(x^2 - 5x + 6 = 0\\): troca os papéis de \\(b\\) e \\(c\\) (soma 5 e produto 6) e ainda erra o sinal da soma.",
+      "D": "\\(-2\\) e \\(-3\\) são as raízes de \\(x^2 + 5x + 6 = 0\\): quem troca \\(b\\) com \\(c\\) chega aqui. Na oitava equação, \\(b = 6\\) e \\(c = 5\\)."
+    },
+    "tip": "Em \\(x^2 + bx + c = 0\\), as raízes somam \\(-b\\) e têm produto \\(c\\): use isso para achar ou conferir as raízes."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Roberto, ao escolher os números de sua aposta numa loteria, procedeu da seguinte forma:</p><ul><li>1º Passo: escolheu os números 6, 12 e 20, que são as idades, em anos, de seus três filhos;</li><li>2º Passo: escolheu mais dois números, que são o MMC e o MDC dos números escolhidos no 1º passo;</li><li>3º Passo: escolheu a média aritmética dos dois maiores números já escolhidos nos dois passos anteriores.</li></ul><p>A soma de todos os números escolhidos por Roberto é</p>",
+    "options": {
+      "A": "100.",
+      "B": "120.",
+      "C": "140.",
+      "D": "160."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.est.medias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> os números são 6, 12 e 20.</p><p><b>2º passo:</b> fatorando, \\(6 = 2 \\cdot 3\\), \\(12 = 2^2 \\cdot 3\\) e \\(20 = 2^2 \\cdot 5\\).</p><ul><li>MMC: todos os fatores, cada um com o maior expoente: \\(2^2 \\cdot 3 \\cdot 5 = 60\\).</li><li>MDC: só os fatores comuns aos três, com o menor expoente: \\(2\\).</li></ul><p><b>3º passo:</b> até aqui os números são 6, 12, 20, 60 e 2. Os dois maiores são 60 e 20, e a média aritmética deles é \\(\\dfrac{60 + 20}{2} = 40\\).</p><p><b>Soma de todos:</b> \\(6 + 12 + 20 + 60 + 2 + 40 = 140\\).</p><p>Resposta: <b>(C) 140</b>.</p>",
+    "distractors": {
+      "A": "100 é a soma dos cinco primeiros números (\\(6 + 12 + 20 + 60 + 2\\)): esquece o número do 3º passo, a média 40.",
+      "B": "Sai de fazer a média de todos os cinco números (\\(100 \\div 5 = 20\\)) em vez da média só dos dois maiores: \\(100 + 20 = 120\\).",
+      "D": "Para chegar a 160, o número do 3º passo teria de ser 60 (como se Roberto repetisse o MMC), ou então o MMC teria de ser 120 (o produto \\(6 \\times 20\\), que é múltiplo comum, mas não o menor) e o 3º passo teria sido esquecido. O certo é MMC igual a 60 e, no 3º passo, a média de 60 e 20, que é 40."
+    },
+    "tip": "MMC: todos os fatores primos com o maior expoente; MDC: só os fatores comuns com o menor expoente."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O mosaico a seguir é formado por pentágonos regulares e losangos.</p><p><img src=\"img/p2017m/mat-q15.png\" alt=\"Mosaico com seis pentágonos regulares cinza, em três fileiras de dois, e dois losangos brancos entre eles. Fileira de cima: dois pentágonos com uma ponta voltada para cima, que se tocam em um único vértice. Fileira do meio: dois pentágonos com uma ponta voltada para baixo; cada um tem o lado de cima horizontal em comum com o pentágono logo acima dele, e os dois se tocam em um único vértice. O espaço branco entre esses quatro pentágonos é um losango: x é o ângulo desse losango no vértice de cima (onde os dois pentágonos de cima se tocam) e y é o ângulo desse losango no vértice da direita (onde termina o lado comum aos dois pentágonos da direita). Fileira de baixo: dois pentágonos com uma ponta voltada para cima, que se tocam em um único vértice; cada um toca, com a ponta de cima, a ponta de baixo do pentágono do meio que está acima dele. O espaço branco entre os dois pentágonos do meio e os dois de baixo é outro losango, e z é o ângulo desse losango no vértice de baixo, onde os dois pentágonos de baixo se tocam.\"></p><p>A soma das medidas dos ângulos \\(x\\), \\(y\\) e \\(z\\) é igual a</p>",
+    "options": {
+      "A": "252º.",
+      "B": "288º.",
+      "C": "324º.",
+      "D": "360º."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Ângulo interno do pentágono regular:</b> a soma dos ângulos internos de um polígono de \\(n\\) lados é \\((n - 2) \\cdot 180^\\circ\\). Para \\(n = 5\\), a soma é \\(3 \\cdot 180^\\circ = 540^\\circ\\), e cada ângulo mede \\(540^\\circ \\div 5 = 108^\\circ\\).</p><p><b>Ângulo \\(y\\):</b> no vértice de \\(y\\) se encontram três figuras: o pentágono de cima (108°), o pentágono do meio que divide com ele o lado horizontal (108°) e o losango (\\(y\\)). Juntas, elas completam uma volta inteira:</p><p>\\[y + 108^\\circ + 108^\\circ = 360^\\circ \\;\\Rightarrow\\; y = 144^\\circ\\]</p><p><b>Ângulo \\(x\\):</b> num losango, dois ângulos vizinhos somam 180° e ângulos opostos são iguais. Como \\(x\\) e \\(y\\) são vizinhos no mesmo losango:</p><p>\\[x = 180^\\circ - 144^\\circ = 36^\\circ\\]</p><p>O ângulo de baixo desse losango, oposto a \\(x\\), também mede 36°.</p><p><b>Ângulo \\(z\\):</b> olhe o ponto onde os dois pentágonos do meio se tocam. Ali se encontram quatro figuras: os dois pentágonos (108° cada), o losango de cima (36°) e o losango de baixo. Então o ângulo do losango de baixo nesse ponto mede</p><p>\\[360^\\circ - 108^\\circ - 108^\\circ - 36^\\circ = 108^\\circ\\]</p><p>O ângulo \\(z\\) está no vértice oposto desse mesmo losango, logo \\(z = 108^\\circ\\).</p><p><b>Soma:</b> \\(x + y + z = 36^\\circ + 144^\\circ + 108^\\circ = 288^\\circ\\).</p><p>Resposta: <b>(B) 288°</b>.</p>",
+    "distractors": {
+      "A": "\\(252^\\circ = 36^\\circ + 108^\\circ + 108^\\circ\\): toma \\(y\\) como 108°, o ângulo do pentágono. Mas \\(y\\) é o ângulo do losango, que fecha a volta de 360° junto com dois pentágonos.",
+      "C": "\\(324^\\circ = 3 \\times 108^\\circ\\): supõe que \\(x\\), \\(y\\) e \\(z\\) são todos ângulos de pentágono. Só \\(z\\) mede 108°.",
+      "D": "360° é uma volta completa, mas \\(x\\), \\(y\\) e \\(z\\) estão em pontos diferentes e não formam uma volta. Esse valor também aparece usando \\(x = 108^\\circ\\) em vez de 36°: \\(108^\\circ + 144^\\circ + 108^\\circ = 360^\\circ\\)."
+    },
+    "tip": "Em mosaicos, os ângulos que se encontram em um mesmo ponto somam 360°; e cada ângulo interno do pentágono regular mede 108°."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma moeda foi cunhada na Polônia, em comemoração às Olimpíadas de Pequim, em 2008. A seguir, a Figura 1 mostra as duas faces da moeda e a Figura 2 mostra um modelo matemático de sua face, que é circular com um furo quadrado no centro.</p><p><img src=\"img/p2017m/mat-q16.png\" alt=\"Figura 1: fotografia das duas faces de uma moeda prateada, circular, com um furo quadrado no centro. Em uma face aparecem um atleta de windsurfe sobre as ondas e a inscrição POLSKA REPREZENTACJA OLIMPIJSKA PEKIN 2008 (as duas palavras do meio em letras bem pequenas); na outra, uma águia, a inscrição RZECZPOSPOLITA POLSKA, o valor 10 ZŁ ao lado do furo, o ano 2008 e a fachada de um palácio chinês. Figura 2: modelo matemático da face da moeda, um círculo com um pequeno quadrado no centro. As figuras não trazem medidas.\"></p><p class=\"fonte\">Fonte: https://www.coinsbook.net/images/coins/17840/35024.jpg. Acesso em 20/10/2017.</p><p>Suponha que a face da moeda tenha 3 cm de diâmetro e que o quadrado no centro tenha 0,4 cm de lado.</p><p>Então, usando a aproximação \\(\\pi = 3\\), a área da face da moeda é igual a</p>",
+    "options": {
+      "A": "6,59 cm<sup>2</sup>.",
+      "B": "8,6 cm<sup>2</sup>.",
+      "C": "26,2 cm<sup>2</sup>.",
+      "D": "26,84 cm<sup>2</sup>."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A área da face é a área do círculo menos a área do furo quadrado.</p><p><b>Círculo:</b> o diâmetro é 3 cm, então o raio é a metade, \\(r = 1{,}5\\) cm. Com \\(\\pi = 3\\):</p><p>\\[\\pi r^2 = 3 \\cdot (1{,}5)^2 = 3 \\cdot 2{,}25 = 6{,}75 \\text{ cm}^2\\]</p><p><b>Furo quadrado:</b> \\((0{,}4)^2 = 0{,}16\\) cm² (atenção: \\(0{,}4 \\times 0{,}4 = 0{,}16\\), e não 0,8).</p><p><b>Face da moeda:</b></p><p>\\[6{,}75 - 0{,}16 = 6{,}59 \\text{ cm}^2\\]</p><p>Resposta: <b>(A) 6,59 cm²</b>.</p>",
+    "distractors": {
+      "B": "\\(8{,}6 = 9 - 0{,}4\\): usa o comprimento da circunferência (\\(2\\pi r = 2 \\cdot 3 \\cdot 1{,}5 = 9\\)) e o lado do quadrado, confundindo área com comprimento.",
+      "C": "\\(26{,}2 = 27 - 0{,}8\\): usa o diâmetro como raio (\\(3 \\cdot 3^2 = 27\\)) e ainda calcula a área do quadrado como \\(0{,}4 \\times 2\\) em vez de \\(0{,}4^2\\).",
+      "D": "\\(26{,}84 = 27 - 0{,}16\\): a área do furo está certa, mas o diâmetro 3 foi usado como raio. O raio é a metade do diâmetro, 1,5 cm."
+    },
+    "tip": "A área do círculo usa o raio, que é a metade do diâmetro: \\(A = \\pi r^2\\)."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Marcelo foi a uma pizzaria e consumiu uma pizza do menu mostrado a seguir:</p><table><thead><tr><th>Pizza</th><th>Brotinho</th><th>Média</th><th>Grande</th></tr></thead><tbody><tr><td>Muçarela</td><td>R$ 15,00</td><td>R$ 25,00</td><td>R$ 30,00</td></tr><tr><td>Calabresa</td><td>R$ 16,00</td><td>R$ 27,00</td><td>R$ 33,00</td></tr><tr><td>Presunto</td><td>R$ 17,00</td><td>R$ 29,00</td><td>R$ 36,00</td></tr><tr><td>Portuguesa</td><td>R$ 19,00</td><td>R$ 31,00</td><td>R$ 39,00</td></tr></tbody></table><p>Quando veio a conta, o garçom avisou que foi acrescentada uma taxa de serviço de 10% sobre os valores do cardápio, perfazendo um total de R$ 31,90 a pagar.</p><p>A pizza que Marcelo consumiu foi</p>",
+    "options": {
+      "A": "presunto média.",
+      "B": "calabresa média.",
+      "C": "muçarela grande.",
+      "D": "portuguesa brotinho."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Acrescentar 10% ao preço do cardápio \\(P\\) é o mesmo que calcular 110% dele, ou seja, multiplicar por 1,1:</p><p>\\[1{,}1 \\cdot P = 31{,}90 \\;\\Rightarrow\\; P = \\frac{31{,}90}{1{,}1} = \\frac{319}{11} = 29\\]</p><p>O preço no cardápio era R$ 29,00, que na tabela é a pizza de <b>presunto média</b>.</p><p>Conferindo: 10% de R$ 29,00 é R$ 2,90, e R$ 29,00 + R$ 2,90 = R$ 31,90.</p><p>Cuidado: tirar 10% de R$ 31,90 (daria R$ 28,71) está errado, porque a taxa foi calculada sobre o preço do cardápio, e não sobre o total da conta.</p><p>Resposta: <b>(A) presunto média</b>.</p>",
+    "distractors": {
+      "B": "A calabresa média custa R$ 27,00; com a taxa, a conta seria R$ 27,00 + R$ 2,70 = R$ 29,70, e não R$ 31,90.",
+      "C": "A muçarela grande custa R$ 30,00, valor próximo de R$ 31,90, o que atrai quem não faz a conta; com a taxa, porém, a conta seria R$ 30,00 + R$ 3,00 = R$ 33,00.",
+      "D": "A portuguesa brotinho custa R$ 19,00 e daria R$ 20,90 com a taxa. A confusão vem da linha Portuguesa, cuja pizza média (R$ 31,00) tem preço parecido com R$ 31,90."
+    },
+    "tip": "Para desfazer um aumento de 10%, divida o valor final por 1,1; não subtraia 10% do valor final."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um professor gosta de criar desafios para seus estudantes, com expressões envolvendo um só número. Em certa aula, apresentou o seguinte problema dos quatro “quatros”:</p><p>\\[x = \\frac{4^4}{\\sqrt[4]{4}}\\]</p><p>O valor de <b>x</b> é</p>",
+    "options": {
+      "A": "\\(16\\).",
+      "B": "\\(128\\).",
+      "C": "\\(128\\sqrt{2}\\)",
+      "D": "\\(256\\sqrt{2}\\)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Numerador:</b> \\(4^4 = 4 \\cdot 4 \\cdot 4 \\cdot 4 = 256\\).</p><p><b>Denominador:</b> a raiz quarta é a raiz quadrada da raiz quadrada:</p><p>\\[\\sqrt[4]{4} = \\sqrt{\\sqrt{4}} = \\sqrt{2}\\]</p><p>(Confira: \\((\\sqrt{2})^4 = 2^2 = 4\\).)</p><p><b>Divisão:</b> para tirar a raiz do denominador, multiplique em cima e embaixo por \\(\\sqrt{2}\\):</p><p>\\[x = \\frac{256}{\\sqrt{2}} = \\frac{256 \\cdot \\sqrt{2}}{\\sqrt{2} \\cdot \\sqrt{2}} = \\frac{256\\sqrt{2}}{2} = 128\\sqrt{2}\\]</p><p>Outro caminho, só com potências de 2: \\(4^4 = 2^8\\) e \\(\\sqrt[4]{4} = 2^{2/4} = 2^{1/2}\\), logo \\(x = 2^{8 - 1/2} = 2^{7} \\cdot 2^{1/2} = 128\\sqrt{2}\\).</p><p>Checagem rápida: \\(\\sqrt[4]{4}\\) fica entre 1 e 2, então \\(x\\) tem que ficar entre \\(256 \\div 2 = 128\\) e 256. De fato, \\(128\\sqrt{2} \\approx 128 \\times 1{,}41 \\approx 181\\).</p><p>Resposta: <b>(C) \\(128\\sqrt{2}\\)</b>.</p>",
+    "distractors": {
+      "A": "16 é \\(4^2\\): sai de erros com os expoentes, como tratar \\(\\sqrt[4]{4}\\) como \\(4^2 = 16\\) e fazer \\(256 \\div 16\\). Mas \\(\\sqrt[4]{4}\\) é um número entre 1 e 2.",
+      "B": "\\(128 = 256 \\div 2\\): confunde a raiz quarta com a raiz quadrada (\\(\\sqrt{4} = 2\\)). Na verdade, \\(\\sqrt[4]{4} = \\sqrt{2}\\).",
+      "D": "\\(256\\sqrt{2}\\) aparece para quem multiplica por \\(\\sqrt{2}\\) em vez de dividir, ou racionaliza e esquece de dividir por 2 no final."
+    },
+    "tip": "Raiz quarta é a raiz quadrada da raiz quadrada; e para tirar \\(\\sqrt{2}\\) do denominador, multiplique em cima e embaixo por \\(\\sqrt{2}\\)."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um filtro caseiro era capaz de filtrar 400 mL de água em 1min 36s. Após ter sido feita a troca de sua unidade purificadora, sua velocidade de filtragem dobrou.</p><p>Portanto, para filtrar 1 L de água, esse filtro agora levará</p>",
+    "options": {
+      "A": "48s.",
+      "B": "1min 12s.",
+      "C": "2min.",
+      "D": "2min 24s."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Tempo antigo em segundos:</b> 1min 36s = 60 s + 36 s = 96 s para filtrar 400 mL.</p><p><b>Nova velocidade:</b> se a velocidade dobrou, o mesmo volume passa na metade do tempo: 400 mL em \\(96 \\div 2 = 48\\) s. Dividindo tudo por 2: 200 mL em 24 s.</p><p><b>1 litro:</b> \\(1\\ \\text{L} = 1000\\ \\text{mL} = 5 \\times 200\\ \\text{mL}\\). Então o tempo é</p><p>\\[5 \\times 24 = 120 \\text{ s} = 2 \\text{ min}\\]</p><p>Conferindo por outro caminho: na velocidade antiga, \\(1\\ \\text{L} = 2{,}5 \\times 400\\ \\text{mL}\\) levaria \\(2{,}5 \\times 96 = 240\\ \\text{s} = 4\\ \\text{min}\\); com a velocidade dobrada, leva a metade, 2 min.</p><p>Resposta: <b>(C) 2min</b>.</p>",
+    "distractors": {
+      "A": "48 s é o tempo para filtrar só 400 mL na nova velocidade; faltou passar de 400 mL para 1 L.",
+      "B": "1min 12s = 72 s é o tempo de 600 mL na nova velocidade (\\(1{,}5 \\times 48\\)): quem faz \\(1000 - 400 = 600\\) mL calcula só o que faltaria, mas o litro inteiro precisa passar pelo filtro.",
+      "D": "2min 24s = 144 s é o tempo de 600 mL na velocidade <b>antiga</b> (\\(1{,}5 \\times 96 = 144\\)): quem faz \\(1000 - 400 = 600\\) mL e ainda esquece que a velocidade dobrou chega aqui. O litro inteiro, na velocidade nova, leva 120 s."
+    },
+    "tip": "Velocidade dobrada significa metade do tempo para o mesmo volume; passe tudo para a mesma unidade (segundos e mL) antes da regra de três."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A prefeitura de uma cidade fez um projeto para gramar parcialmente uma de suas praças. A praça é retangular, de comprimento 70 m e largura 40 m, e está representada na figura pelo retângulo ABCD. Ela será coberta de grama nas partes sombreadas, conforme mostra o esquema a seguir:</p><p><img src=\"img/p2017m/mat-q20.png\" alt=\"Retângulo ABCD com A no canto superior esquerdo, D no canto superior direito, B no canto inferior esquerdo e C no canto inferior direito; AD e BC são os lados maiores (horizontais) e AB e CD são os lados menores (verticais). M é o ponto médio de AB e N é o ponto médio de CD; não há segmento traçado entre M e N. Na parte de cima da figura (acima da altura de M e N) há um ponto interior sem nome, mais perto de A, ligado por segmentos a A, M, D e N; estão sombreados o triângulo formado por A, M e esse ponto e o triângulo formado por D, N e esse ponto. Na parte de baixo (abaixo da altura de M e N) estão traçados os segmentos MC e BN, que se cruzam em um ponto; estão sombreados o triângulo formado por M, B e esse cruzamento e o triângulo formado por N, C e esse cruzamento. O restante da praça fica em branco.\"></p><p>Sabendo-se que M e N são pontos médios de AB e CD, respectivamente, a área a ser gramada corresponde a</p>",
+    "options": {
+      "A": "350 m².",
+      "B": "700 m².",
+      "C": "1050 m².",
+      "D": "1400 m²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A praça mede \\(70 \\times 40 = 2800\\) m². Como M e N são pontos médios, AM = MB = DN = NC = 20 m. Imagine o segmento MN: ele divide a praça em duas faixas de \\(70 \\times 20 = 1400\\) m² cada.</p><p><b>Faixa de cima:</b> chame de P o ponto interno sem nome. Os triângulos sombreados AMP e DNP têm bases AM e DN (20 m cada) sobre os lados menores da praça. A altura de cada um é a distância horizontal de P até o lado da base. Se P está a \\(h\\) metros do lado AB, está a \\(70 - h\\) metros do lado CD. Então:</p><p>\\[\\frac{20 \\cdot h}{2} + \\frac{20 \\cdot (70 - h)}{2} = 10h + 700 - 10h = 700 \\text{ m}^2\\]</p><p>O resultado não depende de onde P está.</p><p><b>Faixa de baixo:</b> o mesmo raciocínio vale para os triângulos com bases MB e NC (20 m cada) e vértice comum no cruzamento de MC com BN: as duas alturas somam 70 m, e a área sombreada é 700 m². Outra forma de ver: MC e BN são as diagonais do retângulo MBCN, que o dividem em 4 triângulos de mesma área, \\(1400 \\div 4 = 350\\) m² cada; os sombreados são 2 deles.</p><p><b>Total:</b> \\(700 + 700 = 1400\\) m², exatamente metade da praça.</p><p>Resposta: <b>(D) 1400 m²</b>.</p>",
+    "distractors": {
+      "A": "350 m² é a área de apenas um dos triângulos sombreados de baixo (um quarto do retângulo MBCN).",
+      "B": "700 m² é a área sombreada de só uma das faixas (a de cima ou a de baixo); cada faixa tem 700 m² de grama, e são duas.",
+      "C": "\\(1050 = 700 + 350\\): soma a parte sombreada de uma faixa inteira com apenas um dos triângulos da outra faixa."
+    },
+    "tip": "Quando a posição de um ponto não é dada, desconfie que a área não depende dela: some as alturas dos triângulos que compartilham esse ponto."
+  }
+]

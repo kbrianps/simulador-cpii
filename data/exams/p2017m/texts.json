@@ -1,0 +1,171 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "A Escola da Mestra Silvina",
+    "subtitle": null,
+    "author": "Cora Coralina",
+    "kind": "poema",
+    "numbering": "none",
+    "lines": [
+      "Minha escola primária...",
+      "Escola antiga de antiga mestra.",
+      "Repartida em dois períodos",
+      "para a mesma meninada,",
+      "das 8 às 11, da 1 às 4.",
+      "Nem recreio, nem exames.",
+      "Nem notas, nem férias.",
+      "Sem cânticos, sem merenda...",
+      "Digo mal — sempre havia",
+      "distribuídos",
+      "alguns bolos de palmatória...",
+      "A granel?",
+      "Não, que a Mestra",
+      "era boa, velha, cansada, aposentada.",
+      "Tinha já ensinado a uma geração",
+      "antes da minha.",
+      "A gente chegava “— Bença, Mestra.”",
+      "Sentava em bancos compridos,",
+      "escorridos, sem encosto.",
+      "Lia alto lições de rotina:",
+      "o velho abecedário,",
+      "lição salteada.",
+      "Aprendia a soletrar.",
+      "[...]",
+      "Não se usava quadro-negro.",
+      "As contas se faziam",
+      "em pequenas lousas",
+      "individuais.",
+      "Não havia chamada",
+      "e sim o ritual",
+      "de entradas, compassadas.",
+      "“— Bença, Mestra...”",
+      "Banco dos meninos.",
+      "Banco das meninas.",
+      "Tudo muito sério.",
+      "Não se brincava.",
+      "Muito respeito.",
+      "Leitura alta.",
+      "Soletrava-se.",
+      "Cobria-se o debuxo.",
+      "Dava-se a lição.",
+      "Tinha dia certo de argumento",
+      "com a palmatória pedagógica",
+      "em cena.",
+      "Cantava-se em coro a velha tabuada."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      24,
+      28,
+      32
+    ],
+    "images": [],
+    "source": "(In: <i>Poema dos Becos de Goiás e Estórias Mais</i>, 1965. Fragmento)",
+    "glossary": [
+      {
+        "term": "Bolos de palmatória",
+        "def": "batidas na palma da mão por meio de um instrumento de madeira como forma de castigo"
+      },
+      {
+        "term": "A granel",
+        "def": "em grande quantidade"
+      },
+      {
+        "term": "Lousa",
+        "def": "quadro-negro"
+      },
+      {
+        "term": "Compassadas",
+        "def": "que obedecem a um ritmo, ritmadas"
+      },
+      {
+        "term": "Debuxo",
+        "def": "delineamento, rascunho, esboço"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Entrevista com Daniel Munduruku",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Minha percepção é que criança é livre, inteira, intensa. Quando ela entra na escola,",
+      "entra numa forma, que é a chamada formação. A criança não divide os saberes. Brincar,",
+      "aprender, correr, subir na árvore, tudo é uma coisa só. Quando ela vai para a escola, é tirada",
+      "desse universo integral e é apresentada para ela uma sociedade dividida em conhecimentos.",
+      "Por isso a escola entorta o pensamento da criança. A gente precisa voltar para a nossa",
+      "origem de aprender as coisas não divididas. Quando a gente trata as coisas como um",
+      "conjunto, a gente toma conta, cuida. Não tem rico nem pobre, branco nem preto, noite nem",
+      "dia. Tudo é uma coisa só e você faz parte da natureza. A escola aprisiona o pensamento",
+      "nessas categorias de certo, errado, bom e mau. A teia da vida é completa e a gente acaba",
+      "se esquecendo disso, ao desenvolver a ideia de que nós somos donos. A criança aprende",
+      "na escola que ela tem que dominar e aí passa a destruir tudo, né, porque é dela, ensinaram",
+      "isso para ela. É educada para ser senhor da natureza, das coisas."
+    ],
+    "para_starts": [
+      1
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Fonte: https://www.geledes.org.br/daniel-munduruku-indio-e-invencao-total-folclore-puro (Fragmento)",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "Gaiolas e asas",
+    "subtitle": null,
+    "author": "Rubem Alves",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Há escolas que são gaiolas. Há escolas que são asas.",
+      "Escolas que são gaiolas existem para que os pássaros desaprendam a arte do voo.",
+      "Pássaros engaiolados são pássaros sob controle. Engaiolados, o seu dono pode levá-las",
+      "para onde quiser. Pássaros engaiolados sempre têm um dono. Deixaram de ser pássaros.",
+      "Porque a essência dos pássaros é o voo.",
+      "Escolas que são asas não amam pássaros engaiolados. O que elas amam são os",
+      "pássaros em voo. Existem para dar aos pássaros coragem para voar. Ensinar o voo, isso",
+      "elas não podem fazer, porque o voo já nasce dentro dos pássaros. O voo não pode ser",
+      "ensinado. Só pode ser encorajado."
+    ],
+    "para_starts": [
+      1,
+      2,
+      6
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Fonte: http://www1.folha.uol.com.br/fsp/opiniao/fz0512200109.htm. (Fragmento adaptado)",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T4",
+    "label": "Texto IV",
+    "title": null,
+    "subtitle": null,
+    "author": null,
+    "kind": "tirinha",
+    "numbering": "none",
+    "lines": [],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [
+      {
+        "src": "img/p2017m/pt-t4.png",
+        "alt": "Tirinha de Calvin em 4 quadros, sem título. Quadro 1: numa sala de aula, a professora, sentada à mesa com um livro aberto nas mãos, pergunta: \"CALVIN, VOCÊ SABERIA NOS DIZER QUEM FOI NOSSO PRIMEIRO PRESIDENTE?\" Quadro 2: Calvin, sentado em sua carteira, responde sorrindo, todo animado: \"NÃO, MAS EU CONHEÇO A ORIGEM SECRETA DE CADA SUPER-HERÓI DA LIGA TERMONUCLEAR DA JUSTIÇA DO CAPITÃO COMETA.\" Quadro 3: a professora, fora de cena, diz: \"VOCÊ FICA DEPOIS DA AULA, CALVIN.\" Calvin, na carteira, fica sério e contrariado. Quadro 4: Calvin, com o rosto apoiado na mão e expressão desanimada, diz: \"EU NÃO SOU BURRO. É QUE O CONHECIMENTO QUE EU DOMINO NÃO TEM UMA UTILIZAÇÃO PRÁTICA.\" Em letras miúdas, na vertical, aparece o crédito \"© 1992 Watterson/Distributed by Universal Press Syndicate\" e, no canto do último quadro, a data \"3-28\"."
+      }
+    ],
+    "source": "Fonte: https://novaescola.org.br/conteudo/3621/calvin-e-seus-amigos",
+    "glossary": [],
+    "epigraph": null
+  }
+]

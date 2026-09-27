@@ -1,0 +1,289 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Assinale a alternativa correta quanto às ideias contidas no texto.</p>",
+    "options": {
+      "A": "O estudo da USP foi batizado de “São Paulo Megacity” porque foi o primeiro no mundo a fazer uma pesquisa sobre transtornos psicológicos.",
+      "B": "O resultado da pesquisa com moradores de São Paulo pode servir de alerta para moradores de outras cidades também grandes.",
+      "C": "Os problemas financeiros que dificultam o pagamento das contas no fim do mês são fatores determinantes para a vulnerabilidade feminina.",
+      "D": "Segundo a pesquisa, os problemas que mais atingem os homens são ansiedade e problemas de controle de impulso, além do abuso de drogas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Vamos conferir cada alternativa voltando ao texto.</p><p>Nas linhas 8 e 9, a psiquiatra afirma que o estudo “serve de modelo – e de alerta – para outros aglomerados com mais de 10 milhões de habitantes, incluindo cidades brasileiras que se aproximam dessa dimensão”. Ou seja, o resultado da pesquisa feita em São Paulo funciona como um aviso para quem mora em outras cidades grandes. É exatamente o que diz a alternativa <b>B</b>.</p><p>As outras alternativas trocam ou inventam informações: o texto nunca diz que o estudo foi o primeiro do mundo; a vulnerabilidade feminina é explicada pela “oscilação hormonal” e pelo “excesso de responsabilidade” (linhas 12 e 13), e não pelas contas; e a ansiedade aparece como problema das mulheres, não dos homens (linhas 9 e 10).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O texto não diz que a pesquisa foi a primeira do mundo; ao contrário, ela é “parte de um grande levantamento feito em 24 países” (linhas 6 e 7). O nome “Megacity” só indica que o estudo trata de uma metrópole.",
+      "C": "O “perrengue com as contas” (linha 14) aumenta a fragilidade mental das pessoas em geral. A vulnerabilidade feminina é explicada por outros dois fatores: oscilação hormonal e excesso de responsabilidade (linhas 12 e 13).",
+      "D": "Troca os grupos: segundo as linhas 9 a 11, a ansiedade atinge mais as mulheres; os homens ficam propensos a problemas de controle de impulso e abuso de drogas."
+    },
+    "tip": "Em questões sobre as ideias do texto, volte ao trecho e confira quem faz o quê: alternativas erradas costumam trocar pessoas, inventar causas ou exagerar o que foi dito."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia o seguinte trecho do texto:</p><p>“(...) provocam no cérebro de quem habita <u>esse</u> cenário.” (linhas 2 e 3).</p><p>O pronome demonstrativo sublinhado é usado para recuperar o seguinte termo</p>",
+    "options": {
+      "A": "“tipo de pane” (linha 2).",
+      "B": "“no cérebro” (linha 2).",
+      "C": "“as grandes cidades” (linha 2).",
+      "D": "“Uma pesquisa” (linha 1)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O pronome <b>esse</b> retoma algo que já foi dito antes no texto. Leia o trecho completo das linhas 2 e 3: “que tipo de pane as grandes cidades provocam no cérebro de quem habita esse cenário”.</p><p>Pense no verbo: quem “habita” alguma coisa mora em um lugar. Qual lugar foi mencionado pouco antes? <b>As grandes cidades</b>. “Esse cenário” é uma forma de retomar “as grandes cidades” sem repetir a expressão.</p><p>Faça o teste da substituição: “no cérebro de quem habita as grandes cidades”. A frase continua com o mesmo sentido, o que confirma a retomada.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Tipo de pane” é o problema que a pesquisa quer investigar, não um lugar onde se possa morar; “quem habita um tipo de pane” não faz sentido.",
+      "B": "“No cérebro” indica onde a pane acontece, mas ninguém “habita” o cérebro. O cenário habitado é a cidade.",
+      "D": "“Uma pesquisa” é quem investiga o problema, e não um lugar que se possa habitar; a substituição deixaria a frase sem sentido."
+    },
+    "tip": "Para descobrir o que um pronome retoma, substitua-o pelo termo candidato e veja se a frase mantém o sentido."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No texto, o substantivo que pode ser considerado sinônimo de “pane” (linha 2) é</p>",
+    "options": {
+      "A": "“transtornos” (linha 4).",
+      "B": "“alerta” (linha 8).",
+      "C": "“abuso” (linha 11).",
+      "D": "“perrengue” (linha 14)."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Pane” significa defeito, falha no funcionamento, como quando se diz que um carro ou um computador “deu pane”. No texto, a palavra é usada em sentido figurado: a pesquisa quer saber que tipo de falha as grandes cidades provocam “no cérebro” de seus moradores (linha 2).</p><p>Agora procure no texto uma palavra que indique esse mau funcionamento da mente. Nas linhas 4 e 5, lemos que “quase 30% dos participantes apresentam <b>transtornos</b> psicológicos”. Transtorno é uma perturbação, um desarranjo no funcionamento normal: é o mesmo sentido que “pane” tem no texto. Aliás, os transtornos são justamente a “pane” que a pesquisa encontrou.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Alerta” é um aviso de perigo; o estudo serve de alerta sobre o problema, mas o alerta não é o problema em si.",
+      "C": "“Abuso” significa uso exagerado (de drogas, na linha 11); é um dos problemas citados, e não um sinônimo de falha ou defeito.",
+      "D": "“Perrengue”, segundo o glossário, é uma “situação complicada, difícil de ser resolvida”, ligada às contas do mês; é uma dificuldade da vida, não uma falha no funcionamento do cérebro."
+    },
+    "tip": "Para achar um sinônimo no texto, explique a palavra com suas próprias palavras e procure o termo que possa substituí-la no mesmo contexto."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia a seguinte frase do texto:</p><p>“Os resultados revelam<u>:</u> quase 30% dos participantes apresentam transtornos psicológicos.” (linhas 4 e 5).</p><p>Considerando o sentido do texto, a alternativa que apresenta o termo que substitui corretamente os dois-pontos é</p>",
+    "options": {
+      "A": "mas.",
+      "B": "se.",
+      "C": "que.",
+      "D": "porque."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.periodo",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Nesse trecho, os dois-pontos anunciam o conteúdo do verbo “revelam”. Pergunte ao verbo: os resultados revelam <i>o quê</i>? Resposta: que quase 30% dos participantes apresentam transtornos psicológicos.</p><p>Esse conteúdo funciona como complemento (objeto direto) de “revelam”. Quando o complemento é uma oração, ele é introduzido pela conjunção integrante <b>que</b>. Fazendo a troca, a frase fica assim:</p><p>“Os resultados revelam <b>que</b> quase 30% dos participantes apresentam transtornos psicológicos.”</p><p>A frase fica correta e o sentido do texto é preservado: o dado continua sendo apresentado como algo certo, descoberto pela pesquisa.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Mas” indica oposição, e não há nada contrário entre “os resultados revelam” e o dado apresentado; o dado é justamente o que foi revelado.",
+      "B": "“Se” traria ideia de dúvida (“revelam se...”), como se o dado ainda não fosse certo; o texto, porém, afirma o resultado com segurança.",
+      "D": "“Porque” indica causa, mas o dado dos 30% não é o motivo de os resultados revelarem algo; é o próprio conteúdo revelado."
+    },
+    "tip": "Dois-pontos depois de verbos como revelar, dizer, mostrar e constatar costumam equivaler a “que”, introduzindo o conteúdo do que foi revelado ou dito."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O recurso da repetição da oração “é domingo”, no último verso da 2ª estrofe do texto, tem como objetivo</p>",
+    "options": {
+      "A": "levar o leitor a recordar-se das tardes de domingo de sua infância.",
+      "B": "reforçar a possibilidade de o eu lírico voltar, pela imaginação, ao passado.",
+      "C": "enfatizar a ideia das transformações que o progresso pode trazer.",
+      "D": "lembrar ao leitor como eram as tardes de domingo do eu lírico."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na 2ª estrofe, o eu lírico imagina um futuro em que o “progresso tecno-ilógico” (verso 6) vai tornar “impossível detectar o domingo / pelo sumo das laranjas no ar e bicicletas” (versos 7 e 8). Ou seja, os domingos descritos na 1ª estrofe terão ficado no passado.</p><p>Mesmo assim, ele encontra uma saída: “em meu país de memória e sentimento, / basta fechar os olhos” (versos 9 e 10). Fechando os olhos, pela lembrança e pela imaginação, o domingo volta.</p><p>A repetição “é domingo, é domingo, é domingo” (verso 11) <b>reforça</b> essa volta: a cada repetição, o domingo parece mais presente, como se o eu lírico já estivesse de novo naquela tarde.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O poema trata da memória do próprio eu lírico, não da infância do leitor; a palavra “infância” nem aparece no texto.",
+      "C": "As transformações do progresso aparecem nos versos 6 a 8, mas a repetição final mostra o contrário: apesar delas, o domingo continua vivo na memória.",
+      "D": "Quem mostra como eram os domingos é a 1ª estrofe. O último verso não descreve nada ao leitor: ele expressa o retorno do eu lírico ao domingo pela imaginação."
+    },
+    "tip": "Em poemas, a repetição quase sempre serve para intensificar uma ideia; pergunte qual ideia está sendo reforçada naquele ponto do texto."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Dos substantivos a seguir, o único que foi usado, no texto, com sentido conotativo é</p>",
+    "options": {
+      "A": "“cidade” (verso 1).",
+      "B": "“domingos” (verso 1).",
+      "C": "“tarde” (verso 1).",
+      "D": "“país” (verso 9)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Sentido <b>denotativo</b> é o sentido literal, de dicionário. Sentido <b>conotativo</b> é o sentido figurado, criado pelo contexto.</p><p>No verso 1, “Na minha cidade, nos domingos de tarde”, as três palavras estão no sentido literal: uma cidade de verdade, os dias de domingo e o período da tarde.</p><p>Já no verso 9, “em meu país de memória e sentimento”, o eu lírico não fala de uma nação com território e governo. “País” é o mundo interior dele, feito de lembranças e emoções, onde o domingo pode ser revivido. Trata-se de uma metáfora, portanto de um uso <b>conotativo</b>.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Cidade” indica o lugar real onde o eu lírico vive; está no sentido literal.",
+      "B": "“Domingos” são, de fato, os dias da semana em que as pessoas tomam a fresca; sentido literal.",
+      "C": "“Tarde” é o período do dia, sem nenhum sentido figurado no verso 1."
+    },
+    "tip": "Para reconhecer a conotação, pergunte se a palavra pode ser entendida ao pé da letra naquele contexto; se não puder, ela está em sentido figurado."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No texto, na segunda estrofe, o eu lírico imagina uma situação diferente da que vivencia na primeira estrofe. O termo presente na segunda estrofe que pode ser considerado a causa dessa transformação é</p>",
+    "options": {
+      "A": "“domingo” (verso 7).",
+      "B": "“progresso tecno-ilógico” (verso 6).",
+      "C": "“país de memória” (verso 9).",
+      "D": "“sumo das laranjas” (verso 8)."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare as duas estrofes. Na 1ª, o eu lírico vive domingos cheios de vida: pessoas na sombra com laranjas, o rapaz de bicicleta. Na 2ª, ele imagina um tempo em que será “impossível detectar o domingo / pelo sumo das laranjas no ar e bicicletas” (versos 7 e 8).</p><p>O que provoca essa mudança? O verso 6 responde: “Daqui a muito <b>progresso tecno-ilógico</b>”. É o avanço da tecnologia que fará desaparecer aqueles hábitos simples.</p><p>Repare também no jogo de palavras: “tecno-ilógico” mistura “tecnológico” com “ilógico”. Assim, o eu lírico critica esse progresso, que para ele não faz sentido se acaba com os pequenos prazeres do domingo.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O “domingo” (verso 7) é o que deixará de ser percebido depois da transformação, e não o que a provoca.",
+      "C": "O “país de memória” (verso 9) é o refúgio do eu lírico, onde o domingo sobrevive; é a solução encontrada, não a causa da mudança.",
+      "D": "O “sumo das laranjas” (verso 8) é um dos sinais do domingo que vão desaparecer, ou seja, faz parte do que é afetado pela transformação."
+    },
+    "tip": "Para achar a causa de uma mudança, pergunte “por que isso aconteceu?” e procure a expressão do texto que responde a essa pergunta."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia a seguinte passagem do texto:</p><p>“(...) devem ser balas, caramelos, pipocas, que passam <u>de</u> uma bochecha <u>para</u> a outra e lhes devem causar uma delícia infinita.” (linhas 13 e 14).</p><p>As preposições, em português, além de sua função de conectivos, servem também para expressar relações de sentido no texto. Assinale a alternativa que contém a relação expressa, respectivamente, pelas preposições sublinhadas no trecho anterior.</p>",
+    "options": {
+      "A": "Tempo e tempo.",
+      "B": "Lugar e finalidade.",
+      "C": "Lugar e lugar.",
+      "D": "Modo e finalidade."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No trecho das linhas 13 e 14, as balas, os caramelos e as pipocas “passam <u>de</u> uma bochecha <u>para</u> a outra”. Imagine a cena: a comida sai de um lado da boca e vai para o outro lado.</p><ul><li><b>de</b> uma bochecha: indica o ponto de partida, o lugar de onde a comida sai (origem);</li><li><b>para</b> a outra: indica o ponto de chegada, o lugar para onde ela vai (destino).</li></ul><p>Origem e destino são relações de espaço, isto é, as duas preposições expressam <b>lugar</b>. É o mesmo par de “viajou de São Paulo para o Rio”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O par “de... para” pode indicar tempo (“de segunda para terça”), mas bochechas são partes do corpo, ou seja, lugares, e não momentos.",
+      "B": "“Para” pode indicar finalidade (“estudou para passar”), mas aqui vem antes de um lugar, “a outra [bochecha]”, e mostra aonde a comida vai, não com que objetivo.",
+      "D": "Nenhuma das preposições diz de que maneira a comida passa (modo) nem com que objetivo (finalidade); elas mostram de onde a comida sai e para onde vai."
+    },
+    "tip": "Descubra o sentido de uma preposição pela palavra que vem depois dela: se for um lugar e houver movimento, “de” marca a origem e “para” marca o destino."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia o seguinte trecho do texto:</p><p>“Os automóveis deslizam; as pessoas entram e saem dos cinemas; os namorados conversam por aqui e por ali; os bares funcionam ativamente, numa fabulosa produção de sanduíches e cachorros-quentes.” (linhas 2 e 3).</p><p>Essa frase é formada por</p>",
+    "options": {
+      "A": "orações subordinadas reduzidas.",
+      "B": "orações coordenadas.",
+      "C": "orações subordinadas desenvolvidas.",
+      "D": "orações absolutas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, conte os verbos: “deslizam”, “entram”, “saem”, “conversam” e “funcionam”. Cada verbo forma uma oração, então o período é composto.</p><p>Agora veja como elas se ligam: “Os automóveis deslizam; as pessoas entram e saem dos cinemas; os namorados conversam por aqui e por ali; os bares funcionam ativamente (...)” (linhas 2 e 3). Cada oração tem sentido completo sozinha e nenhuma funciona como sujeito, complemento ou adjunto de outra. Elas apenas se somam, lado a lado, separadas por ponto e vírgula ou unidas pela conjunção “e”.</p><p>Orações independentes que se juntam desse modo são <b>coordenadas</b>: assindéticas quando não há conjunção, e sindética aditiva em “e saem dos cinemas”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Oração reduzida tem o verbo no infinitivo, no gerúndio ou no particípio e depende de outra oração; no trecho, todos os verbos estão no presente do indicativo e nenhuma oração depende de outra.",
+      "C": "Oração subordinada desenvolvida é introduzida por conjunção ou pronome relativo (como “que”, “quando”, “porque”) e exerce uma função dentro de outra oração; isso não ocorre no trecho.",
+      "D": "Oração absoluta é a única oração de um período simples. O trecho tem vários verbos, logo é um período composto."
+    },
+    "tip": "Se cada oração pode virar uma frase sozinha sem perder o sentido, o período é formado por coordenação."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia o trecho a seguir, destacado do texto:</p><p>“<u>Apesar da fresquidão</u>, as mocinhas trazem nos pés sandálias douradas, (...)” (linhas 3 e 4).</p><p>O valor semântico da expressão sublinhada no trecho anterior é</p>",
+    "options": {
+      "A": "concessão.",
+      "B": "tempo.",
+      "C": "modo.",
+      "D": "consequência."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A locução “apesar de” introduz um fato que poderia impedir outro, mas não impede. Veja o trecho das linhas 3 e 4: “Apesar da fresquidão, as mocinhas trazem nos pés sandálias douradas”.</p><p>A tarde está “um pouco fria” (linha 1). Num dia assim, o esperado seria usar sapatos fechados; mesmo com o frio, as mocinhas usam sandálias. Existe um obstáculo (o tempo fresco) que não impede a ação principal. Essa relação se chama <b>concessão</b>.</p><p>Teste trocando por “embora”: “Embora esteja fresco, as mocinhas trazem nos pés sandálias douradas”. O sentido se mantém, o que confirma a concessão.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Tempo indicaria quando a ação acontece (“durante a tarde”, “quando esfria”); “apesar de” não marca um momento, e sim um obstáculo que não impede a ação.",
+      "C": "Modo diria como as mocinhas usam as sandálias; a expressão não descreve a maneira da ação.",
+      "D": "Consequência seria um resultado provocado pela fresquidão, e usar sandálias é justamente o contrário do que o frio levaria alguém a fazer."
+    },
+    "tip": "“Apesar de”, “embora”, “mesmo que” e “ainda que” expressam concessão: um obstáculo que não impede o fato principal."
+  }
+]

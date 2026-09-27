@@ -1,0 +1,275 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Alfredo passou 2 horas na academia usando fone de ouvido para se manter motivado. Ele dividiu esse tempo entre ouvir um podcast enquanto fazia musculação e ouvir música durante os exercícios cardiovasculares. Sabemos que o tempo que ele passou ouvindo podcast foi 28 minutos menor que o tempo que ele ouviu música.</p><p>A duração do podcast foi de</p>",
+    "options": {
+      "A": "28 minutos.",
+      "B": "32 minutos.",
+      "C": "46 minutos.",
+      "D": "1 hora e 14 minutos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, passe tudo para minutos: 2 horas \\(= 2 \\cdot 60 = 120\\) minutos.</p><p>Chame de \\(p\\) o tempo de podcast. O tempo de música é 28 minutos maior, ou seja, \\(p + 28\\).</p><p>Os dois tempos juntos somam 120 minutos:</p>\\[p + (p + 28) = 120 \\Rightarrow 2p = 92 \\Rightarrow p = 46.\\]<p>Conferindo: a música durou \\(46 + 28 = 74\\) minutos, e \\(46 + 74 = 120\\) minutos, que são as 2 horas. O podcast durou 46 minutos. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "28 minutos é a diferença entre os dois tempos, e não a duração do podcast.",
+      "B": "Sai de descontar os 28 minutos duas vezes, \\((120 - 56) \\div 2 = 32\\), ou de usar 1 hora em vez de 2 (\\(60 - 28 = 32\\)). Com 32 minutos de podcast, a música teria 60 minutos e o total seria só 92 minutos.",
+      "D": "1 hora e 14 minutos (74 minutos) é o tempo de música, o maior dos dois. O podcast durou 28 minutos a menos."
+    },
+    "tip": "Em problemas de soma e diferença, tire a diferença do total e divida por 2: o resultado é a parte menor."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Determinada a ter uma vida mais saudável e ativa em 2024, <i>Dona Ivanete</i>, seguindo a orientação de sua médica, decidiu buscar aulas de natação no mar. Ela encontrou um professor que cobra um valor fixo de R$200,00 para dar uma aula de uma hora para um grupo de até 8 pessoas. Esse valor é dividido igualmente entre os membros do grupo.</p><p>Dona Ivanete convenceu algumas amigas, que se juntaram a ela e formaram um grupo. Para uma segunda aula, uma nova amiga se integrou ao grupo, o que resultou em uma economia de R$10,00 por aula para cada participante. Em ambas as aulas, o valor pago por cada aluna foi um número inteiro.</p><p>Contando com Ivanete, fizeram a segunda aula</p>",
+    "options": {
+      "A": "2 pessoas.",
+      "B": "3 pessoas.",
+      "C": "4 pessoas.",
+      "D": "5 pessoas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.alg.eq2"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O professor cobra R$ 200,00 por aula, divididos igualmente. Se a primeira aula teve \\(n\\) pessoas, a segunda, com uma amiga a mais, teve \\(n + 1\\) pessoas. Cada pessoa pagou:</p><ul><li>na primeira aula: \\(200 \\div n\\) reais;</li><li>na segunda aula: \\(200 \\div (n + 1)\\) reais.</li></ul><p>Os dois valores são inteiros, então \\(n\\) e \\(n + 1\\) precisam ser divisores de 200, e o grupo tem no máximo 8 pessoas. Os divisores de 200 até 8 são 1, 2, 4, 5 e 8. Os pares de números consecutivos nessa lista são 1 e 2, e 4 e 5.</p><ul><li>De 1 para 2 pessoas: \\(200 - 100 = 100\\) reais de economia (não serve).</li><li>De 4 para 5 pessoas: \\(50 - 40 = 10\\) reais de economia (serve).</li></ul><p>Pela álgebra se chega ao mesmo lugar. A economia de R$ 10,00 por pessoa dá a equação</p>\\[\\dfrac{200}{n} - \\dfrac{200}{n + 1} = 10.\\]<p>Multiplicando tudo por \\(n(n + 1)\\):</p>\\[200(n + 1) - 200n = 10\\,n(n + 1),\\]<p>ou seja,</p>\\[200 = 10\\,n(n + 1) \\Rightarrow n(n + 1) = 20.\\]<p>Como \\(20 = 4 \\cdot 5\\), temos \\(n = 4\\).</p><p>A primeira aula teve 4 pessoas (Ivanete e 3 amigas) e a segunda teve 5. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Com 2 pessoas na segunda aula, a primeira teria só Ivanete, e a economia seria de \\(200 - 100 = 100\\) reais, não de 10. Além disso, ela já tinha convencido “algumas amigas” antes da primeira aula.",
+      "B": "Com 3 pessoas, cada uma pagaria \\(200 \\div 3 \\approx 66{,}67\\) reais, que não é um número inteiro, e a economia seria de cerca de R$ 33,33.",
+      "C": "4 é o número de pessoas da primeira aula. A pergunta é sobre a segunda aula, que teve uma amiga a mais."
+    },
+    "tip": "Se um valor é dividido igualmente e cada parte é inteira, o número de pessoas é divisor do total: liste os divisores e teste."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um professor de educação física acompanha um aluno na execução de um exercício físico, como ilustra o esquema a seguir:</p><p><img src=\"img/p2024/mat-q13.png\" alt=\"Duas figuras lado a lado. À esquerda, desenho de um homem sentado e reclinado em um aparelho de musculação do tipo leg press, empurrando com os pés uma plataforma inclinada. Sobre o desenho há quatro pontos ligados por segmentos, formando um quadrilátero: D no joelho, A na perna, perto do tornozelo, junto à plataforma, B logo abaixo e à direita de A, na plataforma, e C no quadril, junto ao assento. À direita, o esquema geométrico correspondente: quadrilátero ABCD sombreado, com C no canto inferior esquerdo, B no canto inferior direito, A acima de B (AB vertical) e D no alto, à esquerda de A. Há marcas de ângulo reto no vértice D (entre os lados DA e DC) e no vértice B (entre os lados BA e BC). O lado CB é horizontal. Os lados do quadrilátero são DA, AB, BC e CD; a diagonal AC não está desenhada. Não há medidas escritas na figura.\"></p><p>Sabe-se que, na figura, os pontos A, B, C e D são coplanares, os ângulos \\(A\\hat{D}C\\) e \\(A\\hat{B}C\\) são retos e que as medidas de AB, AD e DC são respectivamente, 25 cm, 39 cm e 52 cm.</p><p>A medida do segmento BC é de</p>",
+    "options": {
+      "A": "40 centímetros.",
+      "B": "50 centímetros.",
+      "C": "60 centímetros.",
+      "D": "70 centímetros."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O quadrilátero tem ângulos retos em D e em B. Trace a diagonal \\(AC\\): ela divide a figura em dois triângulos retângulos que têm \\(AC\\) como hipotenusa comum.</p><p><b>Triângulo ADC</b> (reto em D), com catetos \\(AD = 39\\) cm e \\(DC = 52\\) cm:</p>\\[AC^2 = 39^2 + 52^2 = 1521 + 2704 = 4225 \\Rightarrow AC = 65 \\text{ cm}.\\]<p>Atalho sem contas grandes: \\(39 = 3 \\cdot 13\\) e \\(52 = 4 \\cdot 13\\), então é o triângulo 3, 4, 5 ampliado 13 vezes, e \\(AC = 5 \\cdot 13 = 65\\).</p><p><b>Triângulo ABC</b> (reto em B), com hipotenusa \\(AC = 65\\) cm e cateto \\(AB = 25\\) cm:</p>\\[BC^2 = 65^2 - 25^2 = 4225 - 625 = 3600 \\Rightarrow BC = 60 \\text{ cm}.\\]<p>Também é um triângulo conhecido: 5, 12, 13 ampliado 5 vezes dá 25, 60, 65. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Subtrai as medidas em vez dos quadrados: \\(65 - 25 = 40\\). Mas \\(25^2 + 40^2 = 2225\\), bem diferente de \\(65^2 = 4225\\).",
+      "B": "Não satisfaz Pitágoras no triângulo ABC: \\(25^2 + 50^2 = 3125\\), e não \\(4225\\). É apenas o dobro de AB, sem passar pela diagonal AC.",
+      "D": "Impossível: BC é cateto do triângulo retângulo ABC, e um cateto é sempre menor que a hipotenusa \\(AC = 65\\) cm."
+    },
+    "tip": "Em quadriláteros com ângulos retos, trace uma diagonal para formar triângulos retângulos e use Pitágoras duas vezes."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote><i>\"Em todas as faixas etárias, a corrida ajuda a melhorar o condicionamento cardiovascular e a reduzir a mortalidade geral, a controlar o peso, a melhorar a densidade óssea, a força e coordenação muscular, além de reduzir o estresse e melhorar a saúde mental\", diz Danielle Ponzio</i></blockquote><p class=\"fonte\">Disponível em: www.nationalgeographicbrasil.com. Acesso em: 17.set.2024.</p><p>Uma pista de corrida é composta por duas semicircunferências de mesmo raio, conectadas por dois segmentos de reta congruentes. A pista foi representada em um plano cartesiano, no qual cada unidade equivale a 20 metros, como mostra a imagem a seguir:</p><p><img src=\"img/p2024/mat-q14.png\" alt=\"Plano cartesiano quadriculado, com o eixo x marcado de −5 a 5 e o eixo y de −3 a 3. A pista é uma curva fechada formada por: um segmento horizontal em y = 2, de (−3, 2) até (3, 2); um segmento horizontal em y = −2, de (−3, −2) até (3, −2); uma semicircunferência à direita, de centro C1 = (3, 0) e raio 2, passando por (5, 0); e uma semicircunferência à esquerda, de centro C2 = (−3, 0) e raio 2, passando por (−5, 0). Os centros C1 e C2 estão marcados com pontos sobre o eixo x. O ponto A está em (−3, −2), no início do trecho reto de baixo, do lado esquerdo. O ponto B está em (5, 0), o ponto mais à direita da pista. No canto inferior direito há uma escala: um segmento com o comprimento de uma unidade (entre x = 2 e x = 3), com o rótulo “20 cm”.\"></p><p>Interessado em melhorar sua saúde, Gael começou a correr nessa pista e, no seu primeiro dia, iniciou seu treino de corrida no ponto A e correu, no sentido horário, até o ponto B.</p><p>Admitindo \\(\\pi \\cong 3\\), a distância aproximada percorrida por Gael foi de</p>",
+    "options": {
+      "A": "180 metros.",
+      "B": "300 metros.",
+      "C": "360 metros.",
+      "D": "480 metros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.cartesiano"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Leia a figura: as semicircunferências têm centros \\(C_1 = (3, 0)\\) e \\(C_2 = (-3, 0)\\) e raio \\(r = 2\\) unidades (a pista vai de \\(y = -2\\) a \\(y = 2\\)). Os trechos retos vão de \\(x = -3\\) a \\(x = 3\\), ou seja, medem 6 unidades.</p><p>A é o ponto \\((-3, -2)\\), na ponta esquerda do trecho reto de baixo, e B é \\((5, 0)\\), o ponto mais à direita. No sentido horário (o dos ponteiros do relógio), quem está na parte de baixo anda para a esquerda. Então Gael percorre:</p><ul><li>a semicircunferência da esquerda inteira, de A até \\((-3, 2)\\): \\(\\pi r \\cong 3 \\cdot 2 = 6\\) unidades;</li><li>o trecho reto de cima, de \\((-3, 2)\\) até \\((3, 2)\\): 6 unidades;</li><li>um quarto da circunferência da direita, de \\((3, 2)\\) até B: \\(\\dfrac{2\\pi r}{4} \\cong \\dfrac{2 \\cdot 3 \\cdot 2}{4} = 3\\) unidades.</li></ul><p>Total: \\(6 + 6 + 3 = 15\\) unidades. Como cada unidade vale 20 metros: \\(15 \\cdot 20 = 300\\) metros. Resposta: <b>B</b>.</p><p>Observação: a escala desenhada na figura diz “20 cm”, mas o enunciado afirma que cada unidade equivale a 20 metros, e as alternativas estão em metros. Vale o enunciado.</p>",
+    "distractors": {
+      "A": "É o caminho no sentido anti-horário: trecho reto de baixo (6 unidades) mais um quarto de circunferência (3 unidades), \\(9 \\cdot 20 = 180\\) metros.",
+      "C": "Conta a semicircunferência da direita inteira em vez de só um quarto dela: \\(6 + 6 + 6 = 18\\) unidades, ou 360 metros. Mas B fica no meio da curva da direita.",
+      "D": "É uma volta completa na pista: \\(6 + 6 + 6 + 6 = 24\\) unidades, ou 480 metros. Gael parou em B, antes de fechar a volta."
+    },
+    "tip": "Sentido horário é o dos ponteiros do relógio, e uma semicircunferência mede \\(\\pi r\\), metade de \\(2\\pi r\\)."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Com o objetivo de melhorar sua saúde, Pedro procurou um nutricionista que o orientou a fazer mudanças na sua alimentação. O profissional apresentou uma tabela com algumas opções para a composição de uma refeição saudável que será consumida exclusivamente no almoço e no jantar.</p><table><thead><tr><th><i>Grupos Alimentares</i></th><th><i>Opção 1</i></th><th><i>Opção 2</i></th><th><i>Opção 3</i></th><th><i>Opção 4</i></th></tr></thead><tbody><tr><th><i>Fonte de Carboidratos</i></th><td>Cuscuz Nordestino</td><td>Arroz integral</td><td>Quinoa</td><td>Purê de batata</td></tr><tr><th><i>Fonte de proteínas</i></th><td>Filé de frango grelhado</td><td>Omelete com queijo</td><td>Filé de peixe assado</td><td>Almôndegas de lentilha</td></tr><tr><th><i>Legumes e verduras</i></th><td>Lascas de abóbora assada</td><td>Espinafre refogado</td><td>Abobrinha grelhada</td><td>Couve refogada</td></tr></tbody></table><p>Pedro iniciou sua dieta no almoço do dia 1º de janeiro de 2024. As refeições foram formadas por uma opção de cada grupo alimentar apresentado na tabela. Ele consumiu duas refeições por dia (almoço e jantar), até esgotarem-se todas as possibilidades.</p><p>Se Pedro nunca repetiu uma refeição, o último dia dessa dieta foi</p>",
+    "options": {
+      "A": "31 de março de 2024.",
+      "B": "4 de março de 2024.",
+      "C": "1° de fevereiro de 2024.",
+      "D": "12 de janeiro de 2024."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.contagem",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada refeição tem 1 fonte de carboidrato, 1 de proteína e 1 de legumes, e cada grupo tem 4 opções. Pelo princípio multiplicativo, o número de refeições diferentes é \\(4 \\cdot 4 \\cdot 4 = 64\\).</p><p>Pedro faz 2 refeições por dia sem repetir nenhuma, então a dieta dura \\(64 \\div 2 = 32\\) dias.</p><p>O 1º dia da dieta é 1º de janeiro. Janeiro tem 31 dias, então o 31º dia da dieta é 31 de janeiro e o 32º dia é 1º de fevereiro. Cuidado para não somar 32 à data inicial (isso daria 2 de fevereiro): o próprio 1º de janeiro já conta como um dia.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "31 de março seria o 91º dia (31 dias de janeiro, 29 de fevereiro e 31 de março), o que exigiria 182 refeições. Só existem 64 refeições diferentes.",
+      "B": "Considera uma refeição por dia: 64 dias a partir de 1º de janeiro de 2024 (ano bissexto) terminam em 4 de março. Mas Pedro fazia duas refeições por dia.",
+      "D": "Soma as opções em vez de multiplicar (\\(4 + 4 + 4 = 12\\)) e ainda conta uma refeição por dia, chegando a 12 dias. Cada carboidrato combina com todas as proteínas e todos os legumes, por isso se multiplica."
+    },
+    "tip": "Escolhas independentes se multiplicam: 4 opções em cada um de 3 grupos dão \\(4 \\cdot 4 \\cdot 4 = 64\\) combinações."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote><i>“O manganês é um nutriente essencial envolvido na formação dos ossos e no metabolismo de aminoácidos, colesterol e carboidratos.”</i></blockquote><p class=\"fonte\">Cozzolino, S.M.F. <b>Biodisponibilidade de nutrientes</b>. SP: Manole. 2020, p.506</p><p>Observe a tabela a seguir que lista a quantidade de manganês, em miligramas, presente em 100g de diversos tipos de banana:</p><table><thead><tr><th>Alimento (100g)</th><th>Manganês (em miligramas)</th></tr></thead><tbody><tr><td>Banana-da-terra</td><td>0,16</td></tr><tr><td>Banana-figo</td><td>0,21</td></tr><tr><td>Banana-maçã</td><td>0,60</td></tr><tr><td>Banana-nanica</td><td>\\(x\\)</td></tr><tr><td>Banana-ouro</td><td>0,09</td></tr><tr><td>Banana-pacova</td><td>0,41</td></tr><tr><td>Banana-prata</td><td>\\(y\\)</td></tr></tbody></table><p class=\"fonte\">Fonte: Tabela Taco. Disponível em: www.gov.br. Acesso em: 21.set.2024.</p><p>Sabemos que as bananas mais consumidas no Brasil são a banana-nanica e a banana-prata e que a média da quantidade de manganês presente em 100g das 7 bananas listadas na tabela é de 0,29 mg.</p><p>Com base nessas informações, a média da quantidade de manganês presente em 100g das duas bananas mais consumidas no Brasil é de</p>",
+    "options": {
+      "A": "0,58 mg.",
+      "B": "0,56 mg.",
+      "C": "0,29 mg.",
+      "D": "0,28 mg."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Média é a soma dos valores dividida pela quantidade de valores. Se a média das 7 bananas é 0,29 mg, a soma dos 7 valores é</p>\\[7 \\cdot 0{,}29 = 2{,}03 \\text{ mg}.\\]<p>Some os 5 valores conhecidos: \\(0{,}16 + 0{,}21 + 0{,}60 + 0{,}09 + 0{,}41 = 1{,}47\\) mg.</p><p>O que falta é a soma das duas bananas desconhecidas: \\(x + y = 2{,}03 - 1{,}47 = 0{,}56\\) mg.</p><p>A média das duas é \\(\\dfrac{x + y}{2} = \\dfrac{0{,}56}{2} = 0{,}28\\) mg. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É o dobro da média geral (\\(2 \\cdot 0{,}29 = 0{,}58\\)): seria a soma \\(x + y\\) se cada uma das duas bananas tivesse exatamente a média das 7, o que não precisa acontecer. Além disso, a pergunta pede a média das duas, e não a soma.",
+      "B": "0,56 mg é a soma \\(x + y\\). Faltou dividir por 2 para obter a média das duas bananas.",
+      "C": "Supõe que a média das duas bananas é igual à média das 7, o que não precisa acontecer. As contas mostram que ela é um pouco menor."
+    },
+    "tip": "Conhecendo a média, recupere a soma (média vezes quantidade) e subtraia os valores que você já tem."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe a tabela a seguir, que informa a quantidade aproximada, em gramas, de carboidratos, proteínas e lipídeos em uma porção de 100g de cada alimento:</p><table><thead><tr><th><i>Alimento (100g)</i></th><th><i>Carboidratos</i></th><th><i>Proteínas</i></th><th><i>Lipídeos</i></th></tr></thead><tbody><tr><td><i>Quindim</i></td><td>46g</td><td>5g</td><td>24g</td></tr><tr><td><i>Morango</i></td><td>7g</td><td>1g</td><td>0g</td></tr></tbody></table><p class=\"fonte\">Fonte: Tabela Taco. Disponível em: www.gov.br. Acesso em: 21.set.2024.</p><p>Cada 1g de carboidrato ou de proteína possui 4 kcal, enquanto cada 1g de lipídeo possui 9 kcal.</p><p>Nathália estava ouvindo uma música da Marisa Monte quando sentiu uma vontade irresistível de comer um quindim. No entanto, ela desistiu ao descobrir que a quantidade de calorias em um quindim de 50g era equivalente à de <b><i>X</i></b> gramas de morango.</p><p>O valor aproximado de <b><i>X</i></b> é de</p>",
+    "options": {
+      "A": "650g.",
+      "B": "500g.",
+      "C": "330g.",
+      "D": "250g."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.operacoes",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Calcule as calorias de 100 g de cada alimento (carboidrato e proteína: 4 kcal por grama; lipídeo: 9 kcal por grama).</p><p>Quindim (100 g): \\(46 \\cdot 4 + 5 \\cdot 4 + 24 \\cdot 9 = 184 + 20 + 216 = 420\\) kcal. Um quindim de 50 g tem metade disso: 210 kcal.</p><p>Morango (100 g): \\(7 \\cdot 4 + 1 \\cdot 4 + 0 \\cdot 9 = 28 + 4 = 32\\) kcal.</p><p>Quantos gramas de morango têm 210 kcal? Regra de três: 100 g estão para 32 kcal assim como \\(X\\) gramas estão para 210 kcal.</p>\\[X = \\dfrac{210 \\cdot 100}{32} = \\dfrac{21000}{32} \\approx 656 \\text{ g}.\\]<p>Sem calculadora dá para conferir: 650 g de morango têm \\(6{,}5 \\cdot 32 = 208\\) kcal, quase exatamente os 210 kcal do quindim. O valor aproximado de \\(X\\) é 650 g. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Usa 4 kcal por grama também para os lipídeos: o quindim de 50 g ficaria com \\(37{,}5 \\cdot 4 = 150\\) kcal e \\(X \\approx 470\\) g, perto de 500 g. Mas cada grama de lipídeo vale 9 kcal.",
+      "C": "Compara só os carboidratos: 50 g de quindim têm 23 g de carboidrato, e \\(\\dfrac{23}{7} \\cdot 100 \\approx 330\\) g de morango têm o mesmo. Faltou incluir proteínas e lipídeos e converter tudo em calorias.",
+      "D": "Compara só as proteínas: 50 g de quindim têm 2,5 g de proteína, a mesma quantidade que há em 250 g de morango. Faltou incluir carboidratos e lipídeos e converter tudo em calorias: 250 g de morango têm só \\(2{,}5 \\cdot 32 = 80\\) kcal, bem menos que os 210 kcal do quindim."
+    },
+    "tip": "Para comparar alimentos, converta tudo para a mesma grandeza (kcal) antes de montar a regra de três."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma receita de brownie saudável mistura apenas dois ingredientes:</p><ol><li>4 maçãs;</li><li>180g de chocolate 80% (chocolate com 80% de cacau em sua composição).</li></ol><p>Leonar gostaria de preparar essa receita, mas verificou que possuía em casa apenas chocolate 90%.</p><p>A quantidade de chocolate 90% que Leonar deverá utilizar para adaptar a receita, de modo a manter a proporção de cacau da receita original, é de</p>",
+    "options": {
+      "A": "160g.",
+      "B": "162g.",
+      "C": "170g.",
+      "D": "202,5g."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O que precisa ficar igual é a quantidade de cacau. Na receita original há 80% de 180 g:</p>\\[0{,}8 \\cdot 180 = 144 \\text{ g de cacau}.\\]<p>No chocolate 90%, cada grama tem 0,9 g de cacau. Para obter os mesmos 144 g de cacau com \\(m\\) gramas de chocolate 90%:</p>\\[0{,}9 \\cdot m = 144 \\Rightarrow m = \\dfrac{144}{0{,}9} = \\dfrac{1440}{9} = 160 \\text{ g}.\\]<p>Faz sentido: o chocolate 90% é mais concentrado, então é preciso <b>menos</b> chocolate. Conferindo: \\(0{,}9 \\cdot 160 = 144\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É 90% de 180 g (\\(0{,}9 \\cdot 180 = 162\\)): a quantidade de cacau que haveria em 180 g de chocolate 90%, e não a massa de chocolate necessária.",
+      "C": "Tira 10 g porque a porcentagem subiu 10 pontos. Porcentagem e massa não se relacionam por subtração: 170 g de chocolate 90% teriam 153 g de cacau, mais que os 144 g da receita.",
+      "D": "Trata como proporção direta: \\(180 \\cdot \\dfrac{90}{80} = 202{,}5\\). Mas quanto mais concentrado o chocolate, menos dele se usa; a proporção é inversa: \\(180 \\cdot \\dfrac{80}{90} = 160\\)."
+    },
+    "tip": "Mantenha fixa a quantidade de substância pura: porcentagem vezes massa deve dar o mesmo valor nas duas receitas."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote><i>“<b>Taperebá/Cajá:</b> Encontrado na Região Amazônica, o taperebá é um fruto amplamente consumido, em função do sabor agradável, boa composição nutricional e presença de carotenoides. A comercialização como polpa congelada é a forma de beneficiamento mais usual no Brasil.”</i></blockquote><p class=\"fonte\">Disponível em: www.belem.pa.gov.br. Acesso em: 20.set.2024.</p><p>Um mercado local compra pacotes de 400g de polpa de Taperebá por R$5,00 cada e realizou um estudo ao longo de 4 semanas, variando o preço de venda para observar o impacto nas vendas semanais.</p><p>Os dados são apresentados na tabela a seguir:</p><table><thead><tr><th>PREÇO POR EMBALAGEM</th><th>QUANTIDADE DE EMBALAGENS VENDIDAS EM UMA SEMANA</th></tr></thead><tbody><tr><td>R$16,00</td><td>160</td></tr><tr><td>R$15,50</td><td>170</td></tr><tr><td>R$15,00</td><td>180</td></tr><tr><td>R$14,50</td><td>190</td></tr></tbody></table><p>Suponha que, para cada redução de R$0,50 no preço por embalagem, 10 pacotes a mais são vendidos por semana.</p><p>Com base nessas informações, o lucro obtido em uma semana, se a receita total for de R$2880,00, será de</p>",
+    "options": {
+      "A": "R$1.440,00",
+      "B": "R$1.680,00",
+      "C": "R$1.880,00",
+      "D": "R$2.080,00"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.inequacoes_funcoes",
+      "mat.num.financeira"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Pela tabela, a cada desconto de R$ 0,50 vendem-se 10 pacotes a mais. Partindo de R$ 16,00 e 160 pacotes, depois de \\(k\\) descontos de R$ 0,50 o preço é \\(16 - 0{,}5k\\) e a quantidade vendida é \\(160 + 10k\\).</p><p>A receita (dinheiro que entra) é preço vezes quantidade e vale R$ 2.880,00:</p>\\[(16 - 0{,}5k)(160 + 10k) = 2880.\\]<p>Multiplicando: \\(2560 + 160k - 80k - 5k^2 = 2880\\), ou seja, \\(5k^2 - 80k + 320 = 0\\). Dividindo tudo por 5: \\(k^2 - 16k + 64 = 0\\), que é \\((k - 8)^2 = 0\\). Logo \\(k = 8\\).</p><p>Preço: \\(16 - 0{,}5 \\cdot 8 = 12\\) reais. Quantidade: \\(160 + 10 \\cdot 8 = 240\\) pacotes. Conferindo: \\(12 \\cdot 240 = 2880\\).</p><p>Sem equação também dá: continue a tabela multiplicando preço por quantidade (R$ 14,00 e 200 dão 2800; R$ 13,00 e 220 dão 2860; R$ 12,00 e 240 dão 2880). Curiosidade: R$ 2.880,00 é a maior receita possível nesse modelo, por isso a equação teve uma única solução.</p><p>O lucro é a receita menos o custo. O mercado paga R$ 5,00 por pacote, então o custo é \\(240 \\cdot 5 = 1200\\) reais.</p><p>Lucro: \\(2880 - 1200 = 1680\\) reais, ou R$ 1.680,00. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Supõe que o lucro é metade da receita (\\(2880 \\div 2\\)). O custo depende de quantos pacotes foram vendidos: \\(240 \\cdot 5 = 1200\\) reais, e não 1440.",
+      "C": "Corresponde a um custo de R$ 1.000,00, isto é, 200 pacotes (a linha de R$ 14,00, logo depois da tabela). Mas 200 pacotes a R$ 14,00 dão receita de R$ 2.800,00, e não R$ 2.880,00.",
+      "D": "Usa os 160 pacotes da primeira linha da tabela: \\(2880 - 160 \\cdot 5 = 2080\\). Só que 160 pacotes a R$ 16,00 dão receita de R$ 2.560,00, e não R$ 2.880,00."
+    },
+    "tip": "Receita é preço vezes quantidade e lucro é receita menos custo: descubra primeiro quantas unidades foram vendidas."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Thales foi a uma palestra sobre cultivo e descobriu a existência das chamadas Plantas Alimentícias Não Convencionais, conhecidas como PANCs. Ele descobriu que são plantas comestíveis que trazem novos sabores e texturas, além de, muitas vezes, trazerem grandes benefícios nutricionais.</p><p>Para produzir uma horta caseira retangular, Thales fez uma divisão, como mostra a imagem a seguir:</p><p><img src=\"img/p2024/mat-q20.png\" alt=\"Retângulo ABCD com o lado maior na horizontal: D no canto superior esquerdo, C no superior direito, B no inferior direito e A no inferior esquerdo. No lado de cima, entre D e C, estão os pontos E, F e G, nessa ordem da esquerda para a direita; no lado de baixo, entre A e B, estão os pontos K, J e I, nessa ordem da esquerda para a direita; no lado esquerdo está o ponto L, entre A e D; no lado direito está o ponto H, entre B e C. Cinco segmentos inclinados e paralelos entre si dividem a horta em regiões: LE, AF, KG, JC e IH. As regiões, da esquerda para a direita, são: triângulo DLE (azedinha), trapézio ALEF (almeirão-roxo), paralelogramo AFGK (taioba), paralelogramo KGCJ (bertalha), trapézio JCHI (ora-pro-nóbis) e triângulo IHB (beldroega), este mais escuro. Não há medidas escritas na figura.\"></p><p>Os segmentos \\(\\overline{DE}\\); \\(\\overline{EF}\\); \\(\\overline{FG}\\); \\(\\overline{GC}\\); \\(\\overline{CH}\\); \\(\\overline{HB}\\); \\(\\overline{BI}\\); \\(\\overline{IJ}\\); \\(\\overline{JK}\\); \\(\\overline{KA}\\); \\(\\overline{AL}\\) e \\(\\overline{LD}\\) são congruentes e a medida de \\(\\overline{EL}\\) é de 100cm.</p><p>A área do paralelogramo AFGK, destinado ao plantio de taioba, será de</p>",
+    "options": {
+      "A": "0,5 m².",
+      "B": "0,7 m².",
+      "C": "0,9 m².",
+      "D": "1 m²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.pitagoras",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Chame de \\(s\\) a medida comum dos 12 segmentos congruentes. Contando na figura:</p><ul><li>lado de cima: \\(DC = DE + EF + FG + GC = 4s\\) (o de baixo, \\(AB\\), também);</li><li>lado esquerdo: \\(AD = AL + LD = 2s\\) (o direito, \\(BC\\), também).</li></ul><p><b>Descobrindo \\(s^2\\).</b> O triângulo \\(DLE\\) tem ângulo reto em D (canto do retângulo) e catetos \\(DL = DE = s\\). Por Pitágoras:</p>\\[EL^2 = s^2 + s^2 = 2s^2 \\Rightarrow 2s^2 = 100^2 = 10000 \\Rightarrow s^2 = 5000 \\text{ cm}^2.\\]<p>Não é preciso calcular \\(s\\) (que vale \\(50\\sqrt{2} \\approx 70{,}7\\) cm): basta \\(s^2\\).</p><p><b>Área do paralelogramo AFGK.</b> A base \\(KA\\) está no lado de baixo e mede \\(s\\) (o lado de cima, \\(FG\\), também mede \\(s\\)). A altura é a distância entre o lado de cima e o de baixo do retângulo, ou seja, \\(AD = 2s\\).</p>\\[\\text{Área} = \\text{base} \\cdot \\text{altura} = s \\cdot 2s = 2s^2 = 10000 \\text{ cm}^2.\\]<p>Como \\(1 \\text{ m}^2 = 100 \\text{ cm} \\cdot 100 \\text{ cm} = 10000 \\text{ cm}^2\\), a área é 1 m². Resposta: <b>D</b>.</p><p>Repare: \\(2s^2 = EL^2\\), então o canteiro de taioba tem a mesma área de um quadrado de lado \\(EL = 1\\) m.</p>",
+    "distractors": {
+      "A": "Usa \\(s\\) como altura em vez de \\(2s\\): \\(s \\cdot s = 5000\\) cm² \\(= 0{,}5\\) m². A altura do paralelogramo é a altura do retângulo inteiro, \\(AL + LD = 2s\\).",
+      "B": "Multiplica a base \\(s \\approx 70{,}7\\) cm por \\(EL = 100\\) cm, como se EL fosse a altura, e obtém cerca de 7070 cm² \\(\\approx 0{,}7\\) m². EL é inclinado e fica em outro canteiro; a altura certa é \\(2s\\).",
+      "C": "Aparece quando se calcula \\(s\\) com uma aproximação ruim da raiz, por exemplo \\(\\sqrt{2} \\approx 1{,}5\\): \\(s \\approx 100 \\div 1{,}5 \\approx 66{,}7\\) cm e a área fica \\(2 \\cdot 66{,}7^2 \\approx 8900\\) cm², cerca de 0,9 m². Usando \\(s^2 = 5000\\) cm², sem calcular a raiz, a área dá exatamente 1 m²."
+    },
+    "tip": "A diagonal de um quadrado de lado \\(s\\) mede \\(s\\sqrt{2}\\); muitas vezes basta encontrar \\(s^2\\), sem calcular a raiz."
+  }
+]

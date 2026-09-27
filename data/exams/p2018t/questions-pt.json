@@ -1,0 +1,294 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto I, <i>A solidão do meteorito</i>, de José Eduardo Agualusa, foi publicado após o trágico incêndio que devastou o Museu Nacional, no dia 2 de setembro deste ano.</p><p>O ponto de vista defendido por Agualusa, em seu texto, pode ser entendido como</p>",
+    "options": {
+      "A": "uma banalização da importância histórica do Museu.",
+      "B": "uma valorização da materialidade perdida no incêndio.",
+      "C": "um levantamento das causas que levaram ao terrível acidente.",
+      "D": "um lamento pela memória que se extinguiu junto com o acervo."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A pergunta pede a opinião central do autor. Procure as frases em que ele diz o que foi realmente perdido no incêndio.</p><p>Nas linhas 9 a 12, Agualusa afirma: “O que desapareceu para sempre enquanto o Museu Nacional ardia não foram átomos, não foram artefatos, não foram múmias antiquíssimas (...): foram histórias. As histórias de que somos feitos.” Logo depois, completa: “Sempre que algo da nossa memória individual ou coletiva se perde, perde-se uma parte de nós” (linhas 13 e 14).</p><p>O texto termina em tom de tristeza: “O Brasil perdeu parte da memória; portanto, nem sequer sabe ao certo o que perdeu” (linha 22). Ou seja, o autor lamenta que a memória, feita de histórias, tenha desaparecido junto com as peças do acervo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Banalizar é tratar algo como se não tivesse importância. O autor faz o contrário: compara a perda do Museu a um AVC grave e diz que o Brasil perdeu parte da memória.",
+      "B": "O autor diz justamente que o mais grave não foi a perda material (“não foram átomos, não foram artefatos”, linhas 9 e 10), e sim a perda das histórias e da memória.",
+      "C": "O texto não investiga por que o incêndio aconteceu; ele reflete sobre o que essa perda significa para o país."
+    },
+    "tip": "Para achar o ponto de vista do autor, procure as frases em que ele avalia o fato (“foram histórias”, “perdeu parte da memória”), e não as que apenas narram o acontecimento."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O quinto parágrafo se constrói com base num raciocínio que cumpre, em relação ao parágrafo anterior, a função de</p>",
+    "options": {
+      "A": "facilitar o entendimento, por meio de uma comparação.",
+      "B": "comparar a perda do Museu com a perda de um braço.",
+      "C": "contrapor um outro ponto de vista à já mencionada opinião do autor.",
+      "D": "demonstrar o funcionamento de um Acidente Vascular Cerebral (AVC)."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, conte os parágrafos (cada um começa com recuo): 1º (linhas 1 a 3), 2º (linhas 4 a 8), 3º (linhas 9 a 12), 4º (linhas 13 a 15), 5º (linhas 16 a 21) e 6º (linha 22).</p><p>O 4º parágrafo traz uma ideia abstrata: “Sempre que algo da nossa memória individual ou coletiva se perde, perde-se uma parte de nós” (linhas 13 e 14). O 5º parágrafo explica essa ideia com uma comparação concreta: “Com a destruição do Museu Nacional é como se o Brasil tivesse sofrido um grave acidente vascular cerebral” (linhas 16 e 17). A expressão “é como se” marca a comparação. Quem sofre um AVC perde lembranças sem saber quais perdeu; o mesmo acontece com o país que perde o seu museu.</p><p>Assim, o 5º parágrafo usa uma comparação para facilitar o entendimento da ideia do parágrafo anterior.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A perda do Museu é comparada a um AVC, e não à perda de um braço. O braço aparece como contraste: é uma perda que a pessoa percebe na hora, ao contrário da perda de memória.",
+      "C": "O 5º parágrafo não apresenta outra opinião; ele reforça a ideia do próprio autor de que perder a memória é perder uma parte de nós.",
+      "D": "O AVC é apenas o termo de comparação. O autor não explica como a doença funciona; quem dá uma definição dela é o glossário."
+    },
+    "tip": "Expressões como “é como se” anunciam uma comparação, recurso usado para explicar uma ideia abstrata por meio de um exemplo concreto."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia:</p><blockquote><p>“<i>Penso na longa viagem que o meteorito fez até chegar ali (...) <b><u>enquanto</u></b> lembro os versos da poeta norte-americana Muriel Rukeyser</i>.” (linhas 4-7)</p></blockquote><p>No período, o termo em destaque estabelece uma relação entre as ideias apresentadas pelo autor do Texto I. Nessa relação, explicita-se uma circunstância de</p>",
+    "options": {
+      "A": "proporção.",
+      "B": "comparação.",
+      "C": "posterioridade.",
+      "D": "simultaneidade."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A conjunção “enquanto” liga duas ações do autor: pensar na viagem do meteorito (“Penso na longa viagem que o meteorito fez até chegar ali”, linha 4) e lembrar os versos da poeta (“enquanto lembro os versos da poeta norte-americana Muriel Rukeyser”, linhas 6 e 7).</p><p>Essas duas ações acontecem ao mesmo tempo: o autor pensa no meteorito e, nesse mesmo momento, lembra os versos. Por isso, “enquanto” expressa uma circunstância de tempo, mais precisamente de <b>simultaneidade</b>.</p><p>Faça o teste da troca: “Penso na longa viagem que o meteorito fez até chegar ali <b>ao mesmo tempo que</b> lembro os versos da poeta”. O sentido se mantém, o que confirma a relação.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Proporção indica que uma coisa aumenta ou diminui junto com outra, com conectivos como “à medida que” e “à proporção que”. No trecho, lembrar os versos não aumenta nem diminui conforme o autor pensa no meteorito; as duas ações apenas acontecem juntas.",
+      "B": "Para comparar, o autor usaria “como” ou “tal qual”. Aqui as duas ações não são comparadas; o conectivo só indica que elas ocorrem juntas.",
+      "C": "Posterioridade seria uma ação depois da outra (“depois que”, “após”). Com “enquanto”, as ações acontecem no mesmo momento."
+    },
+    "tip": "Para descobrir o sentido de um conectivo, troque-o por outro de sentido conhecido: se “ao mesmo tempo que” cabe no lugar, a relação é de simultaneidade."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Os adjetivos são recursos linguísticos que, entre outras funções gramaticais, explicitam opinião ou julgamento acerca dos nomes aos quais se referem.</p><p>A opção em que o adjetivo manifesta essa função argumentativa é</p>",
+    "options": {
+      "A": "“cinzas tristes”.",
+      "B": "“sertão baiano”.",
+      "C": "“primeira gargalhada”.",
+      "D": "“múmias antiquíssimas”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.leitura.fato_opiniao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Alguns adjetivos apenas descrevem ou classificam o substantivo de modo objetivo; outros revelam o que o autor sente ou pensa sobre ele.</p><p>Em “emergindo por entre as cinzas tristes do Palácio de São Cristóvão” (linhas 2 e 3), repare que cinzas não sentem tristeza. O adjetivo “tristes” mostra a emoção e o julgamento do autor diante da destruição do Museu: é uma avaliação pessoal, e não uma característica que se possa medir. Por isso ele tem função argumentativa: leva o leitor a compartilhar o lamento do autor.</p><p>Já “baiano” indica lugar, “primeira” indica ordem e “antiquíssimas” reforça a idade das múmias, que é um dado real e verificável. Esses adjetivos informam, mas não expressam opinião.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Em “sertão baiano” (linha 5), “baiano” só indica onde fica o sertão (na Bahia). É um dado objetivo, sem nenhum julgamento.",
+      "C": "Em “primeira gargalhada” (linha 20), “primeira” indica ordem: a gargalhada que veio antes de todas as outras. Não expressa opinião.",
+      "D": "O superlativo pode enganar por ser intenso, mas “antiquíssimas” (linha 10) se refere à idade das múmias, um fato que pode ser comprovado. Ele reforça uma informação, sem revelar sentimento do autor."
+    },
+    "tip": "Para saber se um adjetivo expressa opinião, pergunte: essa característica pode ser verificada por qualquer pessoa ou depende de quem fala?"
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O título do Texto II, “Uma noite real no Museu Nacional”, apresenta uma série de recursos linguísticos e textuais frequentes em textos literários, como a rima, a intertextualidade e a ambiguidade.</p><p>Considerando os versos do Texto II, o termo do título que foi empregado com sentido ambíguo é</p>",
+    "options": {
+      "A": "“noite”.",
+      "B": "“real”.",
+      "C": "“Museu”.",
+      "D": "“Nacional”."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Um termo é ambíguo quando pode ser entendido de duas maneiras. No título, a palavra “real” tem dois sentidos, e os versos confirmam os dois:</p><ul><li><b>real = da realeza</b>, ligado a reis, rainhas e príncipes. O samba fala em “coroa da majestade”, diz que o palácio “abrigou a realeza” e mostra “as princesas” deixando o jardim. O Museu Nacional funcionava no palácio onde morou a família real.</li><li><b>real = verdadeiro</b>, que acontece de fato. O samba se apresenta como “samba de verdade” e conta que “no anoitecer dizem que tudo ganha vida”, como se aquela noite mágica no Museu fosse real.</li></ul><p>As outras palavras do título têm um único sentido nos versos.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Noite” tem sentido literal: é o período em que, segundo o samba, as peças do Museu ganham vida (“no anoitecer”).",
+      "C": "“Museu” faz parte do nome da instituição, Museu Nacional, e tem um só sentido no texto.",
+      "D": "“Nacional” também integra o nome próprio do Museu e significa apenas “do país”."
+    },
+    "tip": "Para achar uma ambiguidade, teste se a palavra aceita dois sentidos diferentes e se o texto dá pistas que sustentam os dois."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Os sambas de enredo são compostos para acompanhar o desfile das escolas de samba durante o carnaval, concretizando em fantasias, alegorias e dança aquilo que é cantado na letra da música.</p><p>No Texto II, a estratégia utilizada pelos autores para dar vida ao Museu é</p>",
+    "options": {
+      "A": "a personificação das peças do Museu e das personagens históricas num baile.",
+      "B": "a passagem do tempo da noite para o amanhecer, que torna o texto mais palpável.",
+      "C": "o convite das personagens históricas ao leitor para um “samba de verdade”.",
+      "D": "a utilização de palavras como “palácio”, “patrimônio”, “Musa”, “identidade”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Dar vida ao Museu é fazer as suas peças agirem como seres vivos. Esse recurso se chama <b>personificação</b> (ou prosopopeia): atribuir ações e características humanas a objetos, animais e seres inanimados.</p><p>O samba anuncia: “no anoitecer dizem que tudo ganha vida”. Em seguida, “bailam meteoros e planetas / dinossauros, borboletas”: meteoros, fósseis de dinossauro e borboletas, peças do acervo, dançam como num baile. Depois, “o canto da cigarra em sinfonia / relembrou aqueles dias”: até o canto da cigarra se lembra do passado. As personagens históricas também voltam à cena: “as princesas deixam o jardim”.</p><p>Assim, os autores dão vida ao Museu personificando as suas peças e as suas personagens históricas numa grande festa noturna.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A passagem da noite para o amanhecer existe no samba, mas apenas organiza o tempo da história. O que dá vida ao Museu são as ações atribuídas às peças, como bailar e relembrar.",
+      "C": "Nenhuma personagem histórica convida o leitor. “Samba de verdade” é o modo como o próprio samba se apresenta logo no início.",
+      "D": "Palavras como “palácio” e “patrimônio” só nomeiam e valorizam o Museu; elas não fazem as peças agirem como seres vivos."
+    },
+    "tip": "Quando seres inanimados ou animais realizam ações humanas, como dançar e relembrar o passado, o texto está usando a personificação."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Nos sambas de enredo, é comum que termos e frases coloquiais estejam combinados com termos e frases em linguagem formal.</p><p>Sobre os versos “bailam meteoros e planetas / dinossauros, borboletas” é correto afirmar que apresentam linguagem</p>",
+    "options": {
+      "A": "formal, pois o sujeito da oração é indeterminado.",
+      "B": "coloquial, pois a oração não é formada com sujeito.",
+      "C": "coloquial, pois a oração é formada por sujeito simples.",
+      "D": "formal, pois o sujeito foi colocado após o verbo da oração."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.variacao",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, encontre o sujeito perguntando ao verbo: quem baila? Resposta: “meteoros e planetas / dinossauros, borboletas”. É um sujeito composto (tem vários núcleos) e aparece <b>depois</b> do verbo “bailam”. Na ordem direta, a frase seria: “Meteoros, planetas, dinossauros e borboletas bailam”.</p><p>A inversão da ordem, com o verbo antes do sujeito, é típica de uma linguagem mais elaborada, poética e formal. Repare também que o verbo está no plural, concordando com o sujeito que vem depois dele, como pede a norma-padrão; na fala coloquial, é comum o verbo ficar no singular nessa posição (“baila meteoros”).</p><p>Por isso, a banca considera que os versos apresentam linguagem formal, pois o sujeito foi colocado após o verbo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O sujeito não é indeterminado: sabemos exatamente quem baila (meteoros, planetas, dinossauros e borboletas).",
+      "B": "A oração tem sujeito, e ele está expresso logo depois do verbo “bailam”. Quem espera o sujeito antes do verbo pode achar que ele não existe.",
+      "C": "O sujeito não é simples, e sim composto, pois tem vários núcleos. Além disso, o tipo de sujeito, sozinho, não torna a linguagem coloquial."
+    },
+    "tip": "Para achar o sujeito, pergunte ao verbo “quem?” ou “o quê?”: ele pode vir depois do verbo, e essa ordem inversa é comum na linguagem poética e formal."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O poema “Coleção”, da poeta Ana Martins Marques, aborda a atividade de colecionar, mas destaca elementos que não podem ser colecionados.</p><p>Sobre os elementos que não podem ser colecionados, é correto afirmar que apresentam, em comum,</p>",
+    "options": {
+      "A": "aspecto temporal.",
+      "B": "significação abstrata.",
+      "C": "aspecto negativo.",
+      "D": "significação metafórica."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.gramatica.classes",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Liste o que o poema diz que <b>não</b> é colecionado: “o espaço / entre os objetos”, “o tempo / entre as fotos”, “viagens”, “seu voo” (o voo dos lepidópteros), “a memória da sede” e “o pequeno intervalo de silêncio / entre duas canções”.</p><p>Agora compare com o que é colecionado: objetos, fotos, selos, lepidópteros, garrafas e discos. Tudo isso é concreto, pode ser tocado e guardado numa caixa. Já os elementos da primeira lista não têm existência material: são noções, ações, sensações e intervalos. Por isso não cabem numa coleção.</p><p>O que eles têm em comum, portanto, é a <b>significação abstrata</b>. O poema se constrói justamente nesse contraste entre o concreto, que se guarda, e o abstrato, que escapa.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Alguns elementos têm relação com o tempo (“o tempo entre as fotos”, “intervalo”), mas outros não, como “o espaço entre os objetos” e “seu voo”. Não é um traço comum a todos.",
+      "C": "O “não” está em “mas não”, que nega a ação de colecionar. Os elementos em si não são negativos: viagens e voo, por exemplo, são até coisas boas.",
+      "D": "As palavras estão em sentido literal: “tempo”, “espaço”, “voo” e “silêncio” significam o que normalmente significam. O que as une é serem abstratas, e não metafóricas."
+    },
+    "tip": "Substantivos concretos nomeiam seres e objetos que existem por si (fotos, discos); os abstratos nomeiam noções, ações, estados e sensações (tempo, voo, memória)."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Quanto aos termos relacionados no poema, pode-se identificar uma antítese entre</p>",
+    "options": {
+      "A": "“fotos” e “tempo”.",
+      "B": "“selos” e “viagens”.",
+      "C": "“silêncio” e “canções”.",
+      "D": "“lepidópteros” e “voo”."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A <b>antítese</b> é a aproximação de palavras ou ideias de sentidos opostos.</p><p>Na última estrofe, o poema diz que colecionamos “discos / mas nunca / o pequeno intervalo de silêncio / entre duas canções”. “Silêncio” é ausência de som; “canções” são som, música. As duas palavras têm sentidos contrários e aparecem próximas, criando um contraste: entre duas músicas existe um instante sem som, que não pode ser guardado.</p><p>Nas outras alternativas, os termos estão relacionados, mas não são opostos: fotos registram momentos do tempo, selos lembram viagens e lepidópteros (borboletas e mariposas) voam.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Fotos e tempo estão ligados (a foto guarda um instante), mas não têm sentidos contrários.",
+      "B": "Selos e viagens se relacionam (selos acompanham cartas enviadas de outros lugares), mas não são opostos.",
+      "D": "Voar é justamente uma característica dos lepidópteros; os termos se completam, em vez de se oporem."
+    },
+    "tip": "Na antítese, as palavras têm sentidos contrários (silêncio e som, luz e sombra); se elas apenas se relacionam, não há antítese."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>O Texto IV é uma história em quadrinhos da Turma do Penadinho. No fragmento acima, lê-se o diálogo entre Dona Morte e Penadinho em homenagem ao Museu Nacional.</p><p>Essa homenagem é feita pela relação entre os seguintes elementos verbais e não verbais:</p>",
+    "options": {
+      "A": "história viva / Dona Morte.",
+      "B": "nosso cemitério / fantasma.",
+      "C": "alma do museu / itens do acervo.",
+      "D": "200 anos de história / sepulturas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A homenagem depende da relação entre o que se lê nos balões (linguagem verbal) e o que se vê nos desenhos (linguagem não verbal).</p><p>No 4º quadro, Dona Morte diz: “...EU VEJO QUE A ALMA DO MUSEU CONTINUA AQUI...”. No último quadro, ela conclui: “PORQUE A HISTÓRIA NUNCA MORRE DE FATO, SE A GENTE A MANTIVER VIVA!”. Ao mesmo tempo, a imagem mostra o cemitério cheio de figuras que lembram peças do acervo do Museu Nacional: o esqueleto de dinossauro, o réptil voador, as múmias, o vaso antigo.</p><p>A expressão “alma do museu” (verbal) se liga, portanto, aos itens do acervo desenhados (não verbal): o prédio foi destruído, mas a sua “alma”, isto é, as peças e as histórias, continua viva. É assim que o quadrinho homenageia o Museu.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A ideia de história viva aparece no último balão, mas Dona Morte é uma personagem fixa da Turma do Penadinho e não representa o Museu. O que se liga à história são as peças do acervo.",
+      "B": "O cemitério e os fantasmas são o cenário e os personagens de sempre da série. Eles não fazem referência ao Museu Nacional.",
+      "D": "“200 anos de história” lembra a idade do Museu, mas as sepulturas indicam morte. A homenagem está na ideia contrária: a alma do Museu continua viva nas peças do acervo."
+    },
+    "tip": "Em quadrinhos, relacione a fala dos balões com os detalhes do desenho: muitas vezes a imagem completa ou confirma o sentido das palavras."
+  }
+]

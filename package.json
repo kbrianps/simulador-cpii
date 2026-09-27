@@ -1,0 +1,19 @@
+{
+  "name": "simulador-cp2",
+  "private": true,
+  "description": "Offline single-file exam simulator for the Colegio Pedro II entrance exam (1st year of high school)",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check-math": "node tools/check_katex.mjs",
+    "deploy": "bash tools/deploy.sh",
+    "shoot": "node tools/shoot.mjs"
+  },
+  "dependencies": {
+    "@fontsource/literata": "^5.3.0",
+    "@fontsource/source-sans-3": "^5.3.0",
+    "katex": "^0.16.47"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}

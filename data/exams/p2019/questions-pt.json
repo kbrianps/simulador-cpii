@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>De acordo com o Texto I, a internet</p>",
+    "options": {
+      "A": "anula o ódio na sociedade.",
+      "B": "diminui o ódio na sociedade.",
+      "C": "introduz o ódio na sociedade.",
+      "D": "potencializa o ódio na sociedade."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A pergunta pede a ideia central do texto sobre a relação entre internet e ódio. Veja o que o autor afirma:</p><ul><li>“a internet maximizou a expressão de ódio” (linhas 1-2);</li><li>“a internet não cria o sentimento de ódio, talvez apenas torne mais evidente aquilo que só se daria no campo do relacionamento pessoal” (linhas 3-4);</li><li>“É errado, portanto, dizer que a internet transformou as pessoas em odiosas. Mas é fato que ela gera mais tranquilidade no exercício desse ódio” (linhas 13-14).</li></ul><p>Ou seja: o ódio já existia, mas a internet o amplia, porque oferece anonimato, distância e alcance (“com um <i>enter</i>, atinjo mais gente do que um livro clássico atingiria”, linhas 7-8). “Potencializar” significa justamente aumentar a força de algo que já existe, o mesmo sentido de “maximizar”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O texto diz o contrário: a internet “maximizou a expressão de ódio” (linhas 1-2). Nada nele sugere que o ódio desaparece.",
+      "B": "O autor mostra que a internet aumenta o ódio, e não que o reduz: ela “gera mais tranquilidade no exercício desse ódio” (linhas 13-14).",
+      "C": "É a pegadinha principal: o texto nega essa ideia ao dizer que “a internet não cria o sentimento de ódio” (linha 3). O ódio já existia; a internet só o amplia."
+    },
+    "tip": "Quando o autor nega uma ideia (“não cria”, “É errado, portanto, dizer que”), a alternativa que repete essa ideia negada costuma ser a pegadinha."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>A palavra destacada expressa valor lógico-semântico de condição na frase:</p>",
+    "options": {
+      "A": "<i><b><u>Se</u></b> a globalização fez com que bobagens alcançassem escala global, a internet maximizou a expressão de ódio, de intolerância, de exacerbação de preconceitos e da violência da linguagem</i>. (linhas 1-2)",
+      "B": "<i>Há cem anos, <b><u>se</u></b> eu fosse um racista, precisaria expressar meu racismo num livro</i>. (linha 5)",
+      "C": "<i>Agora, incita-<b><u>se</u></b> o ódio com um clique</i>. (linha 15)",
+      "D": "<i>Não importa saber <b><u>se</u></b> é verdade</i>. (linha 20)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.classes",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Uma oração tem valor de <b>condição</b> quando apresenta uma hipótese da qual depende outro fato: “se isso acontecesse, aquilo aconteceria”.</p><p>Em “Há cem anos, <b>se</b> eu fosse um racista, precisaria expressar meu racismo num livro” (linha 5), o autor imagina uma situação que não é real: <i>fosse</i> está no pretérito imperfeito do subjuntivo e <i>precisaria</i>, no futuro do pretérito, a dupla típica das hipóteses. Dá para trocar por “caso eu fosse um racista” sem mudar o sentido. Esse é o “se” condicional.</p><p>Nas outras frases, o “se” tem outros papéis:</p><ul><li>linha 1: apresenta um fato já aceito como verdadeiro (a globalização <i>fez</i> isso) para compará-lo a outro, como “enquanto a globalização fez...”;</li><li>linha 15: “incita-se o ódio” equivale a “o ódio é incitado” (partícula apassivadora);</li><li>linha 20: em “saber se é verdade”, o “se” é conjunção integrante e introduz o complemento de “saber”.</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Parece condição, mas o “se” apresenta um fato real e já acontecido (a globalização <i>fez</i> isso) e o compara com outro (a internet foi além). Não há hipótese: o sentido é próximo de “enquanto” ou “assim como”.",
+      "C": "Aqui o “se” está ligado ao verbo (“incita-se”) e forma a voz passiva: “o ódio é incitado com um clique”. É partícula apassivadora, não conjunção.",
+      "D": "Esse “se” é conjunção integrante: introduz a oração que completa o verbo “saber” (saber o quê? se é verdade). Expressa dúvida, não condição."
+    },
+    "tip": "Para testar se o “se” é condicional, troque-o por “caso”: se a frase continuar natural (“caso eu fosse um racista”), ele expressa condição."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>Se a globalização fez com que <b><u>bobagens</u></b> alcançassem escala global...</i> (linha 1)</p></blockquote><p>A palavra destacada no excerto acima pode ser substituída, sem prejuízo de sentido, pelo seguinte vocábulo:</p>",
+    "options": {
+      "A": "tolices",
+      "B": "ilusões",
+      "C": "ofensas",
+      "D": "brincadeiras"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para substituir uma palavra “sem prejuízo de sentido”, procure um sinônimo que caiba no mesmo contexto.</p><p>Na linha 1, “bobagens” são coisas tolas, sem valor ou sem fundamento, que a globalização espalhou pelo mundo inteiro. O sinônimo mais próximo é <b>tolices</b>. Teste a troca: “Se a globalização fez com que <i>tolices</i> alcançassem escala global...”. A frase continua dizendo exatamente a mesma coisa.</p><p>As outras palavras mudam o sentido: “ilusões” são enganos sobre a realidade, “ofensas” são insultos e “brincadeiras” são coisas feitas por diversão.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Ilusões” são enganos, ideias falsas sobre a realidade. Uma bobagem pode ser tola sem ser uma ilusão, então a troca muda o sentido.",
+      "C": "Quem escolhe “ofensas” se deixa levar pelo resto do texto, que fala de ódio. Mas “bobagens” não significa insultos; o ódio só aparece depois, como algo que a internet “maximizou”.",
+      "D": "“Brincadeiras” traz a ideia de diversão, de algo feito sem intenção séria. “Bobagens” são coisas tolas e sem valor, o que não é o mesmo que brincar."
+    },
+    "tip": "Para achar o sinônimo, reescreva a frase com cada opção e veja qual mantém o sentido original sem acrescentar ideias novas."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p><i>Um grupo o arrasta para o táxi da esquina. Já no carro a metade do corpo, protesta o motorista: quem pagará a corrida? Concordam chamar a ambulância.</i> (linhas 13-14)</p></blockquote><p>O trecho acima exemplifica um duplo movimento percebido em diversas passagens da narrativa. Esse duplo movimento é mais bem descrito como</p>",
+    "options": {
+      "A": "iniciativa coletiva e desistência individual.",
+      "B": "demonstração de empatia e atitude caridosa.",
+      "C": "impulso de solidariedade e recuo do egoísmo.",
+      "D": "intenção solidária e impossibilidade de condições."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Releia o trecho (a prova indica as linhas 13-14, mas ele termina na linha 15). Primeiro, “Um grupo o arrasta para o táxi da esquina”: um gesto de ajuda. Logo depois, o motorista protesta: “quem pagará a corrida?”. Diante disso, todos desistem: “Concordam chamar a ambulância”, e Dario volta para a calçada.</p><p>Há, portanto, dois movimentos: um <b>impulso de solidariedade</b> (levar Dario ao táxi) e um <b>recuo</b> provocado pelo <b>egoísmo</b> (a preocupação com o dinheiro fala mais alto). O mesmo padrão se repete em outras passagens:</p><ul><li>“Alguém informa da farmácia na outra rua. Não carregam Dario além da esquina; [...] além do mais, muito peso” (linhas 17-18);</li><li>“Um senhor piedoso dobra o paletó de Dario para lhe apoiar a cabeça” (linha 35), mas no fim a cabeça está “agora na pedra, sem o paletó” (linha 42).</li></ul><p>Na alternativa C, leia “recuo do egoísmo” como “recuo causado pelo egoísmo”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Embora o protesto parta do motorista, quem desiste é o grupo todo (“Concordam chamar a ambulância”, linhas 14-15). Além disso, a opção não aponta o motivo da desistência, que é o egoísmo, e nas outras passagens o contraste não é entre um grupo e uma pessoa.",
+      "B": "As duas partes são positivas, então não há “duplo movimento”. A opção ignora o recuo que vem logo depois da ajuda.",
+      "D": "Não havia impossibilidade real: o táxi estava ali e a farmácia ficava no fim do quarteirão. O que faz as pessoas desistirem é o interesse próprio (o dinheiro da corrida, o peso do corpo), e não a falta de condições."
+    },
+    "tip": "Em narrativas, observe os padrões que se repetem: quando uma atitude é sempre seguida de outra oposta, esse contraste costuma ser a chave da crítica do autor."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Na narrativa ficcional de Dalton Trevisan, nota-se a presença de metonímia em: <i>A última boca repete Ele morreu... ele morreu</i> (linha 32).</p><p>Assinale a alternativa que indica corretamente o efeito de sentido atingido com o emprego desse recurso.</p>",
+    "options": {
+      "A": "A comparação de ideias faz uma crítica ao estilo falastrão das pessoas que se desumanizam.",
+      "B": "O uso da parte pelo todo dissocia o complexo organismo humano, aludindo à desumanização das pessoas.",
+      "C": "O jogo de palavras com contrários personifica a crítica ao processo sofrido de desumanização das pessoas.",
+      "D": "O exagero denota uma precipitação na informação ainda não confirmada devido à desumanização das pessoas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Metonímia</b> é a figura em que se usa uma palavra no lugar de outra com a qual ela tem uma relação próxima. Um caso comum é usar <b>a parte pelo todo</b>.</p><p>Em “A última boca repete Ele morreu, ele morreu” (linha 32), “boca” está no lugar da pessoa que fala. Quem repete a frase não tem nome, rosto nem história: é apenas uma boca. Ao reduzir a pessoa a um pedaço do corpo, o narrador “dissocia” (separa) o organismo humano, e a notícia da morte passa a ser repetida de forma mecânica, sem emoção.</p><p>Esse recurso combina com a crítica do conto: ninguém ali age como um ser humano completo, capaz de se colocar no lugar do outro. É a <b>desumanização</b>, como afirma a alternativa B.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Comparação de ideias” descreve a comparação ou a metáfora, não a metonímia. E o texto não critica nenhum “estilo falastrão”: a boca só repete uma frase.",
+      "C": "“Jogo de palavras com contrários” é a antítese (ou o paradoxo), e não há opostos no trecho: a frase apenas repete “ele morreu”.",
+      "D": "Exagero é hipérbole, e o trecho não exagera nada. A notícia também não é precipitada: Dario de fato morreu (“Dario levou duas horas para morrer”, linhas 32-33)."
+    },
+    "tip": "Metonímia é trocar um termo por outro com o qual ele tem ligação real, como a parte pelo todo (“boca” no lugar de pessoa) ou o autor pela obra (“ler Machado”)."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Perpassam o texto certos acontecimentos cujo efeito de sentido reforça a falta de empatia manifestada pelos personagens.</p><p>Tal efeito de sentido se dá</p>",
+    "options": {
+      "A": "pelo sumiço de objetos de valor de Dario.",
+      "B": "pela participação ativa e agonizante de Dario.",
+      "C": "pela presença de janelas com almofadas de descanso para os observadores.",
+      "D": "pelo efetivo apoio recebido de alguns passantes que percebem sua morte iminente."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Perpassar” significa “atravessar”: a pergunta quer um tipo de acontecimento que aparece <b>ao longo de todo o texto</b> e mostra a falta de empatia.</p><p>Repare como os objetos de Dario vão sumindo:</p><ul><li>“não se vê guarda-chuva ou cachimbo a seu lado” (linha 12);</li><li>“não tem os sapatos nem o alfinete de pérola na gravata” (linhas 15-16);</li><li>“sem o relógio de pulso” (linhas 21-22);</li><li>“não pode identificá-lo os bolsos vazios” (linha 29);</li><li>“sem o paletó. E o dedo sem a aliança” (linha 42).</li></ul><p>Enquanto Dario agoniza, e mesmo depois de morto, as pessoas ao redor se aproveitam para roubá-lo. Em vez de ajudar, levam o que ele tem de valor. Esse sumiço repetido é o que mais reforça a falta de empatia.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Dario não participa ativamente de nada: ele mal consegue falar (“move os lábios, não se ouve resposta”, linhas 4-5). Ele apenas sofre as ações dos outros.",
+      "C": "Os moradores com almofadas na janela (linhas 37-38) até mostram indiferença, mas são um detalhe de uma única cena. A pergunta pede acontecimentos que “perpassam” o texto, isto é, que se repetem do começo ao fim, como os roubos.",
+      "D": "Dario não recebe apoio efetivo: os gestos de ajuda são abandonados, e o texto diz que “ninguém acreditava estivesse no fim” (linha 33). No final, o corpo fica largado “à espera do rabecão” (linha 41)."
+    },
+    "tip": "Preste atenção às palavras do enunciado: “perpassar” pede algo que se repete pelo texto inteiro, e não um detalhe isolado."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>A falta de empatia e de solidariedade na sociedade atual está presente em todos os textos desta prova. Na charge, Texto III, tal tema é mais bem representado pela</p>",
+    "options": {
+      "A": "condição de estudante do menino em contraste com o sangue no chão.",
+      "B": "quantidade de televisores na vitrine em contraste com o livro e a mochila do menino.",
+      "C": "expressão corporal idêntica do jogador e da mulher em contraste com a posição dos espectadores.",
+      "D": "expressão corporal da mulher diferente da do jogador em contraste com o menino morto no chão."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe a posição dos personagens na charge:</p><ul><li>na TV, o jogador de camisa 10 está ajoelhado, com as mãos no rosto, chorando por causa de uma partida;</li><li>na calçada, uma mulher está <b>exatamente na mesma posição</b>, chorando ao lado de um menino morto;</li><li>os espectadores estão de costas para ela, com os olhos presos na TV.</li></ul><p>O chargista repete a mesma postura de propósito. A tristeza do jogador, distante e ligada ao futebol, prende a atenção de todos; a dor da mulher, real e a poucos metros, é ignorada. O contraste entre os dois choros idênticos e a posição dos espectadores mostra a <b>falta de empatia</b>: as pessoas acompanham o sofrimento do ídolo na tela, mas não enxergam quem sofre ao lado delas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O contraste entre o menino estudante e o sangue denuncia a violência, mas não mostra a falta de empatia, que depende da reação (ou da falta de reação) das outras pessoas.",
+      "B": "Os televisores e o livro podem sugerir uma crítica sobre entretenimento e educação, mas não mostram ninguém deixando de se importar com o sofrimento alheio.",
+      "D": "A opção descreve a charge de forma errada: a mulher está na mesma posição do jogador, e não em uma posição diferente. Essa semelhança é justamente o centro da crítica."
+    },
+    "tip": "Em charges, compare os elementos que o desenhista repete ou coloca lado a lado: a crítica costuma estar no contraste entre eles."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>O Texto IV critica a relação das pessoas com as redes sociais e evidencia certo distanciamento do cordelista no que se refere a esses espaços virtuais.</p><p>Os versos que salientam tal distanciamento, reforçando-o por meio de um advérbio de lugar, é</p>",
+    "options": {
+      "A": "<i>Lá nas redes sociais / o mundo é bem diferente</i> (versos 1-2)",
+      "B": "<i>Quando é feijão com ovo / não vejo ninguém postando</i> (versos 27-28)",
+      "C": "<i>Esse mundo virtual / tem feito o povo gastar</i> (versos 29-30)",
+      "D": "<i>Conversar por uma tela / é tão frio, tão incerto</i> (versos 64-65)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Advérbio de lugar indica <b>onde</b> algo acontece. Os mais comuns são: aqui, aí, ali, lá, cá, perto, longe.</p><p>Em “Lá nas redes sociais / o mundo é bem diferente” (versos 1-2), a palavra “lá” situa as redes sociais em um lugar <b>afastado</b> de quem fala. Se o poeta dissesse “aqui nas redes sociais”, ele se colocaria dentro delas. Ao dizer “lá”, ele se põe do lado de fora, observando e criticando esse mundo “bem diferente”. O mesmo recurso volta nos versos 43 e 57 (“Lá nas redes sociais”).</p><p>Nas outras alternativas não há advérbio de lugar.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Quando” indica tempo, e “não” indica negação. Nenhuma dessas palavras é advérbio de lugar.",
+      "C": "“Esse” é pronome demonstrativo, que acompanha o substantivo “mundo” e retoma as redes já mencionadas. Não é advérbio de lugar.",
+      "D": "“Tão” é advérbio de intensidade, e “por uma tela” indica o meio da conversa. O trecho traz uma opinião negativa, mas sem advérbio de lugar."
+    },
+    "tip": "“Aqui” e “cá” aproximam o lugar de quem fala; “lá” e “ali” o afastam. Essa escolha revela o ponto de vista do autor."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>Mesmo pertencendo ao gênero cordel, pode-se dizer que o Texto IV apresenta estrutura argumentativa, na medida em que há</p>",
+    "options": {
+      "A": "trechos dissertativos e descritivos funcionando como argumentos para a tese defendida na primeira estrofe.",
+      "B": "trechos dissertativos e expositivos funcionando como argumentos para a tese defendida na primeira estrofe.",
+      "C": "em cada estrofe um ponto de vista sendo defendido por meio de argumentos: nesse caso, versos com citações que funcionam como argumento de autoridade.",
+      "D": "em cada estrofe um ponto de vista sendo defendido por meio de argumentos: nesse caso, versos exemplificando atitudes da maioria dos usuários de redes sociais."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Um texto tem estrutura argumentativa quando defende pontos de vista e os sustenta com argumentos. O cordel faz isso estrofe por estrofe, e o argumento mais usado é o <b>exemplo</b>: o poeta mostra atitudes comuns dos usuários para provar o que diz.</p><ul><li>A ideia de que só se posta o que impressiona é sustentada por “Se a comida for chique, / vai logo fotografando” e “quando é feijão com ovo / não vejo ninguém postando” (versos 24-28).</li><li>A ideia de que as redes afastam da experiência real é sustentada pelo exemplo do show: “pois foi lá só pra filmar” (verso 40).</li><li>A hipocrisia aparece em quem “Fura fila” e “tenta corromper um guarda” (versos 50-52), mas depois critica um deputado.</li></ul><p>Não há citações de especialistas, nem uma tese única na primeira estrofe desenvolvida por trechos dissertativos.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O poema não é organizado como uma dissertação, com uma tese única apresentada na primeira estrofe e desenvolvida depois: cada estrofe traz sua própria opinião sobre um aspecto das redes, sustentada por exemplos do comportamento dos usuários.",
+      "B": "O erro é o mesmo da A: o poema não desenvolve a primeira estrofe com trechos expositivos, que explicam ou informam. Ele defende pontos de vista mostrando exemplos do comportamento das pessoas.",
+      "C": "O poeta não cita nenhum especialista ou fonte reconhecida, o que caracterizaria o argumento de autoridade. O ditado “quando se aponta um dedo / voltam três pro seu nariz” (versos 62-63) é sabedoria popular e aparece em uma só estrofe."
+    },
+    "tip": "Argumento de autoridade exige a voz de alguém reconhecido (especialista, instituição); quando o autor mostra casos do cotidiano, o argumento é por exemplificação."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>No Texto IV, conforme é típico em textos poéticos, observa-se o emprego de linguagem figurada, como no 19º verso: <i>celular virou fogão</i>.</p><p>Nesse verso, o poeta, em um processo de associação de ideias e das funções dos objetos citados, aproxima-os valendo-se de uma metáfora.</p><p>Assinale a alternativa que apresenta o efeito de sentido obtido com esse recurso.</p>",
+    "options": {
+      "A": "A rapidez e a inutilidade da tecnologia explicitadas evocam um sentimento de estranhamento propiciado pelo verbo “virar”.",
+      "B": "A rapidez e a inutilidade da tecnologia explicitadas evocam um sentimento de pertencimento propiciado pelo verbo “virar”.",
+      "C": "A rapidez e a praticidade da tecnologia explicitadas evocam um sentimento de estranhamento propiciado pelo verbo “virar”.",
+      "D": "A rapidez e a praticidade da tecnologia explicitadas evocam um sentimento de pertencimento propiciado pelo verbo “virar”."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Leia o verso junto com os seguintes: “Celular virou fogão, / pois no toque de um botão / o rango vem pra você” (versos 19-21). O celular “vira” fogão porque, com um aplicativo, a comida chega “no toque de um botão”. Isso mostra a <b>rapidez</b> e a <b>praticidade</b> da tecnologia, e não a sua inutilidade. Assim, A e B já caem.</p><p>Agora compare “estranhamento” e “pertencimento”. O verbo “virar” indica uma transformação surpreendente: um objeto passa a fazer o papel de outro, bem diferente. É uma imagem estranha, usada em tom crítico, pois a estrofe começa falando de quem “esquece de comer, / jogando, batendo papo” (versos 16-17). Nada ali sugere a sensação de fazer parte de um grupo, que é o “pertencimento”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O poema não diz que a tecnologia é inútil: “no toque de um botão / o rango vem pra você” (versos 20-21) mostra que ela funciona, e rápido. O estranhamento está certo, mas a “inutilidade” não.",
+      "B": "Erra duas vezes: a tecnologia aparece como prática, e não inútil, e o verso não desperta a ideia de pertencer a um grupo.",
+      "D": "Rapidez e praticidade estão corretas, mas “pertencimento” não. O verbo “virar” marca uma transformação surpreendente, que causa estranhamento, e a estrofe tem tom crítico, não de identificação."
+    },
+    "tip": "Quando as alternativas combinam duas ideias, avalie cada parte separadamente: elimine as que erram a primeira metade e depois compare as que sobraram."
+  }
+]

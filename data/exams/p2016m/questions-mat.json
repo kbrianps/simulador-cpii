@@ -1,0 +1,274 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma loja virtual realiza uma promoção com o seguinte anúncio:</p><img src=\"img/p2016m/mat-q11.png\" alt=\"Anúncio com duas camisas polo, uma branca e outra preta, e um cartaz com o texto: COMPRE 1 CAMISA E LEVE A 2ª PELA METADE DO PREÇO.\"><p>Outra promoção que a loja poderia fazer, oferecendo o mesmo desconto percentual, é</p>",
+    "options": {
+      "A": "<i>\"Leve duas e pague uma\"</i>.",
+      "B": "<i>\"Leve três e pague uma\"</i>.",
+      "C": "<i>\"Leve três e pague duas\"</i>.",
+      "D": "<i>\"Leve quatro e pague três\"</i>."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Suponha que cada camisa custe R$ 100,00 (qualquer preço serve; 100 facilita a porcentagem).</p><p><b>Promoção do anúncio:</b> levando 2 camisas, paga-se \\(100 + 50 = 150\\) reais em vez de \\(200\\). O desconto é de 50 reais em 200:</p><p>\\[\\dfrac{50}{200} = \\dfrac{1}{4} = 25\\%.\\]</p><p>Outra forma de ver: de cada 2 camisas, você deixa de pagar meia camisa, e \\(\\dfrac{1/2}{2} = \\dfrac{1}{4}\\).</p><p><b>Agora as opções.</b> O desconto é a fração das camisas levadas que sai de graça:</p><ul><li>A) leva 2, paga 1: ganha 1 de 2, \\(\\tfrac{1}{2} = 50\\%\\);</li><li>B) leva 3, paga 1: ganha 2 de 3, \\(\\tfrac{2}{3} \\approx 66{,}7\\%\\);</li><li>C) leva 3, paga 2: ganha 1 de 3, \\(\\tfrac{1}{3} \\approx 33{,}3\\%\\);</li><li>D) leva 4, paga 3: ganha 1 de 4, \\(\\tfrac{1}{4} = 25\\%\\).</li></ul><p>Só a opção D dá o mesmo desconto de 25%. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Confunde “metade do preço” na segunda camisa com “segunda camisa de graça”: leve duas e pague uma dá 50% de desconto, o dobro do anúncio.",
+      "B": "Leve três e pague uma deixa 2 de 3 camisas de graça, um desconto de cerca de 66,7%, muito maior que os 25% do anúncio.",
+      "C": "Parece próxima, mas ganhar 1 camisa em 3 dá desconto de \\(\\tfrac{1}{3}\\), cerca de 33,3%, e não 25%. Para dar \\(\\tfrac{1}{4}\\), a camisa grátis tem de sair de um grupo de 4."
+    },
+    "tip": "Para comparar promoções, calcule a fração do total que deixa de ser paga: meia camisa em duas é o mesmo que uma camisa em quatro (25%)."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para fazer doze bolinhos, Tânia precisa de exatamente cem gramas de açúcar, cinquenta gramas de manteiga, meio litro de leite e quatrocentos gramas de farinha.</p><p>Em sua dispensa, ela dispõe de quinhentos gramas de açúcar, duzentos gramas de manteiga, quatro litros de leite e cinco quilogramas de farinha.</p><p>Utilizando os ingredientes que ela possui, a maior quantidade desses bolinhos que pode ser feita é</p>",
+    "options": {
+      "A": "48.",
+      "B": "60.",
+      "C": "96.",
+      "D": "150."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Cada ingrediente limita a produção. Vamos ver quantas vezes a receita de 12 bolinhos cabe no estoque de cada ingrediente (sempre na mesma unidade):</p><ul><li>Açúcar: \\(500 \\div 100 = 5\\) receitas;</li><li>Manteiga: \\(200 \\div 50 = 4\\) receitas;</li><li>Leite: \\(4 \\div 0{,}5 = 8\\) receitas;</li><li>Farinha: 5 kg = 5000 g, e \\(5000 \\div 400 = 12{,}5\\) receitas.</li></ul><p>A manteiga é a primeira a acabar: ela só dá para 4 receitas. Os outros ingredientes sobram, mas sem manteiga não dá para fazer mais bolinhos.</p><p>\\[4 \\times 12 = 48 \\text{ bolinhos.}\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Olhou só o açúcar (5 receitas, \\(5 \\times 12 = 60\\)), esquecendo que a manteiga acaba antes.",
+      "C": "É o que o leite permitiria (8 receitas, \\(8 \\times 12 = 96\\)), mas faltariam manteiga e açúcar muito antes.",
+      "D": "É o que a farinha permitiria (\\(12{,}5 \\times 12 = 150\\)); o limite é dado pelo ingrediente que acaba primeiro, não pelo que mais sobra."
+    },
+    "tip": "Numa receita, quem manda é o ingrediente que acaba primeiro: calcule quantas receitas cada um permite e fique com o menor valor."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Marcos, apaixonado por Matemática, resolveu pedir sua namorada em casamento de uma forma original. Comprou um Tangram (quebra-cabeça) no formato de coração, constituído por nove peças: cinco setores circulares de mesmo raio, um quadrado, um trapézio retângulo, um paralelogramo e um triângulo retângulo, como mostra a figura:</p><img src=\"img/p2016m/mat-q13-a.png\" alt=\"Tangram em forma de coração formado por nove peças. A base é um quadrado grande dividido em quatro peças: um triângulo retângulo no canto superior esquerdo, um paralelogramo inclinado logo abaixo dele, um quadrado menor no canto superior direito e um trapézio retângulo ocupando a parte de baixo. Apoiado no lado de cima do quadrado grande há um semicírculo dividido em dois setores de 90°. Apoiado no lado direito do quadrado grande há outro semicírculo, dividido em um setor de 90° (em cima) e dois setores de 45° (embaixo). O diâmetro de cada semicírculo é igual ao lado do quadrado grande, e o quadrado menor tem lado igual à metade do lado do quadrado grande (ou seja, igual ao raio dos setores). O triângulo, o paralelogramo e os três setores do semicírculo da direita aparecem sombreados. A figura não traz medidas.\"><p>Três dos setores têm abertura de 90°, e os outros dois, de 45°.</p><p>Antes de presenteá-la, no entanto, retirou um dos setores circulares de abertura 90°, como mostra a figura.</p><img src=\"img/p2016m/mat-q13-b.png\" alt=\"O mesmo quebra-cabeça em forma de coração, visto em perspectiva, com um dos dois setores de 90° do semicírculo de cima retirado e colocado separado, à esquerda das outras peças.\"><p>Sabe-se que esse setor seria recolocado na hora do pedido.</p><p>Usando \\(\\pi = 3\\), podemos afirmar que a razão entre a área do setor retirado e a área do quebra cabeça completo é igual a</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{28}\\).",
+      "B": "\\(\\dfrac{3}{28}\\).",
+      "C": "\\(\\dfrac{3}{7}\\).",
+      "D": "\\(\\dfrac{3}{4}\\)."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.circunferencia",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(r\\) o raio dos setores. Pela figura, cada semicírculo tem diâmetro igual ao lado do quadrado grande, então esse lado mede \\(2r\\).</p><p><b>1) Área do quebra-cabeça completo.</b> Ele é o quadrado grande (dividido em quadrado, trapézio, paralelogramo e triângulo) mais dois semicírculos.</p><ul><li>Quadrado grande: \\((2r)^2 = 4r^2\\).</li><li>Dois semicírculos formam um círculo inteiro: \\(\\pi r^2 = 3r^2\\) (usando \\(\\pi = 3\\)).</li></ul><p>\\[A_{\\text{total}} = 4r^2 + 3r^2 = 7r^2.\\]</p><p>Conferindo pelos setores: três de 90° e dois de 45° somam 270° + 90° = 360°, isto é, um círculo completo.</p><p><b>2) Área do setor retirado.</b> Um setor de 90° é \\(\\tfrac{1}{4}\\) do círculo:</p><p>\\[A_{\\text{setor}} = \\dfrac{\\pi r^2}{4} = \\dfrac{3r^2}{4}.\\]</p><p><b>3) Razão.</b></p><p>\\[\\dfrac{A_{\\text{setor}}}{A_{\\text{total}}} = \\dfrac{\\;\\tfrac{3r^2}{4}\\;}{7r^2} = \\dfrac{3}{4} \\cdot \\dfrac{1}{7} = \\dfrac{3}{28}.\\]</p><p>O \\(r^2\\) se cancela, por isso não precisamos saber o tamanho real das peças. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Esquece o \\(\\pi\\) na área do setor (usa \\(\\tfrac{r^2}{4}\\) em vez de \\(\\tfrac{3r^2}{4}\\)) e chega a \\(\\tfrac{r^2/4}{7r^2} = \\tfrac{1}{28}\\).",
+      "C": "É a razão entre a área de todos os setores juntos (\\(3r^2\\)) e o total (\\(7r^2\\)); faltou lembrar que o setor retirado é só \\(\\tfrac{1}{4}\\) do círculo.",
+      "D": "Compara o setor (\\(\\tfrac{3r^2}{4}\\)) com o quadrado pequeno de lado \\(r\\) (área \\(r^2\\)), e não com o quebra-cabeça inteiro."
+    },
+    "tip": "Quando a figura não dá medidas, chame a medida-chave de \\(r\\): numa razão entre áreas, o \\(r^2\\) se cancela."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O gráfico a seguir apresenta o desempenho de uma turma do nono ano de certa escola na primeira prova de Matemática de 2016.</p><img src=\"img/p2016m/mat-q14.png\" alt=\"Gráfico de barras intitulado Desempenho em Matemática, com quatro barras: Ruim 15%, Regular 25%, Bom 35% e Ótimo 25%.\"><p>Esse gráfico foi construído a partir da análise das notas (de 0,0 a 10,0) dos quarenta alunos da turma, baseada no padrão representado na tabela:</p><table><thead><tr><th>NOTA</th><th>CLASSIFICAÇÃO</th></tr></thead><tbody><tr><td>De 0,0 a 4,9</td><td>Ruim</td></tr><tr><td>De 5,0 a 6,9</td><td>Regular</td></tr><tr><td>De 7,0 a 8,4</td><td>Bom</td></tr><tr><td>De 8,5 a 10,0</td><td>Ótimo</td></tr></tbody></table><p>Sabe-se que</p><ul><li>no dia da referida avaliação, nenhum aluno faltou;</li><li>a média estipulada pela escola é 7,0; e</li><li>alunos com nota abaixo de 5,0 devem fazer recuperação.</li></ul><p>Podemos afirmar que</p>",
+    "options": {
+      "A": "20 alunos devem fazer recuperação.",
+      "B": "18 alunos tiraram nota abaixo da média.",
+      "C": "36 alunos não precisam fazer recuperação.",
+      "D": "24 alunos tiraram nota maior ou igual à média."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A turma tem 40 alunos. Como 10% de 40 é 4 e 5% de 40 é 2, fica fácil transformar cada barra do gráfico em número de alunos:</p><ul><li>Ruim (0,0 a 4,9): 15% de 40 \\(= 4 + 2 = 6\\) alunos;</li><li>Regular (5,0 a 6,9): 25% de 40 \\(= 40 \\div 4 = 10\\) alunos;</li><li>Bom (7,0 a 8,4): 35% de 40 \\(= 3 \\cdot 4 + 2 = 14\\) alunos;</li><li>Ótimo (8,5 a 10,0): 25% de 40 \\(= 10\\) alunos.</li></ul><p>Conferindo: \\(6 + 10 + 14 + 10 = 40\\).</p><p><b>Agora cada afirmativa:</b></p><ul><li>A) Recuperação é para nota abaixo de 5,0, ou seja, só a faixa Ruim: 6 alunos, não 20. Falsa.</li><li>B) Abaixo da média 7,0 ficam Ruim e Regular: \\(6 + 10 = 16\\) alunos, não 18. Falsa.</li><li>C) Não precisam de recuperação \\(40 - 6 = 34\\) alunos, não 36. Falsa.</li><li>D) Nota maior ou igual a 7,0: Bom e Ótimo, \\(14 + 10 = 24\\) alunos. Verdadeira.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Só a faixa Ruim (15%) faz recuperação, o que dá 6 alunos. Para serem 20, metade da turma (50%) precisaria ter nota abaixo de 5,0, e o gráfico não mostra isso.",
+      "B": "Abaixo da média (7,0) estão Ruim e Regular, 40% da turma, isto é, 16 alunos. Para serem 18, essa parte teria de ser 45% da turma, e o gráfico não mostra isso.",
+      "C": "Sem recuperação ficam 85% da turma, \\(0{,}85 \\times 40 = 34\\) alunos. O 36 aparece ao descontar 4 alunos (10%) em vez de 6 (15%)."
+    },
+    "tip": "Converta cada porcentagem do gráfico em número de alunos antes de julgar as afirmativas e confira se a soma dá o total da turma."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um <b>heliponto</b> é um local destinado exclusivamente às operações de aterragem e decolagem de helicópteros. Diferentemente dos heliportos, os helipontos não dispõem de instalações e facilidades complementares, tais como área de taxiamento, reabastecimento, pátios e hangares para estacionamento e manutenção dos helicópteros.</p><p class=\"fonte\">Fonte: https://pt.wikipedia.org/wiki/Heliponto . Adaptado. Acesso em 22/10/2016.</p><p>Oscar, arquiteto, foi incumbido de fazer o projeto de um heliponto para a cobertura de um edifício comercial no centro da cidade. Decidiu fazer a pista de pouso no formato de hexágono regular com 12 metros de lado, sendo a chamada \"área de toque\" um triângulo equilátero inscrito no mesmo.</p><img src=\"img/p2016m/mat-q15.png\" alt=\"Hexágono regular com um triângulo equilátero inscrito, cujos vértices são três vértices alternados do hexágono. O interior do triângulo está em branco e as três regiões do hexágono que ficam fora do triângulo estão sombreadas. A figura não traz medidas.\"><p>Dessa forma, por segurança, o helicóptero deveria pousar, sempre, na parte interna do triângulo equilátero. E, para facilitar a visualização da \"área de toque\", a região interna ao hexágono e externa ao triângulo equilátero seria pintada com tinta amarela fluorescente.</p><p>Sendo assim, a área a ser pintada com essa tinta amarela teria medida igual a</p>",
+    "options": {
+      "A": "\\(216\\sqrt{3}\\ \\text{m}^2\\).",
+      "B": "\\(216\\ \\text{m}^2\\).",
+      "C": "\\(108\\sqrt{3}\\ \\text{m}^2\\).",
+      "D": "\\(108\\ \\text{m}^2\\)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Área do hexágono.</b> Ligando o centro O aos seis vértices, o hexágono regular de lado 12 m se divide em 6 triângulos equiláteros de lado 12 m. A área de um triângulo equilátero de lado \\(\\ell\\) é \\(\\dfrac{\\ell^2\\sqrt{3}}{4}\\), então cada um deles tem</p><p>\\[\\dfrac{12^2\\sqrt{3}}{4} = \\dfrac{144\\sqrt{3}}{4} = 36\\sqrt{3}\\ \\text{m}^2,\\]</p><p>e o hexágono tem \\(6 \\cdot 36\\sqrt{3} = 216\\sqrt{3}\\ \\text{m}^2\\).</p><p><b>2) Área de cada região pintada.</b> Chame os vértices do hexágono, em ordem, de A, B, C, D, E e F, de modo que a área de toque seja o triângulo ACE. Olhe para a região pintada ABC: os segmentos OA, AB, BC e CO medem 12 m, então OABC é um losango formado por 2 dos 6 triângulos equiláteros (área \\(72\\sqrt{3}\\)). A diagonal AC corta esse losango em duas metades iguais: o triângulo pintado ABC e o triângulo branco AOC. Logo, cada região pintada tem</p><p>\\[\\dfrac{72\\sqrt{3}}{2} = 36\\sqrt{3}\\ \\text{m}^2.\\]</p><p><b>3) Total pintado.</b> São 3 regiões iguais:</p><p>\\[3 \\cdot 36\\sqrt{3} = 108\\sqrt{3}\\ \\text{m}^2.\\]</p><p>Conferindo: o triângulo de toque fica com \\(216\\sqrt{3} - 108\\sqrt{3} = 108\\sqrt{3}\\ \\text{m}^2\\), exatamente metade do hexágono. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É a área do hexágono inteiro; faltou descontar o triângulo de toque, que não é pintado.",
+      "B": "Esquece o \\(\\sqrt{3}\\) na área do triângulo equilátero (usa \\(\\tfrac{\\ell^2}{4}\\)) e ainda não desconta o triângulo de toque.",
+      "D": "Acerta que a parte pintada é metade do hexágono, mas esquece o fator \\(\\sqrt{3}\\) da fórmula \\(\\tfrac{\\ell^2\\sqrt{3}}{4}\\)."
+    },
+    "tip": "O hexágono regular é formado por 6 triângulos equiláteros, e o triângulo que liga vértices alternados ocupa exatamente metade da área do hexágono."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No famoso jogo para celular Pokémon Go, três pokémons, P<sub>1</sub>, P<sub>2</sub> e P<sub>3</sub> estão posicionados, respectivamente, nos vértices de um triângulo, retângulo em P<sub>1</sub>.</p><p>Sabe-se que a distância \\(\\overline{P_1P_2} = 12\\sqrt{3}\\,m\\) e que a distância \\(\\overline{P_2P_3}\\) mede o dobro dessa distância. Nesse momento do jogo, o treinador T está posicionado em um ponto do lado \\(\\overline{P_1P_3}\\), de forma que ele equidiste de P<sub>2</sub> e P<sub>3</sub>.</p><p>Considerando que o pokémon P<sub>3</sub> permanecerá imóvel, a menor distância que o treinador deverá percorrer para alcançá-lo será igual a</p>",
+    "options": {
+      "A": "\\(24\\sqrt{3}\\) m.",
+      "B": "24 m.",
+      "C": "\\(12\\sqrt{3}\\) m.",
+      "D": "12 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Faça um desenho: triângulo retângulo em P<sub>1</sub>, com catetos \\(P_1P_2\\) e \\(P_1P_3\\) e hipotenusa \\(P_2P_3\\).</p><ul><li>\\(P_1P_2 = 12\\sqrt{3}\\) m;</li><li>\\(P_2P_3 = 2 \\cdot 12\\sqrt{3} = 24\\sqrt{3}\\) m.</li></ul><p><b>1) Cateto \\(P_1P_3\\) por Pitágoras.</b></p><p>\\[(P_1P_3)^2 = (24\\sqrt{3})^2 - (12\\sqrt{3})^2 = 576 \\cdot 3 - 144 \\cdot 3 = 1728 - 432 = 1296,\\]</p><p>logo \\(P_1P_3 = \\sqrt{1296} = 36\\) m.</p><p><b>2) Posição do treinador.</b> T está no lado \\(P_1P_3\\) e fica à mesma distância de P<sub>2</sub> e de P<sub>3</sub>. Chame essa distância de \\(x\\): \\(TP_3 = TP_2 = x\\) e, portanto, \\(TP_1 = 36 - x\\). O triângulo \\(TP_1P_2\\) também é retângulo em P<sub>1</sub>, então:</p><p>\\[x^2 = (36 - x)^2 + (12\\sqrt{3})^2\\]</p><p>\\[x^2 = 1296 - 72x + x^2 + 432\\]</p><p>\\[72x = 1728 \\quad\\Rightarrow\\quad x = 24.\\]</p><p>Conferindo: \\(TP_1 = 36 - 24 = 12\\) e \\(TP_2 = \\sqrt{12^2 + (12\\sqrt{3})^2} = \\sqrt{144 + 432} = \\sqrt{576} = 24\\), igual a \\(TP_3\\).</p><p>A menor distância até P<sub>3</sub> é andar em linha reta: \\(TP_3 = 24\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a hipotenusa \\(P_2P_3\\), a distância entre os dois pokémons, e não a distância do treinador até P<sub>3</sub>.",
+      "C": "Seria a distância até P<sub>3</sub> se T estivesse no ponto médio da hipotenusa (metade de \\(24\\sqrt{3}\\)), mas o enunciado coloca T no lado \\(P_1P_3\\). Esse valor também é só o cateto dado, \\(P_1P_2\\).",
+      "D": "É a distância \\(TP_1\\), de T até P<sub>1</sub>; a pergunta pede a distância até P<sub>3</sub>, que é \\(36 - 12 = 24\\)."
+    },
+    "tip": "Ponto que equidista de dois outros: chame as duas distâncias iguais de \\(x\\) e monte um Pitágoras; os \\(x^2\\) se cancelam e sobra uma equação do 1º grau."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe o esquema a seguir, que representa certo trecho do Oceano Atlântico na costa brasileira. Um navio de pesquisas, situado inicialmente no ponto B, deve seguir rumo ao ponto C, em linha reta. Sabe-se que a distância BC é igual a 10 km. No ponto A encontra-se uma ilha e o navio deve parar, na sua trajetória, em um ponto o mais próximo possível dessa ilha, para que uma equipe de biólogos siga em um barco auxiliar a fim de coletar algumas espécies de plantas nativas para análise.</p><p>Considere que a região limitada por \\(\\overline{\\mathrm{AB}}, \\overline{\\mathrm{AC}}\\) e \\(\\overline{\\mathrm{BC}}\\) seja plana e que o ângulo BAC meça 90°.</p><img src=\"img/p2016m/mat-q17.png\" alt=\"Triângulo retângulo ABC com o ângulo reto no vértice A. O lado AC é vertical, com C em cima; o lado AB é horizontal, com B à direita; o lado BC é a hipotenusa, ligando B a C. A figura não traz medidas.\"><p>Se a distância do navio à ilha, ao iniciar sua trajetória em B, era de 8km, podemos afirmar que, nesse percurso, a menor distância do navio à ilha será igual a</p>",
+    "options": {
+      "A": "5,2 Km.",
+      "B": "5,0 Km.",
+      "C": "4,8 Km.",
+      "D": "3,6 Km."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O navio anda sobre a hipotenusa BC. A menor distância do ponto A até o segmento BC é o segmento que sai de A e chega a BC formando ângulo reto, isto é, a <b>altura</b> \\(h\\) relativa à hipotenusa.</p><p><b>1) Lado que falta.</b> Pitágoras no triângulo retângulo em A, com \\(BC = 10\\) km e \\(AB = 8\\) km:</p><p>\\[AC^2 = 10^2 - 8^2 = 100 - 64 = 36 \\quad\\Rightarrow\\quad AC = 6 \\text{ km}.\\]</p><p><b>2) Altura pela área.</b> A área do triângulo pode ser calculada de dois jeitos: com os catetos como base e altura, ou com a hipotenusa como base e \\(h\\) como altura.</p><p>\\[\\dfrac{AB \\cdot AC}{2} = \\dfrac{BC \\cdot h}{2} \\quad\\Rightarrow\\quad 8 \\cdot 6 = 10 \\cdot h \\quad\\Rightarrow\\quad h = \\dfrac{48}{10} = 4{,}8 \\text{ km}.\\]</p><p>Essa é a relação métrica \\(b \\cdot c = a \\cdot h\\). Faz sentido: 4,8 km é menor que os dois catetos (6 km e 8 km). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É impossível: o ponto médio de BC fica a 5 km da ilha (metade da hipotenusa), então a menor distância não pode passar de 5 km. Pela área, ela vale \\(\\tfrac{8 \\cdot 6}{10} = 4{,}8\\) km.",
+      "B": "É a metade da hipotenusa, que é a distância de A ao ponto médio de BC. O ponto do percurso mais próximo da ilha é o pé da altura, não o ponto médio.",
+      "D": "É a projeção do cateto AC sobre a hipotenusa (\\(\\tfrac{AC^2}{BC} = \\tfrac{36}{10}\\)), a distância de C até o pé da altura, e não a altura."
+    },
+    "tip": "A menor distância de um ponto a uma reta é a perpendicular; no triângulo retângulo, a altura sobre a hipotenusa sai de \\(b \\cdot c = a \\cdot h\\)."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Isabela, de cinco anos, estava com febre e muita tosse. Ana, sua mãe, resolveu levá-la ao pediatra, que prescreveu o seguinte tratamento:</p><p>→ xarope \"A\", de dez em dez horas, somente enquanto a tosse persistisse;<br>→ antitérmico \"B\", de seis em seis horas, apenas enquanto a febre perdurasse;<br>→ antibiótico \"C\", de oito em oito horas, durante dez dias ininterruptos.</p><p>Sua mãe, muito precavida, logo após comprar toda a medicação, começou o tratamento, dando à menina uma dose (simultânea) dos três medicamentos, às 16 horas do dia 01/10/2016.</p><p>Ana também elaborou uma tabela, em que ia anotando todos os horários em que a filha tomava cada um dos remédios. Sabe-se que a febre desapareceu ao final do terceiro dia completo de tratamento (72 horas), mas a tosse só acabou definitivamente após cinco dias inteiros de uso do xarope.</p><p>Sendo assim, podemos afirmar que, no dia 03/10/16, às 16 horas, a menina tomou, simultaneamente, os medicamentos</p>",
+    "options": {
+      "A": "A, B e C.",
+      "B": "A e B.",
+      "C": "B e C.",
+      "D": "A e C."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.logica"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Conte as horas a partir da primeira dose, às 16 h de 01/10. De 01/10 às 16 h até 03/10 às 16 h passam 2 dias:</p><p>\\[2 \\times 24 = 48 \\text{ horas}.\\]</p><p>Um remédio é tomado nesse momento se 48 for múltiplo do seu intervalo e se o tratamento com ele ainda estiver valendo:</p><ul><li>Xarope A (de 10 em 10 h): doses em 0, 10, 20, 30, 40, 50, ... horas. 48 não é múltiplo de 10, então <b>não</b> toma.</li><li>Antitérmico B (de 6 em 6 h): \\(48 = 6 \\times 8\\), e a febre só acabou ao completar 72 h, então B ainda está em uso: <b>toma</b>.</li><li>Antibiótico C (de 8 em 8 h): \\(48 = 8 \\times 6\\), e ele dura 10 dias: <b>toma</b>.</li></ul><p>Às 16 h de 03/10, a menina tomou B e C juntos. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Para os três coincidirem, as horas passadas teriam de ser múltiplo de 10, 6 e 8 ao mesmo tempo (o MMC é 120 h); 48 não é múltiplo de 10.",
+      "B": "Inclui o xarope, mas as doses de A caem em 40 h e 50 h, não em 48 h; e deixa de fora o antibiótico, que é tomado em 48 h (\\(48 = 8 \\times 6\\)).",
+      "D": "Inclui o xarope, que não cai em 48 h, e exclui o antitérmico, talvez achando que a febre já tinha passado; ela só desapareceu ao completar 72 h."
+    },
+    "tip": "Para saber quando remédios coincidem, transforme datas em horas passadas e procure múltiplos comuns dos intervalos, conferindo se cada tratamento ainda está valendo."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma grande empresa de publicidade, responsável pela divulgação de um show de rock, recebeu 180 convites da organização geral do evento para distribuir entre seus funcionários. Decidiu-se que, somente, os setores de Atendimento e de Planejamento da empresa receberiam, cada um, 90 convites. Dentro de cada setor, os convites seriam divididos igualmente pelos respectivos funcionários.</p><p>Feita a distribuição, cada funcionário do atendimento acabou recebendo 4 convites a mais do que cada funcionário do planejamento.</p><p>Sabendo que os dois setores da empresa possuem, juntos, 60 funcionários, podemos afirmar que</p>",
+    "options": {
+      "A": "cada funcionário do atendimento recebeu 6 convites.",
+      "B": "cada funcionário do planejamento recebeu 4 convites.",
+      "C": "o setor de atendimento possui mais de 20 funcionários.",
+      "D": "o setor de planejamento possui menos de 40 funcionários."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.eq2"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(a\\) o número de funcionários do Atendimento e \\(p\\) o do Planejamento. Cada setor recebeu 90 convites, então cada funcionário do Atendimento recebeu \\(\\dfrac{90}{a}\\) convites e cada um do Planejamento recebeu \\(\\dfrac{90}{p}\\). Os dados dão o sistema:</p><p>\\[\\begin{cases} a + p = 60 \\\\ \\dfrac{90}{a} = \\dfrac{90}{p} + 4 \\end{cases}\\]</p><p><b>Jeito rápido: testar divisores.</b> Como os convites foram divididos igualmente, \\(a\\) e \\(p\\) são divisores de 90. Os divisores de 90 são 1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45 e 90, e os pares que somam 60 são 15 e 45, ou 30 e 30. Com 30 e 30, todos receberiam 3 convites e não haveria a diferença de 4. Como no Atendimento cada um recebe mais, lá há menos gente: \\(a = 15\\) e \\(p = 45\\).</p><p>Conferindo: \\(90 \\div 15 = 6\\) e \\(90 \\div 45 = 2\\), e de fato \\(6 = 2 + 4\\).</p><p><b>Pela álgebra.</b> Substituindo \\(p = 60 - a\\) e multiplicando a segunda equação por \\(a(60 - a)\\):</p><p>\\[90(60 - a) = 90a + 4a(60 - a)\\]</p><p>\\[5400 - 90a = 330a - 4a^2 \\quad\\Rightarrow\\quad 4a^2 - 420a + 5400 = 0.\\]</p><p>Dividindo tudo por 4:</p><p>\\[a^2 - 105a + 1350 = 0.\\]</p><p>\\[\\Delta = 105^2 - 4 \\cdot 1350 = 11025 - 5400 = 5625 = 75^2 \\quad\\Rightarrow\\quad a = \\dfrac{105 \\pm 75}{2}.\\]</p><p>Assim \\(a = 90\\) ou \\(a = 15\\). Como o total é 60, \\(a = 90\\) é impossível; logo \\(a = 15\\) e \\(p = 45\\).</p><p><b>As opções:</b> A) cada funcionário do Atendimento recebeu 6 convites: verdadeira. B) cada um do Planejamento recebeu 2, não 4. C) o Atendimento tem 15 funcionários, não mais de 20. D) o Planejamento tem 45, não menos de 40. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Cada funcionário do Planejamento recebeu \\(90 \\div 45 = 2\\) convites; o 4 do enunciado é a diferença entre os setores, não o que o Planejamento recebeu.",
+      "C": "O Atendimento tem só 15 funcionários. Quem troca os setores, achando que o setor que recebe mais convites por pessoa tem mais gente, fica com 45 no Atendimento e marca esta opção.",
+      "D": "O Planejamento tem 45 funcionários, mais de 40. Cai aqui quem troca os setores (15 no Planejamento) ou quem imagina uma divisão meio a meio (30 e 30); mas com 30 e 30 todos receberiam 3 convites, sem a diferença de 4."
+    },
+    "tip": "Quando algo é dividido igualmente, o número de pessoas é divisor do total: testar divisores costuma ser mais rápido que resolver a equação do 2º grau."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Pedrinho está brincando com duas moedas circulares com tamanhos diferentes e uma régua não graduada. Sabe-se que as moedas possuem raios iguais a 8 e 18 milímetros, respectivamente. Em certo momento ele posicionou as duas moedas tangentes à régua em dois pontos (A e B), e tangentes entre si, simultaneamente, conforme a figura a seguir:</p><img src=\"img/p2016m/mat-q20.png\" alt=\"Duas moedas circulares, uma menor à esquerda e uma maior à direita, apoiadas sobre a borda de uma régua e tangentes entre si. A moeda menor toca a régua no ponto A e a moeda maior toca a régua no ponto B. A figura não traz medidas.\"><p>Nessas condições, o comprimento de \\(\\overline{\\mathrm{AB}}\\) seria igual a</p>",
+    "options": {
+      "A": "26 mm.",
+      "B": "24 mm.",
+      "C": "22 mm.",
+      "D": "20 mm."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Sejam \\(O_1\\) o centro da moeda menor (raio 8 mm) e \\(O_2\\) o centro da maior (raio 18 mm).</p><ul><li>O raio que vai até o ponto de tangência com a régua é perpendicular à régua: \\(O_1A = 8\\) e \\(O_2B = 18\\), ambos verticais.</li><li>As moedas são tangentes entre si, então a distância entre os centros é a soma dos raios: \\(O_1O_2 = 8 + 18 = 26\\) mm.</li></ul><p>Por \\(O_1\\), trace um segmento paralelo à régua até encontrar \\(O_2B\\) no ponto \\(H\\). Forma-se o triângulo retângulo \\(O_1HO_2\\), com:</p><ul><li>hipotenusa \\(O_1O_2 = 26\\);</li><li>cateto vertical \\(O_2H = 18 - 8 = 10\\);</li><li>cateto horizontal \\(O_1H\\), que tem o mesmo comprimento de \\(\\overline{AB}\\), pois \\(O_1ABH\\) é um retângulo.</li></ul><p>\\[AB^2 = 26^2 - 10^2 = 676 - 100 = 576 \\quad\\Rightarrow\\quad AB = 24 \\text{ mm}.\\]</p><p>Atalho: para dois círculos tangentes entre si e à mesma reta, \\(AB = 2\\sqrt{r \\cdot R} = 2\\sqrt{8 \\cdot 18} = 2\\sqrt{144} = 24\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a distância entre os centros (\\(8 + 18\\)), que é a hipotenusa do triângulo retângulo, e não a distância AB medida ao longo da régua.",
+      "C": "Não confere com Pitágoras: AB é cateto de um triângulo retângulo de hipotenusa 26 e outro cateto 10, e \\(22^2 + 10^2 = 584 \\neq 676\\).",
+      "D": "Pode vir de dobrar a diferença dos raios (\\(2 \\cdot 10\\)), mas não confere com Pitágoras: \\(20^2 + 10^2 = 500 \\neq 26^2 = 676\\)."
+    },
+    "tip": "Com círculos tangentes, ligue os centros (distância = soma dos raios) e desça os raios até os pontos de tangência: aparece um triângulo retângulo."
+  }
+]

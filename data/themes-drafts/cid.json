@@ -1,0 +1,642 @@
+[
+  {
+    "id": "cid-01",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Juventude e transporte público: como garantir que os jovens possam circular pela cidade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre os jovens, o transporte público e o acesso às oportunidades que a cidade oferece. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Até onde a passagem alcança",
+        "body_html": "<p>Para muitos jovens, a cidade só existe até onde a passagem alcança. A escola, o curso gratuito, a biblioteca, o estágio, o show na praça e até o encontro com os amigos dependem de ônibus, trens, metrôs ou barcas.</p><p>Quando o transporte é caro, demorado ou irregular, o problema não é apenas o desconforto da viagem: é a redução das oportunidades. A Constituição Federal inclui o transporte entre os direitos sociais, ao lado da educação e da saúde. Na prática, porém, a distância entre o bairro onde se mora e os lugares onde as coisas acontecem pesa de forma desigual sobre quem vive nas periferias.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Sábado de manhã",
+        "body_html": "<p>Um centro cultural no centro da cidade abriu oficinas gratuitas de teatro e fotografia para adolescentes, aos sábados. Luana, que mora no ponto final de uma linha de ônibus da periferia, se inscreveu animada.</p><p>Na primeira semana, gastou quase duas horas no trajeto, com uma baldeação. Na segunda, o ônibus demorou tanto que ela só chegou quando a aula já estava terminando. Na terceira, faltou: o dinheiro das passagens do mês tinha acabado, e o passe estudantil não vale no fim de semana.</p><p>Rafael, colega de oficina, mora a dez minutos dali e vai a pé. Os dois têm a mesma idade e o mesmo talento. Só não parecem morar na mesma cidade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Quem paga a viagem?",
+        "body_html": "<p><b>Opinião A:</b> O passe livre estudantil deveria valer todos os dias, inclusive nos fins de semana. Lazer, esporte e cultura também educam.</p><p><b>Opinião B:</b> Nenhuma gratuidade é de graça. Se o estudante não paga, alguém paga: o contribuinte, por meio de impostos, ou o passageiro comum, com tarifas mais altas.</p><p><b>Opinião C:</b> Antes de discutir quem paga, é preciso garantir que o ônibus passe. De que adianta a passagem gratuita se a linha do bairro foi extinta ou só circula de hora em hora?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que lugares da cidade você deixa de frequentar por causa do custo ou da demora do transporte?",
+      "Por que o acesso ao transporte pode ser considerado uma condição para outros direitos, como educação, cultura e trabalho?",
+      "Quem deve arcar com o custo de tarifas reduzidas ou gratuitas para estudantes?",
+      "Além do preço, que outros fatores (frequência, segurança, integração entre linhas) limitam a circulação dos jovens?"
+    ],
+    "argument_paths": [
+      "O transporte é um direito social que abre caminho para outros direitos; por isso, o poder público deve ampliar o passe estudantil e a oferta de linhas nas periferias.",
+      "A gratuidade ampla é difícil de sustentar; o mais justo é concentrar o benefício nos jovens de baixa renda e investir na qualidade e na frequência do serviço.",
+      "O problema é também urbano: aproximar escolas, cursos, centros culturais e empregos dos bairros periféricos reduz a necessidade de longos deslocamentos.",
+      "Integração tarifária e entre modais (ônibus, trem, metrô, bicicleta) pode baratear e encurtar as viagens sem depender apenas de gratuidades."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 6º (o transporte foi incluído entre os direitos sociais pela Emenda Constitucional nº 90/2015)",
+        "how": "Mostrar que circular pela cidade é um direito garantido, e não um privilégio, e cobrar políticas públicas coerentes com isso."
+      },
+      {
+        "ref": "Estatuto da Juventude (Lei nº 12.852/2013), que trata do direito do jovem ao território e à mobilidade",
+        "how": "Reforçar que a legislação reconhece a mobilidade como parte da cidadania dos jovens."
+      },
+      {
+        "ref": "Política Nacional de Mobilidade Urbana (Lei nº 12.587/2012)",
+        "how": "Citar a prioridade do transporte público coletivo sobre o transporte individual motorizado como diretriz para as cidades."
+      },
+      {
+        "ref": "Manifestações de junho de 2013 (as Jornadas de Junho), que tiveram como estopim os protestos do Movimento Passe Livre contra o aumento das tarifas do transporte público",
+        "how": "Exemplificar como o preço da passagem mobilizou a juventude e se tornou tema de debate nacional."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de trânsito e congestionamento de carros, sem tratar do acesso dos jovens à cidade.",
+      "Limitar-se a reclamar da qualidade dos ônibus sem relacionar o problema a direitos e oportunidades.",
+      "Propor soluções vagas como “o governo deve investir mais” sem dizer em quê, como e por quê."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "cid-02",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Os desafios para garantir moradia digna a todos os brasileiros.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o direito à moradia e as dificuldades de acesso a uma casa adequada no Brasil. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é morar bem?",
+        "body_html": "<p>Ter um teto não é o mesmo que ter moradia digna. Uma casa adequada precisa de estrutura segura, água tratada, esgoto, energia elétrica, espaço suficiente para a família e acesso a escolas, postos de saúde, transporte e trabalho.</p><p>Também precisa de segurança de posse, isto é, a garantia de que os moradores não serão retirados dali de uma hora para outra. No Brasil, milhões de pessoas vivem em situações que não atendem a um ou mais desses critérios: casas em áreas de risco, cômodos superlotados, imóveis sem saneamento ou aluguéis que consomem boa parte da renda.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na mesa do jantar",
+        "body_html": "<p><b>Mãe:</b> O aluguel subiu de novo. Se continuar assim, a gente vai ter que se mudar para mais longe.</p><p><b>Filho:</b> Mais longe da escola? Eu já levo mais de uma hora para chegar.</p><p><b>Mãe:</b> Mais longe de tudo, filho. Perto do centro está caro demais.</p><p><b>Filho:</b> Mas no caminho do ônibus eu passo por um monte de prédio fechado, com janela quebrada. Ninguém mora lá?</p><p><b>Mãe:</b> Parece que não. Tem dono, mas está vazio há anos.</p><p><b>Filho:</b> Então tem casa sem gente e gente sem casa?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Caminhos possíveis",
+        "body_html": "<p>Não há consenso sobre a melhor forma de enfrentar o problema. Há quem defenda a construção de grandes conjuntos habitacionais financiados pelo poder público. Outros lembram que muitos desses conjuntos foram erguidos longe dos empregos e dos serviços, e propõem reformar prédios vazios em áreas centrais.</p><p>Há ainda quem aposte na urbanização de favelas e loteamentos, levando saneamento e regularizando a posse das famílias que já vivem ali. Cada proposta tem custos, vantagens e críticas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais elementos, além das paredes e do telhado, fazem de uma casa uma moradia digna?",
+      "Por que tantas famílias vivem longe do trabalho, em áreas de risco ou pagando aluguéis que não cabem no orçamento?",
+      "Faz sentido existirem imóveis vazios por anos enquanto há pessoas sem casa? O que poderia ser feito com eles?",
+      "Construir casas novas basta, ou a localização e a infraestrutura são tão importantes quanto o número de moradias?"
+    ],
+    "argument_paths": [
+      "O principal desafio é o custo da moradia bem localizada; por isso, políticas habitacionais devem priorizar áreas centrais já equipadas com serviços e transporte.",
+      "Imóveis vazios descumprem a função social da propriedade; usar instrumentos do Estatuto da Cidade para que sejam destinados à moradia é mais eficiente do que expandir a cidade para longe.",
+      "Urbanizar e regularizar favelas e loteamentos existentes é mais justo do que remover famílias, pois preserva vínculos e melhora a vida de quem já está ali.",
+      "Programas de construção em massa são necessários pela dimensão do problema, desde que acompanhados de escolas, postos de saúde e transporte."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 6º (a moradia foi incluída entre os direitos sociais pela Emenda Constitucional nº 26/2000)",
+        "how": "Fundamentar que a moradia é um direito social e que o Estado tem responsabilidade em garanti-la."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), art. 25, que inclui a habitação entre as condições de um padrão de vida digno",
+        "how": "Mostrar que a moradia é reconhecida internacionalmente como parte dos direitos humanos, e não como simples mercadoria."
+      },
+      {
+        "ref": "Estatuto da Cidade (Lei nº 10.257/2001), que regulamenta a função social da propriedade urbana e prevê instrumentos como o IPTU progressivo no tempo para imóveis não utilizados",
+        "how": "Sustentar propostas para dar uso a imóveis vazios em áreas centrais."
+      },
+      {
+        "ref": "Carolina Maria de Jesus, “Quarto de despejo: diário de uma favelada” (1960)",
+        "how": "Ilustrar, pela voz de uma moradora da favela do Canindé, em São Paulo, a precariedade da moradia e da vida na pobreza urbana."
+      },
+      {
+        "ref": "Programa Minha Casa, Minha Vida (criado em 2009)",
+        "how": "Discutir uma política habitacional de grande escala e o debate sobre a localização dos conjuntos construídos."
+      }
+    ],
+    "pitfalls": [
+      "Tratar apenas da falta de casas, ignorando infraestrutura, localização e segurança de posse.",
+      "Culpar individualmente as famílias pobres por onde moram, sem considerar renda, preço do solo e políticas públicas.",
+      "Desviar para o tema geral da pobreza ou do desemprego, sem voltar à questão da moradia."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cid-03",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "É possível tornar as ruas das cidades brasileiras mais seguras para pedestres e ciclistas?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a segurança de quem anda a pé ou de bicicleta e a disputa pelo espaço das ruas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Quem manda na rua?",
+        "body_html": "<p>Ao longo do século XX, muitas cidades brasileiras cresceram pensando principalmente no automóvel: avenidas largas, viadutos e estacionamentos ganharam espaço, enquanto calçadas ficaram estreitas e esburacadas.</p><p>O resultado aparece no dia a dia de quem anda a pé ou pedala: travessias longas, sinais que abrem por poucos segundos para o pedestre, ciclovias que terminam de repente. A legislação de trânsito, no entanto, afirma que os veículos maiores são responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela segurança dos pedestres.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A avenida do bairro",
+        "body_html": "<p>Em uma avenida larga e reta de um bairro residencial, os carros costumam passar em alta velocidade. Depois de alguns atropelamentos, moradores levaram propostas à prefeitura: faixas elevadas, redução do limite de velocidade, calçadas mais largas e uma ciclofaixa ligando o bairro à estação de trem.</p><p>Alguns motoristas reclamaram que o trânsito ficaria mais lento. Comerciantes temeram perder vagas de estacionamento. Uma senhora que atravessa a avenida todos os dias para ir à feira resumiu: “Prefiro que o carro chegue dois minutos depois a que eu não chegue”.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes da rua",
+        "body_html": "<p><b>Opinião A:</b> Ciclovia funciona em cidade plana e de clima ameno. Aqui faz calor, tem ladeira e pouca gente respeita a sinalização.</p><p><b>Opinião B:</b> Muita gente já pedala por necessidade, para economizar a passagem. O que falta é estrutura para que façam isso sem arriscar a vida.</p><p><b>Opinião C:</b> Não adianta só pintar faixa no chão. Enquanto o motorista achar que a rua é só dele, o pedestre vai continuar em perigo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Como é o seu trajeto a pé ou de bicicleta? Que obstáculos e perigos você encontra?",
+      "Por que as cidades brasileiras dão tanto espaço aos carros? Isso pode mudar?",
+      "Mudanças físicas nas ruas (faixas elevadas, ciclovias, calçadas) bastam, ou também é preciso mudar comportamentos?",
+      "Quem ganha e quem perde quando uma rua é redesenhada para priorizar pedestres e ciclistas?"
+    ],
+    "argument_paths": [
+      "Sim, é possível: redesenhar as ruas com redução de velocidade, travessias seguras e ciclovias contínuas protege vidas, e a lei já determina essa prioridade.",
+      "É possível, mas não só com obras: sem fiscalização e educação para o trânsito, a infraestrutura nova continua sendo desrespeitada.",
+      "É difícil no curto prazo, porque as cidades foram construídas para o carro e há resistência de motoristas e comerciantes; a mudança exige decisão política e participação dos moradores.",
+      "A segurança de pedestres e ciclistas depende também de transporte público de qualidade, que diminua o número de carros nas ruas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código de Trânsito Brasileiro (Lei nº 9.503/1997), art. 29, § 2º",
+        "how": "Mostrar que a lei atribui aos veículos de maior porte a responsabilidade pela segurança dos menores, aos motorizados a dos não motorizados e a todos eles, juntos, a responsabilidade pela incolumidade dos pedestres."
+      },
+      {
+        "ref": "Política Nacional de Mobilidade Urbana (Lei nº 12.587/2012), que estabelece a prioridade dos modos não motorizados sobre os motorizados",
+        "how": "Defender que priorizar pedestres e ciclistas não é opinião, e sim diretriz legal para as cidades."
+      },
+      {
+        "ref": "Segunda Década de Ação pela Segurança no Trânsito (2021-2030), proclamada pela Assembleia Geral da ONU com a meta de reduzir pela metade as mortes e lesões no trânsito",
+        "how": "Situar o problema como uma preocupação mundial e reforçar a urgência de medidas."
+      },
+      {
+        "ref": "Visão Zero, política de segurança viária aprovada pelo Parlamento da Suécia em 1997, segundo a qual nenhuma morte no trânsito é aceitável",
+        "how": "Defender que as mortes no trânsito não são inevitáveis e que o desenho das ruas e os limites de velocidade devem ser pensados para proteger a vida."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de acidentes entre carros, esquecendo pedestres e ciclistas.",
+      "Responder “sim” ou “não” na introdução sem desenvolver argumentos que expliquem por quê.",
+      "Culpar exclusivamente os pedestres ou os ciclistas pelos acidentes, sem discutir o desenho das ruas."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "cid-04",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "De que forma praças, parques e quadras públicas podem contribuir para a vida dos jovens nas cidades?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a importância dos espaços públicos de lazer e convivência para os jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Lugares sem catraca",
+        "body_html": "<p>Praças, parques e quadras públicas são espaços em que pessoas de diferentes idades, origens e classes sociais podem se encontrar sem precisar pagar para entrar. Neles, adolescentes jogam bola, andam de skate, ensaiam coreografias, fazem batalhas de rima ou simplesmente conversam.</p><p>Quando esses lugares ficam abandonados, sem iluminação, sem manutenção ou sem atividades, tendem a ser cada vez menos usados, e a cidade perde pontos de convivência. Quando são cuidados e ocupados, tornam-se parte da identidade do bairro.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A praça do bairro",
+        "body_html": "<p>A praça perto da escola passou anos com os brinquedos quebrados e a quadra sem rede. À noite, os moradores evitavam passar por ali. Um grupo de jovens decidiu organizar um campeonato de futsal e um sarau de poesia nos fins de semana.</p><p>Aos poucos, vizinhos trouxeram tinta, a associação de moradores cobrou da prefeitura a troca das lâmpadas e comerciantes doaram lanches. Nem todos gostaram: alguns moradores reclamaram do barulho e pediram que as atividades terminassem mais cedo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Onde o jovem pode ficar?",
+        "body_html": "<p>Em muitas cidades, o shopping center virou ponto de encontro de adolescentes: é climatizado, iluminado e parece seguro. Mas é um espaço privado, com regras definidas pelos donos, onde quase tudo gira em torno do consumo.</p><p>Há quem veja nele uma alternativa prática à falta de lazer público. Há quem pense que, quando o único lugar para ficar é aquele em que se precisa comprar, os jovens sem dinheiro acabam sem lugar na cidade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Existe no seu bairro algum espaço público onde os jovens se encontram? Como ele é cuidado?",
+      "Que diferença faz, para a convivência, ter lugares gratuitos e abertos a todos?",
+      "Quem deve cuidar desses espaços: só o poder público, ou também a comunidade que os usa?",
+      "Como conciliar o uso dos espaços pelos jovens com o sossego de outros moradores?"
+    ],
+    "argument_paths": [
+      "Espaços públicos bem cuidados oferecem lazer, esporte e cultura gratuitos, reduzindo desigualdades entre jovens de diferentes rendas.",
+      "Praças ocupadas tornam o bairro mais seguro e fortalecem os laços entre vizinhos, porque a presença de pessoas inibe o abandono.",
+      "O poder público deve garantir manutenção e iluminação, mas a ocupação só se sustenta com a participação ativa dos próprios jovens e moradores.",
+      "A troca do espaço público pelo shopping restringe o convívio a quem pode consumir; defender praças e parques é defender uma cidade para todos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 16, I, que inclui no direito à liberdade o de “ir, vir e estar nos logradouros públicos e espaços comunitários”",
+        "how": "Afirmar que o adolescente tem direito de ocupar e usar os espaços públicos da cidade."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 227, que atribui à família, à sociedade e ao Estado o dever de assegurar à criança, ao adolescente e ao jovem, entre outros, o direito ao lazer",
+        "how": "Mostrar que o lazer é um direito e dividir responsabilidades entre poder público e sociedade."
+      },
+      {
+        "ref": "Jane Jacobs, “Morte e vida de grandes cidades” (1961), e a ideia dos “olhos da rua”",
+        "how": "Argumentar que espaços movimentados e usados pelas pessoas tendem a ser mais seguros."
+      },
+      {
+        "ref": "Os “rolezinhos” em shoppings de São Paulo, entre o fim de 2013 e o início de 2014",
+        "how": "Discutir a falta de espaços de lazer para jovens da periferia e as tensões em torno do uso de espaços privados."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre a importância do esporte ou do lazer em geral, sem ligar ao espaço público da cidade.",
+      "Descrever a praça do próprio bairro como relato pessoal, sem construir argumentos.",
+      "Tratar os jovens apenas como causa de problemas nos espaços públicos, e não como sujeitos com direito a eles."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "cid-05",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "O crescimento das cidades justifica retirar famílias de suas casas?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as remoções de moradores em nome de obras, da modernização e do crescimento urbano. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O bota-abaixo",
+        "body_html": "<p>No início do século XX, o Rio de Janeiro, então capital federal, passou por uma grande reforma urbana na gestão do prefeito Pereira Passos. Ruas foram alargadas, avenidas foram abertas e o centro ganhou uma aparência inspirada em Paris.</p><p>Para isso, muitos cortiços e casas populares foram demolidos, no episódio que ficou conhecido como “bota-abaixo”. Sem ter para onde ir no centro, grande parte dos moradores pobres mudou-se para os morros próximos ou para os subúrbios. A cidade ficou mais moderna para alguns e mais distante para outros.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A obra e a vila",
+        "body_html": "<p>Uma prefeitura anuncia a construção de uma via expressa que vai reduzir o tempo de viagem de milhares de trabalhadores. O traçado, porém, passa por uma vila onde dezenas de famílias vivem há décadas.</p><p>A prefeitura oferece indenização ou apartamentos em um conjunto habitacional a uma hora dali. Parte dos moradores aceita. Outra parte se recusa a sair, alegando que ali estão o emprego, a escola dos filhos, a igreja e os vizinhos de toda a vida. Engenheiros apresentam um traçado alternativo, mais caro e mais demorado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três pontos de vista",
+        "body_html": "<p><b>Opinião A:</b> Uma cidade não pode parar por causa de algumas casas. Quando a obra beneficia milhares de pessoas, o interesse da maioria deve prevalecer.</p><p><b>Opinião B:</b> Morar não é só ter quatro paredes. Quem é removido perde também vínculos, trabalho e história, e nenhuma indenização devolve isso.</p><p><b>Opinião C:</b> Às vezes a remoção é necessária, como em áreas de risco. O problema é quando ela é decidida sem ouvir quem mora ali e sem oferecer alternativa digna por perto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que uma família perde quando é retirada do lugar onde mora, além da casa?",
+      "Quando o interesse coletivo pode se sobrepor ao direito de quem já vive em um lugar? Há limites?",
+      "Quem costuma ser removido nas reformas urbanas, e quem costuma se beneficiar delas?",
+      "Que condições tornariam uma remoção mais justa, se ela for inevitável?"
+    ],
+    "argument_paths": [
+      "Não justifica: a moradia é um direito social, e obras devem buscar traçados alternativos antes de remover famílias, sobretudo as mais pobres.",
+      "Justifica apenas em casos excepcionais, como risco à vida, e desde que haja participação dos moradores e reassentamento próximo e digno.",
+      "Justifica quando o benefício coletivo é grande e comprovado, mas a indenização deve ser justa e o processo, transparente.",
+      "A história das reformas urbanas mostra que a “modernização” frequentemente empurra os pobres para longe; o crescimento só é legítimo se incluir quem já vive na cidade."
+    ],
+    "repertoire": [
+      {
+        "ref": "Reforma urbana de Pereira Passos no Rio de Janeiro (1902-1906), conhecida como “bota-abaixo”",
+        "how": "Mostrar historicamente como a modernização urbana pode expulsar a população pobre das áreas centrais."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 6º (moradia como direito social) e art. 182, §§ 2º e 3º (a propriedade urbana cumpre sua função social quando atende ao plano diretor, e as desapropriações de imóveis urbanos exigem prévia e justa indenização em dinheiro)",
+        "how": "Equilibrar o direito à moradia com o planejamento urbano e o interesse coletivo, lembrando que nem mesmo uma obra necessária dispensa a indenização justa."
+      },
+      {
+        "ref": "Henri Lefebvre, “O direito à cidade” (1968)",
+        "how": "Defender que todos os habitantes, e não só os mais ricos, devem participar das decisões e usufruir da cidade."
+      },
+      {
+        "ref": "Remoções de moradores da Vila Autódromo, no Rio de Janeiro, ligadas às obras dos Jogos Olímpicos de 2016",
+        "how": "Exemplo, já no século XXI, de conflito entre grandes obras e a permanência de comunidades."
+      }
+    ],
+    "pitfalls": [
+      "Defender uma posição absoluta (“nunca” ou “sempre”) sem considerar exceções como áreas de risco, o que enfraquece a argumentação.",
+      "Desviar para a discussão sobre obras públicas em geral ou corrupção, sem tratar das famílias removidas.",
+      "Usar o texto histórico apenas como resumo, sem relacioná-lo ao presente."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "cid-06",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Barreiras à acessibilidade nas cidades brasileiras e caminhos para superá-las.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a acessibilidade urbana e as dificuldades enfrentadas por pessoas com deficiência ou com mobilidade reduzida para circular pela cidade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Deficiência e ambiente",
+        "body_html": "<p>A Lei Brasileira de Inclusão adota uma ideia importante: a deficiência não depende apenas do corpo da pessoa, mas também da interação com as barreiras que ela encontra. Alguém em cadeira de rodas pode circular com autonomia em uma rua com rampas e calçadas regulares, mas fica impedido diante de um degrau alto ou de um ônibus sem elevador.</p><p>Da mesma forma, uma pessoa cega se orienta melhor quando há piso tátil e sinais sonoros nos semáforos. Nesse sentido, muitas limitações são produzidas pela forma como a cidade é construída.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um percurso de dez minutos",
+        "body_html": "<p>Para ir da escola até o ponto de ônibus, a maioria dos colegas de Pedro leva dez minutos. Pedro, que usa muletas desde um acidente, leva quase o triplo. No caminho, há um carro estacionado sobre a calçada, uma raiz de árvore que levantou o piso, uma rampa íngreme demais e um buraco coberto por uma tábua.</p><p>Quando chega ao ponto, precisa torcer para que o ônibus pare rente ao meio-fio. “Não sou eu que ando devagar”, ele brinca. “É a rua que foi feita com pressa.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Quem deve fazer a sua parte?",
+        "body_html": "<p><b>Opinião A:</b> A calçada é responsabilidade do dono do imóvel. Cada um precisa arrumar a sua.</p><p><b>Opinião B:</b> Se depender de cada proprietário, a calçada nunca vai ser contínua. É a prefeitura que precisa padronizar, fiscalizar e, quando for preciso, fazer a obra.</p><p><b>Opinião C:</b> Acessibilidade não é só obra. Também é atitude: não parar na vaga reservada, não bloquear a rampa com a moto, oferecer ajuda sem constranger.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que barreiras físicas uma pessoa com deficiência, um idoso ou alguém com um carrinho de bebê encontra no seu bairro?",
+      "Por que a deficiência pode ser entendida como resultado da relação entre a pessoa e o ambiente?",
+      "Quem é responsável pela acessibilidade: o poder público, os proprietários, as empresas de transporte, os cidadãos?",
+      "Além das barreiras físicas, que atitudes do dia a dia dificultam a circulação de pessoas com deficiência?"
+    ],
+    "argument_paths": [
+      "As principais barreiras são físicas e resultam de cidades construídas sem pensar na diversidade dos corpos; a solução é planejar e reformar espaços com base em normas de acessibilidade.",
+      "A lei já existe, mas falta fiscalização e prioridade orçamentária; o caminho é cobrar o cumprimento das regras.",
+      "As barreiras atitudinais são tão graves quanto as físicas; campanhas educativas e convivência escolar ajudam a mudar comportamentos.",
+      "Cidades acessíveis beneficiam a todos, inclusive idosos, gestantes e pessoas com lesões temporárias, o que torna o investimento de interesse coletivo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015), também chamada Estatuto da Pessoa com Deficiência",
+        "how": "Usar o conceito de deficiência como interação entre impedimentos e barreiras, o direito à acessibilidade e a ideia de desenho universal (ambientes pensados para serem usados por todas as pessoas, sem necessidade de adaptação)."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 227, § 2º, que determina que a lei disponha sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, para garantir acesso adequado às pessoas com deficiência",
+        "how": "Mostrar que a acessibilidade urbana é uma exigência constitucional."
+      },
+      {
+        "ref": "Convenção da ONU sobre os Direitos das Pessoas com Deficiência, aprovada pelo Congresso com status de emenda constitucional (Decreto Legislativo nº 186/2008) e promulgada pelo Decreto nº 6.949/2009",
+        "how": "Reforçar o compromisso internacional assumido pelo Brasil."
+      },
+      {
+        "ref": "ABNT NBR 9050, norma técnica brasileira de acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos",
+        "how": "Sustentar que já existem parâmetros técnicos claros para rampas, calçadas e sinalização."
+      }
+    ],
+    "pitfalls": [
+      "Tratar a pessoa com deficiência com pena ou como “exemplo de superação”, em vez de discutir direitos e barreiras.",
+      "Falar da inclusão escolar ou do mercado de trabalho e esquecer o foco na circulação pela cidade.",
+      "Apresentar só problemas, sem propor caminhos para superá-los, como o próprio tema pede."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cid-07",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "O trajeto entre a casa e a escola: o que o poder público deve fazer para que os estudantes cheguem às aulas com segurança?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os desafios enfrentados pelos estudantes no caminho entre a casa e a escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, escreva uma carta argumentativa dirigida ao prefeito ou à prefeita da sua cidade, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Caminhos diferentes",
+        "body_html": "<p><b>Ana, 14 anos:</b> Na minha rua não tem iluminação. No inverno, saio de casa ainda escuro e vou andando rápido, olhando para trás.</p><p><b>Caio, 15 anos:</b> O ônibus escolar da minha região quebra muito. Quando ele não passa, eu perco o dia.</p><p><b>Júlia, 14 anos:</b> Moro perto, mas preciso atravessar uma avenida sem faixa. Minha mãe só fica tranquila quando mando mensagem dizendo que cheguei.</p><p><b>Marcos, 15 anos:</b> Quando chove, a rua de terra vira lama e eu chego com o tênis encharcado. Às vezes nem vou.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Chegar também é aprender",
+        "body_html": "<p>Garantir o direito à educação não depende apenas do que acontece dentro da sala de aula. Para estudar, o aluno precisa chegar à escola, e chegar em condições de aprender. Iluminação pública, calçadas, travessias seguras, transporte escolar regular e linhas de ônibus com horários compatíveis com os turnos fazem parte desse direito.</p><p>A Constituição Federal prevê, entre os deveres do Estado com a educação, programas suplementares de transporte para estudantes da educação básica. Quando o trajeto é longo, perigoso ou incerto, o cansaço, o medo e as faltas acabam aparecendo no desempenho escolar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Reunião do grêmio",
+        "body_html": "<p><b>Presidente do grêmio:</b> Vamos escrever para a prefeitura pedindo mais segurança no caminho da escola.</p><p><b>Colega:</b> Pedir “mais segurança” é muito vago. Vão responder que já estão fazendo o possível.</p><p><b>Presidente do grêmio:</b> Então o que você sugere?</p><p><b>Colega:</b> Mostrar o problema concreto, explicar por que ele importa e propor o que pode ser feito. Carta que só reclama vai para a gaveta.</p><p><b>Outra colega:</b> E lembrar que a gente não está pedindo favor. Está falando de um direito.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais problemas você e seus colegas enfrentam no caminho até a escola?",
+      "Por que o trajeto até a escola faz parte do direito à educação?",
+      "Que medidas concretas estão ao alcance de uma prefeitura (iluminação, sinalização, transporte escolar, pavimentação, horários de ônibus)?",
+      "Como convencer o prefeito ou a prefeita de que essas medidas devem ser prioridade?"
+    ],
+    "argument_paths": [
+      "O caminho até a escola é parte do direito à educação; sem ele seguro, a frequência e o aprendizado caem, o que justifica tratar o tema como prioridade da prefeitura.",
+      "Medidas simples e de baixo custo, como iluminação, faixas de pedestre e redução de velocidade perto das escolas, têm grande impacto e podem ser feitas rapidamente.",
+      "O transporte escolar e as linhas regulares precisam ter horários ajustados aos turnos, com atenção especial às áreas rurais e periféricas.",
+      "A solução deve ser construída com a comunidade escolar, por meio de mapeamento dos trajetos feito pelos próprios estudantes e famílias."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 208, VII, que prevê programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde para o educando da educação básica",
+        "how": "Lembrar ao destinatário que o transporte do estudante é dever do Estado."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53, V, que assegura acesso à escola pública e gratuita próxima da residência",
+        "how": "Reforçar que a distância e as condições do trajeto são parte do direito à educação."
+      },
+      {
+        "ref": "Programa Nacional de Apoio ao Transporte do Escolar (PNATE), instituído pela Lei nº 10.880/2004, que repassa recursos federais para o transporte de alunos da rede pública que moram em área rural",
+        "how": "Mostrar que existem recursos federais destinados ao transporte escolar e que o município pode e deve utilizá-los bem."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer as marcas do gênero carta (local e data, vocativo, despedida, assinatura) ou escrever uma dissertação sem se dirigir ao destinatário.",
+      "Assinar com o nome verdadeiro, o que identifica o candidato; na prova de 2017 (tarde), o CPII exigiu que a carta fosse assinada apenas com a expressão “Um leitor” ou “Uma leitora”. Use uma assinatura genérica, como “Um estudante” ou “Uma estudante”.",
+      "Escrever uma carta só de reclamações, sem propostas concretas, ou desviar para a violência dentro da escola."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cid-08",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Enchentes e deslizamentos nas cidades brasileiras: de quem é a responsabilidade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os desastres provocados pelas chuvas nas cidades e as responsabilidades por eles. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Não é só a chuva",
+        "body_html": "<p>Chuvas intensas são fenômenos naturais, mas os desastres que elas provocam nas cidades têm também causas humanas. Quando rios são canalizados e cobertos, quando o solo é quase todo impermeabilizado por asfalto e concreto, quando o lixo entope bueiros e quando casas são construídas em encostas ou à beira de rios, a água encontra menos caminhos para escoar.</p><p>Além disso, a ciência do clima aponta que o aquecimento global tende a tornar as chuvas extremas mais frequentes e intensas em várias regiões. Muitas vezes, quem mora nas áreas de maior risco não escolheu estar ali: foi para onde era possível pagar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quem responde?",
+        "body_html": "<p><b>Opinião A:</b> A prefeitura sabia que o morro era área de risco e deixou construir. A responsabilidade é do poder público.</p><p><b>Opinião B:</b> Muita gente joga lixo na rua e depois reclama que o bueiro entupiu. Cada cidadão tem a sua parte.</p><p><b>Opinião C:</b> Ninguém mora numa encosta porque quer. Sem moradia acessível em lugar seguro, a ocupação de áreas de risco vai continuar.</p><p><b>Opinião D:</b> Os países e as empresas que mais emitem gases de efeito estufa também têm culpa pelas tempestades cada vez mais fortes.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Depois da tempestade",
+        "body_html": "<p>Na manhã seguinte ao temporal, a escola do bairro virou abrigo. Colchões ocupam a quadra, e alunos que ontem estavam na sala de aula hoje ajudam a separar roupas doadas.</p><p>Na comunidade vizinha, uma sirene tocou de madrugada, e muitas famílias saíram de casa a tempo. Em outra rua, onde não havia alerta, a água subiu rápido demais. Entre os voluntários, uma pergunta circula: da próxima vez, será diferente?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que as chuvas fortes causam tragédias em alguns bairros e quase nenhum dano em outros?",
+      "Quais responsabilidades cabem ao poder público, aos cidadãos e às empresas?",
+      "Como a desigualdade no acesso à moradia se relaciona com a ocupação de áreas de risco?",
+      "Que medidas de prevenção e alerta podem salvar vidas antes que o desastre aconteça?"
+    ],
+    "argument_paths": [
+      "A responsabilidade principal é do poder público, que deve planejar a ocupação do solo, investir em drenagem, mapear áreas de risco e manter sistemas de alerta.",
+      "A responsabilidade é compartilhada: governos planejam e fiscalizam, mas cidadãos também contribuem ao cuidar do lixo e respeitar as áreas de preservação.",
+      "Culpar os moradores de áreas de risco é injusto; a raiz do problema é a falta de moradia digna e acessível em locais seguros.",
+      "Os desastres locais também têm causa global: sem enfrentar as mudanças climáticas, as cidades continuarão vulneráveis mesmo com obras."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Proteção e Defesa Civil (Lei nº 12.608/2012)",
+        "how": "Mostrar que há uma política que prevê prevenção, mapeamento de áreas de risco e ações de resposta a desastres."
+      },
+      {
+        "ref": "Enchentes no Rio Grande do Sul em 2024",
+        "how": "Exemplo recente de desastre de grandes proporções que atingiu cidades inteiras e levantou o debate sobre prevenção e clima."
+      },
+      {
+        "ref": "Deslizamentos e enchentes na Região Serrana do Rio de Janeiro, em janeiro de 2011",
+        "how": "Exemplo de tragédia ligada a chuvas intensas e à ocupação de encostas e margens de rios; depois dela, o governo federal criou, ainda em 2011, o Cemaden (Centro Nacional de Monitoramento e Alertas de Desastres Naturais)."
+      },
+      {
+        "ref": "Relatórios do IPCC (Painel Intergovernamental sobre Mudanças Climáticas, da ONU), que apontam o aumento da frequência e da intensidade das chuvas extremas na maior parte das áreas continentais do planeta",
+        "how": "Sustentar, com base científica, que os desastres locais também se relacionam ao aquecimento global."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 225, que garante a todos o direito ao meio ambiente ecologicamente equilibrado",
+        "how": "Relacionar a preservação ambiental à segurança das cidades e à responsabilidade coletiva."
+      }
+    ],
+    "pitfalls": [
+      "Tratar os desastres como mera “fatalidade da natureza”, sem discutir responsabilidades.",
+      "Desviar para uma redação sobre aquecimento global em geral, sem tratar das cidades brasileiras.",
+      "Culpar uma única parte (“é tudo culpa do governo” ou “é tudo culpa do povo”) sem argumentação que sustente a escolha."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cid-09",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Grafite e pichação: quem tem o direito de marcar a paisagem da cidade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o grafite, a pichação e a disputa sobre quem pode se expressar nos muros e na paisagem urbana. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Letras nos muros",
+        "body_html": "<p>Grafite e pichação costumam aparecer juntos nas discussões, mas despertam reações diferentes. O grafite, em geral colorido e figurativo, ganhou espaço em galerias, festivais e fachadas encomendadas. A pichação, feita com letras estilizadas e muitas vezes em lugares de difícil acesso, é vista por muitos como sujeira e vandalismo, e por outros como expressão de jovens que se sentem invisíveis.</p><p>Na lei brasileira, pichar é crime, previsto na Lei de Crimes Ambientais entre os crimes contra o ordenamento urbano e o patrimônio cultural; o grafite, porém, não é crime quando feito para valorizar o patrimônio e com autorização do proprietário ou do órgão responsável.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na saída da escola",
+        "body_html": "<p><b>Bia:</b> Você viu o muro da escola? Pintaram um mural enorme, com rostos de mulheres do bairro.</p><p><b>Theo:</b> Vi. Ficou bonito. Mas semana passada tinha pichação ali, e a diretora chamou de vandalismo.</p><p><b>Bia:</b> Uma coisa é arte; a outra é sujar o que é dos outros.</p><p><b>Theo:</b> O mural foi autorizado; a pichação, não. Mas os dois são gente dizendo “eu existo”.</p><p><b>Bia:</b> Existir não dá o direito de estragar a parede que alguém pintou com esforço.</p><p><b>Theo:</b> E a cidade, que é de todo mundo, só pode ter a cara de quem paga por propaganda?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Consulta pública",
+        "body_html": "<p>A prefeitura de uma cidade média abriu uma consulta sobre o uso dos muros públicos. Três propostas receberam mais apoio: apagar toda pichação rapidamente e punir os autores com mais rigor; liberar alguns muros para artistas, com cadastro e curadoria; e criar oficinas de grafite em escolas e centros culturais, convidando pichadores a participar.</p><p>Nas redes sociais, houve quem dissesse que as duas últimas propostas “premiam o vandalismo” e quem afirmasse que a primeira apenas “apaga o problema sem entendê-lo”.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre grafite e pichação? Essa diferença é só estética ou também envolve autorização?",
+      "O espaço visual da cidade pertence a quem: aos proprietários, ao poder público, a todos os moradores?",
+      "Por que alguns jovens picham? Punir é suficiente para mudar isso?",
+      "Por que a propaganda comercial costuma ser aceita nos muros e fachadas, e a expressão espontânea, não?"
+    ],
+    "argument_paths": [
+      "A paisagem é de todos, mas o patrimônio alheio deve ser respeitado; por isso, a expressão urbana é legítima quando autorizada, e a pichação deve ser coibida.",
+      "Pichação é uma forma de expressão de jovens marginalizados; em vez de só punir, a cidade deve oferecer espaços e oportunidades de expressão artística.",
+      "Criar muros livres e projetos de arte urbana valoriza bairros e reduz conflitos, conciliando liberdade de expressão e respeito à propriedade.",
+      "O debate revela desigualdade: a cidade aceita a marca de quem paga (publicidade) e rejeita a de quem não tem voz; o direito à paisagem deve ser discutido democraticamente."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei de Crimes Ambientais (Lei nº 9.605/1998), art. 65, alterado pela Lei nº 12.408/2011, que tipifica a pichação e exclui do crime o grafite autorizado; a mesma Lei nº 12.408/2011 proibiu a venda de tinta spray a menores de 18 anos",
+        "how": "Mostrar como a lei diferencia as duas práticas com base na autorização e na intenção de valorizar o patrimônio."
+      },
+      {
+        "ref": "Os Gêmeos (os irmãos Gustavo e Otavio Pandolfo), dupla de grafiteiros paulistanos com obras reconhecidas internacionalmente",
+        "how": "Exemplificar como o grafite, nascido nas ruas, passou a ser reconhecido como arte."
+      },
+      {
+        "ref": "Lei Cidade Limpa (Lei municipal nº 14.223/2006, de São Paulo), que restringiu a publicidade externa na cidade",
+        "how": "Discutir a poluição visual e o fato de que a paisagem urbana também é disputada pela propaganda."
+      }
+    ],
+    "pitfalls": [
+      "Tratar grafite e pichação como a mesma coisa, sem explicar a diferença que o próprio tema sugere.",
+      "Fazer apenas uma defesa da arte em geral, sem discutir a cidade, a propriedade e o espaço público.",
+      "Julgar os pichadores com xingamentos ou generalizações, em vez de argumentos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cid-10",
+    "axis": "cid",
+    "axis_label": "Cidade, moradia e mobilidade",
+    "theme": "Como as cidades devem lidar com a presença de pessoas em situação de rua?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a vida das pessoas em situação de rua e as diferentes formas como a cidade reage a essa presença. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Muitas histórias, um mesmo endereço",
+        "body_html": "<p>Não existe um único motivo que leve alguém a viver na rua. Desemprego, perda de renda, despejo, rompimento de laços familiares, violência doméstica, dependência química e problemas de saúde mental aparecem com frequência nas histórias, muitas vezes combinados.</p><p>Há quem durma na rua e trabalhe durante o dia, recolhendo materiais recicláveis ou vendendo balas no sinal. Por isso, dificilmente uma única medida resolve o problema: abrigo, alimentação, documentos, atendimento de saúde, trabalho e moradia são necessidades que se somam.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A marquise",
+        "body_html": "<p>Em frente a uma loja, uma marquise abrigava algumas pessoas nas noites de chuva. Um dia, o espaço amanheceu cercado por grades, e o chão sob a marquise ganhou pedras pontiagudas. O dono da loja disse que a medida era para garantir a segurança dos clientes.</p><p>Um morador que passava pela calçada comentou que as pessoas não sumiram: só foram dormir na esquina seguinte. No mesmo bairro, uma igreja passou a servir sopa às quintas-feiras, e alguns comerciantes reclamaram que a fila espantava a freguesia.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em conflito",
+        "body_html": "<p><b>Opinião A:</b> A calçada é de todos. Ninguém pode ser expulso de um espaço público por ser pobre.</p><p><b>Opinião B:</b> Deixar alguém dormir no frio não é respeitar a liberdade. O poder público deveria levar essas pessoas para abrigos, mesmo que elas não queiram.</p><p><b>Opinião C:</b> Abrigo sozinho não resolve. Muita gente recusa vaga porque não pode levar o cachorro, o companheiro ou a carroça de trabalho. É preciso ouvir quem está na rua.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais caminhos podem levar uma pessoa a viver na rua?",
+      "Afastar as pessoas de um lugar resolve o problema ou apenas o desloca?",
+      "Até que ponto o poder público pode agir contra a vontade de uma pessoa em situação de rua para protegê-la?",
+      "Que papel cabe aos governos, às organizações da sociedade civil e aos cidadãos comuns?"
+    ],
+    "argument_paths": [
+      "A cidade deve acolher, e não esconder: políticas de assistência, saúde e moradia resolvem o problema, enquanto grades e remoções apenas o deslocam.",
+      "Programas que oferecem moradia primeiro, e depois apoio para trabalho e saúde, são mais eficazes do que abrigos temporários isolados.",
+      "O respeito à autonomia é essencial; medidas forçadas violam a dignidade e afastam as pessoas dos serviços de que precisam.",
+      "Em situações de risco extremo, como frio intenso ou crise de saúde, o poder público tem o dever de agir, desde que com respeito aos direitos e acompanhamento contínuo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, III (a dignidade da pessoa humana como fundamento da República)",
+        "how": "Fundamentar que qualquer política voltada a essa população deve respeitar sua dignidade."
+      },
+      {
+        "ref": "Política Nacional para a População em Situação de Rua (Decreto nº 7.053/2009)",
+        "how": "Mostrar que o Estado brasileiro reconhece essa população como sujeito de direitos e tem diretrizes para atendê-la."
+      },
+      {
+        "ref": "Modelo Housing First (“Moradia Primeiro”), desenvolvido em Nova York na década de 1990, que oferece moradia estável antes de exigir tratamento de saúde ou emprego",
+        "how": "Sustentar que a moradia pode ser o ponto de partida, e não a recompensa final, no atendimento à população em situação de rua."
+      },
+      {
+        "ref": "Lei nº 14.489/2022, conhecida como Lei Padre Júlio Lancellotti, que alterou o Estatuto da Cidade para proibir técnicas construtivas hostis em espaços livres de uso público",
+        "how": "Discutir a chamada arquitetura hostil, como pedras e grades para afastar pessoas, e o limite legal a essa prática."
+      }
+    ],
+    "pitfalls": [
+      "Tratar as pessoas em situação de rua com preconceito, como se fossem todas iguais ou culpadas pela própria situação.",
+      "Desviar para o tema geral da pobreza ou da desigualdade, sem discutir como a cidade lida com essa população.",
+      "Propor apenas caridade individual ou apenas “retirar das ruas”, sem considerar direitos e políticas públicas."
+    ],
+    "difficulty": 3
+  }
+]

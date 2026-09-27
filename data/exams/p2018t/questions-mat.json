@@ -1,0 +1,275 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No Campeonato de Futebol de Salão promovido por uma escola em 2018, cada vitória valeu 3 pontos e cada empate, 1 ponto. As seis turmas do Ensino Fundamental II se enfrentaram duas vezes cada uma, de modo que a tabela com a classificação final do campeonato foi a seguinte:</p><table><thead><tr><th>Posição</th><th>Time</th><th>Pontuação (pontos obtidos)</th><th>Jogos</th><th>V</th><th>E</th><th>D</th><th>Gols marcados</th><th>Gols sofridos</th><th>Saldo de gols</th></tr></thead><tbody><tr><td>1ª</td><td>Turma 901</td><td>24</td><td>10</td><td>7</td><td>3</td><td>0</td><td>24</td><td>13</td><td>+ 11</td></tr><tr><td>2ª</td><td>Turma 702</td><td>19</td><td>10</td><td>5</td><td>4</td><td>1</td><td>16</td><td>8</td><td>+ 8</td></tr><tr><td>3ª</td><td>Turma 801</td><td>15</td><td>10</td><td>4</td><td>3</td><td>3</td><td>11</td><td>7</td><td>+ 4</td></tr><tr><td>4ª</td><td>Turma 601</td><td>11</td><td>10</td><td>3</td><td>2</td><td>5</td><td>15</td><td>20</td><td>– 5</td></tr><tr><td>5ª</td><td>Turma 701</td><td>6</td><td>10</td><td>0</td><td>6</td><td>4</td><td>4</td><td>8</td><td>– 4</td></tr><tr><td>6ª</td><td>Turma 602</td><td>5</td><td>10</td><td>1</td><td>2</td><td>7</td><td>5</td><td>19</td><td>– 14</td></tr></tbody></table><p>Legenda: V = número de vitórias<br>E = número de empates<br>D = número de derrotas</p><p>Define-se o aproveitamento de uma equipe como o percentual obtido dividindo-se a pontuação da equipe pelo total de pontos que essa equipe conseguiria caso tivesse vencido todas as partidas.</p><p>Portanto, o aproveitamento da turma 901 foi de</p>",
+    "options": {
+      "A": "33%.",
+      "B": "53%.",
+      "C": "70%.",
+      "D": "80%."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pela tabela, cada turma jogou 10 partidas (coluna “Jogos”): são 5 adversárias, com 2 jogos contra cada uma. Se a turma 901 tivesse vencido todas, teria feito \\(10 \\times 3 = 30\\) pontos. Esse é o total possível.</p><p>A turma 901 fez 24 pontos. Conferindo: 7 vitórias e 3 empates dão \\(7 \\times 3 + 3 \\times 1 = 21 + 3 = 24\\).</p><p>Aproveitamento:</p><p>\\[\\frac{24}{30} = \\frac{8}{10} = 0{,}8 = 80\\%\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "33% é \\(\\frac{1}{3}\\), o que se obtém, por exemplo, dividindo o número de jogos (10) pelo total possível de pontos (30). O numerador tem de ser a pontuação da equipe, 24.",
+      "B": "53% é cerca de \\(\\frac{24}{45}\\): aparece, por exemplo, quando se usam 15 jogos (o número de pares de turmas) em vez dos 10 jogos que a turma 901 realmente disputou.",
+      "C": "70% é \\(\\frac{7}{10}\\), a fração de jogos vencidos. O aproveitamento compara pontos, e os 3 empates também renderam pontos."
+    },
+    "tip": "Aproveitamento = pontos obtidos ÷ pontos possíveis, e os pontos possíveis são 3 vezes o número de jogos."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Nas salas de aula do Colégio Pedro II serão colocados pisos conforme a figura a seguir:</p><p><img src=\"img/p2018t/mat-q12.png\" alt=\"Piso quadrado formado por quatro retângulos claros iguais dispostos em volta de um quadrado central cinza, em forma de cata-vento: cada retângulo tem um lado maior que encosta em um lado do quadrado central e se estende até a borda do piso, e cada canto do piso é ocupado pela ponta de um retângulo. A figura não traz medidas.\"></p><p>Cada piso é formado por quatro retângulos iguais de lados \\(10\\ \\text{cm}\\) e \\((x + 10)\\ \\text{cm}\\), respectivamente, e um quadrado de lado igual a \\(x\\ \\text{cm}\\).</p><p>Sabendo-se que a área de cada piso equivale a \\(900\\ \\text{cm}^2\\), o valor de \\(x\\), em centímetros, é</p>",
+    "options": {
+      "A": "10.",
+      "B": "23.",
+      "C": "24.",
+      "D": "50."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Olhe para um lado do piso: ele é formado pelo lado menor de um retângulo (10 cm) mais o lado maior de outro retângulo (\\(x + 10\\) cm). Então o piso é um quadrado de lado</p><p>\\[10 + (x + 10) = x + 20.\\]</p><p>(Repare que o quadrado cinza do meio tem lado \\((x + 10) - 10 = x\\), como diz o enunciado.)</p><p>Como a área do piso é \\(900\\ \\text{cm}^2\\):</p><p>\\[(x + 20)^2 = 900 \\;\\Rightarrow\\; x + 20 = 30 \\;\\Rightarrow\\; x = 10.\\]</p><p>(Usamos só a raiz positiva, porque \\(x + 20\\) é uma medida.)</p><p>Somando as peças chega-se à mesma equação: \\(4 \\cdot 10(x + 10) + x^2 = 900\\), ou seja, \\(x^2 + 40x - 500 = 0\\), que fatora como \\((x - 10)(x + 50) = 0\\). A única solução positiva é \\(x = 10\\).</p><p>Conferindo: cada retângulo mede \\(10 \\times 20 = 200\\ \\text{cm}^2\\), os quatro somam \\(800\\ \\text{cm}^2\\), e o quadrado central tem \\(10^2 = 100\\ \\text{cm}^2\\). Total: \\(900\\ \\text{cm}^2\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Uma origem provável: contar só um retângulo em vez de quatro, \\(x^2 + 10(x + 10) = 900\\), o que dá \\(x^2 + 10x - 800 = 0\\), com raiz positiva de cerca de 23,7. Mas o piso tem quatro retângulos: com \\(x = 23\\), o lado do piso seria \\(23 + 20 = 43\\) cm e a área \\(43^2 = 1849\\ \\text{cm}^2\\), mais que o dobro de 900.",
+      "C": "Mesmo erro da opção B (contar só um dos quatro retângulos leva a uma raiz de cerca de 23,7, arredondada para 24). Com \\(x = 24\\), o lado do piso seria 44 cm e a área \\(44^2 = 1936\\ \\text{cm}^2\\), longe de 900.",
+      "D": "A equação \\(x^2 + 40x - 500 = 0\\) tem raízes 10 e \\(-50\\). Trocar o sinal de \\(-50\\) não gera solução: com \\(x = 50\\) a área seria \\(70^2 = 4900\\ \\text{cm}^2\\)."
+    },
+    "tip": "Num piso em cata-vento, o lado do quadrado externo é a soma dos lados do retângulo, e o quadrado central tem lado igual à diferença deles."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A haste (de 7 m de comprimento) de uma bandeira está apoiada, verticalmente, sobre o telhado de uma escola. De um ponto do plano horizontal onde a escola se situa, avistam-se a ponta superior e a base dessa haste, em ângulos de 60º e 45º, respectivamente, conforme mostra a figura:</p><p>Considere: \\(\\sqrt{3} \\cong 1{,}7\\)</p><p><img src=\"img/p2018t/mat-q13.png\" alt=\"Desenho de uma escola com uma bandeira hasteada no ponto mais alto do telhado. À esquerda, cotas verticais: 7 m para a haste da bandeira (da base, no telhado, até a ponta superior) e h para a altura da escola (do chão até a base da haste). De um ponto no chão, à direita da escola, saem duas linhas retas: uma até a ponta superior da haste, formando ângulo de 60º com o chão, e outra até a base da haste, formando ângulo de 45º com o chão. A vertical que passa pela haste encontra o chão em ângulo reto.\"></p><p>A altura aproximada da escola, em metros, é</p>",
+    "options": {
+      "A": "4.",
+      "B": "7.",
+      "C": "10.",
+      "D": "17."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.triangulos",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(d\\) a distância, no chão, do ponto de observação até o pé da vertical que passa pela haste. Formam-se dois triângulos retângulos com esse mesmo cateto horizontal \\(d\\):</p><ul><li>até a base da haste: cateto vertical \\(h\\), ângulo de 45° no chão;</li><li>até a ponta da haste: cateto vertical \\(h + 7\\), ângulo de 60° no chão.</li></ul><p><b>Triângulo de 45°:</b> os dois ângulos agudos medem 45°, então ele é isósceles e os catetos são iguais: \\(h = d\\). (Em outras palavras, \\(\\text{tg}\\,45^\\circ = \\frac{h}{d} = 1\\).)</p><p><b>Triângulo de 60°:</b> ele é metade de um triângulo equilátero, e o cateto do chão é metade do lado desse equilátero. Se o cateto do chão mede \\(d\\), a hipotenusa (lado do equilátero) mede \\(2d\\) e, por Pitágoras, o cateto vertical mede \\(\\sqrt{(2d)^2 - d^2} = \\sqrt{3d^2} = \\sqrt{3}\\,d\\). Então \\(h + 7 = \\sqrt{3}\\,d\\). (Em outras palavras, \\(\\text{tg}\\,60^\\circ = \\frac{h + 7}{d} = \\sqrt{3}\\).)</p><p>Trocando \\(d\\) por \\(h\\):</p><p>\\[h + 7 = \\sqrt{3}\\,h \\;\\Rightarrow\\; 7 = \\sqrt{3}\\,h - h = (\\sqrt{3} - 1)\\,h.\\]</p><p>Como \\(\\sqrt{3} \\cong 1{,}7\\), temos \\(\\sqrt{3} - 1 \\cong 0{,}7\\). Então \\(7 = 0{,}7\\,h\\), e \\(h = 7 \\div 0{,}7 = 10\\) m.</p><p>Conferindo: \\(d = 10\\) e \\(h + 7 = 17 \\cong 1{,}7 \\times 10\\).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "4 vem de \\(7 \\div 1{,}7 \\cong 4\\): é o erro de fazer \\(\\sqrt{3}\\,h = 7\\), esquecendo que o cateto oposto ao ângulo de 60° é a altura total \\(h + 7\\), e não só a haste.",
+      "B": "7 m é o comprimento da haste da bandeira, um dado do enunciado, e não a altura da escola.",
+      "D": "17 m é \\(h + 7\\), a altura da ponta da haste em relação ao chão. A pergunta é só a altura da escola, sem a haste."
+    },
+    "tip": "Com 45° os catetos são iguais (tg 45° = 1); com 60° o cateto oposto é \\(\\sqrt{3}\\) vezes o adjacente (tg 60° = \\(\\sqrt{3}\\))."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O edifício Duque de Caxias é um prédio comercial de 4 andares, com 5 escritórios em cada andar. Sabe-se que nem todos os contratos de locação (aluguel) desses escritórios têm o mesmo tempo de vigência, conforme é apresentado na tabela a seguir:</p><p><img src=\"img/p2018t/mat-q14.png\" alt=\"Gráfico de barras verticais. Eixo vertical: Número de contratos de locação, de 0 a 10, marcado de 2 em 2. Eixo horizontal: Tempo (em meses). Barras, com o valor escrito acima de cada uma: 12 meses, 4 contratos; 24 meses, 5 contratos; 36 meses, 8 contratos; 48 meses, 3 contratos.\"></p><p>Com base nessa tabela, o tempo médio de vigência, em meses, desses contratos de locação é igual a</p>",
+    "options": {
+      "A": "20.",
+      "B": "25.",
+      "C": "30.",
+      "D": "35."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O prédio tem \\(4 \\times 5 = 20\\) escritórios, e o gráfico mostra exatamente \\(4 + 5 + 8 + 3 = 20\\) contratos.</p><p>A média é <b>ponderada</b>: cada tempo entra na conta tantas vezes quanto o número de contratos com esse tempo.</p><p>\\[\\frac{4 \\cdot 12 + 5 \\cdot 24 + 8 \\cdot 36 + 3 \\cdot 48}{20} = \\frac{48 + 120 + 288 + 144}{20} = \\frac{600}{20} = 30.\\]</p><p>Atalho: todos os tempos são múltiplos de 12 (12, 24, 36 e 48 são \\(12 \\times 1\\), \\(12 \\times 2\\), \\(12 \\times 3\\) e \\(12 \\times 4\\)). Então a soma é \\(12 \\times (4 \\cdot 1 + 5 \\cdot 2 + 8 \\cdot 3 + 3 \\cdot 4) = 12 \\times 50 = 600\\).</p><p>Atenção: aqui a média simples dos quatro tempos, \\((12 + 24 + 36 + 48) \\div 4 = 120 \\div 4 = 30\\), dá o mesmo resultado por coincidência. O método correto é a média ponderada, porque cada tempo aparece num número diferente de contratos.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "20 é o número de contratos (ou de escritórios), que é o divisor da média, e não o tempo médio em meses.",
+      "B": "Para a média ser 25, a soma dos tempos dos 20 contratos teria de ser \\(25 \\times 20 = 500\\) meses, mas a soma correta é 600. Confira as multiplicações de cada barra.",
+      "D": "Para a média ser 35, a soma teria de ser \\(35 \\times 20 = 700\\) meses, e não 600. É erro de conta em alguma das multiplicações ou no divisor."
+    },
+    "tip": "Média a partir de um gráfico de frequências: multiplique cada valor pela sua frequência, some tudo e divida pelo total de frequências."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Renato resolveu mudar o plano mensal de sua operadora de celular para um que oferecesse mais vantagens.</p><p>Nesse novo plano, ele paga por mês R$ 40,00 para ter:</p><ul><li>ligações ilimitadas para a mesma operadora;</li><li>torpedos ilimitados para qualquer operadora;</li><li>150 minutos para outras operadoras ou telefones fixos;</li><li>3 GB de internet e WhatsApp fora da franquia (sem descontar) de internet.</li></ul><p>Além disso, no dia 1º de cada mês ele pode escolher entre pagar, para o mês que se inicia:</p><ul><li>uma taxa adicional única de R$ 15,00 para ligações ilimitadas para as demais operadoras e telefones fixos <b>ou</b></li><li>o valor de R$ 0,75 por minuto, para cada minuto excedente para esses números.</li></ul><p>Como nos meses de junho, julho e agosto Renato não contratou a taxa adicional e gastou menos de 150 minutos para as demais operadoras, ele resolveu, então, também não contratar a taxa adicional em setembro. Porém, precisou fazer ligações extras e terminou esse mês tendo utilizado 185 minutos para as demais operadoras e telefones fixos.</p><p>Se tivesse contratado a taxa adicional única de R$ 15,00, Renato teria economizado, em setembro,</p>",
+    "options": {
+      "A": "R$ 11,25.",
+      "B": "R$ 26,25.",
+      "C": "R$ 51,25.",
+      "D": "R$ 66,25."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.operacoes",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O plano já inclui 150 minutos para outras operadoras e fixos. Em setembro, Renato usou 185 minutos, então passou \\(185 - 150 = 35\\) minutos do limite.</p><p>Sem a taxa adicional, cada minuto excedente custa R$ 0,75:</p><p>\\[35 \\times 0{,}75 = 26{,}25.\\]</p><p>(Sem calculadora: \\(0{,}75 = \\frac{3}{4}\\), e \\(35 \\times \\frac{3}{4} = \\frac{105}{4} = 26{,}25\\).)</p><p>Com a taxa adicional, ele teria pago apenas R$ 15,00 pelas ligações ilimitadas. A mensalidade de R$ 40,00 é paga nos dois casos, então não entra na comparação.</p><p>Economia: \\(26{,}25 - 15{,}00 = 11{,}25\\), ou seja, R$ 11,25.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "R$ 26,25 é o que Renato pagou pelos 35 minutos excedentes. Faltou descontar os R$ 15,00 que ele pagaria pela taxa adicional.",
+      "C": "R$ 51,25 é a economia (R$ 11,25) somada à mensalidade de R$ 40,00. A mensalidade é paga nas duas opções, então não faz parte da economia.",
+      "D": "R$ 66,25 é o valor total da conta de setembro (\\(40{,}00 + 26{,}25\\)), e não a diferença entre as duas opções."
+    },
+    "tip": "Para saber quanto se economiza, compare só o que muda entre as opções; o que é pago nas duas (a mensalidade) se cancela."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Vanessa participará de uma corrida que acontecerá no dia 31 de dezembro de 2018.</p><p>No programa elaborado pelo seu treinador, ela deveria correr 6 km todos dias por um período de \\(n\\) dias consecutivos. Desse modo, o treino terminaria 2 dias antes do evento. Vanessa, porém, verificou que, nesse período, planejado inicialmente, não poderia treinar por 4 dias. Então, para compensar, resolveu correr, por dia, 1 km a mais do que o planejado, de modo que a distância total percorrida por ela fosse a mesma, terminando também 2 dias antes do evento.</p><p>De acordo com o programa de treinamento de Vanessa, a data em que ela teria de começar a se preparar para a corrida é</p>",
+    "options": {
+      "A": "01/12/2018.",
+      "B": "02/12/2018.",
+      "C": "03/12/2018.",
+      "D": "04/12/2018."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.logica"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Plano original:</b> \\(n\\) dias, 6 km por dia. Total: \\(6n\\) km.</p><p><b>Novo plano:</b> o período é o mesmo, mas ela não treina em 4 desses dias. Treina, então, \\(n - 4\\) dias, com \\(6 + 1 = 7\\) km por dia. Total: \\(7(n - 4)\\) km.</p><p>A distância total é a mesma:</p><p>\\[6n = 7(n - 4) \\;\\Rightarrow\\; 6n = 7n - 28 \\;\\Rightarrow\\; n = 28.\\]</p><p>Conferindo: \\(6 \\times 28 = 168\\) e \\(7 \\times 24 = 168\\).</p><p>A corrida é em 31/12 e o treino termina 2 dias antes, em 29/12. O período planejado tem 28 dias seguidos terminando no dia 29, então o primeiro dia é \\(29 - 28 + 1 = 2\\). De 2 a 29 de dezembro há exatamente \\(29 - 2 + 1 = 28\\) dias.</p><p>Ela teria de começar em 02/12/2018.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Fazer \\(29 - 28 = 1\\) esquece que o primeiro dia também conta: de 1 a 29 de dezembro são 29 dias, um a mais do que o plano prevê.",
+      "C": "Fazer \\(31 - 28 = 3\\) parte do dia da corrida: de 3 a 30 de dezembro são 28 dias, mas o treino terminaria só 1 dia antes do evento, e não 2.",
+      "D": "Começando em 04/12, os 28 dias vão até 31/12, o próprio dia da corrida. Esqueceu-se que o treino termina 2 dias antes."
+    },
+    "tip": "De um dia \\(a\\) até um dia \\(b\\), contando os dois, há \\(b - a + 1\\) dias; não esqueça de incluir o primeiro."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Paulo comprou um terreno na forma de um quadrilátero e pretende cercá-lo com 5 voltas de arame. Para isso, efetuou a medição de três lados e dois ângulos do terreno, mas se esqueceu de medir um de seus lados, conforme mostra a figura a seguir:</p><p>Considere: \\(\\sqrt{13} \\cong 3{,}6\\)</p><p><img src=\"img/p2018t/mat-q17.png\" alt=\"Quadrilátero com o lado maior horizontal, na base, medindo 28m. Lado esquerdo: 10m, formando ângulo de 60° com a base. Lado direito: 4m, formando ângulo de 60° com a base. Os dois lados inclinados sobem em direção um ao outro. O quarto lado, que liga as extremidades de cima dos lados de 10m e de 4m, não foi medido e está indicado por x; ele é inclinado, mais alto à esquerda do que à direita.\"></p><p>A quantidade de arame, em metros, que Paulo deverá comprar é</p>",
+    "options": {
+      "A": "64.",
+      "B": "188.",
+      "C": "283.",
+      "D": "318."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.areas",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Trace, a partir das duas pontas de cima, as alturas até a base de 28 m. Surgem dois triângulos retângulos com um ângulo de 60°. Cada um é a metade de um triângulo equilátero, então:</p><ul><li>o cateto sobre a base mede <b>metade</b> do lado inclinado;</li><li>a altura mede metade do lado inclinado vezes \\(\\sqrt{3}\\) (no lado de 10 m, por Pitágoras: \\(\\sqrt{10^2 - 5^2} = \\sqrt{75} = 5\\sqrt{3}\\)).</li></ul><p>Assim:</p><ul><li>lado de 10 m: avança 5 m na base e sobe \\(5\\sqrt{3}\\) m;</li><li>lado de 4 m: avança 2 m na base e sobe \\(2\\sqrt{3}\\) m.</li></ul><p>O lado \\(x\\) é a hipotenusa de um triângulo retângulo com:</p><ul><li>cateto horizontal: \\(28 - 5 - 2 = 21\\) m;</li><li>cateto vertical (diferença das alturas): \\(5\\sqrt{3} - 2\\sqrt{3} = 3\\sqrt{3}\\) m.</li></ul><p>Por Pitágoras:</p><p>\\[x^2 = 21^2 + (3\\sqrt{3})^2 = 441 + 27 = 468.\\]</p><p>Como \\(468 = 36 \\times 13\\), temos \\(x = 6\\sqrt{13} \\cong 6 \\times 3{,}6 = 21{,}6\\) m.</p><p>Perímetro do terreno: \\(10 + 28 + 4 + 21{,}6 = 63{,}6\\) m.</p><p>Para 5 voltas: \\(5 \\times 63{,}6 = 318\\) m.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "64 m é, arredondado, o perímetro do terreno (63,6 m), ou seja, uma volta só. Paulo quer cercá-lo com 5 voltas.",
+      "B": "Impossível: só os três lados medidos somam \\(10 + 28 + 4 = 42\\) m por volta, o que já exige \\(5 \\times 42 = 210\\) m de arame, sem contar o lado \\(x\\).",
+      "C": "Daria \\(x \\cong 283 \\div 5 - 42 = 14{,}6\\) m, o que não pode ser: a distância horizontal entre as pontas de cima já é 21 m, então \\(x\\) passa de 21 m. É erro no cálculo de \\(x\\)."
+    },
+    "tip": "Um lado \\(L\\) inclinado a 60° com a base avança \\(\\frac{L}{2}\\) na horizontal e sobe \\(\\frac{L\\sqrt{3}}{2}\\); com isso, o lado que falta sai por Pitágoras."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Karen inventou um jogo de cartas com 40 cartões, cada um com cinco números naturais consecutivos, de modo que o 1º cartão tem os números de 1 a 5, o 2º cartão deve ter um único número igual ao 1º cartão, o 3º cartão deve ter um único número igual ao 2º cartão, e assim sucessivamente.</p><p>A soma dos cinco números presentes no 30º cartão deste jogo é</p>",
+    "options": {
+      "A": "589.",
+      "B": "595.",
+      "C": "789.",
+      "D": "795."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada cartão tem 5 números consecutivos e exatamente um número em comum com o anterior: o último número de um cartão é o primeiro do cartão seguinte.</p><ul><li>1º cartão: 1, 2, 3, 4, 5;</li><li>2º cartão: 5, 6, 7, 8, 9;</li><li>3º cartão: 9, 10, 11, 12, 13;</li><li>e assim por diante.</li></ul><p>O primeiro número de cada cartão cresce de 4 em 4: 1, 5, 9, 13, ... Para chegar ao 30º cartão são 29 saltos de 4:</p><p>\\[1 + 29 \\times 4 = 1 + 116 = 117.\\]</p><p>O 30º cartão tem 117, 118, 119, 120 e 121.</p><p>Soma: em 5 números consecutivos, a soma é 5 vezes o número do meio: \\(5 \\times 119 = 595\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Impossível: a soma de 5 números consecutivos é 5 vezes o número do meio, portanto um múltiplo de 5, e 589 não termina em 0 nem em 5.",
+      "C": "Impossível pelo mesmo motivo: a soma de 5 consecutivos é múltipla de 5, e 789 não termina em 0 nem em 5.",
+      "D": "795 é a soma do 40º cartão, o último do jogo (157 a 161, soma \\(5 \\times 159\\)). A pergunta é sobre o 30º cartão."
+    },
+    "tip": "Se cada cartão repete o último número do anterior, os inícios avançam de 4 em 4 (e não de 5 em 5); a soma de 5 consecutivos é 5 vezes o termo do meio."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um colégio comprou 500 armários cinza, numerados de 1 a 500, para os alunos deixarem guardado o seu material escolar. Buscando melhorar o aspecto visual dos armários, a coordenadora pedagógica Gabriela sugeriu que alguns deles fossem pintados com as cores do emblema do colégio, de modo que:</p><ul><li>os armários com números múltiplos de 2 e 3, simultaneamente, fossem pintados de azul;</li><li>os armários com números múltiplos de 2 (e não de 3) fossem pintados de amarelo;</li><li>os armários com números múltiplos de 3 (e não de 2) fossem pintados de branco.</li></ul><p>Se eles forem pintados dessa forma, o número de armários que permanecerá com a cor cinza é</p>",
+    "options": {
+      "A": "1.",
+      "B": "84.",
+      "C": "167.",
+      "D": "333."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Ficam cinza os armários cujo número não é múltiplo de 2 nem de 3. Vamos contar os pintados e subtrair de 500.</p><ul><li>Múltiplos de 2 de 1 a 500: \\(500 \\div 2 = 250\\).</li><li>Múltiplos de 3: \\(500 \\div 3 = 166\\) com resto 2, então são 166.</li><li>Múltiplos de 2 e de 3 ao mesmo tempo são os múltiplos de 6: \\(500 \\div 6 = 83\\) com resto 2, então são 83.</li></ul><p>Os 83 múltiplos de 6 aparecem nas duas primeiras listas, então foram contados duas vezes. Total de armários pintados:</p><p>\\[250 + 166 - 83 = 333.\\]</p><p>(Por cor: 83 azuis, \\(250 - 83 = 167\\) amarelos e \\(166 - 83 = 83\\) brancos, num total de \\(83 + 167 + 83 = 333\\) armários.)</p><p>Armários cinza: \\(500 - 333 = 167\\).</p><p>Outro caminho: em cada bloco de 6 números seguidos, só 2 não são múltiplos de 2 nem de 3 (os que deixam resto 1 ou 5 na divisão por 6). De 1 a 498 há 83 blocos, com \\(83 \\times 2 = 166\\) armários cinza; dos que sobram, 499 e 500, só o 499 fica cinza. Total: 167.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Pensar que só o 1 escapa dos múltiplos de 2 e de 3. Há muitos outros números assim, como 5, 7, 11, 13, 25 e 35.",
+      "B": "Os armários cinza são de dois tipos: os que deixam resto 1 na divisão por 6 (1, 7, 13, ..., 499), que são 84, e os que deixam resto 5 (5, 11, 17, ..., 497), que são 83. A opção 84 conta só o primeiro tipo; o total é \\(84 + 83 = 167\\).",
+      "D": "333 é o total de armários pintados (\\(250 + 166 - 83\\)). Faltou subtrair esse valor de 500."
+    },
+    "tip": "Para contar quem não é múltiplo de 2 nem de 3: some os múltiplos de 2 e de 3, desconte os de 6 (contados duas vezes) e subtraia do total."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para enfeitar sua árvore de Natal, Deise desenhou em uma folha de papel alguns flocos de neve. O processo de construção está descrito a seguir:</p><p>1º) Desenha-se um triângulo equilátero de lado 9 cm (Figura 1).</p><p>2º) Apoiado em cada lado desse triângulo, desenha-se outro triângulo equilátero de lado igual a \\(\\frac{1}{3}\\) do anterior, e apaga-se na figura o segmento que corresponde à interseção desses dois triângulos (Figura 2).</p><p>3º) Nesses novos 3 triângulos, faz-se o mesmo processo descrito no item anterior, mas apenas nos dois lados que não foram apagados (Figura 3).</p><p>Utilize \\(\\sqrt{3} \\cong 1{,}7\\)</p><p><img src=\"img/p2018t/mat-q20.png\" alt=\"Três figuras lado a lado, sem medidas. Figura 1: triângulo equilátero com um vértice para cima. Figura 2: estrela de seis pontas, formada pelo triângulo da Figura 1 com um triângulo equilátero menor apoiado no meio de cada um dos seus três lados, voltado para fora (pontas para a esquerda em cima, para a direita em cima e para baixo). Figura 3: a mesma estrela da Figura 2 com seis triângulos equiláteros ainda menores, dois em cada uma das três pontas acrescentadas na Figura 2, um apoiado no meio de cada lado livre dessas pontas e voltado para fora; as três pontas do triângulo original não recebem triângulos.\"></p><p>Para fazer 10 flocos de neve iguais ao da Figura 3, Deise necessitará de uma quantidade de papel, em centímetros quadrados, igual a</p>",
+    "options": {
+      "A": "344,0.",
+      "B": "484,5.",
+      "C": "3440,0.",
+      "D": "4845,0."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.triangulos",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A área de um triângulo equilátero de lado \\(\\ell\\) é \\(\\dfrac{\\ell^2\\sqrt{3}}{4}\\).</p><p>O floco da Figura 3 é formado por:</p><ul><li>1 triângulo de lado 9 cm: área \\(\\dfrac{81\\sqrt{3}}{4}\\);</li><li>3 triângulos de lado \\(9 \\div 3 = 3\\) cm, um em cada lado do primeiro: área \\(3 \\times \\dfrac{9\\sqrt{3}}{4} = \\dfrac{27\\sqrt{3}}{4}\\);</li><li>6 triângulos de lado \\(3 \\div 3 = 1\\) cm, dois em cada triângulo de lado 3: área \\(6 \\times \\dfrac{\\sqrt{3}}{4} = \\dfrac{6\\sqrt{3}}{4}\\).</li></ul><p>Os triângulos novos ficam do lado de fora, sem se sobrepor, e apagar os segmentos de contato não muda a área. A área de um floco é:</p><p>\\[\\frac{(81 + 27 + 6)\\sqrt{3}}{4} = \\frac{114\\sqrt{3}}{4} = 28{,}5\\sqrt{3} \\cong 28{,}5 \\times 1{,}7 = 48{,}45\\ \\text{cm}^2.\\]</p><p>Para 10 flocos: \\(10 \\times 48{,}45 = 484{,}5\\ \\text{cm}^2\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "344 é, aproximadamente, 10 vezes a área só do triângulo grande: \\(10 \\times \\frac{81 \\times 1{,}7}{4} \\cong 344\\). Faltou somar os 3 triângulos de lado 3 e os 6 de lado 1.",
+      "C": "3440 é, aproximadamente, 100 vezes a área só do triângulo grande: além de esquecer os triângulos menores, multiplicou-se por 100 em vez de 10.",
+      "D": "A área de um floco (48,45 cm²) está certa, mas foi multiplicada por 100 em vez de 10, um erro na posição da vírgula."
+    },
+    "tip": "Triângulo equilátero de lado \\(\\ell\\) tem área \\(\\frac{\\ell^2\\sqrt{3}}{4}\\); quando o lado fica dividido por 3, a área fica dividida por 9."
+  }
+]

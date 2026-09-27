@@ -1,0 +1,293 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No Texto I, a opinião do autor pode ser resumida corretamente pela seguinte frase:</p>",
+    "options": {
+      "A": "A cola nas avaliações não é um problema tão grave. Então, os professores não deveriam se preocupar com ela.",
+      "B": "A cola é um problema com alguma gravidade. Por isso, deveria ser combatida com mais rigor dentro das escolas.",
+      "C": "A cola e o combate a ela são um grande problema. Assim, as escolas deveriam mudar suas estratégias.",
+      "D": "A cola é um enorme problema para as escolas. Logo, estas tomam providências eficazes para reduzir sua incidência."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Para resumir a opinião do autor, junte três passagens do texto.</p><p>1. Ele reconhece que a cola é um problema sério: “De fato, trata-se de um problema.” (linha 10). E explica que ela não é um problema menor, porque o aluno “aprende” a desonestidade intelectual, “exatamente a matriz de todo tipo de corrupção que assola o país” (linhas 12 a 14).</p><p>2. Ele também critica a forma como a cola é combatida: “sou contra a repressão à cola, porque ela na verdade estimula essa prática” (linha 40).</p><p>3. Ele propõe uma mudança: “devemos modificar as condições escolares que criam e promovem a cola” (linha 42).</p><p>Ou seja: a cola <b>e</b> o combate a ela são problemas graves, e a escola precisa mudar suas práticas. É exatamente o que diz a alternativa C.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Essa é a visão de quem vê a cola como “problema menor” (linhas 5 a 7), e o autor a rebate. Para ele, a cola tem “graves consequências para toda a sociedade” (linha 16).",
+      "B": "Para o autor, a cola não tem apenas “alguma gravidade”: é um problema muito sério, porque com ela o aluno “aprende” a desonestidade intelectual, a “matriz de todo tipo de corrupção” (linhas 13 e 14). E combater com mais rigor é a solução de quem vê a cola como problema insolúvel (“aumentar o controle”, linhas 8 e 9). O autor é contra a repressão, que, segundo ele, estimula a cola (linha 40).",
+      "D": "O texto diz o contrário: os mecanismos de repressão “são em geral ineficientes” (linhas 28 e 29). As escolas não tomam providências eficazes."
+    },
+    "tip": "Para achar a opinião do autor, procure marcas de 1ª pessoa, como “Defendo” e “sou contra”, e separe o que ele defende das opiniões alheias que ele só cita para rebater."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“Trata-se de um fenômeno tão recorrente que gera a palavra de ordem dos corredores<b>: “<u>quem não cola não sai da escola</u></b>”.</i> (linhas 2-3)</p></blockquote><p>O trecho destacado no excerto acima é um conhecido ditado popular, citado pelo autor com a finalidade de</p>",
+    "options": {
+      "A": "contestá-lo.",
+      "B": "compará-lo.",
+      "C": "confirmá-lo.",
+      "D": "comprová-lo."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, entenda o ditado: “quem não cola não sai da escola” quer dizer que, sem colar, o aluno não consegue ser aprovado e terminar a escola. A cola seria necessária.</p><p>Agora veja o que o autor faz com ele. O título, “QUEM COLA SAI DA ESCOLA?”, já transforma a ideia do ditado em pergunta e a coloca em dúvida. Mais adiante vem a resposta: “Quem cola, na verdade, não sai da escola, porque fica preso dentro do seu sistema viciado e viciante.” (linhas 36 e 37). Para ele, a vitória de quem cola “é uma derrota” (linhas 35 e 36).</p><p>Portanto, o autor cita o ditado popular para discordar dele, isto é, para <b>contestá-lo</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Comparar seria colocar o ditado ao lado de outra ideia para ver semelhanças e diferenças. O autor não faz isso: ele cita o ditado e depois o desmente.",
+      "C": "Confirmar seria concordar com o ditado. O autor faz o oposto e conclui que “Quem cola, na verdade, não sai da escola” (linha 36).",
+      "D": "Comprovar seria apresentar provas de que o ditado é verdadeiro. O texto inteiro procura mostrar que ele é falso, pois a cola prejudica o próprio aluno."
+    },
+    "tip": "Quando o autor cita um ditado ou uma opinião alheia, veja se depois ele concorda ou discorda: muitas vezes a citação é só o ponto de partida para ser contestada."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“A recorrência do fenômeno sugere que a prática da cola seria ou um problema menor, ou um problema insolúvel.”</i> (linhas 4-5)</p></blockquote><p>Na frase acima, o autor cria uma hipótese para analisar o problema discutido em seu texto: a cola.</p><p>A palavra que reforça a percepção de que se trata de uma hipótese é:</p>",
+    "options": {
+      "A": "recorrência",
+      "B": "fenômeno",
+      "C": "insolúvel",
+      "D": "seria"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Uma hipótese é uma suposição: algo que pode ser verdade, mas não é afirmado como certo.</p><p>Na frase “a prática da cola <b>seria</b> ou um problema menor, ou um problema insolúvel” (linhas 4 e 5), o verbo “seria” está no <b>futuro do pretérito</b> do indicativo. Esse tempo verbal expressa possibilidade, suposição e incerteza. Compare: “a cola <i>é</i> um problema menor” afirma um fato; “a cola <i>seria</i> um problema menor” apenas levanta uma possibilidade.</p><p>Tanto que, logo depois, o autor rejeita as duas possibilidades: “esse problema não é nem menor, nem insolúvel” (linhas 10 e 11).</p><p>As outras alternativas são substantivos e um adjetivo, que não carregam esse sentido de suposição.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Recorrência” significa repetição frequente. É um fato que o autor constata sobre a cola, e não uma suposição.",
+      "B": "“Fenômeno” apenas nomeia a cola, retomando o que foi dito no 1º parágrafo. Não indica dúvida nem hipótese.",
+      "C": "“Insolúvel” (sem solução) é o conteúdo de uma das duas possibilidades, mas quem transforma essas possibilidades em hipótese é o verbo “seria”."
+    },
+    "tip": "O futuro do pretérito (seria, faria, poderia) é o tempo verbal da hipótese e da incerteza: ele apresenta algo como possível, e não como certo."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“A recorrência do <b><u>fenômeno</u></b> sugere que a prática da cola seria ou um problema menor ou um problema insolúvel.”</i> (linhas 4-5)</p></blockquote><p>A palavra destacada no trecho citado acima é um elemento coesivo que retoma os seguintes termos, presentes no 1º parágrafo:</p>",
+    "options": {
+      "A": "“prática” (linha 1) e “respostas alheias” (linha 1)",
+      "B": "“furtar ideias” (linha 1) e “situações de avaliação” (linha 1)",
+      "C": "“A “cola” na escola” (linha 1) e “um fenômeno tão recorrente” (linha 2)",
+      "D": "“A “cola” na escola” (linha 1) e “palavra de ordem nos corredores” (linhas 2-3)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Um elemento coesivo retoma algo que já apareceu no texto, evitando repetições e ligando as ideias.</p><p>Veja o 1º parágrafo: a cola é apresentada logo no início (“A “cola” na escola”, linha 1), e em seguida o autor diz: “Trata-se de um fenômeno tão recorrente que gera a palavra de ordem dos corredores” (linhas 2 e 3). O fenômeno de que ele fala é a própria cola.</p><p>No 2º parágrafo, “A recorrência do <b>fenômeno</b>” (linha 4) retoma justamente essa expressão (repare que até “recorrência” vem de “recorrente”). E esse fenômeno é a cola na escola, o assunto anunciado na linha 1.</p><p>Faça o teste da substituição: “A recorrência da cola na escola sugere que...” mantém o sentido.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Prática” (linha 1), sozinha, não diz de que prática se trata, e “respostas alheias” são o que o aluno copia, e não o fenômeno em si. A palavra “fenômeno” se refere à prática da cola como um todo.",
+      "B": "“Furtar ideias” faz parte da definição da cola, mas “situações de avaliação” indicam só onde ela acontece (provas e testes). Retomar o lugar onde algo ocorre não é retomar o próprio fenômeno.",
+      "D": "A “palavra de ordem” (o ditado) é uma consequência do fenômeno: o texto diz que o fenômeno “gera” essa frase (linha 2). Logo, o ditado é outra coisa, e não o fenômeno."
+    },
+    "tip": "Para descobrir o que uma palavra retoma, troque-a pelos candidatos e veja qual troca mantém o sentido da frase."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“Defendo, <b><u>no entanto</u></b>, que esse problema não é nem menor, nem insolúvel.”</i> (linhas 10-11)</p></blockquote><p>O conectivo destacado poderia ser substituído, mantendo o seu sentido original, por</p>",
+    "options": {
+      "A": "portanto.",
+      "B": "contudo.",
+      "C": "desse modo.",
+      "D": "em outras palavras."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“No entanto” é um conectivo <b>adversativo</b>: ele indica oposição, contraste entre ideias.</p><p>Observe o trecho completo: “De fato, trata-se de um problema. Defendo, no entanto, que esse problema não é nem menor, nem insolúvel.” (linhas 10 e 11). O autor primeiro concorda com algo (a cola é mesmo um problema) e depois se opõe às duas visões do parágrafo anterior: a de que seria um problema menor e a de que seria insolúvel.</p><p>Para manter esse sentido de oposição, precisamos de outro conectivo adversativo, como mas, porém, todavia, entretanto ou <b>contudo</b>. Teste: “Defendo, <i>contudo</i>, que esse problema não é nem menor, nem insolúvel.” O sentido continua o mesmo.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Portanto” é conclusivo: indica uma consequência do que foi dito antes. O autor não tira uma conclusão, ele faz uma ressalva.",
+      "C": "“Desse modo” também introduz uma conclusão ou consequência, e não uma oposição.",
+      "D": "“Em outras palavras” serve para explicar ou reformular a mesma ideia com outras palavras, e não para contrapor ideias."
+    },
+    "tip": "Os adversativos (mas, porém, contudo, todavia, entretanto, no entanto) podem ser trocados entre si; já os conclusivos, como portanto e logo, mudam o sentido."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Em seu poema, Bráulio Bessa faz uma crítica à sociedade na qual ele também está inserido, assim como aqueles que o leem. Por isso, inclusive, o poeta faz uso frequente da 1ª pessoa do plural.</p><p>Dos versos a seguir, aquele em que a palavra destacada representa essa ideia de “nós” é:</p>",
+    "options": {
+      "A": "“de um <b><u>povo</u></b> que, em sua essência,” (verso 9)",
+      "B": "“só faz o que <b><u>lhe</u></b> convém…” (verso 10)",
+      "C": "“pra <b><u>gente</u></b> compreender” (verso 12)",
+      "D": "“que quando se ajuda <b><u>alguém</u></b>” (verso 13)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O enunciado pede a palavra que significa “nós”, a 1ª pessoa do plural, que inclui o poeta e os leitores.</p><p>Em “pra <b>gente</b> compreender” (verso 12), “pra gente” é a forma informal de “para a gente”, e <b>a gente</b> é uma expressão muito usada na fala no lugar de “nós”. Troque e confira: “Será mesmo tão difícil / para <i>nós</i> compreendermos”. O sentido se mantém.</p><p>Repare que, com “a gente”, o verbo fica na 3ª pessoa do singular (“a gente aprende”, verso 34), mas o sentido é de “nós”. O poeta mostra a mesma ideia em “Vivemos” (verso 8) e em “nosso peito” (verso 20), incluindo-se na crítica que faz.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Povo” é um substantivo e é tratado na 3ª pessoa: “em <i>sua</i> essência” (verso 9). A palavra em si não quer dizer “nós”.",
+      "B": "“Lhe” é pronome de 3ª pessoa (equivale a “a ele”) e se refere ao “povo” do verso anterior, e não a “nós”.",
+      "D": "“Alguém” é pronome indefinido: indica uma pessoa qualquer, a que recebe a ajuda, e não o grupo formado pelo poeta e pelos leitores."
+    },
+    "tip": "“A gente” equivale a “nós” no sentido, mas leva o verbo para a 3ª pessoa do singular: “a gente aprende” é o mesmo que “nós aprendemos”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<blockquote><p><i>“Isso significa que professores e inspetores são bobos?”</i> (Texto I, linha 31)</p></blockquote><blockquote><p><i>“Quanto vale a honestidade?”</i> (Texto II, verso 5)</p></blockquote><p>Observamos que tanto o Texto I quanto o Texto II empregam perguntas como forma de estruturação do seu raciocínio, conforme as frases acima exemplificam.</p><p>Quanto a esse recurso, é correto afirmar que</p>",
+    "options": {
+      "A": "no Texto I, as perguntas contrapõem as ideias do autor a argumentos sem amparo no senso comum.",
+      "B": "no Texto II, as perguntas representam a voz do leitor numa interlocução simulada pelo eu poético.",
+      "C": "no Texto I, as perguntas orientam o percurso argumentativo do texto.",
+      "D": "no Texto II, cada pergunta se relaciona a uma das estrofes seguintes."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No Texto I, as perguntas são <b>retóricas</b>: o próprio autor pergunta e logo em seguida responde, e cada resposta faz o raciocínio avançar. Veja:</p><ul><li>“Por que a cola não é um problema menor? Porque...” (linha 12);</li><li>“Por que a cola não é um problema insolúvel? Porque...” (linha 17);</li><li>“Isso significa que professores e inspetores são bobos?” (linha 31), respondida com “Não. Na verdade, o controle deficiente da cola revela-se um procedimento eficiente de promovê-la.” (linhas 32 e 33);</li><li>“O que fazer?” (linha 40), respondida com a proposta final (linhas 41 e 42).</li></ul><p>Cada pergunta abre uma nova etapa da argumentação, como placas que guiam o leitor pelo caminho do texto. Por isso se diz que elas <b>orientam o percurso argumentativo</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "As perguntas do Texto I não opõem o autor a argumentos “sem amparo no senso comum”: elas introduzem as respostas do próprio autor. Aliás, as visões que ele rebate (linhas 4 a 9) e o ditado popular são justamente ideias do senso comum.",
+      "B": "As perguntas do poema são do próprio eu poético, que avisa: “Eu começo este cordel / perguntando agoniado” (versos 1 e 2). Não é o leitor que pergunta; é o poeta que provoca o leitor a refletir.",
+      "D": "O trecho do poema reproduzido na prova tem sete perguntas e só três estrofes, e todas as perguntas estão nas duas primeiras (versos 3 a 7 e 11 a 20). Elas se acumulam e não recebem, cada uma, uma resposta nas estrofes seguintes: servem para provocar a reflexão do leitor."
+    },
+    "tip": "Pergunta retórica é aquela que o autor faz sem esperar resposta do leitor; em textos argumentativos, ela costuma anunciar o próximo passo do raciocínio."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p><i>“Seja justo, paciente, / seja um cidadão decente, / pois é na dificuldade / que a gente aprende a viver / e assim pode saber / quem é do bem de verdade.”</i> (Texto II, versos 31-36)</p></blockquote><p>Estes são os últimos versos do Texto II, isto é, a conclusão do poema.</p><p>Neles, o poeta Bráulio Bessa tem como principal intencionalidade</p>",
+    "options": {
+      "A": "transmitir uma informação de modo objetivo e impessoal.",
+      "B": "expressar uma opinião pessoal sobre as pessoas desonestas.",
+      "C": "fazer uma crítica às pessoas que não aprendem com seus erros.",
+      "D": "convencer o leitor a tomar uma determinada atitude diante da vida."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe os verbos que abrem a conclusão: “<b>Seja</b> justo, paciente, / <b>seja</b> um cidadão decente” (versos 31 e 32). Eles estão no <b>modo imperativo</b>, usado para dar conselhos, ordens e pedidos. O poeta se dirige diretamente ao leitor e o aconselha a agir de determinada forma.</p><p>Em seguida, ele justifica o conselho com “pois”: “pois é na dificuldade / que a gente aprende a viver” (versos 33 e 34). Aconselhar e justificar o conselho é uma estratégia de <b>convencimento</b>.</p><p>Assim, a principal intenção desses versos é convencer o leitor a adotar uma atitude diante da vida: ser justo, paciente e decente.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os versos não são objetivos nem impessoais: há verbos no imperativo dirigidos ao leitor e a expressão “a gente”, que inclui o poeta. Quem busca objetividade é um texto informativo, como uma notícia.",
+      "B": "Os versos finais não falam das pessoas desonestas. Eles se dirigem ao leitor com conselhos positivos, como “Seja justo”.",
+      "C": "Não há crítica nem menção a erros nesses versos. O aprendizado citado vem “na dificuldade” (verso 33), e o tom é de conselho, não de censura."
+    },
+    "tip": "Verbos no imperativo (seja, faça, lute) mostram que o texto quer levar o leitor a agir: é a função apelativa da linguagem."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "stem": "<p>Os três textos desta prova apresentam abordagens distintas para um tema semelhante.</p><p>A frase, retirada do Texto I, que melhor representa essa temática presente nos três textos é:</p>",
+    "options": {
+      "A": "“A recorrência do fenômeno sugere que a prática da cola seria ou um problema menor, ou um problema insolúvel.” (linhas 4-5)",
+      "B": "“Aqueles que a veem como problema menor defendem que muitas vezes a cola pode até estimular a criatividade dos alunos, tantos são os meios inventados para burlar a vigilância de professores e inspetores.” (linhas 5-7)",
+      "C": "“Aqueles que a veem como problema insolúvel defendem que a essência do ser humano é ruim, logo, se faz necessário aumentar o controle para que os alunos, pelo menos, colem menos.” (linhas 7-9)",
+      "D": "“Por que a cola não é um problema menor? Porque através da sua prática o futuro cidadão ‘aprende’ a desonestidade intelectual, exatamente a matriz de todo tipo de corrupção que assola o país.” (linhas 12-14)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Primeiro, descubra o que os três textos têm em comum:</p><ul><li>Texto I: a cola na escola como forma de desonestidade;</li><li>Texto II: os valores, como a honestidade (“Quanto vale a honestidade?”, verso 5; “Será mesmo que enganar / é melhor que ajudar?”, versos 15 e 16);</li><li>Texto III: Chico Bento confessa que colou (“EU COLEI DELE!”) e acaba tendo de fazer outra prova.</li></ul><p>O tema comum é a <b>honestidade e a desonestidade</b>, com a cola como exemplo. A frase do Texto I que liga tudo isso é a da alternativa D: com a cola, o futuro cidadão “‘aprende’ a desonestidade intelectual, exatamente a matriz de todo tipo de corrupção que assola o país” (linhas 12 a 14). Ela une a cola (Textos I e III) à falta de valores (Texto II).</p><p>As outras frases tratam de pontos específicos do debate do Texto I.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A frase só apresenta duas hipóteses sobre o tamanho do problema da cola, um debate próprio do Texto I. O poema e a tirinha não discutem se a cola é um problema “menor” ou “insolúvel”.",
+      "B": "A ideia de que a cola estimula a criatividade é uma opinião que o autor cita para rebater, e ela não aparece no poema nem na tirinha.",
+      "C": "A palavra “essência” lembra o verso 9 do poema, mas a frase trata de aumentar o controle sobre os alunos, solução que o autor rejeita. O poema não fala em controle: ele aposta em mudar por dentro, “consertando o coração” (verso 19)."
+    },
+    "tip": "Em questões com vários textos, procure a ideia mais geral que todos compartilham e desconfie de frases que tratam só de um detalhe de um deles."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Chico Bento, conhecido personagem do universo da Turma da Mônica, é uma criança que vive em zona rural.</p><p>Atua como elemento de reforço dessa identidade camponesa do personagem a</p>",
+    "options": {
+      "A": "resignação do personagem quanto à decisão da professora de lhe apresentar nova prova.",
+      "B": "diferença de usos linguísticos entre as falas do personagem e as da professora.",
+      "C": "indignação do personagem em relação à nota que recebeu.",
+      "D": "comunicação direta entre o personagem e sua professora."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A questão quer saber o que, na tirinha, reforça que Chico Bento é da roça. A pista está na <b>forma como ele fala</b>.</p><p>As falas de Chico Bento imitam a variedade linguística rural, o chamado falar caipira:</p><ul><li>“QUI” no lugar de “que”;</li><li>“DIVIA RECEBÊ A MEMA NOTA” no lugar de “devia receber a mesma nota”;</li><li>“VÔ TÊ DI FAZÊ OTRA PROVA” no lugar de “vou ter de fazer outra prova”;</li><li>a interjeição “ARA!”.</li></ul><p>Já as falas da professora não têm essas marcas e seguem a forma padrão: “MAS POR QUE É ABSURDO?” e “COLOU, HEIN?”. É esse <b>contraste</b> entre as duas maneiras de falar que marca a identidade do personagem.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Aceitar fazer outra prova é uma reação que qualquer aluno, da cidade ou do campo, poderia ter. Não diz nada sobre a origem rural do personagem.",
+      "C": "Reclamar da nota também é uma atitude comum a qualquer estudante. A indignação move a piada, mas não marca a identidade camponesa.",
+      "D": "A conversa direta entre aluno e professora acontece em qualquer escola. O que chama a atenção não é o fato de eles conversarem, e sim o jeito como Chico Bento fala."
+    },
+    "tip": "Em tirinhas, a grafia “diferente” das falas costuma ser proposital: ela representa uma variedade linguística e ajuda a mostrar a origem do personagem."
+  }
+]

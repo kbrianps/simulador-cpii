@@ -1,0 +1,23 @@
+{
+  "next_exam_date": "2026-10-18",
+  "next_exam_label": "Processo Seletivo 2027 (Edital nº 33/2026)",
+  "edital_url": "https://dhui.cp2.g12.br/dhui_arquivos/ano_2026/certame_0531/oferta_0649/EDITAL_N33_1EMRDINO_2027.docx.pdf",
+  "duration_min": 180,
+  "items": 20,
+  "items_pt": 10,
+  "items_mat": 10,
+  "essay_lines_min": 20,
+  "essay_lines_max": 25,
+  "essay_max": 10,
+  "objective_max": 20,
+  "rules": [
+    "20 questões de múltipla escolha (10 de Língua Portuguesa e 10 de Matemática), com 4 alternativas e 1 ponto cada.",
+    "Redação de 0 a 10 pontos, com 20 a 25 linhas.",
+    "Duração total de 3 horas, incluindo a redação e o preenchimento da folha de respostas.",
+    "Zero em Português, em Matemática ou na redação elimina o candidato.",
+    "Não é permitido usar calculadora.",
+    "A nota final é a soma da prova objetiva com a redação (máximo de 30 pontos).",
+    "Só são corrigidas as redações de quem fica entre os mais bem colocados na prova objetiva (4 vezes o número de vagas de cada grupo)."
+  ],
+  "tiebreak": ["maior nota na redação", "maior número de acertos em Matemática", "maior número de acertos em Língua Portuguesa"]
+}

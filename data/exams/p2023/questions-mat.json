@@ -1,0 +1,270 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Iberê Tenório, no canal <i>Manual do Mundo</i>, do YouTube, explica como calcular a altura H de um prédio usando um prato com água e uma trena.</p><p class=\"fonte\"><i>EXPERIMENTOS de FÍSICA: Medindo Prédios com Prato</i> Disponível em: https://www.youtube.com. Acesso em: 28.ago.2023.</p><p>No experimento, ele posiciona no chão um prato P com água e mede a distância desse prato, ponto P, até um ponto A, no pé do prédio. Em seguida, posiciona-se sobre um ponto B no chão, tal que A, P e B estão alinhados, com P entre A e B e consegue enxergar o topo do prédio refletido no prato d’água.</p><p>O apresentador mede a distância de B a P e a altura h, do chão até seus olhos. Por fim, aplica a ideia de que o ângulo de incidência de um raio de luz é igual ao ângulo de reflexão desse mesmo raio, conforme se vê na figura a seguir:</p><p><img src=\"img/p2023/mat-q11.png\" alt=\"Figura fora de escala, vista de lado. À esquerda, um retângulo vertical com a palavra PRÉDIO; sua altura está indicada por uma chave com a letra H, e o pé do prédio no chão é o ponto A. Na linha do chão, à direita de A, fica o ponto P (o prato com água) e, mais à direita, o ponto B, onde está uma pessoa em pé; a altura do chão até os olhos da pessoa está indicada por uma chave com a letra h. Um segmento liga o topo do prédio ao ponto P e outro liga o ponto P aos olhos da pessoa. Os dois segmentos formam com o chão ângulos iguais, ambos marcados com a letra grega α: à esquerda de P, o ângulo entre o chão (lado de A) e o segmento que vem do topo do prédio; à direita de P, o ângulo entre o chão (lado de B) e o segmento que vai até os olhos da pessoa.\"></p><p><b>FIGURA FORA DE ESCALA</b></p><p>Ao medir com uma trena, ele encontrou \\(\\overline{AP}\\) = 20 m, h = 1,70 m e \\(\\overline{PB}\\) = 20 cm.</p><p>Diante disso, é correto afirmar que a altura H do prédio é de</p>",
+    "options": {
+      "A": "170 m",
+      "B": "134 m",
+      "C": "1,70 m",
+      "D": "1,35 m"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na figura há dois triângulos retângulos: um formado pelo prédio (catetos H e \\(\\overline{AP}\\)) e outro formado pela pessoa (catetos h e \\(\\overline{PB}\\)). Os dois têm ângulo reto no chão e o mesmo ângulo \\(\\alpha\\) no ponto P (o ângulo de incidência é igual ao de reflexão). Com dois ângulos iguais, os triângulos são <b>semelhantes</b>, e os lados correspondentes são proporcionais.</p><p>Antes de comparar, coloque tudo na mesma unidade: \\(\\overline{PB} = 20\\) cm \\(= 0{,}20\\) m.</p><p>Lados correspondentes: H corresponde a h (as alturas) e \\(\\overline{AP}\\) corresponde a \\(\\overline{PB}\\) (as distâncias no chão até P):</p><p>\\[\\frac{H}{h} = \\frac{\\overline{AP}}{\\overline{PB}} = \\frac{20}{0{,}20} = 100\\]</p><p>Ou seja, o triângulo do prédio é 100 vezes maior que o da pessoa. Então:</p><p>\\[H = 100 \\cdot h = 100 \\cdot 1{,}70 = 170 \\text{ m}\\]</p><p>Conferência: \\(\\dfrac{170}{20} = 8{,}5\\) e \\(\\dfrac{1{,}70}{0{,}20} = 8{,}5\\); as duas razões altura/distância são iguais, como deve ser em triângulos semelhantes. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Tem a ordem de grandeza certa, mas não sai da semelhança: daria \\(\\dfrac{H}{h} = \\dfrac{134}{1{,}70} \\approx 79\\), enquanto a razão entre as distâncias é \\(\\dfrac{20}{0{,}20} = 100\\). Nenhuma proporção correta com esses dados leva a 134 m.",
+      "C": "É o resultado de esquecer a conversão de unidades e usar 20 cm como se fosse 20 m: \\(\\dfrac{H}{1{,}70} = \\dfrac{20}{20}\\) dá \\(H = 1{,}70\\) m, que é a altura dos olhos da pessoa, e não a do prédio.",
+      "D": "Um prédio de 1,35 m seria mais baixo que a própria pessoa (1,70 m até os olhos), o que contradiz a figura. O valor não sai de nenhuma proporção correta com os dados."
+    },
+    "tip": "Ângulos iguais geram triângulos semelhantes; converta todas as medidas para a mesma unidade antes de montar a proporção."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A média aritmética das notas das provas dos 29 estudantes da turma A é 6,5. Com a chegada de Pedrinho, que fez prova em outra turma e foi transferido para a turma A, essa média sobe para 6,6.</p><p>De acordo com essas informações, a nota da prova de Pedrinho foi</p>",
+    "options": {
+      "A": "9,5",
+      "B": "8,0",
+      "C": "6,4",
+      "D": "10,0"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A média é a soma das notas dividida pelo número de alunos. Então a <b>soma</b> das notas é média \\(\\times\\) número de alunos.</p><p>Antes de Pedrinho (29 alunos): soma \\(= 29 \\cdot 6{,}5 = 188{,}5\\). (Sem calculadora: \\(30 \\cdot 6{,}5 - 6{,}5 = 195 - 6{,}5 = 188{,}5\\).)</p><p>Depois de Pedrinho (30 alunos): soma \\(= 30 \\cdot 6{,}6 = 198\\).</p><p>A única nota que entrou foi a de Pedrinho, então ela é a diferença entre as somas:</p><p>\\[198 - 188{,}5 = 9{,}5\\]</p><p>Outro jeito de pensar: Pedrinho precisa ter a nova média (6,6) e ainda sobrar 0,1 ponto para cada um dos 29 colegas: \\(6{,}6 + 29 \\cdot 0{,}1 = 6{,}6 + 2{,}9 = 9{,}5\\).</p><p>Conferência: \\(\\dfrac{188{,}5 + 9{,}5}{30} = \\dfrac{198}{30} = 6{,}6\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Com nota 8,0, a soma seria \\(188{,}5 + 8 = 196{,}5\\) e a média \\(196{,}5 \\div 30 = 6{,}55\\), menor que 6,6. Não basta ficar acima de 6,5: a nota precisa puxar a média de toda a turma.",
+      "C": "Uma nota menor que a média atual (6,5) faria a média <b>cair</b>, e não subir para 6,6. É impossível.",
+      "D": "Aparece quando se perde o 0,5 em \\(29 \\cdot 6{,}5\\) e se usa 188 em vez de 188,5: \\(198 - 188 = 10\\). Com nota 10,0 a média seria \\(198{,}5 \\div 30 \\approx 6{,}62\\)."
+    },
+    "tip": "Em problemas de média, trabalhe com a soma (média vezes quantidade): a nota que entrou é a soma nova menos a soma antiga."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote><i>“O tempo de decomposição dos materiais no meio ambiente é diretamente influenciado por suas características, podendo variar de alguns meses a centenas de milhares de anos. Os impactos causados no meio ambiente pelo tempo de decomposição de determinados materiais podem ser bastantes prejudiciais e têm a possibilidade de redução, se cada um estiver ciente dessa realidade.”</i></blockquote><p>A tabela a seguir indica os impactos que podem ser evitados com a reciclagem de alguns materiais:</p><table><tbody><tr><th>RECICLANDO</th><th>EVITA-SE</th><td rowspan=\"4\"><b>OU</b></td><th>DECOMPÕE-SE EM</th></tr><tr><td>PAPEL (1000 kg)</td><td>o corte de 20 árvores;</td><td>semanas;</td></tr><tr><td>PLÁSTICO (1000 kg)</td><td>a extração do dobro de petróleo;</td><td>algumas centenas de anos;</td></tr><tr><td>VIDRO (1000 kg)</td><td>a extração de 1300 kg de areia;</td><td>1 milhão de anos;</td></tr></tbody></table><p class=\"fonte\">Disponível em: https://www.usegreenco.com.br/blog. Acesso em: 28.ago.2023. Adaptado</p><p>Com base na tabela, a décima sexta parte do tempo médio de decomposição de 1000 kg de vidro, em anos, será representada na forma de notação científica por</p>",
+    "options": {
+      "A": "\\(6{,}25\\ .\\ 10^{2}\\)",
+      "B": "\\(6{,}25\\ .\\ 10^{3}\\)",
+      "C": "\\(6{,}25\\ .\\ 10^{4}\\)",
+      "D": "\\(6{,}25\\ .\\ 10^{5}\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.potencia_raiz",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pela tabela, 1000 kg de vidro se decompõem em <b>1 milhão de anos</b>, isto é, \\(1.000.000 = 10^6\\) anos.</p><p>A décima sexta parte é esse valor dividido por 16. Como \\(16 = 2 \\cdot 2 \\cdot 2 \\cdot 2\\), dá para dividir por 2 quatro vezes, sem calculadora:</p><p>\\[1.000.000 \\to 500.000 \\to 250.000 \\to 125.000 \\to 62.500\\]</p><p>Na notação científica, o número da frente precisa estar entre 1 e 10. Para transformar 62.500 em 6,25, a vírgula anda 4 casas para a esquerda, o que corresponde a multiplicar por \\(10^4\\):</p><p>\\[62.500 = 6{,}25 \\cdot 10.000 = 6{,}25 \\cdot 10^4\\]</p><p>(Na prova, o ponto em \\(6{,}25\\ .\\ 10^4\\) é o sinal de multiplicação.) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "\\(6{,}25 \\cdot 10^2 = 625\\), que é \\(10.000 \\div 16\\): considerou 10 mil anos em vez de 1 milhão, perdendo dois zeros.",
+      "B": "\\(6{,}25 \\cdot 10^3 = 6.250\\), que é \\(100.000 \\div 16\\). Aparece ao perder um zero na divisão ou ao contar uma casa a menos quando a vírgula de 62.500 é deslocada.",
+      "D": "\\(6{,}25 \\cdot 10^5 = 625.000\\), que é \\(10.000.000 \\div 16\\). Aparece ao contar uma casa a mais quando a vírgula de 62.500 é deslocada."
+    },
+    "tip": "Em notação científica o número da frente fica entre 1 e 10, e o expoente de 10 é o número de casas que a vírgula andou."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote><p><i>“O Facebook atingiu a marca de <b>2 bilhões de usuários ativos diariamente</b> (DAUs, na sigla em inglês) no mundo todo em dezembro de 2022. A pesquisa mostrou que a maioria dos usuários do Facebook é bem ativa na rede social.</i></p><p><i>De acordo com a pesquisa, 18% do total de usuários acessa a rede social pelo menos uma vez ao dia. Na pesquisa anterior, em junho de 2022, os números eram maiores. Segundo os entrevistados, 32% do total de usuários acessava a rede social pelo menos uma vez ao dia.”</i></p></blockquote><p class=\"fonte\">Disponível em: https://www.blog.opinionbox.com. Acesso em: 24.jul.2023</p><p>Considere o total de 2 bilhões de pessoas em ambas as pesquisas feitas. O número absoluto de usuários do mundo todo que deixou de acessar a rede social pelo menos uma vez ao dia, comparando os resultados das pesquisas de junho e dezembro de 2022, foi de</p>",
+    "options": {
+      "A": "180 milhões.",
+      "B": "240 milhões.",
+      "C": "280 milhões.",
+      "D": "320 milhões."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Em junho de 2022, 32% dos usuários acessavam a rede pelo menos uma vez ao dia; em dezembro, apenas 18%. Como o total considerado é o mesmo nas duas pesquisas (2 bilhões), a parte que <b>deixou</b> de acessar é a diferença das porcentagens:</p><p>\\[32\\% - 18\\% = 14\\%\\]</p><p>Agora calcule 14% de 2 bilhões (2.000 milhões):</p><p>\\[\\frac{14}{100} \\cdot 2.000 \\text{ milhões} = 14 \\cdot 20 \\text{ milhões} = 280 \\text{ milhões}\\]</p><p>Conferência pelo caminho longo: em junho, \\(32\\%\\) de 2.000 milhões \\(= 640\\) milhões; em dezembro, \\(18\\%\\) de 2.000 milhões \\(= 360\\) milhões; \\(640 - 360 = 280\\) milhões. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "180 milhões é 18% de 1 bilhão: usa só o dado de dezembro e ainda com a base errada. A pergunta pede quantos <b>deixaram</b> de acessar, ou seja, a diferença entre junho e dezembro.",
+      "B": "240 milhões é 12% de 2 bilhões: erro na subtração, pois \\(32 - 18 = 14\\), e não 12.",
+      "D": "320 milhões é 32% de 1 bilhão (ou 16% de 2 bilhões): usa só o dado de junho, sem descontar quem continuou acessando em dezembro."
+    },
+    "tip": "Se as duas porcentagens se referem ao mesmo total, subtraia as porcentagens primeiro e só depois calcule sobre o total."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir é o anverso de uma cédula de 10 Cruzeiros, que circulou no Brasil entre os anos de 1970 e 1984. A personalidade homenageada nesta cédula foi Dom Pedro II, que tem a sua efígie representada no interior de um medalhão circular de raio <i>r</i>.</p><p><img src=\"img/p2023/mat-q15.jpg\" alt=\"Fotografia em tons de cinza do anverso de uma cédula retangular de 10 cruzeiros, mais comprida do que larga. No alto, os dizeres BANCO CENTRAL DO BRASIL e, no canto superior direito, o número 10 dentro de um círculo. À esquerda, um número 10 grande dentro de um desenho oval e o número de série A05549 058179; no centro, os dizeres DEZ CRUZEIROS. À direita, o retrato de Dom Pedro II, idoso e de barba branca, dentro de um medalhão circular; embaixo, duas assinaturas e novamente o número de série A05549 058179.\"></p><p class=\"fonte\">Disponível em: https://www.en.numista.com. Acesso em: 4.ago.2023.</p><p>As medidas de comprimento e largura desta cédula eram, respectivamente, 150 mm e 70 mm. O medalhão circular (que contém a efígie de D. Pedro II) ocupa uma área correspondente a 20% da área da cédula retangular.</p><p>Adotando-se as aproximações \\(\\pi = 3\\) e \\(\\sqrt{7} = 2{,}6\\), a medida aproximada do diâmetro do medalhão circular era de</p>",
+    "options": {
+      "A": "23 mm.",
+      "B": "26 mm.",
+      "C": "46 mm.",
+      "D": "52 mm."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Área da cédula.</b> É um retângulo de 150 mm por 70 mm: \\(150 \\cdot 70 = 10.500\\) mm².</p><p><b>2) Área do medalhão.</b> Ele ocupa 20% dessa área: \\(\\dfrac{20}{100} \\cdot 10.500 = 2100\\) mm².</p><p><b>3) Raio.</b> A área do círculo é \\(\\pi r^2\\). Com \\(\\pi = 3\\):</p><p>\\[3r^2 = 2100 \\;\\Rightarrow\\; r^2 = 700 \\;\\Rightarrow\\; r = \\sqrt{700} = \\sqrt{100 \\cdot 7} = 10\\sqrt{7}\\]</p><p>Usando \\(\\sqrt{7} = 2{,}6\\): \\(r = 10 \\cdot 2{,}6 = 26\\) mm.</p><p><b>4) Diâmetro.</b> A pergunta pede o diâmetro, que é o dobro do raio: \\(d = 2 \\cdot 26 = 52\\) mm.</p><p>Conferência: com \\(r = 26\\), a área fica \\(3 \\cdot 26^2 = 3 \\cdot 676 = 2028\\) mm², bem perto de 2100 mm² (a pequena diferença vem da aproximação de \\(\\sqrt{7}\\)). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Com diâmetro de 23 mm (raio de 11,5 mm), a área seria só \\(3 \\cdot 11{,}5^2 \\approx 397\\) mm², menos de 4% da cédula, e não 20%.",
+      "B": "26 mm é o <b>raio</b> do medalhão (\\(10\\sqrt{7} \\approx 26\\)); faltou multiplicar por 2 para obter o diâmetro.",
+      "C": "Com diâmetro de 46 mm (raio de 23 mm), a área seria \\(3 \\cdot 23^2 = 1587\\) mm², cerca de 15% da cédula, e não 20%."
+    },
+    "tip": "Pela área do círculo (\\(\\pi r^2\\)) você encontra o raio; se a pergunta pede o diâmetro, não esqueça de dobrar."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para fixar um mastro AD de \\(10\\sqrt{3}\\) metros de altura em uma embarcação, o comandante ordenou que fossem colocados dois pontos de amarração, B e C, alinhados com o pé do mastro e presos ao convés, de modo que a distância entre B e C fosse 20 metros. Em seguida, ordenou que fossem presas as cordas AB e AC ao topo do mastro, conforme figura a seguir.</p><p>Sabe-se que o comprimento da corda AC é igual à distância de B a C, admitindo-se que as cordas estão perfeitamente esticadas.</p><p><img src=\"img/p2023/mat-q16.png\" alt=\"Desenho de um barco visto de lado. O casco é um trapézio vermelho-escuro e o convés é a linha horizontal no alto do casco. Sobre o convés, da esquerda para a direita, estão os pontos B (na ponta esquerda do barco), C e D. No ponto D ergue-se o mastro vertical AD, com o ponto A no topo; à direita do mastro há uma vela triangular cinza. Duas cordas retas partem do topo A: uma vai até o ponto B e a outra até o ponto C, formando os triângulos ABD e ACD; o mastro é perpendicular ao convés (o desenho não traz marcação de ângulo reto nem medidas).\"></p><p>Com base nessas informações, o comprimento da corda AB é de</p>",
+    "options": {
+      "A": "10 m",
+      "B": "\\(20\\sqrt{3}\\) m",
+      "C": "\\(20\\sqrt{7}\\) m",
+      "D": "40 m"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O mastro AD é vertical e o convés é horizontal, então os triângulos ADC e ADB são retângulos em D. Dados: \\(AD = 10\\sqrt{3}\\) m, \\(BC = 20\\) m e \\(AC = BC = 20\\) m.</p><p><b>1) Triângulo ADC</b> (hipotenusa AC). Pelo Teorema de Pitágoras, lembrando que \\((10\\sqrt{3})^2 = 100 \\cdot 3 = 300\\):</p><p>\\[AC^2 = AD^2 + DC^2 \\;\\Rightarrow\\; 400 = 300 + DC^2 \\;\\Rightarrow\\; DC^2 = 100 \\;\\Rightarrow\\; DC = 10 \\text{ m}\\]</p><p><b>2) Distância BD.</b> Pela figura, C fica entre B e D: \\(BD = BC + CD = 20 + 10 = 30\\) m.</p><p><b>3) Triângulo ADB</b> (hipotenusa AB):</p><p>\\[AB^2 = BD^2 + AD^2 = 30^2 + 300 = 900 + 300 = 1200\\]</p><p>\\[AB = \\sqrt{1200} = \\sqrt{400 \\cdot 3} = 20\\sqrt{3} \\text{ m}\\]</p><p>Conferência: \\(20\\sqrt{3} \\approx 34{,}6\\) m é maior que o cateto \\(BD = 30\\) m (a hipotenusa é o maior lado) e menor que o caminho quebrado \\(BC + CA = 40\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "10 m é a medida de DC, um passo intermediário. A corda AB nem poderia medir isso: ela é a hipotenusa do triângulo ADB e precisa ser maior que o mastro (\\(10\\sqrt{3} \\approx 17{,}3\\) m).",
+      "C": "\\(20\\sqrt{7} \\approx 52{,}9\\) m é maior que o caminho \\(BC + CA = 40\\) m, o que é impossível, pois o segmento reto de B até A é o caminho mais curto. Atenção: no triângulo ADC a hipotenusa é AC, então se subtrai (\\(400 - 300\\)); somar (\\(400 + 300 = 700\\)) faria aparecer um \\(\\sqrt{7}\\), sinal de que a conta saiu do caminho.",
+      "D": "40 m é a soma \\(BC + CA = 20 + 20\\), como se a corda fosse de B até C e depois até A. Como B, C e A não estão alinhados, a corda reta AB é menor que 40 m."
+    },
+    "tip": "Com dois triângulos retângulos lado a lado, resolva primeiro aquele em que você já conhece dois lados e leve o resultado para o outro."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p><i>Joystick</i> (ou controle) é um dispositivo usado para controlar a personagem dentro de um jogo de videogame em um console. A foto abaixo representa um <i>Joystick</i>.</p><p><img src=\"img/p2023/mat-q17.jpg\" alt=\"Foto de um controle de videogame preto, visto de frente. No lado esquerdo há quatro botões direcionais dispostos em cruz; no lado direito há quatro botões de ação dispostos em losango, com os símbolos triângulo (em cima), círculo (à direita), X (embaixo) e quadrado (à esquerda); no centro, um painel retangular e, mais abaixo, duas alavancas analógicas.\"></p><p class=\"fonte\">Disponível em: https://www.playstation.com/pt-br. Acesso em: 31.ago.2023.</p><p>Nos jogos de luta, os quatro botões à esquerda formam o Direcional e os quatro botões à direita são chamados botões de ação:</p><table><tbody><tr><th colspan=\"5\">MOVIMENTO DA PERSONAGEM NO JOGO</th></tr><tr><td>Para frente</td><td colspan=\"4\">\\(\\rightarrow\\)</td></tr><tr><td>Para trás</td><td colspan=\"4\">\\(\\leftarrow\\)</td></tr><tr><td>Para cima</td><td colspan=\"4\">\\(\\uparrow\\)</td></tr><tr><td>Para baixo</td><td colspan=\"4\">\\(\\downarrow\\)</td></tr><tr><th colspan=\"5\">BOTÕES DE AÇÃO</th></tr><tr><td>Socos e chutes</td><td>\\(\\square\\)</td><td>\\(\\bigcirc\\)</td><td>\\(\\triangle\\)</td><td>X</td></tr></tbody></table><p>Além disso, cada combinação, usando vários movimentos do direcional e um dos botões de ação, produz um golpe chamado <i>Golpe Especial</i>, que varia para cada personagem.</p><p>Um programador de jogos de videogame está trabalhando num personagem do jogo SUPER LUTA, e deseja que seus golpes especiais sejam formados a partir de <u>quatro comandos diferentes</u> com o Direcional, seguidos de <u>um botão de ação</u>. O exemplo abaixo representa um Golpe Especial possível.</p><p>\\[\\uparrow\\;\\;\\rightarrow\\;\\;\\leftarrow\\;\\;\\downarrow\\;\\;\\square\\]</p><p>O maior número de Golpes Especiais que esse personagem pode ter é</p>",
+    "options": {
+      "A": "16",
+      "B": "64",
+      "C": "96",
+      "D": "144"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada Golpe Especial é uma sequência de 5 posições: 4 comandos do Direcional seguidos de 1 botão de ação.</p><p>Os 4 comandos precisam ser <b>diferentes</b>, e o Direcional só tem 4 setas (\\(\\rightarrow\\), \\(\\leftarrow\\), \\(\\uparrow\\), \\(\\downarrow\\)). Então as quatro setas são sempre usadas, e o que muda é a ordem. Pelo princípio multiplicativo:</p><ul><li>1º comando: 4 opções;</li><li>2º comando: 3 opções (não pode repetir o 1º);</li><li>3º comando: 2 opções;</li><li>4º comando: 1 opção.</li></ul><p>Ordens possíveis das setas: \\(4 \\cdot 3 \\cdot 2 \\cdot 1 = 24\\).</p><p>O botão de ação do final pode ser qualquer um dos 4 (\\(\\square\\), \\(\\bigcirc\\), \\(\\triangle\\), X): 4 opções.</p><p>Total: \\(24 \\cdot 4 = 96\\) Golpes Especiais. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "16 é \\(4 \\cdot 4\\): multiplica o número de setas pelo número de botões, sem contar as diferentes <b>ordens</b> em que as 4 setas podem ser apertadas.",
+      "B": "64 é \\(4 \\cdot 4 \\cdot 4\\) (ou \\(16 \\cdot 4\\)): mistura as quantidades sem pensar posição por posição. O certo é \\(4 \\cdot 3 \\cdot 2 \\cdot 1\\) para as setas e \\(\\cdot\\, 4\\) para o botão.",
+      "D": "144 é mais do que o total possível: as 4 setas diferentes só podem ser ordenadas de 24 maneiras e há apenas 4 botões de ação, então o máximo é \\(24 \\cdot 4 = 96\\). Para chegar a 144 (\\(24 \\cdot 6\\)) seria preciso haver 6 botões de ação."
+    },
+    "tip": "Quando a ordem importa e não pode repetir, multiplique as opções que sobram em cada posição, como em \\(4 \\cdot 3 \\cdot 2 \\cdot 1\\)."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Raul, estudante do Colégio Pedro II, desde muito jovem tem o hábito de limpar e organizar a estante de sua sala de estudos. Objetivando conciliar os dias da limpeza da estante com as outras ocupações da rotina, decidiu que iria realizá-la a cada 10 dias; ou seja, se Raul limpou num domingo, ele limpará, da próxima vez, numa quarta-feira.</p><p>Sabendo que a primeira limpeza de tal estante ocorreu numa <b>segunda-feira</b>, Raul irá limpar a sua estante pela 161ª vez em uma</p>",
+    "options": {
+      "A": "terça-feira.",
+      "B": "quarta-feira.",
+      "C": "quinta-feira.",
+      "D": "sexta-feira."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Quantos dias se passam.</b> Da 1ª até a 161ª limpeza há \\(161 - 1 = 160\\) intervalos de 10 dias, ou seja, a 161ª limpeza acontece \\(160 \\cdot 10 = 1600\\) dias depois da primeira.</p><p><b>2) Descontar as semanas completas.</b> Os dias da semana se repetem a cada 7 dias, então só importa o resto da divisão por 7:</p><p>\\[1600 = 7 \\cdot 228 + 4 \\quad (7 \\cdot 228 = 1596)\\]</p><p>As 228 semanas completas terminam de novo numa segunda-feira; sobram 4 dias.</p><p><b>3) Andar o resto.</b> A partir da segunda-feira: terça (1), quarta (2), quinta (3), <b>sexta</b> (4).</p><p>Outra forma: 10 dias \\(=\\) 1 semana \\(+\\) 3 dias, então cada limpeza cai 3 dias da semana adiante (como no exemplo: domingo, depois quarta). As limpezas seguem o ciclo segunda, quinta, domingo, quarta, sábado, terça, sexta, e depois volta à segunda (as limpezas 1, 8, 15, ... são às segundas). Como \\(161 = 7 \\cdot 23\\), a 161ª limpeza ocupa a 7ª posição do ciclo: sexta-feira. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Terça seria segunda-feira mais 1 dia, o que exigiria resto 1 na divisão por 7. Vem de erro na divisão de 1600 por 7 ou na contagem das posições do ciclo (terça é a 6ª limpeza do ciclo, e não a 7ª).",
+      "B": "Quarta seria segunda-feira mais 2 dias, o que exigiria resto 2 na divisão por 7. O resto correto de \\(1600 \\div 7\\) é 4, porque \\(7 \\cdot 228 = 1596\\).",
+      "C": "É o erro clássico de contagem: com resto 4, conta-se a própria segunda-feira como 1º dia (segunda, terça, quarta, quinta). Andar 4 dias <b>a partir</b> da segunda termina na sexta."
+    },
+    "tip": "Para descobrir o dia da semana depois de muitos dias, divida o total de dias por 7 e ande apenas o resto a partir do dia inicial."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em julho deste ano, no dia de lançamento de um aguardado filme, todos os 200 ingressos disponíveis em uma sala de cinema para uma sessão do filme foram vendidos em apenas quinze minutos!</p><p>O valor integral do ingresso individual (chamado de “inteira”) era de 30 reais, sendo concedido desconto de 50% no valor do ingresso individual (chamado de “meia entrada”) para estudantes, professores e idosos. O total arrecadado com a venda dos 200 ingressos foi de R$ 4200,00.</p><p>De acordo com as informações acima, o número de ingressos individuais no valor integral (“inteiras”) vendidos para tal sessão foi de</p>",
+    "options": {
+      "A": "90",
+      "B": "80",
+      "C": "70",
+      "D": "60"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A meia entrada custa 50% de 30 reais, isto é, 15 reais. Chame de \\(x\\) o número de inteiras e de \\(y\\) o de meias:</p><p>\\[\\begin{cases} x + y = 200 \\\\ 30x + 15y = 4200 \\end{cases}\\]</p><p>Dividindo a segunda equação por 15: \\(2x + y = 280\\). Subtraindo dela a primeira equação:</p><p>\\[(2x + y) - (x + y) = 280 - 200 \\;\\Rightarrow\\; x = 80\\]</p><p>Outro jeito, sem sistema: se os 200 ingressos fossem meias, o cinema arrecadaria \\(200 \\cdot 15 = 3000\\) reais. Faltam \\(4200 - 3000 = 1200\\) reais, e cada meia trocada por uma inteira acrescenta 15 reais: \\(1200 \\div 15 = 80\\) inteiras.</p><p>Conferência: 80 inteiras e 120 meias dão \\(80 \\cdot 30 + 120 \\cdot 15 = 2400 + 1800 = 4200\\) reais. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Com 90 inteiras e 110 meias, a arrecadação seria \\(2700 + 1650 = 4350\\) reais, acima dos R$ 4200,00.",
+      "C": "Com 70 inteiras e 130 meias, a arrecadação seria \\(2100 + 1950 = 4050\\) reais, abaixo dos R$ 4200,00.",
+      "D": "Vem de fazer \\(4200 \\div 30 = 140\\), como se todos pagassem inteira, e depois \\(200 - 140 = 60\\). Conferindo: 60 inteiras e 140 meias dão só \\(1800 + 2100 = 3900\\) reais."
+    },
+    "tip": "Monte uma equação para a quantidade e outra para o valor arrecadado; no fim, confira substituindo a resposta nos dados."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Segundo o <i>Manual Brasileiro de Sinalização de Trânsito</i>, ao identificar um <i>Trecho Crítico</i> (por onde o condutor deverá transitar com velocidade inferior à praticada no restante da via), o técnico responsável pela sinalização deve posicionar uma placa indicando a velocidade reduzida que deverá ser respeitada no referido trecho.</p><p>De modo a permitir que o condutor tenha tempo suficiente para reduzir a velocidade, essa nova placa deve ser colocada a uma distância \\(\\boldsymbol{D}\\) da última placa que regulamenta a velocidade da via, representada por \\(\\boldsymbol{V_0}\\).</p><p>A distância \\(\\boldsymbol{D}\\) deve contemplar o tempo necessário para que o condutor veja a placa e reduza a velocidade para a necessariamente final, representada por \\(\\boldsymbol{V_f}\\).</p><p>Essa distância é obtida pela seguinte fórmula:</p><p>\\[\\boldsymbol{D = \\frac{V_0^2 - V_f^2}{72} + V_0 \\cdot \\frac{2{,}5}{3{,}6}}\\]</p><p>em que todas as velocidades estão em quilômetros por hora, e a distância \\(\\boldsymbol{D}\\) está em metros.</p><p>Uma via tem velocidade regulamentada de 80km/h. Para que o condutor possa transitar por um <i>Trecho Crítico</i> a 60km/h, a distância \\(\\boldsymbol{D}\\) deverá ser de aproximadamente</p>",
+    "options": {
+      "A": "94 m",
+      "B": "80 m",
+      "C": "60 m",
+      "D": "56 m"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Substitua \\(V_0 = 80\\) e \\(V_f = 60\\) na fórmula e calcule cada parcela separadamente.</p><p><b>1ª parcela:</b></p><p>\\[\\frac{80^2 - 60^2}{72} = \\frac{6400 - 3600}{72} = \\frac{2800}{72} = \\frac{350}{9} \\approx 38{,}9\\]</p><p>(Atalho: \\(80^2 - 60^2 = (80 - 60)(80 + 60) = 20 \\cdot 140 = 2800\\); e dividindo 2800 e 72 por 8, obtemos \\(\\dfrac{350}{9}\\).)</p><p><b>2ª parcela:</b></p><p>\\[80 \\cdot \\frac{2{,}5}{3{,}6} = \\frac{200}{3{,}6} = \\frac{2000}{36} = \\frac{500}{9} \\approx 55{,}6\\]</p><p><b>Soma:</b></p><p>\\[D = \\frac{350}{9} + \\frac{500}{9} = \\frac{850}{9} \\approx 94{,}4 \\text{ m}\\]</p><p>A distância é de aproximadamente 94 m. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Aparece ao usar \\(V_f = 60\\) no lugar de \\(V_0\\) na segunda parcela: \\(38{,}9 + 60 \\cdot \\dfrac{2{,}5}{3{,}6} \\approx 38{,}9 + 41{,}7 \\approx 80\\). A fórmula usa \\(V_0\\) nessa parcela.",
+      "C": "Aparece ao trocar \\(V_0^2 - V_f^2\\) por \\((V_0 - V_f)^2 = 20^2 = 400\\): \\(\\dfrac{400}{72} + 55{,}6 \\approx 5{,}6 + 55{,}6 \\approx 61\\), e a opção mais próxima é 60 m. A diferença dos quadrados não é o quadrado da diferença.",
+      "D": "56 m é só a segunda parcela, \\(80 \\cdot \\dfrac{2{,}5}{3{,}6} \\approx 55{,}6\\): faltou somar a primeira parcela, de cerca de 38,9 m."
+    },
+    "tip": "Numa fórmula com várias parcelas, calcule uma de cada vez e some no final; lembre que \\(a^2 - b^2\\) não é \\((a - b)^2\\)."
+  }
+]

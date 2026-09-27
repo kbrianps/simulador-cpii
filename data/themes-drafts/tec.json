@@ -1,0 +1,607 @@
+[
+  {
+    "id": "tec-01",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Como combater a desinformação que circula nas redes sociais?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a circulação de notícias falsas e de conteúdos enganosos na internet. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Mentira com cara de notícia",
+        "body_html": "<p>Desinformação é todo conteúdo falso ou enganoso que circula como se fosse verdadeiro. Às vezes, ela aparece como uma notícia inventada; em outras, como uma informação real tirada de contexto, uma foto antiga apresentada como recente ou um vídeo editado para mudar o sentido de uma fala.</p><p>Nas redes sociais, esse tipo de conteúdo costuma se espalhar depressa, porque muitas vezes desperta emoções fortes, como medo, raiva ou indignação, e é compartilhado antes que alguém pare para conferir a origem. Quando a mentira envolve temas como saúde, eleições ou segurança, as consequências podem ir muito além da tela.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "No grupo da família",
+        "body_html": "<p><b>Tia Rosa:</b> Lara, você viu o áudio que mandei no grupo? Dizem que vão cortar a água do bairro inteiro amanhã!</p><p><b>Lara:</b> Vi, tia. Mas quem gravou esse áudio? Não aparece nome nem data.</p><p><b>Tia Rosa:</b> Ah, sei lá, recebi da vizinha. Ela nunca mente.</p><p><b>Lara:</b> Pode ser que ela também tenha recebido de alguém. Procurei no site da companhia de água e não achei nenhum aviso.</p><p><b>Tia Rosa:</b> Mas e se for verdade? Melhor avisar todo mundo, né?</p><p><b>Lara:</b> Melhor conferir antes, tia. Se for mentira, o grupo inteiro vai ficar assustado à toa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Quem deve agir?",
+        "body_html": "<p><b>Opinião A:</b> As plataformas lucram com tudo o que circula nelas. Por isso, deveriam identificar e remover conteúdos falsos com muito mais rapidez.</p><p><b>Opinião B:</b> Dar a empresas o poder de decidir o que é verdade pode ameaçar a liberdade de expressão. O melhor caminho é ensinar as pessoas a checar o que recebem.</p><p><b>Opinião C:</b> Não existe solução única. Escola, famílias, imprensa, plataformas e governo precisam agir juntos, cada um fazendo a sua parte.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que conteúdos falsos costumam se espalhar mais rápido do que as correções?",
+      "Que atitudes simples um usuário pode tomar antes de compartilhar uma informação?",
+      "Qual é o papel da escola na formação de leitores críticos na internet?",
+      "Como combater a desinformação sem prejudicar a liberdade de expressão?"
+    ],
+    "argument_paths": [
+      "A educação midiática é o caminho mais duradouro: a escola deve ensinar a verificar fontes, datas e autores, formando leitores críticos desde cedo.",
+      "As plataformas têm responsabilidade direta, pois seus sistemas favorecem conteúdos que geram engajamento; devem ser mais transparentes e agir contra conteúdos comprovadamente falsos.",
+      "A responsabilidade é compartilhada: usuários, famílias, imprensa profissional e poder público precisam agir juntos, porque nenhuma medida isolada resolve o problema.",
+      "O combate deve ser cauteloso: medidas de controle mal definidas podem virar censura, por isso a prioridade deve ser ampliar o acesso à informação de qualidade e à checagem."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, incisos IV e IX (liberdade de manifestação do pensamento e de expressão)",
+        "how": "Mostrar que a liberdade de expressão é um direito fundamental e que qualquer forma de combate à desinformação precisa respeitá-la, sem que isso signifique aceitar a mentira como algo sem consequências."
+      },
+      {
+        "ref": "Marco Civil da Internet (Lei nº 12.965/2014)",
+        "how": "Lembrar que o uso da internet no Brasil tem princípios, direitos e deveres definidos em lei, ou seja, a rede não é uma “terra sem lei”."
+      },
+      {
+        "ref": "“Pós-verdade” (post-truth), eleita a palavra do ano de 2016 pelos Dicionários Oxford",
+        "how": "Explicar o contexto atual, em que apelos à emoção e às crenças pessoais pesam mais do que os fatos na formação da opinião pública."
+      }
+    ],
+    "pitfalls": [
+      "Apenas definir fake news e listar exemplos, sem propor caminhos de combate: a pergunta é “como combater”.",
+      "Falar de redes sociais de modo genérico (vício, excesso de telas) e se afastar do foco na desinformação.",
+      "Defender soluções simplistas, como “é só não acreditar em nada” ou “é só proibir a internet”, sem desenvolver argumentos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "tec-02",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Cyberbullying entre estudantes: o que a escola pode fazer para preveni-lo e enfrentá-lo?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as agressões e humilhações praticadas entre estudantes por meio da internet. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, escreva uma carta argumentativa dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O grupo da turma",
+        "body_html": "<p>Tudo começou com uma foto tirada escondido durante a aula de Educação Física. Em poucos minutos, a imagem de Caio, acompanhada de uma legenda debochada, já estava no grupo de mensagens da turma. Vieram as figurinhas, os apelidos, os comentários. Ninguém encostou um dedo em ninguém, e alguns colegas acharam que era “só brincadeira”.</p><p>Caio passou a chegar atrasado, deixou de responder às mensagens e pediu aos pais para mudar de escola. Quando a coordenação soube do caso, a foto já tinha sido compartilhada por gente de outras turmas, e ninguém sabia dizer quem havia começado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quando a agressão não tem hora para acabar",
+        "body_html": "<p>O cyberbullying é a intimidação sistemática praticada por meios digitais: mensagens ofensivas, montagens, perfis falsos, exclusão proposital de grupos, divulgação de imagens sem autorização. Ele tem características que o tornam especialmente cruel. A agressão não termina quando o sinal da escola toca, porque acompanha a vítima até dentro de casa, pelo celular. O público pode ser enorme, e o conteúdo pode continuar circulando por muito tempo. Além disso, a distância da tela faz muitos agressores subestimarem o sofrimento que causam. Quem apenas assiste e compartilha também participa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que a escola deveria fazer?",
+        "body_html": "<p><b>Estudante do 9º ano:</b> Punir quem começou já ajuda, mas a escola precisa falar desse assunto antes de acontecer, e não só depois.</p><p><b>Mãe de aluno:</b> O que acontece no celular, fora do horário de aula, é problema da família, não da escola.</p><p><b>Professora:</b> A escola não controla a internet, mas é o lugar onde essas relações começam. Não podemos fingir que não vemos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que o cyberbullying pode ser tão doloroso quanto as agressões presenciais, ou até mais?",
+      "Até onde vai a responsabilidade da escola sobre o que acontece entre estudantes fora do horário de aula?",
+      "Qual é o papel de quem apenas assiste ou compartilha uma humilhação?",
+      "Que medidas concretas (campanhas, canais de denúncia, rodas de conversa, acolhimento) seriam viáveis na sua escola?"
+    ],
+    "argument_paths": [
+      "A escola deve priorizar a prevenção: incluir o tema nas aulas e promover debates e campanhas sobre respeito e uso ético da internet, com participação dos próprios estudantes.",
+      "É necessário criar canais seguros e sigilosos de denúncia, para que vítimas e testemunhas possam pedir ajuda sem medo de represálias.",
+      "A escola não resolve o problema sozinha: precisa agir em parceria com as famílias, orientando pais e responsáveis, porque a agressão continua fora dos muros.",
+      "Punir é necessário, mas insuficiente: as medidas devem responsabilizar os agressores e, ao mesmo tempo, educá-los e acolher a vítima."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 13.185/2015 (Programa de Combate à Intimidação Sistemática)",
+        "how": "A lei reconhece o bullying praticado pela internet (cyberbullying) e atribui aos estabelecimentos de ensino o dever de adotar medidas de conscientização, prevenção e combate; serve para mostrar à direção que agir é uma obrigação, não um favor."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), arts. 17 e 18",
+        "how": "Garantem o direito ao respeito e à integridade psíquica e moral e afirmam que é dever de todos proteger crianças e adolescentes de tratamento vexatório ou constrangedor."
+      },
+      {
+        "ref": "Lei nº 14.811/2024, que incluiu no Código Penal (art. 146-A) a intimidação sistemática (bullying) e a intimidação sistemática virtual (cyberbullying)",
+        "how": "Mostrar que o cyberbullying não é “só brincadeira”: a lei passou a tratá-lo também como crime (quando praticado por adolescentes, é considerado ato infracional, sujeito às medidas do ECA), o que reforça a importância da prevenção."
+      }
+    ],
+    "pitfalls": [
+      "Escrever uma dissertação comum, sem vocativo, sem se dirigir à direção e sem despedida: isso foge ao gênero carta.",
+      "Apenas contar um caso ou desabafar, sem argumentar nem propor medidas que a escola possa adotar.",
+      "Assinar com o próprio nome: a redação não pode ser identificada; use uma assinatura genérica, como “Um(a) estudante”."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "tec-03",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Inteligência artificial nos estudos: aliada ou ameaça à aprendizagem?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o uso de ferramentas de inteligência artificial pelos estudantes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Máquinas que escrevem",
+        "body_html": "<p>Ferramentas de inteligência artificial generativa conseguem, em poucos segundos, produzir textos, resumos, respostas de exercícios e até imagens a partir de um simples pedido escrito. Elas são treinadas com enormes quantidades de dados e aprendem padrões da linguagem humana. Por isso, suas respostas costumam soar seguras e bem escritas, mas nem sempre estão corretas: podem conter erros, informações inventadas ou visões parciais sobre um assunto.</p><p>Para os estudantes, essas ferramentas abriram novas possibilidades e, ao mesmo tempo, novas dúvidas. Afinal, o que significa aprender quando uma máquina pode fazer a tarefa por você?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na véspera da entrega",
+        "body_html": "<p><b>Bia:</b> Terminei o trabalho de História em dez minutos. Pedi para a IA escrever e só mudei umas palavras.</p><p><b>Davi:</b> E você sabe explicar o que está escrito lá?</p><p><b>Bia:</b> Mais ou menos... Mas o que importa é a nota, não é?</p><p><b>Davi:</b> Eu também usei, mas de outro jeito. Pedi para ela me explicar a Revolução Industrial com palavras simples, depois fui conferir no livro e escrevi o texto sozinho.</p><p><b>Bia:</b> Deu mais trabalho.</p><p><b>Davi:</b> Deu. Mas amanhã, na prova, sem celular, quem vai lembrar do conteúdo?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Duas escolas, duas regras",
+        "body_html": "<p>Na Escola A, qualquer uso de inteligência artificial em trabalhos é considerado cola, e os estudantes que forem descobertos recebem nota zero. Na Escola B, os professores ensinam a usar essas ferramentas: os alunos devem informar quando recorreram a elas, conferir as respostas em outras fontes e explicar oralmente o que entregaram.</p><p>Os diretores das duas escolas afirmam ter o mesmo objetivo: garantir que os estudantes realmente aprendam.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre usar a IA para aprender e usá-la para evitar o esforço de aprender?",
+      "Que riscos existem em confiar em respostas que parecem corretas, mas podem conter erros?",
+      "A escola deve proibir essas ferramentas ou ensinar a usá-las?",
+      "É justo avaliar da mesma forma um trabalho feito com e sem ajuda da IA?"
+    ],
+    "argument_paths": [
+      "A IA é aliada quando usada como apoio (tirar dúvidas, revisar, organizar ideias), desde que o estudante continue pensando e produzindo por conta própria.",
+      "A IA ameaça a aprendizagem quando substitui o esforço: copiar respostas prontas impede o desenvolvimento da escrita, da memória e do raciocínio.",
+      "Proibir é ineficaz, pois a tecnologia já faz parte da vida dos jovens; cabe à escola ensinar o uso crítico e ético, inclusive a checagem das respostas.",
+      "O desafio também é da escola: se as avaliações só cobram produtos que uma máquina faz com facilidade, é preciso repensar a forma de avaliar."
+    ],
+    "repertoire": [
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 5 (cultura digital)",
+        "how": "A BNCC prevê que os estudantes aprendam a compreender, utilizar e criar tecnologias digitais de forma crítica, significativa, reflexiva e ética; serve para defender que a escola ensine o uso consciente da IA em vez de ignorá-la."
+      },
+      {
+        "ref": "Alan Turing, artigo “Computing Machinery and Intelligence” (1950), que propôs o chamado “jogo da imitação”",
+        "how": "Abertura histórica: a pergunta sobre se máquinas podem pensar é antiga, mas hoje chegou à sala de aula e ao dever de casa."
+      },
+      {
+        "ref": "Mary Shelley, “Frankenstein” (1818)",
+        "how": "Metáfora da criação que escapa ao controle do criador, útil para discutir a responsabilidade humana diante das novas tecnologias."
+      }
+    ],
+    "pitfalls": [
+      "Explicar em detalhes técnicos como funciona a inteligência artificial e esquecer de discutir a aprendizagem.",
+      "Tratar de tecnologia em geral (celular, redes sociais, excesso de telas) sem focar no uso da IA nos estudos.",
+      "Responder apenas “aliada” ou “ameaça” sem justificar, ou ficar em cima do muro sem assumir uma posição clara."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "tec-04",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Qual deve ser a responsabilidade dos influenciadores digitais em relação ao público jovem?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a influência que criadores de conteúdo das redes sociais exercem sobre crianças e adolescentes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Profissão: influenciar",
+        "body_html": "<p>Influenciadores digitais são pessoas que reúnem grandes públicos nas redes sociais e, por isso, conseguem interferir em opiniões, hábitos e decisões de compra de quem as acompanha. Para muitos jovens, eles parecem amigos próximos: mostram a casa, a rotina, os sentimentos. Essa proximidade cria confiança.</p><p>Ao mesmo tempo, muitos desses criadores vivem de parcerias com marcas, e nem sempre fica claro quando uma recomendação é uma opinião sincera e quando é propaganda paga. Produtos, dietas, jogos de aposta e estilos de vida podem ser apresentados como simples dicas pessoais.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O tênis e o código de desconto",
+        "body_html": "<p>Mateus, de 14 anos, assiste a todos os vídeos de um influenciador de games. Em uma transmissão, o ídolo aparece com um tênis novo, diz que ele “mudou sua vida” e divulga um código de desconto. Mateus insiste com os pais até ganhar o tênis como presente de aniversário antecipado.</p><p>Semanas depois, descobre que o influenciador havia recomendado, com o mesmo entusiasmo, outras três marcas de tênis em vídeos diferentes.</p><p>“Ele só estava fazendo propaganda?”, pergunta Mateus à irmã mais velha. “Estava trabalhando”, responde ela. “O problema é que não avisou.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Responsabilidade de quem?",
+        "body_html": "<p><b>Opinião A:</b> Quem tem milhões de seguidores adolescentes precisa pensar no que publica. Influência é poder, e poder exige responsabilidade.</p><p><b>Opinião B:</b> O influenciador não é professor nem pai de ninguém. Cabe às famílias acompanhar o que os filhos assistem.</p><p><b>Opinião C:</b> As regras de publicidade que valem para a televisão deveriam valer do mesmo jeito para as redes sociais, com fiscalização de verdade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que os jovens tendem a confiar tanto nos influenciadores que acompanham?",
+      "Qual é a diferença entre dar uma opinião sincera e fazer propaganda sem avisar?",
+      "A responsabilidade sobre o que um jovem consome é do influenciador, da família, das plataformas ou do próprio jovem?",
+      "Que tipos de conteúdo exigiriam cuidado especial quando o público é formado por adolescentes?"
+    ],
+    "argument_paths": [
+      "Influenciadores com público jovem têm responsabilidade ampliada, pois a proximidade com os seguidores aumenta seu poder de persuasão.",
+      "A publicidade precisa ser sempre identificada: esconder que um conteúdo é pago é enganar o seguidor, sobretudo o mais jovem.",
+      "A responsabilidade é compartilhada: famílias, escolas e plataformas também devem agir, e os jovens precisam desenvolver senso crítico para não seguir recomendações de forma automática.",
+      "A liberdade de criação existe, mas não é absoluta: divulgar para menores produtos inadequados, como apostas, ou padrões de vida irreais pode causar danos concretos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 36",
+        "how": "Determina que a publicidade seja veiculada de forma que o consumidor a identifique, fácil e imediatamente, como tal; serve para argumentar que a propaganda disfarçada de opinião desrespeita a lei."
+      },
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 37, § 2º",
+        "how": "Considera abusiva a publicidade que se aproveita da deficiência de julgamento e experiência da criança; ajuda a mostrar a vulnerabilidade do público mais jovem."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 227",
+        "how": "Estabelece que é dever da família, da sociedade e do Estado assegurar, com absoluta prioridade, os direitos da criança, do adolescente e do jovem; sustenta a ideia de responsabilidade compartilhada, que inclui quem produz conteúdo."
+      }
+    ],
+    "pitfalls": [
+      "Criticar ou elogiar um influenciador específico, transformando a redação em comentário pessoal em vez de discutir responsabilidade.",
+      "Falar apenas de vício em redes sociais ou de tempo de tela, perdendo o foco em quem produz o conteúdo.",
+      "Atribuir toda a responsabilidade a um único lado sem justificar essa escolha nem responder a possíveis objeções."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "tec-05",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Os limites entre a vida pública e a vida privada na era das redes sociais.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a exposição da vida pessoal na internet e os riscos à privacidade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que a foto também mostra",
+        "body_html": "<p>Uma foto publicada nas redes sociais pode revelar muito mais do que parece. O uniforme indica a escola; a janela ao fundo sugere o bairro; a legenda conta onde a pessoa está naquele momento. Somadas, essas pequenas pistas formam um retrato detalhado da rotina de alguém.</p><p>Além disso, o que é postado dificilmente desaparece por completo: uma imagem pode ser salva, reenviada e exibida anos depois, fora do contexto original. Até o que não publicamos, como os sites que visitamos e as páginas que curtimos, pode ser registrado e usado por empresas para conhecer nossos gostos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Álbum de família",
+        "body_html": "<p><b>Júlia:</b> Mãe, você postou de novo aquela foto minha de quando eu tinha seis anos, chorando com a cara suja de bolo?</p><p><b>Mãe:</b> Mas ela é tão fofa! Todo mundo curtiu.</p><p><b>Júlia:</b> Todo mundo, inclusive meus colegas de turma. Agora ela virou figurinha no grupo.</p><p><b>Mãe:</b> Nossa, filha, eu não imaginei... Mas a foto também é minha, fui eu que tirei.</p><p><b>Júlia:</b> A foto é sua, mas o rosto é meu. Ninguém me perguntou se eu queria.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Mostrar ou guardar?",
+        "body_html": "<p><b>Opinião A:</b> Compartilhar a vida é uma forma de se expressar e de manter contato com os amigos. Quem não quer se expor é só não postar.</p><p><b>Opinião B:</b> Muitos jovens publicam sem pensar em quem pode ver. A privacidade só parece desnecessária até o dia em que faz falta.</p><p><b>Opinião C:</b> A questão não é apenas o que as pessoas postam, mas também o que as empresas fazem com os dados que coletam sem que ninguém perceba.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que informações pessoais você considera que não deveriam ser publicadas? Por quê?",
+      "Quem tem o direito de decidir sobre a imagem de um adolescente: ele próprio, a família ou quem tirou a foto?",
+      "Por que uma postagem pode ter consequências muito tempo depois de publicada?",
+      "Além do que publicamos, que dados nossos são coletados pelas plataformas, e com que finalidade?"
+    ],
+    "argument_paths": [
+      "A exposição excessiva traz riscos concretos (golpes, perseguição, constrangimento); por isso, os jovens precisam aprender a estabelecer limites ao que publicam.",
+      "Compartilhar a vida é uma forma legítima de expressão e de convívio; o problema não é postar, mas postar sem consciência de quem pode ver e de como aquilo pode ser usado.",
+      "O respeito à imagem alheia é um limite ético: ninguém deveria publicar fotos ou informações de outra pessoa, inclusive dos próprios filhos, sem consentimento.",
+      "A privacidade não depende só do usuário: empresas e plataformas coletam dados de forma pouco visível e precisam ser reguladas e fiscalizadas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso X",
+        "how": "Declara invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas; base para defender que a exposição de alguém sem consentimento viola um direito fundamental."
+      },
+      {
+        "ref": "Emenda Constitucional nº 115/2022",
+        "how": "Incluiu a proteção dos dados pessoais, inclusive nos meios digitais, entre os direitos fundamentais; mostra que a privacidade digital passou a ter status constitucional."
+      },
+      {
+        "ref": "Lei Geral de Proteção de Dados Pessoais, LGPD (Lei nº 13.709/2018), art. 14",
+        "how": "Determina que o tratamento de dados de crianças e adolescentes seja feito em seu melhor interesse; útil para discutir o papel das empresas."
+      },
+      {
+        "ref": "George Orwell, “1984” (1949)",
+        "how": "No romance, um governo autoritário vigia os cidadãos o tempo todo por meio das teletelas, sob a figura do “Grande Irmão”; é possível contrastar essa vigilância imposta com a exposição que hoje muitas pessoas fazem voluntariamente."
+      }
+    ],
+    "pitfalls": [
+      "Tratar apenas de golpes e crimes virtuais em geral, sem discutir onde termina o público e começa o privado.",
+      "Apresentar só conselhos soltos (“não poste isso”, “não fale com estranhos”) em forma de lista, sem argumentação desenvolvida.",
+      "Esquecer que o tema é uma frase nominal: é preciso transformá-lo em tese, dizendo onde e por que esses limites devem ser estabelecidos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "tec-06",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Os desafios da inclusão digital para os estudantes brasileiros.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as desigualdades no acesso à internet e às tecnologias digitais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um celular para três",
+        "body_html": "<p>Na casa de Ana, há um único celular com internet, e ele pertence à mãe, que o leva para o trabalho. À noite, Ana divide o aparelho com os dois irmãos para fazer as pesquisas da escola, quase sempre usando o pacote de dados, que acaba antes do fim do mês. Quando o professor pede um trabalho digitado, ela escreve à mão e espera a vez no computador da biblioteca do bairro.</p><p>Na mesma turma, há colegas com computador próprio, internet rápida e um quarto silencioso para estudar. Todos fazem a mesma prova no fim do bimestre.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Estar conectado é suficiente?",
+        "body_html": "<p>Inclusão digital não significa apenas ter um aparelho ligado à internet. Uma conexão lenta ou instável, um celular compartilhado ou um plano de dados limitado permitem pouco mais do que trocar mensagens e assistir a vídeos curtos. Para estudar, procurar emprego, acessar serviços públicos ou produzir conteúdo, são necessários uma conexão de qualidade, equipamentos adequados e, sobretudo, o conhecimento para usá-los. Durante a pandemia de covid-19, quando as escolas suspenderam as aulas presenciais, essas diferenças ficaram evidentes: muitos estudantes não conseguiram acompanhar as atividades remotas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Quem deve resolver?",
+        "body_html": "<p><b>Opinião A:</b> Internet, hoje, é como luz e água. O poder público deveria garantir conexão gratuita nas escolas e nas áreas mais pobres.</p><p><b>Opinião B:</b> Não adianta distribuir aparelhos se ninguém ensina a usá-los bem. A prioridade deveria ser a formação de estudantes e professores.</p><p><b>Opinião C:</b> A escola não pode depender da internet de casa. As atividades precisam ser pensadas para que ninguém fique para trás.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Ter um celular com internet é o mesmo que estar incluído digitalmente?",
+      "De que forma a desigualdade no acesso à internet pode aumentar a desigualdade na educação?",
+      "Quem deve ser responsável por reduzir essa desigualdade: governo, escolas, empresas ou famílias?",
+      "Além da conexão, que habilidades são necessárias para usar a tecnologia a favor dos estudos?"
+    ],
+    "argument_paths": [
+      "O acesso de qualidade à internet é hoje condição para o direito à educação; por isso, cabe ao poder público ampliar a conexão nas escolas e nas regiões mais pobres.",
+      "Aparelho e conexão não bastam: a inclusão digital exige formação para o uso crítico e produtivo da tecnologia, tanto de alunos quanto de professores.",
+      "A escola deve evitar aprofundar desigualdades, oferecendo laboratórios, horários de uso e atividades que não dependam exclusivamente da internet de casa.",
+      "A exclusão digital é reflexo da desigualdade social e econômica; enfrentá-la exige também políticas de renda e de infraestrutura, e não apenas tecnologia."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 205 e art. 206, inciso I",
+        "how": "A educação é direito de todos e dever do Estado e da família, e o ensino deve garantir igualdade de condições para o acesso e a permanência na escola; se estudar depende cada vez mais da internet, garantir o acesso é parte desse dever."
+      },
+      {
+        "ref": "Marco Civil da Internet (Lei nº 12.965/2014), art. 7º",
+        "how": "Afirma que o acesso à internet é essencial ao exercício da cidadania; base legal para tratar a conexão como direito, e não como luxo."
+      },
+      {
+        "ref": "Pandemia de covid-19 e o ensino remoto emergencial (a partir de 2020)",
+        "how": "Fato histórico recente que tornou visível a exclusão digital de muitos estudantes, que ficaram sem condições de acompanhar as aulas."
+      }
+    ],
+    "pitfalls": [
+      "Falar dos malefícios do uso excessivo de telas, tema diferente do proposto, que trata da falta de acesso de qualidade.",
+      "Limitar-se a descrever a desigualdade sem apontar os desafios e os caminhos para enfrentá-la.",
+      "Propor soluções vagas, como “o governo deve resolver”, sem dizer o quê, como e por quê."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "tec-07",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "É possível conciliar o uso do celular e a aprendizagem na escola?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a presença do celular no ambiente escolar e as regras sobre o seu uso. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que diz a lei",
+        "body_html": "<p>Em janeiro de 2025, foi sancionada a Lei nº 15.100, que proíbe o uso de celulares e de outros aparelhos eletrônicos portáteis pessoais por estudantes da educação básica, em escolas públicas e privadas, durante a aula, o recreio e os intervalos entre as aulas. A própria lei, porém, prevê exceções: em sala de aula, o aparelho pode ser usado para fins estritamente pedagógicos ou didáticos, conforme orientação dos profissionais da educação; além disso, o uso é permitido, dentro ou fora da sala, para garantir a acessibilidade, a inclusão, o atendimento às condições de saúde dos estudantes e os direitos fundamentais.</p><p>Na prática, cada escola precisa decidir como organizar a regra no dia a dia: onde guardar os aparelhos, em que atividades usá-los e como agir quando ela não é cumprida.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na hora do recreio",
+        "body_html": "<p><b>Pedro:</b> Sem celular no recreio, eu nem sei o que fazer.</p><p><b>Larissa:</b> Eu também achei estranho na primeira semana. Depois o pessoal começou a jogar vôlei, a conversar... Até conheci gente de outra turma.</p><p><b>Pedro:</b> Mas e na aula? Semana passada o professor de Geografia pediu para a gente usar o mapa do celular, e foi a melhor aula do mês.</p><p><b>Larissa:</b> Isso pode, né? Quando é para estudar.</p><p><b>Pedro:</b> Pode. O difícil é resistir às notificações quando o celular está na mão.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três visões",
+        "body_html": "<p><b>Coordenadora:</b> Sem o aparelho, os alunos passaram a prestar mais atenção nas aulas e voltaram a conversar no intervalo.</p><p><b>Estudante do 9º ano:</b> Proibir não ensina ninguém a usar o celular com responsabilidade. Um dia a gente sai da escola, e o celular continua com a gente.</p><p><b>Pai de aluno:</b> Fico preocupado de não conseguir falar com meu filho durante o dia, mas entendo que a escola precisa de regras.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Em que situações o celular pode ajudar a aprender, e em quais costuma atrapalhar?",
+      "A proibição ensina autocontrole ou apenas transfere o problema para fora da escola?",
+      "Como a escola pode usar a tecnologia a favor das aulas sem abrir espaço para distrações?",
+      "Os estudantes deveriam participar da construção das regras sobre o uso do celular?"
+    ],
+    "argument_paths": [
+      "Sim, é possível: com regras claras e orientação dos professores, o celular pode ser ferramenta de pesquisa, produção e registro, como a própria lei admite.",
+      "A restrição é necessária, porque o celular disputa a atenção com a aula e reduz a convivência; a escola deve ser um espaço protegido dessa disputa.",
+      "Mais do que proibir ou liberar, a escola deve educar para o uso consciente, pois os estudantes terão de lidar sozinhos com o aparelho fora dela.",
+      "Conciliar depende de todos: professores precisam de formação, estudantes precisam participar das regras e famílias precisam reforçá-las em casa."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 15.100/2025",
+        "how": "Proíbe o uso de aparelhos eletrônicos portáteis pessoais por estudantes da educação básica durante a aula, o recreio e os intervalos, mas permite, em sala de aula, o uso para fins estritamente pedagógicos ou didáticos, com orientação dos profissionais da educação; é a base concreta para discutir se regra e aprendizagem podem conviver."
+      },
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 5 (cultura digital)",
+        "how": "Prevê que a escola forme estudantes capazes de usar as tecnologias digitais de modo crítico, reflexivo e ético; sustenta a tese de que o celular também pode ser objeto de ensino."
+      },
+      {
+        "ref": "Paulo Freire, “Pedagogia da autonomia” (1996)",
+        "how": "A ideia de que educar é formar sujeitos autônomos ajuda a defender que a escola ensine o estudante a tomar decisões sobre o uso da tecnologia, e não apenas a obedecer a proibições."
+      }
+    ],
+    "pitfalls": [
+      "Discutir o excesso de telas na vida em geral (em casa, à noite, nos fins de semana), perdendo o foco na escola e na aprendizagem.",
+      "Apenas resumir a lei, sem responder com clareza à pergunta “é possível conciliar?”.",
+      "Apoiar-se só na experiência pessoal (“na minha escola...”) sem ampliá-la para uma reflexão geral."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "tec-08",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "De que forma os algoritmos das redes sociais influenciam o modo como os jovens enxergam o mundo?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o funcionamento dos algoritmos que escolhem o que vemos nas redes sociais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Quem escolhe o que você vê",
+        "body_html": "<p>Quando alguém abre uma rede social, não vê as publicações em ordem aleatória. Programas chamados algoritmos analisam o que a pessoa curte, comenta, compartilha e até por quanto tempo ela para diante de cada vídeo. A partir disso, escolhem o que mostrar em seguida, e um de seus objetivos é manter o usuário conectado pelo maior tempo possível.</p><p>O resultado é uma experiência que parece feita sob medida. No entanto, ao entregar sempre mais do mesmo, esses sistemas podem reduzir o contato com ideias diferentes e reforçar aquilo em que a pessoa já acreditava.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Dois irmãos, dois mundos",
+        "body_html": "<p>Rafael e Tiago são gêmeos, estudam na mesma escola e dividem o quarto. Há alguns meses, Rafael começou a assistir a vídeos sobre treinos de academia; Tiago, a vídeos sobre astronomia. Hoje, quando cada um abre o mesmo aplicativo, encontra um universo completamente diferente. Rafael recebe dicas de dieta, corpos considerados perfeitos e promessas de resultado rápido. Tiago recebe teorias sobre o espaço, algumas científicas, outras nem tanto.</p><p>Na hora do jantar, os dois discutem sobre um assunto e percebem que cada um tem certeza de que “todo mundo” pensa como ele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Liberdade de escolha?",
+        "body_html": "<p><b>Opinião A:</b> Ninguém é obrigado a acreditar em tudo o que aparece. Quem escolhe o que assistir é o usuário.</p><p><b>Opinião B:</b> É difícil falar em escolha quando um sistema invisível decide o que aparece primeiro na sua tela.</p><p><b>Opinião C:</b> O algoritmo não é bom nem mau: ele aprende com o que fazemos. Se mudarmos nosso comportamento, ele muda também.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que um conteúdo aparece para você e não para outra pessoa?",
+      "Receber sempre conteúdos parecidos com aqueles de que você gosta é uma vantagem ou uma armadilha?",
+      "Os usuários têm, de fato, liberdade de escolha nas redes sociais?",
+      "O que jovens, escolas e plataformas poderiam fazer para diminuir os efeitos das chamadas “bolhas”?",
+      "De que maneira aquilo que aparece no feed pode afetar a autoimagem e os desejos de um adolescente?"
+    ],
+    "argument_paths": [
+      "Os algoritmos criam “bolhas” que limitam o contato com opiniões diferentes, o que pode aumentar a intolerância e dificultar o diálogo.",
+      "Ao priorizar o engajamento, os algoritmos favorecem conteúdos que provocam emoções fortes e padrões irreais, influenciando a autoimagem, os desejos e a percepção de realidade dos jovens.",
+      "A influência existe, mas não é absoluta: o usuário crítico pode diversificar o que consome, buscar outras fontes e questionar o que vê.",
+      "As plataformas deveriam ser mais transparentes sobre o funcionamento de seus sistemas, e a escola deveria ensinar esse funcionamento aos estudantes."
+    ],
+    "repertoire": [
+      {
+        "ref": "Eli Pariser, “O filtro invisível: o que a internet está escondendo de você” (título original: “The Filter Bubble”, 2011)",
+        "how": "O autor popularizou a expressão “bolha de filtros” para descrever como a personalização da internet isola cada usuário em um universo de informações que confirma o que ele já pensa."
+      },
+      {
+        "ref": "Documentário “O Dilema das Redes” (2020)",
+        "how": "Nele, ex-profissionais de grandes empresas de tecnologia explicam como as plataformas são projetadas para capturar a atenção dos usuários; bom exemplo para o argumento do engajamento."
+      },
+      {
+        "ref": "Platão, alegoria da caverna (“A República”)",
+        "how": "Os prisioneiros tomam sombras por realidade; é possível comparar a caverna com um feed personalizado que mostra apenas uma parte do mundo."
+      }
+    ],
+    "pitfalls": [
+      "Explicar tecnicamente o que é um algoritmo e não discutir sua influência sobre a visão de mundo dos jovens.",
+      "Tratar apenas do tempo excessivo de uso das redes sociais, que é outro recorte.",
+      "Apresentar os algoritmos como vilões absolutos ou como totalmente inofensivos, sem nuance e sem argumentos."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "tec-09",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Os jogos eletrônicos contribuem para a formação dos jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o lugar dos jogos eletrônicos na vida dos adolescentes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Muito além do passatempo",
+        "body_html": "<p>Os jogos eletrônicos fazem parte do cotidiano de muitos adolescentes. Há jogos de estratégia, de construção, de esporte, de aventura e de simulação; alguns são jogados sozinhos, outros em equipe, com pessoas de diferentes lugares. Para uns, os games são apenas diversão. Para outros, tornaram-se espaço de amizade, de criatividade e até de carreira, com competições profissionais que atraem grandes plateias.</p><p>Ao mesmo tempo, familiares e educadores se preocupam com o tempo dedicado aos jogos, com a violência de certos títulos, com as compras dentro dos aplicativos e com o contato com desconhecidos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Discussão na sala",
+        "body_html": "<p><b>Lucas:</b> Meu pai diz que videogame é perda de tempo.</p><p><b>Marina:</b> Foi jogando que eu aprendi boa parte do inglês que eu sei.</p><p><b>Lucas:</b> E eu aprendi a trabalhar em equipe. No jogo, se cada um fizer o que quer, o time perde.</p><p><b>Marina:</b> Mas tem dia que eu começo a jogar depois do almoço e, quando vejo, já é noite e não fiz nada da escola.</p><p><b>Lucas:</b> Aí o problema não é o jogo, é a falta de limite.</p><p><b>Marina:</b> Será? Tem jogo que parece feito justamente para a gente não conseguir parar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Uma atividade antiga",
+        "body_html": "<p>Jogar é uma atividade muito mais antiga do que qualquer tela. Pessoas de diferentes épocas e culturas inventaram jogos de tabuleiro, de cartas, de rua e de roda. Neles, aprendiam a seguir regras, a perder, a esperar a vez e a imaginar outros mundos.</p><p>Os jogos eletrônicos herdaram muito disso, mas trouxeram novidades: mundos que nunca terminam, recompensas constantes e a possibilidade de jogar com qualquer pessoa, a qualquer hora.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que habilidades os jogos eletrônicos podem desenvolver?",
+      "Em que momento jogar deixa de ser lazer e passa a ser um problema?",
+      "De quem é a responsabilidade de estabelecer limites: do jovem, da família ou das empresas que criam os jogos?",
+      "Os jogos poderiam ser usados na escola? De que forma?"
+    ],
+    "argument_paths": [
+      "Sim: os jogos podem estimular o raciocínio, a criatividade, a cooperação e até o aprendizado de outras línguas, quando fazem parte de uma rotina equilibrada.",
+      "Depende do uso: o mesmo jogo pode ser saudável ou prejudicial conforme o tempo dedicado, o conteúdo e o acompanhamento da família.",
+      "Os riscos são reais: mecanismos pensados para prender o jogador, compras dentro dos jogos e contato com desconhecidos exigem atenção e regras.",
+      "A escola pode aproveitar a linguagem dos jogos para ensinar, em vez de tratá-los apenas como inimigos do estudo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Johan Huizinga, “Homo Ludens” (1938)",
+        "how": "O historiador defende que o jogo é um elemento fundamental da cultura humana; serve para mostrar que jogar não é, por si só, perda de tempo."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 16, inciso IV",
+        "how": "Inclui o direito de brincar, praticar esportes e divertir-se entre os aspectos do direito à liberdade; ajuda a tratar o lazer como direito, e não como desvio."
+      },
+      {
+        "ref": "Classificação Internacional de Doenças (CID-11), da Organização Mundial da Saúde, em vigor desde 2022",
+        "how": "A CID-11 inclui um transtorno relacionado aos jogos eletrônicos (em inglês, gaming disorder), marcado pela perda de controle sobre o hábito de jogar, que passa a ter prioridade sobre outras atividades mesmo quando traz prejuízos; serve para mostrar que o uso descontrolado merece atenção, sem concluir que todo jogo é prejudicial."
+      }
+    ],
+    "pitfalls": [
+      "Relatar apenas a própria experiência com um jogo favorito, sem transformá-la em argumento.",
+      "Afirmar relações de causa e efeito como certezas (por exemplo, “todo jogo violento torna o jogador violento”) sem sustentá-las.",
+      "Fugir para o tema geral de telas e redes sociais, esquecendo que o foco são os jogos eletrônicos e a formação dos jovens."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "tec-10",
+    "axis": "tec",
+    "axis_label": "Tecnologia, internet e redes sociais",
+    "theme": "Cultura do cancelamento: justiça ou intolerância nas redes sociais?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os julgamentos coletivos nas redes sociais e a chamada cultura do cancelamento. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é cancelar",
+        "body_html": "<p>Nas redes sociais, “cancelar” alguém significa retirar publicamente o apoio a uma pessoa, em geral famosa, depois de uma fala ou atitude considerada ofensiva. Em alguns casos, a reação coletiva serviu para cobrar responsabilidade por atitudes preconceituosas que antes passavam sem consequência. Em outros, a onda de críticas veio acompanhada de ofensas, ameaças e exposição de familiares, muitas vezes antes de se saber exatamente o que havia acontecido.</p><p>O fenômeno também atinge pessoas comuns: um estudante, um vendedor ou uma professora podem se tornar alvo de milhares de desconhecidos em poucas horas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O vídeo de quinze segundos",
+        "body_html": "<p>Um vídeo de quinze segundos mostra uma adolescente discutindo com o funcionário de uma lanchonete. Alguém publica o trecho com a legenda “olha a grosseria dessa menina”. Em uma noite, o vídeo é compartilhado milhares de vezes; descobrem o nome da jovem, a escola onde estuda, o perfil dos pais.</p><p>No dia seguinte, surge outro vídeo, mais longo, gravado por outra pessoa: nele, dá para ver que a discussão começou porque o pedido havia sido cobrado duas vezes. Poucos dos que compartilharam o primeiro vídeo assistem ao segundo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três vozes",
+        "body_html": "<p><b>Opinião A:</b> Antes das redes, quem tinha poder dificilmente era cobrado. Hoje, pessoas comuns conseguem exigir respeito, e isso é um avanço.</p><p><b>Opinião B:</b> Criticar é legítimo; humilhar, ameaçar e impedir que alguém se desculpe, não. Isso não é justiça, é vingança.</p><p><b>Opinião C:</b> Todo mundo erra. Uma sociedade que não permite que as pessoas aprendam com os próprios erros não está educando ninguém.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre criticar uma atitude e atacar uma pessoa?",
+      "O cancelamento ajuda a combater preconceitos ou apenas troca uma violência por outra?",
+      "Por que tantas pessoas compartilham acusações sem verificar o que aconteceu?",
+      "Quem é criticado nas redes deveria ter a chance de se explicar e de mudar de atitude?"
+    ],
+    "argument_paths": [
+      "A cobrança pública pode ser uma forma legítima de denunciar preconceitos e abusos, sobretudo quando as instituições não agem.",
+      "O cancelamento se parece com um tribunal sem direito de defesa, em que o julgamento é imediato e a punição, muitas vezes desproporcional.",
+      "Responsabilizar não é o mesmo que linchar: a crítica deve se dirigir à atitude, com respeito à pessoa e abertura para a reparação.",
+      "O efeito manada das redes favorece o compartilhamento impulsivo; é preciso cultivar a checagem dos fatos e a empatia antes de aderir a uma onda de ataques."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso LV (contraditório e ampla defesa)",
+        "how": "Contrastar as garantias de defesa previstas para os acusados em geral com o “tribunal” das redes, que condena sem ouvir o outro lado."
+      },
+      {
+        "ref": "Código Penal (Decreto-Lei nº 2.848/1940), arts. 138 a 140 (calúnia, difamação e injúria)",
+        "how": "Mostrar que ataques à honra de alguém, inclusive pela internet, podem configurar crime, o que diferencia a crítica legítima da ofensa."
+      },
+      {
+        "ref": "Nathaniel Hawthorne, “A letra escarlate” (1850)",
+        "how": "No romance, ambientado entre os puritanos da Nova Inglaterra do século XVII, Hester Prynne é obrigada a usar no peito uma letra “A” vermelha como marca pública de sua falta; a obra permite comparar a humilhação pública do passado com a exposição nas redes."
+      }
+    ],
+    "pitfalls": [
+      "Narrar a polêmica de uma celebridade, transformando a redação em resumo de fofoca, sem discussão.",
+      "Tratar só de liberdade de expressão em geral, sem enfrentar a pergunta central: o cancelamento é justiça ou intolerância?",
+      "Citar nomes de pessoas reais envolvidas em polêmicas, o que desvia o foco e pode soar como ataque pessoal."
+    ],
+    "difficulty": 3
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto I",
+    "title": "A solidão do meteorito",
+    "subtitle": null,
+    "author": "José Eduardo Agualusa",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Há imagens que se tornam símbolos de uma época. Por exemplo, a Pedra do",
+      "Bendegó<sup>1</sup>, sólida e negra como uma acusação, emergindo por entre as cinzas tristes do",
+      "Palácio de São Cristóvão.",
+      "Penso na longa viagem que o meteorito fez até chegar ali — cinco toneladas de ferro",
+      "e níquel navegando entre as estrelas, afundando-se no sertão baiano, sendo resgatado e",
+      "exposto (uma saga essa operação de resgate, daria um romance) —, enquanto lembro os",
+      "versos da poeta norte-americana Muriel Rukeyser: “O Tempo entra./ Diz:/ o universo é feito",
+      "de histórias,/ não de átomos.”",
+      "O que desapareceu para sempre enquanto o Museu Nacional ardia não foram átomos,",
+      "não foram artefatos, não foram múmias antiquíssimas, preciosas coleções de lepidópteros<sup>2</sup>,",
+      "vozes e canções em línguas que nem existem mais: foram histórias. As histórias de que",
+      "somos feitos.",
+      "Lembramos — por isso existimos. Sempre que algo da nossa memória individual ou",
+      "coletiva se perde, perde-se uma parte de nós. Estamos sempre à beira da extinção. Somos",
+      "uma espécie ameaçada e somos também a nossa pior ameaça.",
+      "Com a destruição do Museu Nacional é como se o Brasil tivesse sofrido um grave",
+      "acidente vascular cerebral<sup>3</sup>, não socorrido a tempo. Nesse processo, o Brasil perdeu parte",
+      "da memória. O problema de perder parte da memória é que não sabemos ao certo o que",
+      "perdemos. Um homem perde um braço num acidente; sabe que perdeu o braço. Mas como",
+      "saberá, ao despertar no hospital, após um AVC, que perdeu a primeira gargalhada do seu",
+      "filho? O aroma a goiabas do quintal da sua infância? A noite mais bela da sua vida?",
+      "O Brasil perdeu parte da memória; portanto, nem sequer sabe ao certo o que perdeu."
+    ],
+    "para_starts": [
+      1,
+      4,
+      9,
+      13,
+      16,
+      22
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "<i>O Globo</i>, 8 set 2018 Adaptado",
+    "glossary": [
+      {
+        "term": "Pedra do Bendegó",
+        "def": "Denominação pela qual é conhecido o meteorito encontrado no interior do estado da Bahia. Integra o acervo do Museu Nacional desde 1880, tendo resistido ao incêndio que destruiu o Museu, no último dia 2 de setembro."
+      },
+      {
+        "term": "Lepidópteros",
+        "def": "Ordem de insetos da qual fazem parte mariposas e borboletas."
+      },
+      {
+        "term": "Acidente vascular cerebral",
+        "def": "Muito conhecida pela sigla AVC, essa doença se caracteriza pela perda do correto funcionamento de partes do cérebro, em decorrência de falha na irrigação sanguínea."
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto II",
+    "title": "Uma noite real no Museu Nacional",
+    "subtitle": null,
+    "author": null,
+    "kind": "poema",
+    "numbering": "none",
+    "lines": [
+      "Gira coroa da majestade",
+      "samba de verdade, identidade cultural",
+      "Imperatriz é o relicário",
+      "no bicentenário do Museu Nacional",
+      "Onde a musa inspira a poesia",
+      "a cultura irradia o cantar da Imperatriz",
+      "é um palácio, emoldura a beleza",
+      "abrigou a realeza, patrimônio é raiz",
+      "que germinou e floresceu lá na colina",
+      "a obra-prima viu o meu Brasil nascer",
+      "no anoitecer dizem que tudo ganha vida",
+      "paisagem colorida deslumbrante de viver",
+      "bailam meteoros e planetas",
+      "dinossauros, borboletas",
+      "brilham os cristais",
+      "o canto da cigarra em sinfonia",
+      "relembrou aqueles dias que não voltarão jamais",
+      "À luz dourada do amanhecer",
+      "as princesas deixam o jardim",
+      "os portões se abrem pro lazer",
+      "pipas ganham ares",
+      "encontros populares",
+      "decretam que a Quinta é pra você"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      17
+    ],
+    "images": [],
+    "source": "Samba de enredo da escola de samba Imperatriz Leopoldinense em 2018<br>Compositores: Jorge Arthur, Maninho do Ponto, Julinho Maestro, Marcio Pessi, Piu das Casinhas",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto III",
+    "title": "Coleção",
+    "subtitle": null,
+    "author": "Ana Martins Marques",
+    "kind": "poema",
+    "numbering": "none",
+    "lines": [
+      "Colecionamos objetos",
+      "mas não o espaço",
+      "entre os objetos",
+      "fotos",
+      "mas não o tempo",
+      "entre as fotos",
+      "selos",
+      "mas não",
+      "viagens",
+      "lepidópteros",
+      "mas não",
+      "seu voo",
+      "garrafas",
+      "mas não",
+      "a memória da sede",
+      "discos",
+      "mas nunca",
+      "o pequeno intervalo de silêncio",
+      "entre duas canções"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      3,
+      6,
+      9,
+      12,
+      15
+    ],
+    "images": [],
+    "source": "MARQUES, Ana Martins. <i>O livro das semelhanças</i>. São Paulo: Companhia das Letras, 2015.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T4",
+    "label": "Texto IV",
+    "title": null,
+    "subtitle": null,
+    "author": null,
+    "kind": "tirinha",
+    "numbering": "none",
+    "lines": [],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [
+      {
+        "src": "img/p2018t/pt-t4.png",
+        "alt": "História em quadrinhos da Turma do Penadinho em 5 quadros (duas fileiras de 2 quadros e um quadro grande no fim), ambientada num cemitério. As personagens principais são Dona Morte, figura encapuzada de manto preto que segura uma foice, e Penadinho, um pequeno fantasma branco. Todos os balões saem de Dona Morte, que conversa com Penadinho. Quadro 1: à noite, Dona Morte, sorridente, abre a mão e diz: \"SE ALGUÉM CHEGASSE AO NOSSO CEMITÉRIO HOJE E PERGUNTASSE...\" e, em outro balão, \"...QUEM MORREU?\". Penadinho escuta, surpreso. Quadro 2: ao lado de um túmulo, Dona Morte responde com ar sério: \"EU DIRIA... “200 ANOS DE HISTÓRIA”!\". Penadinho a olha com a boca aberta. Quadro 3: Dona Morte, sorrindo, aponta com o braço aberto para um grupo formado por um vampirinho, Penadinho e uma múmia, e diz: \"MAS DAÍ, OLHANDO TUDO O QUE VOCÊS FIZERAM...\". Quadro 4: diante do mesmo grupo, Dona Morte completa: \"...EU VEJO QUE A ALMA DO MUSEU CONTINUA AQUI...\". Quadro 5 (grande): um balão conclui a fala de Dona Morte: \"PORQUE A HISTÓRIA NUNCA MORRE DE FATO, SE A GENTE A MANTIVER VIVA!\". A cena mostra o cemitério cheio de personagens alegres convivendo com figuras que lembram peças do acervo do Museu Nacional: um grande esqueleto de dinossauro de pescoço comprido, o esqueleto de um réptil voador no céu, várias múmias andando, um fardo de tecido deitado sobre um túmulo, um vaso antigo decorado sobre um pedestal, uma peça com crânios esculpidos, além de uma estátua de anjo, túmulos com cruzes, fantasminhas, um vampirinho e um homem grandalhão de camisa listrada e paletó que apresenta o ambiente com a mão. No canto inferior direito, a palavra \"FIM\". Abaixo do quadrinho, a legenda: \"HOMENAGEM AO MUSEU NACIONAL-RIO DE JANEIRO\"."
+      }
+    ],
+    "source": null,
+    "glossary": [],
+    "epigraph": null
+  }
+]

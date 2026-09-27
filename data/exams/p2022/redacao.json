@@ -1,0 +1,31 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "A cola na escola: como lidar com esse problema?",
+  "prompt_html": "<p>Tendo os textos da prova de Língua Portuguesa como motivadores para sua reflexão, elabore um texto <b>dissertativo-argumentativo</b> em que manifeste seu ponto de vista a respeito da seguinte questão:</p><p class=\"tema\"><b><i>A cola na escola: como lidar com esse problema?</i></b></p>",
+  "requirements": [
+    "ser autoral e não apresentar cópia integral ou parcial de fragmentos dos textos da prova;",
+    "conter obrigatoriamente argumentos que sustentem suas opiniões;",
+    "ter entre 20 e 25 linhas;",
+    "apresentar letra legível e não conter rasuras;",
+    "ter, no mínimo, três parágrafos;",
+    "estar de acordo com a norma-padrão para a modalidade escrita;",
+    "ser em prosa;",
+    "estar de acordo com a proposta apresentada;",
+    "ser transcrito no local indicado na FOLHA DE TEXTOS DEFINITIVOS."
+  ],
+  "zero_criteria": [
+    "folha completamente em branco;",
+    "número insuficiente de linhas (9 linhas ou menos);",
+    "letra ilegível;",
+    "fuga ao tema;",
+    "fuga ao tipo textual (ausência de qualquer indício de opinião);",
+    "palavras de baixo calão e/ou comentários ofensivos ou que desrespeitem os direitos humanos."
+  ],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem sob o título “IMPORTANTE:” e é introduzida por “Seu texto deverá:”.",
+    "Os critérios de nota zero vêm sob o título “OBSERVAÇÃO FINAL:”, introduzidos por “A nota ZERO será atribuída às redações que apresentarem alguma das seguintes características:”.",
+    "Segundo comunicado da Comissão de Concursos de 5 de dezembro de 2022, a Folha de Textos Definitivos entregue no dia da prova tinha só 20 linhas, embora a proposta pedisse de 20 a 25; a banca informou que nenhum candidato seria prejudicado por escrever 20 linhas."
+  ]
+}

@@ -1,0 +1,273 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O professor Paulo César, ao encontrar um antigo diário de classe de 1981, percebeu que a nota de Leovegildo, um dos 11 estudantes que fizeram uma prova muito importante, estava apagada. As 10 notas registradas foram as seguintes:</p><table><thead><tr><th>Aluno</th><th>Nota</th></tr></thead><tbody><tr><td>Raul</td><td>8,0</td></tr><tr><td>Leandro</td><td>9,0</td></tr><tr><td>Mário</td><td>7,5</td></tr><tr><td>José Carlos</td><td>8,5</td></tr><tr><td>Leovegildo</td><td>−</td></tr><tr><td>Jorge Luís</td><td>8,5</td></tr><tr><td>Adílio</td><td>8,5</td></tr><tr><td>Arthur</td><td>10,0</td></tr><tr><td>Milton</td><td>8,0</td></tr><tr><td>João Batista</td><td>8,5</td></tr><tr><td>Antônio</td><td>8,0</td></tr></tbody></table><p>Entretanto, uma anotação no diário dizia que a média aritmética simples das onze notas havia sido igual a 8,5. Portanto, a nota de Leovegildo nessa prova foi igual a</p>",
+    "options": {
+      "A": "7,5.",
+      "B": "8,0.",
+      "C": "8,5.",
+      "D": "9,0."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A média aritmética de 11 notas é a soma das notas dividida por 11. Se a média foi 8,5, a soma das onze notas é</p><p>\\[11 \\times 8{,}5 = 93{,}5.\\]</p><p>Agora some as 10 notas conhecidas, agrupando as repetidas:</p><ul><li>três notas 8,0 (Raul, Milton e Antônio): \\(3 \\times 8{,}0 = 24{,}0\\);</li><li>quatro notas 8,5 (José Carlos, Jorge Luís, Adílio e João Batista): \\(4 \\times 8{,}5 = 34{,}0\\);</li><li>as outras três: \\(9{,}0 + 7{,}5 + 10{,}0 = 26{,}5\\).</li></ul><p>\\[24{,}0 + 34{,}0 + 26{,}5 = 84{,}5.\\]</p><p>A nota apagada é o que falta para completar a soma:</p><p>\\[93{,}5 - 84{,}5 = 9{,}0.\\]</p><p><b>Outro jeito, sem somar tudo:</b> compare cada nota com a média 8,5. Leandro está \\(+0{,}5\\) e Arthur \\(+1{,}5\\); Raul, Milton e Antônio estão \\(-0{,}5\\) cada, e Mário \\(-1{,}0\\); as notas 8,5 dão zero. Total dos desvios: \\(0{,}5 + 1{,}5 - 1{,}5 - 1{,}0 = -0{,}5\\). Para a média ser exatamente 8,5, os desvios têm de somar zero, então Leovegildo precisa estar 0,5 acima: \\(8{,}5 + 0{,}5 = 9{,}0\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "As dez notas conhecidas já têm média 8,45 (\\(84{,}5 \\div 10\\)), abaixo de 8,5; para puxar a média para cima, a nota que falta tem de ser maior que 8,5. Com 7,5 a média cairia para cerca de 8,36.",
+      "B": "Vem de um erro de sinal no método dos desvios (\\(8{,}5 - 0{,}5\\) em vez de \\(8{,}5 + 0{,}5\\)) ou de um erro de 1 ponto na soma das dez notas. Com 8,0 a soma seria 92,5 e a média, cerca de 8,41.",
+      "C": "É o chute de que a nota que falta é igual à média. Isso só valeria se as outras dez notas já tivessem média 8,5, mas a média delas é 8,45; com 8,5 a soma seria 93,0, e não 93,5."
+    },
+    "tip": "Se a média de \\(n\\) valores é \\(m\\), a soma de todos é \\(n \\times m\\): calcule a soma total e subtraia o que já é conhecido."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Vovô Ká Duko decidiu repartir todo o seu 13º salário de R$ 3 600,00 entre seus netos. A quantia será dividida em partes diretamente proporcionais às idades de cada um.</p><p>Sabendo-se que as três crianças têm 4, 5 e 6 anos, então, cada uma receberá</p>",
+    "options": {
+      "A": "R$ 800,00; R$ 1 000,00; e R$ 1 200,00.",
+      "B": "R$ 720,00; R$ 1 080,00 e R$ 1 440,00.",
+      "C": "R$ 800,00; R$ 1 200,00 e R$ 1 600,00.",
+      "D": "R$ 960,00; R$ 1 200,00 e R$ 1 440,00."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Repartir em partes <b>diretamente proporcionais</b> às idades significa que cada neto recebe a mesma quantia por ano de idade.</p><p>Some as idades: \\(4 + 5 + 6 = 15\\). O total é dividido em 15 partes iguais:</p><p>\\[3600 \\div 15 = 240 \\text{ reais por ano de idade.}\\]</p><ul><li>neto de 4 anos: \\(4 \\times 240 = 960\\);</li><li>neto de 5 anos: \\(5 \\times 240 = 1200\\);</li><li>neto de 6 anos: \\(6 \\times 240 = 1440\\).</li></ul><p>Conferindo: \\(960 + 1200 + 1440 = 3600\\), ou seja, todo o 13º salário foi repartido. Os valores são R$ 960,00, R$ 1 200,00 e R$ 1 440,00. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os valores são proporcionais às idades (R$ 200,00 por ano), mas somam só R$ 3 000,00; o enunciado diz que todo o salário de R$ 3 600,00 foi repartido.",
+      "B": "Os valores não são proporcionais a 4, 5 e 6 (\\(720 \\div 4 = 180\\), mas \\(1080 \\div 5 = 216\\)) e ainda somam R$ 3 240,00, e não R$ 3 600,00.",
+      "C": "Soma R$ 3 600,00, mas os valores estão na razão 4 : 6 : 8 (R$ 200,00 por parte), como se as idades fossem 4, 6 e 8 anos; não são proporcionais a 4, 5 e 6."
+    },
+    "tip": "Para dividir em partes diretamente proporcionais, some os pesos, divida o total por essa soma e multiplique o resultado por cada peso."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para concluir o projeto de pavimentação das ruas de um bairro, a secretaria de obras de uma prefeitura usou o trecho de mapa a seguir:</p><p><img src=\"img/p2017t/mat-q13.png\" alt=\"Trecho de mapa com duas ruas retas, desenhadas como faixas grossas, que se cruzam no ponto D formando um ângulo reto (marcado no desenho). Na rua que desce da esquerda para a direita fica o ponto A; na outra rua, que sobe para a direita, fica o ponto C. De A sai uma rua horizontal grossa até o ponto B; de B até C o trecho é pontilhado (não pavimentado). Assim, A, B e C ficam sobre uma mesma reta, e as ruas DA e DC são perpendiculares em D. Não há medidas no desenho.\"></p><p>Sabe-se que o segmento BC (pontilhado) representa a única parte que ainda não está pavimentada. Além disso, os pontos A, B e C estão alinhados.</p><p>As medidas dos trechos mostrados no mapa, em decâmetros, são os seguintes:</p><ul><li>\\(AB = 10\\)</li><li>\\(BC = x\\)</li><li>\\(CD = x + 2\\)</li><li>\\(AD = x + 9\\)</li></ul><p>Dessa forma, o trecho BC, ainda não pavimentado, mede</p>",
+    "options": {
+      "A": "3 dam.",
+      "B": "4 dam.",
+      "C": "5 dam.",
+      "D": "6 dam."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.alg.eq2",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Monte o triângulo.</b> Como A, B e C estão alinhados, o segmento AC é a soma dos dois trechos:</p><p>\\[AC = AB + BC = 10 + x.\\]</p><p>O desenho marca ângulo reto em D, então o triângulo ACD é retângulo em D. A hipotenusa é o lado oposto ao ângulo reto, AC; os catetos são \\(CD = x + 2\\) e \\(AD = x + 9\\).</p><p><b>2) Teorema de Pitágoras.</b></p><p>\\[(10 + x)^2 = (x + 2)^2 + (x + 9)^2\\]</p><p>Desenvolvendo cada quadrado (quadrado da soma: \\((a+b)^2 = a^2 + 2ab + b^2\\)):</p><p>\\[100 + 20x + x^2 = x^2 + 4x + 4 + x^2 + 18x + 81\\]</p><p>\\[100 + 20x + x^2 = 2x^2 + 22x + 85\\]</p><p>Passando tudo para o lado direito:</p><p>\\[x^2 + 2x - 15 = 0.\\]</p><p><b>3) Resolva a equação.</b> As raízes são dois números com soma \\(-2\\) e produto \\(-15\\) (método da soma e do produto): são \\(-5\\) e \\(3\\). Assim, \\((x + 5)(x - 3) = 0\\), e \\(x = 3\\) ou \\(x = -5\\). A fórmula de Bhaskara dá o mesmo: \\(\\Delta = 2^2 - 4 \\cdot 1 \\cdot (-15) = 64\\) e \\(x = \\dfrac{-2 \\pm 8}{2}\\). Um comprimento não pode ser negativo, então \\(x = 3\\).</p><p><b>4) Conferindo.</b> Com \\(x = 3\\): \\(AC = 13\\), \\(CD = 5\\) e \\(AD = 12\\). De fato, \\(5^2 + 12^2 = 25 + 144 = 169 = 13^2\\).</p><p>O trecho BC mede 3 dam. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Com \\(x = 4\\) os lados seriam \\(AC = 14\\), \\(CD = 6\\) e \\(AD = 13\\), mas \\(6^2 + 13^2 = 205\\) é diferente de \\(14^2 = 196\\): o triângulo não seria retângulo.",
+      "C": "É a raiz \\(x = -5\\) sem o sinal. Essa raiz é descartada por ser negativa, e trocar o sinal não gera outra solução: com \\(x = 5\\), os catetos seriam 7 e 14 e a hipotenusa 15, mas \\(7^2 + 14^2 = 245\\) é diferente de \\(15^2 = 225\\).",
+      "D": "Com \\(x = 6\\) os catetos seriam 8 e 15, que lembram o terno pitagórico 8, 15, 17; mas a hipotenusa seria \\(AC = 10 + 6 = 16\\), e \\(8^2 + 15^2 = 289\\) é diferente de \\(16^2 = 256\\)."
+    },
+    "tip": "Em Pitágoras, a hipotenusa é o lado oposto ao ângulo reto e fica sozinha de um lado da igualdade; no fim, descarte as raízes negativas."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Mariana comprou US$ 500 (dólares americanos) em papel-moeda. O valor da venda é calculado considerando os R$ 3,22 que a casa de câmbio cobrou por cada dólar. Adicionalmente, Mariana tem que pagar 1,1% do valor da venda ao governo a título de IOF (Imposto sobre Operações Financeiras).</p><p>Dessa forma, o valor total, incluindo o IOF, que Mariana pagou nessa compra equivale a</p>",
+    "options": {
+      "A": "R$ 1 610,00.",
+      "B": "R$ 1 626,10.",
+      "C": "R$ 1 627,71.",
+      "D": "R$ 1 787,10."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1) Valor da venda.</b> Cada dólar custou R$ 3,22:</p><p>\\[500 \\times 3{,}22 = 1610.\\]</p><p>(Pense em \\(3{,}22 \\times 100 = 322\\) e depois \\(322 \\times 5 = 1610\\).)</p><p><b>2) IOF de 1,1% sobre R$ 1 610,00.</b> Separe 1,1% em 1% mais 0,1%:</p><ul><li>1% de 1610: \\(16{,}10\\);</li><li>0,1% de 1610: \\(1{,}61\\);</li><li>1,1% de 1610: \\(16{,}10 + 1{,}61 = 17{,}71\\).</li></ul><p><b>3) Total pago.</b></p><p>\\[1610 + 17{,}71 = 1627{,}71.\\]</p><p>Mariana pagou R$ 1 627,71. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É só o valor dos dólares (\\(500 \\times 3{,}22 = 1610\\)); faltou somar o IOF.",
+      "B": "Calcula o IOF como 1% em vez de 1,1%: \\(1610 + 16{,}10 = 1626{,}10\\).",
+      "D": "Usa 11% em vez de 1,1%: \\(1610 \\times 0{,}11 = 177{,}10\\) e \\(1610 + 177{,}10 = 1787{,}10\\)."
+    },
+    "tip": "1,1% de um valor é 1% (vírgula duas casas para a esquerda) mais 0,1% (três casas); some os dois."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Alguns polígonos regulares, quando postos juntos, preenchem o plano, isto é, não deixam folga, espaço entre si. Por outro lado, outras combinações de polígonos não preenchem o plano.</p><p>A seguir, exemplos desse fato: a Figura 1, formada por hexágonos regulares, preenche o plano; a Figura 2, formada por pentágonos e hexágonos regulares, não preenche o plano.</p><p><img src=\"img/p2017t/mat-q15.png\" alt=\"Duas figuras lado a lado. Figura 1: cinco hexágonos regulares encaixados, lado com lado, sem deixar nenhum espaço entre eles. Figura 2: dois hexágonos regulares, um em cima do outro, compartilhando um lado horizontal; um pentágono regular à esquerda e outro à direita. Cada pentágono compartilha um lado com um lado inclinado inferior do hexágono de cima. No vértice em que se encontram os dois hexágonos e o pentágono da esquerda, sobra uma pequena abertura entre um lado do pentágono e um lado do hexágono de baixo; o ângulo dessa abertura está marcado com x. Do lado direito aparece uma abertura igual, sem marcação.\"></p><p>Na Figura 2, a medida do ângulo \\(x\\) é igual a</p>",
+    "options": {
+      "A": "14º.",
+      "B": "12º.",
+      "C": "10º.",
+      "D": "8º."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O ângulo \\(x\\) tem vértice no ponto em que se encontram o hexágono de cima, o hexágono de baixo e o pentágono da esquerda (a letra \\(x\\) foi escrita dentro da abertura, um pouco afastada desse ponto). Em volta desse ponto há quatro ângulos que, sem se sobrepor, completam uma volta inteira (360°): o ângulo interno do hexágono de cima, o do hexágono de baixo, o do pentágono e a folga \\(x\\).</p><p><b>1) Ângulo interno do hexágono regular.</b> A soma dos ângulos internos de um polígono de \\(n\\) lados é \\((n - 2) \\cdot 180^\\circ\\). Para \\(n = 6\\), a soma é \\(4 \\cdot 180^\\circ = 720^\\circ\\), e cada ângulo mede \\(720^\\circ \\div 6 = 120^\\circ\\).</p><p><b>2) Ângulo interno do pentágono regular.</b> Para \\(n = 5\\), a soma é \\(3 \\cdot 180^\\circ = 540^\\circ\\), e cada ângulo mede \\(540^\\circ \\div 5 = 108^\\circ\\).</p><p><b>3) Volta completa no vértice.</b></p><p>\\[120^\\circ + 120^\\circ + 108^\\circ + x = 360^\\circ\\]</p><p>\\[x = 360^\\circ - 348^\\circ = 12^\\circ.\\]</p><p>É por isso que a Figura 2 não preenche o plano: sobra uma folga de 12°. Na Figura 1, três hexágonos somam \\(3 \\times 120^\\circ = 360^\\circ\\) e fecham a volta sem folga. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Só daria 14° se o ângulo do pentágono fosse 106°. Vem de errar o ângulo interno do pentágono regular, que é \\(540^\\circ \\div 5 = 108^\\circ\\), ou de estimar a folga pelo desenho.",
+      "C": "Exigiria um ângulo de 110° no pentágono. É erro na soma dos ângulos internos ou na divisão por 5; o correto é \\(540^\\circ \\div 5 = 108^\\circ\\).",
+      "D": "Exigiria um ângulo de 112° no pentágono. A folga é pequena demais para ser medida no olho: é preciso calcular \\(360^\\circ - 120^\\circ - 120^\\circ - 108^\\circ\\)."
+    },
+    "tip": "Ângulo interno do polígono regular de \\(n\\) lados: \\((n - 2) \\cdot 180^\\circ \\div n\\); em volta de um ponto, os ângulos somam 360°."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No município de Pedrolândia, os dois únicos candidatos na última eleição para prefeito foram Zé Quadrado e Tião Redondo. Do total de 18.000 eleitores que votaram, os candidatos receberam exatamente os percentuais de votos indicados no gráfico a seguir:</p><p><img src=\"img/p2017t/mat-q16.png\" alt=\"Gráfico de barras verticais com o título Resultado da Votação. O eixo vertical vai de 0 a 50, de 10 em 10. Barras: Zé Quadrado, com o rótulo 45,555...%; Tião Redondo, com o rótulo 32,222...%; Brancos ou Nulos, sem rótulo, com altura um pouco acima de 20.\"></p><p>O número de votos brancos ou nulos foi igual a</p>",
+    "options": {
+      "A": "4000.",
+      "B": "4004.",
+      "C": "4010.",
+      "D": "4014."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.fracoes",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Todo eleitor votou em Zé Quadrado, em Tião Redondo ou em branco/nulo, então os três percentuais somam 100%.</p><p><b>1) Percentual dos brancos ou nulos.</b></p><p>\\[45{,}555\\ldots\\% + 32{,}222\\ldots\\% = 77{,}777\\ldots\\%\\]</p><p>\\[100\\% - 77{,}777\\ldots\\% = 22{,}222\\ldots\\%\\]</p><p><b>2) Troque a dízima por fração.</b> \\(22{,}222\\ldots\\%\\) do total é o mesmo que \\(0{,}222\\ldots\\) do total, e</p><p>\\[0{,}222\\ldots = \\dfrac{2}{9}\\]</p><p>(dízima periódica simples: o período, 2, sobre 9).</p><p><b>3) Número de votos.</b></p><p>\\[\\dfrac{2}{9} \\times 18000 = 2 \\times 2000 = 4000.\\]</p><p><b>Conferindo com os candidatos.</b> Zé: 45% de 18000 é 8100, e \\(\\tfrac{5}{9}\\%\\) de 18000 é \\(180 \\times \\tfrac{5}{9} = 100\\); total 8200. Tião: 32% de 18000 é 5760, e \\(\\tfrac{2}{9}\\%\\) é \\(180 \\times \\tfrac{2}{9} = 40\\); total 5800. E \\(8200 + 5800 + 4000 = 18000\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Aparece ao cortar as dízimas em pontos diferentes, por exemplo 45,555% e 32,2%: sobram 22,245%, e \\(0{,}22245 \\times 18000 \\approx 4004\\). Os percentuais são exatos, então é preciso usar frações.",
+      "C": "Resulta de truncar as dízimas, por exemplo usando 45,5% e 32,22%: sobram 22,28%, e \\(0{,}2228 \\times 18000 \\approx 4010\\).",
+      "D": "Usa só uma casa decimal, 45,5% e 32,2%: sobram 22,3%, e \\(0{,}223 \\times 18000 = 4014\\). Cortar a dízima muda a resposta."
+    },
+    "tip": "Dízima periódica é fração exata (\\(0{,}222\\ldots = \\tfrac{2}{9}\\)); não arredonde quando o enunciado diz que os valores são exatos."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O Tangram é um dos mais famosos quebra-cabeças do mundo. Ele foi inventado na China há muito tempo. Observe a figura a seguir.</p><p><img src=\"img/p2017t/mat-q17-fig1.png\" alt=\"Figura 1: um quadrado dividido nas sete peças do Tangram, em tons de cinza, sem medidas: dois triângulos retângulos isósceles grandes, um com a hipotenusa no lado de baixo do quadrado e outro com a hipotenusa no lado direito, ambos com o vértice do ângulo reto no centro do quadrado; um triângulo médio no canto superior esquerdo; um quadrado inclinado; dois triângulos pequenos (um no alto, à direita do quadrado inclinado, e outro, escuro, à esquerda do centro); e um paralelogramo encostado no lado esquerdo.\"></p><p class=\"fonte\">Fonte: https://www.tangram-channel.com. Acesso em 02/07/2017.</p><p>Com ele, é possível construir uma infinidade de figuras, com diversas delas semelhantes a animais, pessoas, objetos etc. Por exemplo, a Figura 2 a seguir lembra uma casa.</p><p><img src=\"img/p2017t/mat-q17-fig2.png\" alt=\"Figura 2: as mesmas sete peças formando uma casa. No alto, o telhado: um triângulo grande com a hipotenusa horizontal embaixo, mais larga que o corpo da casa. Logo abaixo, o corpo retangular da casa: em cima, o outro triângulo grande, com os catetos no lado de cima e no lado direito do corpo; à esquerda dele, o triângulo médio, com a hipotenusa no lado esquerdo do corpo; no meio, um triângulo pequeno escuro à esquerda e o paralelogramo à direita; na base, o quadrado à esquerda e o outro triângulo pequeno à direita. Uma seta vertical à direita, marcada H, vai do topo do telhado até a base da casa.\"></p><p>Suponha que o Tangram da Figura 1 seja um quadrado de lado unitário e que a Figura 2 foi obtida reposicionando os mesmos polígonos da Figura 1.</p><p>Sendo assim, a medida da altura H, da Figura 2, é</p>",
+    "options": {
+      "A": "\\(\\dfrac{2\\sqrt{2}+1}{2}\\).",
+      "B": "\\(\\dfrac{3\\sqrt{2}-2}{4}\\).",
+      "C": "\\(\\dfrac{3\\sqrt{2}+2}{4}\\).",
+      "D": "\\(\\dfrac{3\\sqrt{2}+1}{2}\\)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.poligonos",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Medidas das peças no quadrado de lado 1 (Figura 1).</b></p><ul><li><b>Diagonal do quadrado:</b> por Pitágoras, \\(d^2 = 1^2 + 1^2 = 2\\), logo \\(d = \\sqrt{2}\\).</li><li><b>Triângulo grande:</b> seu vértice do ângulo reto fica no centro do quadrado e sua hipotenusa é um lado inteiro do quadrado, de medida 1. A altura relativa a essa hipotenusa vai do centro do quadrado até o lado: mede \\(\\dfrac{1}{2}\\).</li><li><b>Quadrado pequeno:</b> olhe a diagonal que vai do canto inferior esquerdo ao canto superior direito. A metade de cima dela, do centro até o canto, mede \\(\\dfrac{\\sqrt{2}}{2}\\) e é formada por um lado do quadrado pequeno e um cateto do triângulo pequeno do alto. Esses dois pedaços têm a mesma medida, porque o outro cateto desse triângulo é justamente um lado do quadrado, e os dois catetos de um triângulo retângulo isósceles são iguais. Logo o lado do quadrado pequeno é \\(\\dfrac{\\sqrt{2}}{2} \\div 2 = \\dfrac{\\sqrt{2}}{4}\\).</li><li><b>Triângulo médio:</b> ocupa o canto superior esquerdo, com catetos iguais a metade do lado, \\(\\dfrac{1}{2}\\). Sua hipotenusa mede \\(\\sqrt{\\tfrac{1}{4} + \\tfrac{1}{4}} = \\sqrt{\\tfrac{1}{2}} = \\dfrac{\\sqrt{2}}{2}\\).</li></ul><p><b>2) Altura da casa (Figura 2).</b></p><ul><li><b>Telhado:</b> é um triângulo grande com a hipotenusa na horizontal, então sua altura é \\(\\dfrac{1}{2}\\).</li><li><b>Corpo:</b> no lado esquerdo, de cima para baixo, estão a hipotenusa do triângulo médio (\\(\\dfrac{\\sqrt{2}}{2}\\)) e o lado do quadrado pequeno (\\(\\dfrac{\\sqrt{2}}{4}\\)). A altura do corpo é \\(\\dfrac{\\sqrt{2}}{2} + \\dfrac{\\sqrt{2}}{4} = \\dfrac{2\\sqrt{2}}{4} + \\dfrac{\\sqrt{2}}{4} = \\dfrac{3\\sqrt{2}}{4}\\).</li></ul><p><b>3) Soma.</b></p><p>\\[H = \\dfrac{1}{2} + \\dfrac{3\\sqrt{2}}{4} = \\dfrac{2}{4} + \\dfrac{3\\sqrt{2}}{4} = \\dfrac{3\\sqrt{2} + 2}{4}.\\]</p><p>Estimando: \\(\\sqrt{2} \\approx 1{,}41\\) dá \\(H \\approx \\dfrac{4{,}23 + 2}{4} \\approx 1{,}56\\), um pouco mais que uma vez e meia o lado do Tangram, o que combina com o desenho. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "\\(\\dfrac{2\\sqrt{2}+1}{2} = \\sqrt{2} + \\dfrac{1}{2}\\): toma o corpo da casa com altura \\(\\sqrt{2}\\) (a diagonal inteira do quadrado) em vez de \\(\\dfrac{\\sqrt{2}}{2} + \\dfrac{\\sqrt{2}}{4}\\).",
+      "B": "\\(\\dfrac{3\\sqrt{2}-2}{4} = \\dfrac{3\\sqrt{2}}{4} - \\dfrac{1}{2}\\): subtrai a altura do telhado em vez de somá-la; dá cerca de 0,56, menos que a altura do próprio corpo da casa.",
+      "D": "\\(\\dfrac{3\\sqrt{2}+1}{2}\\) é o dobro do corpo mais o telhado; aparece ao somar \\(\\dfrac{1}{2} + \\dfrac{3\\sqrt{2}}{4}\\) juntando os numeradores sobre o denominador 2, sem igualar os denominadores."
+    },
+    "tip": "No Tangram de lado 1, a diagonal mede \\(\\sqrt{2}\\): o cateto do triângulo grande vale metade dela (\\(\\tfrac{\\sqrt{2}}{2}\\)) e o lado do quadradinho, um quarto (\\(\\tfrac{\\sqrt{2}}{4}\\))."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir é um hexágono regular, com centro O, dividido em polígonos. Todos os polígonos são formados por segmentos paralelos aos lados do hexágono. Os segmentos que partem dos lados do hexágono partem dos respectivos pontos médios desses lados.</p><p><img src=\"img/p2017t/mat-q18.png\" alt=\"Hexágono regular de centro O, com um lado horizontal em cima e outro embaixo, dividido em polígonos por segmentos paralelos aos seus lados. O trapézio sombreado fica acima e à direita de O. Seus quatro vértices são: o centro O; o ponto médio do segmento que vai de O até o vértice da direita do hexágono; o ponto médio do lado superior direito do hexágono; e o vértice superior direito do hexágono. O lado do trapézio que vai de O ao vértice superior direito é paralelo ao lado que liga os dois pontos médios citados. As demais regiões ficam em branco: acima de O, um segmento sai do ponto médio do lado de cima, desce para a esquerda e segue na horizontal até o ponto médio do lado do trapézio que vai de O ao vértice superior direito; à esquerda de O, um segmento horizontal vai de O até o ponto médio entre O e o vértice da esquerda, e desse ponto saem dois segmentos, um até o ponto médio do lado superior esquerdo e outro até o ponto médio do lado inferior esquerdo; abaixo de O, um segmento horizontal parte do ponto médio do lado inferior esquerdo, vai para a direita e depois sobe até O.\"></p><p>A fração do hexágono ocupada pelo trapézio sombreado é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{8}\\).",
+      "B": "\\(\\dfrac{1}{6}\\).",
+      "C": "\\(\\dfrac{3}{16}\\).",
+      "D": "\\(\\dfrac{2}{9}\\)."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos",
+      "mat.geo.semelhanca"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(\\ell\\) o lado do hexágono e dê nomes aos pontos: \\(V\\) é o vértice superior direito, \\(R\\) é o vértice da direita, \\(M\\) é o ponto médio de \\(OR\\) e \\(N\\) é o ponto médio do lado \\(VR\\). O trapézio sombreado é \\(OMNV\\).</p><p><b>1) O hexágono regular é formado por 6 triângulos equiláteros.</b> Ligando o centro O a todos os vértices, obtemos 6 triângulos equiláteros iguais, de lado \\(\\ell\\). Um deles é o triângulo \\(OVR\\), que vale \\(\\dfrac{1}{6}\\) do hexágono.</p><p><b>2) O trapézio é esse triângulo menos um pedaço.</b> O triângulo \\(OVR\\) é formado pelo trapézio \\(OMNV\\) mais o triângulo \\(MRN\\), no canto de R. Como \\(MR = RN = \\dfrac{\\ell}{2}\\) e o ângulo em R mede 60°, o triângulo \\(MRN\\) é equilátero de lado \\(\\dfrac{\\ell}{2}\\).</p><p><b>3) Quanto vale o triângulo pequeno?</b> Ligando os pontos médios dos três lados de \\(OVR\\), ele se divide em 4 triângulos equiláteros iguais de lado \\(\\dfrac{\\ell}{2}\\), e \\(MRN\\) é um deles. Logo \\(MRN\\) vale \\(\\dfrac{1}{4}\\) de \\(OVR\\), e o trapézio vale os outros \\(\\dfrac{3}{4}\\).</p><p><b>4) Fração do hexágono.</b></p><p>\\[\\dfrac{3}{4} \\times \\dfrac{1}{6} = \\dfrac{3}{24} = \\dfrac{1}{8}.\\]</p><p>Outro jeito de ver: o hexágono inteiro tem \\(6 \\times 4 = 24\\) triângulos pequenos de lado \\(\\dfrac{\\ell}{2}\\), e o trapézio é formado por 3 deles: \\(\\dfrac{3}{24} = \\dfrac{1}{8}\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "\\(\\dfrac{1}{6}\\) é o triângulo equilátero \\(OVR\\) inteiro; faltou tirar o triângulo pequeno do canto de R, que ocupa \\(\\dfrac{1}{4}\\) dele.",
+      "C": "É maior que \\(\\dfrac{1}{6}\\) (\\(\\tfrac{3}{16} = \\tfrac{18}{96}\\) e \\(\\tfrac{1}{6} = \\tfrac{16}{96}\\)), o que é impossível, pois o trapézio cabe dentro de um dos seis triângulos. Aparece ao fazer \\(\\tfrac{3}{4} \\times \\tfrac{1}{4}\\), tratando o triângulo \\(OVR\\) como \\(\\tfrac{1}{4}\\) do hexágono.",
+      "D": "Também é maior que \\(\\dfrac{1}{6}\\) (\\(\\tfrac{2}{9} \\approx 0{,}22\\) e \\(\\tfrac{1}{6} \\approx 0{,}17\\)), o que é impossível para uma peça que fica dentro de um sexto do hexágono."
+    },
+    "tip": "Hexágono regular = 6 triângulos equiláteros; ligar os pontos médios dos lados de um triângulo equilátero o divide em 4 triângulos iguais."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A respeito de um número natural, sabe-se que:</p><ul><li>é divisível por 4;</li><li>é múltiplo de 3 e de 7;</li><li>não é múltiplo de 5;</li><li>está localizado entre 400 e 550.</li></ul><p>A soma dos algarismos desse número é igual a</p>",
+    "options": {
+      "A": "8.",
+      "B": "9.",
+      "C": "10.",
+      "D": "11."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1) Junte as condições de divisibilidade.</b> O número é múltiplo de 4, de 3 e de 7. Esses três números não têm fator primo em comum (\\(4 = 2 \\cdot 2\\); 3 e 7 são primos), então o MMC deles é o produto:</p><p>\\[\\text{MMC}(4, 3, 7) = 4 \\times 3 \\times 7 = 84.\\]</p><p>Logo o número é múltiplo de 84.</p><p><b>2) Múltiplos de 84 entre 400 e 550.</b></p><p>\\[84,\\ 168,\\ 252,\\ 336,\\ \\mathbf{420},\\ \\mathbf{504},\\ 588,\\ \\ldots\\]</p><p>Só 420 e 504 estão entre 400 e 550.</p><p><b>3) Não pode ser múltiplo de 5.</b> 420 termina em 0, então é múltiplo de 5 e fica de fora. Sobra 504.</p><p><b>4) Conferindo:</b> 504 dividido por 4 dá 126, por 3 dá 168 e por 7 dá 72, sempre sem resto; além disso, 504 não termina em 0 nem em 5.</p><p>Soma dos algarismos: \\(5 + 0 + 4 = 9\\). Resposta: <b>B</b>.</p><p><b>Atalho:</b> como o número é múltiplo de 3, a soma dos seus algarismos também é múltiplo de 3. Entre as opções, só 9 é múltiplo de 3.</p>",
+    "distractors": {
+      "A": "Impossível: o número é múltiplo de 3, então a soma dos seus algarismos também tem de ser múltiplo de 3, e 8 não é. Aparece ao ficar com um número que atende só parte das condições, como 512 (múltiplo de 4, mas não de 3 nem de 7).",
+      "C": "Impossível pelo mesmo motivo: 10 não é múltiplo de 3. É a soma dos algarismos de 532, que é múltiplo de 4 e de 7 mas não de 3; quem esquece a condição do 3 pode chegar nele.",
+      "D": "Também impossível: 11 não é múltiplo de 3, e todo múltiplo de 3 tem soma dos algarismos múltipla de 3."
+    },
+    "tip": "Múltiplo de vários números ao mesmo tempo é múltiplo do MMC deles; e a soma dos algarismos de um múltiplo de 3 também é múltiplo de 3."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir mostra uma circunferência e dois polígonos. Um dos polígonos é inscrito nessa circunferência e outro, circunscrito a ela.</p><p><img src=\"img/p2017t/mat-q20.png\" alt=\"Uma circunferência com dois polígonos, sem medidas. O polígono inscrito é um pentágono: tem 5 vértices, todos sobre a circunferência. O polígono circunscrito é um heptágono: tem 7 vértices, marcados por pontos fora da circunferência, e seus 7 lados tocam a circunferência.\"></p><p>Se M é o número de diagonais do polígono inscrito e N é o número de diagonais do polígono circunscrito, a razão entre M e N é igual a</p>",
+    "options": {
+      "A": "7/5.",
+      "B": "5/7.",
+      "C": "14/5.",
+      "D": "5/14."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Conte os lados de cada polígono na figura.</b> O polígono inscrito tem todos os vértices sobre a circunferência: são 5 vértices, então é um pentágono. O polígono circunscrito tem todos os lados tocando a circunferência: são 7 vértices, então é um heptágono.</p><p><b>2) Número de diagonais.</b> De cada vértice de um polígono de \\(n\\) lados saem \\(n - 3\\) diagonais (não se liga o vértice a ele mesmo nem aos dois vizinhos). Como cada diagonal é contada duas vezes, uma em cada ponta:</p><p>\\[d = \\dfrac{n(n - 3)}{2}.\\]</p><p>Pentágono (\\(n = 5\\)):</p><p>\\[M = \\dfrac{5 \\cdot (5 - 3)}{2} = \\dfrac{5 \\cdot 2}{2} = 5.\\]</p><p>Heptágono (\\(n = 7\\)):</p><p>\\[N = \\dfrac{7 \\cdot (7 - 3)}{2} = \\dfrac{7 \\cdot 4}{2} = 14.\\]</p><p><b>3) Razão entre M e N</b>, nessa ordem:</p><p>\\[\\dfrac{M}{N} = \\dfrac{5}{14}.\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "\\(\\tfrac{7}{5}\\) é a razão entre os números de lados, e ainda invertida (circunscrito sobre inscrito); a pergunta é sobre diagonais.",
+      "B": "\\(\\tfrac{5}{7}\\) compara os números de lados (5 e 7), e não os de diagonais (5 e 14).",
+      "C": "\\(\\tfrac{14}{5}\\) usa as diagonais certas, mas inverte a razão: calcula N sobre M em vez de M sobre N."
+    },
+    "tip": "Número de diagonais de um polígono de \\(n\\) lados: \\(\\tfrac{n(n-3)}{2}\\); e “razão entre M e N” é M dividido por N, nessa ordem."
+  }
+]

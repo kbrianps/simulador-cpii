@@ -1,0 +1,22 @@
+{
+  "id": "p2022",
+  "year": 2022,
+  "ingress_year": 2023,
+  "shift": null,
+  "title": "Prova 2022",
+  "edital": "Editais nº 31/2022 e nº 32/2022",
+  "applied_on": "2022-12-04",
+  "duration_min": 180,
+  "source_url": "https://dhui.cp2.g12.br/dhui_arquivos/ano_2022/certame_0371/oferta_0406/prova_1a_EM_R_diurno.pdf",
+  "answer_key_url": "https://www.cp2.g12.br/images/comunicacao/provasegabaritos/Prova_2023_gabaritos.pdf",
+  "answer_key_kind": "definitivo",
+  "notes": [
+    "Processo de Seleção e Classificação de Candidatos à Matrícula 2022/2023, 1ª série do Ensino Médio Regular. A prova transcrita é a do turno diurno (Edital nº 31/2022).",
+    "A versão do turno noturno (Edital nº 32/2022) é a mesma prova: mesmos textos, questões, figuras e proposta de redação, só muda o cabeçalho. O gabarito definitivo é único para os dois turnos.",
+    "Gabarito: página 1 do arquivo oficial de gabaritos (“EDITAIS 31 e 32/2022, ADMISSÃO A 1ª SÉRIE DO ENSINO MÉDIO REGULAR DIURNO E NOTURNO, GABARITO DEFINITIVO”); as demais páginas são dos cursos de Ensino Médio Integrado. Nenhuma questão foi anulada.",
+    "A prova não imprime data nem duração. O item 8.1 do Edital nº 31/2022 marca a aplicação para 4 de dezembro de 2022 (domingo), com duração de 3 horas; a mesma data aparece no cabeçalho do gabarito (“PROVA OBJETIVA – 04/12/2022”) e no comunicado da Comissão de Concursos de 05/12/2022 sobre a Redação.",
+    "O PDF oficial é uma digitalização sem camada de texto; a transcrição foi feita a partir das imagens das páginas.",
+    "No Texto II, a marca de supressão “[...]” aparece numa linha própria entre os versos 20 e 21 e não entra na numeração impressa; ela foi anexada ao fim do verso 20 (com quebra de linha) para manter a numeração das questões. A prova numera os versos 1, 5, 10, 15 etc.",
+    "Na Questão 4, o trecho citado aparece sem a vírgula depois de “menor” (o texto tem “problema menor, ou um problema insolúvel”), e a alternativa D cita “palavra de ordem nos corredores” (o texto diz “dos corredores”); ambos foram mantidos como impressos."
+  ]
+}

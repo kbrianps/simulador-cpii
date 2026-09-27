@@ -1,0 +1,273 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Nos últimos anos, ocorreu uma mudança no cenário nacional dos fluxos migratórios: o estado do Espírito Santo passou a ser um dos destinos de muitas pessoas, enquanto o Rio de Janeiro registrou uma queda na entrada de novos habitantes.</p><p>A tabela abaixo apresenta os quantitativos de pessoas que entraram e saíram dos estados do Rio de Janeiro e do Espírito Santo, no período de 2005 a 2010, segundo dados do IBGE.</p><p><b>FLUXO MIGRATÓRIO (2005 – 2010)</b></p><table><thead><tr><th>ESTADOS</th><th>ENTRADA</th><th>SAÍDA</th></tr></thead><tbody><tr><td>Rio de Janeiro</td><td>270.413</td><td>247.357</td></tr><tr><td>Espírito Santo</td><td>130.820</td><td>70.120</td></tr></tbody></table><p class=\"fonte\">Adaptado do Jornal “O GLOBO” de 04/09/2012</p><p>Dados do Censo 2010 indicam que a população do estado do Espírito Santo, naquele momento, era de aproximadamente 3,5 milhões de habitantes.</p><p>Considerando o fluxo migratório apresentado na tabela acima, a porcentagem do número de pessoas que efetivamente permaneceram no Espírito Santo é de aproximadamente</p>",
+    "options": {
+      "A": "4%",
+      "B": "3,7%",
+      "C": "2%",
+      "D": "1,7%"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo: quantas pessoas ficaram no Espírito Santo.</b> Pela tabela, entraram 130.820 pessoas e saíram 70.120. Quem efetivamente permaneceu é a diferença (o saldo):</p><p>\\[130.820 - 70.120 = 60.700\\]</p><p><b>2º passo: comparar com a população.</b> A população era de cerca de 3,5 milhões, ou seja, 3.500.000 habitantes. Sem calculadora, ache primeiro quanto vale 1% da população:</p><p>\\[1\\%\\ \\text{de}\\ 3.500.000 = 35.000\\]</p><p>Agora veja quantas vezes 35.000 cabe em 60.700:</p><ul><li>\\(1{,}7 \\cdot 35.000 = 59.500\\)</li><li>\\(1{,}8 \\cdot 35.000 = 63.000\\)</li></ul><p>60.700 fica entre os dois, bem mais perto de 59.500. A conta direta confirma: \\(\\frac{60.700}{3.500.000} \\approx 0{,}0173 = 1{,}73\\%\\).</p><p>O resultado é aproximadamente 1,7%. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É o arredondamento de 3,7%, a porcentagem das pessoas que <b>entraram</b>. Faltou descontar as 70.120 que saíram.",
+      "B": "É a porcentagem das pessoas que entraram: \\(130.820 \\div 3.500.000 \\approx 3{,}7\\%\\). A pergunta quer quem ficou, isto é, entrada menos saída.",
+      "C": "É a porcentagem das pessoas que <b>saíram</b>: \\(70.120 \\div 3.500.000 \\approx 2\\%\\). Quem permaneceu é a diferença entre entrada e saída."
+    },
+    "tip": "Quem “efetivamente permaneceu” é o saldo: entradas menos saídas; só depois divida pela população."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A comissão de formatura do 9º ano de uma escola contratou um <i>buffet</i> para realizar sua festa ao final do ano letivo. No contrato ficou estabelecido que o preço da festa para 100 convidados seria de 13.000 reais. Assim, o preço unitário do convite seria de 130 reais. Se o número de convidados fosse superior a 100, o preço unitário do convite teria um desconto, em reais, igual ao número de convidados excedentes. Sabe-se que o <i>buffet</i> recebeu 13.225 reais pela festa.</p><table><thead><tr><th>Convidados extras</th><th>Pessoas presentes</th><th>Valor do convite</th><th>Total recebido</th></tr></thead><tbody><tr><td>0</td><td>100</td><td>130</td><td>13.000</td></tr><tr><td>1</td><td>101</td><td>129</td><td>13.029</td></tr><tr><td>2</td><td>102</td><td>128</td><td>13.056</td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>\\(n\\)</td><td></td><td></td><td>13.225</td></tr></tbody></table><p>A equação do segundo grau que corresponda ao total recebido pelo buffet como pagamento pela festa é</p>",
+    "options": {
+      "A": "\\(n^2 + 30n + 225 = 0\\)",
+      "B": "\\(n^2 - 30n + 225 = 0\\)",
+      "C": "\\(n^2 + 30n - 225 = 0\\)",
+      "D": "\\(n^2 - 30n - 225 = 0\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Com \\(n\\) convidados extras:</p><ul><li>pessoas presentes: \\(100 + n\\);</li><li>valor de cada convite: \\(130 - n\\) reais (o desconto é igual ao número de convidados extras).</li></ul><p>Confira com a tabela: com 2 convidados extras são 102 pessoas pagando 128 reais cada, e \\(102 \\cdot 128 = 13.056\\). Certo.</p><p>O total recebido é (pessoas) \\(\\times\\) (valor do convite), e ele foi de 13.225 reais:</p><p>\\[(100 + n)(130 - n) = 13.225\\]</p><p>Aplicando a distributiva:</p><p>\\[13.000 - 100n + 130n - n^2 = 13.225\\]</p><p>\\[-n^2 + 30n + 13.000 - 13.225 = 0\\]</p><p>\\[-n^2 + 30n - 225 = 0\\]</p><p>Multiplicando tudo por \\(-1\\), o que troca o sinal de <b>todos</b> os termos:</p><p>\\[n^2 - 30n + 225 = 0\\]</p><p>Essa é a equação da alternativa B. Resposta: <b>B</b>.</p><p><b>Conferindo:</b> \\(n^2 - 30n + 225 = (n - 15)^2\\), então \\(n = 15\\). Foram 115 pessoas pagando \\(130 - 15 = 115\\) reais cada: \\(115 \\cdot 115 = 13.225\\). Bate com o enunciado.</p>",
+    "distractors": {
+      "A": "Sai de trocar os papéis, \\((100 - n)(130 + n)\\), como se o número de pessoas diminuísse e o preço subisse. Além disso, \\(n^2 + 30n + 225 = (n + 15)^2\\) só dá \\(n = -15\\), que não serve.",
+      "C": "Aparece quando, ao multiplicar \\(-n^2 + 30n - 225 = 0\\) por \\(-1\\), só o sinal de \\(n^2\\) é trocado. Todos os termos precisam mudar de sinal.",
+      "D": "Aparece quando se troca o sinal de \\(n^2\\) e de \\(30n\\), mas se esquece o \\(-225\\). Com essa equação, \\(n\\) nem sairia inteiro, e número de convidados tem de ser inteiro."
+    },
+    "tip": "Ao multiplicar uma equação por \\(-1\\), troque o sinal de todos os termos e confira a resposta voltando à situação do problema."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A 30ª edição dos Jogos Olímpicos da era moderna foi realizada este ano em Londres. Ela contou com a participação de atletas de 205 países, distribuídos por 36 modalidades esportivas. A Rússia terminou em 4º lugar no quadro de medalhas, tendo conquistado 26 medalhas de prata.<br>Além disso:</p><ul><li>O número de medalhas de ouro conquistadas pela Rússia corresponde a \\(\\dfrac{3}{4}\\) do número de medalhas de bronze;</li><li>A Rússia obteve 8 medalhas de bronze a mais que as de ouro.</li></ul><p>Considere as medalhas conquistadas pela Rússia nesta olimpíada e sejam <b>x</b>, a quantidade de medalhas de ouro, e <b>y</b>, a quantidade de medalhas de bronze.</p><p>O total de medalhas conquistadas pela Rússia é de</p>",
+    "options": {
+      "A": "82",
+      "B": "56",
+      "C": "32",
+      "D": "24"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Sejam \\(x\\) as medalhas de ouro e \\(y\\) as de bronze. O enunciado dá duas informações:</p><p>\\[x = \\frac{3}{4}\\,y \\qquad \\text{e} \\qquad y = x + 8\\]</p><p>Substituindo \\(x\\) na segunda equação:</p><p>\\[y = \\frac{3}{4}\\,y + 8 \\;\\Rightarrow\\; y - \\frac{3}{4}\\,y = 8 \\;\\Rightarrow\\; \\frac{1}{4}\\,y = 8 \\;\\Rightarrow\\; y = 32\\]</p><p>Então \\(x = 32 - 8 = 24\\). Confira: \\(\\frac{3}{4}\\) de 32 é 24. Certo.</p><p>O total inclui também as 26 medalhas de prata:</p><p>\\[24 + 26 + 32 = 82\\]</p><p>Resposta: <b>A</b>.</p><p><b>Raciocínio rápido:</b> se o ouro é \\(\\frac{3}{4}\\) do bronze, a diferença de 8 medalhas corresponde a \\(\\frac{1}{4}\\) do bronze. Logo o bronze é \\(4 \\cdot 8 = 32\\).</p>",
+    "distractors": {
+      "B": "\\(24 + 32 = 56\\): somou só ouro e bronze e esqueceu as 26 medalhas de prata.",
+      "C": "32 é só o número de medalhas de bronze (\\(y\\)), não o total de medalhas.",
+      "D": "24 é só o número de medalhas de ouro (\\(x\\)), não o total de medalhas."
+    },
+    "tip": "Depois de resolver o sistema, releia a pergunta: ela pode pedir algo além de \\(x\\) e \\(y\\), como o total com as pratas."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe a sequência de figuras abaixo. Cada uma é formada por quadrados iguais que se sobrepõem parcialmente, tendo os pontos médios de seus lados como pontos de interseção.</p><p><img src=\"img/f2013/mat-q04.png\" alt=\"Quatro figuras lado a lado, formadas por quadrados cinza iguais enfileirados na diagonal, descendo da esquerda para a direita. Cada quadrado se sobrepõe ao seguinte: os lados de um cortam os lados do outro nos pontos médios, de modo que a parte sobreposta é um quadradinho com metade do lado do quadrado (um quarto da área dele). Figura 1: 2 quadrados. Figura 2: 3 quadrados. Figura 3: 4 quadrados. Figura 4: 5 quadrados.\"></p><p>A tabela a seguir indica a área de cada uma das figuras acima.</p><table><tbody><tr><th>Figura</th><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><th>Área (cm<sup>2</sup>)</th><td>28</td><td>40</td><td>52</td><td>64</td></tr></tbody></table><p>Supondo que o padrão de formação das figuras se mantenha, a fórmula que representa a área da figura \\(n\\) é</p>",
+    "options": {
+      "A": "\\(12n + 4\\)",
+      "B": "\\(14n + 6\\)",
+      "C": "\\(14n + 4\\)",
+      "D": "\\(12n + 6\\)"
+    },
+    "answer": null,
+    "annulled": true,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Por que está anulada?</b> Nenhuma alternativa reproduz as áreas da tabela: a fórmula correta é \\(12n + 16\\), e ela não aparece entre as opções. Como o CP2 Digital não publicou gabarito, foi a equipe do simulador que considerou a questão anulada. Mesmo assim, ela é um ótimo treino de sequências.</p><p><b>Área de cada quadrado.</b> Como os quadrados se cruzam nos pontos médios dos lados, a parte sobreposta é um quadradinho com metade do lado, ou seja, \\(\\frac{1}{4}\\) da área de um quadrado. Chamando a área de um quadrado de \\(Q\\), a Figura 1 (2 quadrados e 1 sobreposição) tem área</p><p>\\[2Q - \\frac{Q}{4} = \\frac{7Q}{4} = 28 \\;\\Rightarrow\\; Q = 16\\ \\text{cm}^2\\]</p><p>Cada quadrado tem lado 4 cm, e cada sobreposição tem 4 cm².</p><p><b>O padrão.</b> Cada figura nova ganha um quadrado (16 cm²) e uma sobreposição (4 cm² que não podem ser contados duas vezes), então a área cresce \\(16 - 4 = 12\\) cm². A tabela confirma: 28, 40, 52, 64 aumentam de 12 em 12.</p><p><b>A fórmula.</b> Partindo de 28 na Figura 1 e somando 12 a cada figura:</p><p>\\[A(n) = 28 + 12(n - 1) = 12n + 16\\]</p><p>Teste: \\(n = 1\\) dá 28 e \\(n = 4\\) dá \\(48 + 16 = 64\\). Certo.</p><p><b>As alternativas.</b> Troque \\(n\\) por 1 em cada uma:</p><ul><li>A: \\(12 \\cdot 1 + 4 = 16\\);</li><li>B: \\(14 \\cdot 1 + 6 = 20\\);</li><li>C: \\(14 \\cdot 1 + 4 = 18\\);</li><li>D: \\(12 \\cdot 1 + 6 = 18\\).</li></ul><p>Nenhuma dá 28. A alternativa A (\\(12n + 4\\)) só funcionaria se \\(n\\) fosse o <b>número de quadrados</b> da figura (a Figura 1 tem 2 quadrados: \\(12 \\cdot 2 + 4 = 28\\)), mas o enunciado diz que \\(n\\) é o número da figura. Provavelmente a resposta esperada era A, e o deslize aconteceu na adaptação da questão.</p>",
+    "distractors": {
+      "A": "Dá 16, 28, 40 e 52 para as figuras 1 a 4, sempre uma figura atrasada. Só estaria certa se \\(n\\) fosse o número de quadrados da figura, e não o número da figura.",
+      "B": "Cresce de 14 em 14, mas a tabela cresce de 12 em 12; para a Figura 1 dá 20, e não 28.",
+      "C": "Também cresce de 14 em 14 e dá 18 para a Figura 1, longe dos 28 da tabela.",
+      "D": "Tem o crescimento certo (12 por figura), mas o termo fixo errado: dá 18 para a Figura 1. O termo fixo teria de ser \\(28 - 12 = 16\\)."
+    },
+    "tip": "Se a sequência cresce sempre o mesmo valor \\(r\\), a fórmula é \\(r \\cdot n + (\\text{primeiro termo} - r)\\); teste sempre com \\(n = 1\\) antes de marcar."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Desde fevereiro de 2012, a cidade do Rio de Janeiro convive com a sua primeira ponte <i>estaiada</i>, chamada de <b>Ponte do Saber</b>. Ela é sustentada por 21 <i>estais</i> (cabos) não distribuídos uniformemente. São 15 frontais em formato de leque-harpa e 6 de retaguarda. Os cabos estão atrelados a um só <i>pilone</i> (mastro) de 96 metros de altura.</p><p class=\"fonte\">Fonte: www.planetacoppe.ufrj.br</p><p><img src=\"img/f2013/mat-q05.png\" alt=\"Foto aérea da Ponte do Saber: um único mastro inclinado (o pilone) sustenta vários cabos (os estais), que descem até o tabuleiro da ponte; a ponte faz uma curva sobre o rio e, ao fundo, aparecem outra via elevada e a cidade. Sobre a foto foi desenhado um triângulo retângulo APS: P é um ponto do mastro onde um cabo está preso; S fica na base da ponte, logo abaixo de P, de modo que PS é vertical, ao longo do mastro; A é a outra extremidade do cabo, presa à base da ponte. O lado AP é o cabo, o lado AS está na base da ponte e o ângulo reto fica em S.\"></p><p>Considere na figura o ângulo de vértice em A formado pelo cabo de extremidades A e P e a base da ponte. Suponha que PS mede aproximadamente 36 metros e a medida do ângulo PAS seja 65º. O comprimento em metros do cabo AP mede</p><p>(Dados: sen 65 = 0,9; cos 65 = 0,42 e tg 65 = 2,14)</p>",
+    "options": {
+      "A": "85,7",
+      "B": "40",
+      "C": "16,8",
+      "D": "16"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No triângulo APS o ângulo reto está em S. Olhando a partir do ângulo de 65° em A:</p><ul><li>PS = 36 m é o <b>cateto oposto</b> (fica em frente ao ângulo A);</li><li>AS, na base da ponte, é o <b>cateto adjacente</b>;</li><li>AP, o cabo, é a <b>hipotenusa</b> (fica em frente ao ângulo reto).</li></ul><p>A razão que liga cateto oposto e hipotenusa é o seno:</p><p>\\[\\text{sen}\\,65^\\circ = \\frac{PS}{AP} \\;\\Rightarrow\\; 0{,}9 = \\frac{36}{AP} \\;\\Rightarrow\\; AP = \\frac{36}{0{,}9} = \\frac{360}{9} = 40\\]</p><p>O cabo mede 40 m. Resposta: <b>B</b>.</p><p><b>Conferindo:</b> a hipotenusa é o maior lado do triângulo retângulo, então AP tem de ser maior que PS = 36 m. Isso já elimina 16,8 e 16.</p>",
+    "distractors": {
+      "A": "\\(36 \\div 0{,}42 \\approx 85{,}7\\): usou o cosseno, que relaciona o cateto <b>adjacente</b> (AS) com a hipotenusa, e não o cateto oposto PS.",
+      "C": "\\(36 \\div 2{,}14 \\approx 16{,}8\\): usou a tangente e encontrou o cateto AS, na base da ponte, e não o cabo. A hipotenusa nunca é menor que o cateto de 36 m.",
+      "D": "É menor que 36 m, e o cabo é a hipotenusa, o maior lado do triângulo retângulo. Parece a medida de AS (cerca de 16,8 m) arredondada para baixo."
+    },
+    "tip": "Primeiro identifique oposto, adjacente e hipotenusa: seno usa oposto e hipotenusa, cosseno usa adjacente e hipotenusa, tangente usa oposto e adjacente."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um dos esportes que mais tem atraído o público nos últimos anos é o MMA, em que as lutas são disputadas dentro de um ringue com a forma de um octógono regular. Segundo seu criador, Rorion Gracie, um dos fatores que levou à escolha deste formato de ringue foi o fato de seus ângulos internos evitarem que os lutadores fiquem presos nos cantos.</p><p><img src=\"img/f2013/mat-q06.png\" alt=\"Ilustração de um ringue de MMA: uma plataforma cinza com a forma de um octógono regular, cercada por uma grade de tela de oito lados iguais, com postes pretos nos oito cantos.\"></p><p class=\"fonte\">http://ec.1.thumbs.canstockphoto.com/canstock6607318.jpg acessado em 8 - Nov - 2012</p><p>A medida de cada um dos ângulos internos de um octógono regular é</p>",
+    "options": {
+      "A": "135º",
+      "B": "125º",
+      "C": "120º",
+      "D": "105º"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Soma dos ângulos internos.</b> A partir de um vértice, um polígono de \\(n\\) lados pode ser dividido em \\(n - 2\\) triângulos, e cada triângulo tem 180°. Para o octógono, \\(n = 8\\):</p><p>\\[S = (8 - 2) \\cdot 180^\\circ = 6 \\cdot 180^\\circ = 1080^\\circ\\]</p><p>Como o octógono é regular, os 8 ângulos internos são iguais:</p><p>\\[\\frac{1080^\\circ}{8} = 135^\\circ\\]</p><p><b>Outro caminho:</b> os ângulos externos de qualquer polígono convexo somam 360°. No octógono regular, cada externo mede \\(360^\\circ \\div 8 = 45^\\circ\\), e cada interno mede \\(180^\\circ - 45^\\circ = 135^\\circ\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "125° não é ângulo interno de nenhum polígono regular: o ângulo externo seria 55°, e 360 não é divisível por 55.",
+      "C": "120° é o ângulo interno do hexágono regular (6 lados): \\(720^\\circ \\div 6\\). O octógono tem 8 lados.",
+      "D": "105° não é ângulo interno de nenhum polígono regular: o ângulo externo seria 75°, e 360 não é divisível por 75."
+    },
+    "tip": "Ângulo interno do polígono regular de \\(n\\) lados: \\(\\frac{(n-2) \\cdot 180^\\circ}{n}\\), ou então \\(180^\\circ - \\frac{360^\\circ}{n}\\)."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p><i>(Esta questão continua a anterior: o octógono é o do ringue de MMA, que é regular.)</i></p><p>Qualquer octógono pode ser dividido em dois trapézios e um retângulo, conforme a figura abaixo.</p><p><img src=\"img/f2013/mat-q07.png\" alt=\"Octógono ABCDEFGH. O lado AB fica no alto, na horizontal; seguindo no sentido horário, BC desce inclinado até C, CD é vertical à direita, DE desce inclinado até E, EF é horizontal embaixo, FG sobe inclinado até G, GH é vertical à esquerda e HA sobe inclinado até A. Os segmentos horizontais HC e GD dividem o octógono em três partes: o trapézio ABCH em cima, o retângulo HCDG no meio e o trapézio GDEF embaixo.\"></p><p>Sabendo que cada lado mede aproximadamente 4 metros, o valor aproximado da área interna desse octógono, em metros quadrados é de:</p><p>OBS: use a aproximação da raiz quadrada de 2 = 1,4</p>",
+    "options": {
+      "A": "76,8",
+      "B": "76,4",
+      "C": "76,04",
+      "D": "76,08"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O ringue é um octógono regular de lado 4 m, e cada ângulo interno mede 135° (questão anterior).</p><p><b>1º passo: os cantos.</b> No vértice H, o ângulo interno de 135° é dividido pela horizontal HC em 90° (para baixo, até G) e 45° (para cima, até A). Baixando uma perpendicular de A até HC, forma-se um triângulo retângulo isósceles (ângulos de 45°) cuja hipotenusa é o lado HA = 4 m. Chamando cada cateto de \\(x\\), pelo Teorema de Pitágoras:</p><p>\\[x^2 + x^2 = 4^2 \\;\\Rightarrow\\; 2x^2 = 16 \\;\\Rightarrow\\; x^2 = 8 \\;\\Rightarrow\\; x = 2\\sqrt{2}\\]</p><p><b>2º passo: medidas das partes.</b></p><ul><li>Base maior dos trapézios e comprimento do retângulo: \\(HC = x + 4 + x = 4 + 4\\sqrt{2}\\);</li><li>altura de cada trapézio: \\(x = 2\\sqrt{2}\\);</li><li>altura do retângulo: \\(CD = 4\\).</li></ul><p><b>3º passo: as áreas, guardando a raiz até o fim.</b></p><p>\\[\\text{Retângulo: } 4 \\cdot (4 + 4\\sqrt{2}) = 16 + 16\\sqrt{2}\\]</p><p>\\[\\text{Um trapézio: } \\frac{(4 + 4 + 4\\sqrt{2}) \\cdot 2\\sqrt{2}}{2} = (4 + 2\\sqrt{2}) \\cdot 2\\sqrt{2} = 8\\sqrt{2} + 8\\]</p><p>\\[\\text{Dois trapézios: } 16 + 16\\sqrt{2}\\]</p><p>\\[\\text{Octógono: } (16 + 16\\sqrt{2}) + (16 + 16\\sqrt{2}) = 32 + 32\\sqrt{2}\\]</p><p><b>4º passo: só agora use \\(\\sqrt{2} \\approx 1{,}4\\).</b></p><p>\\[32 + 32 \\cdot 1{,}4 = 32 + 44{,}8 = 76{,}8\\ \\text{m}^2\\]</p><p>Resposta: <b>A</b>.</p><p><b>Atenção:</b> se você trocar \\(x\\) por 2,8 logo no começo, as contas dão \\(38{,}4 + 2 \\cdot 19{,}04 = 76{,}48\\), que não está entre as alternativas. A diferença vem do arredondamento: \\(2{,}8^2 = 7{,}84\\), e não 8. Por isso a aproximação de \\(\\sqrt{2}\\) deve entrar só no final.</p>",
+    "distractors": {
+      "B": "Pode aparecer quando se arredonda a raiz cedo (cateto 2,8): chega-se a 76,48 e depois se corta o último algarismo. Com a raiz guardada até o fim, a área é \\(32 + 32\\sqrt{2} \\approx 76{,}8\\).",
+      "C": "Não sai de nenhuma conta correta. Com a raiz guardada até o fim, a parte decimal é 0,8 (de \\(32 \\cdot 1{,}4 = 44{,}8\\)); 76,04 só aparece com algum erro nas casas decimais.",
+      "D": "Erro de vírgula na multiplicação: \\(32 \\cdot 1{,}4 = 44{,}8\\), e não 44,08. Com 44,08 a soma daria 76,08."
+    },
+    "tip": "Deixe \\(\\sqrt{2}\\) nas contas e só troque pela aproximação no último passo: arredondar no meio muda o resultado."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na construção da barragem da <i>Usina Hidrelétrica de Tucuruí</i>, o projeto previa a construção de duas eclusas com dimensões internas de 210 x 33 metros cada uma, vencendo cerca de 35 metros de desnível.</p><p class=\"fonte\">Fonte: pt.wikipédia.org</p><p><img src=\"img/f2013/mat-q08.png\" alt=\"Ilustração em perspectiva de uma eclusa: um canal comprido e estreito, com a forma de um bloco retangular, entre dois altos muros de concreto, com uma grande estrutura de comportas na parte da frente e um pórtico no fundo, cercado por terreno.\"></p><p class=\"fonte\">Fonte: http://4.bp.blogspot.com/..../eclusas%2B1.jpg</p><p>Considerando que o formato das eclusas se assemelha a um bloco retangular, o volume de água, em litros, necessário para que as duas eclusas fiquem, cada uma, com o nível d´água de 35 metros é de</p><p>(Dados: 1 metro cúbico = 1000 litros)</p>",
+    "options": {
+      "A": "242",
+      "B": "242,5",
+      "C": "485",
+      "D": "485,1"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada eclusa é um bloco retangular de 210 m por 33 m, com água até 35 m de altura. O volume de uma eclusa é</p><p>\\[V = 210 \\cdot 33 \\cdot 35\\]</p><p>Sem calculadora, por partes:</p><ul><li>\\(210 \\cdot 33 = 6.930\\)</li><li>\\(6.930 \\cdot 35 = 6.930 \\cdot 30 + 6.930 \\cdot 5 = 207.900 + 34.650 = 242.550\\ \\text{m}^3\\)</li></ul><p>São duas eclusas: \\(2 \\cdot 242.550 = 485.100\\ \\text{m}^3\\).</p><p>Em litros (1 m³ = 1000 L):</p><p>\\[485.100 \\cdot 1000 = 485.100.000\\ \\text{litros} = 485{,}1\\ \\text{milhões de litros}\\]</p><p>As alternativas foram escritas sem a palavra “milhões”: o número que corresponde exatamente ao volume das duas eclusas é 485,1. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "242 é o volume de <b>uma</b> só eclusa (242,55 milhões de litros), ainda por cima arredondado. O enunciado pede as duas.",
+      "B": "242,5 corresponde a uma eclusa só (242,55 milhões de litros): faltou multiplicar por 2.",
+      "C": "485 é o volume das duas eclusas arredondado, perdendo 0,1 milhão (100 mil litros). A conta exata dá 485,1 milhões de litros."
+    },
+    "tip": "Volume do bloco retangular = comprimento × largura × altura; depois converta com 1 m³ = 1000 L e releia quantos blocos o problema pede."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Os tecidos ecológicos estão na moda: algodão colorido, PET e fibra de bambu viraram insumos da indústria têxtil:</p><p>As fibras de poliéster oriundas de garrafas PET são um destaque no ramo desses tecidos. Em 2011, foram recicladas 294 mil toneladas de garrafas PET, sendo 40% revertidos para a indústria têxtil. Do total destinado a essa indústria, 30% são utilizados na fabricação de malhas para vestuário, além de roupas de cama, mesa e banho.</p><p class=\"fonte\">Fonte: Jornal O Globo Amanhã 18/09/2012 - Adaptado</p><p>O total de toneladas de garrafas PET recicladas utilizadas, em 2011, na fabricação de malhas para o vestuário e roupas de cama, mesa e banho foi de</p>",
+    "options": {
+      "A": "35,28",
+      "B": "35,3",
+      "C": "35.280",
+      "D": "35 300"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> 40% das 294 mil toneladas foram para a indústria têxtil:</p><p>\\[0{,}4 \\cdot 294.000 = 117.600\\ \\text{toneladas}\\]</p><p><b>2º passo:</b> 30% disso foi usado em malhas e roupas de cama, mesa e banho:</p><p>\\[0{,}3 \\cdot 117.600 = 35.280\\ \\text{toneladas}\\]</p><p><b>Atalho:</b> 30% de 40% é \\(0{,}3 \\cdot 0{,}4 = 0{,}12 = 12\\%\\) do total, e 12% de 294.000 é 35.280.</p><p>A pergunta pede o total em toneladas, e 294 mil toneladas são 294.000 toneladas. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "35,28 é o resultado em <b>mil</b> toneladas (\\(0{,}12 \\cdot 294 = 35{,}28\\)). Faltou lembrar que eram 294 <b>mil</b> toneladas.",
+      "B": "É o 35,28 (em mil toneladas) arredondado: além de esquecer o “mil”, arredondou um valor que é exato.",
+      "D": "35 300 é um arredondamento de 35.280. A conta é exata e dá 35.280 toneladas."
+    },
+    "tip": "Porcentagem de porcentagem se multiplica: 30% de 40% é \\(0{,}3 \\cdot 0{,}4 = 12\\%\\) do total."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Segundo a Associação Brasileira da Indústria de PET (ABIPET), são necessárias 2 garrafas PET de 2 litros para confeccionar uma camiseta. Sabe-se que o peso de 20 dessas garrafas corresponde a 1 kg. Uma confecção recebe 8 toneladas de garrafas PET de 2 litros. Com essa quantidade de garrafas PET o número camisetas produzidas será de</p>",
+    "options": {
+      "A": "800",
+      "B": "8 000",
+      "C": "16 000",
+      "D": "80 000"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "resolvido",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo: toneladas em quilogramas.</b> 1 t = 1000 kg, então 8 t = 8.000 kg.</p><p><b>2º passo: número de garrafas.</b> Cada quilograma corresponde a 20 garrafas:</p><p>\\[8.000 \\cdot 20 = 160.000\\ \\text{garrafas}\\]</p><p><b>3º passo: número de camisetas.</b> Cada camiseta usa 2 garrafas:</p><p>\\[160.000 \\div 2 = 80.000\\ \\text{camisetas}\\]</p><p><b>Atalho:</b> 1 kg tem 20 garrafas, que fazem 10 camisetas. Então \\(8.000 \\cdot 10 = 80.000\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Inverteu as duas relações: dividiu 8.000 kg por 20 (400) e multiplicou por 2. O certo é multiplicar por 20 (garrafas) e dividir por 2 (camisetas).",
+      "B": "Aparece ao converter 8 t em 800 kg (\\(800 \\cdot 20 \\div 2 = 8.000\\)). Lembre que 1 t = 1000 kg.",
+      "C": "É \\(8.000 \\cdot 2\\): usou o 2 (garrafas por camiseta) no lugar das 20 garrafas por quilograma. Primeiro conte as garrafas, depois divida por 2."
+    },
+    "tip": "Converta as unidades primeiro (1 t = 1000 kg) e siga a cadeia: massa, garrafas, camisetas."
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No primeiro parágrafo do Texto I, o autor compara suas impressões sobre os estudantes da Universidade Eduardo Mondlane com as impressões que os seus colegas professores tinham desses mesmos estudantes.</p><p>Em relação às impressões dos outros professores, é correto afirmar que o autor</p>",
+    "options": {
+      "A": "concorda com eles, pois todos consideravam os alunos despreparados.",
+      "B": "discorda deles, pois o autor considerava os jovens distanciados do seu país.",
+      "C": "concorda com eles, pois todos consideravam os jovens estrangeiros na própria nação.",
+      "D": "discorda deles, pois o autor considerava os alunos parecidos com exploradores coloniais."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Releia o começo do texto (linhas 2 a 4): “Os meus colegas professores queixavam-se da progressiva falta de preparação dos estudantes. Eu notava algo que, para mim, era ainda mais grave: uma cada vez maior distanciação desses jovens em relação ao seu próprio país.”</p><p>Há duas impressões diferentes aí:</p><ul><li>os colegas reclamavam da <b>falta de preparação</b> dos alunos;</li><li>o autor chamava atenção para outra coisa, o <b>distanciamento</b> dos jovens em relação ao próprio país.</li></ul><p>A frase “Eu notava algo que, para mim, era ainda mais grave” mostra que o olhar do autor não é o mesmo dos colegas: ele não repete a queixa deles, e sim aponta um problema diferente. É essa diferença de visão que a banca chama de “discordar”. Além disso, a justificativa da alternativa B (o autor considerava os jovens “distanciados do seu país”) resume a linha 4: “uma cada vez maior distanciação desses jovens em relação ao seu próprio país”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A falta de preparo é a queixa dos colegas (linhas 2-3). O autor não se junta a ela: diz que notava “algo” diferente e mais grave, o afastamento dos jovens em relação ao próprio país.",
+      "C": "A ideia de que os jovens se sentiam estrangeiros na própria terra é só do autor (linhas 5-7); os colegas apenas reclamavam da preparação. Por isso “todos consideravam” está errado.",
+      "D": "O texto diz apenas que “Alguns sofriam dos mesmos fantasmas dos exploradores coloniais” (linhas 8-9), isto é, alguns alunos tinham os mesmos medos que eles; não diz que os alunos eram parecidos com os exploradores. Além disso, esse trecho está no segundo parágrafo, e não no primeiro, onde o autor compara sua visão com a dos colegas."
+    },
+    "tip": "Quando o texto opõe “eles diziam isso” a “eu notava aquilo”, compare os dois pontos de vista: é na diferença que aparece a posição do autor."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Ainda no primeiro parágrafo do Texto I, Mia Couto apresenta sua tese a respeito do comportamento dos jovens para os quais dava aula.</p><p>Em relação a esse posicionamento, o segundo parágrafo cumpre a função de</p>",
+    "options": {
+      "A": "identificar a causa do comportamento observado.",
+      "B": "oferecer um exemplo do comportamento observado.",
+      "C": "fazer uma comparação em relação ao comportamento observado.",
+      "D": "apresentar uma circunstância oposta ao comportamento observado."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No primeiro parágrafo, a tese do autor é que os jovens estão cada vez mais distantes “em relação ao seu próprio país” (linha 4). É uma afirmação geral.</p><p>O segundo parágrafo (linhas 5 a 9) mostra essa ideia <b>acontecendo na prática</b>, numa situação concreta: quando os alunos saíam de Maputo em trabalhos de campo, “comportavam-se como se estivessem emigrando para um universo estranho e adverso” (linhas 6-7). Depois vêm os detalhes: “não sabiam as línguas, desconheciam os códigos culturais, sentiam-se deslocados” (linhas 7-8).</p><p>Ou seja, o parágrafo não explica por que isso acontece nem traz algo contrário: ele <b>exemplifica</b> o comportamento que o autor tinha observado. Apresentar uma tese e em seguida ilustrá-la com um caso concreto é uma estratégia argumentativa muito comum.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O parágrafo mostra como os jovens se comportavam, mas não diz por que eles se afastaram do país. Uma reflexão sobre a origem do problema só aparece no último parágrafo, com as “cidadanias diversas” (linhas 16-17).",
+      "C": "Há comparações dentro do parágrafo (“como se estivessem emigrando”, “os mesmos fantasmas dos exploradores coloniais”), mas elas servem para descrever o exemplo. A função do parágrafo em relação à tese não é comparar, e sim ilustrar.",
+      "D": "Nada no parágrafo contradiz a tese: tudo o que ele relata confirma o afastamento dos jovens. Não há nenhuma circunstância oposta."
+    },
+    "tip": "Para descobrir a função de um parágrafo, pergunte o que ele faz com a ideia anterior: explica a causa, dá um exemplo, compara ou contraria?"
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia o seguinte trecho do Texto I:</p><p><i>“Quando eles saíam de Maputo em trabalhos de campo, esses jovens comportavam-se como se estivessem emigrando para um universo estranho e adverso. <b><u>Eles não sabiam as línguas, desconheciam os códigos culturais, sentiam-se deslocados e com saudades de Maputo</u></b>.”</i> (linhas 7 - 8)</p><p>Uma reescrita coerente com a relação mantida entre os dois períodos do trecho destacado pode ser encontrada em</p>",
+    "options": {
+      "A": "[...] à medida que eles não sabiam as línguas, desconheciam os códigos culturais, sentiam-se deslocados e com saudades de Maputo.",
+      "B": "[...] apesar de eles não saberem as línguas, desconhecerem os códigos culturais, sentirem-se deslocados e com saudades de Maputo.",
+      "C": "[...] uma vez que eles não sabiam as línguas, desconheciam os códigos culturais, sentiam-se deslocados e com saudades de Maputo.",
+      "D": "[...] caso eles não soubessem as línguas, desconhecessem os códigos culturais, sentissem-se deslocados e com saudades de Maputo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, descubra a relação entre os dois períodos:</p><ul><li>1º período: os jovens “comportavam-se como se estivessem emigrando para um universo estranho e adverso” (linhas 6-7);</li><li>2º período (destacado): “Eles não sabiam as línguas, desconheciam os códigos culturais, sentiam-se deslocados e com saudades de Maputo” (linhas 7-8).</li></ul><p>O segundo período <b>explica o motivo</b> do primeiro: eles agiam como estrangeiros <i>porque</i> não conheciam as línguas nem os códigos culturais. A relação é de <b>causa</b>.</p><p>Agora procure o conectivo que expressa causa. “Uma vez que” equivale a “porque”, “já que”, “visto que”. Teste: “esses jovens comportavam-se como se estivessem emigrando [...] uma vez que não sabiam as línguas”. O sentido se mantém.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“À medida que” indica proporção (uma coisa cresce junto com a outra), como em “à medida que estudava, aprendia mais”. O trecho não fala de algo que aumenta aos poucos, e sim do motivo do estranhamento.",
+      "B": "“Apesar de” indica concessão, uma ideia que deveria impedir a outra. Ficaria sem lógica: eles se sentiam estrangeiros apesar de não saberem as línguas? Na verdade, é justamente por não saberem que se sentiam assim.",
+      "D": "“Caso” indica condição, uma hipótese. O texto relata fatos que aconteciam (não sabiam, desconheciam), e não uma possibilidade."
+    },
+    "tip": "Antes de escolher o conectivo de uma reescrita, descubra a relação de sentido entre as frases: causa, concessão, condição ou proporção."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O texto de Mia Couto se encerra com uma frase que sintetiza suas ideias: “<i>Essa gente parece condenada a não ter <b><u>rosto</u></b> e falar pela voz dos outros.</i>” (linha 21)</p><p>Nesse excerto, o vocábulo destacado deve ser entendido em sentido</p>",
+    "options": {
+      "A": "denotativo, pois se refere à anatomia.",
+      "B": "denotativo, pois se refere à identidade cultural.",
+      "C": "conotativo, pois se refere à anatomia.",
+      "D": "conotativo, pois se refere à identidade cultural."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Relembre a diferença:</p><ul><li><b>sentido denotativo</b>: o sentido literal, de dicionário (rosto = parte da frente da cabeça);</li><li><b>sentido conotativo</b>: o sentido figurado, que depende do contexto.</li></ul><p>A frase fala dos moradores das zonas rurais, descritos logo antes como “uma espécie de imagem desfocada do retrato nacional” (linhas 20-21). É claro que essas pessoas têm rosto de verdade; o que lhes falta é ser vistas e reconhecidas, ter uma identidade própria dentro do país. Do mesmo modo, “falar pela voz de outros” (linha 21) quer dizer não ter voz própria, ser representado por outras pessoas.</p><p>Portanto, “rosto” está em sentido <b>conotativo</b> e se refere à <b>identidade cultural</b>.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Se o sentido fosse denotativo, o autor estaria dizendo que os moradores rurais não têm, literalmente, a parte da frente da cabeça, o que não faz sentido.",
+      "B": "A referência à identidade cultural está certa, mas ela só existe no sentido figurado. Denotativo é o sentido literal, que aqui seria o rosto como parte do corpo.",
+      "C": "Conotativo está certo, mas o sentido figurado vai além do corpo: “rosto” não fala de anatomia, e sim de identidade e reconhecimento."
+    },
+    "tip": "Se o sentido literal da palavra deixa a frase absurda (gente sem rosto), ela está em sentido conotativo, isto é, figurado."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A repetição do verso inicial “<i>O meu lugar</i>”, nas quatro primeiras estrofes do texto, tem por finalidade</p>",
+    "options": {
+      "A": "apresentar a cultura popular da região ao leitor.",
+      "B": "mostrar a origem do samba e dos mitos do lugar.",
+      "C": "destacar a sonoridade presente na palavra Madureira.",
+      "D": "enfatizar a experiência de pertencimento do eu lírico."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O verso “O meu lugar” abre as quatro primeiras estrofes (versos 1, 5, 9 e 13). Essa repetição no início de versos ou estrofes se chama <b>anáfora</b> e serve para destacar uma ideia.</p><p>Repare no possessivo <b>meu</b>: o eu lírico não fala de um lugar qualquer, mas do lugar a que ele pertence. Depois de cada repetição, ele diz o que esse lugar é ou tem para ele: “é caminho de Ogum e Iansã” (v. 2), “é cercado de luta e suor” (v. 6), “tem seus mitos e seres de luz” (v. 10), “é sorriso, é paz e prazer” (v. 14).</p><p>A cada retorno do verso, reforça-se o laço afetivo entre o eu lírico e Madureira, isto é, o seu <b>pertencimento</b> àquele lugar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A letra cita elementos da cultura popular (samba, jongo, orixás), mas isso é feito pelos versos que vêm depois. A repetição de “O meu lugar” destaca o vínculo pessoal (“meu”), não apresenta a região ao leitor.",
+      "B": "A letra não conta a origem do samba nem dos mitos; apenas diz que “lá tem samba” (v. 3) e que o lugar “tem seus mitos” (v. 10).",
+      "C": "O verso repetido é “O meu lugar”, e não o nome Madureira, que só aparece nos versos 16 e 32. A repetição não trata da sonoridade dessa palavra."
+    },
+    "tip": "Quando um verso se repete no início das estrofes (anáfora), pergunte qual ideia o poeta quer reforçar: aqui, o “meu” mostra pertencimento."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>No Texto I, do escritor Mia Couto, e no Texto II, do compositor Arlindo Cruz, o lugar é apresentado como espaço definidor de identidade cultural.</p><p>Quanto às representações de Moçambique e Madureira, é correto afirmar que ambas</p>",
+    "options": {
+      "A": "anulam-se, pois não se pode comparar o pertencimento cultural entre locais de países diferentes.",
+      "B": "complementam-se, uma vez que o sentimento de pertencimento a esses locais é o mesmo.",
+      "C": "diferenciam-se, porque só no texto 2 há pleno sentimento de pertencimento cultural.",
+      "D": "assemelham-se, pois a relação entre identidade e pertencimento cultural é a mesma."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare como cada texto mostra a relação das pessoas com o seu lugar.</p><p><b>Texto I (Moçambique):</b> os jovens não se sentem parte do próprio país. Eles “não se reconheciam como herdeiros desse patrimônio” (linhas 11-12), “não gostavam desta outra nação” (linha 12) e até “sentiam vergonha de a ela estarem ligados” (linha 13). Já os moradores rurais são “uma espécie de imagem desfocada do retrato nacional” (linhas 20-21). O pertencimento está rompido.</p><p><b>Texto II (Madureira):</b> o eu lírico celebra o seu bairro com carinho: “o seu nome é doce dizer” (v. 15), “que é eterno no meu coração” (v. 22). Aqui o pertencimento é pleno.</p><p>Os textos, portanto, se <b>diferenciam</b>: só no Texto II existe um sentimento pleno de pertencimento cultural.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Nada impede comparar lugares de países diferentes; a própria questão faz isso. As representações não se anulam, apenas mostram relações diferentes com o lugar.",
+      "B": "A justificativa está errada: o sentimento de pertencimento não é o mesmo. No Texto I há distância e até vergonha; no Texto II, afeto e orgulho. Se os sentimentos são opostos, as representações não se complementam.",
+      "D": "“Assemelham-se” ignora a oposição principal: os jovens de Mia Couto rejeitam as próprias raízes, enquanto o eu lírico da canção se identifica totalmente com Madureira."
+    },
+    "tip": "Em questões de comparação, resuma cada texto em poucas palavras (aqui: “vergonha” x “amor”) antes de ler as alternativas."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Em português, o verbo “ser” pode formar predicados nominais, qualificando o sujeito, ou predicados verbais. Assinale a opção em que o verbo “ser” forma um predicado verbal:</p>",
+    "options": {
+      "A": "“é bem perto de Oswaldo Cruz.” (v. 11)",
+      "B": "“é eterno no meu coração.” (v. 22)",
+      "C": "“é difícil esquecer.” (v. 20)",
+      "D": "“é doce dizer.” (v. 15)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O verbo “ser” costuma ser <b>verbo de ligação</b>: ele liga o sujeito a uma característica (o predicativo) e forma um <b>predicado nominal</b>, como em “O lugar é eterno”.</p><p>Às vezes, porém, “ser” tem sentido próprio, como <b>ficar, localizar-se, existir, acontecer</b>. Aí ele é o núcleo do predicado, que passa a ser <b>verbal</b>.</p><p>Faça o teste da troca:</p><ul><li>(A) “é bem perto de Oswaldo Cruz”: o sujeito é “O meu lugar” (v. 9), e a frase equivale a “O meu lugar <b>fica</b> bem perto de Oswaldo Cruz”. O verbo indica localização, e “bem perto de Oswaldo Cruz” é uma circunstância de lugar (adjunto adverbial), não uma qualidade do lugar. Predicado verbal.</li><li>(B) “é eterno”: “eterno” qualifica o sujeito “que” (o lugar).</li><li>(C) “é difícil esquecer”: “difícil” qualifica o sujeito “esquecer”.</li><li>(D) “é doce dizer”: “doce” qualifica o sujeito “dizer” (dizer o seu nome é doce).</li></ul><p>Em B, C e D há predicativo, logo o predicado é nominal.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Eterno” é um adjetivo que dá uma característica ao sujeito “que” (o lugar): é predicativo do sujeito, e o predicado é nominal.",
+      "C": "O sujeito é “esquecer” (esquecer é difícil) e “difícil” é o predicativo que o caracteriza. Predicado nominal.",
+      "D": "“Doce” é um adjetivo que qualifica: dizer o nome de Madureira é algo doce, gostoso. Há predicativo, então o predicado é nominal."
+    },
+    "tip": "Se o “ser” puder ser trocado por “ficar”, “localizar-se” ou “acontecer” e não vier seguido de uma característica do sujeito, o predicado é verbal."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Em “<i>as rugas são letras”</i> (linha 2), foi empregada como recurso estilístico a figura de linguagem</p>",
+    "options": {
+      "A": "antítese.",
+      "B": "hipérbole.",
+      "C": "metáfora.",
+      "D": "metonímia."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Em “as rugas são letras” (verso 2), o poema diz que uma coisa <b>é</b> outra, sem usar “como”. Isso é uma <b>metáfora</b>: uma comparação implícita, baseada numa semelhança.</p><p>Qual é a semelhança? As letras registram histórias; as rugas também “contam” a vida de quem envelheceu. O próprio poema desenvolve a imagem nos versos seguintes: “palavras escritas na carne, / abecedário do viver” (v. 3-4). O rosto do velho vira uma página escrita pelo tempo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Antítese é a aproximação de ideias opostas, como velho e jovem. “Rugas” e “letras” não são opostas; o poema aproxima as duas por semelhança.",
+      "B": "Hipérbole é um exagero intencional, como “chorei rios de lágrimas”. Dizer que as rugas são letras não exagera nada: cria uma imagem.",
+      "D": "Metonímia troca uma palavra por outra ligada a ela por proximidade (a parte pelo todo, o autor pela obra, como em “ler Machado”). Aqui não há troca por proximidade, e sim identificação por semelhança."
+    },
+    "tip": "Metáfora é a comparação sem o “como”: quando o texto diz que A é B por causa de uma semelhança, pense em metáfora."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>No poema de Conceição Evaristo, aborda-se importante componente das culturas: a memória, que estabelece a ponte entre o velho e o jovem.</p><p>Esses dois momentos interligados são representados no texto por, respectivamente,</p>",
+    "options": {
+      "A": "“livros” e “história”",
+      "B": "“dúvidas” e “liberdade”",
+      "C": "“palavras escritas na carne” e “rap”",
+      "D": "“frescor da pele” e “brilho dos olhos”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O poema liga dois tempos: o do <b>velho</b> (a memória vivida) e o do <b>jovem</b> (a continuação da história). A questão pede o que representa cada um, <b>nessa ordem</b>.</p><ul><li><b>Velho:</b> “palavras escritas na carne” (v. 3). As rugas do velho são letras: a memória dele está registrada no próprio corpo.</li><li><b>Jovem:</b> “rap” (v. 31). No fim do poema, “Nos olhos do jovem / também o brilho de muitas histórias” (v. 28-29) e “não há quem ponha / um ponto final no rap” (v. 30-31). O rap é o jeito de o jovem continuar contando essas histórias.</li></ul><p>Repare no paralelo entre “um ponto final na história” (v. 18) e “um ponto final no rap” (v. 31): a memória do velho segue viva na voz do jovem.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Os “livros” aparecem como algo que esconde (“O que os livros escondem”, v. 15), não como símbolo do velho; e “história” (v. 18) pertence aos dois tempos, não só ao jovem.",
+      "B": "“Dúvidas” (v. 8) se refere ao jovem, não ao velho, então a ordem ficaria invertida; e “liberdade” (v. 33) é o que se quer eternizar para todos.",
+      "D": "“Frescor da pele” e “brilho dos olhos” (v. 6-7) descrevem, ambas, o jovem. Nenhuma das duas expressões representa o velho."
+    },
+    "tip": "Quando a questão diz “respectivamente”, confira a ordem: o primeiro termo deve corresponder ao primeiro elemento citado (o velho) e o segundo, ao segundo (o jovem)."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>Podemos apontar como causa da mudança de atitude do personagem, no último quadrinho, o fato de</p>",
+    "options": {
+      "A": "identificar-se culturalmente com o cartaz do último quadrinho.",
+      "B": "admirar o trabalho do ator do cartaz do último quadrinho.",
+      "C": "não apreciar o figurino dos personagens dos quadrinhos anteriores.",
+      "D": "não gostar dos filmes de ação anunciados nos dois primeiros quadrinhos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Compare os quadrinhos:</p><ul><li>Quadros 1 e 2: cartazes de Stallone e Schwarzenegger, astros dos filmes de ação de Hollywood. O menino olha sério, parado, sem nenhuma empolgação.</li><li>Quadro 3: o cartaz mostra <b>Lampião</b>, o famoso cangaceiro do sertão nordestino, com um chapéu de couro enfeitado com estrelas <b>igual ao do menino</b>. Ele pula de alegria.</li></ul><p>O chapéu é a chave: o menino se reconhece naquela figura, que faz parte da história e da cultura do lugar de onde ele vem. Os heróis estrangeiros não despertam nada nele; o herói da sua própria cultura desperta entusiasmo. A mudança de atitude vem da <b>identificação cultural</b>, o mesmo tema de pertencimento dos outros textos da prova.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O último cartaz traz o nome de Lampião, figura histórica, e não o de um ator. A alegria do menino vem de se reconhecer no personagem (o mesmo chapéu), não de admirar o trabalho de alguém.",
+      "C": "O menino não mostra rejeição ao figurino dos primeiros cartazes, apenas indiferença. O que muda sua atitude é encontrar algo com que se identifica, não a roupa dos outros.",
+      "D": "A tirinha não permite dizer que ele não gosta de filmes de ação: o filme sobre Lampião também poderia ter lutas e tiros. A diferença está na origem cultural do herói, não no gênero do filme."
+    },
+    "tip": "Em tirinhas, compare os quadros e procure o detalhe visual que muda (aqui, o chapéu igual ao do menino): ele costuma explicar a reação do personagem."
+  }
+]

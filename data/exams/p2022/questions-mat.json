@@ -1,0 +1,273 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na reta numérica, os pontos P e Q dividem o segmento AB em três partes iguais. O ponto A corresponde ao número \\(\\dfrac{-3}{5}\\), e o ponto B corresponde à dízima 8,999..., cujo período é 9.</p><p><img src=\"img/p2022/mat-q11.png\" alt=\"Reta numérica horizontal com quatro pontos marcados, da esquerda para a direita: A, P, Q e B, igualmente espaçados. Abaixo do ponto A está escrito -3/5 e abaixo do ponto B está escrito 8,999... Os pontos P e Q não têm valores indicados.\"></p><p>O ponto Q corresponde ao número</p>",
+    "options": {
+      "A": "29/5.",
+      "B": "13/5.",
+      "C": "32/5.",
+      "D": "25/5."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo: escrever os dois extremos como frações de denominador 5.</b></p><p>A dízima 8,999... (com o 9 se repetindo para sempre) é igual a 9. Um jeito de ver: se \\(y = 0{,}999...\\), então \\(10y = 9{,}999...\\); subtraindo, \\(9y = 9\\), logo \\(y = 1\\). Assim, \\(8{,}999... = 8 + 1 = 9 = \\dfrac{45}{5}\\).</p><p>O ponto A é \\(-\\dfrac{3}{5}\\).</p><p><b>2º passo: medir o segmento AB</b> (ponta da direita menos ponta da esquerda):</p>\\[AB = \\dfrac{45}{5} - \\left(-\\dfrac{3}{5}\\right) = \\dfrac{45}{5} + \\dfrac{3}{5} = \\dfrac{48}{5}.\\]<p><b>3º passo: dividir em três partes iguais.</b></p>\\[\\dfrac{48}{5} \\div 3 = \\dfrac{16}{5}.\\]<p><b>4º passo: andar duas partes a partir de A</b>, porque Q é o segundo ponto de divisão:</p>\\[Q = -\\dfrac{3}{5} + 2 \\cdot \\dfrac{16}{5} = -\\dfrac{3}{5} + \\dfrac{32}{5} = \\dfrac{29}{5}.\\]<p>Conferindo: P fica em \\(-\\dfrac{3}{5} + \\dfrac{16}{5} = \\dfrac{13}{5}\\), e somando mais \\(\\dfrac{16}{5}\\) a Q chegamos a \\(\\dfrac{45}{5} = 9\\), que é o ponto B. Resposta: <b>(A) 29/5</b>.</p>",
+    "distractors": {
+      "B": "\\(\\dfrac{13}{5}\\) é o ponto P, o primeiro ponto de divisão. Q fica duas partes depois de A, e não uma.",
+      "C": "\\(\\dfrac{32}{5}\\) é o comprimento de duas partes (\\(2 \\cdot \\dfrac{16}{5}\\)), contado a partir do zero. Faltou começar do ponto A, que está em \\(-\\dfrac{3}{5}\\).",
+      "D": "Aparece quando se calcula \\(AB = 9 - \\dfrac{3}{5} = \\dfrac{42}{5}\\), esquecendo que subtrair um número negativo é somar. Cada parte daria \\(\\dfrac{14}{5}\\) e Q ficaria em \\(-\\dfrac{3}{5} + \\dfrac{28}{5} = \\dfrac{25}{5}\\)."
+    },
+    "tip": "Comprimento de segmento na reta é ponta direita menos ponta esquerda (se a esquerda for negativa, a conta vira soma), e lembre que \\(8{,}999... = 9\\)."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O professor Ariovaldo levou alguns de seus estudantes a um torneio de xadrez. No intervalo desse evento, o professor foi até uma cantina que vendia apenas sanduíche e suco. Conferindo a quantia que tinha, Ariovaldo constatou que possuía o valor exato para comprar 16 sanduíches ou, então, exatamente 20 sucos. Todos os sanduíches custam o mesmo valor, o mesmo ocorrendo com os sucos.</p><p>Se Ariovaldo comprar 15 sucos, ainda poderá comprar</p>",
+    "options": {
+      "A": "4 sanduíches.",
+      "B": "5 sanduíches.",
+      "C": "6 sanduíches.",
+      "D": "12 sanduíches."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O dinheiro de Ariovaldo compra exatamente 20 sucos ou exatamente 16 sanduíches. Então o preço de 20 sucos é igual ao preço de 16 sanduíches:</p>\\[20 \\text{ sucos} = 16 \\text{ sanduíches}.\\]<p>Dividindo os dois lados por 4:</p>\\[5 \\text{ sucos} = 4 \\text{ sanduíches}.\\]<p>Se ele comprar 15 sucos, sobra dinheiro para \\(20 - 15 = 5\\) sucos. E o dinheiro de 5 sucos compra exatamente 4 sanduíches.</p><p>Outra forma, com números: suponha que ele tenha R$ 80,00 (um valor que se divide por 20 e por 16). Cada suco custa \\(80 \\div 20 = 4\\) reais e cada sanduíche custa \\(80 \\div 16 = 5\\) reais. Com 15 sucos ele gasta \\(15 \\cdot 4 = 60\\) reais; sobram 20 reais, que compram \\(20 \\div 5 = 4\\) sanduíches.</p><p>Resposta: <b>(A) 4 sanduíches</b>.</p>",
+    "distractors": {
+      "B": "5 é a quantidade de <b>sucos</b> que ainda daria para comprar (\\(20 - 15\\)). Como 20 sucos valem só 16 sanduíches, o sanduíche é mais caro, e o dinheiro de 5 sucos compra menos de 5 sanduíches.",
+      "C": "Inverte a proporção: faz \\(5 \\cdot \\dfrac{20}{16} = 6{,}25\\) e arredonda para 6, como se o sanduíche fosse mais barato que o suco. O certo é \\(5 \\cdot \\dfrac{16}{20} = 4\\).",
+      "D": "12 sanduíches custam o mesmo que os 15 sucos (\\(15 \\cdot \\dfrac{16}{20} = 12\\)): esse é o valor que ele gastou, e não o que sobrou. Sobra o equivalente a \\(16 - 12 = 4\\) sanduíches."
+    },
+    "tip": "Converta tudo para a mesma “moeda”: se 20 sucos valem 16 sanduíches, então 5 sucos valem 4 sanduíches."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Sabe-se que o quadrado da soma de dois termos \\(\\boldsymbol{a}\\) e \\(\\boldsymbol{b}\\) é dado por:</p><p>\\[\\boxed{\\boldsymbol{(a+b)^2 = a^2 + 2 \\cdot a \\cdot b + b^2}}\\]</p><p>Considere que \\(2^x + 2^{-x} = 7\\).</p><p>A soma dos algarismos do resultado de \\(4^x + 4^{-x}\\) é</p>",
+    "options": {
+      "A": "13.",
+      "B": "11.",
+      "C": "6.",
+      "D": "5."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A ideia é elevar ao quadrado a igualdade dada, porque \\(4^x = (2^2)^x = (2^x)^2\\) e \\(4^{-x} = (2^{-x})^2\\).</p><p>Use o quadrado da soma com \\(a = 2^x\\) e \\(b = 2^{-x}\\):</p>\\[(2^x + 2^{-x})^2 = (2^x)^2 + 2 \\cdot 2^x \\cdot 2^{-x} + (2^{-x})^2.\\]<p>O termo do meio fica simples, porque \\(2^x \\cdot 2^{-x} = 2^{x - x} = 2^0 = 1\\). Então</p>\\[(2^x + 2^{-x})^2 = 4^x + 2 + 4^{-x}.\\]<p>Como \\(2^x + 2^{-x} = 7\\), o lado esquerdo vale \\(7^2 = 49\\):</p>\\[4^x + 4^{-x} + 2 = 49 \\quad\\Rightarrow\\quad 4^x + 4^{-x} = 47.\\]<p>A soma dos algarismos de 47 é \\(4 + 7 = 11\\). Resposta: <b>(B) 11</b>.</p>",
+    "distractors": {
+      "A": "13 é a soma dos algarismos de 49: elevou 7 ao quadrado, mas esqueceu de descontar o termo do meio, \\(2 \\cdot 2^x \\cdot 2^{-x} = 2\\).",
+      "C": "6 é a soma dos algarismos de 51: somou 2 em vez de subtrair. O 2 está do mesmo lado que \\(4^x + 4^{-x}\\), então passa para o outro lado subtraindo.",
+      "D": "5 é a soma dos algarismos de 14: tratou \\(4^x\\) como o dobro de \\(2^x\\) e dobrou o 7. Na verdade \\(4^x = (2^x)^2\\), um quadrado, e não um dobro."
+    },
+    "tip": "Quando aparecem \\(2^x\\) e \\(2^{-x}\\), eleve a soma ao quadrado: o produto \\(2^x \\cdot 2^{-x}\\) vale 1 e os quadrados viram \\(4^x\\) e \\(4^{-x}\\)."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Han Solo e Chewbacca estavam fugindo de alguns contrabandistas. Durante toda a fuga, que durou 18 minutos, a nave onde eles estavam, a Millenium Falcon, viajou a 300.000 quilômetros por segundo (aproximadamente a velocidade de luz).</p><p><img src=\"img/p2022/mat-q14.jpg\" alt=\"Fotografia em preto e branco do interior da cabine de uma nave, vista por trás: dois tripulantes sentados diante da janela, pela qual se veem riscos de luz que partem do centro, sugerindo viagem em altíssima velocidade. A imagem é apenas ilustrativa e não traz dados.\"></p><p>Sabe-se que a distância que eles voaram pode ser obtida calculando-se do produto da velocidade pelo tempo.</p><p>Han e Chewie percorreram, pela galáxia,</p>",
+    "options": {
+      "A": "\\(5{,}40 \\times 10^7\\) quilômetros.",
+      "B": "\\(5{,}40 \\times 10^6\\) quilômetros.",
+      "C": "\\(3{,}24 \\times 10^9\\) quilômetros.",
+      "D": "\\(3{,}24 \\times 10^8\\) quilômetros."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.potencia_raiz",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo: passar o tempo para segundos</b>, porque a velocidade está em quilômetros <b>por segundo</b>:</p>\\[18 \\text{ min} = 18 \\cdot 60 \\text{ s} = 1080 \\text{ s}.\\]<p><b>2º passo: distância = velocidade × tempo.</b></p>\\[300.000 \\cdot 1080 = 324.000.000 \\text{ km}.\\]<p>Com potências de 10 a conta fica mais fácil: \\(300.000 = {3 \\times 10^5}\\) e \\(1080 = {1{,}08 \\times 10^3}\\), então</p>\\[3 \\times 10^5 \\cdot 1{,}08 \\times 10^3 = (3 \\cdot 1{,}08) \\times 10^{5+3} = 3{,}24 \\times 10^8 \\text{ km}.\\]<p>Conferindo: em \\({3{,}24 \\times 10^8}\\) a vírgula anda 8 casas para a direita, o que dá 324.000.000. Resposta: <b>(D)</b>.</p>",
+    "distractors": {
+      "A": "Junta dois erros: não converteu os minutos em segundos e ainda escreveu 300.000 como \\({3 \\times 10^6}\\) (um zero a mais). Fica \\({3 \\times 10^6} \\cdot 18 = {5{,}4 \\times 10^7}\\).",
+      "B": "Multiplicou a velocidade por 18 sem converter os minutos: \\(300.000 \\cdot 18 = {5{,}4 \\times 10^6}\\). Como a velocidade é por segundo, o tempo também tem de estar em segundos.",
+      "C": "Os algarismos estão certos, mas a potência de 10 tem uma casa a mais. Acontece quando se conta um zero a mais em 300.000 (\\({3 \\times 10^6}\\)) ou ao passar 324.000.000 para notação científica."
+    },
+    "tip": "Antes de multiplicar velocidade por tempo, confira as unidades: quilômetros por segundo pede o tempo em segundos (1 min = 60 s)."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir mostra parte de uma rede elétrica, formada por fios de alta tensão, sendo os fios <i>r</i>, <i>s</i> e <i>t</i> paralelos. No trecho do circuito indicado pelo segmento <i>AE</i>, houve um problema cuja solução exige a substituição desse trecho.</p><p><img src=\"img/p2022/mat-q15.png\" alt=\"Três retas horizontais paralelas, de cima para baixo: r, s e t (um quadro no alto indica r // s // t). Duas retas transversais se cruzam no ponto E, que está sobre a reta s. A primeira transversal desce da esquerda para a direita, cortando a reta r no ponto A e a reta t no ponto B: o segmento AE mede x e o segmento EB mede 5. A segunda transversal sobe da esquerda para a direita, cortando a reta t no ponto C e a reta r no ponto D: o segmento DE mede 3 e o segmento EC mede 6.\"></p><p>O comprimento do trecho a ser substituído é de</p>",
+    "options": {
+      "A": "2,0 metros.",
+      "B": "2,5 metros.",
+      "C": "3,6 metros.",
+      "D": "4,0 metros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.angulos",
+      "mat.geo.semelhanca"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O trecho a ser substituído é \\(AE = x\\).</p><p>As retas \\(r\\), \\(s\\) e \\(t\\) são paralelas e cortam as duas transversais. Pelo <b>Teorema de Tales</b>, elas dividem as transversais em segmentos proporcionais. Compare os pedaços que ficam entre as mesmas paralelas:</p><ul><li>entre \\(r\\) e \\(s\\): \\(AE = x\\) e \\(DE = 3\\);</li><li>entre \\(s\\) e \\(t\\): \\(EB = 5\\) e \\(EC = 6\\).</li></ul>\\[\\dfrac{AE}{EB} = \\dfrac{DE}{EC} \\quad\\Rightarrow\\quad \\dfrac{x}{5} = \\dfrac{3}{6}.\\]<p>Como \\(\\dfrac{3}{6} = \\dfrac{1}{2}\\), temos \\(x = \\dfrac{5}{2} = 2{,}5\\).</p><p>Outra forma de ver: os triângulos \\(AED\\) e \\(BEC\\) são semelhantes (ângulos opostos pelo vértice em E e ângulos alternos internos em A e B, porque \\(r\\) é paralela a \\(t\\)). Na transversal CD, o pedaço de cima (3) é a metade do de baixo (6); então, na transversal AB, o pedaço de cima também é a metade do de baixo: \\(5 \\div 2 = 2{,}5\\).</p><p>Resposta: <b>(B) 2,5 metros</b>.</p>",
+    "distractors": {
+      "A": "Troca a proporção por uma diferença: como EC tem 3 a mais que DE, supõe que EB tenha 3 a mais que AE e faz \\(5 - 3 = 2\\). Com retas paralelas, os segmentos são proporcionais (um é a metade do outro), e não diferem por um valor fixo.",
+      "C": "Emparelha os segmentos errados: \\(\\dfrac{x}{6} = \\dfrac{3}{5}\\) dá 3,6. O x (entre \\(r\\) e \\(s\\)) tem de ser comparado com o 3, que também está entre \\(r\\) e \\(s\\).",
+      "D": "Sai de supor que as duas transversais têm o mesmo comprimento, \\(x + 5 = 3 + 6\\), o que dá 4. Nada garante isso: com retas paralelas, o que se mantém é a razão entre os segmentos, e não a soma nem a diferença."
+    },
+    "tip": "Retas paralelas cortando duas transversais formam segmentos proporcionais: monte a razão com pedaços que ficam entre as mesmas duas paralelas."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir mostra uma escultura constituída de cinco cubos idênticos, cujas arestas são horizontais ou verticais.</p><p><img src=\"img/p2022/mat-q16.png\" alt=\"Escultura de cinco cubos idênticos desenhada em perspectiva, com as faces da frente de todos os cubos no mesmo plano. Vistas de frente, essas faces ocupam um quadrado de 3 por 3 arestas: um cubo em cada canto (superior esquerdo, superior direito, inferior esquerdo e inferior direito) e um cubo no centro, que compartilha apenas uma aresta com cada cubo de canto. O ponto A é o vértice superior esquerdo da face da frente do cubo superior esquerdo; o ponto B é o vértice inferior direito da face da frente do cubo inferior direito. As faces laterais direitas dos cubos aparecem sombreadas.\"></p><p>A aresta de cada cubo mede \\(\\sqrt{6}\\) cm. Adotando 1,73 como aproximação para \\(\\sqrt{3}\\), obtém-se para a distância entre os pontos \\(A\\) e \\(B\\) o valor de</p>",
+    "options": {
+      "A": "10,38 centímetros.",
+      "B": "11,98 centímetros.",
+      "C": "13,28 centímetros.",
+      "D": "20,76 centímetros."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo: entender a figura.</b> As faces da frente dos cinco cubos estão no mesmo plano, como um tabuleiro de 3 por 3 quadradinhos em que só as quatro pontas e o centro estão ocupados. A é o canto de cima à esquerda desse tabuleiro e B é o canto de baixo à direita.</p><p>Então A e B são vértices opostos de um quadrado cujo lado mede 3 arestas:</p>\\[\\ell = 3\\sqrt{6} \\text{ cm}.\\]<p><b>2º passo: Pitágoras na diagonal desse quadrado.</b></p>\\[AB^2 = (3\\sqrt6)^2 + (3\\sqrt6)^2 = 9 \\cdot 6 + 9 \\cdot 6 = 54 + 54 = 108.\\]<p><b>3º passo: simplificar a raiz.</b> Como \\(108 = 36 \\cdot 3\\):</p>\\[AB = \\sqrt{108} = \\sqrt{36 \\cdot 3} = 6\\sqrt3 \\approx 6 \\cdot 1{,}73 = 10{,}38 \\text{ cm}.\\]<p>Outra forma de enxergar: o segmento AB atravessa exatamente as diagonais das faces da frente dos três cubos da diagonal (canto de cima, centro e canto de baixo). A diagonal de um quadrado de lado \\(\\sqrt6\\) mede \\(\\sqrt6 \\cdot \\sqrt2 = \\sqrt{12} = 2\\sqrt3\\), e três delas dão \\(6\\sqrt3\\).</p><p>Conferindo a ordem de grandeza: \\(10^2 = 100 < 108 < 121 = 11^2\\), então AB fica entre 10 e 11 cm. Resposta: <b>(A) 10,38 centímetros</b>.</p>",
+    "distractors": {
+      "B": "É grande demais: como \\(AB^2 = 108\\) e \\(11^2 = 121\\), a distância é menor que 11 cm. Esse valor não sai de nenhuma conta correta com os dados.",
+      "C": "Também é impossível: \\(13^2 = 169\\) passa muito de \\(AB^2 = 108\\). Estimar a raiz (\\(100 < 108 < 121\\)) já mostra que AB está entre 10 e 11 cm.",
+      "D": "É o dobro da resposta, \\(12\\sqrt3\\). Aparece quando se simplifica \\(\\sqrt{12}\\) como \\(4\\sqrt3\\), esquecendo de tirar a raiz do 4: \\(3\\sqrt{12}\\) viraria \\(12\\sqrt3 \\approx 20{,}76\\). O certo é \\(\\sqrt{12} = \\sqrt{4 \\cdot 3} = 2\\sqrt3\\)."
+    },
+    "tip": "A diagonal de um quadrado de lado \\(\\ell\\) mede \\(\\ell\\sqrt2\\), e ao simplificar uma raiz tire a raiz do fator quadrado: \\(\\sqrt{108} = \\sqrt{36 \\cdot 3} = 6\\sqrt3\\)."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um terreno quadrado, de lado medindo 36 m, foi subdividido em três terrenos retangulares de mesma área. A figura mostra o esboço da planta desse terreno, num sistema de eixos cartesianos.</p><p>Para cercar o terreno sombreado deverão ser comprados, no mínimo,</p><p><img src=\"img/p2022/mat-q17.png\" alt=\"Plano cartesiano com eixos x e y e origem O. Um quadrado tem um vértice em O e lados sobre os eixos; o valor 36 está marcado no eixo x e no eixo y. Um segmento vertical divide o quadrado em uma faixa estreita à esquerda, encostada no eixo y, que vai da altura 0 até 36 e está sombreada de cinza, e uma parte à direita, dividida por um segmento horizontal em dois retângulos, um acima do outro. A faixa sombreada ocupa aproximadamente um terço da largura do quadrado e o segmento horizontal fica mais ou menos na metade da altura, mas nenhuma dessas medidas está indicada.\"></p>",
+    "options": {
+      "A": "48 metros de cerca.",
+      "B": "72 metros de cerca.",
+      "C": "96 metros de cerca.",
+      "D": "120 metros de cerca."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo: área de cada terreno.</b> O terreno quadrado tem área \\(36 \\cdot 36 = 1296 \\text{ m}^2\\). Dividido em três terrenos de mesma área, cada um fica com</p>\\[1296 \\div 3 = 432 \\text{ m}^2.\\]<p><b>2º passo: largura da faixa sombreada.</b> Ela é um retângulo que ocupa toda a altura do quadrado (de 0 a 36 no eixo y). Chamando a largura de \\(L\\):</p>\\[36 \\cdot L = 432 \\quad\\Rightarrow\\quad L = 12 \\text{ m}.\\]<p>(Mais rápido: como a faixa ocupa toda a altura e tem um terço da área, sua largura é um terço do lado: \\(36 \\div 3 = 12\\).)</p><p><b>3º passo: a cerca é o perímetro da faixa.</b></p>\\[2 \\cdot (12 + 36) = 2 \\cdot 48 = 96 \\text{ m}.\\]<p>Conferindo os outros terrenos: a parte da direita tem largura \\(36 - 12 = 24\\) m; para os dois retângulos terem 432 m² cada, cada um mede 24 m por 18 m, e \\(24 \\cdot 18 = 432\\). Tudo bate. Resposta: <b>(C) 96 metros de cerca</b>.</p>",
+    "distractors": {
+      "A": "48 m é só a metade do contorno, \\(12 + 36\\): somou uma largura e uma altura, mas a cerca dá a volta inteira, com dois lados de 36 m e dois de 12 m.",
+      "B": "72 m são só os dois lados de 36 m. Faltaram os dois lados de 12 m, em cima e embaixo da faixa.",
+      "D": "120 m é o perímetro de um retângulo de 24 m por 36 m, \\(2 \\cdot (24 + 36)\\): usou a largura da parte da direita (\\(36 - 12 = 24\\)), e não a da faixa sombreada."
+    },
+    "tip": "Ache o lado que falta pela área (área = base × altura) e lembre que cercar é somar os quatro lados, ou seja, calcular o perímetro."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na prova de um concurso, foram usadas apenas quatro salas: 11, 12, 13 e 14. O gráfico a seguir mostra as respectivas quantidades de candidatos em cada uma delas.</p><p><img src=\"img/p2022/mat-q18.png\" alt=\"Gráfico de barras verticais com a quantidade de candidatos em cada sala; o eixo vertical vai de 0 a 42, de 2 em 2. Sala 11: 32. Sala 12: 34. Sala 13: 29. Sala 14: 39.\"></p><p>Curiosamente, em uma dessas salas havia apenas candidatos que já tiveram covid-19. Considerando-se apenas os candidatos das outras três salas, verificou-se que a quantidade dos que já tiveram covid-19 é exatamente igual ao triplo da quantidade dos que nunca tiveram essa doença.</p><p>Nesse concurso, o total de candidatos que já tiveram covid-19 é igual a</p>",
+    "options": {
+      "A": "109.",
+      "B": "104.",
+      "C": "99.",
+      "D": "96."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.alg.proporcao",
+      "mat.est.graficos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo: ler o gráfico.</b> Sala 11: 32; sala 12: 34; sala 13: 29; sala 14: 39. Total: \\(32 + 34 + 29 + 39 = 134\\) candidatos.</p><p><b>2º passo: entender a condição.</b> Nas outras três salas, para cada candidato que nunca teve covid-19 há 3 que já tiveram. Então essas três salas juntas se dividem em grupos de 4 pessoas (1 sem covid e 3 com covid): o total delas <b>tem de ser múltiplo de 4</b>.</p><p><b>3º passo: descobrir qual é a sala só de quem já teve covid.</b> Tire cada sala do total e veja se o que sobra é múltiplo de 4:</p><ul><li>sem a sala 11: \\(134 - 32 = 102\\), não é múltiplo de 4;</li><li>sem a sala 12: \\(134 - 34 = 100\\), é múltiplo de 4;</li><li>sem a sala 13: \\(134 - 29 = 105\\), não é (é ímpar);</li><li>sem a sala 14: \\(134 - 39 = 95\\), não é (é ímpar).</li></ul><p>Logo, a sala em que todos já tiveram covid-19 é a 12.</p><p><b>4º passo: contar.</b> As salas 11, 13 e 14 têm 100 candidatos: \\(100 \\div 4 = 25\\) nunca tiveram covid-19 e \\(3 \\cdot 25 = 75\\) já tiveram (75 é mesmo o triplo de 25). Somando os 34 da sala 12:</p>\\[75 + 34 = 109.\\]<p>Resposta: <b>(A) 109</b>.</p>",
+    "distractors": {
+      "B": "104 é \\(75 + 29\\): fez a conta certa nas outras salas (75 com covid), mas somou a sala 13 no lugar da sala 12. Se a sala 13 fosse a só de covid, as outras teriam 105 candidatos, que não se dividem na razão de 3 para 1.",
+      "C": "99 aparece quando se divide o grupo em 3 partes, e não em 4: sem a sala 13 sobram 105 candidatos (número divisível por 3), \\(105 \\div 3 = 35\\) seriam os que nunca tiveram covid-19 e \\(134 - 35 = 99\\). Mas aí os que já tiveram, nessas três salas, seriam \\(105 - 35 = 70\\), que é o dobro de 35, e não o triplo. Com 3 que já tiveram para cada 1 que nunca teve, o grupo se divide em 4 partes.",
+      "D": "96 não é possível: o total de quem já teve covid é a sala escolhida mais \\(\\tfrac{3}{4}\\) das outras três, e isso fica entre 107 e 111 para qualquer sala. Só a sala 12 dá um número inteiro, 109."
+    },
+    "tip": "Se um grupo está na razão de 3 para 1, ele se divide em 4 partes iguais, então o total do grupo tem de ser múltiplo de 4."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Luisa e Maria estavam em uma brincadeira de caça ao tesouro. Após chegarem ao ponto <i>P</i>, Luisa leu a seguinte instrução:</p><blockquote><i>“Partindo do ponto P siga por mais 7 metros na direção norte até o ponto Q e, por fim, mais 5 metros na direção leste até o tesouro, localizado no ponto T”.</i></blockquote><p><img src=\"img/p2022/mat-q19.png\" alt=\"Desenho de um mapa em papel envelhecido. O ponto P fica embaixo; dele sobe um segmento tracejado vertical, marcado 7 m, até o ponto Q. De Q sai para a direita um segmento tracejado horizontal, marcado 5 m, até um X identificado como T. Um terceiro segmento tracejado liga P diretamente a T, formando com os outros dois um triângulo em que o lado PQ é vertical e o lado QT é horizontal (ângulo reto em Q).\"></p><p>Maria disse que o trajeto sugerido na instrução não era a melhor opção, uma vez que era possível ir diretamente do ponto <i>P</i> ao ponto <i>T</i>, seguindo por uma linha reta e, assim, percorreriam uma distância menor.</p><p>A ideia de Maria sugere um trajeto cujo comprimento, em metros, está entre</p>",
+    "options": {
+      "A": "11 e 12",
+      "B": "10 e 11",
+      "C": "9 e 10",
+      "D": "8 e 9"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O caminho da instrução vai 7 m para o norte (de P até Q) e depois 5 m para o leste (de Q até T). Norte e leste são direções perpendiculares, então o triângulo \\(PQT\\) é retângulo em Q, com catetos de 7 m e 5 m. O trajeto de Maria, em linha reta de P até T, é a hipotenusa.</p><p><b>Teorema de Pitágoras:</b></p>\\[PT^2 = 7^2 + 5^2 = 49 + 25 = 74 \\quad\\Rightarrow\\quad PT = \\sqrt{74}.\\]<p><b>Estimar a raiz sem calculadora:</b> encaixe 74 entre dois quadrados perfeitos:</p>\\[8^2 = 64 < 74 < 81 = 9^2 \\quad\\Rightarrow\\quad 8 < \\sqrt{74} < 9.\\]<p>(Com mais precisão, \\(\\sqrt{74} \\approx 8{,}6\\) m, mais de 3 m a menos que os \\(7 + 5 = 12\\) m da instrução.)</p><p>Resposta: <b>(D) 8 e 9</b>.</p>",
+    "distractors": {
+      "A": "Perto de 12 m está o caminho da própria instrução (\\(7 + 5 = 12\\)), que é justamente o mais longo. Como \\(11^2 = 121\\) passa muito de 74, a linha reta nem chega a 11 m.",
+      "B": "Exigiria \\(PT^2\\) entre 100 e 121, mas \\(PT^2 = 74\\). Costuma sair de estimar a hipotenusa “no olho”, como um pouco menos que a soma dos catetos.",
+      "C": "Exigiria \\(PT^2\\) entre 81 e 100, mas 74 é menor que 81. Costuma vir de comparar 74 com o quadrado perfeito errado: 74 está perto de \\(81 = 9^2\\), mas fica abaixo dele, então \\(\\sqrt{74}\\) é menor que 9."
+    },
+    "tip": "Para estimar uma raiz, encaixe o número entre dois quadrados perfeitos: como \\(64 < 74 < 81\\), \\(\\sqrt{74}\\) está entre 8 e 9."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir mostra uma circunferência de centro <i>O</i>, em que está inscrito um triângulo <i>ABC</i>. Sabe-se que as medidas, em centímetros, de <i>AB</i>, <i>AC</i> e <i>BC</i> são, respectivamente, \\(x\\), \\(2x + 2\\) e \\(2x + 3\\).</p><p><img src=\"img/p2022/mat-q20.png\" alt=\"Circunferência de centro O. O lado BC do triângulo passa pelo centro O, ligando o ponto B, na extremidade esquerda da circunferência, ao ponto C, na extremidade direita. O ponto A está sobre a circunferência, na parte de cima, mais perto de B. Os segmentos AB, AC e BC formam o triângulo ABC. A figura não traz medidas.\"></p><p>A medida do raio da circunferência é igual a</p>",
+    "options": {
+      "A": "7,0 centímetros.",
+      "B": "6,5 centímetros.",
+      "C": "6,0 centímetros.",
+      "D": "5,5 centímetros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.pitagoras",
+      "mat.alg.eq2"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo: perceber o triângulo retângulo.</b> O lado BC passa pelo centro O, então BC é um <b>diâmetro</b>. Um triângulo inscrito que tem um lado sobre o diâmetro é retângulo, com o ângulo reto no vértice oposto, em A. (O ângulo inscrito \\(\\hat{A}\\) enxerga uma semicircunferência, de 180°, e por isso mede a metade: 90°.)</p><p>Assim, BC é a hipotenusa e AB e AC são os catetos.</p><p><b>2º passo: Pitágoras.</b></p>\\[x^2 + (2x + 2)^2 = (2x + 3)^2.\\]<p>Desenvolvendo os quadrados da soma:</p>\\[x^2 + 4x^2 + 8x + 4 = 4x^2 + 12x + 9.\\]<p>Cancelando \\(4x^2\\) dos dois lados e passando tudo para a esquerda:</p>\\[x^2 - 4x - 5 = 0.\\]<p><b>3º passo: resolver.</b> Procure dois números com soma 4 e produto \\(-5\\): são 5 e \\(-1\\). Então \\({(x - 5)(x + 1)} = 0\\), e \\(x = 5\\) ou \\(x = -1\\). Como x é um comprimento, \\(x = 5\\). (Por Bhaskara: \\(\\Delta = 16 + 20 = 36\\) e \\(x = \\dfrac{4 \\pm 6}{2}\\), que dá 5 ou \\(-1\\).)</p><p><b>4º passo: o raio.</b> Os lados medem \\(AB = 5\\), \\(AC = 12\\) e \\(BC = 13\\) (confira: \\(25 + 144 = 169 = 13^2\\)). O raio é a metade do diâmetro BC:</p>\\[r = \\dfrac{13}{2} = 6{,}5 \\text{ cm}.\\]<p>Resposta: <b>(B) 6,5 centímetros</b>.</p>",
+    "distractors": {
+      "A": "Com raio 7,0 cm, o diâmetro BC seria 14, ou seja, \\(2x + 3 = 14\\) e \\(x = 5{,}5\\); então AC = 13 e \\(5{,}5^2 + 13^2 = 199{,}25\\), que não é \\(14^2 = 196\\). O triângulo não seria retângulo, então essa medida não serve.",
+      "C": "6,0 cm é a metade de AC = 12: usou o cateto AC como se fosse o diâmetro. O diâmetro é BC, o lado que passa pelo centro O.",
+      "D": "Aparece quando se esquecem os últimos termos dos quadrados (\\(2^2 = 4\\) e \\(3^2 = 9\\)): a equação vira \\(x^2 = 4x\\), dá \\(x = 4\\), BC = 11 e raio 5,5. Mas 4, 10 e 11 não formam triângulo retângulo (\\(16 + 100 \\neq 121\\))."
+    },
+    "tip": "Triângulo inscrito com um lado passando pelo centro é retângulo: esse lado é o diâmetro (a hipotenusa), e o raio é a metade dele."
+  }
+]

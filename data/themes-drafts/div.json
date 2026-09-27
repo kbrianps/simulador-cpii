@@ -1,0 +1,590 @@
+[
+  {
+    "id": "div-01",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "Diante de uma situação de preconceito, quem assiste em silêncio também é responsável?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o comportamento das pessoas que presenciam atos de preconceito e discriminação no dia a dia. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "No grupo da turma",
+        "body_html": "<p>Era quase meia-noite quando a figurinha apareceu no grupo da turma: a foto de um colega, alterada para ridicularizar a cor da pele dele. Vieram risadas, alguns emojis, depois silêncio. Marina viu tudo. Pensou em responder, mas teve medo de virar o próximo alvo. Pensou em avisar alguém, mas não queria parecer \"dedo-duro\". Fechou o aplicativo e tentou dormir.</p><p>No dia seguinte, o colega não apareceu na escola. Marina passou a manhã inteira se perguntando se o seu silêncio também tinha feito parte daquilo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O papel de quem observa",
+        "body_html": "<p>Quando se fala em preconceito, costuma-se pensar em duas figuras: quem ofende e quem é ofendido. Há, porém, uma terceira presença quase sempre esquecida: a das pessoas que assistem. Em muitas situações, as agressões ganham força quando encontram plateia e perdem força quando encontram reprovação. Uma risada pode funcionar como aplauso; uma frase de discordância pode interromper o ciclo. Isso não significa que toda testemunha tenha a obrigação de enfrentar sozinha o agressor. Pedir ajuda a um adulto, acolher quem foi atingido ou simplesmente não compartilhar a ofensa também são formas de agir.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três estudantes, três opiniões",
+        "body_html": "<p><b>Caio, 15 anos:</b> \"Não é justo culpar quem só estava olhando. A culpa é de quem fez a piada.\"</p><p><b>Luana, 14 anos:</b> \"Quem fica calado ajuda a mostrar que aquilo é normal. O silêncio também comunica alguma coisa.\"</p><p><b>Pedro, 15 anos:</b> \"Eu queria ajudar, mas ninguém ensina como. Na escola, a gente só ouve que preconceito é errado, e pronto. Ninguém explica o que fazer na hora.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que muitas pessoas preferem ficar em silêncio quando presenciam uma situação de preconceito?",
+      "O silêncio de quem assiste pode ser interpretado como aprovação? Em que situações?",
+      "Ser responsável é o mesmo que ser culpado? Qual é a diferença entre essas duas ideias?",
+      "Que atitudes, além do enfrentamento direto, uma testemunha pode tomar com segurança?",
+      "Qual é o papel da escola e da família em preparar os jovens para agir nessas situações?"
+    ],
+    "argument_paths": [
+      "Sim, quem assiste em silêncio tem responsabilidade, porque a omissão ajuda a normalizar o preconceito e a plateia fortalece o agressor.",
+      "Há responsabilidade, mas ela é diferente da culpa de quem agride: a testemunha não deve ser igualada ao agressor, e sim estimulada a agir de forma segura (apoiar a vítima, pedir ajuda, não compartilhar).",
+      "O silêncio muitas vezes nasce do medo e da falta de preparo; por isso, a responsabilidade é também coletiva, de escolas e famílias que precisam ensinar formas concretas de intervir.",
+      "Nas redes sociais, reagir a uma ofensa ou compartilhá-la transforma a testemunha em participante, o que amplia sua responsabilidade no ambiente virtual."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 18",
+        "how": "Afirma que é dever de todos velar pela dignidade da criança e do adolescente, pondo-os a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor; reforça a ideia de que ninguém é mero espectador."
+      },
+      {
+        "ref": "Lei nº 13.185/2015, que instituiu o Programa de Combate à Intimidação Sistemática (Bullying)",
+        "how": "Define o bullying, inclusive o praticado pela internet (cyberbullying), e atribui às escolas o dever de adotar medidas de conscientização, prevenção e combate; útil para defender que o enfrentamento é uma responsabilidade coletiva."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 3º, inciso IV",
+        "how": "Coloca entre os objetivos fundamentais da República promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação; mostra que combater o preconceito é um compromisso de toda a sociedade."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre o que é preconceito ou sobre quem agride, sem discutir o papel de quem assiste (tangenciamento do tema).",
+      "Culpar ou absolver a testemunha de forma absoluta, sem considerar o medo, a pressão do grupo e as formas seguras de agir.",
+      "Recontar a história do Texto I ou narrar um caso pessoal em vez de argumentar, fugindo do tipo textual."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "div-02",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "Como tornar a escola um espaço verdadeiramente inclusivo para estudantes com deficiência?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a inclusão de estudantes com deficiência no ambiente escolar. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Estar na sala não é o mesmo que participar",
+        "body_html": "<p>Matricular um estudante com deficiência é apenas o primeiro passo. A inclusão verdadeira depende de muitas outras coisas: rampas e banheiros adaptados, materiais em formatos acessíveis, professores preparados, avaliações que respeitem diferentes formas de aprender e, principalmente, colegas dispostos a conviver. Uma escola pode ter todas as portas abertas e, mesmo assim, deixar alguém do lado de fora, quando esse estudante nunca é escolhido para os trabalhos em grupo ou não consegue acompanhar as aulas por falta de apoio. Por isso, costuma-se dizer que incluir não é só colocar junto: é garantir que todos aprendam e participem.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Conversa no intervalo",
+        "body_html": "<p><b>Rafa:</b> A Júlia faltou de novo à aula de Educação Física.</p><p><b>Bia:</b> Também, né? Ela usa cadeira de rodas e o professor só passa futebol.</p><p><b>Rafa:</b> Mas não dá para mudar a aula inteira por causa de uma pessoa.</p><p><b>Bia:</b> Não é mudar por causa de uma pessoa. É pensar uma aula em que todo mundo possa jogar. Existe esporte adaptado, existem jogos em que a turma inteira participa.</p><p><b>Rafa:</b> Pode ser... Eu nunca tinha pensado que ela fica de fora porque a aula foi planejada sem pensar nela.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre apenas colocar junto e realmente incluir, garantindo participação e aprendizagem?",
+      "Que barreiras existem na sua escola: físicas, de comunicação, pedagógicas ou de atitude?",
+      "O que depende da direção, o que depende dos professores e o que depende dos próprios estudantes?",
+      "Como a convivência com a diferença beneficia também os estudantes sem deficiência?",
+      "Que proposta concreta e possível você poderia apresentar à direção?"
+    ],
+    "argument_paths": [
+      "A inclusão começa pela acessibilidade: sem adaptações físicas e materiais acessíveis, o direito à educação fica só no papel; a carta pode propor prioridades de obras e de recursos.",
+      "O maior obstáculo é a atitude: é preciso formar professores e sensibilizar a comunidade escolar, porque o preconceito isola mais do que uma escada.",
+      "Incluir exige flexibilizar aulas e avaliações, como na Educação Física adaptada, o que beneficia toda a turma e não representa privilégio.",
+      "A inclusão depende de apoio especializado (profissionais de apoio, atendimento educacional especializado), e a direção deve buscar parcerias e recursos junto ao poder público."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência), Lei nº 13.146/2015, art. 27",
+        "how": "Garante à pessoa com deficiência o direito a um sistema educacional inclusivo em todos os níveis; serve para mostrar à direção que inclusão é direito, e não favor."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 205 e art. 208, inciso III",
+        "how": "Define a educação como direito de todos e prevê atendimento educacional especializado às pessoas com deficiência, preferencialmente na rede regular de ensino."
+      },
+      {
+        "ref": "Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006), incorporada ao direito brasileiro com status de emenda constitucional (Decreto nº 6.949/2009)",
+        "how": "Entende a deficiência como resultado da interação entre a pessoa e as barreiras do ambiente e das atitudes; ajuda a argumentar que cabe à escola remover essas barreiras."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer os elementos da carta (local e data, vocativo dirigido à direção, despedida e assinatura) ou assinar com o próprio nome: a redação não pode ser identificada, então use uma assinatura genérica, como \"Um estudante\" ou \"Uma estudante\" (na prova de 2017, o CPII pediu que a carta fosse assinada apenas como \"Um leitor\" ou \"Uma leitora\").",
+      "Fazer apenas um desabafo ou uma lista de reclamações, sem tese nem argumentos que sustentem as propostas.",
+      "Falar de deficiência de modo genérico, ou com termos pejorativos, em vez de discutir a inclusão no ambiente escolar."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "div-03",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "Os desafios para garantir o respeito à diversidade religiosa no Brasil.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a convivência entre pessoas de diferentes crenças e as situações de intolerância religiosa que ainda ocorrem no país. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um país de muitas crenças",
+        "body_html": "<p>O Brasil é marcado pela diversidade religiosa. Convivem aqui igrejas cristãs de várias tradições, religiões de matriz africana, como o candomblé e a umbanda, práticas espirituais indígenas, comunidades judaicas, muçulmanas, budistas, espíritas e muitas outras, além de pessoas que não seguem nenhuma religião. A Constituição garante a liberdade de crença e impede que o Estado adote uma religião oficial, característica do chamado Estado laico. Na prática, porém, essa convivência nem sempre é pacífica: há casos de ofensas, ataques a templos e discriminação, que atingem com frequência as religiões de matriz africana.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "As guias",
+        "body_html": "<p>No primeiro dia de aula, Tainá chegou com as guias, colares de contas do candomblé, por baixo do uniforme. Uma colega perguntou o que era aquilo e, antes que ela respondesse, alguém do fundo da sala fez um comentário zombando da sua religião. A turma riu. Nas semanas seguintes, Tainá passou a esconder as guias na mochila antes de entrar na escola. Quando a professora de História propôs um trabalho sobre as religiões presentes no bairro, Tainá hesitou: apresentar a sua fé seria uma chance de ser compreendida ou um novo motivo para virar alvo de piadas?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três opiniões",
+        "body_html": "<p><b>Opinião 1:</b> \"Religião é assunto de cada família. A escola não deveria tocar nesse tema, para evitar conflitos.\"</p><p><b>Opinião 2:</b> \"Justamente por existir preconceito, a escola precisa ensinar sobre as diferentes crenças. Ninguém respeita aquilo que não conhece.\"</p><p><b>Opinião 3:</b> \"Respeitar não significa concordar. Posso discordar de uma crença e, mesmo assim, defender o direito de outra pessoa de praticá-la. Isso vale para qualquer religião, e também para quem não tem nenhuma.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre discordar de uma crença e desrespeitar quem a pratica?",
+      "Por que algumas religiões são mais atingidas pela intolerância do que outras?",
+      "O que significa, na prática, o Brasil ser um Estado laico?",
+      "A escola deve discutir a diversidade religiosa? De que forma, sem favorecer nenhuma crença?"
+    ],
+    "argument_paths": [
+      "A intolerância nasce do desconhecimento e de estereótipos; por isso, a educação para a diversidade, sem ensinar dogmas nem favorecer crenças, é o principal caminho.",
+      "A intolerância contra as religiões de matriz africana está ligada ao racismo herdado do período da escravidão, o que exige enfrentar os dois problemas em conjunto.",
+      "O respeito depende de separar a convicção pessoal da convivência pública: cada um pode viver sua fé, mas o espaço comum precisa garantir a liberdade de todos, inclusive de quem não tem religião.",
+      "As leis existem, mas precisam ser aplicadas: incentivar denúncias e punir ataques é tão importante quanto as campanhas de conscientização."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso VI",
+        "how": "Declara inviolável a liberdade de consciência e de crença e assegura o livre exercício dos cultos religiosos e a proteção aos locais de culto."
+      },
+      {
+        "ref": "Lei nº 7.716/1989 (Lei Caó), com a redação dada pela Lei nº 9.459/1997",
+        "how": "Define como crimes os atos resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional; mostra que a intolerância religiosa pode ter consequências penais."
+      },
+      {
+        "ref": "Lei nº 11.635/2007, que instituiu o Dia Nacional de Combate à Intolerância Religiosa (21 de janeiro)",
+        "how": "A data lembra Mãe Gilda, ialorixá de Salvador que sofreu ataques por causa de sua religião e morreu em 21 de janeiro de 2000; é um exemplo concreto de como a intolerância atinge as religiões de matriz africana."
+      }
+    ],
+    "pitfalls": [
+      "Defender uma religião específica ou fazer pregação, em vez de discutir o respeito à diversidade de crenças.",
+      "Tratar apenas de liberdade de expressão em geral, sem focar a convivência entre pessoas de religiões diferentes.",
+      "Generalizar grupos religiosos inteiros como intolerantes, cometendo o mesmo tipo de preconceito que se pretende criticar."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "div-04",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "É possível combater o preconceito linguístico no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as diferentes formas de falar o português no Brasil e o julgamento que se faz das pessoas pelo seu modo de falar. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O sotaque",
+        "body_html": "<p>Davi se mudou do interior da Paraíba para o Rio de Janeiro no meio do 8º ano. Logo na primeira semana, percebeu que, sempre que respondia a uma pergunta do professor, alguns colegas repetiam suas palavras imitando o sotaque. No início, riu junto. Depois, começou a responder o mínimo possível. No fim do ano, a professora de Português estranhou: o menino que escrevia redações tão boas quase não abria a boca em sala. Quando ela perguntou o motivo, Davi respondeu apenas: \"Aqui, quando eu falo, ninguém escuta o que eu digo, só o jeito que eu digo.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Certo, errado ou adequado?",
+        "body_html": "<p>Toda língua viva varia. O português falado no Brasil muda de acordo com a região, a idade, a classe social, a escolaridade e a situação de comunicação. Para a linguística, essas variedades têm regras próprias e permitem que as pessoas se comuniquem plenamente. A norma-padrão, ensinada na escola e usada em documentos oficiais, é uma dessas variedades, importante em certas situações formais. O problema começa quando um modo de falar é tratado como sinal de pouca inteligência ou de menor valor, e as pessoas passam a ser julgadas, excluídas ou ridicularizadas por causa dele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em debate",
+        "body_html": "<p><b>Opinião A:</b> \"Se todo jeito de falar está certo, para que estudar gramática?\"</p><p><b>Opinião B:</b> \"Estudar a norma-padrão é um direito, porque abre portas. Mas isso não autoriza ninguém a humilhar quem fala diferente.\"</p><p><b>Opinião C:</b> \"Muitas vezes o preconceito não é contra a língua, mas contra a pessoa: contra a região de onde ela veio ou a classe social a que pertence.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que alguns sotaques e modos de falar são considerados \"bonitos\" e outros viram motivo de piada?",
+      "Ensinar a norma-padrão e combater o preconceito linguístico são objetivos contraditórios?",
+      "O preconceito linguístico pode esconder outros preconceitos, como o regional e o social?",
+      "Que papel a escola, os meios de comunicação e as redes sociais têm nesse problema?"
+    ],
+    "argument_paths": [
+      "Sim, é possível, desde que a escola ensine a norma-padrão como a variedade adequada a certos contextos formais, e não como a única forma \"correta\" de falar.",
+      "O combate é difícil porque o preconceito linguístico está ligado a desigualdades sociais e regionais profundas; mudar a forma como se julga a fala exige enfrentar essas desigualdades.",
+      "A mídia e as redes sociais podem tanto reforçar estereótipos (personagens caricatos com sotaque) quanto valorizar a diversidade, o que as torna parte da solução.",
+      "Combater o preconceito não significa abandonar a norma-padrão: dominá-la é um direito de todos e ajuda a reduzir desigualdades, sem que isso justifique humilhar quem usa outras variedades."
+    ],
+    "repertoire": [
+      {
+        "ref": "Marcos Bagno, Preconceito linguístico: o que é, como se faz (1999)",
+        "how": "Livro que popularizou a discussão no Brasil e questiona a crença de que existe uma única forma certa de falar português; pode sustentar a tese de que o preconceito linguístico é também social."
+      },
+      {
+        "ref": "Oswald de Andrade, poema \"Pronominais\", do livro Pau Brasil (1925)",
+        "how": "Poema modernista que contrapõe a regra gramatical (\"Dê-me um cigarro\") ao uso cotidiano do brasileiro (\"Me dá um cigarro\"); exemplo literário de valorização do português falado no Brasil."
+      },
+      {
+        "ref": "Patativa do Assaré, poeta popular cearense, autor de Cante lá que eu canto cá",
+        "how": "Poeta que escreveu em linguagem matuta nordestina e alcançou reconhecimento nacional; mostra que variedades estigmatizadas também produzem arte de grande valor."
+      }
+    ],
+    "pitfalls": [
+      "Transformar o tema em uma defesa de que \"não é preciso estudar gramática\", ignorando o papel da norma-padrão.",
+      "Tratar apenas de erros de português ou de dicas de escrita, sem discutir o preconceito contra as pessoas.",
+      "Escrever a própria redação fora da norma-padrão para \"provar\" o argumento: a prova exige a norma-padrão."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "div-05",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "De que forma os estereótipos de gênero influenciam as escolhas e os sonhos dos jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as expectativas diferentes que a sociedade costuma ter em relação a meninos e meninas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Na hora de escolher",
+        "body_html": "<p><b>Tia:</b> E aí, Letícia, já sabe o que quer fazer quando crescer?</p><p><b>Letícia:</b> Quero ser engenheira mecânica. Gosto de desmontar as coisas para ver como funcionam.</p><p><b>Tia:</b> Engenharia mecânica? Isso é coisa de homem, minha filha. Por que não faz Pedagogia, que combina mais com você?</p><p><b>Letícia:</b> E o Gustavo? A senhora falou alguma coisa quando ele contou que queria ser enfermeiro?</p><p><b>Tia:</b> Falei, sim. Disse que ele devia escolher uma profissão mais de homem.</p><p><b>Letícia:</b> Então ninguém aqui pode gostar do que gosta, né?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Rosa e azul desde cedo",
+        "body_html": "<p>Muitas das ideias sobre o que é \"de menino\" e o que é \"de menina\" começam antes mesmo do nascimento, na escolha das cores do enxoval. Depois vêm os brinquedos: carrinhos e blocos de montar para uns, bonecas e panelinhas para outras. Com o tempo, essas separações podem se transformar em expectativas sobre comportamento, esportes, profissões e até sobre quais sentimentos podem ser demonstrados. Meninos que choram e meninas que gostam de futebol ainda ouvem, com frequência, que estão fazendo algo \"errado\". Para alguns, essas diferenças são naturais; para outros, são construídas pela cultura e limitam a liberdade de todos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "De onde vêm as ideias sobre o que é \"coisa de menino\" e \"coisa de menina\"?",
+      "Os estereótipos de gênero prejudicam apenas as meninas ou também os meninos? De que maneira?",
+      "Como essas expectativas podem influenciar a escolha de uma profissão, de um esporte ou de um hobby?",
+      "Que papel têm a família, a escola, a publicidade e as redes sociais na formação dessas expectativas?"
+    ],
+    "argument_paths": [
+      "Os estereótipos limitam as escolhas porque desestimulam, desde a infância, talentos e interesses que não correspondem ao que se espera de cada gênero.",
+      "Eles afetam também os meninos, pressionados a esconder sentimentos e a evitar profissões ligadas ao cuidado, o que mostra que o problema é de todos.",
+      "Mesmo quem considera algumas diferenças naturais pode defender que nenhuma delas justifica impedir alguém de seguir uma vocação ou um interesse.",
+      "A escola pode reduzir esse efeito ao oferecer as mesmas oportunidades em esportes, ciências e artes e ao apresentar exemplos diversos de pessoas em cada profissão."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso I",
+        "how": "Estabelece que homens e mulheres são iguais em direitos e obrigações; base para defender igualdade de oportunidades nas escolhas de estudo e de trabalho."
+      },
+      {
+        "ref": "Simone de Beauvoir, O segundo sexo (1949)",
+        "how": "A frase \"Ninguém nasce mulher: torna-se mulher\" sustenta a ideia de que muitos papéis de gênero são aprendidos socialmente, e não definidos pela natureza."
+      },
+      {
+        "ref": "Decreto-Lei nº 3.199/1941, art. 54",
+        "how": "Proibiu às mulheres a prática de esportes considerados \"incompatíveis com as condições de sua natureza\", restrição usada por décadas para impedir o futebol feminino no Brasil; exemplo histórico de como estereótipos viram barreiras concretas."
+      }
+    ],
+    "pitfalls": [
+      "Tratar apenas da violência contra a mulher, tema relacionado, mas diferente do proposto (a influência dos estereótipos nas escolhas).",
+      "Usar generalizações como \"todo homem\" ou \"toda mulher\", reproduzindo os estereótipos que o texto pretende criticar.",
+      "Descrever os estereótipos sem explicar de que forma eles afetam as escolhas e os sonhos dos jovens, que é o núcleo da pergunta."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "div-06",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "Como garantir que imigrantes e refugiados sejam acolhidos com dignidade no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a chegada de imigrantes e refugiados ao Brasil e os desafios de acolhê-los. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Quem é refugiado",
+        "body_html": "<p>Pela lei brasileira, refugiado é a pessoa que deixou seu país por fundado temor de perseguição em razão de sua raça, religião, nacionalidade, grupo social ou opinião política, ou por causa de grave e generalizada violação de direitos humanos, e que não pode contar com a proteção do próprio Estado. Diferentemente de quem migra por escolha, o refugiado costuma sair às pressas, muitas vezes sem documentos, economias ou tempo de despedida. Nos últimos anos, o Brasil recebeu imigrantes e refugiados vindos de países como Venezuela, Haiti, Síria e Afeganistão. Ao chegar, eles enfrentam desafios como aprender o idioma, validar diplomas, encontrar trabalho e matricular os filhos na escola.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Nova na turma",
+        "body_html": "<p>A turma do 9º ano recebeu uma aluna nova em março. Valentina chegou da Venezuela com a mãe e o irmão mais novo e ainda misturava português e espanhol quando falava. Nos primeiros dias, alguns colegas ajudaram com as palavras difíceis e a convidaram para lanchar. Outros cochichavam que \"essa gente vem para cá tirar o lugar dos brasileiros\". Valentina fingia não entender. Em casa, contou à mãe que gostava da escola, mas que às vezes se sentia uma visita que ninguém tinha convidado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes do debate",
+        "body_html": "<p><b>Opinião 1:</b> \"O Brasil já tem muitos problemas. Antes de receber mais gente, o governo deveria cuidar dos brasileiros.\"</p><p><b>Opinião 2:</b> \"Acolher quem foge da guerra ou da fome é uma questão de humanidade. O país também foi construído por pessoas que vieram de fora.\"</p><p><b>Opinião 3:</b> \"Não basta abrir a fronteira. Sem planejamento, emprego e escola, o acolhimento vira abandono.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre um imigrante que escolhe mudar de país e um refugiado?",
+      "Quais dificuldades uma pessoa refugiada pode enfrentar ao chegar ao Brasil?",
+      "A quem cabe o acolhimento: ao governo, às organizações sociais, às escolas, a cada cidadão?",
+      "Por que frases como \"eles vêm tirar nossos empregos\" se espalham, e o que elas revelam?",
+      "O Brasil, formado também por migrações, tem alguma responsabilidade histórica nesse tema?"
+    ],
+    "argument_paths": [
+      "O acolhimento digno depende de políticas públicas de integração, como ensino de português, validação de diplomas e acesso ao trabalho formal, para que o migrante possa se sustentar.",
+      "A xenofobia é o principal obstáculo: sem combater o preconceito na escola, no trabalho e nas redes, as leis de proteção não bastam.",
+      "Acolher é um dever humanitário e também traz ganhos, pois migrantes contribuem com trabalho, cultura e conhecimento, como ocorreu ao longo da formação do Brasil.",
+      "O acolhimento precisa ser planejado e dividido entre União, estados e municípios, para não sobrecarregar as cidades de fronteira nem colocar brasileiros e migrantes em disputa por serviços."
+    ],
+    "repertoire": [
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (ONU, 1948), art. 14",
+        "how": "Afirma que toda pessoa vítima de perseguição tem o direito de procurar e de gozar asilo em outros países; base ética para defender o acolhimento."
+      },
+      {
+        "ref": "Lei nº 9.474/1997 (Lei do Refúgio)",
+        "how": "Define quem é reconhecido como refugiado no Brasil e criou o Conare (Comitê Nacional para os Refugiados); mostra que o país assumiu um compromisso legal com essas pessoas."
+      },
+      {
+        "ref": "Lei de Migração (Lei nº 13.445/2017)",
+        "how": "Substituiu o antigo Estatuto do Estrangeiro, de 1980, e adotou entre seus princípios o repúdio à xenofobia e a acolhida humanitária."
+      },
+      {
+        "ref": "Chegada do navio Kasato Maru ao porto de Santos, em 1908, marco da imigração japonesa no Brasil",
+        "how": "Exemplo de como grupos de imigrantes, muitas vezes alvo de desconfiança no início, se tornaram parte da identidade brasileira."
+      }
+    ],
+    "pitfalls": [
+      "Escrever sobre migração de forma genérica ou apenas sobre outros países, sem responder como acolher no Brasil.",
+      "Apresentar os imigrantes só como vítimas ou só como ameaça, sem reconhecê-los como sujeitos de direitos que também contribuem com o país.",
+      "Propor soluções vagas (\"o governo deve fazer algo\") sem dizer quem deve agir e de que maneira."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "div-07",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "O preconceito contra a pessoa idosa em uma sociedade que valoriza a juventude.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre as gerações e a forma como as pessoas idosas são vistas e tratadas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A avó e o celular",
+        "body_html": "<p>Dona Célia, 72 anos, pediu ao neto que a ensinasse a pagar uma conta pelo celular. Ele explicou uma vez, rápido demais. Ela pediu de novo. Ele suspirou, pegou o aparelho da mão dela e fez tudo sozinho: \"Deixa que eu faço, vó, é mais fácil.\" Mais tarde, no grupo de amigos, riu contando que a avó \"não entende nada de tecnologia\". O que ele não sabia é que Dona Célia tinha trabalhado trinta anos como costureira, calculando medidas de cabeça, e que só queria não depender de ninguém para resolver a própria vida.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Velho é o quê?",
+        "body_html": "<p>A palavra \"velho\" é muitas vezes usada como sinônimo de ultrapassado, lento ou inútil. Propagandas prometem esconder rugas e cabelos brancos, como se envelhecer fosse um defeito. No mercado de trabalho, pessoas mais velhas podem ter dificuldade para conseguir uma vaga, mesmo com experiência. Esse tipo de discriminação baseada na idade recebe o nome de etarismo, ou idadismo. Ao mesmo tempo, a população brasileira está envelhecendo, e cada vez mais pessoas vivem muitos anos depois da aposentadoria. A pergunta que se impõe é: que lugar a sociedade reserva para quem envelhece?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que a juventude costuma ser mais valorizada do que a velhice na nossa sociedade?",
+      "Em que situações do dia a dia as pessoas idosas são tratadas com impaciência ou desrespeito?",
+      "O que jovens e idosos podem aprender uns com os outros?",
+      "De quem é a responsabilidade de garantir uma velhice digna: da família, do Estado ou de toda a sociedade?"
+    ],
+    "argument_paths": [
+      "O etarismo nasce da associação entre valor e produtividade: uma sociedade que valoriza sobretudo quem produz e consome tende a descartar os mais velhos.",
+      "A convivência entre gerações, em casa, na escola e em projetos comunitários, é o caminho mais eficaz para desfazer estereótipos dos dois lados.",
+      "A publicidade e as redes sociais reforçam o culto à juventude, e mudar essas representações é parte da solução.",
+      "Com o envelhecimento da população, garantir direitos às pessoas idosas (saúde, acessibilidade, inclusão digital) é também garantir o futuro dos jovens de hoje."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Pessoa Idosa (Lei nº 10.741/2003, chamada de Estatuto do Idoso até 2022)",
+        "how": "Assegura direitos às pessoas com 60 anos ou mais e determina, no art. 4º, que nenhuma pessoa idosa será objeto de negligência, discriminação, violência, crueldade ou opressão."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 230",
+        "how": "Estabelece que a família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando sua participação na comunidade e defendendo sua dignidade e seu bem-estar."
+      },
+      {
+        "ref": "Década do Envelhecimento Saudável (2021 a 2030), declarada pela Assembleia Geral da ONU",
+        "how": "Mostra que o envelhecimento da população e o combate ao preconceito etário são preocupações mundiais, e não apenas brasileiras."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de saúde ou de aposentadoria, sem discutir o preconceito contra as pessoas idosas.",
+      "Tratar os idosos apenas como frágeis e dependentes, o que reproduz o estereótipo que o tema critica.",
+      "Limitar-se a descrever o problema: por ser uma frase afirmativa, o tema exige que você tome posição sobre causas, efeitos ou caminhos para enfrentá-lo."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "div-08",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "Até que ponto os padrões de beleza alimentam o preconceito contra a aparência entre os jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os padrões de beleza e as ofensas relacionadas à aparência do corpo, do cabelo e do rosto. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Frases que machucam",
+        "body_html": "<p>\"Com esse cabelo, nem adianta tentar.\" \"Você seria bonita se emagrecesse.\" \"Olha o tamanho do nariz dele!\" \"Nossa, você está parecendo um palito.\"</p><p>Frases como essas circulam todos os dias em corredores, grupos de mensagens e comentários de fotos. Muitas vezes são ditas em tom de brincadeira, e quem as diz nem sempre percebe o efeito que provocam. Para quem ouve, porém, a repetição pode transformar uma característica do próprio corpo em motivo de vergonha, levando a pessoa a evitar fotos, faltar às aulas de Educação Física ou esconder o próprio rosto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O espelho e a tela",
+        "body_html": "<p>Os padrões de beleza mudam ao longo da história e variam entre as culturas: o que já foi considerado bonito em uma época pode ser motivo de piada em outra. Hoje, esses padrões circulam com enorme velocidade pelas redes sociais, onde filtros e edições criam rostos e corpos que nem as próprias pessoas fotografadas têm na vida real. Quando alguém compara a própria imagem, sem filtro, com essas versões retocadas, a diferença pode parecer um defeito. O preconceito costuma atingir com mais força quem se distancia do padrão, como pessoas gordas, pessoas com deficiência ou pessoas negras de cabelo crespo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que comentários sobre a aparência de alguém costumam ser tratados como \"brincadeira\"?",
+      "Quem define o que é bonito? Esses padrões são naturais ou construídos?",
+      "Como filtros e fotos editadas nas redes sociais influenciam a forma como os jovens se veem e veem os outros?",
+      "O preconceito contra a aparência se relaciona com outros preconceitos, como o racismo e a gordofobia?",
+      "Que atitudes de estudantes, famílias e escolas podem reduzir esse tipo de ofensa?"
+    ],
+    "argument_paths": [
+      "Em grande medida: os padrões de beleza, reforçados pela publicidade e pelas redes, definem o que é considerado \"normal\" e transformam quem se afasta deles em alvo de ofensas.",
+      "Os padrões explicam apenas parte do problema, pois o preconceito contra a aparência também esconde outros preconceitos, como o racismo (contra o cabelo crespo, por exemplo) e a gordofobia.",
+      "Como os padrões mudam ao longo da história, eles são construídos culturalmente; por isso, podem ser transformados pela educação crítica para a mídia e pela valorização da diversidade de corpos.",
+      "Mais do que os padrões em si, pesa a naturalização da \"brincadeira\": escolas e colegas têm papel decisivo em não aceitar ofensas repetidas como algo normal."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 13.185/2015 (Programa de Combate à Intimidação Sistemática), art. 2º",
+        "how": "Inclui entre as características do bullying os insultos, os comentários sistemáticos e os apelidos pejorativos; mostra que ofensas repetidas à aparência não são simples brincadeira."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 17",
+        "how": "Define o direito ao respeito como a inviolabilidade da integridade física, psíquica e moral, incluindo a preservação da imagem e da identidade da criança e do adolescente."
+      },
+      {
+        "ref": "Naomi Wolf, O mito da beleza (1990)",
+        "how": "Livro que analisa como os padrões de beleza funcionam como forma de pressão social, sobretudo sobre as mulheres; útil para argumentar que esses padrões são construídos."
+      }
+    ],
+    "pitfalls": [
+      "Desviar para saúde, dieta ou exercícios físicos (outro tema), em vez de discutir o preconceito ligado à aparência.",
+      "Culpar apenas as redes sociais, sem considerar as ofensas presenciais e a responsabilidade de cada pessoa.",
+      "Limitar-se a conselhos de autoestima (\"ame-se como você é\"), sem avaliar o peso dos padrões de beleza na origem do preconceito, que é o que a pergunta pede."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "div-09",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "A presença da diversidade em filmes, séries, livros e jogos ajuda a combater o preconceito?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a representatividade de diferentes grupos sociais nas produções culturais consumidas pelos jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A heroína",
+        "body_html": "<p>Na biblioteca da escola, Ana Clara encontrou um livro de fantasia cuja heroína tinha a pele escura e o cabelo crespo como o dela. Leu em dois dias. Na aula seguinte, comentou com a turma que era a primeira vez que se imaginava como a protagonista de uma aventura, e não como a amiga da protagonista. Um colega achou exagero: \"É só uma história, que diferença faz a cor da personagem?\" Ana Clara pensou um pouco e respondeu: \"Para você, talvez nenhuma. Você sempre se viu nas capas.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Opiniões em debate",
+        "body_html": "<p><b>Opinião 1:</b> \"Ver pessoas diferentes em papéis de destaque mostra que todos podem ser heróis, cientistas ou líderes. Isso muda a forma como as crianças enxergam o mundo e a si mesmas.\"</p><p><b>Opinião 2:</b> \"Muitas empresas só colocam personagens diversos para vender mais. Se não houver pessoas diversas também escrevendo, dirigindo e decidindo, é apenas propaganda.\"</p><p><b>Opinião 3:</b> \"Uma boa história deveria ser escolhida pela qualidade, e não por cumprir uma lista de grupos representados.\"</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Estereótipo e representação",
+        "body_html": "<p>Representar um grupo não é apenas colocá-lo em cena. Durante muito tempo, personagens negros, indígenas, gordos, com deficiência ou moradores de periferia apareceram em filmes e novelas, com frequência, em papéis secundários ou caricatos: o vilão, o empregado, o engraçado, o coitado. Esse tipo de repetição pode reforçar estereótipos, isto é, imagens simplificadas que reduzem uma pessoa a uma única característica. Por isso, muitos defendem que a questão não é só quantos personagens diversos aparecem, mas como eles aparecem e quem conta suas histórias.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que pode ser importante para uma criança ou um adolescente se ver representado em uma história?",
+      "Qual é a diferença entre representar um grupo e reproduzir estereótipos sobre ele?",
+      "Quando a diversidade é usada como estratégia de marketing, seus efeitos desaparecem?",
+      "Obras de ficção podem mudar a forma como as pessoas pensam, ou apenas refletem o que a sociedade já pensa?"
+    ],
+    "argument_paths": [
+      "Sim, porque a representatividade amplia o imaginário, fortalece a autoestima de grupos historicamente invisibilizados e acostuma o público a conviver com a diferença.",
+      "Ajuda apenas quando foge dos estereótipos e quando pessoas desses grupos também participam da criação; a simples presença na tela pode ser superficial.",
+      "A representatividade é importante, mas insuficiente: sem mudanças na escola, na família e nas instituições, uma obra sozinha não elimina o preconceito.",
+      "Qualidade artística e diversidade não são opostas: histórias diversas ampliam as possibilidades criativas, em vez de limitá-las."
+    ],
+    "repertoire": [
+      {
+        "ref": "Chimamanda Ngozi Adichie, O perigo de uma história única (palestra TED de 2009, publicada depois em livro)",
+        "how": "A escritora nigeriana mostra que conhecer um povo por uma única narrativa gera estereótipos; argumento central para defender a diversidade de histórias e de quem as conta."
+      },
+      {
+        "ref": "Carolina Maria de Jesus, Quarto de despejo: diário de uma favelada (1960)",
+        "how": "Diário de uma mulher negra moradora da favela do Canindé, em São Paulo, que se tornou um grande sucesso editorial; exemplo de como uma voz antes invisível pode mudar a forma como a sociedade enxerga a pobreza."
+      },
+      {
+        "ref": "Leis nº 10.639/2003 e nº 11.645/2008",
+        "how": "Tornaram obrigatório o estudo da história e da cultura afro-brasileira e indígena nas escolas de ensino fundamental e médio, públicas e particulares; mostram que ampliar as narrativas apresentadas aos jovens é também uma política pública."
+      }
+    ],
+    "pitfalls": [
+      "Listar filmes, séries ou jogos preferidos sem argumentar, transformando a redação em resenha ou comentário de fã.",
+      "Discutir apenas se as obras são boas ou ruins artisticamente, sem relacionar a representatividade ao preconceito.",
+      "Responder \"sim\" ou \"não\" de forma absoluta, ignorando as críticas e os limites apresentados nos textos motivadores."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "div-10",
+    "axis": "div",
+    "axis_label": "Diversidade, preconceito e direitos humanos",
+    "theme": "As políticas de cotas são um caminho justo para ampliar o acesso à educação?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as ações afirmativas, como as cotas em instituições públicas de ensino, e os debates sobre justiça e igualdade de oportunidades. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que são ações afirmativas",
+        "body_html": "<p>Ações afirmativas são políticas que buscam reduzir desigualdades históricas, oferecendo condições especiais a grupos que enfrentam barreiras para acessar direitos. As cotas são o exemplo mais conhecido: uma parte das vagas em processos seletivos é reservada para determinados grupos, como estudantes vindos de escolas públicas, pessoas de baixa renda, pessoas pretas, pardas e indígenas e pessoas com deficiência. No Brasil, a Lei de Cotas, de 2012, tornou obrigatória a reserva de vagas nas instituições federais de ensino superior e de ensino técnico de nível médio. Desde então, o tema divide opiniões e continua presente nos debates públicos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Discussão no corredor",
+        "body_html": "<p><b>Miguel:</b> Acho injusto. Se eu estudei mais e tirei nota maior, a vaga deveria ser minha.</p><p><b>Sofia:</b> Mas vocês não começaram a corrida do mesmo lugar. Tem gente que passou metade do ano sem professor de Matemática e ainda trabalhava à tarde.</p><p><b>Miguel:</b> Então o governo devia melhorar a escola pública, em vez de reservar vaga.</p><p><b>Sofia:</b> Uma coisa não impede a outra. Melhorar a escola leva anos. E quem está terminando o ensino médio agora?</p><p><b>Miguel:</b> Tá, mas por que usar a cor da pele como critério, e não só a renda?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "A linha de largada",
+        "body_html": "<p>Imagine uma corrida em que alguns atletas largam dez metros à frente, com tênis novos, enquanto outros começam lá atrás, descalços. No final, todos cruzam a mesma linha de chegada, e o vencedor é chamado de \"o mais rápido\". Para alguns, essa imagem explica por que as cotas são necessárias: sem corrigir as diferenças do ponto de partida, a competição não mede apenas o esforço de cada um. Para outros, a solução não deveria estar na linha de chegada, e sim em garantir, desde o início, as mesmas condições para todos os corredores.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Tratar todos exatamente da mesma forma é sempre justo? Qual é a diferença entre igualdade formal e igualdade de oportunidades?",
+      "Quais desigualdades as cotas procuram corrigir: sociais, raciais, regionais?",
+      "As cotas devem ser permanentes ou uma medida temporária, acompanhada de melhorias na educação básica?",
+      "Que argumentos usam os defensores e os críticos das cotas? Qual deles convence você mais, e por quê?"
+    ],
+    "argument_paths": [
+      "As cotas são justas porque corrigem desigualdades de ponto de partida, sociais e raciais, que o mérito medido em uma única prova não consegue revelar.",
+      "As cotas são necessárias, mas devem ser acompanhadas de investimento na escola pública, para que um dia deixem de ser indispensáveis.",
+      "Alguns defendem que o critério social (renda e escola pública) basta; outros argumentam que o racismo cria barreiras próprias, o que justifica também o critério racial. A redação pode tomar partido nesse debate.",
+      "Há quem defenda que o foco deveria estar apenas na melhoria da educação básica; é possível sustentar essa posição, desde que se discuta o que fazer com quem já está sendo prejudicado hoje."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 12.711/2012 (Lei de Cotas)",
+        "how": "Reserva no mínimo metade das vagas das instituições federais de ensino superior e de ensino técnico de nível médio para estudantes que cursaram a escola pública, com subdivisões por renda e para pessoas pretas, pardas e indígenas; a Lei nº 13.409/2016 incluiu pessoas com deficiência, e a Lei nº 14.723/2023, quilombolas. O próprio processo seletivo do Colégio Pedro II para a 1ª série do ensino médio segue essa lei."
+      },
+      {
+        "ref": "Supremo Tribunal Federal, ADPF 186 (julgada em 2012)",
+        "how": "O STF decidiu, por unanimidade, que o sistema de cotas raciais da Universidade de Brasília (UnB) é constitucional, reconhecendo a validade desse tipo de política; mostra que o tema foi examinado pela mais alta corte do país."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 3º, incisos III e IV",
+        "how": "Entre os objetivos fundamentais da República estão reduzir as desigualdades sociais e regionais e promover o bem de todos, sem preconceitos; pode sustentar tanto a defesa das cotas quanto propostas de melhoria da educação básica."
+      },
+      {
+        "ref": "Rui Barbosa, Oração aos moços (1921)",
+        "how": "A ideia de que a regra da igualdade consiste em \"quinhoar desigualmente aos desiguais, na medida em que se desigualam\" ajuda a explicar o conceito de igualdade material."
+      }
+    ],
+    "pitfalls": [
+      "Discutir apenas a qualidade da escola pública ou o funcionamento das provas de seleção, sem avaliar se as cotas são justas.",
+      "Usar generalizações ofensivas sobre estudantes cotistas ou não cotistas, o que enfraquece o texto e desrespeita grupos sociais.",
+      "Apresentar os argumentos dos dois lados sem chegar a uma tese clara: o tema pede que você defenda um ponto de vista."
+    ],
+    "difficulty": 3
+  }
+]

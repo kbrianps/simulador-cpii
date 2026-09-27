@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulador CPII</title>
+<meta name="description" content="Simulador offline para o processo seletivo da 1ª série do Ensino Médio do Colégio Pedro II: provas anteriores, simulados cronometrados, redação e estatísticas de desempenho.">
+<link rel="icon" href="%ICON%">
+<style>
+/*FONTS*/
+</style>
+<style>
+/*KATEX_CSS*/
+</style>
+<style>
+/*APP_CSS*/
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="#/" aria-label="Simulador CPII, início">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect x="1.5" y="1.5" width="29" height="29" rx="7" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="11" cy="11" r="4" fill="currentColor"/><circle cx="21" cy="11" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="11" cy="21" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="21" cy="21" r="4" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+      <span class="brand-name">Simulador <b>CPII</b></span>
+    </a>
+    <nav class="mainnav" aria-label="Seções">
+      <a href="#/" data-nav="home">Início</a>
+      <a href="#/praticar" data-nav="praticar">Praticar</a>
+      <a href="#/simulado" data-nav="simulado">Simulado</a>
+      <a href="#/redacao" data-nav="redacao">Redação</a>
+      <a href="#/desempenho" data-nav="desempenho">Desempenho</a>
+    </nav>
+    <div class="topbar-tools">
+      <button class="iconbtn" id="btn-font-down" title="Diminuir o texto" aria-label="Diminuir o texto">A<small>−</small></button>
+      <button class="iconbtn" id="btn-font-up" title="Aumentar o texto" aria-label="Aumentar o texto">A<small>+</small></button>
+      <button class="iconbtn" id="btn-theme" title="Alternar tema claro ou escuro" aria-label="Alternar tema claro ou escuro">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="simbar" id="simbar" hidden></div>
+</header>
+<main id="main" tabindex="-1"></main>
+<div id="toasts" class="toasts" role="status" aria-live="polite"></div>
+<div id="modal-root"></div>
+<script type="application/json" id="app-data">/*APP_DATA*/</script>
+<script>
+/*APP_JS*/
+</script>
+</body>
+</html>

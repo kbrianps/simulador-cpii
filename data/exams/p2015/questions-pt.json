@@ -1,0 +1,295 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No texto I, a frase inicial apresenta uma declaração em linguagem coloquial: “Não existe nada mais fácil do que sacanear quem já é frequentemente sacaneado”.</p><p>No mesmo texto, essa ideia aparece em linguagem formal na frase</p>",
+    "options": {
+      "A": "“Sou a favor de fazer piada da intolerância em si.” (linha 14)",
+      "B": "“Não sou a favor de fazer graça de quem já tem que lidar diariamente com a intolerância.”(linhas 13-14)",
+      "C": "“Recentemente, dei uma entrevista em que me perguntaram sobre os limites do humor.” (linhas 4-5)",
+      "D": "“É importante deixar claro que eu disse sim essa frase pavorosa.”(linha 8)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.variacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A frase inicial, “Não existe nada mais fácil do que sacanear quem já é frequentemente sacaneado” (linhas 1-2), usa a gíria “sacanear”, típica da fala informal. A ideia é: zombar de quem já é alvo de zombaria o tempo todo, atitude que a autora critica.</p><p>Procure no texto uma frase com a mesma ideia, mas em linguagem mais cuidada. Nas linhas 13-14, a autora escreve: “Não sou a favor de fazer graça de quem já tem que lidar diariamente com a intolerância”. Compare as partes:</p><ul><li>“sacanear” corresponde a “fazer graça de”;</li><li>“quem já é frequentemente sacaneado” corresponde a “quem já tem que lidar diariamente com a intolerância”.</li></ul><p>Nas duas frases, o alvo da zombaria é o mesmo (a pessoa que já sofre com o preconceito) e a autora rejeita essa atitude. Muda só o registro: informal na primeira, formal na segunda.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Fala em fazer piada “da intolerância em si”, ou seja, rir do preconceito, e não de quem sofre com ele. O alvo da graça é outro, então a ideia não é a mesma.",
+      "C": "Apenas relata que a autora deu uma entrevista sobre os limites do humor; não fala em zombar de quem já é alvo de zombaria.",
+      "D": "Mostra a autora admitindo ter dito a frase publicada na entrevista; não tem relação com a ideia de sacanear quem já é sacaneado."
+    },
+    "tip": "Para achar a mesma ideia em outro registro, troque as palavras informais por equivalentes formais (“sacanear” = “fazer graça de”) e confira se a ação e o alvo continuam os mesmos."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>A autora do texto I usa a 1ª pessoa do plural (“estamos”, “nossos”) e a expressão “a gente” para</p>",
+    "options": {
+      "A": "tornar o leitor também responsável pelo que se diz sobre o bullying.",
+      "B": "condenar as práticas de bullying cometidas pelos possíveis leitores do texto",
+      "C": "recusar a responsabilidade sobre práticas de bullying que podem ser cometidas.",
+      "D": "reforçar a responsabilidade de quem escreve sobre o que é dito sobre o bullying."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Localize as marcas de 1ª pessoa do plural no texto I:</p><ul><li>“Mas aí não <b>estamos</b> falando de humor” (linhas 2-3);</li><li>“Em colocar na mesa os <b>nossos</b> podres para que <b>a gente</b> lembre que eles existem” (linhas 14-15).</li></ul><p>“Nós” e “a gente” significam “eu + outras pessoas”. Quando a autora diz “estamos falando” e “nossos podres”, ela não fala só de si mesma: coloca o leitor dentro da conversa. Os “podres” (os preconceitos) passam a ser de todos, inclusive de quem lê, e todos precisam lembrar que eles existem.</p><p>Esse é um recurso argumentativo comum: ao incluir o leitor, a autora o torna <b>também</b> responsável pelo que se diz e se faz em relação ao bullying e ao preconceito. É o que afirma a alternativa A.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O plural inclui a própria autora (“nós” = “eu + você”), então ela não está acusando os leitores. O texto não faz nenhuma condenação dirigida especificamente a quem lê.",
+      "C": "É o contrário: ao dizer “nossos podres”, a autora assume a responsabilidade junto com o leitor, em vez de recusá-la.",
+      "D": "Para destacar só a responsabilidade de quem escreve, a autora usaria a 1ª pessoa do singular (“eu”). O plural estende essa responsabilidade ao leitor."
+    },
+    "tip": "Em textos argumentativos, “nós” e “a gente” costumam incluir o leitor no raciocínio, criando proximidade e responsabilidade compartilhada."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Os advérbios em português servem para traduzir variadas circunstâncias, mas também, em alguns contextos, como nos textos argumentativos, são usados para expressar um ponto de vista defendido pelo produtor do texto.</p><p>Esse segundo uso do advérbio aparece em</p>",
+    "options": {
+      "A": "“Não sou a favor de fazer graça de quem já tem que lidar diariamente com a intolerância (...)” (linhas 13-14)",
+      "B": "“Recentemente, dei uma entrevista em que me perguntaram sobre os limites do humor.”(linhas 4-5)",
+      "C": "“Não existe nada mais fácil do que sacanear quem já é frequentemente sacaneado.” (linhas 1-2)",
+      "D": "“Mas fingir que o preconceito não existe é infinitamente pior.” (linhas 11-12)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O enunciado separa dois usos do advérbio: indicar uma circunstância (tempo, frequência, lugar...) ou mostrar a opinião de quem escreve. Observe o advérbio terminado em <i>-mente</i> de cada alternativa:</p><ul><li>A: “diariamente”, circunstância de tempo (todos os dias);</li><li>B: “Recentemente”, circunstância de tempo (há pouco tempo);</li><li>C: “frequentemente”, circunstância de frequência (muitas vezes);</li><li>D: “infinitamente”, intensidade.</li></ul><p>Em D (linhas 11-12), a autora compara duas atitudes e decide que fingir que o preconceito não existe é pior do que correr o risco de ser “tachado de preconceituoso”. O advérbio “infinitamente” reforça esse julgamento de forma exagerada: ninguém mediu nada, é a avaliação pessoal dela. Por isso ele expressa o ponto de vista defendido no texto.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Diariamente” só informa com que frequência essas pessoas enfrentam a intolerância (todos os dias); é uma circunstância, não uma avaliação da autora. O “não” apenas nega a frase: a posição da autora está na expressão “ser a favor”, e não em um advérbio.",
+      "B": "“Recentemente” apenas situa a entrevista no tempo; é advérbio de circunstância de tempo, sem juízo de valor.",
+      "C": "“Frequentemente” indica quantas vezes a pessoa é alvo de zombaria (circunstância de frequência); não expressa um julgamento de quem escreve. A frase é uma opinião, mas a avaliação está no adjetivo “fácil”; o “mais” só forma a comparação."
+    },
+    "tip": "Advérbios como “infinitamente”, “felizmente” e “claramente” costumam revelar a opinião do autor; já “recentemente” e “diariamente” só indicam circunstâncias de tempo."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>Assinale a alternativa que contém a frase do texto I que diz de outro modo a mesma mensagem do terceiro quadrinho do texto II.</p>",
+    "options": {
+      "A": "“Recentemente, dei uma entrevista em que me perguntaram sobre os limites do humor.” (linhas 4-5)",
+      "B": "“Mas aí não estamos falando de humor. O nome disso é bullying.” (linhas 2-3)",
+      "C": "“É importante deixar claro que eu disse sim essa frase pavorosa.” (linha 8)",
+      "D": "“Sou a favor de se fazer piada da intolerância em si.” (linha 14)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No texto II, o menino diz ao longo dos quadrinhos: “Às vezes os preconceitos e o ódio... aparecem disfarçados de ‘humor’!” e conclui no terceiro quadro: “Então, não é ‘só uma piada’!”. A mensagem é: quando uma “piada” carrega preconceito e ódio, ela não é inofensiva; é outra coisa, que só está fantasiada de humor.</p><p>No texto I, a autora diz algo muito parecido nas linhas 2-3. Depois de falar em “sacanear quem já é frequentemente sacaneado”, ela afirma: “Mas aí não estamos falando de humor. O nome disso é <i>bullying</i>.”</p><p>Os dois trechos negam que se trate de simples humor e dão outro nome ao que está acontecendo (preconceito, ódio, <i>bullying</i>). Por isso a alternativa B diz “de outro modo” a mesma mensagem da tirinha.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Só informa que a autora deu uma entrevista sobre os limites do humor; não afirma que certas piadas deixam de ser humor.",
+      "C": "A autora apenas confirma que disse a frase publicada; não há relação com a ideia de que a piada preconceituosa não é “só uma piada”.",
+      "D": "Apresenta uma proposta da autora (rir da intolerância em si), e não a denúncia de que o preconceito se disfarça de humor."
+    },
+    "tip": "Em questões de comparação entre textos, resuma cada trecho em uma frase curta, com suas palavras, e veja qual resumo coincide com o outro."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O termo “Então”, no terceiro quadrinho do texto II, pode ser substituído, sem prejuízo de seu sentido original, por</p>",
+    "options": {
+      "A": "portanto.",
+      "B": "porque.",
+      "C": "pois.",
+      "D": "mas."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Veja a ordem das falas na tirinha. Primeiro o menino faz uma constatação: “Às vezes os preconceitos e o ódio... aparecem disfarçados de ‘humor’!”. Depois, no terceiro quadro, tira uma conclusão dela: “Então, não é ‘só uma piada’!”.</p><p>Nesse contexto, “Então” introduz uma <b>conclusão</b>: já que o preconceito pode vir disfarçado de humor, conclui-se que certas piadas não são apenas piadas. A conjunção que expressa conclusão, entre as alternativas, é <b>portanto</b> (também serviriam “logo” e “por isso”).</p><p>Faça o teste da substituição: “Portanto, não é ‘só uma piada’!”. A frase continua com o mesmo sentido.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Porque” indica causa ou explicação. Com ele, a última fala passaria a explicar a anterior, e não a concluir algo a partir dela.",
+      "C": "No início da frase, “pois” tem valor explicativo, como “porque”. Ele só é conclusivo quando vem depois do verbo, entre vírgulas (“não é, pois, só uma piada”).",
+      "D": "“Mas” indica oposição, e não há contraste entre as falas: a terceira é consequência lógica das duas primeiras."
+    },
+    "tip": "“Então”, “portanto”, “logo” e “por isso” introduzem conclusão; “porque” e “pois” (antes do verbo) introduzem causa ou explicação."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia o seguinte trecho destacado do texto III: “Segundo ele, os comediantes consideraram esse humor fácil, pois muitas vezes se limitava a imitar essas pessoas.” (linhas 9-11).</p><p>Assinale a alternativa que apresenta a forma correspondente da oração sublinhada na voz passiva.</p>",
+    "options": {
+      "A": "Esse humor fácil foi considerado pelos comediantes.",
+      "B": "Esse humor é considerado fácil pelos comediantes.",
+      "C": "Considerou-se esse humor fácil pelos comediantes.",
+      "D": "Esse humor foi considerado fácil pelos comediantes"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.verbos",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A prova fala em “oração sublinhada”, mas o destaque não aparece no arquivo oficial. A oração que pode ir para a voz passiva é “os comediantes consideraram esse humor fácil” (linhas 9-10). Analise suas partes:</p><ul><li>sujeito (quem pratica a ação): “os comediantes”;</li><li>verbo: “consideraram” (pretérito perfeito);</li><li>objeto direto: “esse humor”;</li><li>predicativo do objeto (a qualidade atribuída a ele): “fácil”.</li></ul><p>Na voz passiva analítica, o objeto direto vira sujeito, o verbo vira <b>ser</b> + particípio no mesmo tempo (consideraram → <b>foi considerado</b>, no singular porque o novo sujeito, “esse humor”, está no singular) e o antigo sujeito vira agente da passiva (<b>pelos comediantes</b>). O predicativo “fácil” continua atribuído a “esse humor”.</p><p>Resultado: “Esse humor foi considerado fácil pelos comediantes”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Transforma o predicativo “fácil” em uma característica presa a “humor” (“esse humor fácil”). Assim some a avaliação feita pelos comediantes: a frase passa a dizer apenas que esse humor “foi considerado” (levado em conta), e não que foi julgado fácil.",
+      "B": "Troca o tempo verbal: “consideraram” está no pretérito perfeito, então o verbo ser também deve ficar no pretérito (“foi”), e não no presente (“é”).",
+      "C": "É uma voz passiva sintética (com “se”), que, pela norma-padrão, não vem com agente da passiva expresso. Com “pelos comediantes”, a frase fica inadequada; a forma correspondente é a analítica."
+    },
+    "tip": "Na passagem para a voz passiva analítica, o objeto direto vira sujeito, o verbo vira “ser” + particípio no mesmo tempo do original e o sujeito vira agente com “por”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia o trecho do texto III a seguir: “O humor está presente na civilização desde as sociedades mais primitivas — ele é uma capacidade que o ser humano tem de olhar a realidade e ressignificá-la, tornando-a algo engraçado e conferindo-lhe olhar crítico.” (linhas 1-3).</p><p>Os pronomes oblíquos “la”, “a” e “lhe” referem-se ao mesmo termo, que é</p>",
+    "options": {
+      "A": "“uma capacidade”.",
+      "B": "“as sociedades”.",
+      "C": "“na civilização”.",
+      "D": "“a realidade”."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os pronomes “la”, “a” e “lhe” retomam algo dito antes. Segundo o trecho, o ser humano tem a capacidade “de olhar a realidade e ressignificá-la, tornando-a algo engraçado e conferindo-lhe olhar crítico” (linhas 2-3).</p><p>Faça o teste da substituição:</p><ul><li>“ressignificar <b>a realidade</b>” (dar novo significado à realidade);</li><li>“tornando <b>a realidade</b> algo engraçado”;</li><li>“conferindo <b>à realidade</b> olhar crítico”.</li></ul><p>As três frases fazem sentido. Além disso, “la” e “a” estão no feminino singular, concordando com “a realidade”, e “lhe” está no singular. A ideia do trecho é justamente essa: o ser humano olha a realidade e a transforma em algo engraçado e crítico.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Uma capacidade” também é feminino singular, mas o sentido não funciona: não é a capacidade que é ressignificada e tornada engraçada, e sim aquilo que o ser humano olha.",
+      "B": "“As sociedades” está no plural; para retomá-lo, os pronomes teriam de ser “las”, “as” e “lhes”.",
+      "C": "“Na civilização” indica onde o humor está presente, e o trecho não fala em ressignificar a civilização nem em torná-la engraçada."
+    },
+    "tip": "Para descobrir o referente de um pronome, confira gênero e número e substitua o pronome pelo termo candidato: a frase precisa continuar com sentido."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>No verso “Como chave desse mal” (estrofe VIII), a palavra “chave” foi empregada de modo figurado.</p><p>Assinale a alternativa que apresenta a figura de linguagem em questão.</p>",
+    "options": {
+      "A": "Antítese.",
+      "B": "Hipérbole.",
+      "C": "Metáfora.",
+      "D": "Metonímia."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Leia a estrofe VIII: “Também há o preconceito / Como chave desse mal”. O “mal” é o bullying, e o preconceito é apresentado como a “chave” dele.</p><p>Uma chave de verdade abre portas. No verso, a palavra ganha outro sentido: “chave” é o elemento principal, aquilo que abre caminho e explica o bullying. O poeta aproxima preconceito e chave por uma <b>semelhança</b>: assim como a chave abre a porta, o preconceito abre caminho para a violência.</p><p>Atenção: o “como” desse verso não é comparativo; significa “na condição de”, “no papel de”. Quando uma palavra é usada com o sentido de outra por causa de uma semelhança, sem conectivo de comparação, temos uma <b>metáfora</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Antítese é a aproximação de ideias opostas (como “amor” e “ódio”); não há palavras de sentido contrário nesse verso.",
+      "B": "Hipérbole é o exagero intencional (como “morri de rir”); chamar o preconceito de “chave” não exagera nada, apenas cria uma imagem por semelhança.",
+      "D": "Metonímia troca um termo por outro com que ele tem relação real de proximidade (autor pela obra, parte pelo todo). Entre preconceito e chave a relação é só de semelhança, o que caracteriza a metáfora."
+    },
+    "tip": "Se o sentido figurado nasce de uma semelhança, é metáfora; se nasce de uma relação real de proximidade (parte e todo, autor e obra), é metonímia."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>Sobre a primeira estrofe do texto IV, podemos afirmar que</p>",
+    "options": {
+      "A": "embora a escola seja um lugar de respeito às diferenças, lá também ocorre bullying.",
+      "B": "como é palco da democracia, a escola é um lugar em que raramente acontece bullying.",
+      "C": "a escola não é um lugar de cidadania, por isso não é palco da democracia, e sim da covardia.",
+      "D": "a covardia deve ser eliminada da democracia porque a escola é um lugar de respeito às diferenças."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A primeira estrofe do fragmento é a de número IV:</p><blockquote>Até mesmo na escola<br>Lugar de cidadania<br>Do respeito às diferenças<br>Palco da democracia<br>Há o bullying escolar<br>Uma tremenda covardia</blockquote><p>Os versos 2 a 4 descrevem a escola de forma positiva: lugar de cidadania, de respeito às diferenças, palco da democracia. Os versos 5 e 6 afirmam que, mesmo assim, lá existe bullying.</p><p>A expressão “Até mesmo” marca algo inesperado: seria de esperar que um lugar assim não tivesse bullying, mas ele acontece. Essa relação de contraste é exatamente a que a conjunção “embora” expressa na alternativa A: “embora a escola seja um lugar de respeito às diferenças, lá também ocorre bullying”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A estrofe afirma que “Há o bullying escolar”, sem dizer que isso é raro; “raramente” é uma informação inventada. Além disso, o “Até mesmo” indica que, apesar de ser palco da democracia, a escola também tem bullying.",
+      "C": "Nega o que a estrofe afirma: os versos dizem justamente que a escola é “Lugar de cidadania” e “Palco da democracia”.",
+      "D": "Cria uma relação de causa (“porque”) e uma recomendação que não estão na estrofe, que apenas constata que existe bullying na escola."
+    },
+    "tip": "Expressões como “até mesmo” e “inclusive” marcam algo inesperado: perceba o contraste entre o que se esperava e o que de fato acontece."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4",
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>Releia os versos a seguir, destacados do texto IV: “A terrível violência/ Que vive a nos rodear.” (estrofe VI)</p><p>Considerando as alternativas abaixo, com trechos destacados dos textos I, III e IV, assinale aquela na qual a palavra que pertence à mesma classe gramatical que nos versos destacados acima</p>",
+    "options": {
+      "A": "“O importante é entender / Que bullying é covardia” (Texto IV).",
+      "B": "“É importante deixar claro que eu disse sim essa frase pavorosa.” (Texto I)",
+      "C": "“(...) ele é uma capacidade que o ser humano tem de olhar a realidade(...) “ (Texto III)",
+      "D": "“Alexino conta que, a partir dos anos 40, os humoristas passaram a retratar frequentemente de forma pejorativa grupos minorizados da sociedade.” (Texto III)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O enunciado quer saber em qual alternativa a palavra <b>que</b> tem a mesma classe gramatical do “que” dos versos “A terrível violência / Que vive a nos rodear”.</p><p>Nos versos, “que” retoma “violência”: é a violência que vive a nos rodear. Por isso ele é um <b>pronome relativo</b> e pode ser trocado por “a qual”: “A terrível violência, a qual vive a nos rodear”.</p><p>Aplique o mesmo teste às alternativas:</p><ul><li>C: “uma capacidade que o ser humano tem” = “uma capacidade <b>a qual</b> o ser humano tem”. O “que” retoma “capacidade”, então é pronome relativo, como nos versos.</li><li>A, B e D: o “que” não retoma nenhum termo. Ele inicia uma oração que completa um verbo e pode ser trocada por “isso”: “entender isso”, “deixar isso claro”, “conta isso”. É <b>conjunção integrante</b>.</li></ul><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O “que” inicia a oração “que bullying é covardia”, que completa o verbo “entender” (entender isso). É conjunção integrante e não retoma nenhum termo.",
+      "B": "“Que eu disse sim essa frase pavorosa” completa “deixar claro” (deixar isso claro). O “que” é conjunção integrante.",
+      "D": "A oração iniciada por “que” completa o verbo “conta” (Alexino conta isso). O “que” é conjunção integrante, não pronome relativo."
+    },
+    "tip": "Se o “que” puder ser trocado por “o qual”/“a qual”, é pronome relativo; se a oração que ele inicia puder ser trocada por “isso”, é conjunção integrante."
+  }
+]

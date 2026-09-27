@@ -1,0 +1,23 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "O que fazer para a população brasileira frequentar mais os espaços de museu?",
+  "prompt_html": "<p>A partir das noções de museu e memória presentes nos textos da Prova de Língua Portuguesa, escreva um <b>texto dissertativo-argumentativo</b> em que você se posicione em relação à seguinte proposta:</p><p class=\"tema\"><b>O que fazer para a população brasileira frequentar mais os espaços de museu?</b></p>",
+  "requirements": [
+    "conter obrigatoriamente argumentos que sustentem suas opiniões;",
+    "ter entre 20 e 25 linhas;",
+    "apresentar letra legível e não conter rasuras;",
+    "ter, no mínimo, três parágrafos;",
+    "estar de acordo com a norma padrão para a modalidade escrita;",
+    "ser em prosa;",
+    "estar de acordo com a proposta apresentada;",
+    "ser transcrito no local indicado na FOLHA DE TEXTOS DEFINITIVOS."
+  ],
+  "zero_criteria": [],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem introduzida por “Seu texto deverá:”; o último item aparece em negrito e em fonte maior na prova.",
+    "A prova não traz uma lista de critérios de nota zero.",
+    "A proposta não traz textos motivadores próprios; remete às noções de museu e memória presentes nos textos da prova de Língua Portuguesa."
+  ]
+}

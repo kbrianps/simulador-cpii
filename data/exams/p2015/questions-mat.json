@@ -1,0 +1,273 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe com atenção o quadro a seguir.</p><img src=\"img/p2015/mat-q11.png\" alt=\"Gráfico de barras intitulado “Desemprego por idade”, com o subtítulo “Jovens são os mais afetados pela desaceleração do mercado de trabalho”. Eixo vertical de 0% a 18%, marcado de 2 em 2 pontos percentuais. Para cada faixa etária há três barras: Maio/2014 (cinza-claro), Abril/2015 (cinza-escuro) e Maio/2015 (preto). 18 a 24 anos: 12,3% em Maio/2014, 16,2% em Abril/2015 e 16,4% em Maio/2015. 25 a 49 anos: barras sem valor escrito, de cerca de 3,8%, 5,2% e 5,6%, respectivamente. 50 anos ou mais: barras sem valor escrito, de cerca de 1,7%, 2,5% e 2,4%, respectivamente. Fonte: IBGE.\"><p><b>IBGE: desemprego sobe mais entre jovens de 18 a 24 anos, chegando a 16,4%</b></p><p>O aumento do desemprego em maio foi maior entre os jovens, segundo o IBGE (Instituto Brasileiro de Geografia e Estatística).</p><p><small>(Fonte: www.uol.com.br. Adaptado. Acessado em 25/06/2015.)</small></p><p>No último censo realizado em 2010, o IBGE estimava a população de jovens entre 18 e 24 anos em torno de 24 milhões. Supondo que o número não tenha se alterado e tomando-o por base, pode-se dizer que o número de desempregados nessa faixa, 18 a 24 anos, aumentou, no último ano em, aproximadamente</p>",
+    "options": {
+      "A": "500 mil.",
+      "B": "1 milhão.",
+      "C": "1milhão e meio.",
+      "D": "2 milhões"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No gráfico, olhe só para a faixa de <b>18 a 24 anos</b>. “No último ano” significa de maio de 2014 a maio de 2015 (a barra de abril/2015 não entra na conta):</p><ul><li>maio/2014: 12,3% de desempregados;</li><li>maio/2015: 16,4% de desempregados.</li></ul><p>A taxa subiu \\(16{,}4 - 12{,}3 = 4{,}1\\) pontos percentuais. Como a população de jovens é a mesma (24 milhões), o aumento no número de desempregados é 4,1% de 24 milhões.</p><p>Sem calculadora, divida em partes:</p><ul><li>4% de 24 milhões: \\(0{,}04 \\times 24 = 0{,}96\\) milhão, ou seja, 960 mil;</li><li>0,1% de 24 milhões: 24 mil.</li></ul><p>Total: \\(960 + 24 = 984\\) mil, que é aproximadamente <b>1 milhão</b>.</p><p>Conferindo de outro jeito: 12,3% de 24 milhões dá cerca de 2,95 milhões, e 16,4% dá cerca de 3,94 milhões; a diferença é cerca de 0,98 milhão. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "500 mil corresponde a uma alta de só uns 2 pontos percentuais (2% de 24 milhões dá 480 mil). Mas a taxa da faixa de 18 a 24 anos subiu 4,1 pontos (de 12,3% para 16,4%), o dobro disso.",
+      "C": "1,5 milhão é 6,25% de 24 milhões, mas a taxa subiu apenas 4,1 pontos percentuais (de 12,3% para 16,4%). O valor fica bem acima do que o gráfico mostra.",
+      "D": "2 milhões seria uma alta de mais de 8 pontos percentuais (\\(2 \\div 24 \\approx 0{,}083\\)), o dobro da alta real de 4,1 pontos."
+    },
+    "tip": "Se a população não muda, o aumento no número de pessoas é a diferença entre as porcentagens aplicada à população total."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A Figura 1 representa a visão de um jogador de futebol na cobrança de um pênalti:</p><img src=\"img/p2015/mat-q12-a.jpg\" alt=\"Figura 1: foto em preto e branco vista a partir de quem vai bater o pênalti: a bola na marca do pênalti em primeiro plano e, ao fundo, o gol com o goleiro posicionado embaixo da trave.\"><p><small>Fonte: http://ultradownloads.com.br Acessado em 19/11/2015.</small></p><p>Considere as medidas oficiais de uma baliza de futebol (Figura 2) como sendo 7,32m de comprimento e 2,44m de altura, sabendo que a área ocupada pelo goleiro é representada pelo retângulo ABCD (Figura 3), com 1,80m de altura (lado AB) e 2,0m de envergadura/largura (lado BC).</p><img src=\"img/p2015/mat-q12-b.jpg\" alt=\"Figura 2: baliza de futebol com rede quadriculada; uma seta horizontal de trave a trave indica 7,32m e uma seta vertical do chão ao travessão indica 2,44m. Figura 3: desenho de um goleiro de braços abertos e pernas flexionadas, ocupando o retângulo ABCD, com A no canto superior esquerdo, B no canto inferior esquerdo, C no canto inferior direito e D no canto superior direito.\"><p><small>Fonte: http://www.inmetro.gov.br/consumidor/produtos/campo_de_futebol.asp Acessado em 19/11/2015.</small></p><p>Deste modo, na cobrança de um pênalti, o goleiro ocupa uma porcentagem da área do gol aproximadamente igual a</p>",
+    "options": {
+      "A": "12%.",
+      "B": "15%.",
+      "C": "20%.",
+      "D": "24%."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A porcentagem pedida é a razão entre a área ocupada pelo goleiro e a área do gol.</p><p>Área do gol (retângulo de 7,32 m por 2,44 m):</p><p>\\[7{,}32 \\times 2{,}44 \\approx 17{,}86 \\text{ m}^2\\]</p><p>Área do goleiro (retângulo ABCD de 2,0 m por 1,80 m):</p><p>\\[2{,}0 \\times 1{,}80 = 3{,}6 \\text{ m}^2\\]</p><p>Porcentagem:</p><p>\\[\\frac{3{,}6}{17{,}86} \\approx 0{,}20 = 20\\%\\]</p><p>Sem calculadora dá para arredondar: a área do gol é quase 18 m², e 3,6 é exatamente \\(\\frac{1}{5}\\) de 18 (pois \\(5 \\times 3{,}6 = 18\\)). Um quinto é 20%. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "12% da área do gol seria só cerca de 2,1 m² (\\(0{,}12 \\times 17{,}86\\)), bem menos que os 3,6 m² do retângulo do goleiro. A porcentagem ficou pequena demais.",
+      "B": "15% da área do gol daria cerca de 2,7 m², ainda menos que os 3,6 m² ocupados pelo goleiro. Não bate com a razão \\(3{,}6 \\div 17{,}86\\).",
+      "D": "Aparece ao arredondar a altura do gol para 2 m: \\(7{,}32 \\times 2 \\approx 14{,}6\\) m² e \\(3{,}6 \\div 14{,}6 \\approx 24{,}6\\%\\). Com a altura certa, 2,44 m, o gol é maior e a porcentagem cai para cerca de 20%."
+    },
+    "tip": "Porcentagem de área é parte sobre todo: calcule as duas áreas e divida a menor pela maior."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O Tangram é um quebra-cabeça chinês formado por 7 peças com as quais podemos formar várias figuras, utilizando todas as peças e sem sobrepô-las.</p><img src=\"img/p2015/mat-q13-a.png\" alt=\"Quadrado dividido nas 7 peças do Tangram, numeradas de 1 a 7. Peça 1: triângulo no canto superior esquerdo, com catetos iguais a metade do lado do quadrado. Peça 2: paralelogramo no alto, à direita da peça 1, apoiado na metade direita do lado de cima. Peça 3: triângulo pequeno logo abaixo do paralelogramo, com o vértice no centro do quadrado. Peça 4: quadrado pequeno à esquerda do centro, com um vértice no meio do lado esquerdo e outro no centro do quadrado. Peça 5: triângulo pequeno junto ao lado esquerdo, abaixo da peça 4. Peça 6: triângulo grande na parte de baixo, cuja hipotenusa é o lado inferior do quadrado e cujo vértice oposto é o centro. Peça 7: triângulo grande à direita, cuja hipotenusa é o lado direito do quadrado e cujo vértice oposto é o centro.\"><p>Legenda:<br>Fig. 1 – Triângulo retângulo isósceles médio<br>Fig. 2 – Paralelogramo<br>Fig. 3 e 5 – Triângulos retângulos isósceles congruentes<br>Fig. 4 – Quadrado<br>Fig. 6 e 7 – Triângulos retângulos isósceles congruentes</p><p>O retângulo a seguir foi formado por seis dessas sete peças.</p><img src=\"img/p2015/mat-q13-b.png\" alt=\"Retângulo mais largo do que alto, dividido em seis peças do Tangram, sem números. No alto, ao centro, um quadrado encostado no lado de cima, com um triângulo pequeno de cada lado (os dois também encostados no lado de cima). Do vértice inferior esquerdo do quadrado saem dois segmentos, um até o canto superior esquerdo e outro até o canto inferior esquerdo do retângulo, formando à esquerda um triângulo cuja hipotenusa é o lado esquerdo do retângulo. Abaixo do quadrado há um paralelogramo inclinado que vai até o lado de baixo. Um segmento sai do canto superior direito do retângulo, passa pelo vértice inferior direito do quadrado e chega ao lado de baixo, formando à direita um triângulo grande cujos catetos são o lado direito e parte do lado de baixo do retângulo.\"><p>A razão entre a área desse retângulo e a área do quadrado inicial é de</p>",
+    "options": {
+      "A": "0,25.",
+      "B": "0,33.",
+      "C": "0,56.",
+      "D": "0,75."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Use o triângulo pequeno (peças 3 e 5) como unidade de área. Olhando o quadrado do Tangram:</p><ul><li>o quadrado 4, o paralelogramo 2 e o triângulo médio 1 valem 2 triângulos pequenos cada (cada um pode ser cortado em dois triângulos iguais às peças 3 e 5);</li><li>cada triângulo grande (6 e 7) vale 4 triângulos pequenos (cada um ocupa \\(\\frac{1}{4}\\) do quadrado, pois tem como base um lado inteiro e o vértice no centro).</li></ul><p>Total do quadrado inicial: \\(4 + 4 + 2 + 2 + 2 + 1 + 1 = 16\\) unidades.</p><p>Agora identifique as seis peças do retângulo: no alto, o quadrado entre os dois triângulos pequenos; à esquerda, o triângulo médio (sua hipotenusa é o lado esquerdo); embaixo, o paralelogramo; à direita, um triângulo grande. Ficou de fora <b>um triângulo grande</b>, que vale 4 unidades.</p><p>Área do retângulo: \\(16 - 4 = 12\\) unidades. A razão pedida é</p><p>\\[\\frac{12}{16} = \\frac{3}{4} = 0{,}75\\]</p><p>Atalho: tirando uma única peça, a razão só pode ser \\(\\frac{15}{16},\\ \\frac{14}{16}\\) ou \\(\\frac{12}{16}\\), isto é, 0,9375, 0,875 ou 0,75. Das alternativas, só 0,75 é possível. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "0,25 é a fração da peça que ficou de fora (um triângulo grande, \\(\\frac{4}{16}\\)), e não a do retângulo formado pelas outras seis.",
+      "B": "Com seis das sete peças, o retângulo tem bem mais da metade da área do quadrado: sobram \\(\\frac{15}{16},\\ \\frac{14}{16}\\) ou \\(\\frac{12}{16}\\) dele. Nenhuma dessas frações vale cerca de \\(\\frac{1}{3}\\).",
+      "C": "0,56 é cerca de \\(\\frac{9}{16}\\), que é \\(0{,}75^2\\): aparece ao elevar a razão ao quadrado, como se ela fosse uma razão entre lados. Além disso, faltariam \\(\\frac{7}{16}\\) do quadrado, e nenhuma peça sozinha tem essa área."
+    },
+    "tip": "No Tangram, tome o triângulo pequeno como unidade: o quadrado inteiro vale 16, cada triângulo grande vale 4 e o quadrado, o paralelogramo e o triângulo médio valem 2 cada."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma das histórias contadas sobre o Xadrez é que o jogo foi criado por um camponês, a pedido do rei de sua região, que gostaria de ter um passatempo. O rei, muito contente com a criação do jogo, perguntou ao camponês o que ele gostaria de receber como prêmio, quando ouviu a seguinte resposta:</p><blockquote><i>- Majestade, o tabuleiro do xadrez é composto por 64 casas. Eu gostaria de receber 1 grão de milho pela 1ª casa do tabuleiro, e cada casa seguinte, o dobro do número de grãos recebido pela casa anterior, até o final.</i></blockquote><p>Resumindo, o pedido do camponês foi</p><img src=\"img/p2015/mat-q14.png\" alt=\"Tabuleiro de xadrez de 8 por 8 casas, alternadas em branco e cinza. Primeira linha, da esquerda para a direita: 1, 2, 4, 8, 16, 32, 64, 128. Segunda linha: 256, 512, reticências nas três casas seguintes e as três últimas casas vazias. As outras seis linhas estão vazias.\"><p>onde o número em cada casa do tabuleiro representa a quantidade de grãos recebidos por esta casa. Ao final, o rei constatou que seria impossível atendê-lo, pois seriam necessários aproximadamente \\(18 \\times 10^{18}\\) grãos de milho.</p><p>Sabendo que 1 grão de milho pesa aproximadamente \\(4 \\times 10^{-4}\\) Kg, o peso total do pedido do camponês, em toneladas, seria</p>",
+    "options": {
+      "A": "\\(72 \\times 10^{5}\\).",
+      "B": "\\(72 \\times 10^{10}\\).",
+      "C": "\\(72 \\times 10^{11}\\).",
+      "D": "\\(72 \\times 10^{17}\\)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.potencia_raiz",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O peso total, em quilogramas, é o número de grãos vezes o peso de um grão:</p><p>\\[18 \\times 10^{18} \\times 4 \\times 10^{-4} = (18 \\times 4) \\times 10^{18 + (-4)} = 72 \\times 10^{14} \\text{ kg}\\]</p><p>Na multiplicação de potências de mesma base, somamos os expoentes: \\(18 + (-4) = 14\\).</p><p>Agora passe para toneladas. Como 1 t = 1.000 kg = \\(10^3\\) kg, dividimos por \\(10^3\\), ou seja, subtraímos 3 do expoente:</p><p>\\[72 \\times 10^{14} \\text{ kg} = 72 \\times 10^{14 - 3} \\text{ t} = 72 \\times 10^{11} \\text{ t}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Tirou 9 do expoente na conversão (\\(14 - 9 = 5\\)), como se 1 t valesse \\(10^9\\) kg, isto é, dividiu por 1.000 três vezes seguidas. Uma tonelada tem só \\(10^3\\) kg.",
+      "B": "Tirou 4 do expoente na conversão (\\(14 - 4 = 10\\)), como se 1 t fosse 10.000 kg. O certo é 1 t = 1.000 kg = \\(10^3\\) kg.",
+      "D": "Multiplicou por 1.000 em vez de dividir ao passar de quilogramas para toneladas, somando 3 ao expoente: \\(14 + 3 = 17\\). Tonelada é uma unidade maior, então o número tem que diminuir."
+    },
+    "tip": "Ao passar para uma unidade maior (de kg para t), o número diminui: divida por 1.000, isto é, subtraia 3 do expoente de 10."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura a seguir mostra um polígono regular de 14 lados e todas as suas diagonais:</p><img src=\"img/p2015/mat-q15.jpg\" alt=\"Polígono regular de 14 lados inscrito em um círculo, com os vértices nomeados de A a N, e todas as suas diagonais traçadas; as 7 diagonais que passam pelo centro estão destacadas em azul e as demais estão em preto.\"><p><small>Fonte: https://clickexatas.wordpress.com. Acessado em 12/10/2015</small></p><p>O número de diagonais traçadas é de</p>",
+    "options": {
+      "A": "77.",
+      "B": "79.",
+      "C": "80.",
+      "D": "98."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.est.contagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>De cada vértice de um polígono de \\(n\\) lados partem \\(n - 3\\) diagonais: o vértice não se liga a si mesmo nem aos dois vizinhos (esses segmentos são lados).</p><p>Com \\(n = 14\\), cada vértice tem \\(14 - 3 = 11\\) diagonais. Multiplicando por 14 vértices, cada diagonal é contada duas vezes (uma vez em cada ponta), então dividimos por 2:</p><p>\\[d = \\frac{n(n-3)}{2} = \\frac{14 \\cdot 11}{2} = 7 \\cdot 11 = 77\\]</p><p>Outra forma de conferir: 14 pontos formam \\(\\frac{14 \\cdot 13}{2} = 91\\) segmentos ao todo; tirando os 14 lados, sobram \\(91 - 14 = 77\\) diagonais. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não sai de nenhuma contagem correta: pela fórmula o total é exatamente \\(\\frac{14 \\cdot 11}{2} = 77\\). Valores próximos assim aparecem ao tentar contar as linhas no desenho, onde é fácil perder ou repetir alguma.",
+      "C": "Também não vem da fórmula \\(\\frac{n(n-3)}{2}\\), que dá 77. Contar à mão no desenho, com tantas linhas cruzadas, costuma levar a erros de algumas unidades como este.",
+      "D": "Vem de \\(\\frac{14 \\cdot 14}{2} = 98\\): esqueceu de descontar, em cada vértice, ele mesmo e os dois vizinhos. De cada vértice saem \\(14 - 3 = 11\\) diagonais, não 14."
+    },
+    "tip": "Um polígono de \\(n\\) lados tem \\(\\frac{n(n-3)}{2}\\) diagonais."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para comemorar seu aniversário, Alexandre pesquisou o preço de alguns salgadinhos. Na confeitaria Docebom, para comprar 120 quibes e 150 coxinhas, gastaria R$ 510,00. Na confeitaria Vovó Tânia, para as mesmas quantidades de quibes e de coxinhas, o preço de cada quibe era 10% menor e o de cada coxinha 20% menor. Em comparação aos preços da Docebom, o gasto de Alexandre seria de R$ 432,00.</p><p>Resolvendo o sistema a seguir, encontraremos os valores de \\(x\\) e \\(y\\), que representam, respectivamente, o preço de cada quibe e de cada coxinha.</p><p>\\[\\begin{cases} 120x + 150y = 510 \\\\ 120(x.0{,}9) + 150(y.0{,}80) = 432 \\end{cases}\\]</p><p>Então, o preço, em reais, de cada quibe na confeitaria Vovó Tânia é</p>",
+    "options": {
+      "A": "1,70.",
+      "B": "1,80.",
+      "C": "1,90.",
+      "D": "2,00."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro resolva o sistema, que dá os preços da <b>Docebom</b>. Simplifique cada equação:</p><ul><li>1ª equação: \\(120x + 150y = 510\\); dividindo tudo por 30, fica \\(4x + 5y = 17\\).</li><li>2ª equação: \\(120 \\cdot 0{,}9x + 150 \\cdot 0{,}8y = 432\\), ou seja, \\(108x + 120y = 432\\); dividindo tudo por 12, fica \\(9x + 10y = 36\\).</li></ul><p>Multiplique a primeira por 2: \\(8x + 10y = 34\\). Subtraindo essa equação da segunda:</p><p>\\[(9x + 10y) - (8x + 10y) = 36 - 34 \\quad\\Rightarrow\\quad x = 2\\]</p><p>Então o quibe custa R$ 2,00 na Docebom (e, voltando à primeira equação, \\(8 + 5y = 17\\) dá \\(y = 1{,}80\\), o preço da coxinha lá).</p><p>Atenção: a pergunta é o preço do quibe na <b>Vovó Tânia</b>, onde ele é 10% mais barato:</p><p>\\[0{,}9 \\times 2{,}00 = 1{,}80\\]</p><p>Conferindo o gasto na Vovó Tânia: a coxinha sai por \\(0{,}8 \\times 1{,}80 = 1{,}44\\), e \\(120 \\cdot 1{,}80 + 150 \\cdot 1{,}44 = 216 + 216 = 432\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É \\(2{,}00 \\times 0{,}85\\): aplicou ao quibe um desconto de 15% (a média entre 10% e 20%). O desconto do quibe é só de 10%.",
+      "C": "Tirou R$ 0,10 do preço em vez de 10%: \\(2{,}00 - 0{,}10 = 1{,}90\\). Mas 10% de R$ 2,00 são R$ 0,20.",
+      "D": "É o preço do quibe na Docebom (\\(x = 2\\)). Faltou aplicar o desconto de 10% da confeitaria Vovó Tânia."
+    },
+    "tip": "Depois de resolver o sistema, releia a pergunta: aqui \\(x\\) e \\(y\\) são os preços da Docebom, e o que se pede é o preço com desconto."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma empresa de turismo vende pacotes para cruzeiros marítimos ao preço de R$ 2.000,00. Em dezembro de 2014 foram vendidos 50 pacotes. Após análise, o gerente da empresa estimou que a cada R$ 100,00 de desconto no preço, conseguiria vender 10 pacotes a mais. Daí decidiu, a partir de janeiro, que o preço do pacote diminuiria R$ 100,00 a cada mês. Abaixo, uma tabela com a evolução do preço do pacote e do número de pacotes vendidos, em função do número de meses:</p><table><thead><tr><th>Número de meses</th><th>Preço do pacote</th><th>Número de pacotes</th></tr></thead><tbody><tr><td>1</td><td>\\(2000 - 100.1\\)</td><td>\\(50 + 10.1\\)</td></tr><tr><td>2</td><td>\\(2000 - 100.2\\)</td><td>\\(50 + 10.2\\)</td></tr><tr><td>3</td><td>\\(2000 - 100.3\\)</td><td>\\(50 + 10.3\\)</td></tr><tr><td>...</td><td>...</td><td>...</td></tr><tr><td>\\(x\\)</td><td></td><td></td></tr></tbody></table><p>Sabe-se que em um determinado mês ‘x’, após a aplicação do desconto, o faturamento foi de R$ 136.000,00. Assinale a alternativa que apresenta uma equação do 2º grau que nos permite determinar em que mês ‘x’ esse faturamento ocorreu:</p>",
+    "options": {
+      "A": "\\(x^2 + 10x - 50 = 136\\).",
+      "B": "\\(x^2 + 20x + 50 = 136\\).",
+      "C": "\\(-x^2 + 20x + 10 = 136\\).",
+      "D": "\\(-x^2 + 15x + 100 = 136\\)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.expressoes",
+      "mat.alg.inequacoes_funcoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Pela tabela, depois de \\(x\\) meses (o ponto na tabela indica multiplicação, como em \\(100.1 = 100 \\cdot 1\\)):</p><ul><li>o preço do pacote é \\(2000 - 100x\\) reais;</li><li>o número de pacotes vendidos é \\(50 + 10x\\).</li></ul><p>Faturamento é preço vezes quantidade:</p><p>\\[(2000 - 100x)(50 + 10x) = 136.000\\]</p><p>Aplicando a distributiva:</p><p>\\[2000 \\cdot 50 + 2000 \\cdot 10x - 100x \\cdot 50 - 100x \\cdot 10x\\]</p><p>\\[= 100.000 + 20.000x - 5.000x - 1.000x^2\\]</p><p>Juntando os termos: \\(-1.000x^2 + 15.000x + 100.000 = 136.000\\). Dividindo tudo por 1.000:</p><p>\\[-x^2 + 15x + 100 = 136\\]</p><p>Resposta: <b>D</b>.</p><p>(Resolvendo, \\(x^2 - 15x + 36 = 0\\) tem raízes 3 e 12. Conferindo no 3º mês: preço \\(2000 - 300 = 1700\\), pacotes \\(50 + 30 = 80\\), e \\(1700 \\cdot 80 = 136.000\\).)</p>",
+    "distractors": {
+      "A": "O termo em \\(x^2\\) tem que ser negativo: ele vem de \\(-100x \\cdot 10x = -1.000x^2\\), porque o preço cai enquanto a quantidade sobe. Com \\(+x^2\\), a equação não representa esse faturamento.",
+      "B": "Também tem \\(+x^2\\), o que é impossível pelo mesmo motivo (preço caindo vezes quantidade subindo). Além disso, o termo constante deveria ser o faturamento inicial dividido por 1.000, \\(100.000 \\div 1.000 = 100\\), e não 50.",
+      "C": "O sinal de \\(x^2\\) está certo, mas \\(20x\\) vem de esquecer o produto \\(-100x \\cdot 50 = -5.000x\\) (o certo é \\(20.000x - 5.000x = 15.000x\\)), e o termo constante deveria ser \\(100.000 \\div 1.000 = 100\\), não 10."
+    },
+    "tip": "Faturamento é preço vezes quantidade: escreva cada um em função de \\(x\\), multiplique com a distributiva e simplifique."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe a distribuição dos números inteiros positivos a seguir.</p><p>\\[\\begin{array}{lllllllll} 1 \\\\ 2 & 3 & 4 \\\\ 5 & 6 & 7 & 8 & 9 \\\\ 10 & 11 & 12 & 13 & 14 & 15 & 16 \\\\ 17 & 18 & 19 & 20 & 21 & 22 & 23 & 24 & 25 \\\\ \\ldots \\end{array}\\]</p><p>Mantendo-se a disposição dos números acima, pode-se afirmar que o elemento que inicia a 31ª linha é</p>",
+    "options": {
+      "A": "901.",
+      "B": "837.",
+      "C": "795.",
+      "D": "612."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Repare no <b>último</b> número de cada linha: 1, 4, 9, 16, 25. São os quadrados perfeitos: a linha \\(n\\) termina em \\(n^2\\).</p><p>Isso acontece porque as linhas têm 1, 3, 5, 7, 9, ... números, e a soma dos primeiros números ímpares é sempre um quadrado: \\(1 + 3 = 4\\), \\(1 + 3 + 5 = 9\\), e assim por diante.</p><p>Então a 30ª linha termina em \\(30^2 = 900\\), e a 31ª linha começa no número seguinte:</p><p>\\[30^2 + 1 = 900 + 1 = 901\\]</p><p>Teste a regra numa linha dada: a 5ª linha deve começar em \\(4^2 + 1 = 17\\), e começa mesmo. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Só números da forma \\(n^2 + 1\\) começam uma linha, e 836 não é quadrado perfeito. Como \\(28^2 = 784\\) e \\(29^2 = 841\\), o 837 fica no meio da 29ª linha, que vai de 785 a 841.",
+      "C": "794 não é quadrado perfeito, então 795 não inicia linha nenhuma: ele também está no meio da 29ª linha (de 785 a 841).",
+      "D": "Como \\(24^2 = 576\\) e \\(25^2 = 625\\), o 612 está no meio da 25ª linha (de 577 a 625), longe do início da 31ª."
+    },
+    "tip": "Em padrões numéricos, procure uma regra para o fim (ou o começo) de cada linha, como os quadrados perfeitos, e teste nas linhas dadas."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe a imagem (Figura 1) produzida pelo Observatório Astronômico de Lisboa (OAL) do eclipse total ocorrido no mês de setembro de 2015. Nela percebe-se a existência de um cone de sombra.</p><img src=\"img/p2015/mat-q19-a.png\" alt=\"Figura 1: esquema do eclipse. À direita, o Sol (círculo grande); no centro, a Terra (círculo médio escuro); à esquerda da Terra, a Lua (círculo pequeno escuro). Retas tangentes ao Sol e à Terra formam, atrás da Terra, um cone estreito e escuro, rotulado Sombra, que se afina para a esquerda, e regiões mais claras e largas acima e abaixo dele, rotuladas Penumbra; linhas tracejadas que se cruzam entre a Terra e o Sol delimitam a penumbra. Um arco pontilhado passa pela Lua. No canto inferior direito, em letras pequenas: OAL - SUPERLUA / ECLIPSE TOTAL DA LUA 2015 - SETEMBRO - 28.\"><p><small>Fonte: www.oal.pt/. Acessado em 12/10/2015</small></p><p>A partir desta imagem, foi construído o esquema matemático apresentado na Figura 2:</p><img src=\"img/p2015/mat-q19-b.png\" alt=\"Figura 2: duas retas partem de um mesmo ponto à esquerda (a ponta do cone) e são tangentes a dois círculos: o menor é a Terra, de raio RT, e o maior, mais à direita, é o Sol, de raio RS. Cada raio (RT e RS) vai do centro do círculo até o ponto de tangência com a reta de cima, onde há um ângulo reto marcado. Uma reta liga a ponta do cone aos centros dos dois círculos. A medida x vai da ponta do cone até a vertical que passa pelo centro da Terra. A medida DTS vai da borda direita da Terra até a borda esquerda do Sol.\"><p>Com base no esquema da Figura 2, e sabendo que os raios da Terra \\((R_T)\\) e do Sol \\((R_S)\\) medem, aproximadamente, 6.000 km e 690.000 km, respectivamente, e que a distância entre Terra e Sol \\((D_{TS})\\) é de 150.000.000 km, então o comprimento aproximado da altura \\(x\\) desse cone de sombra é de</p>",
+    "options": {
+      "A": "570.000 km.",
+      "B": "800.000 km.",
+      "C": "1.300.000 km.",
+      "D": "1.500.000 km."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Na Figura 2, cada raio forma um ângulo reto com a reta tangente de cima. Assim aparecem dois triângulos retângulos com o mesmo vértice na ponta do cone:</p><ul><li>o pequeno: ponta do cone, centro da Terra e ponto de tangência, com o raio \\(R_T\\) como cateto e \\(x\\) como hipotenusa;</li><li>o grande: ponta do cone, centro do Sol e ponto de tangência, com o raio \\(R_S\\) como cateto e a distância da ponta ao centro do Sol como hipotenusa.</li></ul><p>Os dois têm um ângulo reto e o ângulo da ponta em comum, então são <b>semelhantes</b> e os lados correspondentes são proporcionais:</p><p>\\[\\frac{x}{R_T} = \\frac{\\text{distância da ponta ao centro do Sol}}{R_S}\\]</p><p>Na Figura 2, \\(D_{TS}\\) vai da superfície da Terra até a superfície do Sol. Então a distância da ponta ao centro do Sol é \\(x + R_T + D_{TS} + R_S\\). Os raios somam menos de 700.000 km, quase nada perto de 150 milhões, e não mudam a resposta aproximada; por isso usamos só \\(x + 150.000.000\\) (no fim conferimos a conta com os raios). Então:</p><p>\\[\\frac{x}{6.000} = \\frac{x + 150.000.000}{690.000}\\]</p><p>Multiplicando os dois lados por 690.000 e usando \\(690.000 \\div 6.000 = 115\\):</p><p>\\[115x = x + 150.000.000\\]</p><p>\\[114x = 150.000.000\\]</p><p>\\[x = \\frac{150.000.000}{114} \\approx 1.316.000 \\text{ km}\\]</p><p>Estimativa sem calculadora: \\(114 \\times 1.300.000 = 148.200.000\\), bem perto de 150 milhões. (Somando também os raios, \\(114x = 150.696.000\\) e \\(x \\approx 1.322.000\\) km: continua perto de 1.300.000 km.) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Pequeno demais: na equação \\(114x = 150.000.000\\), daria \\(114 \\times 570.000 \\approx 65\\) milhões, menos da metade de 150 milhões. Não mantém a proporção entre os raios.",
+      "B": "Também não satisfaz a semelhança: \\(114 \\times 800.000 = 91.200.000\\), bem abaixo de 150 milhões.",
+      "D": "Aparece ao arredondar a razão entre os raios para 100 (\\(690.000 \\div 6.000 \\approx 100\\)) e fazer \\(150.000.000 \\div 100\\). A razão verdadeira é 115, e esse arredondamento grosseiro afasta o resultado de 1,3 milhão."
+    },
+    "tip": "Raio e reta tangente formam ângulo reto: procure triângulos retângulos semelhantes com um vértice em comum e monte a proporção."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A Figura 1 apresenta a imagem de um poste que pode ser visto nas ruas de algumas cidades brasileiras.</p><img src=\"img/p2015/mat-q20-a.png\" alt=\"Figura 1: desenho de um poste formado por uma haste vertical que, no alto, se dobra em um trecho inclinado para cima e para a direita e termina em um trecho horizontal para a direita.\"><p><small>Fonte: http://t1.gstatic.com/images?q=tbn:ANd9GcTqj_SI8GGqkBrxs4yNCaC3ZHhALa3SWdbSAWgUk0cVO9ohzaD4PV8y-udt. Acessado em 12/11/2015.</small></p><p>A seguir temos uma representação de um desses postes (Figura 2), que pode ser dividido em 3 partes: uma haste AB, vertical e fixada no chão plano (horizontal), medindo 3 metros; uma haste AE medindo 1 metro, tal que \\(B\\hat{A}E = 120^\\circ\\); e uma haste ED, paralela ao chão plano (horizontal).</p><img src=\"img/p2015/mat-q20-b.png\" alt=\"Figura 2: esquema do poste. Haste vertical AB, com B no chão (reta horizontal com a legenda CHÃO PLANO) e A no alto. Do ponto A sai a haste AE, inclinada para cima e para a direita, com o ângulo BÂE marcado em A. Do ponto E sai a haste ED, horizontal, para a direita.\"><p>Uma lâmpada será instalada no ponto D. A altura, em relação ao chão plano, em que esta lâmpada será instalada, em metros, é</p>",
+    "options": {
+      "A": "3,2.",
+      "B": "3,5.",
+      "C": "3,6.",
+      "D": "4,0"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.triangulos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A lâmpada fica em D, e a haste ED é horizontal, então D está na mesma altura que E. Basta achar a altura de E.</p><p>A haste AB é vertical e mede 3 m, então A está a 3 m do chão. Falta saber quanto a haste AE “sobe” de A até E.</p><p>Prolongue AB para cima, além de A. O ângulo entre esse prolongamento e AE é o suplemento de \\(B\\hat{A}E\\):</p><p>\\[180^\\circ - 120^\\circ = 60^\\circ\\]</p><p>Agora trace por E uma perpendicular a esse prolongamento, encontrando-o no ponto H. O triângulo AHE é retângulo em H, tem ângulo de 60° em A e, portanto, 30° em E. Nesse triângulo, o cateto oposto ao ângulo de 30° mede metade da hipotenusa:</p><p>\\[AH = \\frac{AE}{2} = \\frac{1}{2} = 0{,}5 \\text{ m}\\]</p><p>(Por quê? Espelhando o triângulo AHE em relação ao lado HE, forma-se um triângulo equilátero de lado 1 m, e AH é metade de um lado. Com trigonometria: \\(AH = 1 \\cdot \\cos 60^\\circ = 0{,}5\\).)</p><p>Altura de D: \\(3 + 0{,}5 = 3{,}5\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Daria uma subida de só 0,2 m na haste AE. No triângulo de 30°, 60° e 90°, a subida é exatamente metade de AE, isto é, 0,5 m.",
+      "C": "Daria uma subida de 0,6 m, valor de quem estima pelo desenho em vez de calcular. A relação do triângulo de 30°, 60° e 90° dá exatamente metade de AE: 0,5 m.",
+      "D": "Somou o comprimento inteiro de AE (1 m) como se a haste fosse vertical. Como AE é inclinada, ela sobe menos do que mede: só 0,5 m."
+    },
+    "tip": "Num triângulo retângulo com ângulos de 30° e 60°, o cateto oposto ao ângulo de 30° mede metade da hipotenusa."
+  }
+]

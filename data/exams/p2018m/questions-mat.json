@@ -1,0 +1,272 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Maria adora séries de televisão e pretende assistir, durante um ano, a todos os episódios (de todas as temporadas e sem pular nenhum episódio) das suas três séries preferidas. Para isso, ela assistirá a três episódios por dia, sendo um de cada série. Sabe-se que cada temporada da série A tem 20 episódios, da série B tem 24 episódios e da série C tem 18 episódios. Nenhuma das três séries tem mais que 365 episódios ao todo. Ela decidiu que começará, hoje, a assistir ao 1º episódio da 1ª temporada de cada uma dessas três séries. Maria também sabe que haverá um certo dia X em que conseguirá, coincidentemente, assistir ao último episódio de alguma temporada das três séries.</p><p>Ao final do dia X, Maria já terá assistido, ao todo,</p>",
+    "options": {
+      "A": "12 temporadas completas das três séries.",
+      "B": "15 temporadas completas da série A.",
+      "C": "18 temporadas completas da série B.",
+      "D": "20 temporadas completas da série C."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada série termina uma temporada nos dias que são múltiplos do tamanho da temporada:</p><ul><li>série A: dias 20, 40, 60, ... (múltiplos de 20);</li><li>série B: dias 24, 48, 72, ... (múltiplos de 24);</li><li>série C: dias 18, 36, 54, ... (múltiplos de 18).</li></ul><p>O dia X, em que as três terminam uma temporada no mesmo dia, é um múltiplo comum de 20, 24 e 18. O primeiro deles é o MMC:</p><p>\\[20 = 2^2 \\cdot 5,\\qquad 24 = 2^3 \\cdot 3,\\qquad 18 = 2 \\cdot 3^2\\]</p><p>\\[\\text{MMC} = 2^3 \\cdot 3^2 \\cdot 5 = 8 \\cdot 9 \\cdot 5 = 360\\]</p><p>O múltiplo comum seguinte seria 720, que não cabe em um ano (e nenhuma série tem mais que 365 episódios). Logo, X é o dia 360.</p><p>Como Maria vê um episódio de cada série por dia, ao final do dia 360 ela viu 360 episódios de cada série:</p><ul><li>série A: \\(360 \\div 20 = 18\\) temporadas;</li><li>série B: \\(360 \\div 24 = 15\\) temporadas;</li><li>série C: \\(360 \\div 18 = 20\\) temporadas.</li></ul><p>Só a opção D confere com essas contas. Resposta: <b>(D) 20 temporadas completas da série C</b>.</p>",
+    "distractors": {
+      "A": "Não confere em nenhuma leitura. Cada série completou uma quantidade diferente de temporadas (18, 15 e 20), porque as temporadas têm tamanhos diferentes; logo não são 12 de cada. E o total também não é 12: \\(18 + 15 + 20 = 53\\) temporadas.",
+      "B": "15 é o número de temporadas da série <b>B</b> (\\(360 \\div 24\\)). A série A, com temporadas de 20 episódios, completou \\(360 \\div 20 = 18\\).",
+      "C": "18 é o número de temporadas da série <b>A</b> (\\(360 \\div 20\\)). A série B tem temporadas maiores, de 24 episódios, e por isso completou menos: \\(360 \\div 24 = 15\\)."
+    },
+    "tip": "Quando vários ciclos precisam coincidir pela primeira vez, calcule o MMC dos tamanhos dos ciclos."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Jorge, Marcos e Paulo são três irmãos que adoram colecionar figurinhas e também adoram charadas. Como eles têm uma prima, Lavínia, que também adora decifrar enigmas, propuseram a ela o seguinte problema:</p><ul><li>Jorge e Marcos têm, juntos, 110 figurinhas.</li><li>Jorge e Paulo têm, juntos, 73 figurinhas.</li><li>Marcos e Paulo têm, juntos, 65 figurinhas.</li><li>Quem tem mais figurinhas e quantas são elas?</li></ul><p>Se Lavínia conseguir decifrar o enigma, sua resposta será</p>",
+    "options": {
+      "A": "Paulo, com 14 figurinhas.",
+      "B": "Marcos, com 56 figurinhas.",
+      "C": "Jorge, com 59 figurinhas.",
+      "D": "Jorge e Marcos, ambos com 55 figurinhas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame de \\(J\\), \\(M\\) e \\(P\\) as figurinhas de Jorge, Marcos e Paulo:</p><p>\\[J + M = 110,\\qquad J + P = 73,\\qquad M + P = 65\\]</p><p><b>Truque:</b> some as três equações. Cada irmão aparece duas vezes:</p><p>\\[2J + 2M + 2P = 110 + 73 + 65 = 248 \\;\\Rightarrow\\; J + M + P = 124\\]</p><p>Agora basta tirar cada par do total 124:</p><ul><li>\\(P = 124 - (J + M) = 124 - 110 = 14\\);</li><li>\\(M = 124 - (J + P) = 124 - 73 = 51\\);</li><li>\\(J = 124 - (M + P) = 124 - 65 = 59\\).</li></ul><p>Conferindo: \\(59 + 51 = 110\\), \\(59 + 14 = 73\\) e \\(51 + 14 = 65\\). Quem tem mais é Jorge, com 59.</p><p>Resposta: <b>(C) Jorge, com 59 figurinhas</b>.</p>",
+    "distractors": {
+      "A": "14 é mesmo a quantidade de Paulo, mas ele é quem tem <b>menos</b> figurinhas. A pergunta é quem tem mais.",
+      "B": "Marcos tem 51, não 56. Teste: com \\(M = 56\\), Jorge teria \\(110 - 56 = 54\\) e Paulo \\(65 - 56 = 9\\), e então \\(J + P = 63\\), não 73.",
+      "D": "Vem de dividir 110 ao meio, supondo que Jorge e Marcos têm a mesma quantidade. Teste: com \\(J = 55\\), Paulo teria \\(73 - 55 = 18\\); com \\(M = 55\\), Paulo teria \\(65 - 55 = 10\\). Paulo não pode ter duas quantidades diferentes."
+    },
+    "tip": "Se cada equação soma dois de três valores, some todas, divida por 2 para achar o total e depois subtraia cada par."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>André trabalha no Centro do Rio de Janeiro e almoça de segunda a sexta-feira nos restaurantes da região. Certo dia, ele encontrou um restaurante <i>self service</i> que oferecia duas modalidades de pagamento:</p><ul><li>R$ 29,90 “coma à vontade” (valor fixo, sem pesar o prato) <b>ou</b></li><li>R$ 46,00 por quilo (valor depende do consumo aferido na balança).</li></ul><p>Para a segunda modalidade de pagamento, a balança marcava apenas o número inteiro de gramas a ser consumido pelo cliente, excluindo-se o “peso” inicial do prato (sem alimento).</p><p>É mais vantajoso para André optar pelo “coma à vontade” a partir de</p>",
+    "options": {
+      "A": "648 gramas.",
+      "B": "649 gramas.",
+      "C": "650 gramas.",
+      "D": "651 gramas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.inequacoes_funcoes",
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O “coma à vontade” custa sempre R$ 29,90. No preço por quilo, o valor cresce com o peso. O primeiro passo é achar o peso em que as duas formas custam o mesmo.</p><p><b>1º passo:</b> quantos quilos custam R$ 29,90, a R$ 46,00 o quilo?</p><p>\\[\\frac{29{,}90}{46} = 0{,}65 \\text{ kg} = 650 \\text{ g}\\]</p><p>Sem calculadora, confira pela multiplicação: \\(46 \\times 0{,}6 = 27{,}6\\) e \\(46 \\times 0{,}05 = 2{,}3\\), então \\(46 \\times 0{,}65 = 27{,}6 + 2{,}3 = 29{,}9\\).</p><p><b>2º passo:</b> interpretar. Cada grama custa \\(46 \\div 1000 = 0{,}046\\) real (4,6 centavos).</p><ul><li>Com menos de 650 g, o prato pesado sai mais barato. Por exemplo, 649 g custam \\(29{,}90 - 0{,}046 \\approx 29{,}85\\) reais.</li><li>Com exatamente 650 g, as duas formas custam R$ 29,90: é empate, nenhuma é mais vantajosa.</li><li>Como a balança só marca gramas inteiros, o valor seguinte é 651 g, que custa \\(29{,}90 + 0{,}046 \\approx 29{,}95\\) reais, mais que o “coma à vontade”.</li></ul><p>Portanto, o “coma à vontade” passa a ser mais vantajoso a partir de 651 gramas. Resposta: <b>(D) 651 gramas</b>.</p>",
+    "distractors": {
+      "A": "Com 648 g o prato pesado custa \\(0{,}648 \\times 46 \\approx 29{,}81\\) reais, menos que R$ 29,90. Ainda compensa pagar por quilo.",
+      "B": "Com 649 g o prato pesado custa cerca de R$ 29,85, ainda um pouco menos que o “coma à vontade”. Pagar por quilo continua valendo a pena.",
+      "C": "650 g é o ponto de empate: as duas formas custam exatamente R$ 29,90. Nesse peso nenhuma é mais vantajosa; o valor fixo só ganha a partir do grama seguinte."
+    },
+    "tip": "Ao comparar um preço fixo com um preço que cresce, ache o ponto de empate e lembre que “mais vantajoso” só vale depois dele."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na entrada do Colégio Pedro II existe um painel luminoso com as letras C, P, I e I, formado por lâmpadas incandescentes, conforme a figura a seguir:</p><p><img src=\"img/p2018m/mat-q14.png\" alt=\"Painel luminoso com as letras C, P, I e I, lado a lado, cada letra desenhada por pequenas lâmpadas redondas. Letra C: 13 lâmpadas (4 na parte de cima, 5 na lateral esquerda e 4 na parte de baixo). Letra P: 15 lâmpadas (4 na parte de cima, 6 na haste vertical esquerda abaixo delas, 2 no lado direito da parte de cima e 3 na barra do meio que fecha a curva do P). Cada letra I: 11 lâmpadas (3 na parte de cima, 5 na haste vertical e 3 na parte de baixo). Ao todo, o painel tem 50 lâmpadas.\"></p><p>Certo dia, ao se ligar o painel, percebeu-se que 18% das lâmpadas estavam queimadas e deveriam ser substituídas por lâmpadas de LED.</p><p>A razão entre a quantidade de lâmpadas de LED e a quantidade de lâmpadas incandescentes que não queimaram é</p>",
+    "options": {
+      "A": "\\(\\dfrac{7}{32}\\)",
+      "B": "\\(\\dfrac{9}{41}\\)",
+      "C": "\\(\\dfrac{9}{50}\\)",
+      "D": "\\(\\dfrac{50}{9}\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> contar as lâmpadas do painel.</p><ul><li>C: 13 lâmpadas;</li><li>P: 15 lâmpadas;</li><li>cada I: 11 lâmpadas.</li></ul><p>\\[13 + 15 + 11 + 11 = 50 \\text{ lâmpadas}\\]</p><p><b>2º passo:</b> calcular quantas queimaram.</p><p>\\[18\\% \\text{ de } 50 = \\frac{18}{100} \\times 50 = \\frac{18}{2} = 9\\]</p><p>Essas 9 serão trocadas por 9 lâmpadas de LED. As incandescentes que não queimaram são \\(50 - 9 = 41\\).</p><p><b>3º passo:</b> montar a razão na ordem do enunciado (LED primeiro, incandescentes que não queimaram depois):</p><p>\\[\\frac{9}{41}\\]</p><p>Repare que 18% de 50 dá um número inteiro, o que confirma a contagem: não existe “meia lâmpada”.</p><p>Resposta: <b>(B)</b> \\(\\dfrac{9}{41}\\).</p>",
+    "distractors": {
+      "A": "Sai de contar só um I: \\(13 + 15 + 11 = 39\\) lâmpadas; 18% de 39 é cerca de 7, e \\(39 - 7 = 32\\). O painel tem dois I, portanto 50 lâmpadas.",
+      "C": "\\(\\dfrac{9}{50}\\) compara as lâmpadas de LED com o <b>total</b> de lâmpadas (é só 18% escrito como fração). A pergunta compara com as que <b>não queimaram</b>, que são 41.",
+      "D": "\\(\\dfrac{50}{9}\\) inverte a ordem da razão e ainda usa o total de lâmpadas no lugar das 41 que não queimaram."
+    },
+    "tip": "Numa razão “entre A e B”, A vai no numerador e B no denominador; confira se B é o total ou só uma parte dele."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Luíza estava brincando com seu joguinho no celular, no qual uma serpente deve comer os insetos que aparecem na tela. No início do jogo, a serpente é formada por um retângulo de dimensões \\(x\\) mm por \\((5x + 12)\\) mm e, a cada inseto que come, ela aumenta o seu tamanho em um quadrilátero de área 10 mm². Após comer 8 insetos, a serpente, totalmente esticada, representa um retângulo de área 112 mm².</p><p>As dimensões da serpente, em milímetros, no início do jogo são, respectivamente, iguais a</p>",
+    "options": {
+      "A": "1,6 e 20,0.",
+      "B": "2,0 e 22,0.",
+      "C": "3,6 e 30,0.",
+      "D": "4,0 e 32,0."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> montar a equação das áreas.</p><p>No início, a serpente é um retângulo de lados \\(x\\) e \\(5x + 12\\), com área</p><p>\\[x(5x + 12) = 5x^2 + 12x\\]</p><p>Cada inseto acrescenta 10 mm²; com 8 insetos, são \\(8 \\times 10 = 80\\) mm² a mais. A área final é 112 mm²:</p><p>\\[5x^2 + 12x + 80 = 112 \\;\\Rightarrow\\; 5x^2 + 12x - 32 = 0\\]</p><p><b>2º passo:</b> resolver pela fórmula de Bhaskara.</p><p>\\[\\Delta = 12^2 - 4 \\cdot 5 \\cdot (-32) = 144 + 640 = 784,\\qquad \\sqrt{784} = 28\\]</p><p>\\[x = \\frac{-12 \\pm 28}{2 \\cdot 5} \\;\\Rightarrow\\; x = \\frac{16}{10} = 1{,}6 \\quad \\text{ou} \\quad x = \\frac{-40}{10} = -4\\]</p><p>Como \\(x\\) é uma medida, só vale \\(x = 1{,}6\\) mm. O outro lado mede \\(5 \\cdot 1{,}6 + 12 = 8 + 12 = 20\\) mm.</p><p>Conferindo: área inicial \\(1{,}6 \\times 20 = 32\\) mm², e \\(32 + 80 = 112\\) mm².</p><p><b>Atalho:</b> todas as opções respeitam a regra “segundo lado = 5 vezes o primeiro + 12”. Então basta ver qual delas dá área inicial \\(112 - 80 = 32\\) mm²: só \\(1{,}6 \\times 20 = 32\\).</p><p>Resposta: <b>(A) 1,6 e 20,0</b>.</p>",
+    "distractors": {
+      "B": "Com lados 2 e 22, a área inicial seria 44 mm² e, somando os 80 mm² dos insetos, a área final seria 124 mm², não 112.",
+      "C": "Com lados 3,6 e 30, a área inicial já seria 108 mm², quase a área final. É o que acontece quando se esquecem os 80 mm² ganhos com os insetos e se procura \\(x(5x + 12) \\approx 112\\).",
+      "D": "Com lados 4 e 32, a área inicial seria 128 mm², maior até que a área final, e a serpente não diminui ao comer. O 4 lembra a raiz \\(x = -4\\) com o sinal trocado."
+    },
+    "tip": "Numa equação do 2º grau que representa medidas, descarte a raiz negativa e confira a resposta substituindo no enunciado."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Atualmente, o sistema de avaliação do Colégio Pedro II considera aprovado o estudante que tenha, no mínimo, 75% de presença nas aulas e obtenha média anual ponderada (MA), nas três avaliações trimestrais (certificações), respectivamente com pesos 3, 3 e 4, igual ou superior a 7,0 (sete). Caso não consiga essa média anual, o estudante deve fazer uma prova final de verificação (PFV). Nesse caso, a média final ponderada (MF) é calculada com peso 3 para a média anual e peso 2 para prova final, e será aprovado o estudante que obtiver média final igual ou superior a 5,0 (cinco).</p><p>Desta forma, por exemplo, um estudante com notas 4,0; 8,0 e 5,0 respectivamente, nas três primeiras certificações de Matemática, fica com uma média anual</p><p>\\[MA = \\frac{3 \\times 4 + 3 \\times 8 + 4 \\times 5}{3 + 3 + 4} = \\frac{56}{10} = 5{,}6.\\]</p><p>Esse estudante deve fazer a prova final de verificação e precisa tirar 4,1 nesta avaliação para obter a média final mínima para ser aprovado. Ou seja,</p><p>\\[MF = \\frac{3 \\times 5{,}6 + 2 \\times 4{,}1}{3 + 2} = \\frac{25}{5} = 5{,}0.\\]</p><p>Se Geisa tirou, nas três primeiras certificações, 2,0; 6,0 e 9,0, respectivamente, quanto ela precisa tirar na prova final de verificação, para obter a média final mínima para ser aprovada?</p>",
+    "options": {
+      "A": "3,1.",
+      "B": "3,5.",
+      "C": "4,1.",
+      "D": "5,0."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> média anual de Geisa, com pesos 3, 3 e 4:</p><p>\\[MA = \\frac{3 \\times 2 + 3 \\times 6 + 4 \\times 9}{3 + 3 + 4} = \\frac{6 + 18 + 36}{10} = \\frac{60}{10} = 6{,}0\\]</p><p>Como 6,0 é menor que 7,0, ela precisa fazer a prova final de verificação.</p><p><b>2º passo:</b> chame de \\(P\\) a nota da prova final. Com peso 3 para a média anual e peso 2 para a prova final, a média final deve ser 5,0:</p><p>\\[\\frac{3 \\times 6 + 2P}{3 + 2} = 5 \\;\\Rightarrow\\; 18 + 2P = 25 \\;\\Rightarrow\\; 2P = 7 \\;\\Rightarrow\\; P = 3{,}5\\]</p><p>Conferindo: \\(\\dfrac{18 + 2 \\times 3{,}5}{5} = \\dfrac{25}{5} = 5{,}0\\).</p><p>Resposta: <b>(B) 3,5</b>.</p>",
+    "distractors": {
+      "A": "Com 3,1 a média final seria \\(\\dfrac{18 + 6{,}2}{5} = 4{,}84\\), abaixo de 5,0. A nota não basta.",
+      "C": "4,1 é a nota do estudante do exemplo, que tinha média anual 5,6. Geisa tem média anual maior (6,0), então precisa de menos na prova final.",
+      "D": "Confunde a nota da prova final com a média final mínima. Como a média anual de Geisa (6,0) já passa de 5, ela não precisa tirar 5 na prova."
+    },
+    "tip": "Para achar a nota que falta numa média ponderada, iguale a média ao valor desejado e resolva a equação do 1º grau."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Davi é uma criança que adora brincar com sequências numéricas. Seu pai, professor de Matemática, propôs ao menino que escrevesse em seu caderno uma sequência numérica crescente, com os números naturais menores do que 100, no formato de uma tabela com 25 linhas e 4 colunas, mas sem mostrar para ele como ficou. Temos a seguir as primeiras linhas dessa tabela:</p><table><tbody><tr><td><b>0</b></td><td><b>1</b></td><td><b>2</b></td><td><b>3</b></td></tr><tr><td><b>4</b></td><td><b>5</b></td><td><b>6</b></td><td><b>7</b></td></tr><tr><td><b>8</b></td><td><b>9</b></td><td><b>10</b></td><td><b>11</b></td></tr><tr><td><b>\\(\\vdots\\)</b></td><td></td><td></td><td></td></tr></tbody></table><p>Depois de pronta a tabela, o pai pediu ao filho que pensasse num número natural menor do que 100 e lhe informasse apenas a linha e a coluna que ele ocupava nessa tabela.</p><p>Se Davi disse a seu pai que o número estava representado na 15ª linha e 3ª coluna da tabela, então o menino pensou no número</p>",
+    "options": {
+      "A": "64.",
+      "B": "62.",
+      "C": "60.",
+      "D": "58."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Cada linha tem 4 números, e a tabela começa no 0. A primeira coluna tem os múltiplos de 4:</p><ul><li>a 1ª linha começa em \\(4 \\times 0 = 0\\);</li><li>a 2ª linha começa em \\(4 \\times 1 = 4\\);</li><li>a 3ª linha começa em \\(4 \\times 2 = 8\\).</li></ul><p>Ou seja, a linha de número \\(n\\) começa em \\(4 \\times (n - 1)\\). Então a 15ª linha começa em</p><p>\\[4 \\times (15 - 1) = 4 \\times 14 = 56\\]</p><p>A 15ª linha é 56, 57, 58, 59, e a 3ª coluna é o terceiro desses números: 58.</p><p>Conferindo: \\(58 = 4 \\times 14 + 2\\). O quociente 14 indica a linha \\(14 + 1 = 15\\), e o resto 2 indica a coluna \\(2 + 1 = 3\\).</p><p>Resposta: <b>(D) 58</b>.</p>",
+    "distractors": {
+      "A": "64 é o primeiro número da 17ª linha, duas linhas abaixo da pedida. Teste: \\(64 = 4 \\times 16 + 0\\) fica na linha \\(16 + 1 = 17\\) e na coluna \\(0 + 1 = 1\\), e não na 15ª linha, 3ª coluna.",
+      "B": "62 está na 16ª linha, 3ª coluna. Sai de achar que a 15ª linha começa em \\(4 \\times 15 = 60\\), esquecendo que a 1ª linha começa em 0, e não em 4.",
+      "C": "60 é \\(4 \\times 15\\), o primeiro número da 16ª linha. Sai de multiplicar o número da linha por 4 sem descontar a linha que começa em 0 e sem avançar até a 3ª coluna."
+    },
+    "tip": "Se a tabela começa em 0, a linha \\(n\\) começa em \\(4(n - 1)\\): cuidado com o erro de uma unidade ao contar linhas."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um engenheiro deseja projetar uma ponte estaiada para ligar duas cidades vizinhas. Ele precisa instalar 8 cabos de sustentação que ligam uma torre (vertical) à parte horizontal da ponte, e dispõe de 1.400 metros de cabo para isso. Os cabos devem ser fixados à mesma distância um do outro, tanto na torre quanto na parte horizontal. Assim, a distância da base da torre ao primeiro ponto de fixação vertical deve ser igual à distância entre dois pontos de fixação vertical consecutivos. Essa mesma distância deve ser utilizada da base da torre ao primeiro ponto de fixação horizontal e entre os pontos de fixação horizontal consecutivos, conforme mostra a figura a seguir:</p><p>Utilize \\(\\sqrt{2} \\cong 1{,}41\\)</p><p><img src=\"img/p2018m/mat-q18.png\" alt=\"Esquema da ponte estaiada em vista lateral: uma torre vertical no centro, apoiada sobre a parte horizontal da ponte (desenhada como duas linhas paralelas). A torre tem 4 pontos de fixação igualmente espaçados, sendo o último no topo. De cada um desses pontos saem dois cabos retos, um para a esquerda e outro para a direita, que chegam a pontos de fixação na parte horizontal, também igualmente espaçados a partir da base da torre: 4 pontos de cada lado, 8 cabos ao todo. O cabo que sai do ponto mais baixo da torre chega ao ponto horizontal mais próximo da base, e o cabo que sai do topo chega ao ponto mais afastado; os cabos de um mesmo lado são paralelos entre si. Uma seta aponta para um dos cabos, com a legenda CABO DE SUSTENTAÇÃO.\"></p><p>A distância, em metros, entre dois pontos consecutivos de fixação desses cabos deve ser aproximadamente de</p>",
+    "options": {
+      "A": "49,5.",
+      "B": "70,0.",
+      "C": "98,5.",
+      "D": "100,0."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> chame de \\(d\\) a distância entre dois pontos de fixação consecutivos. Na torre, os pontos ficam às alturas \\(d\\), \\(2d\\), \\(3d\\) e \\(4d\\); na parte horizontal, de cada lado, às distâncias \\(d\\), \\(2d\\), \\(3d\\) e \\(4d\\) da base da torre. O cabo mais baixo liga a altura \\(d\\) ao ponto a \\(d\\) da base, e assim por diante.</p><p><b>2º passo:</b> cada cabo é a hipotenusa de um triângulo retângulo com os dois catetos iguais (altura na torre e distância na horizontal). Pelo Teorema de Pitágoras, o cabo com catetos \\(kd\\) mede</p><p>\\[\\sqrt{(kd)^2 + (kd)^2} = \\sqrt{2(kd)^2} = kd\\sqrt{2}\\]</p><p>(é a diagonal de um quadrado de lado \\(kd\\)). Assim, de cada lado os cabos medem \\(d\\sqrt{2}\\), \\(2d\\sqrt{2}\\), \\(3d\\sqrt{2}\\) e \\(4d\\sqrt{2}\\).</p><p><b>3º passo:</b> somar os 8 cabos (4 de cada lado) e igualar aos 1.400 m disponíveis:</p><p>\\[2 \\times (1 + 2 + 3 + 4)\\, d\\sqrt{2} = 20\\, d\\sqrt{2} = 1400 \\;\\Rightarrow\\; d\\sqrt{2} = 70\\]</p><p><b>4º passo:</b> isolar \\(d\\), tirando a raiz do denominador:</p><p>\\[d = \\frac{70}{\\sqrt{2}} = \\frac{70\\sqrt{2}}{2} = 35\\sqrt{2} \\cong 35 \\times 1{,}41 = 49{,}35\\]</p><p>O valor fica entre 49 e 50 (fazendo \\(70 \\div 1{,}41\\) chega-se a cerca de 49,6). A opção mais próxima é 49,5. Resposta: <b>(A) 49,5</b>.</p>",
+    "distractors": {
+      "B": "70 é o valor de \\(d\\sqrt{2}\\), o comprimento do menor cabo, e não a distância \\(d\\). Também é o que sai de esquecer o Pitágoras e tratar os cabos como se medissem \\(d\\), \\(2d\\), \\(3d\\) e \\(4d\\): \\(20d = 1400\\).",
+      "C": "Sai de contar só os 4 cabos de um lado: \\(10\\, d\\sqrt{2} = 1400\\) dá \\(d = 70\\sqrt{2} \\cong 98{,}7\\), valor próximo de 98,5 (o dobro da resposta certa). A ponte tem 8 cabos, 4 de cada lado da torre.",
+      "D": "Também vem de usar só um lado, com \\(\\sqrt{2}\\) arredondada para 1,4: \\(1400 \\div 14 = 100\\). Teste: com \\(d = 100\\) os 8 cabos somariam \\(20 \\times 100 \\times 1{,}41 = 2820\\) m, o dobro do disponível."
+    },
+    "tip": "A diagonal de um quadrado de lado \\(a\\) mede \\(a\\sqrt{2}\\): use esse atalho do Pitágoras sempre que os dois catetos forem iguais."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Daniela desenhou em seu caderno um triângulo equilátero ABC de lado 8 cm (Figura 1). A seguir, tomando como referência os pontos médios dos lados desse triângulo, traçou outro triângulo equilátero DEF, congruente a ABC, em que D é ponto médio de BC e A é ponto médio de EF (Figura 2). Para finalizar, desenhou um coração com dois semicírculos (de mesmo raio e centros sobre EF) e quatro arcos congruentes (dois deles com centro em A, outro com centro em B e outro com centro em C), conforme a Figura 3.</p><p>Considere: \\(\\pi \\cong 3\\) e \\(\\sqrt{3} \\cong 1{,}7\\)</p><p><img src=\"img/p2018m/mat-q19.png\" alt=\"Três figuras lado a lado. Figura 1: triângulo equilátero ABC, com A no alto, B embaixo à esquerda e C embaixo à direita. Figura 2: o triângulo ABC e o triângulo equilátero DEF, de cabeça para baixo, sobrepostos. O lado FE é horizontal, na altura de A, com F à esquerda, E à direita e A no ponto médio de FE; o vértice D fica embaixo, no ponto médio de BC. Os lados AB e DF se cruzam nos seus pontos médios, e o mesmo ocorre com AC e DE, formando uma figura parecida com uma ampulheta. Figura 3: a mesma construção da Figura 2, sem as letras, com um coração desenhado em traço grosso. No alto, dois semicírculos iguais apoiados sobre o segmento FE, um de F até A e outro de A até E, encostados no ponto A. Do lado esquerdo, de F desce uma curva em forma de S formada por dois arcos: o primeiro vai de F até o cruzamento de AB com DF e se curva para fora do triângulo DEF; o segundo vai desse cruzamento até D e se curva para dentro do triângulo DEF. Do lado direito, de E desce uma curva igual, passando pelo cruzamento de AC com DE. As duas curvas se encontram em D, na ponta do coração.\"></p><p>A área do coração, em centímetros quadrados, é</p>",
+    "options": {
+      "A": "15,2",
+      "B": "39,2",
+      "C": "55,2",
+      "D": "66,2"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.circunferencia",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Entendendo a figura.</b> O triângulo DEF tem lado 8 cm e A é o ponto médio de FE, então \\(FA = AE = 4\\) cm. Os lados DF e AB se cruzam no ponto médio de cada um; chame esse ponto de M. Do mesmo modo, DE e AC se cruzam no ponto médio N.</p><p><b>1º passo: os arcos laterais se compensam.</b> Do lado esquerdo, o contorno do coração vai de F até D por dois arcos de raio 4 cm:</p><ul><li>o arco de F até M tem centro em A (\\(AF = AM = 4\\)) e se curva para <b>fora</b> do triângulo DEF, acrescentando uma pequena região;</li><li>o arco de M até D tem centro em B (\\(BM = BD = 4\\)) e se curva para <b>dentro</b> do triângulo DEF, retirando uma região.</li></ul><p>Os arcos são congruentes e as cordas FM e MD também (as duas medem 4 cm, metade de DF), então a região acrescentada e a região retirada têm a mesma área e se cancelam. O mesmo acontece do lado direito, com os arcos de centros A e C. Assim, a parte do coração abaixo de FE tem exatamente a área do triângulo DEF.</p><p><b>2º passo: área do triângulo DEF</b>, equilátero de lado 8 cm:</p><p>\\[\\frac{\\ell^2\\sqrt{3}}{4} = \\frac{64\\sqrt{3}}{4} = 16\\sqrt{3} \\cong 16 \\times 1{,}7 = 27{,}2 \\text{ cm}^2\\]</p><p><b>3º passo: os dois semicírculos</b> têm diâmetro \\(FA = AE = 4\\) cm, ou seja, raio 2 cm. Juntos, equivalem a um círculo inteiro de raio 2:</p><p>\\[\\pi r^2 = \\pi \\times 2^2 = 4\\pi \\cong 4 \\times 3 = 12 \\text{ cm}^2\\]</p><p><b>4º passo:</b> somar as duas partes:</p><p>\\[27{,}2 + 12 = 39{,}2 \\text{ cm}^2\\]</p><p>Resposta: <b>(B) 39,2</b>.</p>",
+    "distractors": {
+      "A": "15,2 é \\(27{,}2 - 12\\): subtrai a área dos semicírculos em vez de somar. Os semicírculos ficam acima de FE, fora do triângulo, e aumentam o coração.",
+      "C": "55,2 é \\(39{,}2 + 16\\): soma dois setores inteiros de 60° e raio 4 (cada um com \\(\\frac{1}{6} \\times 3 \\times 16 = 8\\) cm²), como se os arcos de centro A acrescentassem setores. Cada arco só forma uma pequena região entre o arco e a corda, e as que entram e saem se cancelam.",
+      "D": "Grande demais: fica perto de \\(2 \\times 27{,}2 + 12 = 66{,}4\\), como se os dois triângulos, ABC e DEF, entrassem inteiros na conta. Abaixo de FE, o coração tem a área de um só triângulo."
+    },
+    "tip": "Quando arcos iguais acrescentam e retiram regiões iguais de um polígono, as áreas se cancelam: procure esse equilíbrio antes de calcular setores."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Geovana está aprendendo a fazer construções geométricas com régua e compasso. Em uma das atividades propostas por seu professor, ela deve desenhar um hexágono regular inscrito numa circunferência e depois um hexágono regular circunscrito a essa mesma circunferência, conforme mostra a figura a seguir:</p><p><img src=\"img/p2018m/mat-q20.png\" alt=\"Uma circunferência com dois hexágonos regulares: um inscrito, com os 6 vértices sobre a circunferência, e outro circunscrito, com os 6 lados tangentes à circunferência. Os dois hexágonos estão na mesma posição, cada um com um vértice no alto, um vértice embaixo e dois lados verticais (um à esquerda e outro à direita). Nenhuma medida está indicada na figura.\"></p><p>Caso ela utilize uma circunferência de raio R, a razão entre o lado do hexágono regular inscrito e o lado do hexágono regular circunscrito a essa circunferência valerá</p>",
+    "options": {
+      "A": "\\(\\dfrac{\\sqrt{6}}{2}\\)",
+      "B": "\\(\\dfrac{\\sqrt{3}}{3}\\)",
+      "C": "\\(\\dfrac{\\sqrt{3}}{2}\\)",
+      "D": "\\(\\dfrac{1}{2}\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.circunferencia",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Hexágono inscrito.</b> Ligando o centro da circunferência aos vértices, o hexágono regular se divide em 6 triângulos equiláteros. Os lados desses triângulos que saem do centro são raios, então o lado do hexágono inscrito é igual ao raio:</p><p>\\[\\ell = R\\]</p><p><b>Hexágono circunscrito.</b> Agora a circunferência toca os lados do hexágono no meio de cada lado. Dividindo esse hexágono também em 6 triângulos equiláteros de lado \\(L\\), o raio \\(R\\) é a <b>altura</b> de cada triângulo (a distância do centro até o lado). Pelo Teorema de Pitágoras na metade de um triângulo equilátero:</p><p>\\[h^2 = L^2 - \\left(\\frac{L}{2}\\right)^2 = \\frac{3L^2}{4} \\;\\Rightarrow\\; h = \\frac{L\\sqrt{3}}{2}\\]</p><p>Como \\(h = R\\):</p><p>\\[\\frac{L\\sqrt{3}}{2} = R \\;\\Rightarrow\\; L = \\frac{2R}{\\sqrt{3}}\\]</p><p><b>Razão pedida</b> (lado do inscrito sobre lado do circunscrito):</p><p>\\[\\frac{\\ell}{L} = \\frac{R}{\\frac{2R}{\\sqrt{3}}} = R \\cdot \\frac{\\sqrt{3}}{2R} = \\frac{\\sqrt{3}}{2}\\]</p><p>Conferindo: \\(\\frac{\\sqrt{3}}{2} \\approx 0{,}87\\), um pouco menor que 1, como deve ser, pois o hexágono de dentro é um pouco menor que o de fora.</p><p>Resposta: <b>(C)</b> \\(\\dfrac{\\sqrt{3}}{2}\\).</p>",
+    "distractors": {
+      "A": "\\(\\dfrac{\\sqrt{6}}{2} \\approx 1{,}22\\) é maior que 1: diria que o lado do hexágono de dentro é maior que o do hexágono de fora, o que é impossível.",
+      "B": "\\(\\dfrac{\\sqrt{3}}{3} = \\dfrac{1}{\\sqrt{3}}\\) sai de usar \\(R\\sqrt{3}\\) como lado do hexágono circunscrito. Mas \\(R\\sqrt{3}\\) é o lado do <b>triângulo</b> equilátero inscrito na circunferência, não do hexágono circunscrito.",
+      "D": "\\(\\dfrac{1}{2}\\) sai de achar que o lado do hexágono circunscrito é o diâmetro \\(2R\\). A figura mostra que o lado de fora é só um pouco maior que o de dentro, longe do dobro."
+    },
+    "tip": "No hexágono regular inscrito o lado é igual ao raio; no circunscrito, o raio é a altura do triângulo equilátero, \\(\\frac{L\\sqrt{3}}{2}\\)."
+  }
+]

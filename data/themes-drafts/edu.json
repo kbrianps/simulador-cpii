@@ -1,0 +1,622 @@
+[
+  {
+    "id": "edu-01",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "Evasão escolar entre os jovens: como garantir que os adolescentes permaneçam na escola?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os motivos que levam adolescentes a abandonar os estudos e os caminhos para mantê-los na escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A carteira vazia",
+        "body_html": "<p>Rafael tem 16 anos e está no 1º ano do ensino médio. Desde o começo do ano, ajuda o tio numa oficina mecânica à tarde e chega em casa cansado demais para estudar. As faltas começaram às sextas-feiras, depois se espalharam pela semana. Na sala, a carteira dele passou a ficar vazia com frequência, e ninguém perguntou por quê.</p><p>Quando finalmente foi chamado à coordenação, Rafael disse apenas: \"Pra que continuar? Lá na oficina eu ganho alguma coisa. Aqui, só ganho bronca.\" A coordenadora ficou em silêncio. Sabia que aquela frase não era só dele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Muitos motivos, um mesmo resultado",
+        "body_html": "<p>O abandono escolar raramente acontece de um dia para o outro. Em geral, é o fim de um processo que reúne vários fatores: a necessidade de trabalhar para ajudar a família, uma gravidez não planejada, repetências seguidas que desanimam o estudante, a distância entre a casa e a escola, a violência no bairro e, também, a sensação de que as aulas não têm relação com a vida real. Por isso, dificilmente existe uma solução única. Uma ação que funciona para um jovem pode não fazer diferença para outro, e acompanhar cada caso de perto tende a ser mais eficaz do que adotar apenas medidas gerais.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três opiniões",
+        "body_html": "<p><b>Uma mãe:</b> O governo deveria ajudar o jovem a continuar estudando. Se ele precisa escolher entre a escola e o dinheiro para a comida, vai escolher a comida.</p><p><b>Um professor:</b> Dinheiro ajuda, mas não resolve tudo. O aluno precisa encontrar sentido no que aprende, senão continua indo à escola só de corpo presente.</p><p><b>Uma estudante:</b> Eu quase desisti no ano passado. O que me segurou foi uma professora que percebeu minhas faltas e me procurou. Às vezes, o que falta é alguém notar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais fatores, dentro e fora da escola, levam um adolescente a desistir de estudar?",
+      "A responsabilidade de manter o jovem na escola é da família, do Estado, da própria escola ou de todos eles?",
+      "Incentivos financeiros resolvem o problema ou apenas parte dele?",
+      "O que faria a escola parecer mais significativa para quem está pensando em abandoná-la?"
+    ],
+    "argument_paths": [
+      "A evasão tem causas principalmente econômicas; por isso, políticas de apoio financeiro às famílias e de combate ao trabalho precoce são o caminho mais eficaz.",
+      "Sem uma escola que dialogue com a realidade e com os projetos de vida dos jovens, nenhum auxílio basta: é preciso repensar currículo, metodologias e acolhimento.",
+      "A permanência depende de uma rede: escola que acompanha as faltas de perto, família presente e serviços públicos (saúde, assistência social, transporte) atuando juntos.",
+      "Tese de equilíbrio: o auxílio financeiro é necessário, mas só funciona quando combinado a vínculos afetivos com professores e colegas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 205",
+        "how": "Define a educação como direito de todos e dever do Estado e da família, com a colaboração da sociedade. Serve para sustentar que a permanência do jovem na escola é uma responsabilidade coletiva, e não apenas do estudante."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53, inciso I",
+        "how": "Garante igualdade de condições para o acesso e a permanência na escola. Mostra que não basta haver vaga: é preciso oferecer condições para que o jovem continue estudando."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 7º, inciso XXXIII",
+        "how": "Proíbe qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz, a partir dos 14, e o trabalho noturno, perigoso ou insalubre a menores de 18. Ajuda a argumentar que o trabalho precoce, uma das causas do abandono escolar, precisa ser combatido."
+      },
+      {
+        "ref": "Programa Pé-de-Meia (Lei nº 14.818/2024)",
+        "how": "Criado pelo governo federal em 2024, concede incentivo financeiro, na forma de poupança, a estudantes de baixa renda do ensino médio público, vinculado à matrícula, à frequência e à conclusão dos estudos. Pode ilustrar a tese do apoio econômico ou servir de ponto de partida para discutir se ele basta sozinho."
+      }
+    ],
+    "pitfalls": [
+      "Falar da importância da educação em geral sem discutir por que os jovens abandonam a escola nem como mantê-los nela.",
+      "Culpar apenas o estudante (\"quem sai é porque não quer nada\"), ignorando fatores sociais e econômicos.",
+      "Propor soluções vagas, como \"o governo deve investir mais\", sem dizer em quê nem de que forma."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "edu-02",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "De quem é a responsabilidade de combater o bullying no ambiente escolar?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o bullying nas escolas e o papel de cada pessoa diante dele. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é, afinal, bullying?",
+        "body_html": "<p>Nem todo conflito entre colegas é bullying. O termo se refere a agressões intencionais e repetidas, físicas ou psicológicas, praticadas contra alguém que tem dificuldade de se defender. Apelidos humilhantes, exclusão proposital dos grupos, ameaças, empurrões e boatos fazem parte do problema. Quando essas agressões acontecem pela internet, em grupos de mensagens ou redes sociais, fala-se em cyberbullying, que pode acompanhar a vítima até dentro de casa. No Brasil, existe uma lei específica sobre o tema desde 2015, e, desde 2024, a prática também é considerada crime pelo Código Penal.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "No corredor",
+        "body_html": "<p><b>Bia:</b> Você viu o vídeo que fizeram do Caio caindo na quadra? Já está em todos os grupos.</p><p><b>Léo:</b> Vi. Todo mundo riu.</p><p><b>Bia:</b> Você riu?</p><p><b>Léo:</b> Ah, um pouco. Mas eu não gravei nem postei nada.</p><p><b>Bia:</b> Mas também não falou nada. E ele não vem à escola há três dias.</p><p><b>Léo:</b> E o que eu ia fazer? Se eu defendo, amanhã o alvo sou eu.</p><p><b>Bia:</b> Então a gente vai continuar só assistindo?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Cada um aponta para um lado",
+        "body_html": "<p>Depois de um caso grave de bullying, uma escola reuniu pais, professores e alunos. Os pais disseram que a escola precisava vigiar mais os corredores e punir os agressores. Os professores responderam que a educação começa em casa e que muitos comportamentos vêm do exemplo dos adultos. Alguns alunos lembraram que quase tudo acontece longe dos olhos dos adultos, nos intervalos e no celular. A reunião terminou sem acordo, mas com uma pergunta no ar: se todos têm um pouco de responsabilidade, por que ninguém se sente responsável?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é o papel da escola, da família e dos próprios estudantes diante do bullying?",
+      "Quem assiste a uma agressão e não faz nada também tem responsabilidade?",
+      "Punir o agressor é suficiente, ou é preciso entender por que ele age assim?",
+      "Como o cyberbullying muda a forma de enfrentar o problema?"
+    ],
+    "argument_paths": [
+      "A responsabilidade principal é da escola, que deve ter regras claras, canais de denúncia e ações permanentes de prevenção, e não apenas reagir depois que os casos acontecem.",
+      "O combate começa na família: valores como respeito e empatia são aprendidos primeiro em casa, e a escola sozinha não consegue compensar a ausência deles.",
+      "Os estudantes que testemunham as agressões têm papel decisivo, porque o bullying depende de plateia; quebrar o silêncio enfraquece o agressor.",
+      "A responsabilidade é compartilhada, mas precisa ser organizada: sem uma divisão clara de tarefas, \"todos são responsáveis\" acaba virando \"ninguém é responsável\"."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 13.185/2015 (Programa de Combate à Intimidação Sistemática)",
+        "how": "Define o bullying como violência física ou psicológica intencional e repetitiva, em uma relação de desequilíbrio de poder, e determina que as escolas adotem medidas de conscientização, prevenção, diagnose e combate. Mostra que a responsabilidade das instituições de ensino já está prevista em lei."
+      },
+      {
+        "ref": "Lei nº 14.811/2024",
+        "how": "Incluiu no Código Penal (art. 146-A) os crimes de intimidação sistemática (bullying) e de intimidação sistemática virtual (cyberbullying). Como menores de 18 anos não respondem pelo Código Penal, e sim pelas medidas do ECA, a lei serve para discutir se a punição é o melhor caminho na escola ou se precisa vir acompanhada de prevenção e educação."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 5º",
+        "how": "Determina que nenhuma criança ou adolescente será objeto de negligência, discriminação, exploração, violência, crueldade ou opressão, e que será punido qualquer atentado a seus direitos fundamentais, por ação ou omissão. A menção à omissão ajuda a discutir a responsabilidade de adultos e instituições que sabem das agressões e nada fazem, e abre espaço para refletir sobre o silêncio de quem assiste."
+      }
+    ],
+    "pitfalls": [
+      "Apenas definir bullying ou narrar casos, sem responder de quem é a responsabilidade de combatê-lo.",
+      "Tratar qualquer desentendimento entre colegas como bullying, perdendo a precisão do conceito.",
+      "Defender apenas punições severas, sem considerar a prevenção, o acolhimento da vítima e a reeducação do agressor."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "edu-03",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "É possível aprender de verdade em uma escola que valoriza principalmente as notas?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre notas, provas e aprendizagem. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Decorar para esquecer",
+        "body_html": "<p>Na véspera da prova de Ciências, Marina passou a noite repetindo definições em voz alta. Na manhã seguinte, respondeu tudo e tirou 9,5. Duas semanas depois, quando o professor retomou o assunto para começar o conteúdo novo, ela percebeu que não lembrava quase nada. \"Mas eu tirei nota boa\", pensou, confusa. A nota dizia que ela tinha aprendido. A memória dizia outra coisa. Naquela tarde, Marina se perguntou pela primeira vez se estudava para entender ou apenas para passar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Para que serve uma avaliação?",
+        "body_html": "<p>Provas e notas cumprem funções importantes: mostram ao professor o que precisa ser retomado, ajudam o estudante a perceber suas dificuldades e permitem acompanhar o desempenho ao longo do tempo. O problema aparece quando a nota deixa de ser um instrumento e passa a ser o objetivo. Nesse caso, o estudante pode aprender a \"jogar o jogo\": decorar respostas, adivinhar o que vai cair, copiar trabalhos. Por outro lado, sem algum tipo de medida, fica difícil saber se alguém aprendeu de fato. O desafio, portanto, não é só escolher entre ter ou não ter notas, mas decidir o que elas devem medir.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes da sala de aula",
+        "body_html": "<p><b>Aluno do 9º ano:</b> Se não valesse nota, ninguém estudava. É a nota que me faz abrir o caderno toda semana.</p><p><b>Aluna do 8º ano:</b> Eu aprendo mais nos projetos, quando tenho que explicar para a turma o que descobri. Na prova, eu só fico nervosa e esqueço tudo.</p><p><b>Professora de Matemática:</b> A nota é uma fotografia de um dia. Aprender é um filme inteiro, com erros, tentativas e descobertas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Tirar uma nota alta significa, necessariamente, ter aprendido?",
+      "Por que tantos estudantes estudam apenas para a prova?",
+      "Existem formas de avaliar que estimulem a compreensão, e não a memorização?",
+      "A nota pode ser uma motivação positiva? Em que situações ela atrapalha?"
+    ],
+    "argument_paths": [
+      "Sim, é possível: a nota não impede o aprendizado, e pode até motivá-lo, desde que as avaliações cobrem compreensão, aplicação e raciocínio, e não apenas memorização.",
+      "Não plenamente: quando a nota é o principal objetivo, o estudante tende a decorar e esquecer, e a curiosidade dá lugar à ansiedade.",
+      "A saída está em diversificar a avaliação (projetos, apresentações, autoavaliação, devolutivas comentadas), usando a nota como uma informação entre outras.",
+      "A responsabilidade não é só da escola: famílias e sociedade também reforçam a cultura da nota ao valorizar apenas resultados e aprovações."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), art. 24, inciso V, alínea a",
+        "how": "Determina que a avaliação seja contínua e cumulativa, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais. Mostra que a própria lei não reduz a aprendizagem às notas de provas finais."
+      },
+      {
+        "ref": "Paulo Freire, Pedagogia do Oprimido",
+        "how": "O conceito de \"educação bancária\", em que o professor \"deposita\" conteúdos no aluno, que apenas os recebe, memoriza e repete, ajuda a criticar o estudo voltado só para a prova."
+      },
+      {
+        "ref": "Lei de Goodhart (Charles Goodhart, economista britânico)",
+        "how": "Formulada originalmente sobre economia, costuma ser resumida na ideia de que, quando uma medida se torna uma meta, ela deixa de ser uma boa medida. Aplicada à escola, sugere que a nota perde valor como indicador de aprendizagem quando vira o objetivo do estudo."
+      }
+    ],
+    "pitfalls": [
+      "Defender simplesmente o fim das provas, sem propor outra forma de saber se os estudantes aprenderam.",
+      "Transformar o texto em um desabafo sobre provas difíceis ou professores específicos, sem argumentação.",
+      "Discutir apenas vestibulares e concursos, esquecendo a pergunta central sobre aprender de verdade."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "edu-04",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "Inteligência artificial nas tarefas escolares: aliada da aprendizagem ou atalho que prejudica a formação dos estudantes?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o uso de ferramentas de inteligência artificial pelos estudantes em seus estudos e tarefas escolares. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O trabalho de História",
+        "body_html": "<p><b>Davi:</b> Pronto, terminei o trabalho sobre a Independência. Levei cinco minutos.</p><p><b>Clara:</b> Cinco minutos? Você pediu para a inteligência artificial escrever tudo?</p><p><b>Davi:</b> Pedi. Ficou até melhor do que eu faria.</p><p><b>Clara:</b> E se a professora perguntar alguma coisa na apresentação?</p><p><b>Davi:</b> Eu leio antes.</p><p><b>Clara:</b> Eu também usei, mas foi para me explicar a parte que eu não tinha entendido. Depois escrevi do meu jeito.</p><p><b>Davi:</b> Então nós dois usamos a mesma ferramenta.</p><p><b>Clara:</b> A mesma ferramenta, sim. Mas não do mesmo jeito.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Uma velha preocupação",
+        "body_html": "<p>O receio de que uma nova tecnologia torne as pessoas menos capazes não é novidade. Em um diálogo escrito pelo filósofo grego Platão, a própria escrita é criticada por supostamente enfraquecer a memória. Muito tempo depois, a calculadora provocou debates parecidos nas aulas de Matemática. Hoje, programas de inteligência artificial conseguem produzir textos, resolver exercícios e resumir livros em segundos, mas também podem cometer erros e apresentar informações falsas com aparência de verdade. A questão, mais uma vez, é saber se a ferramenta vai ampliar a capacidade de pensar de quem a usa ou substituí-la.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "A nova regra",
+        "body_html": "<p>Uma escola decidiu discutir com os alunos uma regra sobre o uso de inteligência artificial. Parte da turma queria a proibição total: \"Se liberar, ninguém mais faz nada sozinho\". Outra parte defendia o uso livre: \"Quando a gente for trabalhar, vai usar essas ferramentas de qualquer jeito\". Um terceiro grupo sugeriu um meio-termo: a ferramenta seria permitida em algumas atividades, desde que o estudante indicasse como a usou e fosse capaz de explicar o resultado com as próprias palavras. A votação ficou marcada para a semana seguinte.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre usar a inteligência artificial para aprender e usá-la para evitar o esforço de aprender?",
+      "Entregar um texto produzido por uma máquina como se fosse seu é uma questão ética? Por quê?",
+      "A escola deve proibir, liberar ou ensinar a usar essas ferramentas?",
+      "Que habilidades continuam importantes mesmo quando uma máquina consegue fazer parte das tarefas?"
+    ],
+    "argument_paths": [
+      "A inteligência artificial pode ser aliada quando usada para tirar dúvidas, revisar e explorar ideias, funcionando como um tutor disponível a qualquer hora.",
+      "O uso sem critério prejudica a formação, porque transfere para a máquina justamente o esforço de pensar, escrever e errar, que é o que faz alguém aprender.",
+      "Proibir é inútil e desatualizado; a escola deve ensinar um uso crítico e ético, exigindo transparência sobre como a ferramenta foi usada.",
+      "O problema não é a tecnologia, mas avaliações que só pedem produtos prontos; tarefas que exigem reflexão pessoal e explicação oral tornam o atalho menos atraente."
+    ],
+    "repertoire": [
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 5",
+        "how": "Prevê que o estudante aprenda a compreender, utilizar e criar tecnologias digitais de forma crítica, significativa, reflexiva e ética, inclusive para produzir conhecimentos e exercer protagonismo e autoria. Sustenta a tese de que a escola deve ensinar a usar a inteligência artificial, e não apenas proibi-la, e permite discutir o que significa ser autor de um trabalho."
+      },
+      {
+        "ref": "Platão, Fedro",
+        "how": "Nesse diálogo, Sócrates conta um mito, ambientado no antigo Egito, sobre a invenção da escrita, apresentada como algo que poderia enfraquecer a memória. Mostra que o medo de novas tecnologias é antigo e permite discutir se a inteligência artificial é apenas mais uma ferramenta ou algo diferente."
+      },
+      {
+        "ref": "Paulo Freire, Pedagogia da Autonomia",
+        "how": "A ideia de que ensinar não é transferir conhecimento, mas criar possibilidades para que ele seja produzido ou construído, ajuda a argumentar que copiar respostas prontas, de uma máquina ou de qualquer outra fonte, não gera aprendizagem."
+      }
+    ],
+    "pitfalls": [
+      "Falar de tecnologia ou de redes sociais em geral, sem focar no uso da inteligência artificial nas tarefas escolares.",
+      "Tratar a inteligência artificial como totalmente boa ou totalmente má, sem considerar as diferentes formas de uso.",
+      "Fazer previsões sobre o futuro das máquinas em vez de discutir a formação dos estudantes."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "edu-05",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "Os estudantes devem participar das decisões tomadas pela escola?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação dos estudantes na vida e nas decisões da escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, escreva uma carta argumentativa, dirigida à direção da sua escola e assinada apenas com a expressão \"Um estudante\" ou \"Uma estudante\", em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O grêmio estudantil",
+        "body_html": "<p>O grêmio estudantil é a organização que representa os alunos dentro da escola. Seus integrantes são escolhidos pelos próprios estudantes, em eleição, e podem levar sugestões e reclamações à direção, organizar eventos culturais e esportivos, criar campanhas e participar de debates sobre as regras da escola. No Brasil, o direito de os estudantes se organizarem em grêmios é garantido por lei desde 1985. Em algumas escolas, porém, o grêmio não existe ou se limita a organizar festas, o que leva alguns a questionar se os alunos são realmente ouvidos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O novo horário do intervalo",
+        "body_html": "<p>No início do semestre, os alunos de uma escola encontraram um aviso no mural: o intervalo seria reduzido em dez minutos para que as aulas terminassem mais cedo. Ninguém havia sido consultado. Nos dias seguintes, surgiram reclamações: o tempo não era suficiente para lanchar, e as filas da cantina aumentaram. Um grupo de estudantes escreveu uma proposta com outra divisão dos horários e pediu para apresentá-la à direção. A diretora aceitou recebê-los, mas avisou: \"Vou ouvir, mas quem decide é a escola. Vocês ainda não têm maturidade para isso\".</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p><b>Um professor:</b> Participar ensina cidadania. Quem aprende na escola a argumentar, negociar e respeitar a decisão da maioria leva isso para a vida inteira.</p><p><b>Uma mãe:</b> Ouvir os alunos é bom, mas certas decisões exigem conhecimento técnico e responsabilidade que eles ainda não têm.</p><p><b>Um estudante:</b> Nós passamos boa parte do dia na escola. Não faz sentido que as regras sobre nós sejam feitas sem nós.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Sobre que tipo de assunto os estudantes poderiam opinar ou votar? Existem decisões que devem ficar só com a direção e os professores?",
+      "Participar das decisões da escola pode preparar os jovens para a vida em sociedade? Como?",
+      "O que torna a participação dos alunos real, e não apenas simbólica?",
+      "Como convencer, com respeito e bons argumentos, uma direção que pensa diferente de você?"
+    ],
+    "argument_paths": [
+      "Sim: a escola é um espaço de formação cidadã, e participar de decisões (por meio de grêmio, conselhos e assembleias) ensina, na prática, a vida democrática.",
+      "Sim, com limites: os estudantes devem ser consultados sobre temas que os afetam diretamente, como convivência, horários e eventos, enquanto questões pedagógicas e administrativas ficam com os profissionais.",
+      "Não de forma decisória: os alunos devem ser ouvidos, mas a responsabilidade final precisa ser dos adultos, que respondem pela escola.",
+      "A participação só funciona com canais permanentes e retorno da direção; consultas ocasionais, sem resposta, geram descrédito."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 7.398/1985",
+        "how": "Assegura aos estudantes o direito de se organizarem em grêmios estudantis. É um argumento direto a favor da participação estudantil organizada."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53, inciso IV",
+        "how": "Garante ao estudante o direito de organização e participação em entidades estudantis. Mostra que a participação é um direito, e não um favor da direção."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 206, inciso VI",
+        "how": "Estabelece a gestão democrática do ensino público como princípio. Pode fundamentar a proposta de conselhos escolares e assembleias com representação dos alunos."
+      },
+      {
+        "ref": "Movimento dos caras-pintadas (1992)",
+        "how": "Estudantes, muitos deles secundaristas, foram às ruas com o rosto pintado em manifestações a favor do impeachment do presidente Fernando Collor. Serve para mostrar que os jovens já tiveram papel importante em decisões coletivas do país."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer os elementos da carta (vocativo dirigido à direção, despedida e assinatura) ou assiná-la com o próprio nome: o edital do CPII proíbe registrar nome ou assinatura na folha de redação, sob pena de anulação da prova. Use apenas a assinatura indicada na proposta.",
+      "Transformar a carta em uma lista de reclamações sobre a escola, sem defender uma posição sobre a participação estudantil.",
+      "Usar um tom agressivo ou informal demais com o destinatário, o que enfraquece a argumentação."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "edu-06",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "Caminhos para despertar nos jovens o gosto pela leitura.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação dos jovens com a leitura e o papel da escola na formação de leitores. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Eu não gostava de ler",
+        "body_html": "<p>Durante anos, achei que não gostava de ler. Os livros da escola pareciam escritos para outra pessoa, com palavras difíceis e histórias que não tinham nada a ver comigo. Eu lia o resumo, fazia a prova e esquecia. Tudo mudou no 8º ano, quando a professora levou para a sala uma caixa com livros variados e deixou cada um escolher o seu. Peguei um de suspense, só porque a capa era bonita. Terminei em dois dias e voltei para pedir outro. Descobri que eu não odiava ler. Eu só ainda não tinha encontrado o meu livro.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Ler o quê?",
+        "body_html": "<p><b>Posição 1:</b> A escola deve apresentar os clássicos da literatura. São obras que dificilmente o jovem encontraria sozinho e que ajudam a compreender a história, a língua e a cultura do país.</p><p><b>Posição 2:</b> Antes dos clássicos, é preciso criar o hábito. Se o estudante puder ler histórias em quadrinhos, sagas de fantasia ou livros que viraram série, ele ganha confiança e, com o tempo, chega a textos mais complexos.</p><p><b>Posição 3:</b> Não é preciso escolher. Um bom caminho pode alternar leituras livres e obras indicadas, sempre com espaço para conversar sobre o que foi lido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Muito além da sala de aula",
+        "body_html": "<p>A formação de um leitor não depende apenas das aulas. Ter livros em casa, ver adultos lendo, frequentar bibliotecas e participar de conversas sobre histórias são experiências que fazem diferença. Nem todos os jovens, porém, têm essas oportunidades fora da escola, e por isso a biblioteca escolar pode ser o primeiro contato de muitos com uma estante cheia de livros. Ao mesmo tempo, a leitura também acontece nas telas, em blogs, fanfics e fóruns, o que leva alguns a perguntar se os jovens leem menos ou apenas leem de outras formas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que alguns jovens se afastam da leitura? A causa está nos livros escolhidos, na escola, nas telas ou na falta de oportunidade?",
+      "A escola deve priorizar os clássicos ou a liberdade de escolha dos estudantes?",
+      "Ler nas telas, como em fanfics e blogs, também forma leitores?",
+      "Que papel a família, as bibliotecas e os próprios jovens podem ter nesse processo?"
+    ],
+    "argument_paths": [
+      "O gosto pela leitura nasce da liberdade de escolha: permitir que o jovem leia o que o interessa é o primeiro passo para, depois, chegar a obras mais complexas.",
+      "A escola tem o dever de apresentar os clássicos, mas precisa fazê-lo de forma viva, com conversas, dramatizações e relações com a atualidade, e não apenas com provas e resumos.",
+      "Sem acesso não há leitor: bibliotecas escolares e públicas funcionando, com acervo atualizado e horários acessíveis, são condição básica.",
+      "O exemplo e o convívio com outros leitores (professores, familiares, colegas, clubes de leitura) pesam mais do que qualquer obrigação."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 12.244/2010",
+        "how": "Dispõe sobre a universalização das bibliotecas nas instituições de ensino, públicas e privadas, do país. Ajuda a defender que o acesso aos livros na escola é condição básica para formar leitores."
+      },
+      {
+        "ref": "Antonio Candido, ensaio \"O direito à literatura\"",
+        "how": "O crítico literário brasileiro defende que a literatura é uma necessidade universal e deve ser tratada como um direito humano. Sustenta que o contato com livros não é luxo, mas parte da formação de todos."
+      },
+      {
+        "ref": "Daniel Pennac, Como um romance",
+        "how": "O escritor francês propõe os \"direitos imprescritíveis do leitor\", como o direito de não terminar um livro e o de ler qualquer coisa. Serve para defender que o prazer e a liberdade ajudam a criar o hábito da leitura."
+      }
+    ],
+    "pitfalls": [
+      "Limitar-se a repetir que \"ler é importante\" sem apresentar caminhos concretos para despertar o gosto pela leitura.",
+      "Culpar apenas as redes sociais ou os próprios jovens, sem considerar o papel da escola, da família e do acesso a livros.",
+      "Listar muitas soluções soltas, sem desenvolver nenhuma delas com argumentos."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "edu-07",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "A escola é capaz de reduzir as desigualdades sociais no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as diferenças de oportunidades educacionais entre os jovens brasileiros e o papel da escola diante delas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Duas manhãs de segunda-feira",
+        "body_html": "<p>Às 6h, Luana acorda, pega dois ônibus e chega à escola pública onde estuda. Nesta semana, a turma está sem professor de Física, e a biblioteca continua fechada para reforma. À tarde, ela cuida do irmão menor enquanto a mãe trabalha.</p><p>Às 7h, Pedro chega de carro à escola particular. Depois da aula, tem curso de inglês e aula de reforço de Matemática. Em casa, tem um quarto silencioso para estudar.</p><p>No fim do ano, os dois farão a mesma prova para disputar a mesma vaga.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Escola como elevador?",
+        "body_html": "<p>Há quem veja a educação como uma espécie de elevador social: por meio dos estudos, filhos de famílias pobres poderiam alcançar empregos melhores e mudar de vida. Muitas histórias pessoais confirmam essa ideia. Outros observam, porém, que a escola também pode reproduzir as desigualdades que existem fora dela, quando estudantes de origens diferentes recebem ensino de qualidade muito diferente. Nesse caso, em vez de diminuir a distância entre os que têm mais e os que têm menos, a escola apenas a confirmaria. O debate, portanto, não é só se a educação transforma, mas que tipo de educação é capaz de fazê-lo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que fazer?",
+        "body_html": "<p><b>Opinião A:</b> Políticas como as cotas em universidades públicas corrigem parte da injustiça, porque consideram as diferentes condições de quem disputa a vaga.</p><p><b>Opinião B:</b> Cotas tratam o sintoma. O essencial é melhorar a educação básica pública desde a creche, para que todos cheguem ao fim da escola com as mesmas chances.</p><p><b>Opinião C:</b> A escola sozinha não dá conta. Sem emprego, moradia e renda para as famílias, o estudante continua levando para a sala de aula os problemas de fora dela.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que estudantes da mesma idade chegam ao fim da escola com oportunidades tão diferentes?",
+      "A escola transforma a realidade social ou tende a reproduzi-la?",
+      "Políticas como as cotas são uma solução, um complemento ou um paliativo?",
+      "Que mudanças tornariam a escola pública um verdadeiro instrumento de igualdade?"
+    ],
+    "argument_paths": [
+      "Sim: a educação pública de qualidade é o principal instrumento de mobilidade social, desde que haja investimento, professores valorizados e escolas bem equipadas.",
+      "Apenas em parte: a escola pode reduzir desigualdades, mas também as reproduz quando oferece ensinos muito diferentes para ricos e pobres; sem enfrentar essa diferença, ela confirma a desigualdade.",
+      "Não sozinha: a desigualdade educacional é efeito de desigualdades de renda, moradia e saúde, e só diminui com políticas sociais articuladas à escola.",
+      "Ações afirmativas, como as cotas, são necessárias enquanto a educação básica não oferece condições iguais a todos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 206, inciso I",
+        "how": "Estabelece como princípio do ensino a igualdade de condições para o acesso e a permanência na escola. Permite comparar o que a lei garante com a realidade de estudantes em situações muito diferentes."
+      },
+      {
+        "ref": "Lei nº 12.711/2012 (Lei de Cotas), atualizada pela Lei nº 14.723/2023",
+        "how": "Reserva no mínimo metade das vagas das universidades federais e das instituições federais de ensino técnico de nível médio a estudantes que cursaram a escola pública, com subcotas por renda e para pretos, pardos, indígenas, quilombolas e pessoas com deficiência. O próprio Colégio Pedro II aplica essa reserva em seu processo seletivo. Serve para discutir se as ações afirmativas corrigem ou apenas compensam as desigualdades da educação básica."
+      },
+      {
+        "ref": "Manifesto dos Pioneiros da Educação Nova (1932)",
+        "how": "Redigido por Fernando de Azevedo e assinado por intelectuais como Anísio Teixeira e a escritora Cecília Meireles, o documento defendia uma escola pública, gratuita, laica e obrigatória para todos. Mostra que a ideia da escola como instrumento de igualdade é antiga no debate brasileiro."
+      },
+      {
+        "ref": "Pierre Bourdieu e Jean-Claude Passeron, A reprodução (1970)",
+        "how": "Os sociólogos franceses argumentam que a escola tende a reproduzir as desigualdades sociais ao valorizar conhecimentos e hábitos típicos das classes mais favorecidas. É útil para a tese de que a escola, sozinha, pode confirmar em vez de reduzir as desigualdades."
+      }
+    ],
+    "pitfalls": [
+      "Discutir a desigualdade social de forma geral (renda, violência, saúde) sem relacioná-la à escola.",
+      "Afirmar simplesmente que \"basta se esforçar\" ou que \"nada adianta\", ignorando a complexidade do tema.",
+      "Inventar dados e números para dar credibilidade ao texto; é melhor argumentar com fatos conhecidos e raciocínio bem construído."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "edu-08",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "Desafios para a inclusão de estudantes com deficiência nas escolas brasileiras.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a presença de estudantes com deficiência nas escolas regulares e as condições para que essa inclusão aconteça de fato. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Matriculado ou incluído?",
+        "body_html": "<p>Gabriel é surdo e acaba de entrar no 6º ano de uma escola regular. No primeiro dia, a professora fala de costas para a turma enquanto escreve no quadro, e ele não consegue ler seus lábios. Não há intérprete de Libras na sala. Os colegas são simpáticos, mas ninguém sabe se comunicar com ele. Na hora do trabalho em grupo, Gabriel fica sozinho. Na lista de chamada, seu nome está lá, como o de qualquer outro aluno. A pergunta é se estar matriculado é o mesmo que estar incluído.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Integração e inclusão",
+        "body_html": "<p>Por muito tempo, estudantes com deficiência foram educados em escolas ou classes separadas. Depois, ganhou força a ideia de integração: o aluno podia frequentar a escola comum, desde que se adaptasse a ela. A inclusão propõe o caminho inverso: é a escola que deve se transformar para receber todos, com rampas, materiais acessíveis, profissionais de apoio, formação de professores e, sobretudo, atitudes sem preconceito. No Brasil, a Lei Brasileira de Inclusão, de 2015, garante à pessoa com deficiência o direito a um sistema educacional inclusivo em todos os níveis.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Pontos de vista",
+        "body_html": "<p><b>Mãe de um estudante autista:</b> Meu filho aprende com os colegas, e os colegas aprendem com ele. Separar seria dizer que ele não pertence ao mundo dos outros.</p><p><b>Professor de Geografia:</b> Eu apoio a inclusão, mas tenho turmas grandes e nenhuma formação para isso. Sem apoio, sinto que não atendo bem ninguém.</p><p><b>Estudante do 9º ano:</b> No começo, a gente estranhou. Hoje, o Artur é só mais um da turma, que torce pelo mesmo time que eu.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre matricular um estudante com deficiência e incluí-lo de fato?",
+      "Que obstáculos existem: físicos, pedagógicos, de formação dos professores ou de preconceito?",
+      "Como a convivência com a diversidade beneficia todos os estudantes, e não apenas os que têm deficiência?",
+      "Quem deve garantir as adaptações necessárias: o Estado, a escola, as famílias?"
+    ],
+    "argument_paths": [
+      "O principal desafio é estrutural: sem acessibilidade física, materiais adaptados, intérpretes e profissionais de apoio, a inclusão fica só no papel.",
+      "O maior obstáculo é a formação docente: professores precisam de preparo e de turmas menores para planejar aulas que atendam a diferentes necessidades.",
+      "Antes de tudo, é preciso vencer o capacitismo (preconceito contra pessoas com deficiência): atitudes discriminatórias de colegas, famílias e profissionais excluem mesmo em escolas bem equipadas.",
+      "A inclusão beneficia todos, pois ensina respeito à diversidade; os desafios existem, mas justificam investimento, e não a volta à separação."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015)",
+        "how": "Assegura sistema educacional inclusivo em todos os níveis e proíbe escolas particulares de cobrar valores adicionais pelas adaptações necessárias. Mostra que a inclusão é um direito, e não uma concessão."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 208, inciso III",
+        "how": "Prevê atendimento educacional especializado aos estudantes com deficiência, preferencialmente na rede regular de ensino (o texto constitucional usa a expressão \"portadores de deficiência\", hoje considerada inadequada). Permite argumentar que o lugar do estudante com deficiência é, em princípio, a escola comum."
+      },
+      {
+        "ref": "Lei nº 10.436/2002",
+        "how": "Reconhece a Língua Brasileira de Sinais (Libras) como meio legal de comunicação e expressão. Pode ser usada para defender a presença de intérpretes e o ensino de Libras nas escolas."
+      },
+      {
+        "ref": "Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006)",
+        "how": "Promulgada no Brasil pelo Decreto nº 6.949/2009, tem status de emenda constitucional e adota a expressão \"pessoa com deficiência\". Seu artigo 24 garante um sistema educacional inclusivo em todos os níveis. Ajuda a tratar o tema como uma questão de direitos humanos."
+      }
+    ],
+    "pitfalls": [
+      "Tratar as pessoas com deficiência apenas como objeto de pena ou como exemplos de superação, e não como sujeitos de direitos.",
+      "Falar de inclusão em sentido amplo (racial, econômica) sem focar nos estudantes com deficiência na escola.",
+      "Usar termos inadequados, como \"portador de deficiência\" ou \"deficiente\" (como substantivo), no lugar de \"pessoa com deficiência\", ou expressões que reforçam estereótipos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "edu-09",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "De que forma a escola pode cuidar da saúde emocional de seus estudantes?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a saúde emocional dos estudantes e o papel da escola diante da ansiedade, da pressão e de outras formas de sofrimento dos jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Semana de provas",
+        "body_html": "<p>Na semana de provas, Júlia quase não dormia. O coração disparava quando o professor distribuía as folhas, e as respostas que ela sabia de cor pareciam desaparecer. Em casa, ouvia que aquele ano era \"decisivo\". Nas redes sociais, via colegas postando notas altas e rotinas de estudo perfeitas. Um dia, começou a chorar no banheiro da escola antes da aula. Uma funcionária a encontrou, sentou-se ao seu lado e perguntou apenas: \"Quer conversar?\". Foi a primeira vez que alguém fez essa pergunta a Júlia naquele ano.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Tarefa de quem?",
+        "body_html": "<p><b>Posição 1:</b> A escola deve ensinar os conteúdos. Questões emocionais são assunto da família e de profissionais de saúde, e o professor não tem formação para isso.</p><p><b>Posição 2:</b> Não dá para separar razão e emoção. Um estudante ansioso ou triste não aprende bem, e a escola é um dos lugares onde os sinais de sofrimento podem ser percebidos.</p><p><b>Posição 3:</b> A escola não deve fazer terapia, mas pode acolher, ouvir e encaminhar, trabalhando em conjunto com as famílias e com os serviços de saúde.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Emoções também se aprendem",
+        "body_html": "<p>Lidar com a frustração, pedir ajuda, respeitar os próprios limites e perceber como o outro se sente são habilidades que podem ser desenvolvidas, assim como a leitura ou o cálculo. Algumas escolas criam rodas de conversa, projetos sobre convivência e momentos para que os alunos falem de como estão. Outras revisam o calendário para evitar muitas provas no mesmo dia. Há também quem defenda a presença de psicólogos nas escolas. Essas iniciativas não eliminam os problemas, mas podem mostrar aos estudantes que sentir medo ou tristeza não é sinal de fraqueza.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que aspectos da vida escolar podem afetar a saúde emocional dos estudantes?",
+      "Até onde vai o papel da escola, e onde começa o da família e dos profissionais de saúde?",
+      "Que ações concretas uma escola pode adotar sem transformar os professores em terapeutas?",
+      "Como os próprios estudantes podem contribuir para um ambiente escolar mais acolhedor?"
+    ],
+    "argument_paths": [
+      "A escola deve incluir o cuidado emocional em seu projeto, com rodas de conversa, educação socioemocional e escuta atenta, porque bem-estar e aprendizagem caminham juntos.",
+      "O essencial é garantir profissionais especializados, como psicólogos e assistentes sociais, trabalhando em rede com o sistema de saúde, em vez de sobrecarregar os professores.",
+      "A escola também precisa rever práticas que geram sofrimento, como o excesso de provas, a comparação constante entre alunos e a pressão por resultados.",
+      "O cuidado deve ser compartilhado: a escola acolhe e encaminha, mas a família e os serviços de saúde têm papel central, e ela não pode assumir sozinha essa responsabilidade."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 13.935/2019",
+        "how": "Determina que as redes públicas de educação básica contem com serviços de psicologia e de serviço social. Sustenta a proposta de profissionais especializados atuando junto às escolas."
+      },
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 8",
+        "how": "Propõe que o estudante aprenda a conhecer-se, apreciar-se e cuidar de sua saúde física e emocional. Mostra que o cuidado emocional faz parte dos objetivos da educação básica."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 4º",
+        "how": "Afirma que é dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, os direitos de crianças e adolescentes, entre eles o direito à saúde. Ajuda a defender que o cuidado deve ser compartilhado."
+      }
+    ],
+    "pitfalls": [
+      "Fazer apenas um relato pessoal, sem transformar a experiência em argumento.",
+      "Falar de saúde mental em geral (adultos, trabalho, redes sociais) sem discutir o papel da escola.",
+      "Propor que a escola faça diagnósticos ou tratamentos, que são funções de profissionais de saúde."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "edu-10",
+    "axis": "edu",
+    "axis_label": "Educação e escola",
+    "theme": "O que fazer para que a profissão de professor seja mais valorizada no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a valorização da profissão docente e o interesse dos jovens em seguir essa carreira. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Na hora de escolher",
+        "body_html": "<p><b>Tia Rosa:</b> E aí, já sabe o que quer fazer da vida?</p><p><b>Nina:</b> Acho que quero ser professora de Biologia.</p><p><b>Tia Rosa:</b> Professora? Mas você é tão inteligente! Por que não faz Medicina?</p><p><b>Nina:</b> Porque eu gosto de explicar as coisas. Quando ajudo alguém a entender, fico feliz o dia inteiro.</p><p><b>Tia Rosa:</b> Isso é bonito, mas professor trabalha muito e ganha pouco.</p><p><b>Nina:</b> Então o problema não é a profissão, tia. É o jeito como a gente trata quem escolhe ser professor.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Uma profissão que forma as outras",
+        "body_html": "<p>Todo médico, engenheiro ou jornalista passou pelas mãos de professores. Apesar disso, a docência nem sempre recebe o reconhecimento que sua importância sugere. Além da questão salarial, costumam ser mencionados outros desafios: turmas numerosas, trabalho levado para casa, falta de recursos, pouco tempo para planejar as aulas e, em alguns casos, desrespeito e violência. No Brasil, a Constituição prevê a valorização dos profissionais da educação, e existe um piso salarial nacional para os professores da rede pública. Resta saber se isso tem sido suficiente para tornar a carreira atraente.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Reunião de pais",
+        "body_html": "<p>Na reunião de pais, a professora Sandra tentou explicar por que parte da turma estava com notas baixas em Matemática. Antes que terminasse, um pai a interrompeu: \"O problema é que a escola não ensina direito\". Outro reclamou do excesso de dever de casa. Uma mãe defendeu a professora e lembrou que alguns filhos passavam a noite inteira no celular. Sandra voltou para casa pensando em quantas pessoas opinavam sobre o seu trabalho e em quão poucas perguntavam como ela estava conseguindo realizá-lo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Valorizar o professor é apenas uma questão de salário?",
+      "Que responsabilidade têm o poder público, as famílias e os estudantes na valorização da profissão?",
+      "Por que um jovem de hoje escolheria, ou não, ser professor?",
+      "De que maneira a valorização docente afeta a qualidade da educação que os estudantes recebem?"
+    ],
+    "argument_paths": [
+      "A valorização passa, antes de tudo, por remuneração justa e plano de carreira, pois sem condições materiais a profissão perde bons candidatos.",
+      "Salário não basta: condições de trabalho (turmas menores, tempo de planejamento, formação continuada, segurança) são igualmente decisivas.",
+      "A valorização também é cultural: famílias, estudantes e meios de comunicação precisam reconhecer o professor como profissional qualificado, e não como alguém que \"só dá aula\".",
+      "Investir no professor é investir no país, porque a qualidade de todas as outras profissões depende da formação que ele oferece."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 206, incisos V e VIII",
+        "how": "Estabelecem a valorização dos profissionais da educação escolar, com planos de carreira e ingresso por concurso público nas redes públicas, e o piso salarial profissional nacional para os profissionais da educação escolar pública. Permitem comparar o que a Constituição promete com a realidade da profissão."
+      },
+      {
+        "ref": "Lei nº 11.738/2008",
+        "how": "Instituiu o piso salarial profissional nacional para os profissionais do magistério público da educação básica e limitou a dois terços da jornada o tempo de atividades com os alunos, reservando o restante para planejamento e outras tarefas. Pode ser usada para discutir se um valor mínimo garantido e o tempo de planejamento bastam para valorizar a carreira."
+      },
+      {
+        "ref": "Paulo Freire, Professora sim, tia não: cartas a quem ousa ensinar",
+        "how": "Freire critica a ideia da professora como \"tia\", que esvazia o caráter profissional da docência. Ajuda a argumentar que a valorização também depende de reconhecer o professor como profissional."
+      },
+      {
+        "ref": "Dia do Professor (15 de outubro)",
+        "how": "A data remete à lei imperial de 15 de outubro de 1827, que mandou criar escolas de primeiras letras nas cidades, vilas e lugares mais populosos do Império. Pode abrir o texto lembrando que a escola e seus professores fazem parte da história do país há quase dois séculos, embora a valorização da profissão ainda seja um desafio."
+      }
+    ],
+    "pitfalls": [
+      "Escrever uma homenagem emocionada a um professor específico em vez de um texto argumentativo.",
+      "Reduzir o tema ao salário, sem discutir outras formas de valorização.",
+      "Culpar apenas os alunos ou apenas o governo, sem analisar as várias dimensões do problema."
+    ],
+    "difficulty": 2
+  }
+]

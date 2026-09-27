@@ -1,0 +1,627 @@
+[
+  {
+    "id": "amb-01",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "É possível reduzir o uso de plásticos descartáveis no dia a dia dos jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a presença dos plásticos descartáveis na vida cotidiana e os impactos que eles provocam no meio ambiente. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um material que dura demais",
+        "body_html": "<p>O plástico se tornou parte da rotina de quase todo mundo: está no copo do refrigerante, na embalagem do biscoito, no canudo do suco e na sacola do mercado. Ele é barato, leve e resistente, e é justamente essa resistência que cria um problema.</p><p>Um copo descartável pode ser usado por poucos minutos, mas o material de que é feito leva muito tempo para se decompor na natureza. Quando não é descartado corretamente, esse resíduo pode entupir bueiros, se acumular em rios e chegar ao mar, onde se fragmenta em pedaços cada vez menores, os chamados microplásticos, que podem ser ingeridos por animais marinhos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na cantina",
+        "body_html": "<p><b>Lia:</b> Viu que a cantina parou de dar canudo? Agora só se a gente pedir.</p><p><b>Caio:</b> Achei exagero. Um canudinho não vai salvar o planeta.</p><p><b>Lia:</b> Um só, não. Mas pensa em quantos alunos compram suco todo dia, o ano inteiro.</p><p><b>Caio:</b> Tá, mas e o salgado? Vem num saquinho plástico, com o guardanapo embalado em plástico. Se é para mudar, que mude tudo.</p><p><b>Lia:</b> Então a gente devia cobrar isso da cantina, em vez de reclamar do canudo.</p><p><b>Caio:</b> Ou levar a própria garrafinha, né? O problema é que eu sempre esqueço em casa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p><b>Opinião A:</b> A mudança começa em casa. Se cada pessoa levar a própria garrafa e a própria sacola e recusar o que não precisa, o consumo de plástico cai.</p><p><b>Opinião B:</b> Não adianta jogar tudo nas costas do consumidor. Enquanto os produtos vierem embalados em plástico, quase não há escolha no supermercado.</p><p><b>Opinião C:</b> Proibir não resolve se não houver alternativa barata. Papel e vidro também têm custo ambiental para serem produzidos e transportados.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Em quais momentos do seu dia você usa plásticos que são descartados logo depois?",
+      "Quem tem mais poder para reduzir o uso de plástico: o consumidor, as empresas ou o governo?",
+      "Leis que proíbem canudos e sacolas plásticas resolvem o problema ou apenas o tornam mais visível?",
+      "Que alternativas ao plástico descartável são realmente acessíveis para um estudante?"
+    ],
+    "argument_paths": [
+      "Sim, é possível: pequenas mudanças de hábito, como usar garrafa e sacola reutilizáveis, somadas ao exemplo entre amigos, reduzem o consumo e criam uma nova cultura entre os jovens.",
+      "É possível, mas só com ação coletiva: escolas, cantinas e comércios precisam oferecer alternativas, e o poder público precisa limitar embalagens desnecessárias.",
+      "A redução depende mais da indústria do que do jovem: enquanto os produtos vierem embalados em plástico, a escolha individual é limitada, e a responsabilidade deve recair sobre quem produz.",
+      "Proibições isoladas têm efeito limitado: sem educação ambiental e sem alternativas baratas, o descartável apenas troca de material (do plástico para o papel, por exemplo), e o hábito de usar e jogar fora continua o mesmo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",
+        "how": "A lei adota a responsabilidade compartilhada pelo ciclo de vida dos produtos, envolvendo fabricantes, comerciantes, consumidores e poder público. Serve para mostrar que reduzir o plástico não é tarefa de um único ator."
+      },
+      {
+        "ref": "Lei municipal nº 6.384/2018, do Rio de Janeiro, que proibiu canudos plásticos em restaurantes, bares, lanchonetes, barracas de praia e no comércio ambulante da cidade",
+        "how": "Exemplo concreto de política pública que interfere nos hábitos de consumo; pode ser usado para discutir se proibições funcionam e se deveriam alcançar outros itens descartáveis."
+      },
+      {
+        "ref": "Agenda 2030 da ONU, Objetivo de Desenvolvimento Sustentável 12 (Consumo e produção responsáveis)",
+        "how": "Adotada pela ONU em 2015, mostra que a redução de resíduos é uma meta assumida mundialmente, o que reforça a ideia de que a mudança deve envolver tanto consumidores quanto produtores."
+      }
+    ],
+    "pitfalls": [
+      "Escrever sobre problemas ambientais em geral (poluição do ar, desmatamento, queimadas) e esquecer os plásticos descartáveis e o cotidiano dos jovens.",
+      "Responder apenas “sim” ou “não” sem mostrar como a redução poderia (ou não) acontecer na prática.",
+      "Transformar o texto em uma lista de conselhos ao leitor (“recicle”, “economize”), como um panfleto, em vez de defender um ponto de vista com argumentos."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "amb-02",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Os impactos ambientais do consumo de roupas na era da moda rápida.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o modo como compramos e descartamos roupas e as consequências desse consumo para o meio ambiente e para quem as produz. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é moda rápida",
+        "body_html": "<p>Chama-se moda rápida, ou <i>fast fashion</i>, o modelo de negócio em que as lojas lançam coleções novas em intervalos muito curtos e a preços baixos. A ideia é fazer o consumidor sentir que sempre há algo novo para comprar.</p><p>Para manter os preços baixos, muitas peças são feitas com tecidos sintéticos, derivados do petróleo, e produzidas em larga escala. O resultado é um guarda-roupa que se renova depressa, mas também uma enorme quantidade de roupas usadas poucas vezes e depois descartadas. A produção de tecidos consome muita água e energia, e boa parte das peças jogadas fora não é reaproveitada.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Onde vão parar?",
+        "body_html": "<p>Júlia, de 15 anos, adora assistir a vídeos em que influenciadores abrem pacotes enormes de roupas compradas pela internet. As peças custam quase nada e chegam em poucos dias. Na semana passada, ela juntou a mesada e fez o próprio pedido: seis blusas. Duas vieram com a costura torta, e uma encolheu na primeira lavagem.</p><p>Quando foi arrumar o armário, Júlia encontrou roupas que nunca tinha usado, algumas ainda com etiqueta. Pensou em doá-las, mas a mãe comentou que o bazar do bairro já estava lotado. Ficou a pergunta: onde vão parar todas essas roupas?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Brechó é tendência?",
+        "body_html": "<p><b>Estudante A:</b> Comprar em brechó virou moda entre meus amigos. É mais barato, cada peça é única e ninguém precisa fabricar nada novo.</p><p><b>Estudante B:</b> Nem todo mundo pode pagar por roupa sustentável, que costuma ser mais cara. Cobrar isso de quem tem pouco dinheiro é injusto.</p><p><b>Estudante C:</b> O problema não é a loja barata, é comprar o que não precisa. Dá para ter pouca roupa e usar cada peça por muito tempo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que as roupas ficaram tão baratas, e quem paga o custo que não aparece na etiqueta?",
+      "As redes sociais e os influenciadores estimulam o consumo exagerado de roupas? De que forma?",
+      "Consumir moda de forma sustentável é uma opção acessível a todos os jovens brasileiros?",
+      "Brechós, trocas e consertos são uma alternativa real ou apenas uma tendência passageira?"
+    ],
+    "argument_paths": [
+      "A moda rápida é insustentável porque transforma a roupa em produto descartável, gerando desperdício de recursos e acúmulo de resíduos; a saída passa por comprar menos e usar por mais tempo.",
+      "A responsabilidade maior é das empresas, que lucram com coleções cada vez mais rápidas; o consumidor jovem é estimulado pela publicidade e pelas redes sociais e tem pouca informação sobre a produção.",
+      "Culpar o consumidor de baixa renda é injusto: a roupa barata garante acesso a quem tem pouco dinheiro, e a mudança deve vir de regras para a indústria, não de sacrifícios de quem compra.",
+      "O reaproveitamento (brechós, trocas, consertos, doações) mostra que é possível conciliar o gosto pela moda e o cuidado ambiental, e a escola pode estimular essas práticas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Desabamento do edifício Rana Plaza, em Bangladesh (2013), que abrigava fábricas de roupas e deixou mais de mil trabalhadores mortos",
+        "how": "Mostra que o preço baixo das roupas pode esconder custos humanos, além dos ambientais; ajuda a ampliar a ideia de sustentabilidade para incluir as condições de trabalho."
+      },
+      {
+        "ref": "Zygmunt Bauman, Vida para consumo (publicado originalmente em 2007)",
+        "how": "O sociólogo analisa a “sociedade de consumidores”, em que o consumo passa a definir identidades e o valor social das pessoas; pode sustentar a crítica à compra por impulso estimulada pelas redes."
+      },
+      {
+        "ref": "Agenda 2030 da ONU, Objetivo de Desenvolvimento Sustentável 12 (Consumo e produção responsáveis)",
+        "how": "Mostra que repensar padrões de produção e consumo é uma meta global, o que dá peso à tese de que a indústria da moda também precisa mudar."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de moda, estilo ou aparência, sem tratar dos impactos ambientais.",
+      "Tratar o tema como “consumismo” de forma genérica, sem mencionar roupas, produção e descarte.",
+      "Condenar quem compra roupa barata sem considerar a desigualdade de renda, o que enfraquece o argumento."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "amb-03",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Que mudanças a sua escola deveria adotar para se tornar um espaço mais sustentável?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o papel da escola na formação de hábitos sustentáveis e no cuidado com o meio ambiente. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, escreva uma carta argumentativa dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Educação ambiental não é só uma aula",
+        "body_html": "<p>Muitas escolas tratam o meio ambiente apenas em datas especiais: um cartaz no Dia da Árvore, uma palestra na semana do meio ambiente. Essas atividades têm valor, mas a educação ambiental vai além dos conteúdos de sala.</p><p>Ela também aparece no modo como a própria escola funciona: no destino dado ao lixo do recreio, no desperdício da merenda, nas torneiras que ficam pingando, nas salas abafadas que dependem de ventiladores ligados o dia inteiro. Quando o aluno vê a escola praticar aquilo que ensina, a mensagem ganha força. Quando vê o contrário, aprende que o discurso não precisa combinar com a prática.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Reunião do grêmio",
+        "body_html": "<p>Na reunião do grêmio estudantil, a pauta era o que fazer com o dinheiro arrecadado na festa junina. Uma parte dos alunos propôs instalar lixeiras de coleta seletiva em todos os andares. Outra lembrou que a escola já teve lixeiras coloridas, mas o conteúdo ia todo para o mesmo saco, porque não havia coleta seletiva no bairro.</p><p>Um terceiro grupo sugeriu criar uma horta no terreno abandonado atrás da quadra, cuidada por uma turma diferente a cada mês. A professora de Ciências, que acompanhava a reunião, avisou que qualquer projeto precisaria de responsáveis depois que a empolgação passasse.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Recados no mural",
+        "body_html": "<p>Alguns recados deixados no mural de uma escola:</p><p>“Por que o bebedouro vive quebrado e todo mundo tem que comprar água em garrafinha?”</p><p>“A merenda de ontem foi quase toda para o lixo. Ninguém pergunta o que a gente gosta de comer.”</p><p>“Sustentabilidade é importante, mas antes a escola precisa consertar o telhado da biblioteca.”</p><p>“Proposta: uma feira de trocas de livros e uniformes no fim do ano, para nada ir para o lixo.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que situações de desperdício você percebe no dia a dia da sua escola?",
+      "Quais mudanças seriam viáveis com os recursos que a escola já tem, e quais dependeriam de apoio externo?",
+      "Como garantir que um projeto ambiental continue funcionando depois que a novidade passar?",
+      "Qual pode ser o papel dos próprios alunos nessas mudanças?",
+      "Como convencer a direção de que ações sustentáveis também trazem benefícios práticos, como economia de água e de energia?"
+    ],
+    "argument_paths": [
+      "Defender mudanças simples e baratas, como o conserto de bebedouros e torneiras e o combate ao desperdício da merenda, mostrando que elas economizam recursos e educam pelo exemplo.",
+      "Propor projetos com participação dos alunos (horta, coleta seletiva, feira de trocas), argumentando que o envolvimento dos estudantes garante continuidade e aprendizado.",
+      "Argumentar que a educação ambiental deve estar presente de forma permanente no currículo, articulando as disciplinas, e não apenas em datas comemorativas.",
+      "Sustentar que a escola deve buscar parcerias com a prefeitura e a comunidade, porque ações isoladas (como lixeiras coloridas sem coleta seletiva no bairro) não funcionam sozinhas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Educação Ambiental (Lei nº 9.795/1999)",
+        "how": "A lei define a educação ambiental como componente essencial e permanente da educação nacional, presente em todos os níveis de ensino. Serve para mostrar à direção que o pedido tem base legal."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 225, § 1º, VI",
+        "how": "Determina que cabe ao poder público promover a educação ambiental em todos os níveis de ensino; o caput do mesmo artigo atribui ao poder público e à coletividade o dever de defender e preservar o meio ambiente. Serve para mostrar que a escola faz parte desse compromisso."
+      },
+      {
+        "ref": "Agenda 2030 da ONU e seus 17 Objetivos de Desenvolvimento Sustentável",
+        "how": "Pode ser citada para mostrar que as propostas da carta se ligam a metas assumidas mundialmente, como o ODS 6 (Água potável e saneamento) e o ODS 12 (Consumo e produção responsáveis)."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer o gênero: escrever uma dissertação sem vocativo, sem se dirigir à direção e sem despedida, o que desrespeita a proposta e faz perder pontos.",
+      "Fazer apenas uma lista de reclamações ou pedidos, sem justificar por que cada mudança é importante e viável.",
+      "Assinar a carta com o próprio nome ou identificar a escola real, o que pode zerar a redação; use apenas uma assinatura genérica, como “Um estudante” ou “Uma estudante”."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "amb-04",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "De quem é a responsabilidade pela preservação do meio ambiente: do cidadão, das empresas ou do poder público?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a divisão de responsabilidades entre cidadãos, empresas e governos no cuidado com o meio ambiente. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A culpa é de quem?",
+        "body_html": "<p><b>Pai:</b> Apaga essa luz, Rafael! Depois todo mundo reclama do planeta.</p><p><b>Rafael:</b> Pai, uma lâmpada não muda nada. O problema são as grandes empresas que poluem os rios e derrubam florestas.</p><p><b>Pai:</b> E quem compra o que essas empresas vendem?</p><p><b>Rafael:</b> A gente compra o que tem para comprar. Quem devia fiscalizar é o governo.</p><p><b>Pai:</b> E quem escolhe o governo?</p><p><b>Rafael:</b> Tá bom, entendi. Mas então todo mundo é culpado e, no fim, ninguém é culpado?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Uma cadeia de escolhas",
+        "body_html": "<p>Os problemas ambientais raramente têm um único responsável. Um rio poluído pode receber o esgoto de casas que não estão ligadas à rede de tratamento, os resíduos de uma indústria que descumpre a lei e o lixo jogado nas ruas que a chuva arrasta.</p><p>Cada parte dessa cadeia tem um peso diferente. O cidadão decide o que consome e como descarta. As empresas decidem como produzem e o que fazem com seus resíduos. O poder público cria leis, fiscaliza, pune e oferece serviços como saneamento e coleta de lixo. Quando uma dessas partes falha, todas as outras sentem as consequências.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Comentários em uma publicação",
+        "body_html": "<p>Comentários deixados em uma publicação sobre meio ambiente:</p><p>“Não adianta separar o lixo em casa se o caminhão mistura tudo depois. O governo precisa fazer a parte dele.”</p><p>“Empresa só muda quando o cliente deixa de comprar. O consumidor tem mais poder do que imagina.”</p><p>“Cobrar do cidadão comum é fácil. Difícil é punir quem desmata e polui em grande escala.”</p><p>“Enquanto cada um esperar o outro começar, nada vai acontecer.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Um gesto individual, como economizar água ou separar o lixo, tem efeito real se grandes empresas continuarem poluindo?",
+      "O consumidor tem poder para mudar a forma como as empresas produzem?",
+      "O que o poder público pode fazer que nem o cidadão nem as empresas conseguem fazer sozinhos?",
+      "É justo dividir a responsabilidade igualmente entre todos, ou quem polui mais deve responder mais?"
+    ],
+    "argument_paths": [
+      "A responsabilidade é compartilhada, mas não igual: quem causa danos maiores, como grandes empresas, deve responder de forma proporcional, enquanto o cidadão contribui com hábitos e cobrança.",
+      "O poder público tem papel central, pois só ele pode criar leis, fiscalizar, punir e oferecer serviços como saneamento e coleta seletiva, sem os quais o esforço individual se perde.",
+      "O cidadão é peça-chave, porque consome, vota e pressiona; sem mudança de comportamento e participação política, empresas e governos não mudam.",
+      "As empresas devem liderar a mudança, já que controlam a produção, as embalagens e o descarte de resíduos industriais, e têm recursos para investir em tecnologias menos poluentes."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 225",
+        "how": "Afirma que o dever de defender e preservar o meio ambiente cabe ao poder público e à coletividade, para as presentes e futuras gerações; é base para a tese da responsabilidade compartilhada."
+      },
+      {
+        "ref": "Rompimento das barragens de rejeitos de mineração em Mariana (MG), em 2015, e em Brumadinho (MG), em 2019",
+        "how": "Exemplos de como falhas de empresas e da fiscalização pública podem causar danos ambientais e humanos enormes; ajudam a mostrar que o peso da responsabilidade não é igual para todos."
+      },
+      {
+        "ref": "Lei de Crimes Ambientais (Lei nº 9.605/1998)",
+        "how": "Prevê punições para pessoas e empresas que causam danos ao meio ambiente; pode ser usada para discutir a importância da fiscalização e da punição."
+      },
+      {
+        "ref": "Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",
+        "how": "Adota o princípio da responsabilidade compartilhada pelo ciclo de vida dos produtos, que envolve fabricantes, comerciantes, consumidores e poder público."
+      }
+    ],
+    "pitfalls": [
+      "Listar as responsabilidades de cada um sem tomar posição, o que deixa o texto expositivo, e não argumentativo.",
+      "Culpar “o ser humano” ou “a sociedade” de forma vaga, sem distinguir os papéis de cidadãos, empresas e governos.",
+      "Escolher um único responsável e ignorar completamente os outros, sem responder a possíveis objeções."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "amb-05",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Eventos climáticos extremos e a proteção das populações mais vulneráveis nas cidades brasileiras.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os efeitos de chuvas intensas, ondas de calor e outros eventos climáticos extremos sobre a vida nas cidades e sobre quem mais sofre com eles. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A mesma chuva, danos diferentes",
+        "body_html": "<p>Uma chuva forte cai sobre a cidade inteira, mas não atinge todos da mesma maneira. Em bairros com boa drenagem, árvores e ruas planejadas, ela pode causar apenas trânsito lento. Em áreas ocupadas sem planejamento, em encostas ou à beira de rios, sem obras de contenção nem saneamento, a mesma chuva pode provocar deslizamentos e enchentes que destroem casas.</p><p>Com o calor acontece algo parecido: quem mora em ruas sem árvores, em casas de telhado fino e pouca ventilação, sofre muito mais durante uma onda de calor. Por isso, fala-se em justiça climática: os efeitos do clima também revelam desigualdades sociais.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Noite de alerta",
+        "body_html": "<p>Às onze da noite, o celular de Beatriz vibrou com um alerta da Defesa Civil: risco de chuva forte nas próximas horas. Ela mora com a avó em uma casa no alto do morro, perto de uma encosta. A avó não queria sair, dizendo que já tinha passado por muitas chuvas ali sem que nada acontecesse.</p><p>O ponto de apoio indicado ficava em uma escola a vinte minutos de caminhada, por ladeiras escuras. Beatriz olhou pela janela, ouviu a água descendo pela viela e ficou em dúvida: sair no meio da tempestade ou ficar em casa e torcer para que tudo desse certo?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Prevenir ou remediar?",
+        "body_html": "<p><b>Morador:</b> Todo ano é a mesma coisa. Depois da tragédia aparecem as autoridades, mas as obras de contenção nunca terminam.</p><p><b>Estudante:</b> Não basta fazer obra. As famílias precisam de moradia segura em outro lugar, sem perder o emprego e a escola.</p><p><b>Comerciante:</b> Retirar famílias de áreas de risco pode ser necessário, mas precisa ser feito com diálogo, e não à força.</p><p><b>Professora:</b> Plantar árvores e proteger as margens dos rios também é prevenção. A cidade precisa de espaço para a água correr.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que os mesmos eventos climáticos causam danos tão diferentes em bairros diferentes de uma mesma cidade?",
+      "O que é mais eficaz: investir em prevenção (obras, moradia, alertas) ou em respostas depois dos desastres?",
+      "Como retirar famílias de áreas de risco sem violar seus direitos e seus vínculos com o lugar onde vivem?",
+      "Que papel a natureza (árvores, rios, encostas preservadas) tem na proteção das cidades?"
+    ],
+    "argument_paths": [
+      "A prevenção deve ser prioridade: obras de contenção, drenagem, sistemas de alerta e planejamento urbano custam menos do que reconstruir cidades e salvam vidas.",
+      "O problema climático é também um problema social: sem políticas de moradia digna, a população mais pobre continuará ocupando áreas de risco, por isso é preciso enfrentar a desigualdade.",
+      "Soluções baseadas na natureza, como arborização e proteção de margens de rios e encostas, devem fazer parte do planejamento urbano, porque reduzem enchentes e ondas de calor.",
+      "Além do governo, a comunidade tem papel na proteção: informação, redes de vizinhança e participação local tornam os alertas e os planos de fuga mais eficazes."
+    ],
+    "repertoire": [
+      {
+        "ref": "Chuvas na Região Serrana do Rio de Janeiro em janeiro de 2011",
+        "how": "Um dos maiores desastres climáticos da história do país, com mais de 900 mortos em cidades como Nova Friburgo, Teresópolis e Petrópolis; mostra os efeitos da ocupação de áreas de risco."
+      },
+      {
+        "ref": "Enchentes no Rio Grande do Sul em 2024",
+        "how": "Evento que atingiu centenas de municípios gaúchos e mostrou que nenhuma região está livre de extremos climáticos; serve para defender planejamento e prevenção."
+      },
+      {
+        "ref": "Estatuto da Cidade (Lei nº 10.257/2001)",
+        "how": "Estabelece diretrizes para a política urbana, como a função social da cidade e da propriedade e o direito a cidades sustentáveis; pode apoiar a defesa de moradia segura e planejamento urbano."
+      },
+      {
+        "ref": "Política Nacional de Proteção e Defesa Civil (Lei nº 12.608/2012)",
+        "how": "Sancionada em 2012, depois das chuvas da Região Serrana, tem entre suas diretrizes a prioridade às ações preventivas relacionadas à minimização de desastres; sustenta a tese de que prevenir deve vir antes de remediar."
+      }
+    ],
+    "pitfalls": [
+      "Discutir apenas as causas globais do aquecimento, sem tratar da proteção das pessoas nas cidades brasileiras.",
+      "Culpar os moradores de áreas de risco por viverem ali, sem considerar a falta de alternativas de moradia.",
+      "Descrever tragédias de forma apenas emotiva, sem apresentar argumentos nem caminhos de solução."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "amb-06",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Lixo eletrônico: como dar um destino adequado aos aparelhos que deixamos de usar?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o consumo de aparelhos eletrônicos, a rapidez com que eles são substituídos e o que acontece com eles depois do descarte. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A gaveta dos aparelhos esquecidos",
+        "body_html": "<p>Toda casa parece ter uma gaveta assim: um celular com a tela trincada, dois carregadores que não servem em nenhum aparelho, um fone com um lado mudo, o controle remoto de uma televisão que nem existe mais. Ninguém usa, mas ninguém joga fora. Talvez por preguiça, talvez por não saber onde deixar.</p><p>Quando a gaveta enche, alguns aparelhos acabam no saco de lixo comum, junto com cascas de fruta e embalagens. Ali começa uma viagem que quase ninguém acompanha e que pode terminar em um lixão, com pilhas e placas eletrônicas expostas ao sol e à chuva.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Por dentro do celular",
+        "body_html": "<p>Um aparelho eletrônico reúne materiais muito diferentes: plásticos, vidro, metais comuns e metais valiosos, além de substâncias que podem ser tóxicas, como o chumbo, presentes em alguns componentes. Quando descartados de forma correta, esses equipamentos podem ser desmontados, e boa parte dos materiais pode ser reaproveitada.</p><p>Quando vão para o lixo comum, as substâncias tóxicas podem contaminar o solo e a água, e os materiais valiosos se perdem. No Brasil, a lei prevê que fabricantes e comerciantes participem do recolhimento de eletrônicos descartados, no sistema chamado logística reversa, mas muita gente ainda não sabe onde entregar seus aparelhos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Trocar ou consertar?",
+        "body_html": "<p><b>Vendedor:</b> Trocar essa bateria vai sair quase metade do preço de um aparelho novo.</p><p><b>Duda:</b> Mas o resto do celular está funcionando perfeitamente.</p><p><b>Vendedor:</b> Está, mas ele já não recebe atualizações. Daqui a pouco vários aplicativos param de abrir.</p><p><b>Duda:</b> Então ele vai virar lixo mesmo estando inteiro?</p><p><b>Vendedor:</b> Hoje em dia é assim. Aproveita que o modelo novo está em promoção.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que trocamos de celular e de outros aparelhos com tanta frequência?",
+      "Você sabe onde descartar corretamente um aparelho eletrônico na sua cidade? Por que essa informação é pouco conhecida?",
+      "Quem deve arcar com o custo do descarte: quem fabrica, quem vende, quem compra ou o poder público?",
+      "Consertar, doar e reaproveitar aparelhos é uma saída possível? O que impede essas práticas?"
+    ],
+    "argument_paths": [
+      "Os fabricantes devem ter a maior responsabilidade, oferecendo pontos de coleta acessíveis, peças de reposição e aparelhos mais duráveis, já que lucram com a troca frequente.",
+      "A falta de informação é o principal obstáculo: campanhas e pontos de coleta em escolas e comércios tornariam o descarte correto um hábito.",
+      "O consumidor precisa repensar a troca frequente de aparelhos: prolongar a vida útil, consertar e doar reduz o lixo eletrônico na origem.",
+      "A obsolescência programada e o fim das atualizações empurram o consumidor para a troca; por isso, o poder público deve exigir mais durabilidade e garantir o direito ao conserto."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",
+        "how": "Prevê a logística reversa, que obriga fabricantes, importadores, distribuidores e comerciantes de produtos como os eletroeletrônicos a estruturar o retorno desses itens após o uso."
+      },
+      {
+        "ref": "Cartel Phoebus, acordo firmado em 1924 entre grandes fabricantes de lâmpadas para limitar a vida útil de seus produtos a cerca de mil horas",
+        "how": "Exemplo histórico frequentemente citado de obsolescência programada; ajuda a discutir se os aparelhos são feitos para durar pouco."
+      },
+      {
+        "ref": "Agenda 2030 da ONU, Objetivo de Desenvolvimento Sustentável 12 (Consumo e produção responsáveis)",
+        "how": "Inclui metas de redução de resíduos por meio de prevenção, reciclagem e reúso; pode apoiar a defesa de aparelhos mais duráveis e de sistemas de coleta."
+      }
+    ],
+    "pitfalls": [
+      "Falar do excesso de tempo diante das telas (tema de outra proposta) em vez do destino dos aparelhos descartados.",
+      "Tratar o lixo eletrônico como lixo comum, sem explicar por que ele exige cuidados específicos.",
+      "Propor soluções vagas (“o governo deve fazer algo”) sem dizer quem deve agir e como."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "amb-07",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Desenvolvimento econômico e preservação da Amazônia podem caminhar juntos?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os conflitos entre a exploração econômica da Amazônia, a preservação da floresta e a vida dos povos que nela habitam. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma floresta, muitos interesses",
+        "body_html": "<p>A Amazônia é a maior floresta tropical do mundo e abriga uma enorme variedade de plantas e animais, além de povos indígenas, ribeirinhos e comunidades tradicionais que vivem nela há gerações. Ao mesmo tempo, a região concentra interesses econômicos ligados à madeira, aos minérios, à pecuária, à agricultura e a grandes obras.</p><p>O desmatamento costuma avançar quando a floresta em pé parece valer menos do que a terra limpa para o pasto. Por outro lado, há quem defenda que produtos da floresta, como frutos, óleos e castanhas, podem gerar renda sem derrubar árvores. O debate é saber quem decide o futuro da floresta e quem se beneficia dele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Três vozes da mesma cidade",
+        "body_html": "<p><b>Dono de uma pequena serraria:</b> Aqui não tem muito emprego. Quem vem de fora falar de preservação não sabe o que é sustentar uma família nesta região.</p><p><b>Coletora de açaí:</b> Minha família vive da floresta em pé. Se derrubam as palmeiras, acaba o nosso sustento. Preservar também é trabalho.</p><p><b>Jovem da região:</b> Eu queria estudar e trabalhar aqui mesmo, sem precisar escolher entre ter renda e ter floresta.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na aula de Geografia",
+        "body_html": "<p><b>Professor:</b> Se a Amazônia fica tão longe do Rio de Janeiro, por que ela importa para quem mora aqui?</p><p><b>Aluna:</b> Porque a floresta influencia as chuvas em outras regiões do país.</p><p><b>Aluno:</b> E porque muita coisa que a gente consome pode ter vindo de lá, como madeira e carne.</p><p><b>Professor:</b> Então a pergunta não é só o que acontece lá, mas também o que nós fazemos daqui.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "É possível gerar emprego e renda na Amazônia sem desmatar?",
+      "Quem deve decidir o futuro da floresta: governos, empresas, moradores da região, povos indígenas?",
+      "O que o consumo nas grandes cidades tem a ver com o desmatamento?",
+      "Por que a preservação da Amazônia interessa a quem vive longe dela?"
+    ],
+    "argument_paths": [
+      "Sim, podem caminhar juntos, desde que a economia valorize a floresta em pé (produtos florestais, pesquisa, turismo sustentável) e haja investimento em educação e renda para quem vive na região.",
+      "No modelo atual, não: atividades como o garimpo ilegal, a grilagem de terras e a pecuária extensiva lucram com a destruição, e sem fiscalização forte o chamado desenvolvimento significa desmatamento.",
+      "O conflito só se resolve ouvindo os povos da floresta: indígenas e comunidades tradicionais mostram há muito tempo que é possível viver da floresta sem destruí-la.",
+      "A responsabilidade também é de quem consome longe dali: rastrear a origem dos produtos e recusar mercadorias ligadas ao desmatamento pressiona toda a cadeia produtiva."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 225, § 4º",
+        "how": "Declara a Floresta Amazônica brasileira patrimônio nacional, cuja utilização deve assegurar a preservação do meio ambiente; reforça que a exploração econômica tem limites legais."
+      },
+      {
+        "ref": "Chico Mendes, seringueiro e líder sindical do Acre, assassinado em Xapuri (AC), em 1988",
+        "how": "Defendeu as reservas extrativistas, que unem a proteção da floresta ao sustento de quem vive dela; é um exemplo de que preservação e renda podem andar juntas."
+      },
+      {
+        "ref": "Ailton Krenak, Ideias para adiar o fim do mundo (2019)",
+        "how": "O pensador indígena critica a ideia de uma humanidade separada da natureza; ajuda a questionar um conceito de desenvolvimento baseado apenas no lucro."
+      },
+      {
+        "ref": "Relatório Nosso Futuro Comum (Relatório Brundtland), elaborado em 1987 pela Comissão Mundial sobre Meio Ambiente e Desenvolvimento, criada pela ONU",
+        "how": "Definiu desenvolvimento sustentável como aquele que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atenderem às suas; é a base conceitual para discutir se economia e preservação são compatíveis."
+      }
+    ],
+    "pitfalls": [
+      "Tratar a Amazônia como uma floresta vazia, esquecendo os povos que vivem nela.",
+      "Discutir apenas o desmatamento, sem responder à pergunta central: se desenvolvimento e preservação são compatíveis.",
+      "Recorrer a clichês como “pulmão do mundo” sem explicar o que realmente está em jogo."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "amb-08",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "O desperdício de água e o desafio de garantir esse recurso a todos os brasileiros.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o uso da água no cotidiano, o desperdício e as desigualdades no acesso a esse recurso. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Duas torneiras",
+        "body_html": "<p>No prédio de Marcos, a água nunca falta. O vizinho lava a calçada com mangueira toda manhã, e ninguém repara quanto tempo o chuveiro fica ligado. A poucos quilômetros dali, na casa de Tainá, a água chega pela torneira só em alguns dias da semana.</p><p>A família dela enche baldes e garrafas sempre que pode, reaproveita a água da lavagem de roupa para limpar o quintal e controla cada banho. Marcos e Tainá estudam na mesma escola. Quando a professora pediu uma redação sobre economia de água, cada um escreveu um texto muito diferente.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um recurso que parece infinito",
+        "body_html": "<p>Visto do espaço, o planeta parece coberto de água, mas a maior parte dela é salgada. A água doce disponível em rios, lagos e reservatórios subterrâneos é uma parcela pequena do total.</p><p>O Brasil tem grandes reservas de água doce, mas elas estão distribuídas de forma desigual pelo território: há regiões com muita água e poucos habitantes e regiões muito populosas que dependem de reservatórios sujeitos a secas. Além disso, parte da água tratada se perde em vazamentos antes de chegar às casas, e o esgoto sem tratamento polui rios que poderiam abastecer as cidades.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Roda de conversa",
+        "body_html": "<p>Opiniões ouvidas em uma roda de conversa sobre água:</p><p>“Tomar banho mais curto ajuda, mas o uso que mais consome água no país é a irrigação das lavouras.”</p><p>“Se a água fosse mais cara, as pessoas desperdiçariam menos.”</p><p>“Água é direito, não mercadoria. Aumentar o preço prejudica quem já tem pouco.”</p><p>“Sem consertar os canos que vazam, pedir economia à população é injusto.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que algumas pessoas desperdiçam água enquanto outras convivem com a falta dela?",
+      "Economizar água em casa resolve o problema, ou os maiores desafios estão em outros setores?",
+      "Cobrar mais caro pela água reduziria o desperdício de forma justa?",
+      "Qual é a relação entre saneamento básico, saúde e preservação da água?"
+    ],
+    "argument_paths": [
+      "O desperdício doméstico deve ser combatido com educação e novos hábitos (banhos curtos, reaproveitamento, conserto de vazamentos), porque é a parte em que cada cidadão pode agir imediatamente.",
+      "O maior desafio é de infraestrutura: reduzir perdas na rede e ampliar o saneamento e o tratamento de esgoto são deveres do poder público e garantem água para mais gente.",
+      "A água é um direito humano, e sua distribuição desigual é uma injustiça social; as políticas públicas devem priorizar quem não tem acesso regular antes de medidas como o aumento de tarifas.",
+      "A agricultura irrigada, que é o uso que mais retira água no país, e a indústria precisam de regras e tecnologias de uso eficiente; cobrar apenas do consumidor doméstico é insuficiente."
+    ],
+    "repertoire": [
+      {
+        "ref": "Resolução 64/292 da Assembleia Geral da ONU, de 2010, que reconheceu o acesso à água potável e ao saneamento como direito humano",
+        "how": "Sustenta a tese de que a água não pode ser tratada apenas como mercadoria e de que garantir o acesso é dever dos Estados."
+      },
+      {
+        "ref": "Política Nacional de Recursos Hídricos (Lei nº 9.433/1997), conhecida como Lei das Águas",
+        "how": "Define a água como bem de domínio público e recurso natural limitado, dotado de valor econômico, e estabelece que, em situações de escassez, a prioridade é o consumo humano e a dessedentação de animais; ajuda a discutir se a água é direito ou mercadoria."
+      },
+      {
+        "ref": "Crise hídrica na Região Metropolitana de São Paulo, entre 2014 e 2015",
+        "how": "Mostra que até grandes cidades de um país rico em água podem enfrentar falta de abastecimento; ajuda a discutir planejamento e consumo."
+      },
+      {
+        "ref": "Novo Marco Legal do Saneamento Básico (Lei nº 14.026/2020)",
+        "how": "Estabeleceu metas de universalização até 2033: 99% da população com água potável e 90% com coleta e tratamento de esgoto; pode ser citado ao defender o investimento em infraestrutura."
+      }
+    ],
+    "pitfalls": [
+      "Limitar o texto a dicas de economia doméstica, sem discutir o desafio de garantir água a todos.",
+      "Ignorar as desigualdades de acesso e tratar o problema como se fosse igual para todos os brasileiros.",
+      "Inventar números sobre consumo ou reservas de água; é melhor argumentar sem dados do que com dados falsos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "amb-09",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "Os jovens podem, de fato, mudar os rumos da crise ambiental?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação dos jovens nas lutas ambientais e os limites e as possibilidades dessa atuação. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma geração que herda o problema",
+        "body_html": "<p>Nos últimos anos, jovens de vários países passaram a ocupar espaço nos debates sobre o clima. Organizam protestos, criam perfis sobre sustentabilidade nas redes sociais, cobram governos e empresas e levam o tema para dentro das escolas. Um argumento aparece com frequência: são eles que vão conviver por mais tempo com as consequências das decisões tomadas hoje.</p><p>Ao mesmo tempo, muitos desses jovens ainda não têm idade para votar, não ocupam cargos de decisão e dependem da família para suas escolhas de consumo. Essa contradição alimenta a pergunta: até onde vai o poder de quem ainda está começando a vida?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Postar ou agir?",
+        "body_html": "<p><b>Nina:</b> Compartilhei um vídeo sobre queimadas. Já tem um monte de curtidas!</p><p><b>Téo:</b> Legal, mas curtida apaga fogo?</p><p><b>Nina:</b> Não, mas informa. Muita gente nem sabia o que estava acontecendo.</p><p><b>Téo:</b> Acho que funciona mais fazer alguma coisa concreta, tipo o mutirão de limpeza da praia no sábado.</p><p><b>Nina:</b> E como você acha que as pessoas ficaram sabendo do mutirão?</p><p><b>Téo:</b> Tá, pelas redes. Um ponto para você.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes da sala de aula",
+        "body_html": "<p><b>Estudante A:</b> Os adultos criaram o problema e agora querem que a gente resolva. Não é justo, mas, se a gente não fizer nada, ninguém faz.</p><p><b>Estudante B:</b> Jovem também consome muito: celular novo, roupa nova, comida por aplicativo. Antes de cobrar os outros, a gente precisa rever os próprios hábitos.</p><p><b>Estudante C:</b> Sozinhos, não mudamos nada. Mas jovens organizados, junto com cientistas e movimentos sociais, conseguem pressionar quem toma as decisões.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "De que formas os jovens podem participar da defesa do meio ambiente, dentro e fora da internet?",
+      "O engajamento nas redes sociais gera mudanças reais ou apenas uma sensação de participação?",
+      "Que limites os jovens enfrentam para influenciar decisões políticas e econômicas?",
+      "É justo esperar que a nova geração resolva problemas criados antes dela?"
+    ],
+    "argument_paths": [
+      "Sim: os jovens têm capacidade de mobilização, domínio das redes e legitimidade por serem os mais afetados no futuro, e já ajudaram a colocar o clima na agenda pública.",
+      "Podem contribuir, mas não sozinhos: sem ocupar espaços de decisão e sem alianças com adultos, cientistas e governos, o ativismo jovem tem alcance limitado.",
+      "A mudança começa pelo exemplo: antes de cobrar governos, os jovens precisam rever os próprios hábitos de consumo, e a escola é um espaço privilegiado para isso.",
+      "Transferir a responsabilidade para os jovens é injusto e perigoso, porque desvia a atenção de quem tem poder hoje: governos e grandes empresas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Discurso de Severn Cullis-Suzuki, então com 12 anos, na Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (Rio-92), no Rio de Janeiro",
+        "how": "Mostra que a participação de jovens no debate ambiental não é recente e que eles podem comover e pressionar líderes mundiais."
+      },
+      {
+        "ref": "Greve escolar pelo clima iniciada por Greta Thunberg em 2018, na Suécia, que deu origem ao movimento Fridays for Future",
+        "how": "Exemplo de como a ação de uma estudante se transformou em mobilização internacional; pode ser usado tanto para mostrar a força quanto os limites do ativismo jovem."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 225",
+        "how": "Ao determinar a proteção do meio ambiente para as presentes e futuras gerações, a Constituição reconhece que os jovens têm interesse direto nas decisões ambientais de hoje."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 14, § 1º, que torna o voto facultativo para maiores de 16 e menores de 18 anos",
+        "how": "Mostra que o jovem brasileiro pode participar das eleições a partir dos 16 anos e usar o voto para cobrar compromissos ambientais."
+      }
+    ],
+    "pitfalls": [
+      "Fazer um elogio genérico à juventude sem discutir se ela realmente consegue mudar os rumos da crise ambiental.",
+      "Tratar apenas do uso das redes sociais e perder de vista a questão ambiental.",
+      "Citar ativistas famosos sem explicar como o exemplo sustenta o argumento."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "amb-10",
+    "axis": "amb",
+    "axis_label": "Meio ambiente e sustentabilidade",
+    "theme": "De que forma incentivar o uso de meios de transporte menos poluentes nas cidades brasileiras?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre o transporte nas cidades, a poluição e a qualidade de vida de quem precisa se deslocar todos os dias. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O caminho até a escola",
+        "body_html": "<p>Pedro mora a quatro quilômetros da escola. De bicicleta, levaria uns quinze minutos, mas no caminho não há ciclovia, os carros passam em alta velocidade e a mãe dele tem medo. O ônibus é a outra opção: demora a passar, vem lotado e às vezes nem para no ponto.</p><p>Por isso, quase todos os dias, o pai o deixa de carro antes de ir para o trabalho, enfrentando engarrafamento. Na porta da escola, dezenas de carros param ao mesmo tempo, muitos com apenas um estudante dentro. Pedro já pensou várias vezes que devia haver um jeito melhor de chegar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um problema que se move",
+        "body_html": "<p>Nas grandes cidades, a queima de combustíveis por carros, ônibus e caminhões é uma das principais fontes de poluição do ar e contribui para a emissão de gases que intensificam o aquecimento global. Além disso, os engarrafamentos roubam horas do dia de quem se desloca.</p><p>Transportes coletivos, como metrô, trem e ônibus, levam muitas pessoas ocupando menos espaço nas ruas. A bicicleta e a caminhada não emitem poluentes e fazem bem à saúde. Mas, para que as pessoas deixem o carro em casa, essas alternativas precisam ser seguras, confortáveis, rápidas e acessíveis.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Cada um tem uma razão",
+        "body_html": "<p><b>Motorista:</b> Eu até deixaria o carro em casa, se o ônibus fosse pontual e seguro.</p><p><b>Ciclista:</b> Toda vez que se fala em ciclovia, alguém reclama que vai tirar espaço dos carros. Mas a rua é de todos.</p><p><b>Estudante:</b> A passagem pesa no orçamento da minha família. O transporte público devia ser mais barato para quem mais depende dele.</p><p><b>Comerciante:</b> Se tirarem as vagas de estacionamento da minha rua, os clientes vão sumir.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que muitas pessoas preferem o carro mesmo quando existem outras opções?",
+      "O que faria você e sua família usarem mais o transporte coletivo, a bicicleta ou a caminhada?",
+      "Medidas que dificultam o uso do carro, como faixas exclusivas para ônibus e menos vagas de estacionamento, são justas?",
+      "Como a desigualdade social aparece no modo como as pessoas se deslocam pela cidade?"
+    ],
+    "argument_paths": [
+      "Investir na qualidade do transporte público (pontualidade, conforto, segurança e tarifa acessível) é o caminho mais eficaz, porque as pessoas só abandonam o carro quando têm uma alternativa melhor.",
+      "Criar infraestrutura segura para bicicletas e pedestres, como ciclovias, calçadas e iluminação, incentiva os deslocamentos curtos, como o trajeto até a escola.",
+      "Além de oferecer alternativas, é preciso reduzir os privilégios do carro, com faixas exclusivas para ônibus e menos espaço para estacionamento, mesmo que isso gere resistência.",
+      "Mudar a cultura é essencial: campanhas e educação desde a escola podem enfraquecer a ideia de que o carro é símbolo de sucesso."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Mobilidade Urbana (Lei nº 12.587/2012)",
+        "how": "Estabelece como diretriz a prioridade dos modos de transporte não motorizados sobre os motorizados e do transporte público coletivo sobre o individual motorizado; dá base legal às propostas do texto."
+      },
+      {
+        "ref": "Jan Gehl, Cidades para pessoas (2010)",
+        "how": "O arquiteto dinamarquês defende cidades pensadas para pedestres e ciclistas, e não para carros; pode sustentar propostas de ruas mais seguras e humanas."
+      },
+      {
+        "ref": "Agenda 2030 da ONU, Objetivo de Desenvolvimento Sustentável 11 (Cidades e comunidades sustentáveis)",
+        "how": "Inclui a meta de ampliar o acesso a sistemas de transporte seguros, acessíveis e sustentáveis; liga o tema a um compromisso global."
+      },
+      {
+        "ref": "Acordo de Paris (2015)",
+        "how": "Compromisso internacional de redução das emissões de gases de efeito estufa; transportes menos poluentes são uma das formas de as cidades contribuírem."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de trânsito e engarrafamento, sem relacionar o transporte à poluição e ao meio ambiente.",
+      "Propor soluções sem dizer quem deve executá-las ou sem considerar o custo para a população mais pobre.",
+      "Apresentar o carro elétrico como solução única, esquecendo que ele não resolve congestionamentos nem a desigualdade no acesso ao transporte."
+    ],
+    "difficulty": 2
+  }
+]

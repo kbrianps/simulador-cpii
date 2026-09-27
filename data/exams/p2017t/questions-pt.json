@@ -1,0 +1,294 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No Texto 1, observa-se o emprego de recursos rítmicos e sonoros, tais como a repetição do termo “homem branco”.</p><p>Esse recurso representa</p>",
+    "options": {
+      "A": "a real superioridade do homem branco sobre os demais seres vivos.",
+      "B": "a contraposição da cultura do homem branco em relação à do indígena.",
+      "C": "o reforço intencional da valorização que o homem branco dá a si mesmo.",
+      "D": "a crítica à pretensa superioridade do homem branco em relação ao indígena."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O poema repete “homem branco” muitas vezes ao longo da parte I: “Um homem branco vale mais que um homem / de qualquer cor”, “A história do homem branco é história.”, “Só o homem branco sabe, / Só o homem branco sobe, / Só o homem branco salva.”.</p><p>O poeta não concorda com essas frases. Ele as repete para mostrar como é absurda a ideia de que o branco vale mais que “uma mulher, / uma onça, / um rio, [...] uma etnia inteira”. A insistência tem tom de <b>ironia</b>: de tanto ouvir a mesma afirmação, o leitor percebe o preconceito que existe nela. A parte XXIII deixa clara a posição do autor: “No século XXI o homem branco mata o índio.”.</p><p>Assim, a repetição serve para <b>criticar</b> uma superioridade que é só pretensa (suposta), e não real. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O poema não afirma de verdade que o branco é superior: ele repete essa ideia com ironia para denunciá-la. Quem marca A lê o texto ao pé da letra.",
+      "B": "A cultura indígena até aparece (totem, erva que cura, aldeia), mas a repetição de “homem branco” não serve apenas para comparar culturas: ela expõe e critica a visão de superioridade do branco.",
+      "C": "A repetição de fato mostra como o branco se valoriza, mas o poeta não reforça essa valorização: ele a imita para condená-la. A intenção do texto é crítica, e não de apoio."
+    },
+    "tip": "Quando um poema repete muitas vezes uma ideia preconceituosa, desconfie de ironia: pergunte se o autor concorda com ela ou se a expõe para criticá-la."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 aborda a relação entre o homem branco e as demais etnias.</p><p>No poema, essa relação é representada por meio de</p>",
+    "options": {
+      "A": "antíteses.",
+      "B": "metáforas.",
+      "C": "hipérboles.",
+      "D": "personificações."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Antítese</b> é a figura de linguagem que aproxima ideias <b>opostas</b>. O poema inteiro é construído sobre a oposição entre o homem branco e “qualquer outro homem”.</p><p>Veja os pares: “A história do homem branco é história.” contra “E a história de qualquer outro homem é folclore, / é caso, / é mentira, / é bobagem [...]”. O que vem do branco é ciência, religião e filosofia; o que vem dos outros é lenda e superstição.</p><p>No fim da parte I, o contraste fica ainda mais forte, reforçado pelo som parecido das palavras: “Só o homem branco sabe, / Só o homem branco sobe, / Só o homem branco salva. / Os outros homens: selva.”. De um lado, saber e salvar; do outro, a “selva”.</p><p>É por meio dessas oposições que o poema representa a relação desigual entre o branco e as demais etnias. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Há imagens isoladas, como chamar os outros homens de “selva”, mas o que organiza a relação entre os grupos não é a metáfora, e sim o contraste constante entre o que vale para o branco e o que vale para os outros.",
+      "C": "Hipérbole é exagero proposital. Um verso como “vale mais que [...] uma aldeia inteira” pode soar exagerado, mas o recurso que estrutura o poema é a oposição, não o exagero.",
+      "D": "Personificação é dar características humanas a seres não humanos. O poema cita a onça, o rio e a capivara, mas não faz esses seres agirem ou sentirem como pessoas."
+    },
+    "tip": "Para reconhecer uma antítese, procure pares de ideias contrárias lado a lado, como história x folclore ou salva x selva."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia os versos:</p><blockquote><i>Aqui é o velho oeste.<br>No velho oeste o homem branco mata o índio.<br>Aqui é o século XXI.<br>No século XXI o homem branco mata o índio.</i></blockquote><p>A segunda ocorrência do advérbio “aqui” indica</p>",
+    "options": {
+      "A": "uma concomitância de lugares.",
+      "B": "uma permanência histórica.",
+      "C": "um deslocamento espacial.",
+      "D": "uma volta ao passado."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare os dois pares de versos. Eles têm a mesma estrutura: “Aqui é o velho oeste. / No velho oeste o homem branco mata o índio.” e “Aqui é o século XXI. / No século XXI o homem branco mata o índio.”.</p><p>Na segunda ocorrência, “aqui” não leva o leitor a outro lugar: é o mesmo “aqui”, o lugar onde o poeta e o leitor estão, agora situado no <b>nosso tempo</b>, o século XXI. Já o “velho oeste” lembra um passado de conquista e de violência contra os povos indígenas.</p><p>O detalhe mais importante é que a segunda frase de cada par é igual: “o homem branco mata o índio”. Muda a época, mas a violência continua a mesma. Esse paralelismo mostra que o massacre do passado <b>permanece</b> nos dias de hoje, ou seja, há uma permanência histórica. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Concomitância quer dizer “ao mesmo tempo”. O poema não fala de dois lugares que existem ao mesmo tempo: o “aqui” é sempre o mesmo lugar, e o que muda de um par de versos para o outro é a época.",
+      "C": "Não há mudança de lugar: o “aqui” continua sendo o mesmo lugar, e “Aqui é o século XXI” apenas situa esse lugar no tempo presente. Quem marca C confunde a passagem do tempo com um deslocamento no espaço.",
+      "D": "É o contrário: o segundo “aqui” traz o leitor para o presente, o século XXI. A referência ao passado está no primeiro par, com o “velho oeste”."
+    },
+    "tip": "Quando um poema repete a mesma frase trocando só a época, a mensagem costuma ser que a situação não mudou com o passar do tempo."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>De acordo com o parágrafo de conclusão do Texto 2, a carta dos Guaranis Caiovás representa um documento de falência do Brasil porque</p>",
+    "options": {
+      "A": "torna evidente nossa oposição ao olhar estrangeiro do colonizador sobre a terra.",
+      "B": "revela o desejo dos indígenas Guaranis Caiovás de trocar suas terras por outras.",
+      "C": "mostra de forma clara nossa incapacidade de respeitar os direitos dos indígenas.",
+      "D": "marca 500 anos da carta de Pero Vaz de Caminha, documento de fundação do país."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O parágrafo de conclusão (linhas 15-20) compara duas cartas. A de Pero Vaz de Caminha é um dos “documentos de fundação do Brasil” (linha 16). A dos Guaranis Caiovás, escrita “mais de 500 anos depois” (linha 18), está entre os “documentos de falência” (linha 19).</p><p>Por que falência? Porque, nessa carta, um grupo indígena prefere pedir a própria morte coletiva a ser expulso da terra onde vive. Isso mostra que o país fracassou em proteger esses povos. A autora já tinha dito, logo no início, que a carta “demonstra a incompetência do Estado brasileiro para cumprir a Constituição de 1988” (linhas 1-2), e conclui que, a partir dela, “tornamo-nos cúmplices de genocídio” (linhas 19-20).</p><p>Ou seja, a carta deixa clara nossa incapacidade de respeitar os direitos dos indígenas. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não mostra o Brasil se opondo ao olhar do colonizador. Ao contrário, sugere que continuamos tratando os indígenas com violência, como no tempo da colonização.",
+      "B": "Os indígenas não querem trocar de terra: eles “Decidiram ficar” (linha 13) e preferem morrer “na terra que lhes pertence” (linha 14).",
+      "D": "Os 500 anos aparecem apenas para medir a distância entre as duas cartas. A falência não vem da data, e sim da situação que a carta denuncia."
+    },
+    "tip": "Quando a questão pergunta o porquê de uma expressão forte, como “documento de falência”, procure no texto os fatos que o autor usa para justificá-la."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No fragmento “somos todos cúmplices de genocídio”, extraído do Texto 2 (linha 3), o uso da primeira pessoa do plural</p>",
+    "options": {
+      "A": "sensibiliza os leitores para a problemática discutida.",
+      "B": "inclui a mídia como responsável pelo que aconteceu.",
+      "C": "chama a atenção de órgãos não governamentais para o assunto.",
+      "D": "identifica os leitores como responsáveis pelo genocídio indígena."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Na linha 3, a autora escreve “somos todos cúmplices de genocídio”. O verbo “somos” está na primeira pessoa do plural (nós), e o “todos” reforça que ninguém fica de fora: a própria jornalista, os leitores, a sociedade brasileira.</p><p>Por que escrever assim, e não “o governo é cúmplice”? Ao se incluir e incluir quem lê, a autora aproxima o leitor do problema. Ele deixa de ver a situação dos Guaranis Caiovás como algo distante e é levado a pensar no próprio papel, já que se pode ser cúmplice “por ação” ou “por omissão”. No fim do texto, ela retoma a ideia: “tornamo-nos cúmplices de genocídio. Sempre fomos, mas tornar-se é saber que se é.” (linhas 19-20).</p><p>O objetivo desse “nós” é, portanto, <b>sensibilizar</b> os leitores para a questão discutida. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A mídia não é mencionada no texto. O “nós” inclui toda a sociedade, e não um grupo profissional específico.",
+      "C": "O texto não chama organizações não governamentais para o assunto. O “nós” de “somos todos” inclui a própria autora e os leitores da revista, ou seja, a sociedade em geral, e não um grupo de entidades.",
+      "D": "É a alternativa mais tentadora, mas o “nós” não aponta os leitores como autores do genocídio: a jornalista se inclui no grupo e fala de cumplicidade, muitas vezes por omissão. A intenção é levar à reflexão, e não acusar."
+    },
+    "tip": "Em textos de opinião, o “nós” costuma ser uma estratégia para envolver o leitor: o autor se coloca ao lado dele para despertar sua consciência sobre o problema."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Releia o seguinte trecho do Texto 2 (linha 14):</p><blockquote><i>[...] morrer com tudo o que são, na terra <u>que lhes pertence.</u></i></blockquote><p>Substituindo a oração adjetiva sublinhada por um termo simples, assinale a alternativa em que a reescrita do trecho altera significativamente o sentido do texto</p>",
+    "options": {
+      "A": "[...] morrer com tudo o que são, na terra deles.",
+      "B": "[...] morrer com tudo o que são, naquelas terras.",
+      "C": "[...] morrer com tudo o que são, nas suas terras.",
+      "D": "[...] morrer com tudo o que são, nas próprias terras."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.classes",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A oração sublinhada, “que lhes pertence” (linha 14), é uma oração adjetiva: ela caracteriza “terra” e traz a ideia de <b>posse</b>. A terra pertence aos indígenas, é deles.</p><p>Agora teste cada reescrita, perguntando se a ideia de posse continua:</p><ul><li>(A) “na terra <b>deles</b>”: “deles” indica posse. Mantém o sentido.</li><li>(C) “nas <b>suas</b> terras”: “suas” é pronome possessivo. Mantém.</li><li>(D) “nas <b>próprias</b> terras”: “próprias” também indica que a terra é deles. Mantém.</li><li>(B) “<b>naquelas</b> terras”: “aquelas” é pronome demonstrativo; só aponta para um lugar, sem dizer de quem ele é.</li></ul><p>Na alternativa B desaparece justamente a ideia de que a terra pertence aos indígenas, que é o centro da luta descrita no texto. Por isso, é a reescrita que altera significativamente o sentido. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Deles” retoma os indígenas e indica posse, exatamente como “que lhes pertence”. Quem marca A pode ter esquecido que o enunciado pede a reescrita que altera o sentido.",
+      "C": "“Suas” é pronome possessivo: a terra continua sendo dos indígenas. Não há mudança importante de sentido.",
+      "D": "“Próprias” reforça que a terra é dos próprios indígenas, preservando a ideia de posse da oração original."
+    },
+    "tip": "Palavras como seu, deles e próprio indicam posse; demonstrativos como este, esse e aquele apenas apontam, sem dizer a quem algo pertence."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>No Texto 3, Davi Kopenawa, em relação aos brancos, propõe que os indígenas de sua etnia devam</p>",
+    "options": {
+      "A": "tentar viver nas cidades.",
+      "B": "continuar vivendo na floresta.",
+      "C": "conhecer os costumes dos brancos.",
+      "D": "querer que os brancos se tornem indígenas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No segundo parágrafo, Davi Kopenawa responde ao que os brancos esperam dos indígenas: “Hoje, os brancos acham que deveríamos imitá-los em tudo. Mas não é o que queremos.” (linhas 8-9). E reforça: “Mas não quero de modo algum ser um deles.” (linha 10).</p><p>Depois, ele explica o risco de deixar a floresta: “se formos viver em suas cidades, seremos infelizes” (linha 12), e os brancos acabarão “com a floresta”, sem deixar “nenhum lugar onde possamos viver longe deles” (linhas 12-13). Sem a floresta, “Não poderemos mais caçar, nem plantar nada. Nossos filhos vão passar fome.” (linhas 13-14).</p><p>Juntando tudo, a proposta dele é que seu povo mantenha o próprio modo de vida e continue vivendo na floresta, longe dos brancos. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É o oposto do que ele defende: segundo ele, viver nas cidades dos brancos traria infelicidade (linha 12).",
+      "C": "Ele conta que aprendeu os costumes dos brancos desde a infância (linha 9), mas essa é uma experiência pessoal, e não uma proposta para seu povo. Logo em seguida, diz que não quer “ser um deles”.",
+      "D": "A frase das linhas 10-11 (“só poderemos nos tornar brancos no dia em que eles mesmos se transformarem em Yanomami”) não expressa um desejo: é um jeito de dizer que isso nunca vai acontecer."
+    },
+    "tip": "Para descobrir a proposta de um autor, junte o que ele rejeita e as consequências que ele teme: a proposta costuma ser o caminho contrário."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Releia o seguinte trecho do Texto 3 (linhas 12-14):</p><blockquote><i>Sei também que se formos viver em suas cidades, seremos infelizes. <u>Então</u>, eles acabarão com a floresta e nunca mais deixarão nenhum lugar onde possamos viver longe deles.</i></blockquote><p>Levando em consideração o sentido do texto, podemos afirmar que a palavra sublinhada apresenta a ideia de</p>",
+    "options": {
+      "A": "contradição.",
+      "B": "finalidade.",
+      "C": "tempo.",
+      "D": "causa."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Pela numeração do texto, o trecho citado começa no fim da linha 11 (e não na 12, como diz o enunciado) e vai até a linha 13; a palavra “Então” está na linha 12. Observe a sequência de ideias:</p><ol><li>“se formos viver em suas cidades, seremos infelizes”;</li><li>“Então, eles acabarão com a floresta”.</li></ol><p>Aqui, “então” equivale a “nesse momento”, “aí”, “quando isso acontecer”: depois que os indígenas forem viver nas cidades, <b>nesse tempo</b> os brancos destruirão a floresta, e não sobrará lugar para viver longe deles. A palavra situa o segundo fato no tempo, em relação ao primeiro.</p><p>Você pode ter aprendido “então” como conclusivo (igual a “portanto”), mas essa opção não aparece. Pela eliminação: não há oposição (contradição), não há objetivo (finalidade), e “então” não apresenta o motivo de nada (causa). Resta a ideia de tempo. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contradição exigiria uma ideia oposta à anterior, como faria um “mas”. As duas frases seguem na mesma direção: ambas descrevem perdas para os indígenas.",
+      "B": "Finalidade responde à pergunta “para quê?” e seria expressa por “para que” ou “a fim de”. “Então” não apresenta um objetivo, e sim o que vai acontecer depois.",
+      "D": "Causa é o motivo de algo (“porque”, “já que”). “Então” vem antes do fato que acontece em seguida, e não do motivo dele. Quem marca D confunde causa com consequência."
+    },
+    "tip": "O sentido de um conectivo depende do contexto: troque-o por “nesse momento”, “porque”, “para que” ou “mas” e veja qual substituição mantém o sentido do trecho."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>No último quadrinho do Texto 4, o uso do pronome demonstrativo, associado à atitude corporal dos personagens, indica</p>",
+    "options": {
+      "A": "posse.",
+      "B": "saudade.",
+      "C": "desprezo.",
+      "D": "distância."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No segundo quadrinho, o menino diz: “AQUELA TERRA NUNCA FOI ‘NOSSA’...” e “...NÓS QUE SOMOS DAQUELA TERRA!”. O pronome demonstrativo <b>aquela</b> (e “daquela”, que é de + aquela) é usado para o que está <b>longe</b> de quem fala, no espaço ou no tempo. Compare: “esta terra” seria a terra onde ele está; “aquela terra” é uma terra distante.</p><p>A imagem confirma essa ideia. No primeiro quadrinho, o menino fala olhando para o amigo; no segundo, ele vira o rosto e olha para longe, para fora da cena, e o cachorro faz o mesmo. É como se eles contemplassem a terra de onde a família foi expulsa (“POR ISSO EXPULSARAM A GENTE!”).</p><p>Palavra e gesto, juntos, indicam <b>distância</b>: a terra ficou longe. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O menino diz justamente o contrário: a terra “NUNCA FOI ‘NOSSA’”. Além disso, “aquela” não indica de quem é algo; quem expressa posse são os possessivos, como “nossa”.",
+      "B": "O olhar para longe até pode sugerir tristeza, mas o pronome “aquela” não expressa sentimento: ele marca a distância, e o gesto de olhar para longe reforça essa mesma ideia.",
+      "C": "Nada mostra desprezo pela terra: o menino afirma que seu povo pertence a ela (“NÓS QUE SOMOS DAQUELA TERRA!”), o que revela ligação, e não desdém."
+    },
+    "tip": "Este e esta indicam o que está perto de quem fala; esse e essa, perto de quem ouve; aquele e aquela, o que está longe de ambos, no espaço ou no tempo."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>Releia a seguinte frase do Texto 4 (segundo quadrinho):</p><blockquote><i>... Nós que somos daquela terra!</i></blockquote><p>O uso do termo “que” enfatiza</p>",
+    "options": {
+      "A": "a certeza de possuir a terra.",
+      "B": "a certeza de ter a terra e de ser da terra.",
+      "C": "o contraste entre ter a terra e ser da terra.",
+      "D": "o contraste entre a aldeia e os donos da terra."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.multimodal",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Veja a fala completa do segundo quadrinho: “AQUELA TERRA NUNCA FOI ‘NOSSA’... ...NÓS QUE SOMOS DAQUELA TERRA!”.</p><p>A frase “Nós que somos daquela terra” equivale a “Nós <b>é que</b> somos daquela terra”. Nessa construção, o “que” serve para <b>realçar</b> o “nós”: não é a terra que é nossa, somos nós que pertencemos a ela. As aspas em “NOSSA” também mostram que o menino recusa a ideia de posse.</p><p>O menino opõe, assim, duas relações com a terra: <b>ter</b> a terra, ser dono dela (o que perguntaram à avó: “SE A TERRA ERA NOSSA”), e <b>ser</b> da terra, pertencer a ela e fazer parte dela. O “que” enfatiza esse contraste. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O menino nega a posse: a terra “NUNCA FOI ‘NOSSA’”. Ele não demonstra certeza de possuí-la.",
+      "B": "As duas ideias não se somam, elas se opõem: o menino recusa “ter” a terra e afirma “ser” da terra.",
+      "D": "O contraste destacado pelo “que” não é entre dois grupos de pessoas, e sim entre duas formas de se relacionar com a terra: possuí-la ou pertencer a ela. A tirinha nem menciona uma aldeia."
+    },
+    "tip": "Construções como “nós é que somos” ou “foi ele que fez” servem para dar destaque a um termo; pergunte com que ideia esse termo está sendo contrastado."
+  }
+]

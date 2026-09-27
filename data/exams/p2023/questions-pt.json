@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O texto de José Falero defende uma tese que tenciona convencer o leitor por meio de recursos persuasivos coerentes.</p><p>Por isso, é considerado um texto</p>",
+    "options": {
+      "A": "injuntivo.",
+      "B": "narrativo.",
+      "C": "expositivo.",
+      "D": "argumentativo."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O próprio enunciado dá a pista: o texto “defende uma tese” e quer “convencer o leitor”. Essa é a marca do texto <b>argumentativo</b>.</p><p>Veja como Falero faz isso. Ele apresenta sua tese: a postura não-racista que não chega a ser antirracista é “tão perversa e digna de repúdio quanto a própria postura ‘racista’” (linha 28). Depois, sustenta essa ideia com argumentos, como “A omissão é paradoxal por natureza: não praticar ato algum é também praticar um ato” (linhas 18 e 19), e com o exemplo do professor branco (linhas 20 a 26). O autor ainda mostra sua opinião em 1ª pessoa (“quando reflito sobre essas duas posturas”, linha 17) e fecha com uma conclusão: “Concordo. Não basta dizer que os privilégios brancos são injustos. É preciso abrir mão deles.” (linhas 37 e 38).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O texto injuntivo orienta o leitor a fazer algo, como uma receita ou um manual, com verbos no imperativo. A frase final “É preciso abrir mão deles” é a conclusão de um raciocínio, e não um passo a passo de instruções.",
+      "B": "O texto narrativo conta uma história, com personagens e fatos em sequência no tempo. O professor branco das linhas 20 a 26 é só um exemplo usado para argumentar, e não o personagem de um enredo.",
+      "C": "O texto expositivo apresenta informações de forma neutra, sem tomar partido. Falero toma partido o tempo todo: “sempre chego à conclusão” (linha 17), “Concordo” (linha 37)."
+    },
+    "tip": "Se o texto defende uma opinião (tese) e usa argumentos e exemplos para convencer o leitor, ele é argumentativo; se apenas informa ou explica, é expositivo."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto I parte do trinômio “racista”, “não-racista” e “antirracista” para propor uma reflexão acerca do racismo no Brasil.</p><p>Nesse contexto, os termos citados representam, em relação às práticas racistas, respectivamente:</p>",
+    "options": {
+      "A": "ação, integração e opressão.",
+      "B": "adesão, negação e combate.",
+      "C": "afirmação, recusa e discussão.",
+      "D": "aceitação, negação e indiferença."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Leia o que o texto diz de cada postura em relação às práticas racistas.</p><p><b>Racista</b>: é a postura “fundamentalmente ativa” (linha 15), de quem pratica o racismo, ou seja, adere a ele. Temos <b>adesão</b>.</p><p><b>Não-racista</b>: o “não” já indica <b>negação</b>. A pessoa nega ser racista, mas fica parada: a postura é, “em essência, passiva” (linhas 16 e 17).</p><p><b>Antirracista</b>: o prefixo “anti-” significa “contra”. É a postura “que efetivamente combate o racismo” (linha 10) e que “opõe-se” às outras duas (linha 13). Temos <b>combate</b>.</p><p>A sequência é adesão, negação e combate.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Integração” não descreve o não-racista, que o texto chama de passivo (linhas 16 e 17) e vê como uma maneira de “se estar em conformidade com racismo” (linhas 12 e 13). E “opressão” é o contrário do antirracista, que luta contra a opressão.",
+      "C": "“Discussão” é pouco para o antirracista. O autor critica justamente quem só condena os privilégios “de maneira verbal ou por escrito” (linha 34) e exige ação: abrir mão deles.",
+      "D": "Indiferença não combina com o antirracista, a postura “que efetivamente combate o racismo” (linha 10). Se alguém é indiferente no texto, é o não-racista, que fica passivo."
+    },
+    "tip": "Os elementos que formam as palavras ajudam a entender os conceitos: “não-” indica negação e “anti-” indica oposição, combate."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“Não basta não ser racista, é preciso ser antirracista.”</i> (linha 1)</p></blockquote><p>No Texto I, a ideia central se desenvolve a ponto de indicar uma possível transformação para a extinção do racismo. A proposta que, segundo o texto, pode desencadear um caminho para a solução do problema é a que sugere</p>",
+    "options": {
+      "A": "a efetiva desconstrução das estruturas sociais que privilegiam brancos em todas as esferas.",
+      "B": "o rompimento com um paradigma composto de apenas duas posturas possíveis (“não racista” e “antirracista”).",
+      "C": "que a postura “não-racista” é fundamentalmente ativa e é considerada mais perversa do que a postura “racista”, que é, em essência, passiva.",
+      "D": "que a postura “racista” e a postura “não-racista” se apresentam como variações de uma mesma coisa, pois não estão em conformidade com o racismo."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A frase em destaque diz que não basta deixar de ser racista: é preciso agir contra o racismo. O texto explica o que seria essa ação.</p><p>Nas linhas 13 e 14, o autor mostra que a postura antirracista se opõe às outras duas, “sugerindo a efetiva desconstrução das estruturas sociais que privilegiam brancos em todas as esferas”. Essa é a proposta que aponta um caminho para resolver o problema: desmontar as estruturas que mantêm o privilégio branco.</p><p>O final do texto reforça a ideia com uma atitude concreta: “Não basta dizer que os privilégios brancos são injustos. É preciso abrir mão deles.” (linhas 37 e 38).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O texto diz que o raciocínio apenas “parece romper” com o paradigma (linha 2) e depois mostra que continuamos num modelo binário (linhas 8 e 9). Além disso, as duas posturas do paradigma antigo eram a racista e a não-racista (linha 3), e não a não racista e a antirracista.",
+      "C": "A alternativa inverte o texto: a postura ativa é a racista (linha 15), e a passiva é a não-racista (linhas 16 e 17). E o autor conclui que as duas são “igualmente perversas” (linha 18).",
+      "D": "A primeira parte está certa (linhas 11 e 12), mas a justificativa está invertida: segundo o texto, as duas posturas são “duas maneiras distintas de se estar em conformidade com racismo” (linhas 12 e 13), ou seja, estão, sim, de acordo com o racismo."
+    },
+    "tip": "Alternativas que repetem trechos do texto podem estar certas (como a A) ou ter o sentido invertido (como a C e a D): compare cada palavra com o original."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p><i>“E, claro, o mesmo serve para políticos brancos, escritores brancos, editores brancos, cineastas brancos, repórteres brancos, enfim, brancos ocupando qualquer espaço de poder de maneira total ou majoritária”.</i> (linhas 24-26)</p></blockquote><p>O efeito de sentido da repetição da palavra branco nesse trecho é</p>",
+    "options": {
+      "A": "harmonizar a relação entre negros e brancos.",
+      "B": "diferenciar as pessoas racistas das não-racistas.",
+      "C": "rebaixar pessoas brancas à condição de minoria.",
+      "D": "reforçar a racialidade das pessoas que ocupam o poder."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No trecho, o autor lista várias profissões de prestígio e repete a mesma palavra depois de cada uma: “políticos brancos, escritores brancos, editores brancos, cineastas brancos, repórteres brancos” (linhas 24 e 25). Por fim, generaliza: “brancos ocupando qualquer espaço de poder de maneira total ou majoritária” (linha 26).</p><p>A repetição chama a atenção do leitor para a cor de quem ocupa esses lugares. O autor quer mostrar que os espaços de poder são ocupados quase sempre por pessoas brancas, algo que muitas vezes passa despercebido. Ou seja, a repetição marca e reforça a <b>racialidade</b> de quem está no poder.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O tom do trecho é de denúncia, e não de conciliação: pouco antes, o autor diz que essa permanência é “absolutamente condenável” (linha 23).",
+      "B": "O trecho não separa racistas de não-racistas; ele fala de todos os brancos que ocupam espaços de poder. A palavra repetida marca a cor dessas pessoas, e não a atitude delas.",
+      "C": "É o contrário: o trecho mostra que os brancos ocupam o poder “de maneira total ou majoritária” (linha 26), ou seja, são maioria nesses espaços, e não minoria."
+    },
+    "tip": "Quando um autor repete uma palavra de propósito, pergunte o que ele quer destacar: a repetição serve para dar ênfase a uma ideia."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Ao retomar o final do Texto I, concluímos que o autor critica a postura não-racista, por ser uma postura que</p>",
+    "options": {
+      "A": "equivale a atos e discursos antirracistas.",
+      "B": "contribui para a manter o racismo estrutural.",
+      "C": "todas as pessoas brancas possuem.",
+      "D": "é aceitável no combate ao racismo."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.explicita",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O enunciado manda olhar o final do texto. Nas linhas 32 a 35, o autor afirma que a postura não-racista que não chega a ser antirracista “é uma contribuição direta para a manutenção do racismo estrutural” (linhas 34 e 35).</p><p>Ele explica por quê: é a postura de quem “não abre mão dos próprios privilégios, embora eventualmente os condene de maneira verbal ou por escrito” (linhas 33 e 34). Quem não age acaba ajudando a manter as coisas como estão.</p><p>A alternativa B diz o mesmo com outras palavras: essa postura contribui para manter o racismo estrutural. (O “a” antes de “manter” é um deslize de digitação da prova e não muda o sentido.)</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O texto separa as duas coisas: a postura criticada é justamente a que “não chega a ser” antirracista (linha 32). Condenar os privilégios só com palavras, sem abrir mão deles, não equivale a agir contra o racismo.",
+      "C": "O autor não diz que todas as pessoas brancas têm essa postura. Ele fala do “branco privilegiado que não abre mão dos próprios privilégios” (linhas 32 e 33), e o texto termina justamente pedindo que se abra mão deles.",
+      "D": "É o contrário: segundo o texto, só uma das três posturas é aceitável no combate ao racismo (linhas 6 e 7), a antirracista. A não-racista fica entre as inaceitáveis."
+    },
+    "tip": "Quando o enunciado aponta uma parte do texto (“o final”), volte exatamente a ela e procure a frase que diz o mesmo que a alternativa, com outras palavras."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A escravidão, na história do Brasil, foi um longo e doloroso período marcado por diferentes formas de tortura, tanto física quanto psicológica. Ao longo da letra do poema-canção (Texto II), recuperam-se algumas práticas do período de escravidão como meio de forte denúncia contra o racismo covarde e cruel que ainda persiste em nosso tempo.</p><p>Os versos que representam a referência a esse passado histórico são:</p>",
+    "options": {
+      "A": "“A raiva insufla, pensa nesse esquema / A ideia imunda, tudo inunda” (versos 9-10)",
+      "B": "“A dor profunda é que todo mundo é meu tema / Apunhalado pelas costa” (versos 11-12)",
+      "C": "“E como analgésico nós posta que / Um dia vai tá nos conforme” (versos 14-15)",
+      "D": "“Primeiro cê sequestra eles, rouba eles, mente sobre eles / Nega o deus deles, ofende, separa eles” (versos 21-22)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O enunciado pede os versos que lembram práticas da escravidão. Leia os versos 21 e 22: “Primeiro cê sequestra eles, rouba eles, mente sobre eles / Nega o deus deles, ofende, separa eles”.</p><p>Cada ação remete a esse passado: <b>sequestrar</b> lembra a captura de africanos, trazidos à força para o Brasil; <b>roubar</b> lembra tudo o que lhes foi tirado, a começar pela liberdade; <b>mentir sobre eles</b> lembra as ideias falsas usadas para justificar a escravidão; <b>negar o deus deles</b> lembra a imposição do catolicismo e a perseguição às religiões de origem africana; <b>separar</b> lembra as famílias divididas na venda de escravizados.</p><p>A palavra “Primeiro”, no início, mostra que a canção conta essa história desde o começo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os versos 9 e 10 falam de raiva e de uma “ideia imunda” que se espalha. São sentimentos e ideias, sem nenhuma prática concreta do período da escravidão.",
+      "B": "“Apunhalado pelas costa” (verso 12) é uma imagem figurada de traição, e “A dor profunda” (verso 11) é um sentimento. Nenhum dos dois versos aponta uma prática histórica da escravidão.",
+      "C": "Os versos 14 e 15 falam da esperança de que “Um dia vai tá nos conforme”, usada como “analgésico”, isto é, um consolo para a dor do presente, e não uma prática do passado escravista."
+    },
+    "tip": "Para achar uma referência histórica num poema, procure ações concretas que correspondam a fatos conhecidos daquele período."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O eufemismo é um recurso estilístico usado para amenizar, suavizar uma ideia.</p><p>A alternativa em que o eufemismo é usado como recurso estilístico para tentar amenizar os efeitos negativos do racismo é:</p>",
+    "options": {
+      "A": "“A felicidade do branco é plena / A felicidade do preto é quase” (versos 1-2)",
+      "B": "“Ela quis ser chamada de morena / Que isso camufla o abismo entre si e a humanidade plena” (versos 7-8)",
+      "C": "“Minha cor não é uniforme / Hashtags #PretoNoTopo, bravo!” (versos 17-18)",
+      "D": "“80 tiros te lembram que existe pele alva e pele alvo / Quem disparou usava farda (Mais uma vez)” (versos 19-20)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Eufemismo é trocar uma palavra considerada dura por outra mais suave.</p><p>No verso 7, Ismália “quis ser chamada de morena”. Em vez de ser chamada de negra ou de preta, ela prefere uma palavra que parece mais leve, para fugir do preconceito. Esse é o eufemismo.</p><p>O verso 8 explica o efeito dessa troca: “Que isso camufla o abismo entre si e a humanidade plena”. Camuflar é esconder: a palavra “morena” disfarça a distância que o racismo cria, mas não acaba com ela. Assim, a canção mostra o eufemismo sendo usado para tentar amenizar os efeitos do racismo e, ao mesmo tempo, critica essa tentativa.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Os versos 1 e 2 fazem um contraste (antítese) entre a felicidade “plena” do branco e a felicidade “quase” do preto. Em vez de suavizar, eles escancaram a desigualdade.",
+      "C": "“Minha cor não é uniforme” é uma afirmação de identidade, e “#PretoNoTopo, bravo!” soa como uma celebração irônica. Nenhum dos versos troca uma palavra dura por outra mais leve.",
+      "D": "Esses versos são o oposto do eufemismo: falam de “80 tiros” (referência a um caso real, ocorrido no Rio de Janeiro em 2019) e fazem o jogo entre “pele alva” e “pele alvo” para denunciar, de forma direta e chocante, a violência contra pessoas negras."
+    },
+    "tip": "Eufemismo suaviza (“morena” no lugar de “negra”); se a expressão choca ou escancara o problema, não é eufemismo."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p><i>“Que um diploma é uma alforria”</i> (verso 16)</p></blockquote><p>Por trás da metáfora expressa no verso destacado, reside a ideia de que</p>",
+    "options": {
+      "A": "o acesso à universidade é incerto para as pessoas negras.",
+      "B": "a conquista de um diploma é um sonho distante para o combate ao racismo.",
+      "C": "a educação é um meio de transformação e de libertação da realidade do racismo.",
+      "D": "as pessoas negras só estarão seguras se conseguirem concluir um curso superior."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, o sentido da palavra-chave: <b>alforria</b> era a liberdade concedida a uma pessoa escravizada, registrada num documento chamado carta de alforria.</p><p>No verso 16, “Que um diploma é uma alforria”, o diploma, que também é um documento, é comparado a essa carta de liberdade, sem o uso de “como”: é uma metáfora. A ideia por trás dela é que estudar e se formar seria um jeito de se libertar da realidade do racismo e de transformar a própria vida.</p><p>Repare que a canção apresenta essa ideia como uma esperança que funciona como “analgésico” (verso 14), e os versos 19 e 20 lembram que a violência continua. Mesmo assim, o que a metáfora afirma é a educação como meio de libertação.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A metáfora não fala de dificuldade de acesso à universidade; ela compara o diploma à liberdade.",
+      "B": "A metáfora não fala de distância nem de dificuldade: ela afirma que o diploma é uma alforria, ou seja, que ele liberta. A alternativa troca a ideia de libertação pela de um sonho difícil de alcançar.",
+      "D": "O verso não diz que só o diploma garante segurança; o “só” é um exagero. Aliás, os versos 19 e 20 mostram que a violência continua atingindo pessoas negras."
+    },
+    "tip": "Para entender uma metáfora, descubra o sentido da palavra usada na comparação (aqui, “alforria” é libertação) e transfira esse sentido para o outro termo."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O Texto III é uma charge e, como tal, apresenta uma significativa carga de conteúdo crítico.</p><p>Em relação à legenda no topo da charge, a cena construída com as duas personagens tem um efeito de</p>",
+    "options": {
+      "A": "exemplificação.",
+      "B": "contestação.",
+      "C": "oposição.",
+      "D": "conclusão."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A legenda no topo da charge faz uma afirmação geral: “NEGROS SÃO AS MAIORES VÍTIMAS DA VIOLÊNCIA”.</p><p>A cena mostra um caso particular do dia a dia: duas mães se despedem dos filhos que vão trabalhar. A mãe branca, tranquila, pede: “VOLTA LOGO PARA CASA!”. A mãe negra, com expressão de medo, pede: “VOLTA VIVO!”. O medo de que o filho seja morto mostra, na prática, aquilo que a legenda afirma.</p><p>Quando uma situação concreta ilustra uma afirmação geral, dizemos que ela tem efeito de <b>exemplificação</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contestar seria desmentir a legenda. A cena faz o contrário: confirma que a população negra vive sob a ameaça da violência.",
+      "C": "Existe uma oposição na charge, mas ela está entre as falas das duas mães, e não entre a cena e a legenda. Em relação à legenda, a cena concorda com ela.",
+      "D": "Uma conclusão seria uma ideia deduzida de outras. A cena não tira uma conclusão da legenda; ela mostra um caso concreto que a ilustra."
+    },
+    "tip": "Em charges, veja como o desenho se relaciona com o texto verbal: se a cena mostra um caso concreto de uma afirmação geral, a relação é de exemplificação."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>A crítica social presente na charge se constrói pela seguinte oposição nas falas das duas mães retratadas:</p>",
+    "options": {
+      "A": "preocupação / despreocupação quanto à localização do filho.",
+      "B": "posição central / posição periférica da residência da família.",
+      "C": "certeza / incerteza quanto à volta do filho.",
+      "D": "inclusão / exclusão do mercado de trabalho."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Compare as duas falas. A mãe branca diz: “TCHAU FILHO!! BOM TRABALHO! E VOLTA LOGO PARA CASA!”. Ela não duvida de que o filho vai voltar; só pede que ele não demore. Há <b>certeza</b> da volta.</p><p>A mãe negra diz: “TCHAU FILHO! BOM TRABALHO E VOLTA VIVO!”. Ela pede que o filho volte vivo porque teme que ele seja vítima da violência. Há <b>incerteza</b> sobre a volta. As letras maiores em “VOLTA VIVO” e o rosto assustado reforçam esse medo.</p><p>A crítica social está nessa diferença: a mesma despedida comum ganha outro sentido quando a família é negra, pois, como diz a legenda, os negros são as maiores vítimas da violência.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A mãe negra está mesmo preocupada, mas não com o lugar onde o filho está: ela teme que ele não volte vivo. A mãe branca só cita a casa para pedir que ele não demore. A oposição está na volta do filho, e não na localização dele.",
+      "B": "A charge não mostra nem menciona onde as famílias moram. Pensar em centro e periferia é trazer uma informação que não está no texto.",
+      "D": "As duas mães dizem “BOM TRABALHO”, ou seja, os dois filhos trabalham. Não há oposição entre inclusão e exclusão do mercado de trabalho."
+    },
+    "tip": "Em charges com falas parecidas, compare palavra por palavra: a diferença (“LOGO PARA CASA” e “VIVO”) costuma ser o ponto da crítica."
+  }
+]

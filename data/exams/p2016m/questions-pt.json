@@ -1,0 +1,293 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No texto I, são apresentadas informações sobre a realização de uma feira de trocas: local, data, objetivo, funcionamento. Além de informar, em alguns momentos, o autor apresenta opiniões.</p><p>Assinale a alternativa que contém um trecho em que haja uma opinião.</p>",
+    "options": {
+      "A": "“O espaço também promove o desapego através da doação” (linha 16)",
+      "B": "“(...) cada um coloca seus bens num local e utiliza uma etiqueta com seu nome.” (linhas 12-13)",
+      "C": "“Uma experiência colaborativa agradável, que questiona o individualismo imposto nas grandes cidades.” (linhas 18-19)",
+      "D": "“A iniciativa busca incentivar o consumo consciente e levar para o espaço o conceito de economia solidária.” (linhas 3-4)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.fato_opiniao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Fato</b> é aquilo que pode ser verificado: o que aconteceu, onde, quando, como funciona. <b>Opinião</b> é uma avaliação pessoal de quem escreve. Uma boa pista de opinião são adjetivos que julgam, como “bom”, “ruim”, “agradável”.</p><p>Veja o trecho das linhas 18 e 19: “Uma experiência colaborativa <b>agradável</b>, que questiona o individualismo imposto nas grandes cidades.” Dizer que a experiência é agradável é um julgamento do autor: outra pessoa poderia achar diferente. Afirmar que o individualismo é “imposto” nas grandes cidades também é uma interpretação dele, e não um dado que se possa conferir.</p><p>As outras alternativas apenas informam: o que o espaço oferece (a área de doação), como as trocas funcionam e qual é o objetivo declarado da iniciativa.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Parece uma avaliação, mas é uma informação: logo em seguida o texto comprova o que disse, “Há uma área destinada apenas para doar objetos às instituições que necessitam” (linhas 16 e 17).",
+      "B": "Descreve de forma objetiva como o evento funciona (“O evento funciona da seguinte maneira”, linha 12); não há nenhum julgamento do autor.",
+      "D": "Informa o objetivo da feira, aquilo que a iniciativa pretende fazer. É um dado sobre o evento, e não uma avaliação pessoal de quem escreve."
+    },
+    "tip": "Para achar uma opinião, procure palavras que avaliam (agradável, ótimo, injusto): elas mostram o julgamento de quem escreve, e não um fato verificável."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>“No último domingo (7), a associação Cineclube Socioambiental Crisantempo, localizada na Vila Madalena, bairro da zona oeste de São Paulo, realizou <b><u>uma</u></b> feira em que os moradores puderam trocar objetos entre si.” (linhas1-3)</p><blockquote>“<b><u>A</u></b> feira de trocas acontece uma vez por mês, sempre aos domingos.” (linha 5)</blockquote><p>Em relação aos artigos sublinhados nas duas passagens do texto, pode-se dizer que</p>",
+    "options": {
+      "A": "na primeira, usou-se o artigo definido para apresentar um elemento, e depois se usou o indefinido para retomar esse elemento.",
+      "B": "na primeira, usou-se o artigo indefinido para apresentar um elemento, e depois se usou o definido para retomar esse elemento.",
+      "C": "nas duas passagens, usou-se o artigo indefinido para não determinar o elemento sobre o qual se está falando.",
+      "D": "nas duas passagens, usou-se o artigo definido para retomar um mesmo elemento citado anteriormente."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O artigo <b>indefinido</b> (um, uma, uns, umas) apresenta algo novo, que o leitor ainda não conhece. O artigo <b>definido</b> (o, a, os, as) indica algo já conhecido ou já mencionado.</p><p>Na linha 2, o texto conta que a associação “realizou <b>uma</b> feira”. É a primeira vez que a feira aparece, então o autor usa o indefinido para apresentá-la ao leitor.</p><p>Na linha 5, o leitor já sabe de qual feira se trata, e o autor escreve “<b>A</b> feira de trocas acontece uma vez por mês”. O definido retoma o elemento que já foi apresentado e ajuda a ligar um parágrafo ao outro.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Inverte as classes: “uma” é artigo indefinido e “A” é artigo definido. Além disso, o indefinido não serve para retomar algo já citado.",
+      "C": "Só “uma” é indefinido. O “A” da linha 5 é definido e aponta exatamente para a feira citada antes.",
+      "D": "Só “A” é definido. Na primeira passagem, “uma” apresenta a feira pela primeira vez, sem retomar nada anterior."
+    },
+    "tip": "Artigo indefinido apresenta um elemento novo; artigo definido retoma um elemento que o leitor já conhece."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Releia o trecho a seguir, destacado do texto I:</p><blockquote>“(...) num determinado momento (<b><u>a</u></b>o tocar do sino) começam as trocas.” (linhas 14-15)</blockquote><p>Em relação ao elemento sublinhado nesse trecho, é possível afirmar que a preposição “<b>a</b>” introduz uma oração adverbial reduzida com valor de</p>",
+    "options": {
+      "A": "tempo.",
+      "B": "causa.",
+      "C": "finalidade.",
+      "D": "consequência."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O trecho completo diz que os participantes circulam “e num determinado momento (ao tocar do sino) começam as trocas” (linhas 14 e 15).</p><p>A estrutura <b>ao + infinitivo</b> (ao tocar, ao chegar, ao sair) costuma equivaler a uma oração iniciada por <b>quando</b>. Faça a troca: “quando o sino toca, começam as trocas”. O sentido continua o mesmo: o toque do sino marca o momento em que as trocas começam.</p><p>O próprio texto dá outra pista: o parêntese explica a expressão “num determinado momento”, ou seja, responde à pergunta “quando?”. Por isso a oração tem valor de <b>tempo</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Para haver causa, o sino teria de ser o motivo das trocas (“porque o sino toca”). Ele apenas marca o momento em que elas começam.",
+      "C": "Finalidade responderia à pergunta “para quê?” (“para que o sino toque”). Ninguém troca objetos com o objetivo de fazer o sino tocar.",
+      "D": "Consequência indicaria um resultado das trocas, mas o toque do sino vem antes delas e só sinaliza o seu início."
+    },
+    "tip": "A construção “ao + infinitivo” geralmente equivale a “quando”: faça a troca para confirmar o valor de tempo."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O verso “<b>de ser não eu, mas artigo industrial</b>” (verso 42) pode ser explicado de modo coerente, quando consideramos que, devido ao</p>",
+    "options": {
+      "A": "consumismo e à necessidade de seguir padrões estipulados, a identidade do eu lírico se perde.",
+      "B": "consumismo e à necessidade de seguir padrões estipulados, a identidade do eu lírico se fortifica.",
+      "C": "desapego dos bens materiais e à crítica aos padrões estipulados, a identidade do eu lírico se perde.",
+      "D": "desapego dos bens materiais e à crítica aos padrões estipulados, a identidade do eu lírico se fortifica."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Leia o verso 42 junto com os vizinhos: “Por me ostentar assim, tão orgulhoso / de ser não eu, mas artigo industrial, / peço que meu nome retifiquem.” (versos 41 a 43).</p><p>O eu lírico diz que deixou de ser ele mesmo (“não eu”) e virou um produto de fábrica (“artigo industrial”). Isso acontece porque ele se cobre de marcas e segue a moda, mesmo que “a moda / seja negar minha identidade” (versos 26 e 27). No fim, ele conclui: “Meu nome novo é coisa.” (verso 45).</p><p>Portanto, a causa é o <b>consumismo</b> e a necessidade de seguir os padrões da moda, e a consequência é a <b>perda da identidade</b>. Não há desapego no poema: ao contrário, o eu lírico está preso às marcas.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Acerta a causa, mas erra a consequência: o eu lírico não se fortalece, ele vira “coisa” (verso 45) e reconhece que a moda é “negar minha identidade” (verso 27).",
+      "C": "Acerta a consequência, mas erra a causa: não há desapego no poema, pois o eu lírico carrega marcas “desde a cabeça até o bico dos sapatos” (verso 16).",
+      "D": "Erra as duas partes: o poema mostra apego às marcas, e a identidade do eu lírico se perde em vez de se fortalecer."
+    },
+    "tip": "Em alternativas com causa e consequência, confira cada parte separadamente no texto: se uma delas estiver errada, a opção inteira está errada."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No texto II, nos versos “<b>Em minha calça está grudado um nome / <u>que</u> não é meu de batismo ou de cartório</b>”, a palavra “<b>que</b>” evita repetição (versos 1 e 2).</p><p>Marque a alternativa em que essa palavra esteja fazendo o mesmo.</p>",
+    "options": {
+      "A": "“Em minha camiseta, a marca de cigarro / <b><u>que</u></b> não fumo, até hoje não fumei.” (versos 6-7)",
+      "B": "“É doce estar na moda, ainda <b><u>que</u></b> a moda / seja negar minha identidade,” (versos 26-27)",
+      "C": "“Com <b><u>que</u></b> inocência demito-me de ser” (verso 31)",
+      "D": "“peço <b><u>que</u></b> meu nome retifiquem.” (verso 43)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Nos versos 1 e 2, o “que” retoma “um nome”: “Em minha calça está grudado um nome / <u>que</u> não é meu de batismo” equivale a “um nome; <b>esse nome</b> não é meu de batismo”. Quando o “que” substitui um termo anterior, ele é um <b>pronome relativo</b> e evita a repetição.</p><p>Faça o mesmo teste nas alternativas. Na letra A, “a marca de cigarro / <u>que</u> não fumo” equivale a “a marca de cigarro, <b>a qual</b> não fumo”. O “que” retoma “a marca de cigarro”: também é pronome relativo.</p><p>Nas outras opções, o “que” não substitui nenhuma palavra anterior: em B, “ainda que” liga orações com ideia de concessão; em C, “com que inocência” intensifica, como “com quanta inocência”; em D, o “que” só introduz aquilo que é pedido.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Ainda que” é uma locução conjuntiva de concessão, com o sentido de “mesmo que”; ela liga duas orações e não retoma nenhum termo.",
+      "C": "Aqui o “que” intensifica o substantivo “inocência”, com o sentido de “quanta”, em tom de exclamação; não substitui palavra alguma.",
+      "D": "O “que” é conjunção integrante: introduz a oração que completa o verbo “peço” (peço o quê? que retifiquem meu nome). Não retoma termo nenhum."
+    },
+    "tip": "Para reconhecer o pronome relativo, troque o “que” por “o qual” ou “a qual”: se a frase continuar correta, ele está retomando um termo e evitando repetição."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A inversão de termos sintáticos é um recurso que objetiva conferir maior expressividade ao texto.</p><p>No verso “<b>Já não me convém o título de homem.</b>” (verso 44), o termo “<b>o título de homem</b>”, que está na ordem indireta, exerce função sintática de</p>",
+    "options": {
+      "A": "aposto.",
+      "B": "sujeito.",
+      "C": "objeto direto.",
+      "D": "complemento nominal."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Coloque o verso na ordem direta: “<b>O título de homem</b> já não me convém.” Agora pergunte ao verbo: <b>o que</b> já não me convém? A resposta é “o título de homem”. O termo que responde a essa pergunta e comanda o verbo é o <b>sujeito</b>.</p><p>Um teste seguro é passar o termo para o plural: “Já não me convêm <b>os títulos</b> de homem.” O verbo vai junto para o plural, o que mostra que ele concorda com esse termo. Só o sujeito provoca essa mudança.</p><p>E o “me”? Ele é o complemento do verbo, porque o que convém, convém <b>a alguém</b> (“convém a mim”). No verso, o sujeito aparece depois do verbo (sujeito posposto), e essa inversão dá destaque à expressão.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Aposto é um termo que explica outro, em geral entre vírgulas ou depois de dois-pontos; “o título de homem” não explica nenhum termo da oração.",
+      "C": "É o erro de quem acha que tudo o que vem depois do verbo é objeto. Mas “convir” não pede objeto direto (convém a alguém), e o verbo concorda com “o título”, prova de que é o sujeito.",
+      "D": "Complemento nominal completa o sentido de um nome (substantivo, adjetivo ou advérbio). “O título de homem” se liga ao verbo “convém”, e não a um nome."
+    },
+    "tip": "Para achar o sujeito em ordem inversa, passe a frase para a ordem direta e ponha o termo no plural: se o verbo mudar junto, é o sujeito."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>Releia os versos a seguir, pertencentes ao texto II:</p><blockquote>“Meu lenço, meu relógio, meu chaveiro,<br>Minha gravata e cinto e escova e pente,<br>Meu copo, minha xícara,<br>Minha toalha de banho e sabonete,<br>Meu isso, meu aquilo,” (versos 11-15)</blockquote><p>A palavra retirada do texto I que se opõe à ideia presente nesses versos é</p>",
+    "options": {
+      "A": "“consciente” (linha 3).",
+      "B": "“experiência” (linha 18).",
+      "C": "“compartilhado” (linha 18).",
+      "D": "“individualismo” (linha 19)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe o que se repete nos versos 11 a 15: “<b>Meu</b> lenço, <b>meu</b> relógio, <b>meu</b> chaveiro, / <b>minha</b> gravata (...) / <b>meu</b> copo, <b>minha</b> xícara”. São pronomes possessivos em sequência, apontando objetos que pertencem só ao eu lírico. A ideia central é a de <b>posse individual</b>: tudo ali é “meu”.</p><p>Agora procure no texto I uma palavra de sentido contrário. Na linha 18, o lanche é “<b>compartilhado</b> com alimentos levados pelos próprios participantes”. Compartilhar é dividir com os outros, fazer com que algo seja de todos. É o oposto de guardar tudo como “meu”.</p><p>Repare que “individualismo” (linha 19) combina com a ideia dos versos, em vez de se opor a ela.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Consciente” qualifica o consumo: “incentivar o consumo consciente” (linhas 3 e 4; a palavra fica no início da linha 4, embora a alternativa indique a linha 3). O consumo consciente combina com a crítica do poema como um todo, mas os versos citados não tratam de consciência, e sim de posse, marcada por “meu” e “minha”. O contrário de “meu” é algo dividido com os outros, e não algo consumido com consciência.",
+      "B": "“Experiência” é uma palavra neutra, que não mantém relação de oposição com a ideia de posse dos versos.",
+      "D": "“Individualismo” está do mesmo lado dos versos: valorizar o que é “meu” é uma atitude individualista. Há semelhança, e não oposição."
+    },
+    "tip": "Em questões de oposição entre textos, descubra primeiro a ideia central do trecho (aqui, a posse marcada por “meu/minha”) e só depois procure o seu contrário."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O pronome “<b>isso</b>”, no segundo quadrinho do texto III, retoma a seguinte expressão:</p>",
+    "options": {
+      "A": "“mundo melhor e mais harmônico”.",
+      "B": "“consumismo desenfreado”.",
+      "C": "“modelo de consumismo”.",
+      "D": "“quer viver”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O pronome demonstrativo “isso” retoma algo que já foi dito. No segundo quadrinho, o orador pergunta: “Quem está disposto a abandonar esse modelo de consumismo desenfreado para alcançar <b>isso</b>?”.</p><p>Pense no sentido do verbo: “alcançar” é chegar a um objetivo. Qual objetivo foi apresentado antes? No primeiro quadrinho, ele perguntou quem quer “viver num <b>mundo melhor e mais harmônico</b>”. É esse o objetivo a ser alcançado.</p><p>Faça o teste da substituição: “abandonar esse modelo de consumismo desenfreado para alcançar um mundo melhor e mais harmônico”. A frase faz todo o sentido. Já trocar “isso” por “consumismo desenfreado” criaria um absurdo: abandonar o consumismo para alcançar o consumismo.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O consumismo desenfreado é o que se pede para abandonar, e não o objetivo a ser alcançado; com essa substituição, a pergunta ficaria contraditória.",
+      "C": "“Modelo de consumismo” também é aquilo que deve ser abandonado; ninguém abandona algo para alcançar essa mesma coisa.",
+      "D": "“Quer viver” é uma forma verbal, e não um objetivo a alcançar. O que as pessoas querem é o mundo melhor, e é ele que o “isso” retoma."
+    },
+    "tip": "Para descobrir o que um pronome retoma, substitua-o pelo termo candidato: a opção certa é a que mantém o sentido da frase."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>A tirinha (texto III) critica o fato de que as pessoas</p>",
+    "options": {
+      "A": "não desejam mudanças nem querem viver num mundo melhor e mais harmônico.",
+      "B": "desejam mudanças e estão dispostas a rever hábitos e comportamentos.",
+      "C": "desejam mudanças, mas não estão dispostas a abandonar os hábitos de consumo.",
+      "D": "não desejam mudanças, mas estão dispostas a um novo comportamento."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A tirinha funciona pelo contraste entre os dois quadrinhos.</p><p>No primeiro, o orador pergunta “Quem quer viver num mundo melhor e mais harmônico?” e <b>todos</b> levantam a mão: as pessoas desejam mudanças.</p><p>No segundo, ele pergunta quem está disposto a “abandonar esse modelo de consumismo desenfreado” para chegar a esse mundo. Agora <b>ninguém</b> levanta a mão: a plateia fica imóvel, e só uma mosca voa no espaço vazio, sinal de silêncio total.</p><p>A crítica está nessa contradição: as pessoas querem um mundo melhor, mas não aceitam mudar os próprios hábitos de consumo para conquistá-lo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contradiz o primeiro quadrinho, em que todos levantam a mão porque querem viver num mundo melhor e mais harmônico.",
+      "B": "Contradiz o segundo quadrinho: quando a mudança exige abandonar o consumismo, ninguém se dispõe a rever seus hábitos.",
+      "D": "Inverte a tirinha: as pessoas desejam mudanças (primeiro quadrinho), mas não estão dispostas a mudar de comportamento (segundo quadrinho)."
+    },
+    "tip": "Em tirinhas, compare os quadrinhos: a crítica ou o humor costuma nascer da quebra de expectativa entre o primeiro e o último."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>Assinale a alternativa que relaciona corretamente a reflexão provocada pela tirinha (texto III) e o texto I.</p>",
+    "options": {
+      "A": "Em ambos os textos, as pessoas promovem um mundo mais harmônico e menos consumista.",
+      "B": "Em ambos os textos, não há a promoção de um mundo mais harmônico e com consumo consciente.",
+      "C": "No texto I, há a vontade de se ter um mundo mais harmônico e menos consumista, o que não acontece no texto III.",
+      "D": "No texto I, foram tomadas iniciativas para amenizar o modelo de consumo desenfreado no mundo, o que não ocorreu no texto III."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare o que acontece em cada texto.</p><p>No texto I, as pessoas <b>agem</b>: organizam uma feira de trocas que “busca incentivar o consumo consciente” (linhas 3 e 4), criam uma área só para doações (linhas 16 e 17) e dividem um lanche “compartilhado” (linha 18). São iniciativas concretas contra o consumo desenfreado.</p><p>No texto III, as pessoas até querem um mundo melhor e mais harmônico (todas levantam a mão no primeiro quadrinho), mas, quando o orador pergunta quem está disposto a abandonar o consumismo, ninguém se mexe. Existe o desejo, mas não existe ação.</p><p>Assim, a diferença entre os textos está na atitude: no texto I foram tomadas iniciativas; no texto III, não.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Só vale para o texto I. Na tirinha, ninguém se dispõe a abandonar o consumismo, então ninguém promove um mundo menos consumista.",
+      "B": "Só vale para o texto III. No texto I, a feira de trocas promove justamente o consumo consciente e a colaboração entre as pessoas.",
+      "C": "Na tirinha as pessoas têm, sim, vontade de viver num mundo mais harmônico (todas levantam a mão). O que lhes falta não é a vontade, e sim a disposição para agir."
+    },
+    "tip": "Ao comparar dois textos, identifique o ponto exato em que eles se diferenciam (aqui, querer mudar x agir para mudar) antes de olhar as alternativas."
+  }
+]

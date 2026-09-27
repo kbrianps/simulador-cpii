@@ -1,0 +1,272 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A dinâmica e a estratégia nas partidas de basquete mudaram bastante ao longo dos últimos anos. Atualmente, as equipes tentam mais arremessos de 3 pontos (quando o arremesso é feito antes da “linha de 3 pontos”) do que antigamente.</p><p>Um exemplo dessa estratégia observou-se numa das partidas finais da liga de basquete norte-americana, a NBA (National Basketball Association), disputada entre as equipes Toronto Raptors e Golden State Warriors. Nessa partida, as duas equipes efetuaram, juntas, 74 arremessos de 3 pontos.</p><p>Do total desses arremessos, 22 do Golden State Warriors foram errados; do Toronto Raptors, 24 foram errados.</p><p>Ao longo da partida, as duas equipes juntas totalizaram, nesse tipo de arremesso,</p>",
+    "options": {
+      "A": "75 pontos.",
+      "B": "84 pontos.",
+      "C": "87 pontos.",
+      "D": "90 pontos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Foram 74 arremessos de 3 pontos no total. Arremesso errado não vale ponto, então primeiro descobrimos quantos foram certos.</p><p>Erros das duas equipes: \\(22 + 24 = 46\\).</p><p>Acertos: \\(74 - 46 = 28\\).</p><p>Cada acerto vale 3 pontos: \\(28 \\cdot 3 = 84\\) pontos.</p><p>Confira com as alternativas: todas são múltiplos de 3 (\\(75 = 3 \\cdot 25\\), \\(84 = 3 \\cdot 28\\), \\(87 = 3 \\cdot 29\\), \\(90 = 3 \\cdot 30\\)), e só 84 corresponde aos 28 acertos. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Corresponderia a 25 acertos (\\(75 \\div 3\\)), ou seja, \\(74 - 25 = 49\\) erros; mas os erros somam \\(22 + 24 = 46\\), o que deixa 28 acertos.",
+      "C": "Seriam 29 acertos, ou seja, 45 erros. Aparece quando a conta \\(22 + 24\\) ou \\(74 - 46\\) sai errada por uma unidade.",
+      "D": "Seriam 30 acertos, ou seja, 44 erros: acontece quando se erra a soma \\(22 + 24\\), que dá 46, e não 44."
+    },
+    "tip": "Arremesso errado vale zero: conte primeiro os acertos (total menos erros) e só depois multiplique pelo valor de cada um."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Os gráficos a seguir mostram a quantidade de usuários ativos das cinco redes sociais mais populares no Brasil nos anos de 2016 e 2018.</p><p><img src=\"img/p2019/mat-q12.png\" alt=\"Dois gráficos de barras verticais lado a lado, separados por uma linha vertical; cada barra traz o ícone da rede social e, acima dela, o número de usuários. Gráfico da esquerda, com o título “Redes sociais no Brasil em 2016”: Facebook, 99 milhões; WhatsApp, 76 milhões; YouTube, 63 milhões; Twitter, 41 milhões; Snapchat, 36 milhões. Gráfico da direita, com o título “Redes sociais no Brasil em 2018”: Facebook, 130 milhões; WhatsApp, 120 milhões; YouTube, 98 milhões; Instagram, 74 milhões; Twitter, 50 milhões.\"></p><p class=\"fonte\">Disponível em: http://www.todamateria.com.br. Acesso em: 9 jul. 2019 (adaptado).</p><p>Sabendo que em 2016 o Instagram já existia, mas não figurava entre as cinco redes sociais mais utilizadas no Brasil, podemos afirmar que o crescimento percentual de usuários brasileiros dessa rede social de 2016 a 2018 foi</p>",
+    "options": {
+      "A": "inferior a 40%.",
+      "B": "entre 50% e 70%.",
+      "C": "entre 70% e 90%.",
+      "D": "superior a 100%."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O Instagram aparece no gráfico de 2018 com 74 milhões de usuários. No gráfico de 2016 ele não aparece, e o enunciado explica que ele já existia, mas não estava entre as cinco redes mais usadas.</p><p>A quinta rede de 2016 (Snapchat) tinha 36 milhões de usuários. Então, em 2016, o Instagram tinha <b>menos de 36 milhões</b>.</p><p>Compare com 2018: o dobro de 36 é \\(2 \\cdot 36 = 72\\). Como \\(74 > 72\\), o número de usuários mais que dobrou, mesmo no caso em que o Instagram tivesse quase 36 milhões em 2016. Mais que dobrar significa crescer mais de 100%.</p><p>Se quiser ver a conta: com base 36, o aumento seria \\(74 - 36 = 38\\) milhões, e \\(\\dfrac{38}{36} \\approx 1{,}06\\), isto é, cerca de 106%. Com uma base menor que 36, a porcentagem fica ainda maior.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Confunde o aumento absoluto com o percentual: \\(74 - 36 = 38\\) milhões não significa 38%. A porcentagem compara o aumento com o valor inicial.",
+      "B": "Divide o aumento pelo valor final em vez do inicial: \\(\\dfrac{38}{74} \\approx 51\\%\\). O crescimento percentual usa o valor de 2016 como base.",
+      "C": "Usa como valor do Instagram em 2016 os 41 milhões do Twitter (4º lugar): \\(\\dfrac{74 - 41}{41} \\approx 80\\%\\). Mas o Instagram estava abaixo do 5º lugar, com menos de 36 milhões."
+    },
+    "tip": "Crescer mais de 100% é o mesmo que mais que dobrar: compare o valor final com o dobro do valor inicial."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma das etapas de tratamento da água de piscinas e também das águas para consumo humano é a adição de “cloro”, etapa denominada <b>cloração</b>. Porém, é interessante notar que nem sempre se adiciona cloro puro na água. Na maioria das vezes, adiciona-se uma solução de hipoclorito de sódio, conhecida como “cloro líquido”. Dependendo do objetivo que se pretende, são utilizadas soluções com concentrações diferentes. No tratamento de água para consumo humano, a solução de hipoclorito de sódio adicionada tem concentração em massa de 0,4 mg/L.</p><p class=\"fonte\">Disponível em: https://mundoeducacao.bol.uol.com.br. Acesso em: 30 jun. 2019 (adaptada).</p><p>Considere um recipiente no formato de um paralelepípedo, com medidas internas de 40 cm (comprimento), 10 cm (largura) e 20 cm (altura), conforme a figura a seguir. Observe que a altura da água dentro do recipiente não atinge os 20 cm, sobrando 8 cm de altura sem água.</p><p><img src=\"img/p2019/mat-q13.png\" alt=\"Recipiente transparente em forma de paralelepípedo retângulo, com as medidas 40 cm (comprimento, na frente, embaixo), 10 cm (largura, na lateral direita, embaixo) e 20 cm (altura, na lateral direita). A parte de baixo está cheia de água (região sombreada) e, acima da superfície da água, há uma faixa vazia cuja altura está marcada como 8 cm, à esquerda.\"></p><p class=\"fonte\">Disponível em: http://clubes.obmep.org.br. Acesso em: 30 jun. 2019.</p><p>Sabendo que a água contida nesse recipiente será destinada, exclusivamente, para consumo humano e atende às recomendações de tratamento mencionadas no texto inicial, a quantidade (em mg) de hipoclorito de sódio que deve ser adicionada é de</p>",
+    "options": {
+      "A": "1,92.",
+      "B": "2,48.",
+      "C": "3,96.",
+      "D": "4,80."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A água não enche o recipiente: dos 20 cm de altura, 8 cm ficam vazios. A altura da água é \\(20 - 8 = 12\\) cm.</p><p>O volume de água é o de um paralelepípedo (comprimento × largura × altura):</p><p>\\[V = 40 \\cdot 10 \\cdot 12 = 4.800 \\text{ cm}^3\\]</p><p>Como \\(1 \\text{ L} = 1 \\text{ dm}^3 = 1.000 \\text{ cm}^3\\), temos \\(4.800 \\text{ cm}^3 = 4{,}8\\) L.</p><p>A concentração é de 0,4 mg para cada litro. Para 4,8 L:</p><p>\\[4{,}8 \\cdot 0{,}4 = 1{,}92 \\text{ mg}\\]</p><p>Atenção: usar a altura inteira de 20 cm (8 L e 3,2 mg) ou os 8 cm vazios (3,2 L e 1,28 mg) leva a valores que nem estão nas alternativas. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Corresponderia a \\(2{,}48 \\div 0{,}4 = 6{,}2\\) L de água, volume que não sai da figura: a água ocupa 4,8 L, o recipiente inteiro 8 L e a parte vazia 3,2 L.",
+      "C": "Corresponderia a \\(3{,}96 \\div 0{,}4 = 9{,}9\\) L, mais do que cabe no recipiente inteiro (\\(40 \\cdot 10 \\cdot 20 = 8.000\\) cm³, ou 8 L). É impossível.",
+      "D": "4,8 é o volume de água em litros: faltou multiplicar pela concentração de 0,4 mg/L."
+    },
+    "tip": "Lembre que 1 L = 1.000 cm³: calcule o volume em litros e multiplique pela concentração em mg/L."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Ao se aposentar, Marcos decide comprar um lote retangular em uma área rural para construir seu sítio. O terreno apresenta 60 m de comprimento por 32 m de largura. Marcos planeja construir uma casa, uma horta e uma garagem, além de deixar espaço para uma área de lazer com 480 m². Observe a figura com a situação descrita:</p><p><img src=\"img/p2019/mat-q14.png\" alt=\"Retângulo que representa o terreno, com 60 m indicados na base (comprimento) e 32 m indicados no lado esquerdo (largura). Um segmento vertical e um segmento horizontal dividem o terreno em quatro retângulos. Na faixa de cima: ÁREA DE LAZER à esquerda e CASA à direita, com a medida horizontal da casa indicada como 3x acima dela. Na faixa de baixo: HORTA à esquerda (logo abaixo da área de lazer) e GARAGEM à direita (logo abaixo da casa), com a medida vertical dessa faixa de baixo indicada como x, ao lado direito da garagem.\"></p><p>Sabendo que o comprimento da casa (\\(3x\\)) é o triplo da largura da garagem (\\(x\\)), com \\(x\\) em metros, conclui-se que o perímetro da parte destinada para a horta é igual a</p>",
+    "options": {
+      "A": "48 m.",
+      "B": "56 m.",
+      "C": "64 m.",
+      "D": "72 m."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Organize as medidas da figura. A casa tem comprimento \\(3x\\) e a faixa de baixo (horta e garagem) tem altura \\(x\\). Então:</p><ul><li>comprimento da área de lazer (que é o mesmo da horta): \\(60 - 3x\\);</li><li>altura da área de lazer: \\(32 - x\\).</li></ul><p>A área de lazer mede 480 m²:</p><p>\\[(60 - 3x)(32 - x) = 480\\]</p><p>Desenvolvendo: \\(1.920 - 60x - 96x + 3x^2 = 480\\), ou seja, \\(3x^2 - 156x + 1.440 = 0\\). Dividindo tudo por 3:</p><p>\\[x^2 - 52x + 480 = 0\\]</p><p>Por soma e produto, procuramos dois números com soma 52 e produto 480: são 12 e 40. (Por Bhaskara: \\(\\Delta = 52^2 - 4 \\cdot 480 = 2.704 - 1.920 = 784\\), \\(\\sqrt{784} = 28\\) e \\(x = \\dfrac{52 \\pm 28}{2}\\), que dá 40 ou 12.)</p><p>O valor \\(x = 40\\) não serve: a casa teria \\(3 \\cdot 40 = 120\\) m de comprimento, mais que os 60 m do terreno. Logo, \\(x = 12\\).</p><p>A horta tem comprimento \\(60 - 3 \\cdot 12 = 24\\) m e largura \\(x = 12\\) m. Seu perímetro é</p><p>\\[2 \\cdot (24 + 12) = 72 \\text{ m}\\]</p><p>Confira a área de lazer: \\(24 \\cdot (32 - 12) = 24 \\cdot 20 = 480\\) m². Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É \\(2 \\cdot 24\\): somou só os dois lados de 24 m e esqueceu os dois lados de 12 m (ou tratou a horta como um quadrado de lado 12, \\(4 \\cdot 12 = 48\\)).",
+      "B": "Um perímetro de 56 m, com a largura de 12 m, exigiria uma horta de 16 m de comprimento (\\(2 \\cdot (16 + 12) = 56\\)). Mas então a área de lazer teria \\(16 \\cdot 20 = 320\\) m², e não 480 m². O comprimento correto da horta é \\(60 - 36 = 24\\) m.",
+      "C": "É \\(2 \\cdot (20 + 12)\\): usou 20 m, que é a altura da área de lazer (\\(32 - 12\\)), no lugar do comprimento da horta, que é \\(60 - 36 = 24\\) m."
+    },
+    "tip": "Em equação do 2º grau com medidas, teste as duas raízes na figura e descarte a que deixa um lado negativo ou maior que o terreno."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um programa de auditório, Allan participará de um jogo de perguntas e respostas com as seguintes regras:</p><ul><li>a cada resposta correta, o jogador ganha 3 pontos;</li><li>a cada resposta incorreta, o jogador perde 4 pontos; e</li><li>ao completar 15 pontos positivos, o objetivo é alcançado e o jogo se encerra.</li></ul><p>Sabendo que Allan alcançou o objetivo ao responder a 12ª questão, a razão entre o número de acertos e o número de erros de suas respostas é</p>",
+    "options": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(a\\) o número de acertos e de \\(e\\) o número de erros. Ele respondeu 12 questões:</p><p>\\[a + e = 12\\]</p><p>Cada acerto soma 3 pontos e cada erro tira 4. Ao terminar, ele tinha exatamente 15 pontos:</p><p>\\[3a - 4e = 15\\]</p><p>Da primeira equação, \\(e = 12 - a\\). Substituindo na segunda:</p><p>\\[3a - 4(12 - a) = 15 \\;\\Rightarrow\\; 3a - 48 + 4a = 15 \\;\\Rightarrow\\; 7a = 63 \\;\\Rightarrow\\; a = 9\\]</p><p>Logo, \\(e = 12 - 9 = 3\\).</p><p>Confira: \\(9 \\cdot 3 - 3 \\cdot 4 = 27 - 12 = 15\\) pontos. Uma ordem possível: acertar 4, errar 3 e acertar as 5 últimas; os pontos vão a 12, caem a 0 e só chegam a 15 na 12ª questão.</p><p>A razão entre acertos e erros é \\(\\dfrac{9}{3} = 3\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Razão 1 significa 6 acertos e 6 erros: \\(6 \\cdot 3 - 6 \\cdot 4 = 18 - 24 = -6\\) pontos, longe dos 15.",
+      "B": "Razão 2 significa 8 acertos e 4 erros: \\(8 \\cdot 3 - 4 \\cdot 4 = 24 - 16 = 8\\) pontos, e não 15.",
+      "D": "É \\(12 \\div 3\\): dividiu o total de questões pelo número de erros, em vez de dividir os acertos (9) pelos erros (3)."
+    },
+    "tip": "Duas informações (total de questões e total de pontos) viram duas equações: monte o sistema e confira a resposta recalculando os pontos."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um feirante compra laranjas pagando R$ 7,50 para cada 2 kg e as revende ao preço de R$ 30,00 para cada 6 kg.</p><p>Para obter um lucro de R$ 500,00 com essas laranjas, esse comerciante deve comprar e revender</p>",
+    "options": {
+      "A": "120 kg.",
+      "B": "250 kg.",
+      "C": "340 kg.",
+      "D": "400 kg."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A compra e a venda usam pacotes diferentes (2 kg e 6 kg). Então calcule o preço de 1 kg em cada caso.</p><ul><li>Compra: R$ 7,50 por 2 kg, então 1 kg custa R$ 7,50 ÷ 2 = R$ 3,75.</li><li>Venda: R$ 30,00 por 6 kg, então 1 kg sai por R$ 30,00 ÷ 6 = R$ 5,00.</li></ul><p>Lucro em cada quilo: R$ 5,00 menos R$ 3,75, que dá R$ 1,25.</p><p>Para lucrar R$ 500,00, divida: \\(500 \\div 1{,}25 = 400\\) kg.</p><p>Sem calculadora: 4 kg dão lucro de \\(4 \\cdot 1{,}25 = 5\\) reais. Como R$ 500,00 é 100 vezes R$ 5,00, são \\(100 \\cdot 4 = 400\\) kg.</p><p>Confira: 400 kg custam 400 × R$ 3,75 = R$ 1.500,00 e são vendidos por 400 × R$ 5,00 = R$ 2.000,00. O lucro é R$ 500,00. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Com 120 kg o lucro seria só 120 × R$ 1,25 = R$ 150,00, bem menos que R$ 500,00.",
+      "B": "Corresponderia a um lucro de R$ 2,00 por quilo (\\(500 \\div 250 = 2\\)). Mas o lucro real é de R$ 1,25 por quilo, e com 250 kg ele lucraria só 250 × R$ 1,25 = R$ 312,50.",
+      "C": "Com 340 kg o lucro seria 340 × R$ 1,25 = R$ 425,00, ainda abaixo de R$ 500,00."
+    },
+    "tip": "Quando compra e venda usam quantidades diferentes, reduza tudo ao preço de 1 unidade (aqui, 1 kg) antes de comparar."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para incentivar o turismo, o prefeito de uma cidade decide criar uma tirolesa ligando duas montanhas do Parque Ecológico Municipal. Um engenheiro foi contratado para projetar a atração e precisa saber quantos metros de cabo de aço necessitará para ligar os topos dessas duas montanhas.</p><p>Para facilitar esses cálculos, o engenheiro criou, em seu projeto, os triângulos equiláteros ABC e DEF, pertencentes a um mesmo plano vertical, em que A e D representam os topos das montanhas e os pontos B, C, E e F estão alinhados no plano horizontal. Observe a figura a seguir com a situação descrita:</p><p><img src=\"img/p2019/mat-q17.png\" alt=\"Duas montanhas sombreadas apoiadas sobre uma reta horizontal. A montanha da esquerda, maior, está contornada pelo triângulo tracejado ABC, com o topo no vértice A e a base BC sobre a reta. A montanha da direita, menor, está contornada pelo triângulo tracejado DEF, com o topo no vértice D e a base EF sobre a reta. Da esquerda para a direita, os pontos sobre a reta são B, C, E e F, e há um espaço entre C e E. Um cabo reto liga o ponto A ao ponto D, que está mais baixo, e uma pessoa desce pendurada nele.\"></p><p>Sabendo que os triângulos equiláteros ABC e DEF têm, respectivamente, 32 metros e 16 metros de lado; e que a distância entre os pontos C e E é de 23 metros, a medida de cabo de aço (AD), em metros, que o engenheiro encontrará será de</p>",
+    "options": {
+      "A": "47.",
+      "B": "49.",
+      "C": "51.",
+      "D": "53."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Num triângulo equilátero, o vértice de cima fica exatamente acima do ponto médio da base. Use isso para achar a distância horizontal entre A e D:</p><ul><li>A fica acima do meio de BC, a \\(32 \\div 2 = 16\\) m de C;</li><li>D fica acima do meio de EF, a \\(16 \\div 2 = 8\\) m de E.</li></ul><p>Distância horizontal entre A e D: \\(16 + 23 + 8 = 47\\) m.</p><p>Agora as alturas. A altura de um triângulo equilátero de lado \\(\\ell\\) é \\(\\dfrac{\\ell\\sqrt{3}}{2}\\):</p><ul><li>altura de A: \\(\\dfrac{32\\sqrt{3}}{2} = 16\\sqrt{3}\\) m;</li><li>altura de D: \\(\\dfrac{16\\sqrt{3}}{2} = 8\\sqrt{3}\\) m.</li></ul><p>Diferença de altura entre A e D: \\(16\\sqrt{3} - 8\\sqrt{3} = 8\\sqrt{3}\\) m.</p><p>O cabo AD é a hipotenusa de um triângulo retângulo com catetos 47 (horizontal) e \\(8\\sqrt{3}\\) (vertical). Por Pitágoras:</p><p>\\[AD^2 = 47^2 + (8\\sqrt{3})^2 = 2.209 + 64 \\cdot 3 = 2.209 + 192 = 2.401\\]</p><p>Como \\(49^2 = (50 - 1)^2 = 2.500 - 100 + 1 = 2.401\\), temos \\(AD = 49\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "47 m é só a distância horizontal entre A e D. Faltou considerar que A é mais alto que D: o cabo é a hipotenusa, maior que 47.",
+      "C": "Para dar 51, o cateto vertical teria de medir \\(\\sqrt{51^2 - 47^2} = \\sqrt{392} \\approx 19{,}8\\) m, mas a diferença real de alturas é \\(8\\sqrt{3} \\approx 13{,}9\\) m.",
+      "D": "Para dar 53, o cateto vertical teria de medir \\(\\sqrt{53^2 - 47^2} = \\sqrt{600} \\approx 24{,}5\\) m, quase o dobro da diferença real de alturas, \\(8\\sqrt{3} \\approx 13{,}9\\) m."
+    },
+    "tip": "Para ligar dois pontos em alturas diferentes, monte um triângulo retângulo: a distância horizontal e a diferença de altura são os catetos."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O Colégio Pedro II disponibilizou diversas salas de aula em seus campi para aplicação das provas do concurso de estudantes deste ano. Para arrumar tais salas, seis pessoas trabalharam por três dias.</p><p>Para que a mesma quantidade total de salas de aula ficasse pronta em um único dia, o número de pessoas a mais que teriam que ajudar na arrumação, trabalhando no mesmo ritmo das anteriores, é de</p>",
+    "options": {
+      "A": "10.",
+      "B": "12.",
+      "C": "16.",
+      "D": "18."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Meça o trabalho em “pessoa-dias” (o quanto uma pessoa arruma em um dia). Seis pessoas trabalhando três dias fazem</p><p>\\[6 \\cdot 3 = 18 \\text{ pessoa-dias}\\]</p><p>Para fazer o mesmo trabalho em um único dia, são necessárias 18 pessoas, pois \\(18 \\cdot 1 = 18\\). (Pessoas e dias são inversamente proporcionais: dividir o tempo por 3 exige o triplo de pessoas, \\(6 \\cdot 3 = 18\\).)</p><p>A pergunta é quantas pessoas <b>a mais</b>: \\(18 - 6 = 12\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Com 10 a mais seriam 16 pessoas, que em um dia fazem só 16 dos 18 pessoa-dias necessários: o trabalho não ficaria pronto.",
+      "C": "Com 16 a mais seriam 22 pessoas, mais do que as 18 necessárias. Pode vir de \\(6 \\cdot 3 - 2\\), descontando os 2 dias economizados em vez das 6 pessoas que já trabalhavam.",
+      "D": "18 é o total de pessoas necessário para terminar em um dia. A pergunta pede quantas pessoas a mais, então é preciso descontar as 6 que já trabalhavam."
+    },
+    "tip": "Em problemas de trabalho, multiplique pessoas por dias para achar o trabalho total e leia com atenção se a pergunta pede o total ou quantos a mais."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Maria ganhou um quebra-cabeças matemático com oito peças geométricas, a saber:</p><ul><li>um quadrado (peça 4);</li><li>um triângulo retângulo isósceles (peça 6);</li><li>um paralelogramo (peça 7);</li><li>um trapézio retângulo (peça 8); e</li><li>quatro quartos de círculo de mesmo raio (peças 1, 2, 3 e 5).</li></ul><p>Uma das formas criadas por Maria foi um coração, de modo que os lados das peças coincidiram perfeitamente, sem sobras ou faltas, como representado na imagem a seguir:</p><p><img src=\"img/p2019/mat-q19.png\" alt=\"Coração formado pelas oito peças numeradas. No centro fica o quadrado (peça 4), inclinado, com um vértice apontando para cima. Os quartos de círculo 1 e 3 têm o vértice do ângulo reto no vértice esquerdo do quadrado 4 e, juntos, formam a parte arredondada do lado esquerdo do coração (a peça 1 em cima, com um raio sobre o lado superior esquerdo do quadrado, e a peça 3 à esquerda). Os quartos de círculo 2 e 5 têm o vértice do ângulo reto no vértice direito do quadrado 4 e formam a parte arredondada do lado direito (a peça 2 em cima, com um raio sobre o lado superior direito do quadrado, e a peça 5 à direita). Na parte de baixo do coração, que termina em ponta, ficam, da esquerda para a direita: o triângulo retângulo isósceles (peça 6), o paralelogramo (peça 7), com dois lados verticais, e o trapézio retângulo (peça 8). O lado vertical esquerdo da peça 7 desce do vértice esquerdo do quadrado 4, e o lado vertical que separa as peças 7 e 8 desce do vértice de baixo do quadrado 4 até a ponta do coração.\"></p><p class=\"fonte\">Disponível em: http://matematicaef2.blogspot.com. Acesso em: 25 jun. 2019.</p><p>Sabendo que o lado do quadrado (peça 4) mede 10 cm e adotando \\(\\pi = 3\\), a área do coração, em cm², é igual a</p>",
+    "options": {
+      "A": "700.",
+      "B": "800.",
+      "C": "900.",
+      "D": "1.000."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.circunferencia",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Separe o coração em duas partes: a parte arredondada (peças 1, 2, 3 e 5) e a parte reta (quadrado 4 e peças 6, 7 e 8).</p><p><b>Raio.</b> A peça 1 tem um dos raios apoiado sobre um lado do quadrado 4, que mede 10 cm. Como os quatro quartos de círculo têm o mesmo raio, todos têm raio 10 cm.</p><p><b>Parte arredondada.</b> Quatro quartos de círculo de mesmo raio formam, juntos, um círculo inteiro (as peças 1 e 3 formam um meio círculo, e as peças 2 e 5, outro). Com \\(\\pi = 3\\):</p><p>\\[\\pi r^2 = 3 \\cdot 10^2 = 300 \\text{ cm}^2\\]</p><p><b>Parte reta.</b> Observe a borda de cima à esquerda do quadrado 4: ela continua em linha reta pelo raio que separa as peças 3 e 6. Então, do vértice de cima do quadrado até a borda do coração, há \\(10 + 10 = 20\\) cm. Do lado direito acontece o mesmo (lado do quadrado mais o raio entre as peças 5 e 8). O ângulo no vértice de cima é reto, pois é um canto do quadrado 4. O ângulo onde esse raio encontra a borda de baixo também é reto: é o ângulo reto da peça 6 (do lado direito, é o ângulo reto do trapézio 8). Assim, a parte reta do coração é um quadrado grande, inclinado, de lado 20 cm:</p><p>\\[20^2 = 400 \\text{ cm}^2\\]</p><p>(Ele contém o quadrado 4, de 100 cm², e as peças 6, 7 e 8, que somam os outros 300 cm².)</p><p><b>Total:</b> \\(400 + 300 = 700\\) cm². Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Soma o quadrado 4 outra vez (\\(400 + 100 + 300 = 800\\)), esquecendo que ele já está dentro do quadrado grande de lado 20. Também dá 800 trocar cada quarto de círculo pelo quadrado de lado 10 que o contém (\\(400 + 4 \\cdot 100\\)).",
+      "C": "Com a parte reta valendo 400, sobrariam 500 cm² para os quatro quartos de círculo; mas eles formam um círculo de raio 10, de área \\(3 \\cdot 100 = 300\\). Para dar 500, seria preciso \\(\\pi = 5\\).",
+      "D": "Conta cada par de quartos de círculo (1 e 3, 2 e 5) como um círculo inteiro: \\(2 \\cdot 300 = 600\\) e \\(400 + 600 = 1.000\\). Na verdade, cada par forma só meio círculo."
+    },
+    "tip": "Em figuras montadas com peças, junte as peças em formas conhecidas: quatro quartos de círculo iguais formam um círculo inteiro."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No ano de 1999, o Banco Central Espanhol emitiu uma moeda comemorativa de prata de 1.500 pesetas (unidade monetária espanhola em 1999), que tinha o formato de um octógono regular com 1 cm de lado.</p><p><img src=\"img/p2019/mat-q20-a.jpg\" alt=\"Fotografias das duas faces da moeda de prata, que tem a forma de um octógono regular. Na face da esquerda estão escritos “1500”, “PESETAS” e “MILENIO”, ao lado da figura de um astronauta sobre o globo terrestre com caravelas. Na face da direita há o perfil de um homem, a inscrição “JUAN CARLOS I REY DE ESPAÑA” e o ano “1999”. Na lateral de cada foto aparece a marca d’água “uCoin.net”.\"></p><p class=\"fonte\">Disponível em: https://pt.ucoin.net. Acesso em: 1 ago. 2019.</p><p>Um colecionador armazenará esta moeda em uma caixa de base quadrada. Para isso, precisará determinar a distância entre os vértices A e D da representação a seguir.</p><p><img src=\"img/p2019/mat-q20-b.png\" alt=\"Octógono regular com os vértices nomeados no sentido anti-horário: A e B são as extremidades do lado horizontal de baixo (A à esquerda, B à direita); C e D, do lado vertical da direita (C embaixo, D em cima); E e F, do lado horizontal de cima (E à direita, F à esquerda); G e H, do lado vertical da esquerda (G em cima, H embaixo).\"></p><p>Considerando \\(\\sqrt{2} = 1{,}4\\), a medida do segmento AD, em centímetros, que o colecionador precisará calcular é igual, aproximadamente, a</p>",
+    "options": {
+      "A": "1,6.",
+      "B": "2,0.",
+      "C": "2,4.",
+      "D": "3,0."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Complete o octógono até formar um quadrado: em cada um dos quatro cantos falta um triângulo retângulo isósceles cuja hipotenusa é um lado do octógono (1 cm). Os lados inclinados fazem 45° com a horizontal, porque cada ângulo interno do octógono regular mede 135° e \\(180^\\circ - 135^\\circ = 45^\\circ\\).</p><p>Chame de \\(c\\) o cateto de cada canto. Por Pitágoras:</p><p>\\[c^2 + c^2 = 1^2 \\;\\Rightarrow\\; c = \\frac{1}{\\sqrt{2}} = \\frac{\\sqrt{2}}{2} \\approx \\frac{1{,}4}{2} = 0{,}7 \\text{ cm}\\]</p><p>Agora ligue A a D. Seja K o canto de baixo à direita do quadrado (o canto entre B e C). O triângulo AKD é retângulo em K, com catetos:</p><ul><li>\\(AK = AB + c \\approx 1 + 0{,}7 = 1{,}7\\) cm;</li><li>\\(KD = c + CD \\approx 0{,}7 + 1 = 1{,}7\\) cm.</li></ul><p>Os catetos são iguais, então AD é a diagonal de um quadrado de lado 1,7:</p><p>\\[AD \\approx 1{,}7 \\cdot \\sqrt{2} \\approx 1{,}7 \\cdot 1{,}4 = 2{,}38 \\approx 2{,}4 \\text{ cm}\\]</p><p>(Conta exata: \\(AD = \\left(1 + \\dfrac{\\sqrt{2}}{2}\\right)\\sqrt{2} = \\sqrt{2} + 1 \\approx 2{,}4\\).) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É impossível: só o cateto vertical do triângulo AKD já mede cerca de 1,7 cm, e a hipotenusa AD tem de ser maior que qualquer cateto.",
+      "B": "Aparece ao supor que o cateto de cada canto mede metade do lado (0,5 cm): os catetos ficariam 1,5 e \\(AD \\approx 1{,}5 \\cdot 1{,}4 = 2{,}1\\). Mas o cateto é \\(\\dfrac{\\sqrt{2}}{2} \\approx 0{,}7\\), porque a hipotenusa do canto é o lado de 1 cm.",
+      "D": "3,0 é o caminho pela borda, AB + BC + CD = 3 cm. O segmento reto AD é mais curto que esse caminho."
+    },
+    "tip": "Um octógono regular vira quadrado quando você completa os quatro cantos com triângulos retângulos isósceles de hipotenusa igual ao lado."
+  }
+]

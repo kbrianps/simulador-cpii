@@ -1,0 +1,587 @@
+[
+  {
+    "id": "dem-01",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Voto aos 16 anos: os jovens devem exercer esse direito mesmo sem serem obrigados?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação dos adolescentes de 16 e 17 anos nas eleições brasileiras. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um direito, não uma obrigação",
+        "body_html": "<p>No Brasil, a Constituição de 1988 estabelece que o voto é obrigatório para quem tem entre 18 e 70 anos e facultativo para os jovens de 16 e 17 anos, para os maiores de 70 e para os analfabetos. Isso significa que um adolescente pode tirar o título de eleitor e ajudar a escolher vereadores, prefeitos, deputados, senadores, governadores e o presidente da República, mas não sofre nenhuma penalidade se preferir esperar. A decisão, portanto, fica nas mãos do próprio jovem, que precisa avaliar se já se sente preparado para participar dessa escolha coletiva.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na saída da escola",
+        "body_html": "<p><strong>Rafael, 16 anos:</strong> “Tirei meu título assim que pude. As decisões dos políticos afetam minha escola, meu ônibus, meu futuro. Por que eu esperaria?”</p><p><strong>Júlia, 17 anos:</strong> “Ainda não me sinto segura. Não acompanho as notícias e tenho medo de votar em alguém só porque meus amigos votam.”</p><p><strong>Caio, 16 anos:</strong> “Acho que a gente só aprende a votar votando. Ninguém se sente totalmente pronto, nem os adultos.”</p><p><strong>Letícia, 17 anos:</strong> “Eu vou votar, mas antes quero entender o que cada cargo faz.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que tipo de preparo alguém precisa ter para votar de forma consciente? Esse preparo depende da idade?",
+      "Quais decisões políticas afetam diretamente a vida de quem tem 16 ou 17 anos?",
+      "Que papel a escola e a família podem ter na formação política dos adolescentes?",
+      "Deixar de votar também é uma forma de se posicionar? Quais são as consequências dessa escolha?"
+    ],
+    "argument_paths": [
+      "Tese favorável: o jovem deve votar, pois as decisões públicas sobre educação, transporte e emprego afetam diretamente sua vida, e participar cedo cria o hábito da cidadania.",
+      "Tese favorável com condição: o voto aos 16 anos é valioso, mas só se vier acompanhado de informação; por isso, escola e família devem incentivar o debate político sem impor opiniões.",
+      "Tese contrária à pressa: votar sem se informar pode ser pior do que esperar; o jovem que ainda não se sente preparado age com responsabilidade ao adiar a decisão e usar esse tempo para se informar.",
+      "Tese intermediária: mais importante do que votar aos 16 anos é ocupar outras formas de participação, como o grêmio, os debates e o acompanhamento de propostas, que preparam para um voto consciente."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 14, § 1º",
+        "how": "Estabelece que o alistamento eleitoral e o voto são obrigatórios para os maiores de 18 anos e facultativos para os analfabetos, os maiores de 70 anos e os maiores de 16 e menores de 18 anos. Foi a primeira Constituição brasileira a garantir o voto aos jovens de 16 e 17 anos. Serve para apresentar o tema com precisão na introdução."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, parágrafo único",
+        "how": "Afirma que todo o poder emana do povo. Pode sustentar a ideia de que a participação dos jovens fortalece a soberania popular."
+      },
+      {
+        "ref": "Estatuto da Juventude (Lei nº 12.852/2013)",
+        "how": "Considera jovens as pessoas entre 15 e 29 anos e reconhece o direito à participação social e política. Útil para mostrar que a legislação valoriza o protagonismo juvenil."
+      }
+    ],
+    "pitfalls": [
+      "Discutir o voto obrigatório dos adultos ou fazer análise de partidos e candidatos, em vez de tratar da participação dos jovens de 16 e 17 anos.",
+      "Defender a posição apenas com frases feitas, como “o jovem é o futuro do país”, sem explicar o porquê.",
+      "Fazer propaganda política ou atacar pessoas e partidos específicos, o que desvia o foco do tema."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "dem-02",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Até onde deve ir a participação dos estudantes nas decisões da escola?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação dos estudantes na vida e nas decisões da escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola e assinada apenas como “Um estudante” ou “Uma estudante”, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é um grêmio",
+        "body_html": "<p>O grêmio estudantil é uma organização formada pelos próprios alunos para representá-los dentro da escola. Seus integrantes costumam ser escolhidos em eleições, com chapas, propostas e debates, como acontece na política da cidade e do país. No Brasil, o direito de organizar grêmios é garantido por lei federal desde 1985. Um grêmio pode promover atividades culturais e esportivas, levar reclamações e sugestões à direção e participar de discussões sobre as regras da escola. Seu alcance, porém, depende do espaço que a comunidade escolar está disposta a abrir para ele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Assembleia no pátio",
+        "body_html": "<p>Na escola de Marina, a direção decidiu fechar a quadra durante o recreio, depois de alguns acidentes. Parte dos alunos ficou revoltada: ninguém tinha sido consultado. O grêmio convocou uma assembleia no pátio. Alguns defenderam um abaixo-assinado contra a medida; outros admitiram que as partidas no intervalo andavam perigosas mesmo. No fim, os estudantes aprovaram uma proposta: pedir uma reunião com a direção para sugerir regras de uso da quadra, com revezamento entre as turmas e um monitor escolhido pelos próprios alunos, em vez de simplesmente aceitar ou rejeitar a decisão.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes da comunidade escolar",
+        "body_html": "<p><strong>Uma professora:</strong> “Quando os alunos participam das decisões, cuidam mais da escola, porque sentem que ela também é deles.”</p><p><strong>Um pai de aluno:</strong> “Participar é bom, mas algumas decisões exigem experiência e responsabilidade que os estudantes ainda não têm. Não dá para tudo ser votado por eles.”</p><p><strong>Um estudante do 9º ano:</strong> “Não queremos mandar na escola. Queremos ser ouvidos antes que as regras mudem.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Em quais assuntos da escola a opinião dos estudantes deveria ser ouvida? Em quais a decisão cabe principalmente aos adultos?",
+      "Qual é a diferença entre ser consultado, participar da decisão e decidir sozinho?",
+      "Como a experiência de participar da vida escolar pode preparar o estudante para a vida em uma sociedade democrática?",
+      "Que argumentos poderiam convencer a direção da sua escola, e não apenas os seus colegas?"
+    ],
+    "argument_paths": [
+      "Participação ampla fortalece a escola: estudantes ouvidos se comprometem mais com as regras e com o cuidado do espaço, e a escola se torna um laboratório de cidadania.",
+      "Participação com limites claros: os estudantes devem ser consultados sobre regras de convivência, eventos e uso dos espaços, mas decisões pedagógicas e de segurança cabem à equipe da escola.",
+      "Participação como aprendizado gradual: a escola deve criar canais, como grêmio, representantes de turma e conselho escolar, e ampliar a responsabilidade dos alunos à medida que eles demonstram organização.",
+      "Posição cautelosa: sem preparo e informação, a participação pode virar disputa de popularidade; por isso, antes de ampliar o poder de decisão, é preciso formar os estudantes para o debate."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 7.398/1985 (Lei do Grêmio Livre)",
+        "how": "Assegura aos estudantes o direito de se organizarem em grêmios estudantis. Pode ser citada para mostrar à direção que o grêmio é um direito, e não um favor."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53, inciso IV",
+        "how": "Garante ao estudante o direito de organização e participação em entidades estudantis. Reforça a base legal do argumento da carta."
+      },
+      {
+        "ref": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), art. 14",
+        "how": "Trata da gestão democrática do ensino público na educação básica e prevê a participação das comunidades escolar e local em conselhos escolares ou equivalentes. Útil para defender canais formais de participação, sobretudo se a sua escola for pública."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer a estrutura de carta: faltar local e data, vocativo (por exemplo, “Prezada Direção”), despedida ou assinatura.",
+      "Assinar com o próprio nome ou incluir dados que identifiquem o candidato, como turma ou escola: o edital do CPII proíbe registrar nome ou assinatura na folha de redação, sob pena de anulação da prova. Feche a carta apenas com “Um estudante” ou “Uma estudante”.",
+      "Transformar a carta em uma lista de reclamações ou usar tom agressivo, em vez de argumentar com respeito para convencer o destinatário."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "dem-03",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Desinformação na internet: de quem é a responsabilidade de impedir que notícias falsas prejudiquem a democracia?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a circulação de notícias falsas e seus efeitos sobre a vida democrática. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Por que a mentira corre",
+        "body_html": "<p>Notícias falsas costumam ser feitas para provocar emoções fortes, como medo, raiva ou indignação. Por isso, muitas pessoas as compartilham antes mesmo de verificar se são verdadeiras. Nas redes sociais, os conteúdos que geram mais reações tendem a ganhar mais visibilidade, o que ajuda a espalhar boatos. Em períodos de eleição, a desinformação pode confundir os eleitores sobre candidatos, propostas e até sobre o funcionamento do voto. Quando os cidadãos já não sabem em que acreditar, fica mais difícil debater problemas comuns e tomar decisões coletivas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "No grupo da família",
+        "body_html": "<p><strong>Lívia:</strong> Vó, aquele vídeo que a senhora mandou no grupo é falso. Pesquisei e não achei nenhum site sério falando disso.</p><p><strong>Avó:</strong> Mas quem me mandou foi a Dona Cida, que é uma pessoa de confiança!</p><p><strong>Lívia:</strong> Ela deve ter recebido de outra pessoa, que recebeu de outra... Ninguém sabe quem fez.</p><p><strong>Avó:</strong> E como eu vou saber o que é verdade, minha filha? Eu não entendo dessas coisas de internet.</p><p><strong>Lívia:</strong> Posso te ensinar umas dicas. Mas as empresas das redes também deviam ajudar, né?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três respostas para o mesmo problema",
+        "body_html": "<p>Para alguns, a solução está na <strong>educação</strong>: se as pessoas aprenderem a checar fontes e a desconfiar de manchetes exageradas, a mentira perde força. Outros defendem que as <strong>plataformas digitais</strong> sejam responsabilizadas, já que lucram com o conteúdo que circula nelas. Há ainda quem aposte em <strong>leis mais rígidas</strong> contra quem produz desinformação. Os críticos desta última proposta, porém, fazem um alerta: quem decide o que é falso? Regras mal formuladas podem acabar servindo para calar opiniões legítimas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que uma notícia falsa pode parecer mais atraente do que uma verdadeira?",
+      "Qual é a responsabilidade de quem compartilha um conteúdo sem verificar? E de quem o produz?",
+      "Combater a desinformação pode entrar em conflito com a liberdade de expressão? Como equilibrar essas duas coisas?",
+      "Que papel a escola pode ter na formação de leitores críticos das informações da internet?"
+    ],
+    "argument_paths": [
+      "A responsabilidade principal é de cada cidadão: verificar antes de compartilhar é um dever de quem vive em uma democracia, e a educação midiática deve começar na escola.",
+      "A responsabilidade maior é das plataformas digitais, que lucram com o engajamento e têm meios técnicos para reduzir a circulação de conteúdos enganosos.",
+      "O combate exige ação conjunta: Estado, plataformas, imprensa, escolas e cidadãos precisam agir juntos, porque nenhum deles, sozinho, resolve o problema.",
+      "Posição cautelosa quanto às leis: regras contra a desinformação são necessárias, mas precisam ser muito precisas para não se tornarem instrumento de censura."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, incisos IV e IX",
+        "how": "O inciso IV garante a livre manifestação do pensamento, vedado o anonimato; o IX, a livre expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença. Ajudam a discutir o equilíbrio entre combater mentiras e preservar a liberdade."
+      },
+      {
+        "ref": "Marco Civil da Internet (Lei nº 12.965/2014)",
+        "how": "Estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. Pode ser citado para mostrar que a internet não é um espaço sem regras."
+      },
+      {
+        "ref": "Escolha de “pós-verdade” (post-truth) como palavra do ano pelos Dicionários Oxford, em 2016",
+        "how": "O termo descreve situações em que os fatos objetivos influenciam menos a opinião pública do que os apelos à emoção e às crenças pessoais. Mostra que o fenômeno é reconhecido mundialmente."
+      },
+      {
+        "ref": "Estudo “The spread of true and false news online”, de pesquisadores do MIT, publicado na revista Science em 2018",
+        "how": "Ao analisar boatos checados que circularam no Twitter entre 2006 e 2017, os autores concluíram que as notícias falsas se espalhavam mais longe e mais rápido do que as verdadeiras, tinham 70% mais chance de ser compartilhadas e que essa diferença se devia às pessoas, e não aos robôs. Sustenta o argumento da responsabilidade de quem compartilha."
+      }
+    ],
+    "pitfalls": [
+      "Falar genericamente sobre os perigos da internet, como vício ou cyberbullying, sem relacionar a desinformação à democracia.",
+      "Não responder à pergunta do tema: é preciso indicar claramente de quem é, ou de quem são, as responsabilidades.",
+      "Citar como exemplo notícias falsas específicas sem ter certeza dos fatos, o que enfraquece a credibilidade do texto."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "dem-04",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "É possível exercer a cidadania no dia a dia, para além do voto?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o significado de ser cidadão e as formas de participação na vida em sociedade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma palavra antiga",
+        "body_html": "<p>A palavra “cidadania” está ligada ao latim <em>civitas</em>, termo que designava a cidade e o conjunto de seus cidadãos. Na Antiguidade, a participação política era restrita: em Atenas, por exemplo, só uma parte dos homens adultos podia votar nas assembleias, enquanto mulheres, estrangeiros e escravizados ficavam de fora. Com o tempo, a ideia se ampliou, e hoje costuma ser entendida como o conjunto de direitos e deveres que ligam uma pessoa à comunidade em que vive. Votar é parte importante disso, mas não a única. A cidadania também envolve conhecer os próprios direitos, respeitar os dos outros e participar das questões que afetam a vida coletiva.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um sábado qualquer",
+        "body_html": "<p>Sábado de manhã, Pedro acorda cedo para ajudar no mutirão de limpeza da praça do bairro, organizado pela associação de moradores. À tarde, participa de uma conversa on-line sobre a falta de iluminação na rua da escola e assina um pedido à prefeitura. À noite, quando o irmão mais velho reclama que “política é tudo igual e não adianta nada”, Pedro responde que só vai votar daqui a alguns anos, mas que já faz política todo fim de semana. O irmão ri: “Isso não é política, é boa vontade.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que diferencia uma atitude cidadã de uma simples gentileza ou boa ação?",
+      "Quais formas de participação existem além do voto? Quais delas estão ao alcance de um adolescente?",
+      "Quem tem razão no Texto II, Pedro ou o irmão dele? Por quê?",
+      "Existem obstáculos que dificultam a participação cotidiana, como falta de tempo, de informação ou de espaços de diálogo?"
+    ],
+    "argument_paths": [
+      "Sim: a cidadania se exerce todos os dias, ao cumprir deveres, respeitar direitos alheios, fiscalizar o poder público e se organizar coletivamente; o voto é apenas um desses momentos.",
+      "Sim, com ressalva: atitudes individuais são importantes, mas só se tornam cidadania plena quando se ligam a ações coletivas e à cobrança do poder público.",
+      "Posição crítica: o discurso da “cidadania do dia a dia” pode transferir ao indivíduo responsabilidades que são do Estado; sem políticas públicas, a boa vontade não basta.",
+      "A participação cotidiana depende de condições: quem não tem acesso a informação, tempo livre ou direitos básicos encontra mais dificuldade para participar, o que exige políticas de inclusão."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, parágrafo único",
+        "how": "Afirma que todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente. Sustenta a ideia de que a participação não se limita às eleições."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 14",
+        "how": "Prevê que a soberania popular é exercida pelo voto direto e secreto e também por plebiscito, referendo e iniciativa popular, exemplos concretos de participação direta."
+      },
+      {
+        "ref": "Lei da Ficha Limpa (Lei Complementar nº 135/2010)",
+        "how": "Nasceu de uma campanha da sociedade civil que reuniu mais de um milhão de assinaturas em apoio a um projeto de lei de iniciativa popular. É um exemplo de como a mobilização dos cidadãos pode influenciar a criação de leis."
+      },
+      {
+        "ref": "José Murilo de Carvalho, “Cidadania no Brasil: o longo caminho” (2001)",
+        "how": "O historiador mostra que, no Brasil, os direitos sociais foram ampliados antes dos direitos políticos e civis, em ordem inversa à observada na Inglaterra, e que muitos direitos civis ainda não chegam a toda a população. Ajuda a mostrar que a cidadania é uma construção histórica, ainda incompleta."
+      }
+    ],
+    "pitfalls": [
+      "Apenas listar boas ações, como não jogar lixo no chão ou ajudar idosos, sem explicar por que elas seriam formas de cidadania.",
+      "Tratar só do voto e das eleições, esquecendo a expressão “para além do voto”, que é o centro do tema.",
+      "Confundir cidadania com caridade individual, sem mencionar direitos, deveres e participação coletiva."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "dem-05",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Polarização política: como discordar sem transformar quem pensa diferente em inimigo?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a convivência entre pessoas com opiniões políticas diferentes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O almoço de domingo",
+        "body_html": "<p>Na casa de Bianca, o almoço de domingo mudou. Antes, a família conversava sobre futebol, novela e escola. Depois de uma eleição muito disputada, um tio parou de frequentar os encontros, e duas primas deixaram de se falar por causa de uma discussão em rede social. Agora, a regra da avó é clara: ninguém fala de política à mesa. Bianca sente alívio, mas também estranheza. Afinal, na escola ela aprendeu que conversar sobre os problemas do país faz parte da democracia.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Adversários, não inimigos",
+        "body_html": "<p>Em uma democracia, é natural que as pessoas tenham opiniões diferentes sobre economia, educação, segurança e muitos outros assuntos. O debate entre essas visões é o que permite comparar propostas e corrigir erros. O problema começa quando o adversário deixa de ser visto como alguém que pensa diferente e passa a ser tratado como uma ameaça a ser eliminada. Nesse cenário, os grupos param de ouvir uns aos outros, cada lado passa a consumir apenas informações que confirmam o que já pensa, e o diálogo dá lugar à hostilidade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três opiniões",
+        "body_html": "<p><strong>Opinião 1:</strong> “Evitar o assunto é a melhor forma de preservar as amizades e a família. Política não vale uma briga com quem a gente ama.”</p><p><strong>Opinião 2:</strong> “Há ideias que não merecem respeito, como as que negam os direitos de outras pessoas. Diante delas, não dá para ficar neutro.”</p><p><strong>Opinião 3:</strong> “Dá para discordar com firmeza e com respeito ao mesmo tempo. O que não dá é desistir de conversar.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre um adversário político e um inimigo?",
+      "Evitar falar de política é uma solução ou apenas adia o problema?",
+      "Existem limites para o respeito a opiniões diferentes? Quais seriam?",
+      "Como as redes sociais podem intensificar ou reduzir a polarização?",
+      "Que atitudes práticas ajudam a manter o diálogo com quem pensa diferente?"
+    ],
+    "argument_paths": [
+      "O respeito ao pluralismo, a escuta atenta e a separação entre ideias e pessoas permitem discordar sem romper laços; a escola pode ensinar essas habilidades por meio de debates organizados.",
+      "O diálogo exige esforço consciente: as redes sociais favorecem bolhas e reações impulsivas, por isso é preciso mudar a forma como consumimos e compartilhamos informação.",
+      "O respeito tem limites: é possível conviver com opiniões diferentes, mas não com discursos que negam a dignidade ou os direitos de outras pessoas; tolerar tudo seria abrir mão da própria democracia.",
+      "Silenciar não é a solução: evitar o assunto preserva a paz momentânea, mas empobrece a democracia, que depende de cidadãos capazes de debater."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, inciso V",
+        "how": "Aponta o pluralismo político como um dos fundamentos da República. Mostra que a diversidade de opiniões é parte essencial da democracia brasileira."
+      },
+      {
+        "ref": "Karl Popper, “A sociedade aberta e seus inimigos” (1945), e o chamado paradoxo da tolerância",
+        "how": "Popper argumenta que a tolerância ilimitada pode levar ao desaparecimento da própria tolerância, mas ressalva que, enquanto for possível enfrentar ideias intolerantes com argumentos e com a opinião pública, proibi-las não é o melhor caminho. Útil para discutir os limites do respeito a discursos intolerantes sem abandonar o diálogo."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), art. 19",
+        "how": "Garante a todos o direito à liberdade de opinião e expressão. Pode ser usada para defender que ninguém deve ser hostilizado apenas por pensar diferente."
+      }
+    ],
+    "pitfalls": [
+      "Defender um lado político específico ou atacar partidos e figuras públicas, em vez de discutir a convivência entre opiniões diferentes.",
+      "Ficar apenas na descrição do problema, como brigas em família e nas redes, sem propor caminhos para discordar sem hostilidade.",
+      "Confundir respeito com concordância: respeitar alguém não significa aceitar todas as suas ideias."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "dem-06",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Os limites e as possibilidades da participação política pelas redes sociais.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as formas de mobilização e de engajamento político no ambiente digital. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Da tela para a rua",
+        "body_html": "<p>As redes sociais mudaram a forma de participar da vida pública. Hoje, é possível assinar petições on-line, divulgar denúncias, organizar protestos e cobrar autoridades com poucos cliques. Movimentos que antes dependiam de panfletos e reuniões presenciais agora conseguem reunir apoiadores de várias cidades em pouco tempo. No Brasil, as manifestações de junho de 2013, que começaram como protestos contra o aumento das tarifas de transporte, foram em grande parte convocadas pela internet. Ao mesmo tempo, a facilidade de clicar levanta dúvidas sobre o quanto esse engajamento se transforma em mudança real.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Ativismo de sofá?",
+        "body_html": "<p><strong>Téo:</strong> Compartilhei a campanha contra o fechamento da biblioteca do bairro. Já fiz a minha parte!</p><p><strong>Nina:</strong> Compartilhar ajuda, mas será que alguém da prefeitura viu?</p><p><strong>Téo:</strong> Já tem um monte de curtidas. Eles vão ter que ouvir.</p><p><strong>Nina:</strong> Curtida não aparece na reunião da Câmara. Amanhã vai ter uma audiência pública sobre isso. Vamos?</p><p><strong>Téo:</strong> Amanhã não dá... Mas eu posso postar sobre a audiência!</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que tipos de participação política a internet tornou mais fáceis? Quais ela não substitui?",
+      "Curtir e compartilhar uma causa é uma forma de participação? Em que situações isso pode fazer diferença?",
+      "Quais riscos a mobilização pelas redes pode trazer, como a desinformação ou o engajamento passageiro?",
+      "Como transformar a mobilização on-line em ações concretas?"
+    ],
+    "argument_paths": [
+      "A participação digital amplia a democracia: dá voz a quem antes não era ouvido, facilita a organização de movimentos e permite fiscalizar autoridades.",
+      "A participação digital tem limites: sem ações concretas, como audiências, votações e organização coletiva, o engajamento on-line tende a ser superficial e passageiro.",
+      "As redes são ferramenta, não fim: seu valor depende do uso, e elas funcionam melhor quando conectam as pessoas a ações no mundo físico e a canais oficiais de participação.",
+      "Os riscos podem superar os ganhos quando a mobilização se baseia em informações falsas ou em ataques pessoais, o que exige responsabilidade de quem participa."
+    ],
+    "repertoire": [
+      {
+        "ref": "Manifestações de junho de 2013 (Jornadas de Junho)",
+        "how": "Protestos que começaram contra o aumento das tarifas de transporte e se espalharam pelo país, com forte convocação pelas redes sociais. Exemplo tanto do poder quanto da dispersão da mobilização digital."
+      },
+      {
+        "ref": "Primavera Árabe (2010-2011)",
+        "how": "Onda de protestos em países do Norte da África e do Oriente Médio em que as redes sociais tiveram papel importante na organização. Mostra o alcance da mobilização on-line e também seus limites, já que os resultados foram muito diferentes em cada país."
+      },
+      {
+        "ref": "Portal e-Cidadania do Senado Federal",
+        "how": "Canal oficial em que qualquer cidadão pode propor ideias legislativas e opinar sobre projetos em tramitação; uma ideia que recebe 20 mil apoios em até quatro meses passa a ser analisada pelos senadores como sugestão legislativa. Exemplo de como a participação digital pode se ligar às instituições."
+      }
+    ],
+    "pitfalls": [
+      "Falar das redes sociais em geral, como entretenimento, vício ou autoestima, sem tratar de participação política.",
+      "Abordar só as possibilidades ou só os limites, quando o tema pede que os dois aspectos sejam discutidos.",
+      "Usar exemplos de movimentos ou campanhas sem ter certeza dos fatos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "dem-07",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Pequenas transgressões do cotidiano, como furar fila ou colar na prova, enfraquecem a construção de uma sociedade democrática?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre as atitudes do dia a dia e o respeito às regras comuns. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Coisas pequenas?",
+        "body_html": "<p>Emprestar a carteirinha de estudante para o primo pagar meia-entrada no cinema. Estacionar “só por um minutinho” na vaga reservada a pessoas com deficiência. Pedir a um conhecido para passar na frente na fila do posto de saúde. Colar na prova porque “todo mundo cola”. Baixar filmes piratas. Muitas pessoas veem essas atitudes como inofensivas, espertas ou até engraçadas. Outras acreditam que elas revelam algo mais sério: a ideia de que as regras valem para os outros, mas podem ser dobradas quando nos convém.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Leis impessoais, relações pessoais",
+        "body_html": "<p>Estudiosos da sociedade brasileira já observaram que, no país, costuma haver uma tensão entre a lei, que deveria valer igualmente para todos, e as relações pessoais, que abrem exceções para amigos, parentes e conhecidos. O chamado “jeitinho” seria uma forma de contornar regras sem enfrentá-las diretamente. Para alguns, ele é uma expressão de criatividade diante de uma burocracia excessiva. Para outros, é um hábito que corrói a confiança entre as pessoas e dificulta a construção de uma sociedade em que todos tenham os mesmos direitos e deveres.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Existe diferença entre uma pequena transgressão e um grande ato de corrupção? Onde fica a fronteira?",
+      "Por que muitas pessoas criticam políticos desonestos, mas consideram normal furar fila?",
+      "O “jeitinho” pode ter um lado positivo, como a criatividade diante de problemas?",
+      "Como a família e a escola podem incentivar o respeito às regras comuns sem apelar apenas para a punição?"
+    ],
+    "argument_paths": [
+      "Sim: pequenas transgressões naturalizam a ideia de que as regras podem ser ignoradas por quem se acha esperto, o que alimenta a desigualdade e a desconfiança, bases de problemas maiores como a corrupção.",
+      "Sim, mas sem igualar tudo: comparar colar na prova a desviar dinheiro público é exagero; o importante é reconhecer que as duas atitudes partem da mesma lógica de privilégio, em escalas diferentes.",
+      "Depende do contexto: algumas transgressões surgem de regras injustas ou de serviços públicos que não funcionam; combatê-las exige também melhorar as instituições, e não só culpar os indivíduos.",
+      "A mudança começa pelo exemplo: se a democracia depende de regras que valem para todos, o compromisso com essas regras precisa ser praticado desde as pequenas escolhas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Sérgio Buarque de Holanda, “Raízes do Brasil” (1936), conceito de “homem cordial”",
+        "how": "O autor descreve a tendência de guiar-se pelas relações pessoais e afetivas também na vida pública. Atenção: “cordial” vem do latim cor, cordis (“coração”) e não quer dizer “educado” ou “gentil”. Útil para explicar a dificuldade de separar o público do privado."
+      },
+      {
+        "ref": "Roberto DaMatta, “O que faz o brasil, Brasil?” (1984)",
+        "how": "O antropólogo analisa o “jeitinho” e a malandragem como modos de navegar entre a lei impessoal e as relações pessoais. Ajuda a interpretar as pequenas transgressões como fenômeno cultural."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, caput",
+        "how": "Afirma que todos são iguais perante a lei. Pode sustentar o argumento de que abrir exceções para si mesmo contraria o princípio da igualdade."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas da corrupção de políticos, deixando de lado as atitudes do cotidiano, que são o foco do tema.",
+      "Adotar tom de sermão, apenas condenando as atitudes, sem argumentar por que elas afetam a vida democrática.",
+      "Generalizar, afirmando que “todo brasileiro é desonesto”, o que é preconceituoso e enfraquece a argumentação."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "dem-08",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "De que forma os moradores podem participar das decisões que afetam o seu bairro?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação da população nas decisões sobre os lugares onde vive. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A praça em disputa",
+        "body_html": "<p>A prefeitura anunciou que a única praça de um bairro será transformada em estacionamento. Os comerciantes aprovaram a ideia; os moradores mais velhos, que caminham ali todas as manhãs, ficaram indignados; os adolescentes, que usam a quadra no fim da tarde, só souberam da notícia quando as obras estavam para começar. Um grupo de vizinhos criou uma página na internet, outro procurou a associação de moradores, e alguém lembrou que a Câmara Municipal pode realizar audiências públicas. Mas quase ninguém sabia o que fazer para ser ouvido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Canais de participação",
+        "body_html": "<p>Além das eleições, existem outros caminhos para que a população influencie as decisões sobre a cidade. Associações de moradores reúnem vizinhos em torno de problemas comuns. Conselhos municipais, em áreas como saúde e educação, contam com representantes da sociedade civil. Audiências públicas abrem espaço para que a população se manifeste sobre projetos. Algumas cidades adotam o orçamento participativo, em que os moradores ajudam a definir onde parte dos recursos públicos será aplicada. Esses canais, porém, só funcionam quando são conhecidos, acessíveis e levados a sério pelos governantes.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais decisões do poder público afetam diretamente o seu bairro? Os moradores costumam ser ouvidos sobre elas?",
+      "Por que muitas pessoas não participam dos canais de participação que já existem?",
+      "Como conciliar interesses diferentes dentro de uma mesma comunidade?",
+      "De que maneira os adolescentes, que ainda não votam ou votam há pouco tempo, podem participar?"
+    ],
+    "argument_paths": [
+      "Organização coletiva: associações de moradores, abaixo-assinados e grupos comunitários dão força a reivindicações que, isoladas, seriam ignoradas.",
+      "Ocupação dos canais institucionais: audiências públicas, conselhos municipais e orçamento participativo precisam ser mais divulgados e mais frequentados pela população.",
+      "Responsabilidade do poder público: não basta esperar a iniciativa dos moradores; os governos devem consultar a comunidade de forma acessível antes de decidir.",
+      "Tecnologia como aliada: aplicativos e redes podem ampliar a participação, desde que não excluam quem não tem acesso à internet."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Cidade (Lei nº 10.257/2001), art. 43",
+        "how": "Para garantir a gestão democrática da cidade, prevê instrumentos como órgãos colegiados de política urbana, debates, audiências e consultas públicas, conferências e a iniciativa popular de projetos de lei. Mostra que a participação dos moradores é um direito previsto em lei."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 29, incisos XII e XIII",
+        "how": "Preveem a cooperação das associações representativas no planejamento municipal e a iniciativa popular de projetos de lei de interesse específico do município, da cidade ou de bairros, com a manifestação de pelo menos 5% do eleitorado. Mostram caminhos concretos para os moradores influírem nas decisões locais."
+      },
+      {
+        "ref": "Orçamento participativo de Porto Alegre, implantado em 1989",
+        "how": "Experiência em que a população passou a decidir, em assembleias, sobre parte dos investimentos da cidade. Tornou-se referência internacional de participação popular."
+      },
+      {
+        "ref": "Jane Jacobs, “Morte e vida de grandes cidades” (1961)",
+        "how": "A autora defende que as cidades sejam pensadas a partir da vida cotidiana das ruas e de quem as usa. Útil para argumentar que os moradores conhecem as necessidades do bairro melhor do que decisões tomadas de longe."
+      }
+    ],
+    "pitfalls": [
+      "Limitar-se a listar problemas do bairro, como buracos, lixo e violência, sem discutir formas de participação.",
+      "Atribuir toda a responsabilidade ao governo ou toda aos moradores, sem mostrar a relação entre os dois.",
+      "Propor soluções vagas, como “o povo deve se unir”, sem explicar como isso aconteceria na prática."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "dem-09",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "O papel da memória histórica na defesa da democracia brasileira.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre o conhecimento do passado e a valorização da democracia. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Vinte e um anos",
+        "body_html": "<p>Entre 1964 e 1985, o Brasil viveu uma ditadura militar. Nesse período, houve censura à imprensa e às artes, os partidos existentes foram extintos, as eleições diretas para presidente deixaram de acontecer, e opositores do regime foram perseguidos, presos e, em muitos casos, torturados; centenas foram mortos ou desapareceram. A volta à democracia foi resultado de um longo processo, que incluiu a mobilização popular pelas eleições diretas e culminou na Constituição de 1988. Para muitos historiadores, conhecer esse período é essencial para compreender o valor de direitos que hoje parecem garantidos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Olhar para trás ou para a frente?",
+        "body_html": "<p><strong>Estudante A:</strong> “Precisamos estudar o passado para não repetir os mesmos erros. Quem não conhece a história fica mais vulnerável a discursos autoritários.”</p><p><strong>Estudante B:</strong> “Concordo que é importante, mas a democracia se defende principalmente no presente, fazendo com que ela funcione para todos. Muita gente não a valoriza porque ela não resolve seus problemas.”</p><p><strong>Estudante C:</strong> “A memória não pode ficar só nos livros. Museus, lugares de memória e relatos de quem viveu a época tornam a história mais próxima dos jovens.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Uma visita",
+        "body_html": "<p>Durante uma excursão, uma turma do 9º ano visitou um prédio que, no passado, havia sido usado como local de prisão política. Na entrada, uma placa explicava o que tinha acontecido ali. Alguns alunos ficaram em silêncio por muito tempo; outros disseram que a visita foi mais marcante do que qualquer aula. Um colega, porém, comentou que aquilo era “coisa velha” e não tinha nada a ver com a vida dele. A professora propôs, então, uma pergunta para a aula seguinte: o que o passado tem a ver com a nossa liberdade de hoje?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que alguns direitos, como votar para presidente ou se expressar livremente, podem parecer “naturais” para quem nasceu depois de 1988?",
+      "De que maneiras a memória de um período histórico pode ser preservada e transmitida aos jovens?",
+      "Conhecer o passado é suficiente para defender a democracia, ou é preciso também melhorar o presente?",
+      "Como tratar temas históricos sensíveis na escola de forma rigorosa e respeitosa?"
+    ],
+    "argument_paths": [
+      "A memória protege a democracia: conhecer as violações do passado ajuda os cidadãos a reconhecer e rejeitar discursos autoritários no presente.",
+      "A memória precisa ser viva: museus, lugares de memória, depoimentos e o ensino de História tornam o passado significativo para os jovens, evitando que ele vire apenas uma data a decorar.",
+      "A memória não basta: a democracia também se defende no presente, com instituições que funcionem, redução das desigualdades e participação cidadã; sem isso, lembrar o passado tem efeito limitado.",
+      "O trabalho com a memória deve se apoiar em fontes, documentos e diferentes relatos, para que seja reconhecido como conhecimento histórico, e não como simples opinião."
+    ],
+    "repertoire": [
+      {
+        "ref": "Ato Institucional nº 5 (AI-5), de 13 de dezembro de 1968",
+        "how": "Endureceu o regime militar, permitindo, entre outras medidas, o fechamento do Congresso Nacional e a suspensão do habeas corpus em casos de crimes políticos. Exemplo concreto de como direitos podem ser retirados."
+      },
+      {
+        "ref": "Comissão Nacional da Verdade, criada pela Lei nº 12.528/2011",
+        "how": "Investigou graves violações de direitos humanos ocorridas entre 1946 e 1988 e entregou seu relatório final em 2014, no qual reconheceu 434 mortos e desaparecidos políticos. Mostra o esforço institucional de preservação da memória."
+      },
+      {
+        "ref": "Constituição Federal de 1988, chamada de “Constituição Cidadã”",
+        "how": "Recebeu esse nome de Ulysses Guimarães, presidente da Assembleia Nacional Constituinte. Marcou a redemocratização e ampliou direitos, simbolizando o que a democracia conquistou."
+      },
+      {
+        "ref": "Movimento Diretas Já (1983-1984)",
+        "how": "Grande mobilização popular pela volta das eleições diretas para presidente. A emenda Dante de Oliveira, que as restabeleceria, não alcançou os votos necessários na Câmara em 1984, e a primeira eleição direta para presidente depois da ditadura só aconteceu em 1989. Exemplo de participação cidadã na reconstrução da democracia."
+      },
+      {
+        "ref": "Filme “Ainda Estou Aqui” (2024), de Walter Salles",
+        "how": "Baseado no livro de Marcelo Rubens Paiva, conta a história de Eunice Paiva depois que o marido, o ex-deputado Rubens Paiva, foi levado de casa por agentes da ditadura em 1971 e nunca mais voltou. Venceu o Oscar de melhor filme internacional em 2025 e mostra como a arte ajuda a manter viva a memória desse período."
+      }
+    ],
+    "pitfalls": [
+      "Transformar o texto em um resumo da história da ditadura, sem discutir o papel da memória na defesa da democracia hoje.",
+      "Fazer propaganda partidária ou atacar grupos e pessoas atuais, em vez de argumentar sobre o tema.",
+      "Citar datas, números ou fatos históricos sem ter certeza, o que compromete a credibilidade do texto."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "dem-10",
+    "axis": "dem",
+    "axis_label": "Cidadania, participação e democracia",
+    "theme": "Cuidado com os espaços públicos: por que aquilo que é de todos muitas vezes é tratado como se não fosse de ninguém?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre os cidadãos e os espaços de uso coletivo. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "De todos ou de ninguém?",
+        "body_html": "<p>Praças, parques, praias, escolas e bibliotecas públicas: esses lugares pertencem à coletividade e, em geral, são mantidos com recursos públicos, ou seja, com o dinheiro dos impostos pagos pela população. Mesmo assim, é comum encontrar bancos quebrados, lixo espalhado e equipamentos depredados. Há quem explique esse comportamento pela ideia de que aquilo que é “de todos” acaba sendo tratado como se não fosse de ninguém. Outros lembram que muitos espaços públicos já são abandonados pelo próprio poder público, o que faz a população também deixar de cuidar deles.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O muro da escola",
+        "body_html": "<p>O muro lateral de uma escola pública amanheceu pichado pela terceira vez no mês. A direção pintou tudo de branco, mas as marcas voltaram. Um grupo de alunos teve uma ideia: pedir autorização para transformar o muro em um grande painel de grafite, feito pelos próprios estudantes com a ajuda de artistas do bairro. A proposta dividiu a comunidade. Parte dela apoiou, dizendo que os jovens cuidam mais daquilo que ajudam a construir. Outra parte achou que isso seria “premiar” a bagunça e que o correto seria identificar e punir os responsáveis.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que algumas pessoas cuidam da própria casa, mas não se importam com a praça ou com a escola?",
+      "Qual é a responsabilidade do poder público na conservação dos espaços coletivos? E a da população?",
+      "Punição, educação ou participação: qual caminho parece mais eficaz para reduzir a depredação?",
+      "Como os jovens podem se sentir mais pertencentes aos espaços públicos da cidade?"
+    ],
+    "argument_paths": [
+      "Falta de pertencimento: quem não participa da criação nem da gestão de um espaço não se sente parte dele; envolver a comunidade tende a aumentar o cuidado.",
+      "O abandono começa pelo Estado: espaços mal iluminados, sem manutenção e sem atividades tendem a ser depredados, e culpar apenas os cidadãos seria injusto.",
+      "Individualismo e falta de educação cidadã: muitas pessoas não percebem que o bem público é pago por todos, o que exige trabalhar esse tema desde a infância, na família e na escola.",
+      "Responsabilidade compartilhada: o poder público deve manter e fiscalizar, e os cidadãos devem conservar e cobrar; regras claras e responsabilização de quem depreda também fazem parte da solução."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código Civil (Lei nº 10.406/2002), art. 99, inciso I",
+        "how": "Classifica como bens públicos de uso comum do povo os rios, mares, estradas, ruas e praças. Ajuda a mostrar que esses espaços pertencem a toda a coletividade, e não a ninguém em particular."
+      },
+      {
+        "ref": "Lei de Crimes Ambientais (Lei nº 9.605/1998), art. 65, alterado pela Lei nº 12.408/2011",
+        "how": "Considera crime pichar edificações e monumentos urbanos e estabelece que não é crime o grafite feito para valorizar o patrimônio, desde que autorizado pelo proprietário ou, no caso de bem público, pelo órgão competente. Ajuda a discutir a diferença entre depredação e arte urbana."
+      },
+      {
+        "ref": "Garrett Hardin, “A tragédia dos comuns” (1968)",
+        "how": "Artigo publicado na revista Science que discute como recursos compartilhados podem ser esgotados quando cada indivíduo pensa apenas no próprio interesse. Pode ser contraposto aos estudos de Elinor Ostrom, Nobel de Economia em 2009, que mostraram comunidades capazes de cuidar bem de bens comuns quando participam da criação das regras. Ajuda a explicar por que o que é “de todos” às vezes é tratado como “de ninguém”, e como isso pode mudar."
+      }
+    ],
+    "pitfalls": [
+      "Tratar apenas de meio ambiente ou de lixo em geral, sem relacionar o tema aos espaços públicos e à cidadania.",
+      "Descrever o problema sem responder à pergunta do tema, que pede as causas desse comportamento.",
+      "Tratar a pichação e o vandalismo apenas com xingamentos aos responsáveis, sem analisar causas e propor soluções."
+    ],
+    "difficulty": 1
+  }
+]

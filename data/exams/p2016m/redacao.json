@@ -1,0 +1,22 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "É possível conviver com o consumismo sem se deixar levar pelo excesso?",
+  "prompt_html": "<p>O consumismo desenfreado pode gerar muitos problemas sociais, como a desvalorização do ser humano, que se transforma em mero objeto nas relações pessoais. Por outro lado, consumir faz parte da nossa vida diária, no modelo capitalista em que vivemos. Após refletir sobre o tema, redija um texto dissertativo, em que você responda à seguinte pergunta:</p><p class=\"tema\"><b>É possível conviver com o consumismo sem se deixar levar pelo excesso?</b></p>",
+  "requirements": [
+    "conter obrigatoriamente argumentos que sustentem suas opiniões;",
+    "ter entre 20 e 25 linhas;",
+    "apresentar letra legível e não conter rasuras;",
+    "ter, no mínimo, três parágrafos;",
+    "estar de acordo com a norma padrão para a modalidade escrita;",
+    "ser em prosa;",
+    "estar de acordo com a proposta apresentada;",
+    "ser transcrito no local indicado na Folha de Textos Definitivos."
+  ],
+  "zero_criteria": [],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem introduzida por “Seu texto deverá:”; o último item aparece em negrito e em fonte maior na prova.",
+    "A prova não traz uma lista de critérios de nota zero."
+  ]
+}

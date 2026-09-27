@@ -1,0 +1,275 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>É bastante comum o uso de películas de <i>insulfilm</i> em janelas de edifícios e vidros de veículos com intuito de reduzir a radiação solar. Essas películas possuem uma classificação de acordo com seu grau de transparência, isto é, com o percentual da radiação solar que permitem passar. Sobre um determinado vidro com 80% de transparência, coloca-se uma película com classificação de 60%.</p><p>Após a aplicação dessa película, obtém-se uma <b>redução</b> de radiação solar igual a</p>",
+    "options": {
+      "A": "48%.",
+      "B": "52%.",
+      "C": "70%.",
+      "D": "140%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O vidro sozinho deixa passar 80% da radiação. A película deixa passar 60% <b>do que chega até ela</b>, ou seja, 60% desses 80%.</p><p>Pense em 100 unidades de radiação solar chegando ao vidro:</p><ul><li>o vidro deixa passar 80% de 100: \\(80\\) unidades;</li><li>a película deixa passar 60% de 80: \\(0{,}6 \\times 80 = 48\\) unidades.</li></ul><p>Em uma conta só: \\(0{,}8 \\times 0{,}6 = 0{,}48 = 48\\%\\) da radiação atravessa o conjunto.</p><p>A <b>redução</b> é o que deixa de passar: \\(100\\% - 48\\% = 52\\%\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "48% é a parte da radiação que <b>passa</b> pelo vidro com a película. O enunciado pede a redução, ou seja, o que deixa de passar.",
+      "C": "70% é a média entre 80% e 60%. Os dois filtros agem um depois do outro, então os percentuais se multiplicam; não se tira média.",
+      "D": "140% é a soma de 80% com 60%. Uma redução nunca pode passar de 100%, porque não dá para barrar mais radiação do que a que chega."
+    },
+    "tip": "Percentuais aplicados em sequência se multiplicam: 60% de 80% é \\(0{,}6 \\times 0{,}8 = 0{,}48\\), isto é, 48%."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma sequência numérica muito famosa é a sequência de Fibonacci (1, 1, 2, 3, 5, 8, …). Essa sequência possui uma lei de formação simples: cada elemento, a partir do terceiro, é obtido somando-se os dois anteriores. Observe: \\(1 + 1 = 2\\), \\(2 + 1 = 3\\), \\(3 + 2 = 5\\) e assim sucessivamente.</p><p>O retângulo exposto a seguir representa, geometricamente, a parte inicial dessa sequência. Ele está dividido em seis quadrados, cujas medidas dos lados são diretamente proporcionais aos termos iniciais dessa sequência.</p><p><img src=\"img/p2016t/mat-q12.png\" alt=\"Retângulo dividido em seis quadrados sem medidas indicadas. Há dois quadradinhos iguais lado a lado (o da direita está sombreado e é o menor quadrado); logo acima deles, um quadrado cujo lado é igual à soma dos lados dos dois quadradinhos; à esquerda desse conjunto, no canto superior esquerdo, outro quadrado; abaixo dele, no canto inferior esquerdo, um quadrado maior; e toda a parte direita do retângulo é ocupada pelo maior quadrado, cujo lado é a altura do retângulo.\"></p><p>Se a área do menor quadrado é igual a 4 cm², a razão entre a área do retângulo maior e a área do menor quadrado é</p>",
+    "options": {
+      "A": "40.",
+      "B": "64.",
+      "C": "104.",
+      "D": "240."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.geo.areas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Os lados dos seis quadrados são proporcionais aos termos 1, 1, 2, 3, 5 e 8. Na figura: os dois quadradinhos de lado 1 ficam lado a lado; acima deles está o quadrado de lado 2; à esquerda, o de lado 3; embaixo, o de lado 5; e à direita, o maior, de lado 8.</p><p>Usando o lado do menor quadrado como unidade, o retângulo mede:</p><ul><li>altura: \\(3 + 5 = 8\\);</li><li>largura: \\(5 + 8 = 13\\).</li></ul><p>Área do retângulo: \\(8 \\times 13 = 104\\) quadradinhos de área 1. Conferindo pela soma das áreas dos quadrados: \\(1 + 1 + 4 + 9 + 25 + 64 = 104\\).</p><p>Como o menor quadrado vale 1 nessa unidade, a razão é \\(\\dfrac{104}{1} = 104\\).</p><p>Com as medidas reais o resultado é o mesmo: área 4 cm² dá lado 2 cm, então os lados são 2, 2, 4, 6, 10 e 16 cm, o retângulo mede \\(16 \\times 26 = 416\\) cm² e a razão é \\(\\dfrac{416}{4} = 104\\).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "40 é a soma \\(1 + 1 + 4 + 9 + 25\\): esqueceu-se o quadrado maior, de área \\(8^2 = 64\\).",
+      "B": "64 compara só o maior quadrado (\\(8^2\\)) com o menor, e não o retângulo inteiro.",
+      "D": "240 é o produto \\(1 \\cdot 1 \\cdot 2 \\cdot 3 \\cdot 5 \\cdot 8\\) dos termos. As áreas dos quadrados se somam para formar o retângulo; não se multiplicam."
+    },
+    "tip": "Uma razão entre áreas não depende da unidade: trabalhe com os lados 1, 1, 2, 3, 5, 8 e conte quantos quadradinhos de área 1 cabem na figura."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma das medidas ainda muito utilizadas para avaliar o peso de uma pessoa é o IMC (Índice de Massa Corporal), obtido dividindo-se seu peso (em quilogramas) pelo quadrado da sua altura (em metros).</p><p>Essa medida é usada, por exemplo, para determinar em que categoria de peso a pessoa avaliada se encontra: abaixo do peso, peso normal, sobrepeso ou obesidade.</p><p>Foi feita uma pesquisa sobre o IMC em um grupo de 240 pessoas e os resultados obtidos são apresentados no gráfico a seguir:</p><p><img src=\"img/p2016t/mat-q13.png\" alt=\"Gráfico de setores com o título CATEGORIA DE PESOS. Setores: Abaixo do peso, 10%; Peso Normal, 45%; Sobrepeso, 30%; Obesidade, 15%.\"></p><p>Podemos afirmar que, nesse grupo estudado, há</p>",
+    "options": {
+      "A": "mais de 30 pessoas abaixo do peso.",
+      "B": "menos de 72 pessoas com sobrepeso.",
+      "C": "exatamente 35 pessoas com obesidade.",
+      "D": "exatamente 108 pessoas com peso normal."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Basta calcular cada porcentagem de 240 pessoas. Um jeito prático é achar 10% primeiro: 10% de 240 = 24; então 5% = 12.</p><ul><li>Abaixo do peso (10%): \\(24\\) pessoas.</li><li>Peso normal (45%): \\(4 \\times 24 + 12 = 108\\) pessoas.</li><li>Sobrepeso (30%): \\(3 \\times 24 = 72\\) pessoas.</li><li>Obesidade (15%): \\(24 + 12 = 36\\) pessoas.</li></ul><p>Conferência: \\(24 + 108 + 72 + 36 = 240\\).</p><p>Agora as alternativas: (a) 24 não é mais de 30; (b) 72 não é menos de 72; (c) são 36, não 35; (d) são exatamente 108.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Abaixo do peso são 10% de 240, ou seja, 24 pessoas, que é menos de 30.",
+      "B": "Sobrepeso são 30% de 240, exatamente 72 pessoas. A expressão “menos de 72” não inclui o próprio 72.",
+      "C": "Obesidade são 15% de 240, ou seja, \\(24 + 12 = 36\\) pessoas, e não 35."
+    },
+    "tip": "Para tirar porcentagens de um total, ache 10% (divida por 10) e monte as outras a partir dele: 5% é a metade, 30% é o triplo."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No armazém de uma pastelaria, há 6 tonéis distintos de 15, 16, 18, 19, 20 e 31 litros. Um tonel está cheio de nata e os restantes estão cheios de leite ou de chocolate líquido, havendo, no total, duas vezes mais leite do que chocolate.</p><p>A capacidade do tonel que tem a nata é de</p>",
+    "options": {
+      "A": "16 litros.",
+      "B": "18 litros.",
+      "C": "19 litros.",
+      "D": "20 litros."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.logica",
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Se o chocolate ocupa \\(c\\) litros, o leite ocupa \\(2c\\) litros. Juntos, leite e chocolate somam \\(c + 2c = 3c\\), que é um <b>múltiplo de 3</b>.</p><p>Soma de todos os tonéis: \\(15 + 16 + 18 + 19 + 20 + 31 = 119\\) litros.</p><p>Tirando o tonel de nata, o que sobra precisa ser múltiplo de 3. Testando as alternativas:</p><ul><li>16 L: \\(119 - 16 = 103\\), não é múltiplo de 3;</li><li>18 L: \\(119 - 18 = 101\\), não é;</li><li>19 L: \\(119 - 19 = 100\\), não é;</li><li>20 L: \\(119 - 20 = 99 = 3 \\times 33\\), é!</li></ul><p>Conferindo que dá para distribuir os tonéis: os de 15 L e 18 L guardam chocolate (\\(15 + 18 = 33\\) L) e os de 16 L, 19 L e 31 L guardam leite (\\(16 + 19 + 31 = 66\\) L), que é mesmo o dobro de 33.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Sem o tonel de 16 L sobram 103 L, que não é múltiplo de 3; não dá para dividir esse volume em leite e chocolate na razão 2 para 1.",
+      "B": "Sem o tonel de 18 L sobram 101 L, que não é múltiplo de 3. Na solução correta, o tonel de 18 L guarda chocolate.",
+      "C": "Sem o tonel de 19 L sobram 100 L. O número redondo engana, mas 100 não é divisível por 3."
+    },
+    "tip": "Se uma quantidade é o dobro da outra, as duas juntas formam o triplo da menor, portanto um múltiplo de 3."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe o quadro a seguir, que representa um barco à vela e, ao fundo, a lua cheia. A vela desse barco tem forma de triângulo equilátero com 2 dm de lado e a lua é um círculo cujo centro coincide com um dos vértices desse triângulo. A área da parte da lua escondida atrás da vela é exatamente metade da área da vela.</p><p><img src=\"img/p2016t/mat-q15.png\" alt=\"Quadro com moldura mostrando um círculo (a lua cheia) e, à frente dele, um triângulo equilátero sombreado (a vela) apoiado no casco de um barco sobre a água. O vértice superior do triângulo fica exatamente no centro do círculo; os dois lados que partem desse vértice atravessam a circunferência, e a base do triângulo fica abaixo do círculo, fora dele. A figura não traz medidas.\"></p><p>Se não houvesse o barco, a lua cheia estaria completamente visível. Nesse caso, a área da lua seria de</p>",
+    "options": {
+      "A": "\\(2\\sqrt{3}\\) dm².",
+      "B": "\\(3\\sqrt{3}\\) dm².",
+      "C": "\\(2\\sqrt{2}\\) dm².",
+      "D": "\\(3\\sqrt{2}\\) dm²."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Área da vela.</b> Triângulo equilátero de lado 2 dm:</p>\\[A_{\\text{vela}} = \\frac{\\ell^2\\sqrt{3}}{4} = \\frac{2^2\\sqrt{3}}{4} = \\sqrt{3}\\ \\text{dm}^2\\]<p><b>2) Parte escondida.</b> É metade da vela: \\(\\dfrac{\\sqrt{3}}{2}\\) dm².</p><p><b>3) Que forma tem a parte escondida?</b> O centro da lua está em um vértice da vela, então os dois lados da vela que saem desse vértice partem do centro da lua; o trecho de cada um deles que fica dentro da lua é um raio. Como a base da vela fica fora da lua, a parte escondida é um <b>setor circular</b> cujo ângulo é o ângulo do triângulo equilátero: 60°.</p><p><b>4) Da parte para o todo.</b> Um setor de 60° é \\(\\dfrac{60}{360} = \\dfrac{1}{6}\\) do círculo. Então a lua inteira vale 6 setores:</p>\\[A_{\\text{lua}} = 6 \\cdot \\frac{\\sqrt{3}}{2} = 3\\sqrt{3}\\ \\text{dm}^2\\]<p>Não foi preciso achar o raio nem usar o valor de \\(\\pi\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "\\(2\\sqrt{3}\\) sai ao tratar a parte escondida como \\(\\frac{1}{4}\\) da lua (como se o ângulo fosse 90°): \\(4 \\cdot \\frac{\\sqrt{3}}{2}\\). No triângulo equilátero o ângulo é 60°, isto é, \\(\\frac{1}{6}\\) da volta.",
+      "C": "\\(2\\sqrt{2}\\) junta dois enganos: tratar a parte escondida como \\(\\frac{1}{4}\\) da lua (como na alternativa A) e trocar \\(\\sqrt{3}\\) por \\(\\sqrt{2}\\) na área da vela: \\(4 \\cdot \\frac{\\sqrt{2}}{2} = 2\\sqrt{2}\\). A área de um triângulo equilátero tem \\(\\sqrt{3}\\), nunca \\(\\sqrt{2}\\).",
+      "D": "O fator 3 está certo (6 setores de meia vela), mas a área da vela é \\(\\sqrt{3}\\) dm², e não \\(\\sqrt{2}\\) dm²; trocou-se a raiz."
+    },
+    "tip": "Um setor de \\(\\alpha\\) graus ocupa \\(\\frac{\\alpha}{360}\\) do círculo; no triângulo equilátero cada ângulo mede 60°, que é \\(\\frac{1}{6}\\) da volta."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na figura a seguir, os triângulos ABC e ABD são retângulos em A e D, respectivamente. Sabe-se que AC = 15 cm, AD = 16 cm e BD = 12 cm.</p><p><img src=\"img/p2016t/mat-q16.png\" alt=\"Triângulo ABC com A no canto inferior esquerdo, B no canto inferior direito (lado AB horizontal) e C acima de A (lado AC vertical). O ponto D fica acima do segmento AB, mais perto de B, formando o triângulo ABD. O segmento AD cruza a hipotenusa CB no ponto E, marcado com um ponto. A figura não traz medidas.\"></p><p>A área do triângulo ABE é de</p>",
+    "options": {
+      "A": "100 cm².",
+      "B": "96 cm².",
+      "C": "75 cm².",
+      "D": "60 cm²."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.geo.pitagoras",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Hipotenusa de ABD.</b> O triângulo ABD é retângulo em D, então, por Pitágoras:</p>\\[AB^2 = 16^2 + 12^2 = 256 + 144 = 400 \\Rightarrow AB = 20\\ \\text{cm}\\]<p><b>2) Ângulos iguais.</b> ABD tem lados 12, 16 e 20; ABC tem catetos AC = 15 e AB = 20 (hipotenusa 25). Os dois são o triângulo 3, 4, 5 ampliado (vezes 4 e vezes 5), portanto são semelhantes. O ângulo \\(B\\hat{A}D\\) é oposto ao cateto menor de ABD (BD = 12) e o ângulo \\(A\\hat{B}C\\) é oposto ao cateto menor de ABC (AC = 15). Logo \\(B\\hat{A}D = A\\hat{B}C\\). Como E está sobre AD e sobre CB, esses são justamente os ângulos do triângulo ABE em A e em B: \\(B\\hat{A}E = A\\hat{B}E\\).</p><p><b>3) Triângulo isósceles.</b> Com dois ângulos iguais, ABE é isósceles, com EA = EB. A altura que sai de E cai no ponto médio M de AB, e AM = 10 cm.</p><p><b>4) Altura de E.</b> O triângulo AME (retângulo em M) é semelhante ao ADB (retângulo em D), pois os dois têm o ângulo em A em comum:</p>\\[\\frac{EM}{AM} = \\frac{BD}{AD} = \\frac{12}{16} = \\frac{3}{4} \\Rightarrow EM = \\frac{3}{4} \\cdot 10 = 7{,}5\\ \\text{cm}\\]<p><b>5) Área.</b></p>\\[A_{ABE} = \\frac{AB \\cdot EM}{2} = \\frac{20 \\cdot 7{,}5}{2} = 75\\ \\text{cm}^2\\]<p>Conferência: EM = 7,5 cm é metade de AC = 15 cm, então E é o ponto médio de CB e ABE tem metade da área de ABC, que é \\(\\frac{20 \\cdot 15}{2} = 150\\) cm². Metade: 75 cm².</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "100 cm² aparece ao supor que a altura de E mede 10 cm (metade de AB), como se os ângulos da base fossem de 45°. A altura correta é \\(\\frac{3}{4}\\) de 10, ou seja, 7,5 cm.",
+      "B": "96 cm² é a área do triângulo ABD, \\(\\frac{16 \\cdot 12}{2}\\). O triângulo ABE é só uma parte dele.",
+      "D": "60 cm² sai de montar a semelhança com lados que não se correspondem: \\(\\frac{EM}{AM} = \\frac{BD}{AB} = \\frac{12}{20}\\), o que dá EM = 6 cm e área \\(\\frac{20 \\cdot 6}{2} = 60\\). Mas AM é cateto do triângulo AME, e AB é a hipotenusa de ABD: o cateto AM corresponde ao cateto AD, e a razão certa é \\(\\frac{12}{16}\\)."
+    },
+    "tip": "Reconhecer triângulos retângulos de lados proporcionais a 3, 4 e 5 revela ângulos iguais e poupa muitas contas."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Antônio é um botânico que desenvolveu em seu laboratório três variedades de uma mesma planta, \\(V_1\\), \\(V_2\\) e \\(V_3\\). Esses exemplares se desenvolvem cada um a seu tempo, de acordo com a tabela a seguir.</p><table><thead><tr><th>VARIEDADE</th><th>Tempo de germinação (em semanas, após o plantio)</th><th>Tempo de floração (em semanas, após a germinação)</th><th>Tempo para única colheita (em semanas, após a floração)</th></tr></thead><tbody><tr><td>\\(V_1\\)</td><td>5</td><td>3</td><td>1</td></tr><tr><td>\\(V_2\\)</td><td>3</td><td>2</td><td>1</td></tr><tr><td>\\(V_3\\)</td><td>2</td><td>1</td><td>1</td></tr></tbody></table><p>Considere um experimento em que as três variedades serão plantadas inicialmente no mesmo dia e que, a cada dia de colheita, outra semente da mesma variedade será plantada.</p><p>Com base nos dados da tabela, o número mínimo de semanas necessárias para que a colheita das três variedades ocorra simultaneamente, será</p>",
+    "options": {
+      "A": "36.",
+      "B": "24.",
+      "C": "18.",
+      "D": "16."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada variedade repete um ciclo: é plantada, germina, floresce, é colhida e, no mesmo dia da colheita, uma nova semente é plantada. A duração de cada ciclo é a soma das três colunas:</p><ul><li>\\(V_1\\): \\(5 + 3 + 1 = 9\\) semanas;</li><li>\\(V_2\\): \\(3 + 2 + 1 = 6\\) semanas;</li><li>\\(V_3\\): \\(2 + 1 + 1 = 4\\) semanas.</li></ul><p>Assim, \\(V_1\\) é colhida nas semanas 9, 18, 27, 36, ...; \\(V_2\\), nas semanas múltiplas de 6; \\(V_3\\), nas múltiplas de 4.</p><p>A primeira semana em que as três colheitas coincidem é o MMC dos ciclos:</p>\\[9 = 3^2,\\quad 6 = 2 \\cdot 3,\\quad 4 = 2^2 \\;\\Rightarrow\\; \\text{MMC} = 2^2 \\cdot 3^2 = 36\\]<p>Resposta: <b>A</b>, 36 semanas.</p>",
+    "distractors": {
+      "B": "24 é múltiplo de 6 e de 4, mas não de 9: \\(V_1\\) é colhida nas semanas 18 e 27, e não na 24.",
+      "C": "18 é múltiplo de 9 e de 6, mas não de 4: \\(V_3\\) é colhida nas semanas 16 e 20, e não na 18.",
+      "D": "16 é múltiplo de 4, mas não de 9 nem de 6; nessa semana só \\(V_3\\) é colhida."
+    },
+    "tip": "Eventos que se repetem em ciclos voltam a coincidir no MMC dos períodos; some todas as etapas para achar cada período."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<blockquote>“Diferente dos balões comuns, os balões meteorológicos são produzidos com borracha natural usando um processo de rotomoldagem. Isso quer dizer que toda a superfície do balão apresenta a mesma espessura, evitando estouros prematuros.”</blockquote><p><small>Fonte: http://www.mundoclima.com.br/baloes-meteorologicos/balao-meteorologico-de-grande-altitude-600g/. Acesso em: 15 de maio de 2016.</small></p><p>Dois jovens pesquisadores, João e Diego, decidiram lançar um único balão meteorológico para fazer um estudo. Apos o lançamento, em um dado momento, João estava a 8 km do balão e Diego a 15 km. Sabe-se que o balão subiu verticalmente durante todo o percurso e que a distância entre os pesquisadores naquele momento era de 17 km.</p><p>Observe a figura ao lado, representativa da situação:</p><p><img src=\"img/p2016t/mat-q18.png\" alt=\"Triângulo com o balão no vértice de cima e os dois pesquisadores nos vértices da base: João à esquerda e Diego à direita, cada um com o nome escrito e um bonequinho desenhado logo abaixo do vértice. O lado que liga João ao balão é mais curto que o lado que liga o balão a Diego, e a base João-Diego, no chão, é o maior lado. A figura não traz medidas nem a altura desenhada.\"></p><p>Desconsiderando a curvatura da Terra, pode-se afirmar que a altura aproximada desse balão era de</p>",
+    "options": {
+      "A": "6 km.",
+      "B": "6,5 km.",
+      "C": "7 km.",
+      "D": "7,5 km."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) O triângulo é retângulo.</b> Os lados são 8, 15 e 17 km, e \\(8^2 + 15^2 = 64 + 225 = 289 = 17^2\\). Pela recíproca do Teorema de Pitágoras, o ângulo reto está no balão, e a hipotenusa é a distância entre João e Diego (17 km).</p><p><b>2) A altura do balão</b> é a altura desse triângulo relativa à hipotenusa, que está no chão. Calcule a área de dois jeitos (catetos ou hipotenusa como base):</p>\\[\\frac{8 \\cdot 15}{2} = \\frac{17 \\cdot h}{2} \\Rightarrow 17h = 120 \\Rightarrow h = \\frac{120}{17}\\]<p>Essa é a relação métrica \\(a \\cdot h = b \\cdot c\\) do triângulo retângulo.</p><p><b>3) Aproximando.</b> Como \\(17 \\cdot 7 = 119\\), temos \\(h = \\frac{120}{17} \\approx 7{,}06\\) km, ou seja, aproximadamente 7 km.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Com \\(h = 6\\), teríamos \\(17 \\cdot 6 = 102\\), bem longe de \\(8 \\cdot 15 = 120\\). É erro de conta ou de estimativa.",
+      "B": "Com \\(h = 6{,}5\\), teríamos \\(17 \\cdot 6{,}5 = 110{,}5\\), ainda longe de 120; o valor exato \\(\\frac{120}{17}\\) passa de 7.",
+      "D": "7,5 km é a metade de 15 km (a distância até Diego), valor que não tem relação com a altura. Conferindo pela área: \\(17 \\cdot 7{,}5 = 127{,}5\\), mais que \\(8 \\cdot 15 = 120\\), então a altura real é menor que 7,5 km."
+    },
+    "tip": "Em um triângulo retângulo, a altura sobre a hipotenusa sai de \\(a \\cdot h = b \\cdot c\\): é a área calculada de dois jeitos."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em março de 2016, Jorge, professor de Matemática, desejava comprar certa quantidade de calculadoras modelo \"X\" para poder realizar algumas atividades com seus alunos em sala de aula. Após algumas buscas pela internet, observou, na época, que gastaria R$300,00 no total.</p><p>Como o professor achou que o preço unitário do produto não aumentaria ao longo do ano e como as atividades em que usaria as calculadoras só ocorreriam em setembro, resolveu esperar um pouco. Lembrou-se de fazer uma segunda verificação em julho, quando descobriu que o preço unitário da mercadoria tinha sofrido um acréscimo de R$20,00. Como pretendia gastar ainda os mesmos R$300,00, percebeu que acabaria comprando, no total, menos quatro peças do que compraria em março.</p><p>Sabe-se que o professor pretendia que cada aluno de sua turma recebesse uma calculadora para realizar as atividades planejadas. Sendo assim, podemos afirmar que</p>",
+    "options": {
+      "A": "em março, ele compraria mais de 8 calculadoras.",
+      "B": "em março, cada peça custaria menos que R$ 30,00.",
+      "C": "em julho, cada peça custaria mais que R$ 50,00.",
+      "D": "em julho, ele compraria menos de 6 calculadoras."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(n\\) o número de calculadoras em março e de \\(p\\) o preço de cada uma em março (em reais). O gasto total é o mesmo nos dois momentos:</p>\\[n \\cdot p = 300 \\qquad\\text{e}\\qquad (n - 4)(p + 20) = 300\\]<p><b>Caminho rápido (tentativa):</b> procure um par com \\(n \\cdot p = 300\\) em que tirar 4 unidades e somar 20 reais ao preço ainda dê 300. Com \\(n = 10\\) e \\(p = 30\\): \\((10 - 4)(30 + 20) = 6 \\cdot 50 = 300\\). Funciona!</p><p><b>Caminho algébrico:</b> substitua \\(p = \\frac{300}{n}\\) na segunda equação e desenvolva:</p>\\[(n - 4)\\left(\\frac{300}{n} + 20\\right) = 300 \\Rightarrow 300 + 20n - \\frac{1200}{n} - 80 = 300\\]<p>Cancelando o 300 dos dois lados, sobra \\(20n - 80 - \\frac{1200}{n} = 0\\). Multiplicando tudo por \\(n\\) e depois dividindo por 20:</p>\\[20n^2 - 80n - 1200 = 0 \\Rightarrow n^2 - 4n - 60 = 0\\]<p>As raízes são 10 e \\(-6\\) (soma 4, produto \\(-60\\)). Como \\(n\\) é uma quantidade, \\(n = 10\\).</p><p>Resumo: em março, 10 calculadoras a R$ 30,00 cada; em julho, 6 calculadoras a R$ 50,00 cada.</p><p>Conferindo: (a) 10 é mais de 8, verdadeira; (b) custaria exatamente R$ 30,00, não menos; (c) exatamente R$ 50,00, não mais; (d) exatamente 6, não menos.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Em março cada calculadora custaria exatamente R$ 30,00 (300 dividido por 10). Por isso, “menos que R$ 30,00” é falso.",
+      "C": "Em julho o preço seria R$ 30,00 mais R$ 20,00, ou seja, exatamente R$ 50,00, e não mais que isso.",
+      "D": "Em julho ele compraria \\(10 - 4 = 6\\) calculadoras, exatamente 6, e não menos de 6."
+    },
+    "tip": "Com gasto total fixo, quantidade vezes preço é constante: monte as duas equações e teste os divisores do total para achar a solução depressa."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Paulo, estudante do nono ano, precisava fazer um trabalho utilizando formas geométricas para a aula de Artes. Resolveu, então, desenhar uma circunferência de raio 6 cm e traçar duas cordas de mesma medida, que saíssem de um único ponto dessa curva. Ele utilizou a medida de 60° para o ângulo inscrito formado por essas duas cordas. E coloriu de vermelho toda a região delimitada pelas duas cordas e interna à circunferência, conforme a figura a seguir:</p><p><img src=\"img/p2016t/mat-q20.png\" alt=\"Circunferência com duas cordas de mesma medida que partem do ponto mais alto da curva e formam entre si um ângulo de 60° (o ângulo não está marcado na figura). Está sombreada (pintada de vermelho) toda a região entre as duas cordas até o arco inferior da circunferência; ficam em branco apenas as duas regiões laterais, cada uma entre uma corda e o arco da circunferência.\"></p><p><b>Use \\(\\pi = 3\\)</b></p><p>Sabendo que Paulo deseja agora colorir de azul o restante da região interna da circunferência, podemos afirmar que essa nova área a ser pintada será igual a</p>",
+    "options": {
+      "A": "\\(9(2 - \\sqrt{3})\\) cm².",
+      "B": "\\(18(2 - \\sqrt{3})\\) cm².",
+      "C": "\\(9(4 - \\sqrt{3})\\) cm².",
+      "D": "\\(18(4 - \\sqrt{3})\\) cm²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) O triângulo das cordas.</b> Chame de P o ponto de onde saem as cordas e de A e B as outras pontas. O triângulo PAB tem PA = PB e ângulo de 60° em P, então os outros dois ângulos também medem 60°: PAB é um triângulo <b>equilátero</b> inscrito na circunferência.</p><p><b>2) As regiões.</b> A parte vermelha é o triângulo PAB mais o pedaço de círculo abaixo de AB. A parte azul são os dois pedaços de círculo sobre as cordas PA e PB. Os três pedaços entre o triângulo e a circunferência são iguais, pois ficam sobre cordas iguais.</p><p><b>3) Área do círculo</b> (com \\(\\pi = 3\\)): \\(3 \\cdot 6^2 = 108\\) cm².</p><p><b>4) Área do triângulo equilátero.</b> O centro O da circunferência é também o baricentro do triângulo, que divide cada altura na razão 2 para 1. Como OP = 6 cm é a parte maior, a parte menor mede 3 cm e a altura mede \\(h = 6 + 3 = 9\\) cm. A altura de um triângulo equilátero de lado \\(\\ell\\) é \\(h = \\frac{\\ell\\sqrt{3}}{2}\\), então:</p>\\[\\frac{\\ell\\sqrt{3}}{2} = 9 \\Rightarrow \\ell = \\frac{18}{\\sqrt{3}} = \\frac{18\\sqrt{3}}{3} = 6\\sqrt{3}\\ \\text{cm}\\]<p>Logo:</p>\\[A_{\\triangle} = \\frac{\\ell \\cdot h}{2} = \\frac{6\\sqrt{3} \\cdot 9}{2} = 27\\sqrt{3}\\ \\text{cm}^2\\]<p><b>5) Parte azul.</b> Os três pedaços juntos medem \\(108 - 27\\sqrt{3}\\). A parte azul corresponde a 2 dos 3 pedaços:</p>\\[\\frac{2}{3}\\left(108 - 27\\sqrt{3}\\right) = 72 - 18\\sqrt{3} = 18\\left(4 - \\sqrt{3}\\right)\\ \\text{cm}^2\\]<p>Outro caminho: cada pedaço é um setor de 120° (\\(\\frac{1}{3}\\) de 108, ou seja, 36) menos o triângulo OPA (\\(\\frac{1}{3}\\) de \\(27\\sqrt{3}\\), ou seja, \\(9\\sqrt{3}\\)). Dois pedaços: \\(2(36 - 9\\sqrt{3}) = 18(4 - \\sqrt{3})\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "\\(9(2 - \\sqrt{3}) = 18 - 9\\sqrt{3}\\) é um pedaço calculado com setor de 60° (área 18) em vez de 120°, confundindo o ângulo inscrito de 60° com o ângulo central.",
+      "B": "\\(18(2 - \\sqrt{3})\\) são os dois pedaços com o mesmo engano da alternativa A: setor de 60° no lugar do setor de 120°.",
+      "C": "\\(9(4 - \\sqrt{3}) = 36 - 9\\sqrt{3}\\) é a área de apenas um dos pedaços azuis; faltou multiplicar por 2."
+    },
+    "tip": "O ângulo central é o dobro do ângulo inscrito que enxerga o mesmo arco: um inscrito de 60° corresponde a um arco de 120°."
+  }
+]

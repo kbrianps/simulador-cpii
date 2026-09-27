@@ -1,0 +1,162 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto I",
+    "title": "RACISTA, NÃO-RACISTA E ANTIRRACISTA",
+    "subtitle": null,
+    "author": "José Falero",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "“Não basta não ser racista, é preciso ser antirracista.”",
+      "A princípio, esse raciocínio parece romper com um <b>paradigma</b><sup>(1)</sup> composto de apenas",
+      "duas posturas possíveis (“racista” e “não-racista”) para estabelecer um modelo de reflexão",
+      "<b>ternário</b><sup>(2)</sup>, onde a postura “antirracista” surge como terceira possibilidade, distinta e",
+      "independente das duas anteriores. Contudo, o que parece escapar às pessoas,",
+      "especialmente às pessoas brancas, é que, segundo o próprio enunciado, apenas uma",
+      "dessas três posturas é aceitável no âmbito do efetivo combate ao racismo, enquanto as",
+      "outras duas não o são, e eis aí a evidência de que ainda estamos em um modelo de reflexão",
+      "<b>binário</b><sup>(3)</sup>: de qualquer forma, existem duas, e apenas duas, posturas possíveis: a postura",
+      "aceitável, que efetivamente combate o racismo, e a postura inaceitável, que não o combate.",
+      "Dessa perspectiva, a postura “racista” e a postura “não-racista” apresentam-se como",
+      "variações de uma mesma coisa (são duas maneiras distintas de se estar em conformidade",
+      "com racismo), enquanto a postura “antirracista”, em contraste, opõe-se a elas, sugerindo a",
+      "efetiva desconstrução das estruturas sociais que privilegiam brancos em todas as esferas.",
+      "O fato de a postura “racista” ser fundamentalmente ativa talvez incline a maior parte",
+      "de nós a considerá-la mais perversa do que a postura “não-racista”, que é, em essência,",
+      "passiva. Mas, quando reflito sobre essas duas posturas, sempre chego à conclusão de que",
+      "são, pelo menos, igualmente perversas. A omissão é <b>paradoxal</b><sup>(4)</sup> por natureza: não praticar",
+      "ato algum é também praticar um ato.",
+      "Quando um professor branco percebe-se integrante de um quadro de professores",
+      "constituído apenas por brancos como ele próprio ou majoritariamente por brancos como ele",
+      "próprio, deveria entender que, para início de conversa, nem mesmo deveria estar ali, e que",
+      "é absolutamente condenável a sua permanência naquele lugar, se não de uma perspectiva",
+      "legal, pelo menos de uma perspectiva moral. E, claro, o mesmo serve para políticos",
+      "brancos, escritores brancos, editores brancos, cineastas brancos, repórteres brancos,",
+      "enfim, brancos ocupando qualquer espaço de poder de maneira total ou <b>majoritária</b><sup>(5)</sup>.",
+      "É dessa perspectiva que percebo a postura “não-racista” que não chega a ser",
+      "“antirracista” tão perversa e digna de repúdio quanto a própria postura “racista”, se não",
+      "ainda mais perversa e digna de repúdio. Porque, dado o nosso contexto social atual, a",
+      "postura “não-racista” que não chega a ser “antirracista” consegue algo que nem mesmo a",
+      "própria postura francamente “racista” consegue: naturalizar o privilégio branco. (...)",
+      "A postura “não-racista” que não chega a ser “antirracista” — postura do branco",
+      "privilegiado que não abre mão dos próprios privilégios, embora eventualmente os condene",
+      "de maneira verbal ou por escrito — é uma contribuição direta para a manutenção do racismo",
+      "estrutural.",
+      "“Não basta não ser racista, é preciso ser antirracista”.",
+      "Concordo. Não basta dizer que os privilégios brancos são injustos. É preciso abrir mão",
+      "deles."
+    ],
+    "para_starts": [
+      1,
+      2,
+      15,
+      20,
+      27,
+      32,
+      36,
+      37
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "JOSÉ FALERO. Disponível em: https://www.matinaljornalismo.com.br. Acesso em: 24.ago.2023. Adaptado.",
+    "glossary": [
+      {
+        "term": "Paradigma",
+        "def": "modelo."
+      },
+      {
+        "term": "Ternário",
+        "def": "que diz respeito a três termos."
+      },
+      {
+        "term": "Binário",
+        "def": "que diz respeito a dois termos."
+      },
+      {
+        "term": "Paradoxal",
+        "def": "contraditório."
+      },
+      {
+        "term": "Majoritária",
+        "def": "que diz respeito à maioria, maior parte."
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto II",
+    "title": "ISMÁLIA",
+    "subtitle": null,
+    "author": "Vinicius Leonard Moreira, Renan Samam & Emicida",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "A felicidade do branco é plena",
+      "A felicidade do preto é quase",
+      "No fim das conta é tudo Ismália, Ismália",
+      "Ismália, Ismália",
+      "Ismália, Ismália",
+      "Quis tocar o céu, mas terminou no chão",
+      "Ela quis ser chamada de morena",
+      "Que isso camufla o abismo entre si e a humanidade plena",
+      "A raiva <b>insufla</b><sup>(1)</sup>, pensa nesse esquema",
+      "A ideia imunda, tudo inunda",
+      "A dor profunda é que todo mundo é meu tema",
+      "Apunhalado pelas costa",
+      "Esquartejado pelo imposto imposta",
+      "E como analgésico nós posta que",
+      "Um dia vai tá nos conforme",
+      "Que um diploma é uma alforria",
+      "Minha cor não é uniforme",
+      "Hashtags #PretoNoTopo, bravo!",
+      "80 tiros te lembram que existe pele alva e pele alvo",
+      "Quem disparou usava farda (Mais uma vez)",
+      "Primeiro cê sequestra eles, rouba eles, mente sobre eles",
+      "Nega o deus deles, ofende, separa eles",
+      "Se algum sonho ousa correr, cê para ele",
+      "E manda eles debater com a bala que vara eles, mano",
+      "Quem disparou usava farda (Ismália)",
+      "Quem te acusou nem lá num tava (Ismália)",
+      "É a desunião dos preto junto à visão sagaz (Ismália)",
+      "De quem tem tudo, menos cor, onde a cor importa demais"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      6,
+      20,
+      24
+    ],
+    "images": [],
+    "source": "VINICIUS LEONARD MOREIRA, RENAN SAMAM & EMICIDA. Disponível em: https://www.google.com.br. Acesso em: 24 ago. 2023. Adaptado.",
+    "glossary": [
+      {
+        "term": "Insufla",
+        "def": "desperta; instiga."
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto III",
+    "title": null,
+    "subtitle": null,
+    "author": "Junião",
+    "kind": "charge",
+    "numbering": "none",
+    "lines": [],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [
+      {
+        "src": "img/p2023/pt-t3.png",
+        "alt": "Charge em preto e branco, de um único quadro. No topo, dentro de um retângulo, a legenda: “NEGROS SÃO AS MAIORES VÍTIMAS DA VIOLÊNCIA”. Abaixo, duas mulheres, cada uma com uma bolsa no ombro, acenam em despedida para alguém que não aparece na cena. À esquerda, uma mulher branca, de cabelo preso em coque e óculos, sorri tranquila e diz: “TCHAU FILHO!! BOM TRABALHO! E VOLTA LOGO PARA CASA!”. À direita, uma mulher negra, de cabelo crespo volumoso, com os olhos arregalados e expressão aflita, diz: “TCHAU FILHO! BOM TRABALHO E VOLTA VIVO!”, com as palavras “VOLTA VIVO” escritas em letras maiores e mais grossas. No canto inferior direito, a assinatura “JUNIÃO” e o endereço “ponte.org”."
+      }
+    ],
+    "source": "JUNIÃO. Disponível em: https://www.ponte.org. Acesso em: 24.ago.2023.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

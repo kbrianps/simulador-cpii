@@ -1,0 +1,22 @@
+{
+  "genre": "carta argumentativa",
+  "theme": "A afirmação de Eliane Brum de que “somos todos cúmplices de genocídio – uma parte de nós por ação, outra por omissão”, a respeito da expulsão dos indígenas de suas terras: concordar ou discordar.",
+  "prompt_html": "<p>No Texto 2 da prova de Língua Portuguesa, a jornalista Eliane Brum, ao abordar a expulsão dos indígenas de suas próprias terras, afirma que “somos todos cúmplices de genocídio – uma parte de nós por ação, outra por omissão”.</p><p>Refletindo sobre essa afirmação, escreva uma carta para a jornalista, CONCORDANDO ou DISCORDANDO dela. Apresente, pelo menos, <u>duas razões</u> que justifiquem seu modo de pensar. Para desenvolver seu texto, leve em consideração também as ideias apresentadas nos outros textos dessa prova.</p><p><b><u>ATENÇÃO</u>: ASSINE A CARTA <u>APENAS</u> COM A EXPRESSÃO “UM LEITOR” OU “UMA LEITORA”.</b></p>",
+  "requirements": [
+    "conter obrigatoriamente argumentos que sustentem suas opiniões;",
+    "ter entre 20 e 25 linhas;",
+    "apresentar letra legível e não conter rasuras;",
+    "ter, no mínimo, três parágrafos;",
+    "estar de acordo com a norma padrão para a modalidade escrita;",
+    "ser em prosa;",
+    "estar de acordo com a proposta apresentada;",
+    "ser transcrito no local indicado na Folha de Respostas."
+  ],
+  "zero_criteria": [],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem introduzida por “Seu texto deverá:”; o último item (“ser transcrito no local indicado na Folha de Respostas.”) aparece em negrito na prova.",
+    "A prova não traz uma lista de critérios de nota zero."
+  ]
+}

@@ -1,0 +1,297 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No trecho “<b>Que nos faz professores e doutores do que não vimos</b>” (linha 6), há uma crítica ao comportamento humano que se refere à</p>",
+    "options": {
+      "A": "arrogância dos professores que não ouvem sempre seus alunos como se esperaria de um educador.",
+      "B": "arrogância dos indivíduos que acham seu conhecimento de mundo mais importante que o dos outros.",
+      "C": "humildade de alguns grupos que priorizam seu conhecimento de mundo criticando o dos outros.",
+      "D": "humildade de alguns grupos que não buscam o diálogo para uma sociedade mais harmônica."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.semantica.sentido",
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, descubra a que se refere o “Que” do trecho. Releia a frase anterior (linhas 4 a 6): “Um homem precisa viajar para lugares que não conhece para quebrar <b>essa arrogância</b> que nos faz ver o mundo como o imaginamos, e não simplesmente como é ou pode ser.” Logo depois vem: “Que nos faz professores e doutores do que não vimos” (linha 6). Esse “Que” retoma “essa arrogância”: é a arrogância que nos faz agir como especialistas em lugares e coisas que nunca vimos.</p><p>“Professores e doutores” está em sentido figurado: indica quem se acha dono do saber. O autor completa que, na verdade, “deveríamos ser alunos, e simplesmente ir ver” (linha 7). A crítica, portanto, é à arrogância de quem considera o próprio modo de ver o mundo superior ao dos outros e não se abre para aprender. É o que diz a alternativa <b>B</b>.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Lê “professores e doutores” ao pé da letra. O texto não fala de educadores de verdade: usa essas palavras em sentido figurado para criticar qualquer pessoa que se acha especialista no que nunca viu.",
+      "C": "O texto critica a arrogância, e não a humildade. Além disso, priorizar o próprio conhecimento e criticar o dos outros é justamente uma atitude arrogante.",
+      "D": "Fala em humildade, que é o contrário do que o texto critica, e traz a ideia de diálogo e de sociedade harmônica, que não aparece no Texto I."
+    },
+    "tip": "Quando um trecho começa com um pronome como “Que”, volte à frase anterior para descobrir a que palavra ele se refere: ali costuma estar a chave da resposta."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O uso de determinadas figuras de linguagem funciona como poderoso recurso de persuasão em alguns textos.</p><p>No texto I, um exemplo de emprego da antítese é:</p>",
+    "options": {
+      "A": "“Por sua conta, não por meio de histórias, imagens, livros ou TV.” (linha 1).",
+      "B": "“Para um dia plantar as suas próprias árvores e dar-lhes valor.” (linhas 2-3).",
+      "C": "“(...) para quebrar essa arrogância que nos faz ver o mundo como o imaginamos (...)” (linhas 5-6).",
+      "D": "“Conhecer o frio para desfrutar o calor. E o oposto.” (linha 3)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A <b>antítese</b> é a figura de linguagem que aproxima palavras ou ideias de sentidos opostos para realçar o contraste entre elas.</p><p>Na linha 3, o autor escreve: “Conhecer o frio para desfrutar o calor. E o oposto.” As palavras “frio” e “calor” têm sentidos contrários, e a expressão “E o oposto” reforça o contraste, pois inverte a relação (conhecer o calor para desfrutar o frio). A oposição ajuda a convencer o leitor: só valorizamos o que temos depois de experimentar o seu contrário, como em “Sentir a distância e o desabrigo para estar bem sob o próprio teto” (linhas 3 e 4).</p><p>Nas outras alternativas não há um par de termos de sentidos opostos.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O trecho usa uma negação para excluir os meios indiretos de conhecer o mundo (histórias, imagens, livros, TV), mas não traz um par de palavras de sentidos opostos, como “frio” e “calor”.",
+      "B": "O trecho apenas expressa uma finalidade (“Para um dia plantar...”); não há nenhuma oposição de sentidos.",
+      "C": "O contraste do texto está entre ver o mundo “como o imaginamos” e “como é”, mas o trecho foi cortado antes da segunda parte. Sozinho, ele não contém termos opostos."
+    },
+    "tip": "Para achar uma antítese, procure no mesmo trecho um par de palavras de sentidos contrários, como frio e calor, luz e sombra, amor e ódio."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>No poema de Mário Quintana (texto II), foi empregada a expressão “<b>de alma aberta</b>” (4º verso), que apresenta relação direta com a ideia principal do texto I.</p><p>De acordo com a leitura dos dois textos, a expressão em destaque significa essencialmente</p>",
+    "options": {
+      "A": "estar disposto a aprender com o novo, sem preconceitos.",
+      "B": "recusar-se a ouvir o seu próprio coração sem preconceitos.",
+      "C": "estar disposto a impor suas ideias ao mundo, sem medos.",
+      "D": "recusar-se a ouvir grupos sociais diversificados dos conhecidos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No Texto II, o poeta diz que devemos sair à rua “Como se estivessem abertos diante de nós todos os caminhos do mundo” (2º verso) e que chegamos “de alma aberta e o coração cantando” (4º verso). Ter a “alma aberta” é uma expressão figurada: significa estar receptivo, pronto para acolher o que é novo.</p><p>Essa ideia combina com o Texto I. Amyr Klink defende que é preciso viajar “para quebrar essa arrogância que nos faz ver o mundo como o imaginamos” (linha 5) e diz que “deveríamos ser alunos, e simplesmente ir ver” (linha 7). Ser aluno é estar disposto a aprender; abandonar a arrogância é deixar de lado as ideias prontas, isto é, os preconceitos.</p><p>Juntando os dois textos, “de alma aberta” significa estar disposto a aprender com o novo, sem preconceitos.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Recusar-se” vai contra a ideia de abertura. No poema, o coração não é ignorado: ele está “cantando”, cheio de alegria.",
+      "C": "Impor as próprias ideias ao mundo é justamente a arrogância que o Texto I critica. Ter a alma aberta é receber o novo, e não impor o que já se pensa.",
+      "D": "Recusar-se a ouvir grupos diferentes é o oposto de ter a “alma aberta”: seria uma atitude fechada e preconceituosa."
+    },
+    "tip": "Expressões figuradas como “de alma aberta” devem ser lidas no sentido conotativo e confirmadas pelas ideias do texto: aqui, abertura significa disposição para aprender."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Releia os seguintes versos destacados do texto II:</p><blockquote><p>“A gente sempre deve sair à rua <b><u>como</u></b> quem foge de casa<br><b><u>Como</u></b> se estivessem abertos diante de nós todos os caminhos do mundo”</p></blockquote><p>A conjunção sublinhada nos dois versos estabelece uma relação de sentido de</p>",
+    "options": {
+      "A": "causa.",
+      "B": "conformidade.",
+      "C": "comparação.",
+      "D": "consequência."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Nos dois versos, a conjunção “como” liga o modo de sair à rua a uma imagem que serve de comparação:</p><ul><li>“sair à rua <b>como</b> quem foge de casa”: devemos sair do mesmo jeito que sai alguém que foge de casa, com vontade de liberdade;</li><li>“<b>Como</b> se estivessem abertos diante de nós todos os caminhos do mundo”: devemos sair do mesmo modo que sairíamos se todos os caminhos estivessem abertos. “Como se” compara com uma situação imaginada.</li></ul><p>Faça o teste da troca: “tal qual” ou “do mesmo modo que” mantêm o sentido (“sair à rua tal qual quem foge de casa”). Já “porque”, “conforme” ou “de modo que” não funcionam. A relação é de <b>comparação</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O “como” causal equivale a “porque” e costuma abrir a frase (“Como choveu, fiquei em casa”). Aqui não há causa: fugir de casa não é o motivo de sair à rua.",
+      "B": "O “como” conformativo equivale a “conforme” ou “segundo” (“Fiz como o professor mandou”). Trocar por “conforme” deixaria os versos sem sentido.",
+      "D": "Consequência é indicada por “de modo que”, “tanto que” e semelhantes. O “como” dos versos não apresenta o resultado de nada."
+    },
+    "tip": "Para descobrir o sentido de “como”, teste trocas: “porque” (causa), “conforme” (conformidade), “tal qual” ou “do mesmo modo que” (comparação)."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Pode-se afirmar que a frase “<b>Na realidade, o fim do mundo, como o princípio, é o nosso conceito do mundo.</b>”, do 3º parágrafo, quer dizer que o conceito de mundo</p>",
+    "options": {
+      "A": "tem princípio, mas não se sabe o fim.",
+      "B": "varia de pessoa para pessoa.",
+      "C": "não tem princípio nem fim.",
+      "D": "é o mesmo para todos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A frase está no 3º parágrafo: “Na realidade, o fim do mundo, como o princípio, é o nosso conceito do mundo” (linha 8). Ou seja, o mundo, do começo ao fim, é aquilo que cada um de nós pensa e sente sobre ele.</p><p>O próprio texto confirma essa leitura logo depois: “É em nós que as paisagens têm paisagem” (linhas 8 e 9) e, no final, “O que vemos não é o que vemos, senão o que somos” (linhas 12 e 13). Se o mundo depende de quem o vê, e cada pessoa tem sua imaginação e suas sensações, o conceito de mundo muda de uma pessoa para outra.</p><p>Por isso, o conceito de mundo <b>varia de pessoa para pessoa</b>.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O texto não fala de um mundo com começo conhecido e fim desconhecido. Ao dizer “o fim do mundo, como o princípio”, o autor trata os dois da mesma forma: ambos são o nosso conceito.",
+      "C": "A frase não nega que existam princípio e fim; ela diz que os dois estão dentro de nós. Quem marca esta opção leu “fim” e “princípio” ao pé da letra.",
+      "D": "É o contrário do texto: se o mundo é “o nosso conceito do mundo” e “O que vemos não é o que vemos, senão o que somos” (linhas 12 e 13), ele depende de cada pessoa e não é igual para todos."
+    },
+    "tip": "Para entender uma frase mais filosófica, procure no mesmo texto outras frases que digam a mesma coisa de outro jeito: elas confirmam a interpretação."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>“<b><u>Se</u></b> imagino, vejo.” (linha 4)</p><p>No que se refere ao conectivo sublinhado, pode-se dizer que exprime uma relação de</p>",
+    "options": {
+      "A": "condição e pode ser substituído por <b><i>caso</i></b> com alteração do tempo verbal da oração subordinada.",
+      "B": "condição e pode ser substituído por <b><i>caso</i></b> sem necessidade de alteração no tempo verbal da oração subordinada.",
+      "C": "conclusão e pode ser substituído por <b><i>portanto</i></b> com alteração do tempo verbal da oração subordinada.",
+      "D": "conclusão e pode ser substituído por <b><i>portanto</i></b> sem necessidade de alteração no tempo verbal da oração subordinada."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.verbos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Em “<b>Se</b> imagino, vejo.” (linha 4), o “se” apresenta uma condição: <i>ver</i> depende de <i>imaginar</i>. É uma conjunção subordinativa <b>condicional</b>, e “Se imagino” é a oração subordinada. Isso já elimina C e D.</p><p>Agora troque “se” por “caso”. A conjunção “caso” exige o verbo no <b>subjuntivo</b>:</p><ul><li>“Se imagino, vejo.” (<i>imagino</i>: presente do indicativo)</li><li>“Caso imagine, vejo.” (<i>imagine</i>: presente do subjuntivo)</li></ul><p>Não se diz “Caso imagino”. Logo, a troca é possível, mas obriga a mudar a forma verbal da oração subordinada. A banca chama essa mudança de “alteração do tempo verbal”; a rigor, o que muda é o modo (do indicativo para o subjuntivo), mas a ideia é a mesma: o verbo precisa ser alterado.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Acerta a relação de condição, mas “caso” não aceita o verbo no indicativo: “Caso imagino” está errado. É preciso passar para o subjuntivo (“Caso imagine”).",
+      "C": "Não há conclusão: imaginar é a condição para ver, e não uma conclusão tirada de algo dito antes. Além disso, “portanto” é conjunção coordenativa e não introduz oração subordinada.",
+      "D": "Erra a relação de sentido: “Portanto imagino, vejo” não tem sentido. O “se” indica condição, e não conclusão."
+    },
+    "tip": "O “se” condicional pode ser trocado por “caso”, mas depois de “caso” o verbo vai para o subjuntivo: “se imagino” vira “caso imagine”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>Uma diferença nítida entre as ideias dos textos I e III é que, enquanto o autor do texto I</p>",
+    "options": {
+      "A": "não crê que seja necessário deslocar-se para viajar, o do texto III vê a necessidade de deslocamento para que se promovam as descobertas de uma viagem interior.",
+      "B": "defende a ideia de que a viagem determina as mudanças no ser, o autor do texto III acredita que as mudanças não acontecem.",
+      "C": "defende a ideia de que as coisas nunca são como são, o do texto III defende que elas nunca mudam, mesmo quando se entra em contato com outras culturas.",
+      "D": "crê que é preciso deslocar-se para que alguém viaje e se conheça, o autor do texto III afirma que a viagem e o autoconhecimento não necessitam de deslocamento."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare a tese de cada autor.</p><p><b>Texto I:</b> Amyr Klink afirma que “Um homem precisa viajar. Por sua conta, não por meio de histórias, imagens, livros ou TV” (linha 1) e que é preciso viajar “com seus olhos e pés, para entender o que é seu” (linha 2). Para ele, conhecer o mundo e a si mesmo exige ir aos lugares, ou seja, deslocar-se.</p><p><b>Texto III:</b> Fernando Pessoa defende o oposto: “Para viajar basta existir” (linha 1) e “Só a fraqueza extrema da imaginação justifica que se tenha que deslocar para sentir” (linhas 4 e 5). Ele ainda pergunta onde estaria, em qualquer lugar do mundo, “senão em mim mesmo” (linha 11). Para ele, a viagem acontece dentro da pessoa, pela imaginação.</p><p>A alternativa <b>D</b> resume essa diferença.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Inverte os autores: é o Texto I que defende o deslocamento, e o Texto III que o dispensa (“Para viajar basta existir”, linha 1).",
+      "B": "O Texto III não diz que as mudanças não acontecem; ele até fala de gestos e rostos “sempre iguais e sempre diferentes” (linha 3). A diferença entre os textos está na necessidade de se deslocar.",
+      "C": "O Texto I não diz que as coisas “nunca são como são”; ele critica quem vê o mundo como o imagina, “e não simplesmente como é” (linhas 5 e 6). E o Texto III não fala de contato com outras culturas."
+    },
+    "tip": "Em questões de comparação, resuma em uma frase a tese de cada texto antes de ler as alternativas e desconfie das opções que invertem os autores."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>No texto IV, Mafalda utiliza o adjetivo “<b>ingênuos</b>” porque</p>",
+    "options": {
+      "A": "considera que aqueles que enviam as cartas não conhecem bem a vida.",
+      "B": "entende a fala do pai como uma mudança real de identidade.",
+      "C": "ironiza a sensação de mudança manifestada pelo pai.",
+      "D": "considera que aqueles que enviam cartas não entendem de viagens."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.semantica.figuras",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No 1º quadrinho, o pai chega das férias animado e diz: “A gente volta das férias se sentindo outro!”. Ele quer dizer que se sente renovado, como se fosse outra pessoa.</p><p>No 2º quadrinho, Mafalda está no meio das cartas que chegaram e comenta: “Veja você, e esses ingênuos continuam mandando contas em nome de quem você era antes!”. Ela finge levar a frase do pai ao pé da letra: se ele virou “outro”, quem cobra a pessoa antiga seria “ingênuo”. Na verdade, Mafalda sabe que o pai continua o mesmo e que as contas são dele.</p><p>Ao chamar os remetentes de “ingênuos”, ela faz uma <b>ironia</b>: diz uma coisa para dar a entender outra, mostrando que a sensação de mudança do pai não muda a realidade. A cara desanimada do pai confirma o efeito.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o sentido literal de “ingênuo”, mas Mafalda não está criticando os remetentes de verdade. O adjetivo é irônico, e o alvo da brincadeira é a fala do pai.",
+      "B": "Mafalda só finge acreditar na mudança para brincar com a frase do pai; ela sabe que ele continua o mesmo, tanto que as contas são dele.",
+      "D": "A tirinha não trata de entender ou não de viagens. As cartas são contas, e o humor está no choque entre a sensação de “ser outro” e as obrigações, que continuam as mesmas."
+    },
+    "tip": "Na ironia, a palavra diz uma coisa e quer dizer outra: pergunte-se sempre qual fala ou atitude está sendo o alvo da brincadeira."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T2",
+      "T4"
+    ],
+    "stem": "<p>As ideias contidas no texto II contrapõem-se ao 2º quadrinho da tira de Mafalda, texto IV.</p><p>Marque a alternativa que explicita essa contraposição.</p>",
+    "options": {
+      "A": "“Não importa que os compromissos, as obrigações, estejam ali...” (3º verso)",
+      "B": "“Chegamos de muito longe” (4º verso)",
+      "C": "“A gente sempre deve sair à rua como quem foge de casa” (1º verso)",
+      "D": "“de alma aberta e o coração cantando” (4º verso)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, observe o 2º quadrinho: ao voltar para casa, a família encontra várias cartas no chão, e Mafalda avisa que são contas. O pai, que estava animado, fica sério e desanimado. As contas representam os <b>compromissos e as obrigações</b> que esperavam por eles e que, na tirinha, pesam muito.</p><p>Agora procure no poema o verso que fala exatamente disso: “Não importa que os compromissos, as obrigações, estejam ali...” (3º verso). Para o poeta, as obrigações não devem tirar a alegria de sair pelo mundo. Na tirinha, ao contrário, as obrigações estão ali e importam, sim: elas acabam com a sensação de renovação do pai.</p><p>É esse verso que se contrapõe ao 2º quadrinho.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Chegamos de muito longe” até combina com a tirinha, já que a família volta de viagem; não há contraposição aqui.",
+      "C": "O 1º verso fala do jeito de sair de casa, com vontade de liberdade. O 2º quadrinho não trata da saída, e sim da volta e das contas acumuladas.",
+      "D": "Existe um contraste com a cara desanimada do pai, mas ele é indireto. O elemento central do 2º quadrinho são as contas, e o verso que trata justamente de compromissos e obrigações é o 3º."
+    },
+    "tip": "Para comparar um poema com uma tirinha, identifique o elemento central da imagem (aqui, as contas) e procure no outro texto a parte que fala do mesmo assunto."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>Leia a seguinte frase elaborada a partir da leitura do 2º quadrinho: <b>E esses ingênuos continuam mandando contas em seu nome.</b></p><p>Assinale a alternativa que corresponde à correta reescrita dessa frase na voz passiva.</p>",
+    "options": {
+      "A": "E esses ingênuos continuarão mandando contas em seu nome.",
+      "B": "E contas continuaram sendo mandadas em seu nome pelos ingênuos.",
+      "C": "E contas continuam mandando em seu nome por esses ingênuos.",
+      "D": "E contas em seu nome continuam sendo mandadas por esses ingênuos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na voz ativa, o sujeito pratica a ação; na voz passiva, o sujeito sofre a ação. Analise a frase:</p><ul><li>sujeito (quem pratica a ação): “esses ingênuos”;</li><li>locução verbal: “continuam mandando” (presente do indicativo);</li><li>objeto direto (o que é mandado): “contas em seu nome”.</li></ul><p>Para passar para a voz passiva analítica:</p><ol><li>o objeto direto vira sujeito: “contas em seu nome”;</li><li>o auxiliar fica no mesmo tempo (“continuam”), e “mandando” vira “sendo mandadas” (verbo <i>ser</i> + particípio concordando com “contas”);</li><li>o antigo sujeito vira agente da passiva, com “por”: “por esses ingênuos”.</li></ol><p>Resultado: “E contas em seu nome continuam sendo mandadas por esses ingênuos.”</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Continua na voz ativa (“esses ingênuos” ainda praticam a ação) e ainda muda o tempo verbal para o futuro (“continuarão”).",
+      "B": "Está na voz passiva, mas muda o tempo do presente (“continuam”) para o pretérito (“continuaram”) e troca “esses ingênuos” por “os ingênuos”.",
+      "C": "Não é voz passiva: falta o verbo “ser” com o particípio. Do jeito que está, parece que as contas é que mandam em alguém."
+    },
+    "tip": "Na passiva analítica, o objeto direto vira sujeito, o verbo ser assume o tempo e a forma do verbo principal da ativa (“mandando” vira “sendo mandadas”) e quem praticava a ação vira agente da passiva, com “por”."
+  }
+]

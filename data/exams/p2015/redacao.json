@@ -1,0 +1,21 @@
+{
+  "genre": "carta argumentativa",
+  "theme": "Liberdade de expressão (no humor): ela tem limites, ou cada pessoa pode usar de sua liberdade como julgar adequada?",
+  "prompt_html": "<p>Há uma frase feita, recorrente no meio dos humoristas, que diz: “Não há piada preconceituosa; o que há é piada sem graça.” Esses defendem que o humor deve combater todas as formas de poder, de dogmas, enfim, todas as verdades absolutas aceitas pelo conjunto da sociedade. Há outro ditado, no entanto, que afirma: “Minha liberdade termina onde começa a liberdade do outro”.</p><p>Considerando esses dois pensamentos, escreva uma carta à autora do <b>texto I</b> desta prova, Natalia Klein, em que você defenda seu ponto de vista sobre a <b>liberdade de expressão:</b> ela tem limites, ou cada pessoa pode usar de sua liberdade como julgar adequada?</p>",
+  "requirements": [
+    "conter obrigatoriamente argumentos que sustentem suas opiniões",
+    "ter entre 20 e 25 linhas",
+    "apresentar letra legível e não conter rasuras",
+    "ter, no mínimo, três parágrafos",
+    "estar de acordo com a norma padrão para a modalidade escrita",
+    "ser em prosa",
+    "estar de acordo com a proposta apresentada"
+  ],
+  "zero_criteria": [],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem introduzida por “Seu texto deverá:”.",
+    "A prova não traz uma lista de critérios de nota zero nem exige título."
+  ]
+}

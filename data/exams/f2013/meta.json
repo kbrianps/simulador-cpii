@@ -1,0 +1,18 @@
+{
+  "id": "f2013",
+  "year": 2012,
+  "ingress_year": 2013,
+  "shift": null,
+  "title": "Matemática 2013 (CP2 Digital)",
+  "edital": null,
+  "applied_on": null,
+  "duration_min": 0,
+  "source_url": "https://docs.google.com/forms/d/1StJx1sdInQkiERsF9CqrMEqjyw96wzaTbaWWcu3z-bg/viewform",
+  "answer_key_url": null,
+  "answer_key_kind": "resolvido",
+  "notes": [
+    "Questões do concurso de 2013 adaptadas para múltipla escolha pelo CP2 Digital (Colégio Pedro II). O CP2 Digital não publicou gabarito; as respostas foram resolvidas e conferidas pela equipe do simulador.",
+    "Pelo conteúdo, a prova do “Concurso de 2013” foi aplicada no fim de 2012, para ingresso em 2013: a Questão 3 diz que as Olimpíadas de Londres foram realizadas “este ano”, e as fontes citadas foram consultadas em setembro e novembro de 2012.",
+    "A Questão 4 foi considerada anulada pela equipe do simulador: a fórmula que gera a tabela é 12n + 16, e nenhuma alternativa corresponde a ela."
+  ]
+}

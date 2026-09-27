@@ -1,0 +1,270 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Observe na figura a forma de se arrumar mesas e cadeiras.</p><p><img src=\"img/p2014/mat-q11.png\" alt=\"Três arrumações de mesas quadradas com cadeiras (pequenos retângulos) encostadas nos lados. Primeira: 1 mesa com 4 cadeiras, uma em cada lado. Segunda: 2 mesas juntas lado a lado com 6 cadeiras, 2 em cima, 2 embaixo e 1 em cada ponta. Terceira: 3 mesas juntas lado a lado com 8 cadeiras, 3 em cima, 3 embaixo e 1 em cada ponta.\"></p><p>O número de cadeiras necessárias quando se chegar a 50 mesas será</p>",
+    "options": {
+      "A": "102.",
+      "B": "104.",
+      "C": "106.",
+      "D": "108."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Conte as cadeiras em cada arrumação: 1 mesa tem 4 cadeiras, 2 mesas têm 6 e 3 mesas têm 8. A cada mesa nova, o total aumenta 2.</p><p>Um jeito de enxergar a regra: cada mesa tem 1 cadeira em cima e 1 embaixo (2 por mesa), e a fila inteira tem mais 2 cadeiras, uma em cada ponta. Com \\(n\\) mesas, o número de cadeiras é</p><p>\\[2n + 2\\]</p><p>Teste a regra na figura: \\(n = 1\\) dá 4, \\(n = 2\\) dá 6 e \\(n = 3\\) dá 8. Funciona.</p><p>Para 50 mesas: \\(2 \\cdot 50 + 2 = 100 + 2 = 102\\) cadeiras. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É \\(4 + 2 \\cdot 50\\): começou pelas 4 cadeiras da primeira mesa e somou 2 para cada uma das 50 mesas, contando a primeira mesa duas vezes. O certo seria \\(4 + 2 \\cdot 49 = 102\\).",
+      "C": "É \\(6 + 2 \\cdot 50\\): partiu da segunda arrumação (2 mesas e 6 cadeiras) e ainda somou 2 para cada uma das 50 mesas, contando 2 mesas duas vezes.",
+      "D": "É \\(8 + 2 \\cdot 50\\): partiu da terceira arrumação (3 mesas e 8 cadeiras) e somou 2 para as 50 mesas, contando 3 mesas duas vezes."
+    },
+    "tip": "Em sequências de figuras, veja quanto aumenta de uma figura para a seguinte, escreva a regra e teste nas figuras dadas antes de usá-la."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma reunião foram trocados apertos de mão entre as pessoas presentes, de modo que cada pessoa cumprimentou todas as outras uma única vez. Observe a tabela que indica a quantidade de apertos de mão realizados entre \\(n\\) pessoas.</p><table><thead><tr><th>Número de pessoas</th><th>Número de apertos de mão</th></tr></thead><tbody><tr><td>3</td><td>3</td></tr><tr><td>4</td><td>6</td></tr><tr><td>5</td><td>10</td></tr><tr><td>...</td><td>...</td></tr><tr><td>\\(n\\)</td><td>\\(\\dfrac{n.(n-1)}{2}\\)</td></tr></tbody></table><p>Se nessa reunião foram realizados 78 apertos de mão, o número de pessoas presentes foi</p>",
+    "options": {
+      "A": "um número par múltiplo de 3.",
+      "B": "um número primo.",
+      "C": "um número quadrado perfeito.",
+      "D": "um número divisor de 100."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Pela tabela, com \\(n\\) pessoas há \\(\\dfrac{n(n-1)}{2}\\) apertos de mão. Igualando a 78:</p><p>\\[\\frac{n(n-1)}{2} = 78 \\quad\\Rightarrow\\quad n(n-1) = 156\\]</p><p>Procuramos dois números inteiros consecutivos cujo produto seja 156. Como \\(12 \\cdot 12 = 144\\) e \\(13 \\cdot 13 = 169\\), testamos \\(13 \\cdot 12 = 156\\). Deu certo: \\(n = 13\\).</p><p>(Pela fórmula de Bhaskara: \\(n^2 - n - 156 = 0\\), \\(\\Delta = 1 + 624 = 625\\), \\(n = \\dfrac{1 + 25}{2} = 13\\). A outra raiz, \\(-12\\), não serve, porque não existe número negativo de pessoas.)</p><p>Confira: \\(\\dfrac{13 \\cdot 12}{2} = 78\\).</p><p>Agora compare com as alternativas: 13 só é divisível por 1 e por ele mesmo, então é um <b>número primo</b>. Ele é ímpar, não é quadrado perfeito (fica entre 9 e 16) e não divide 100. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Um número par múltiplo de 3 seria, por exemplo, 12, que é o fator \\(n - 1\\) e não o número de pessoas. Com 12 pessoas haveria só \\(\\frac{12 \\cdot 11}{2} = 66\\) apertos de mão.",
+      "C": "13 não é quadrado perfeito, pois \\(3^2 = 9\\) e \\(4^2 = 16\\). Nenhum quadrado perfeito satisfaz \\(n(n-1) = 156\\).",
+      "D": "Os divisores de 100 são 1, 2, 4, 5, 10, 20, 25, 50 e 100; o 13 não está na lista."
+    },
+    "tip": "Para resolver \\(n(n-1) = k\\) sem Bhaskara, procure dois inteiros consecutivos perto da raiz quadrada de \\(k\\)."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma aula de Artes Visuais, a professora pediu aos seus alunos que construíssem um quadrado a partir do recorte de dois quadrados de lados medindo \\(x\\) e \\(y\\). Mirian, uma das alunas mais criativas, decidiu confeccionar a sua peça quadrada de acordo com os passos seguintes:</p><p>Passo 1 – marcou o centro dos dois quadrados, colocou um sobre o outro, fazendo com que os centros coincidissem no ponto C.</p><p><img src=\"img/p2014/mat-q13-1.png\" alt=\"Passo 1: um quadrado maior, de lado y, e sobre ele um quadrado menor, de lado x, girado (inclinado) em relação ao maior. Os dois quadrados têm o mesmo centro, marcado como ponto C.\"></p><p>Passo 2 – traçou retas pontilhadas sobre os lados do quadrado menor.</p><p><img src=\"img/p2014/mat-q13-2.png\" alt=\"Passo 2: a mesma figura do passo 1, agora com os quatro lados do quadrado menor (lado x) prolongados por retas pontilhadas que atravessam todo o quadrado maior (lado y). O centro C continua marcado.\"></p><p>Passo 3 – recortou quatro quadriláteros congruentes a partir da área visível do quadrado maior.</p><p><img src=\"img/p2014/mat-q13-3.png\" alt=\"Passo 3: o quadrado maior, de lado y, dividido pelas retas pontilhadas em quatro quadriláteros congruentes coloridos (bege, azul, verde-água e amarelo), que ficam em volta do quadrado menor, de lado x. O quadrado menor aparece vazio (branco) no meio.\"></p><p>Passo 4 – posicionou os quatro quadriláteros de tal maneira que formassem um novo quadrado de lado de medida \\(z\\).</p><p><img src=\"img/p2014/mat-q13-4.png\" alt=\"Passo 4: um novo quadrado, de lado z, formado pelos quatro quadriláteros encaixados, sem sobrar buraco. Dentro dele, dois segmentos que se cruzam no centro marcam as bordas entre as quatro peças.\"></p><p>Uma relação válida entre as medidas \\(x\\), \\(y\\) e \\(z\\) dos lados dos quadrados é</p>",
+    "options": {
+      "A": "\\(z = y - x\\).",
+      "B": "\\(z = \\dfrac{y - x}{2}\\).",
+      "C": "\\(z = \\sqrt{y - x}\\).",
+      "D": "\\(z = \\sqrt{y^2 - x^2}\\)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A ideia central: recortar peças e montá-las de outro jeito <b>não muda a área total</b>.</p><p>As quatro peças recortadas são a parte do quadrado maior que fica <b>fora</b> do quadrado menor. Então a área das quatro peças juntas é a área do quadrado maior menos a área do menor: \\(y^2 - x^2\\).</p><p>No passo 4, essas mesmas peças formam um quadrado de lado \\(z\\), cuja área é \\(z^2\\). Logo:</p><p>\\[z^2 = y^2 - x^2 \\quad\\Rightarrow\\quad z = \\sqrt{y^2 - x^2}\\]</p><p>(Usamos a raiz positiva, porque \\(z\\) é uma medida.) Resposta: <b>D</b>.</p><p>Um teste com números ajuda a descartar as outras: com \\(y = 5\\) e \\(x = 3\\), as peças têm área \\(25 - 9 = 16\\), então \\(z = 4\\). A alternativa A daria 2, a B daria 1 e a C daria \\(\\sqrt{2}\\); só a D dá \\(\\sqrt{16} = 4\\).</p>",
+    "distractors": {
+      "A": "Subtraiu os lados em vez das áreas. O que se conserva no recorte é a área, e \\(y - x\\) não é igual a \\(\\sqrt{y^2 - x^2}\\) (com \\(y = 5\\) e \\(x = 3\\): 2 contra 4).",
+      "B": "\\(\\frac{y - x}{2}\\) seria a largura da faixa em volta do quadrado menor se os dois quadrados estivessem alinhados. Mas o novo quadrado é montado com toda a área das quatro peças, \\(y^2 - x^2\\), e não com uma faixa. Com \\(y = 5\\) e \\(x = 3\\), daria 1, e não 4.",
+      "C": "Esqueceu de elevar os lados ao quadrado: a área de um quadrado de lado \\(y\\) é \\(y^2\\), não \\(y\\). Com \\(y = 5\\) e \\(x = 3\\), daria \\(\\sqrt{2}\\), bem longe de 4."
+    },
+    "tip": "Recortar e remontar conserva a área: compare as áreas (lados ao quadrado), não os lados."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Rosinha pagou R$ 67,20 por uma blusa que estava sendo vendida com desconto de 16%. Quando suas amigas souberam, correram para a loja e tiveram a triste notícia que o desconto já havia acabado. O preço encontrado pelas amigas de Rosinha foi</p>",
+    "options": {
+      "A": "R$ 70,00.",
+      "B": "R$ 75,00.",
+      "C": "R$ 80,00.",
+      "D": "R$ 85,00."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Com desconto de 16%, Rosinha pagou \\(100\\% - 16\\% = 84\\%\\) do preço original \\(P\\):</p><p>\\[0{,}84 \\cdot P = 67{,}20 \\quad\\Rightarrow\\quad P = \\frac{67{,}20}{0{,}84} = \\frac{6720}{84} = 80\\]</p><p>Sem calculadora, confira a divisão pela multiplicação: \\(84 \\cdot 80 = 6720\\).</p><p>Outra forma: se 84% valem R$ 67,20, então 1% vale \\(67{,}20 \\div 84 = 0{,}80\\), e 100% valem \\(0{,}80 \\cdot 100 = 80\\).</p><p>Confira: 16% de R$ 80,00 são R$ 12,80, e \\(80 - 12{,}80 = 67{,}20\\). As amigas encontraram a blusa por R$ 80,00. Resposta: <b>C</b>.</p><p>Atenção: somar 16% a R$ 67,20 está errado, porque o desconto foi calculado sobre o preço original, e não sobre o preço já com desconto (essa conta daria R$ 77,95).</p>",
+    "distractors": {
+      "A": "Com preço de R$ 70,00, 16% de desconto são R$ 11,20, e Rosinha pagaria R$ 58,80, não R$ 67,20. Sair de 70 para 67,20 seria um desconto de apenas 4%.",
+      "B": "16% de R$ 75,00 são R$ 12,00; com o desconto, ela pagaria R$ 63,00, e não R$ 67,20.",
+      "D": "16% de R$ 85,00 são R$ 13,60, o que daria R$ 71,40. Sair de 85 para 67,20 seria um desconto de quase 21%, maior que 16%."
+    },
+    "tip": "Depois de um desconto de 16%, o preço pago é 84% do original: para voltar ao preço original, divida por 0,84 (não some 16%)."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>De uma caixa contendo <u>B</u> bolas brancas e <u>P</u> bolas pretas, retiraram-se 15 bolas brancas, permanecendo entre as bolas restantes a relação de 1 branca para 2 pretas. Em seguida, retiraram-se 10 pretas, restando, na caixa, um número de bolas na razão de 4 brancas para 3 pretas. Um sistema de equações que permite determinar os valores de <u>B</u> e <u>P</u> pode ser representado por:</p>",
+    "options": {
+      "A": "\\(\\begin{cases} 2B - P = 30 \\\\ 3B - 4P = 5 \\end{cases}\\)",
+      "B": "\\(\\begin{cases} B + P = 30 \\\\ B - P = 5 \\end{cases}\\)",
+      "C": "\\(\\begin{cases} 2B + P = -30 \\\\ -3B - 4P = -5 \\end{cases}\\)",
+      "D": "\\(\\begin{cases} 2B + P = 30 \\\\ 3B - 4P = 5 \\end{cases}\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Traduza cada frase em uma equação.</p><p><b>1ª etapa.</b> Retiram-se 15 brancas: ficam \\(B - 15\\) brancas e \\(P\\) pretas. “1 branca para 2 pretas” quer dizer que as pretas são o dobro das brancas:</p><p>\\[P = 2(B - 15) \\;\\Rightarrow\\; P = 2B - 30 \\;\\Rightarrow\\; 2B - P = 30\\]</p><p><b>2ª etapa.</b> Retiram-se 10 pretas: ficam \\(B - 15\\) brancas e \\(P - 10\\) pretas, na razão de 4 para 3:</p><p>\\[\\frac{B - 15}{P - 10} = \\frac{4}{3} \\;\\Rightarrow\\; 3(B - 15) = 4(P - 10)\\]</p><p>\\[3B - 45 = 4P - 40 \\;\\Rightarrow\\; 3B - 4P = 5\\]</p><p>Portanto, o sistema é</p><p>\\[\\begin{cases} 2B - P = 30 \\\\ 3B - 4P = 5 \\end{cases}\\]</p><p>Resposta: <b>A</b>.</p><p>Conferindo: da primeira equação, \\(P = 2B - 30\\); substituindo na segunda, \\(3B - 4(2B - 30) = 5\\), ou seja, \\(-5B = -115\\), \\(B = 23\\) e \\(P = 16\\). Tirando 15 brancas, ficam 8 brancas e 16 pretas (1 para 2). Tirando 10 pretas, ficam 8 brancas e 6 pretas, e \\(8 : 6 = 4 : 3\\). Tudo certo.</p>",
+    "distractors": {
+      "B": "Esse sistema só junta os números do enunciado, sem usar as razões. Resolvendo, daria \\(B = 17{,}5\\), que nem é um número inteiro de bolas.",
+      "C": "Os sinais estão trocados: de \\(P = 2B - 30\\) não se chega a \\(2B + P = -30\\). E multiplicar \\(3B - 4P = 5\\) por \\(-1\\) daria \\(-3B + 4P = -5\\), não \\(-3B - 4P = -5\\).",
+      "D": "Erro de sinal ao passar o \\(P\\) para o outro lado: de \\(P = 2B - 30\\) vem \\(2B - P = 30\\), e não \\(2B + P = 30\\)."
+    },
+    "tip": "Uma razão “a para b” vira a fração \\(\\frac{a}{b}\\); multiplique em cruz e confira os sinais ao passar termos para o outro lado."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Mariana gosta muito de desenhar, mas sempre usando formas geométricas. Ao iniciar um novo desenho, Mariana traçou um par de eixos perpendiculares e construiu quatro círculos idênticos com raio medindo 2 cm. Cada círculo é tangente a apenas um eixo e a intersecção dos quatro círculos coincide com a intersecção dos eixos.</p><p><img src=\"img/p2014/mat-q16-1.png\" alt=\"Um eixo horizontal e um eixo vertical cruzando-se e quatro círculos iguais, de raio 2 cm: um acima, um abaixo, um à esquerda e um à direita do cruzamento. Os centros ficam sobre os eixos e todos os círculos passam pelo ponto de cruzamento dos eixos; o de cima e o de baixo tocam o eixo horizontal, e o da esquerda e o da direita tocam o eixo vertical. Círculos vizinhos se sobrepõem, formando um desenho parecido com um trevo.\"></p><p>A seguir, Mariana desenhou um quadrado cujos vértices estão sobre os eixos.</p><p><img src=\"img/p2014/mat-q16-2.png\" alt=\"A mesma figura com um quadrado inclinado, em forma de losango, cujos vértices estão sobre os eixos, nos pontos mais afastados dos círculos (no alto do círculo de cima, embaixo do círculo de baixo e nas pontas externas dos círculos da esquerda e da direita). Cada lado do quadrado passa pelo ponto onde dois círculos vizinhos se cruzam.\"></p><p>Ela decidiu apagar parte da figura ficando apenas com a “flor” formada pelos arcos das circunferências.</p><p><img src=\"img/p2014/mat-q16-3.png\" alt=\"A “flor”: quatro pétalas iguais, em forma de folha pontuda, unidas no centro e apontando nas diagonais (para cima à esquerda, para cima à direita, para baixo à esquerda e para baixo à direita). Cada pétala é contornada por dois arcos de circunferência.\"></p><p>É correto afirmar que o perímetro da “flor” do desenho de Mariana, em cm, mede</p>",
+    "options": {
+      "A": "\\(2\\pi\\).",
+      "B": "\\(4\\pi\\).",
+      "C": "\\(8\\pi\\).",
+      "D": "\\(16\\pi\\)."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Cada pétala da “flor” é a parte comum a dois círculos vizinhos, por exemplo o de cima e o da direita. Esses dois círculos se cruzam em dois pontos: o cruzamento \\(O\\) dos eixos e a ponta \\(P\\) da pétala.</p><p>Chame de \\(C_1\\) o centro do círculo de cima e de \\(C_2\\) o centro do círculo da direita. Os segmentos \\(OC_1\\), \\(C_1P\\), \\(PC_2\\) e \\(C_2O\\) são todos raios, logo medem 2 cm. Além disso, o ângulo em \\(O\\) é reto, porque os eixos são perpendiculares. Um quadrilátero com os quatro lados iguais e um ângulo reto é um <b>quadrado</b>. Então \\(OC_1PC_2\\) é um quadrado de lado 2 cm, e o ângulo em cada centro (\\(C_1\\) e \\(C_2\\)) também é de 90°.</p><p>Um ângulo central de 90° corresponde a \\(\\frac{1}{4}\\) da circunferência. Cada circunferência mede \\(2\\pi r = 2\\pi \\cdot 2 = 4\\pi\\) cm, então cada arco da pétala mede \\(\\dfrac{4\\pi}{4} = \\pi\\) cm.</p><p>Cada pétala tem 2 arcos, e a flor tem 4 pétalas:</p><p>\\[4 \\cdot 2 \\cdot \\pi = 8\\pi \\text{ cm}\\]</p><p>Resposta: <b>C</b>.</p><p>Outra forma de ver: de cada círculo, a flor usa a metade voltada para o centro (dois arcos de um quarto). São 4 meias circunferências: \\(4 \\cdot \\dfrac{4\\pi}{2} = 8\\pi\\).</p>",
+    "distractors": {
+      "A": "\\(2\\pi\\) é o perímetro de uma pétala só (dois arcos de \\(\\pi\\) cm). A flor tem quatro pétalas.",
+      "B": "\\(4\\pi\\) é o comprimento de uma circunferência inteira de raio 2 cm. A flor usa metade de cada uma das quatro circunferências, o que dá o dobro disso.",
+      "D": "\\(16\\pi\\) é a soma das quatro circunferências inteiras (\\(4 \\cdot 4\\pi\\)). Mas metade de cada circunferência foi apagada; só ficou a metade voltada para o centro."
+    },
+    "tip": "Um arco com ângulo central de 90° mede um quarto da circunferência: \\(\\frac{2\\pi r}{4}\\)."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um aluno, antes de sair de casa para ir ao colégio, sempre toma um copo de café com leite. Para fazer a mistura matinal, ele despeja 20 ml do café do copo <u>A</u> no copo <u>B</u> que está com leite. Mistura, então, o café com o leite. Não satisfeito com o volume do líquido do copo <u>B</u>, retorna com 20 ml da mistura do copo <u>B</u> para o copo <u>A</u>.</p><p><img src=\"img/p2014/mat-q17.png\" alt=\"Título: Conteúdo inicial nos copos. Dois copos iguais, cada um com líquido até cerca da metade. À esquerda, copo A com 60 ml de café (líquido marrom). À direita, copo B com 60 ml de leite (líquido branco).\"></p><p>Em relação às misturas que ficaram nos dois copos, a fração de leite no café do copo 1 é</p>",
+    "options": {
+      "A": "igual à fração do café no leite do copo 2.",
+      "B": "a metade da fração do café no leite do copo 2.",
+      "C": "a terça parte da fração do café no leite do copo 2.",
+      "D": "a quarta parte da fração do café no leite do copo 2."
+    },
+    "answer": null,
+    "annulled": true,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Por que foi anulada?</b> O motivo mais provável: o enunciado chama os copos de A e B, mas a pergunta e as alternativas falam em “copo 1” e “copo 2”, que não aparecem em lugar nenhum. Mesmo assim, é um ótimo treino. Supondo que o copo 1 é o A e o copo 2 é o B:</p><p><b>1ª transferência.</b> Passam 20 ml de café de A para B. O copo A fica com 40 ml de café, e o copo B fica com 60 ml de leite e 20 ml de café, 80 ml ao todo. Em B, o café é \\(\\frac{20}{80} = \\frac{1}{4}\\) da mistura e o leite é \\(\\frac{3}{4}\\).</p><p><b>2ª transferência.</b> Voltam 20 ml da mistura de B para A. Esses 20 ml têm \\(\\frac{1}{4} \\cdot 20 = 5\\) ml de café e \\(\\frac{3}{4} \\cdot 20 = 15\\) ml de leite.</p><ul><li>Copo A: \\(40 + 5 = 45\\) ml de café e 15 ml de leite (60 ml ao todo).</li><li>Copo B: \\(20 - 5 = 15\\) ml de café e \\(60 - 15 = 45\\) ml de leite (60 ml ao todo).</li></ul><p>Fração de leite no copo A: \\(\\frac{15}{60} = \\frac{1}{4}\\). Fração de café no copo B: \\(\\frac{15}{60} = \\frac{1}{4}\\). As frações são <b>iguais</b>, e a resposta esperada seria a alternativa <b>A</b>.</p><p>Isso sempre acontece nessa troca: cada copo termina com os mesmos 60 ml do início, então o leite que entrou em A ocupa exatamente o lugar do café que ficou em B.</p>",
+    "distractors": {
+      "B": "Para ser a metade, o copo A teria de ter só 7,5 ml de leite. Mas A recebeu 15 ml de leite em 60 ml, ou seja, \\(\\frac{1}{4}\\), a mesma fração de café que ficou em B.",
+      "C": "Aparece quando alguém confunde os 5 ml de <b>café</b> que voltaram para A com leite: \\(\\frac{5}{60} = \\frac{1}{12}\\), que é a terça parte de \\(\\frac{1}{4}\\). Na verdade voltaram 15 ml de leite.",
+      "D": "Aparece quando se calcula “um quarto de um quarto” para o leite em A. Os 20 ml que voltam têm \\(\\frac{3}{4}\\) de leite (15 ml), e 15 ml em 60 ml dão \\(\\frac{1}{4}\\), igual à fração de café em B."
+    },
+    "tip": "Em trocas de líquidos em que os copos terminam com o volume inicial, o tanto de A que foi parar em B é igual ao tanto de B que foi parar em A."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No sistema eleitoral brasileiro, o Quociente Eleitoral (\\(Q_E\\)) é dado por \\(Q_E = \\dfrac{V}{C}\\), sendo \\(V\\) o total de votos válidos do Estado, e \\(C\\) o número de cadeiras (vagas) para deputado estadual. Para um candidato a deputado estadual ser eleito, basta obter uma quantidade de votos igual ou superior a \\(Q_E\\). Já o número de vagas de deputados estaduais destinadas a cada partido político ou coligação política é dado pelo Quociente Partidário (\\(Q_P\\)), calculado por meio da fórmula \\(Q_P = \\dfrac{V_P}{Q_E}\\), sendo \\(V_P\\) o número total de votos válidos obtidos pelo partido/coligação. Caso \\(Q_P\\) não seja um número inteiro, consideramos apenas sua parte inteira, desprezando a parte decimal. Caso \\(Q_E\\) não seja um número inteiro, considera-se apenas sua parte inteira, se a parte decimal for igual ou inferior a 0,5, ou arredondamos seu valor para a unidade imediatamente maior, se a parte decimal for maior do que 0,5.</p><p><small><i>(Disponível em: http://www.tse.jus.br/eleitor/glossario/termos-iniciados-com-a-letra-q#quociente-eleitoral. Último acesso: 18 de setembro de 2014. Adaptado.)</i></small></p><p>Suponha que para certo Estado existam 20 vagas para deputado estadual. Após a apuração, os votos válidos obtidos pelos 5 partidos/coligações (A, B, C, D e E) deste Estado foram representados no gráfico:</p><p><img src=\"img/p2014/mat-q18.png\" alt=\"Gráfico de barras com o título “Votos válidos”. Eixo vertical de 0 a 120000, com marcações de 10000 em 10000. Votos válidos de cada partido/coligação: A, 50000; B, 30000; C, 110000; D, 20000; E, 40000.\"></p><p>De acordo com as regras definidas para o Quociente Partidário, o número de cadeiras (vagas) de deputado estadual conquistadas pelo Partido/Coligação B foi</p>",
+    "options": {
+      "A": "5.",
+      "B": "4.",
+      "C": "3.",
+      "D": "2."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo: total de votos válidos.</b> Lendo o gráfico: A tem 50 000, B tem 30 000, C tem 110 000, D tem 20 000 e E tem 40 000 votos.</p><p>\\[V = 50\\,000 + 30\\,000 + 110\\,000 + 20\\,000 + 40\\,000 = 250\\,000\\]</p><p><b>2º passo: Quociente Eleitoral.</b> Com \\(C = 20\\) vagas: \\(Q_E = \\dfrac{250\\,000}{20} = 12\\,500\\). É um número inteiro, então não há o que arredondar.</p><p><b>3º passo: Quociente Partidário de B.</b></p><p>\\[Q_P = \\frac{V_P}{Q_E} = \\frac{30\\,000}{12\\,500} = 2{,}4\\]</p><p>A regra manda desprezar a parte decimal de \\(Q_P\\), então o partido/coligação B conquista <b>2</b> vagas. Resposta: <b>D</b>.</p><p>Conta sem calculadora: \\(12\\,500 \\cdot 2 = 25\\,000\\) e \\(12\\,500 \\cdot 3 = 37\\,500\\). Como 30 000 fica entre esses dois valores, a parte inteira de \\(Q_P\\) é 2.</p>",
+    "distractors": {
+      "A": "Aparece quando se usa 120 000 (o topo do eixo do gráfico) como total de votos: \\(120\\,000 \\div 20 = 6\\,000\\) e \\(30\\,000 \\div 6\\,000 = 5\\). O total correto é a soma das cinco barras, 250 000.",
+      "B": "4 é o número de vagas do partido A (\\(50\\,000 \\div 12\\,500 = 4\\)), não do B. Confira qual barra você está lendo.",
+      "C": "Sai de arredondar 2,4 para cima (ou de ler a barra de E: \\(40\\,000 \\div 12\\,500 = 3{,}2\\)). Para \\(Q_P\\), a regra é desprezar a parte decimal; o arredondamento vale só para \\(Q_E\\), e mesmo ele manteria 2 para 2,4."
+    },
+    "tip": "Quando o enunciado dá regras de arredondamento, veja com cuidado qual regra vale para cada quantidade: aqui \\(Q_P\\) sempre perde a parte decimal."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Vivian estuda no Colégio Pedro II e, para que seja aprovada sem prova final, é necessário que a média das três certificações que compõem o sistema de avaliação seja maior ou igual a sete. A tabela mostra as notas obtidas por Vivian em Matemática e o peso atribuído a cada uma das certificações.</p><table><thead><tr><th>Certificações</th><th>Notas</th><th>Peso</th></tr></thead><tbody><tr><td>Primeira</td><td>6,2</td><td>3</td></tr><tr><td>Segunda</td><td>7,4</td><td>3</td></tr><tr><td>Terceira</td><td>???</td><td>4</td></tr></tbody></table><p>A nota mínima que Vivian precisa tirar na terceira certificação, para ser aprovada sem prova final, é</p>",
+    "options": {
+      "A": "7,0.",
+      "B": "7,3.",
+      "C": "7,4.",
+      "D": "7,6."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na média ponderada, cada nota é multiplicada pelo seu peso, e a soma é dividida pela soma dos pesos (\\(3 + 3 + 4 = 10\\)). Chamando a terceira nota de \\(x\\):</p><p>\\[\\frac{3 \\cdot 6{,}2 + 3 \\cdot 7{,}4 + 4x}{10} \\geq 7\\]</p><p>Os produtos são \\(3 \\cdot 6{,}2 = 18{,}6\\) e \\(3 \\cdot 7{,}4 = 22{,}2\\), que somam \\(40{,}8\\). Multiplicando os dois lados por 10:</p><p>\\[40{,}8 + 4x \\geq 70 \\;\\Rightarrow\\; 4x \\geq 29{,}2 \\;\\Rightarrow\\; x \\geq 7{,}3\\]</p><p>A nota mínima é 7,3. Resposta: <b>B</b>.</p><p>Confira: \\(18{,}6 + 22{,}2 + 4 \\cdot 7{,}3 = 40{,}8 + 29{,}2 = 70\\), e \\(70 \\div 10 = 7\\).</p>",
+    "distractors": {
+      "A": "Tirar 7,0 não compensa o 6,2 da primeira certificação: a soma ficaria \\(40{,}8 + 28 = 68{,}8\\), e a média seria 6,88, abaixo de 7.",
+      "C": "É o resultado da média simples, sem pesos: \\(\\frac{6{,}2 + 7{,}4 + x}{3} = 7\\) dá \\(x = 7{,}4\\). Como a terceira certificação tem peso maior (4), basta 7,3.",
+      "D": "Com 7,6 Vivian também seria aprovada (média 7,12), mas a pergunta pede a nota <b>mínima</b>, e 7,3 já basta."
+    },
+    "tip": "Média ponderada: multiplique cada nota pelo seu peso e divida pela soma dos pesos; para achar a nota mínima, iguale a média ao valor exigido."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Certo fabricante vende biscoitos em forma de canudinhos recheados, de diversos sabores. A caixa em que esses biscoitos são vendidos tem a forma de um prisma hexagonal. A parte de cima dessa caixa tem a forma de um hexágono, com as medidas indicadas na figura:</p><p><img src=\"img/p2014/mat-q20.png\" alt=\"À esquerda, desenho da caixa em forma de prisma hexagonal, com a legenda “Caixa”. À direita, a figura com a legenda “Parte de cima da caixa”: um hexágono formado por um retângulo central e dois triângulos, um de cada lado. O lado de cima do retângulo mede 9 cm. Os quatro lados inclinados do hexágono medem 4 cm cada (dois à esquerda e dois à direita). Os ângulos nos vértices das pontas esquerda e direita medem 120°. Linhas tracejadas verticais separam o retângulo dos triângulos, e os quatro cantos do retângulo têm marca de ângulo reto.\"></p><p>Considerando a aproximação racional 1,7 para o valor de \\(\\sqrt{3}\\), a área da parte de cima dessa caixa, em centímetros quadrados, mede</p>",
+    "options": {
+      "A": "49,6.",
+      "B": "63,2.",
+      "C": "74,8.",
+      "D": "87,4."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.pitagoras",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Divida o hexágono como a figura sugere: um retângulo no meio e dois triângulos iguais nas pontas.</p><p><b>1º passo: o triângulo da ponta.</b> Ele é isósceles, com dois lados de 4 cm e ângulo de 120° entre eles. A altura traçada a partir do vértice de 120° divide esse triângulo em duas metades iguais, cada uma um triângulo retângulo com ângulos de 60°, 30° e 90° e hipotenusa de 4 cm.</p><p>Esse triângulo retângulo é metade de um triângulo equilátero de lado 4, então o cateto oposto ao ângulo de 30° (a altura) mede a metade da hipotenusa: \\(h = 2\\) cm. Pelo Teorema de Pitágoras, o outro cateto mede \\(\\sqrt{4^2 - 2^2} = \\sqrt{12} = 2\\sqrt{3}\\) cm.</p><p>Logo, a base do triângulo, que também é o lado vertical do retângulo, mede \\(2 \\cdot 2\\sqrt{3} = 4\\sqrt{3}\\) cm.</p><p><b>2º passo: as áreas.</b></p><ul><li>Retângulo: \\(9 \\cdot 4\\sqrt{3} = 36\\sqrt{3}\\).</li><li>Cada triângulo: \\(\\dfrac{4\\sqrt{3} \\cdot 2}{2} = 4\\sqrt{3}\\); os dois juntos: \\(8\\sqrt{3}\\).</li></ul><p>Área total: \\(36\\sqrt{3} + 8\\sqrt{3} = 44\\sqrt{3} \\approx 44 \\cdot 1{,}7 = 74{,}8\\) cm². Resposta: <b>C</b>.</p><p>Conferindo de outro jeito: o hexágono cabe num retângulo de \\(9 + 2 + 2 = 13\\) cm por \\(4\\sqrt{3}\\) cm, de área \\(52\\sqrt{3}\\). Fora do hexágono sobram 4 cantos, triângulos retângulos de catetos 2 e \\(2\\sqrt{3}\\), cada um com área \\(2\\sqrt{3}\\). Então a área é \\(52\\sqrt{3} - 8\\sqrt{3} = 44\\sqrt{3}\\), o mesmo resultado.</p>",
+    "distractors": {
+      "A": "Sai de \\(36 + 8\\sqrt{3} = 36 + 13{,}6\\): o lado vertical do retângulo foi tomado como 4 cm, confundido com os lados inclinados. Esse lado é a base do triângulo de 120°, que mede \\(4\\sqrt{3}\\) cm.",
+      "B": "Sai de \\(36 + 16\\sqrt{3} = 36 + 27{,}2\\): além de usar 4 cm como lado do retângulo, esqueceu de dividir por 2 a área dos triângulos (base vezes altura sobre 2).",
+      "D": "É grande demais: o hexágono cabe num retângulo de 13 cm por \\(4\\sqrt{3} \\approx 6{,}8\\) cm, de área 88,4 cm², mas esse retângulo tem quatro cantos que ficam fora do hexágono, com cerca de 3,4 cm² cada. Um valor tão perto de 88,4 ignora esses cantos: \\(88{,}4 - 4 \\cdot 3{,}4 = 74{,}8\\)."
+    },
+    "tip": "No triângulo isósceles com ângulo de 120°, a altura forma dois triângulos 30°, 60°, 90°, em que o cateto menor é metade da hipotenusa."
+  }
+]

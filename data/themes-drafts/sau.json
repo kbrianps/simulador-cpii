@@ -1,0 +1,614 @@
+[
+  {
+    "id": "sau-01",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "O cuidado com a saúde mental dos adolescentes é responsabilidade de quem?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o cuidado com a saúde mental na adolescência. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma fase de muitas mudanças",
+        "body_html": "<p>A adolescência é um período de transformações intensas. O corpo muda, as amizades ganham outro peso, as cobranças escolares aumentam e surgem as primeiras decisões sobre o futuro. Nesse cenário, sentir tristeza, medo ou ansiedade em alguns momentos faz parte da vida. O problema começa quando esses sentimentos se tornam constantes e passam a atrapalhar o sono, os estudos e a convivência.</p><p>Muitos jovens, porém, não sabem reconhecer esses sinais ou têm vergonha de pedir ajuda, porque ainda existe a ideia de que falar de sofrimento emocional é sinal de fraqueza. Por isso, conversar abertamente sobre saúde mental é um primeiro passo importante.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quem deve cuidar?",
+        "body_html": "<p><b>Opinião 1:</b> “A família é quem mais convive com o adolescente. Se os pais estiverem atentos e dispostos a ouvir, muitos problemas podem ser percebidos cedo.”</p><p><b>Opinião 2:</b> “O estudante passa boa parte do dia na escola. Ela deveria ter profissionais preparados para acolher quem está sofrendo.”</p><p><b>Opinião 3:</b> “Sem atendimento acessível na rede pública de saúde, família e escola ficam sem saber a quem recorrer.”</p><p><b>Opinião 4:</b> “Os próprios jovens também têm um papel: perceber quando um amigo não está bem e incentivá-lo a buscar ajuda.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Só cansaço",
+        "body_html": "<p>Na saída da escola, Lara percebeu que Vítor estava calado havia semanas. Ele, que sempre fazia piada de tudo, agora almoçava sozinho e faltava aos treinos de vôlei. Quando ela perguntou se estava tudo bem, ele respondeu que era “só cansaço”. Lara ficou em dúvida: deveria contar à professora, falar com a família dele ou apenas respeitar o silêncio do amigo? Naquela noite, mandou uma mensagem simples: “Se quiser conversar, estou aqui.” Vítor demorou, mas respondeu.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais sinais indicam que um adolescente pode estar precisando de ajuda emocional?",
+      "Por que muitos jovens têm dificuldade de falar sobre o que sentem?",
+      "O que a família, a escola e o poder público podem fazer, cada um, para cuidar da saúde mental dos jovens?",
+      "Existe um responsável principal, ou o cuidado precisa ser compartilhado?"
+    ],
+    "argument_paths": [
+      "A responsabilidade é compartilhada: família, escola e Estado precisam agir juntos, pois nenhum deles, sozinho, dá conta do problema.",
+      "A escola tem papel central, porque é onde o jovem passa grande parte do tempo e onde muitos sofrimentos aparecem (bullying, cobrança por notas); por isso, deveria contar com psicólogos e espaços de escuta.",
+      "O poder público é o principal responsável, já que cabe a ele garantir atendimento gratuito e acessível; sem isso, família e escola apenas identificam o problema, sem conseguir tratá-lo.",
+      "A família é a base do cuidado, mas precisa de informação para reconhecer sinais de sofrimento e para superar o preconceito em relação ao acompanhamento psicológico."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 227",
+        "how": "O artigo atribui à família, à sociedade e ao Estado o dever de assegurar à criança e ao adolescente, com absoluta prioridade, o direito à vida e à saúde, entre outros. Serve para mostrar que a própria lei prevê uma responsabilidade compartilhada."
+      },
+      {
+        "ref": "Lei nº 13.935/2019",
+        "how": "A lei determina que as redes públicas de educação básica contem com serviços de psicologia e de serviço social, por meio de equipes multiprofissionais. Pode sustentar a defesa de psicólogos nas escolas e a cobrança para que a lei seja cumprida."
+      },
+      {
+        "ref": "Campanha Setembro Amarelo",
+        "how": "Campanha nacional de conscientização sobre a prevenção do suicídio e a valorização da vida. Pode ser usada para argumentar que campanhas são importantes, mas que o cuidado precisa ser contínuo, e não restrito a um mês do ano."
+      }
+    ],
+    "pitfalls": [
+      "Falar de saúde mental de forma genérica, sem responder à pergunta central: de quem é a responsabilidade.",
+      "Transformar o texto em relato pessoal ou em lista de conselhos de autoajuda (\"pense positivo\"), sem argumentação.",
+      "Culpar apenas o celular e as redes sociais, reduzindo um tema amplo a uma única causa."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-02",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "Até que ponto a busca pelo corpo perfeito coloca em risco a saúde dos adolescentes?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os padrões de beleza e os efeitos da busca pelo corpo perfeito sobre a saúde dos jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Antes da foto",
+        "body_html": "<p>Júlia, de 14 anos, passou quase uma hora escolhendo a roupa para a festa de aniversário da prima. Trocou de blusa quatro vezes, desistiu de usar short e, antes de sair, pediu à irmã que não a fotografasse de lado. Na festa, quase não comeu, porque tinha decidido “fechar a boca” até ficar parecida com as meninas que via nos vídeos. Quando a tia comentou que ela estava “mais magrinha, que bom”, Júlia sorriu. Em casa, porém, sentiu-se cansada e com dor de cabeça. Ninguém percebeu que algo não ia bem.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Padrões que mudam",
+        "body_html": "<p>Os padrões de beleza não são naturais nem eternos: variam de acordo com a época e a cultura. Formas de corpo admiradas em um século podem ser consideradas fora de moda no seguinte. Hoje, imagens editadas e filtros criam uma aparência que nem as próprias pessoas retratadas têm na vida real. Quem tenta alcançar um modelo impossível pode adotar dietas sem orientação, exercícios em excesso ou procedimentos arriscados. Além dos riscos ao corpo, a comparação constante tende a abalar a autoestima. E a pressão não atinge só as meninas: muitos meninos se sentem cobrados a exibir músculos definidos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "No intervalo",
+        "body_html": "<p><b>Rafa:</b> Vou começar a tomar aquele suplemento que o influenciador indicou. Em um mês fico igual a ele.</p><p><b>Bia:</b> Mas você perguntou a algum médico se precisa disso?</p><p><b>Rafa:</b> Precisa não. Todo mundo toma.</p><p><b>Bia:</b> Todo mundo quem? Nas fotos dele não aparece a rotina real, só o resultado.</p><p><b>Rafa:</b> Ah, mas cuidar da aparência também é cuidar da saúde, né?</p><p><b>Bia:</b> Depende. Às vezes é justamente o contrário.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "De onde vêm os padrões de beleza que os jovens tentam seguir?",
+      "Por que a busca por um corpo \"ideal\" pode prejudicar a saúde física e a emocional?",
+      "Cuidar da aparência é sempre um problema, ou existe um limite entre cuidado e pressão?",
+      "Quem pode ajudar a diminuir essa pressão: família, escola, meios de comunicação, os próprios jovens?"
+    ],
+    "argument_paths": [
+      "A pressão estética prejudica a saúde porque leva a dietas, exercícios e procedimentos sem orientação, além de abalar a autoestima; combatê-la exige educação crítica sobre imagens editadas.",
+      "O problema não é cuidar da aparência, e sim transformar um padrão único em obrigação; o autocuidado é positivo quando orientado pela saúde, e não pela comparação.",
+      "A responsabilidade também é de quem produz e lucra com esses padrões (publicidade, marcas, influenciadores), que deveriam ser mais transparentes, por exemplo, ao indicar o uso de edição nas imagens.",
+      "A pressão atinge meninas e meninos de formas diferentes, e reconhecer isso ajuda a pensar soluções que incluam todos."
+    ],
+    "repertoire": [
+      {
+        "ref": "\"O mito da beleza\", livro da escritora norte-americana Naomi Wolf",
+        "how": "A obra discute como os padrões de beleza funcionam como forma de pressão social sobre as mulheres. Ajuda a mostrar que o problema é social, e não apenas uma questão de escolha individual."
+      },
+      {
+        "ref": "Mito grego de Narciso",
+        "how": "O jovem que se apaixona pela própria imagem refletida na água pode ilustrar a obsessão com a aparência e com a imagem de si."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 17",
+        "how": "O artigo define o direito ao respeito, que abrange a integridade física, psíquica e moral e a preservação da imagem e da identidade. Pode sustentar que proteger adolescentes de humilhações e pressões ligadas ao corpo é garantir um direito."
+      }
+    ],
+    "pitfalls": [
+      "Fazer um texto apenas sobre redes sociais ou excesso de telas, deixando de lado os padrões de beleza e a saúde.",
+      "Julgar ou ridicularizar quem se preocupa com a aparência, em vez de analisar as causas da pressão.",
+      "Limitar-se a descrever os padrões de beleza, sem avaliar até que ponto a busca por eles põe a saúde em risco, que é o eixo do tema."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-03",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "É possível tornar o esporte um direito de fato para todos os jovens brasileiros?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o acesso dos jovens à prática esportiva. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Direito no papel",
+        "body_html": "<p>O esporte aparece nas leis brasileiras como um direito. Na prática, porém, o acesso a ele é desigual. Em alguns bairros, há clubes, academias e escolinhas pagas; em outros, a única opção é o campinho de terra, quando ele existe. Muitas escolas não têm quadra coberta, e a aula de Educação Física acontece sob sol forte ou é cancelada quando chove. Projetos sociais esportivos costumam fazer diferença na vida de crianças e adolescentes, mas muitos dependem de doações e podem acabar de uma hora para outra.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Duas tardes de quarta-feira",
+        "body_html": "<p>Na quarta-feira à tarde, Pedro sai da escola e vai de carro para o treino de natação no clube, onde tem técnico, piscina aquecida e vestiário. No mesmo horário, do outro lado da cidade, Kauã, que também gosta de nadar, ajuda a mãe em casa e depois joga bola na rua com os amigos, desviando dos carros. Os dois têm 14 anos e o mesmo sonho de competir. Só um deles tem condições reais de tentar realizá-lo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três opiniões",
+        "body_html": "<p><b>Opinião 1:</b> “Esporte não é luxo: melhora a saúde, ensina a conviver e oferece aos jovens um espaço de pertencimento. Deveria ser prioridade no orçamento público.”</p><p><b>Opinião 2:</b> “Antes de pensar em esporte, o governo precisa resolver problemas mais urgentes, como a falta de médicos e de saneamento.”</p><p><b>Opinião 3:</b> “Não adianta construir ginásios se não houver professores, manutenção e atividades para os jovens. Sem isso, os espaços acabam abandonados.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que o esporte pode ser considerado um direito, e não apenas uma forma de diversão?",
+      "Que obstáculos impedem muitos jovens de praticar esportes regularmente?",
+      "Quais seriam as responsabilidades do poder público, da escola e da comunidade?",
+      "Construir espaços esportivos basta, ou é preciso garantir outras condições?"
+    ],
+    "argument_paths": [
+      "Sim, é possível, desde que o esporte seja tratado como política pública permanente: quadras nas escolas, professores de Educação Física e projetos com financiamento garantido.",
+      "A escola pública é o caminho mais viável para universalizar o acesso, porque já reúne a maioria dos jovens; melhorar a Educação Física e abrir as quadras à comunidade teria grande alcance.",
+      "Garantir plenamente esse direito é difícil enquanto houver tanta desigualdade social: o jovem que precisa trabalhar ou cuidar da casa não tem tempo para o esporte, mesmo com a quadra disponível.",
+      "O esporte deve ser prioridade porque traz benefícios para a saúde, a educação e a convivência, o que pode reduzir gastos futuros em outras áreas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 217",
+        "how": "O artigo afirma que \"é dever do Estado fomentar práticas desportivas formais e não-formais, como direito de cada um\". É a base legal para dizer que o esporte é um direito e que cabe ao Estado promovê-lo."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 4º",
+        "how": "O artigo inclui o esporte e o lazer entre os direitos que a família, a comunidade, a sociedade e o poder público devem assegurar com absoluta prioridade. Reforça que esse direito vale especialmente para crianças e adolescentes."
+      },
+      {
+        "ref": "Jogos Olímpicos de 2016, no Rio de Janeiro",
+        "how": "O debate sobre o legado esportivo do evento e o uso das instalações depois dos Jogos permite discutir se grandes eventos garantem, de fato, acesso cotidiano ao esporte."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre os benefícios do esporte para a saúde, sem discutir o acesso e a desigualdade, que são o centro do tema.",
+      "Focar no esporte profissional (atletas famosos, Copa do Mundo), afastando-se da prática esportiva cotidiana dos jovens.",
+      "Responder apenas \"sim\" ou \"não\", sem explicar as condições que tornariam possível (ou impossível) garantir esse direito."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "sau-04",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "O sonho de se tornar atleta profissional: oportunidade ou armadilha para os jovens brasileiros?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o sonho de muitos jovens de seguir carreira no esporte profissional. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Dia de peneira",
+        "body_html": "<p>Às seis da manhã, dezenas de meninos já esperavam no portão do centro de treinamento. Alguns tinham viajado horas de ônibus, acompanhados pelos pais, que pediram folga no trabalho. Cada um teria poucos minutos em campo para mostrar seu talento. Gabriel, de 13 anos, repetia para si mesmo que aquela era a chance da vida dele. No fim da tarde, poucos nomes foram chamados. Na volta para casa, o pai tentou consolá-lo: “Ano que vem tem outra.” Gabriel olhou pela janela e pensou nas provas da escola, para as quais tinha deixado de estudar por causa dos treinos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Poucos chegam ao topo",
+        "body_html": "<p>O esporte pode mudar vidas. Além da carreira, ele oferece disciplina, amizades e, em alguns casos, bolsas de estudo e oportunidades de viagem. No entanto, o número de jovens que chega ao profissionalismo é muito pequeno em comparação com o número dos que tentam. Mesmo entre os profissionais, muitos recebem salários modestos e têm carreiras curtas, bem diferentes da realidade dos craques que aparecem na televisão. Quando o jovem abandona os estudos para se dedicar somente ao esporte, pode ficar sem alternativas caso o sonho não se realize.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes",
+        "body_html": "<p><b>Mãe de um jovem atleta:</b> “Se eu não apoiar meu filho agora, talvez ele nunca tenha outra chance. Muitos craques vieram de famílias pobres como a nossa.”</p><p><b>Professor:</b> “Apoio o sonho, mas a escola não pode ficar em segundo plano. O esporte e os estudos precisam caminhar juntos.”</p><p><b>Ex-atleta das categorias de base:</b> “Eu treinava todos os dias e achava que ia dar certo. Aos 19 anos, fui dispensado e tive que recomeçar do zero.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que tantos jovens brasileiros sonham em ser atletas profissionais?",
+      "Que benefícios a trajetória esportiva pode trazer, mesmo para quem não chega ao profissionalismo?",
+      "Quais riscos existem quando o jovem aposta tudo no esporte?",
+      "O que famílias, clubes, escolas e poder público podem fazer para que o sonho não se torne uma armadilha?"
+    ],
+    "argument_paths": [
+      "O sonho é uma oportunidade legítima, especialmente para jovens de baixa renda, desde que conciliado com os estudos; a armadilha está em abandonar a escola.",
+      "O sonho pode se tornar uma armadilha porque o sistema esportivo é muito seletivo, e há quem lucre com a esperança de muitos jovens sem garantir sua formação e sua proteção.",
+      "Evitar a armadilha é uma responsabilidade coletiva: os clubes devem oferecer condições dignas e acompanhar a vida escolar dos atletas da base, e o poder público deve fiscalizar.",
+      "O esporte vale a pena mesmo para quem não se profissionaliza, pois desenvolve disciplina, saúde e trabalho em equipe; o problema é enxergá-lo apenas como caminho para a fama."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 7º, inciso XXXIII",
+        "how": "O inciso proíbe qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos. Ajuda a discutir o limite entre formação esportiva e exploração de jovens atletas."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53",
+        "how": "O artigo garante o direito à educação, visando ao pleno desenvolvimento da pessoa, ao preparo para a cidadania e à qualificação para o trabalho. Sustenta que a formação esportiva não pode substituir a escola."
+      },
+      {
+        "ref": "Incêndio no centro de treinamento do Flamengo (Ninho do Urubu), no Rio de Janeiro, em fevereiro de 2019, que matou dez jovens atletas das categorias de base",
+        "how": "Exemplo trágico de como a busca pelo sonho pode expor adolescentes a condições inseguras, reforçando a necessidade de fiscalização dos alojamentos e centros de formação."
+      }
+    ],
+    "pitfalls": [
+      "Contar a biografia de um jogador famoso sem relacioná-la à discussão sobre oportunidade e risco.",
+      "Tratar o tema só como questão de esforço individual (\"quem se dedica consegue\"), ignorando a seletividade do esporte e a desigualdade social.",
+      "Falar do futebol apenas como paixão nacional, sem discutir a vida dos jovens que tentam a carreira."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-05",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "A falta de tempo para o descanso e o lazer na rotina dos adolescentes brasileiros.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o tempo de descanso e de lazer na vida dos adolescentes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A agenda de Marina",
+        "body_html": "<p>De segunda a sexta, Marina, de 15 anos, acorda às 5h30. Pega dois ônibus até a escola, onde fica até o início da tarde. Três vezes por semana, vai direto para o curso de inglês; nos outros dias, faz um preparatório para a prova do ensino médio. À noite, faz os deveres e ajuda a cuidar do irmão mais novo. Aos sábados, passa a manhã ajudando a tia na lanchonete da família.</p><p>Quando perguntam o que ela faz para se divertir, Marina pensa um pouco e responde: “Durmo.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Tempo livre é perda de tempo?",
+        "body_html": "<p><b>Opinião 1:</b> “O mundo é competitivo. Quem aproveita a juventude para estudar e se preparar sai na frente.”</p><p><b>Opinião 2:</b> “Descansar não é preguiça. Sem sono e sem pausas, ninguém aprende direito.”</p><p><b>Opinião 3:</b> “Muitos jovens não enchem a agenda por escolha: trabalham porque a família precisa ou passam horas no transporte.”</p><p><b>Opinião 4:</b> “Lazer não é só diversão. É no tempo livre que a gente descobre do que gosta, encontra os amigos e cria.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O corpo pede pausa",
+        "body_html": "<p>O sono não é tempo perdido. Durante o descanso, o organismo se recupera e o cérebro organiza o que foi aprendido ao longo do dia. Na adolescência, as mudanças do corpo tendem a atrasar o relógio biológico, o que faz muitos jovens sentirem sono mais tarde, à noite, e terem dificuldade para acordar cedo. Quando o descanso é insuficiente por muito tempo, podem aparecer irritação, dificuldade de concentração e queda no rendimento. O lazer, por sua vez, também contribui para o equilíbrio emocional e para a convivência.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que ocupa o tempo dos adolescentes que você conhece? Essas atividades são escolhas ou obrigações?",
+      "Por que o descanso e o lazer são importantes para a saúde e para o aprendizado?",
+      "A falta de tempo livre afeta todos os jovens da mesma forma, ou depende da condição social?",
+      "Encher a agenda é uma boa preparação para o futuro ou um risco para o bem-estar?"
+    ],
+    "argument_paths": [
+      "A rotina sobrecarregada prejudica a saúde e o próprio aprendizado; descansar deve ser visto como parte da preparação para o futuro, e não como perda de tempo.",
+      "A falta de tempo livre é também um problema social: muitos jovens trabalham, cuidam de irmãos ou passam horas no transporte, e o lazer acaba virando privilégio.",
+      "Uma rotina cheia pode ser positiva quando é escolhida pelo jovem e equilibrada; o problema está na pressão por desempenho e na ausência de pausas.",
+      "Escolas e famílias podem ajudar a equilibrar a rotina, por exemplo, dosando as tarefas de casa e valorizando atividades culturais, esportivas e de convivência."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 6º",
+        "how": "O artigo inclui o lazer entre os direitos sociais, ao lado da educação e da saúde. Serve para mostrar que o lazer é um direito, e não um luxo."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), art. 24",
+        "how": "O artigo reconhece o direito de toda pessoa ao repouso e ao lazer. Permite argumentar que o descanso é reconhecido internacionalmente como direito humano."
+      },
+      {
+        "ref": "\"Sociedade do cansaço\", livro do filósofo Byung-Chul Han",
+        "how": "A obra discute uma sociedade marcada pela cobrança por desempenho e pelo esgotamento. Ajuda a explicar por que até os adolescentes se sentem pressionados a produzir o tempo todo."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas do uso do celular antes de dormir, transformando o texto em uma redação sobre excesso de telas.",
+      "Reduzir o problema à falta de \"força de vontade\" para organizar a rotina, sem considerar trabalho, transporte e pressão escolar.",
+      "Descrever a própria rotina em forma de relato, sem construir argumentos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-06",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "Vacinar-se é uma escolha individual ou um compromisso com toda a sociedade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a vacinação e as dúvidas que afastam algumas pessoas das vacinas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma conquista coletiva",
+        "body_html": "<p>As vacinas estão entre as maiores conquistas da saúde pública. Elas ensinam o sistema de defesa do corpo a reconhecer certos vírus e bactérias, protegendo contra doenças que já causaram muitas mortes e sequelas. A varíola, por exemplo, foi erradicada do mundo graças à vacinação. Além de proteger quem é vacinado, as vacinas protegem a comunidade: quando muitas pessoas estão imunizadas, a doença circula menos e atinge menos quem não pode tomar a vacina, como bebês muito novos ou pessoas com certos problemas de saúde.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Encaminhada com frequência",
+        "body_html": "<p>No grupo da família, chegou uma mensagem escrita em letras maiúsculas e cheia de sinais de alerta: “URGENTE! Médico revela o que ninguém quer que você saiba sobre as vacinas. Compartilhe antes que apaguem!”</p><p>A mensagem não dizia o nome do médico, não citava nenhuma pesquisa e terminava com o link de um site que vendia um “chá natural que protege de todas as doenças”. Mesmo assim, em poucos minutos, três parentes já a tinham repassado para outros grupos. Só a prima Laura perguntou: “Alguém sabe de onde veio isso?”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na saída da aula",
+        "body_html": "<p><b>Caio:</b> Minha tia disse que não vai levar meu primo para vacinar. Ela viu num vídeo que vacina faz mal.</p><p><b>Luísa:</b> Num vídeo de quem?</p><p><b>Caio:</b> De um cara que falava bem, parecia saber tudo. E ela diz que o filho é dela, então a decisão também é.</p><p><b>Luísa:</b> Falar bem não prova nada. E, se ele pegar uma doença, pode passar para outras crianças, como o bebê da vizinha, que ainda não tem idade para tomar a vacina.</p><p><b>Caio:</b> Eu tentei explicar, mas ela disse que eu sou muito novo para entender.</p><p><b>Luísa:</b> Então pede para ela conversar com a equipe do posto de saúde. Lá dá para tirar as dúvidas com quem entende do assunto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que a vacinação protege não só quem é vacinado, mas também quem está ao redor?",
+      "Por que algumas pessoas deixam de se vacinar ou de vacinar os filhos?",
+      "A liberdade de escolha de cada um tem limites quando a saúde dos outros está em jogo?",
+      "O que o poder público, os profissionais de saúde, as escolas e as famílias podem fazer para ampliar a vacinação?"
+    ],
+    "argument_paths": [
+      "Vacinar-se é um compromisso coletivo: como a proteção depende de muitas pessoas estarem imunizadas, a recusa de alguns põe em risco quem não pode se vacinar, como bebês muito novos.",
+      "A liberdade individual é importante, mas tem limite quando a escolha de uma pessoa ameaça a saúde de outras; por isso, a lei pode tornar a vacinação obrigatória em certos casos, como a das crianças.",
+      "Há quem defenda que a decisão deve ser de cada um; o texto pode discutir essa posição e a diferença entre obrigar alguém à força e exigir a vacina para certas atividades.",
+      "Mais do que punir quem não se vacina, é preciso combater a desinformação e aproximar os serviços de saúde da população, porque muitas recusas nascem do medo e da falta de diálogo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Revolta da Vacina (Rio de Janeiro, 1904)",
+        "how": "A revolta estourou depois que uma lei tornou obrigatória a vacinação contra a varíola, em uma campanha conduzida pelo sanitarista Oswaldo Cruz e aplicada sem diálogo com a população. Mostra que o conflito entre obrigação e liberdade é antigo e que informar é tão importante quanto obrigar."
+      },
+      {
+        "ref": "Programa Nacional de Imunizações (PNI), criado em 1973",
+        "how": "Mostra que o Brasil tem um programa público que oferece vacinas gratuitamente e que a vacinação é uma conquista coletiva, construída ao longo de décadas."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 14, § 1º",
+        "how": "O dispositivo estabelece que \"é obrigatória a vacinação das crianças nos casos recomendados pelas autoridades sanitárias\". Ajuda a argumentar que vacinar os filhos é um dever dos responsáveis, e não uma simples opinião."
+      },
+      {
+        "ref": "Decisão do Supremo Tribunal Federal (STF) sobre a vacinação obrigatória, em dezembro de 2020",
+        "how": "O STF decidiu que a vacinação pode ser obrigatória, mas não forçada: ninguém pode ser vacinado à força, porém o poder público pode prever restrições a quem se recusa. O tribunal também decidiu que os pais não podem deixar de vacinar os filhos alegando convicções filosóficas. Serve para discutir os limites da escolha individual."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre a importância das vacinas, sem discutir a tensão entre a escolha individual e a proteção coletiva, que é o centro do tema.",
+      "Tratar quem tem dúvidas como \"ignorante\", em vez de analisar por que o medo e a desinformação convencem.",
+      "Transformar o texto em uma redação sobre notícias falsas em geral, deixando a vacinação em segundo plano."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-07",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "O que é preciso para que a saúde seja, na prática, um direito de todos os brasileiros?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o direito à saúde e o funcionamento do sistema público de saúde no Brasil. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Mais do que hospital",
+        "body_html": "<p>O Sistema Único de Saúde, o SUS, foi criado com base na ideia de que a saúde é um direito de todos, e não apenas de quem pode pagar. Muita gente associa o SUS somente a hospitais e filas, mas ele está presente em muitas situações do dia a dia: nas campanhas de vacinação, no atendimento do SAMU, na vigilância sanitária que fiscaliza alimentos e remédios, nas unidades básicas de saúde e em tratamentos de alto custo. Mesmo quem tem plano de saúde se beneficia, de alguma forma, de ações do sistema público.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na fila da madrugada",
+        "body_html": "<p>Dona Célia chegou à unidade de saúde antes de o sol nascer, para tentar marcar uma consulta. Na fila, uma vizinha contou que tinha esperado meses por um exame. Outra, porém, elogiou a equipe que visita sua casa todo mês para acompanhar o marido, que tem pressão alta. “Quando funciona, funciona muito bem”, disse ela. “O problema é que nem sempre funciona para todo mundo.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que falta?",
+        "body_html": "<p><b>Opinião 1:</b> “Falta dinheiro. Sem mais investimento, não há como contratar profissionais e reduzir as filas.”</p><p><b>Opinião 2:</b> “Não é só dinheiro: é preciso gestão melhor e combate ao desperdício e à corrupção.”</p><p><b>Opinião 3:</b> “Prevenir sai mais barato. Investir em saneamento, alimentação e atenção básica evita que as pessoas adoeçam.”</p><p><b>Opinião 4:</b> “A população também precisa conhecer seus direitos, participar e cobrar melhorias.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que significa dizer que a saúde é direito de todos e dever do Estado?",
+      "Em que situações do dia a dia o sistema público de saúde está presente, mesmo sem que as pessoas percebam?",
+      "Quais problemas impedem que esse direito chegue igualmente a todos?",
+      "Que soluções dependem do governo e quais dependem também da sociedade?"
+    ],
+    "argument_paths": [
+      "É preciso ampliar o investimento público e distribuir melhor os profissionais pelo país, reduzindo a desigualdade entre regiões e entre bairros.",
+      "Mais do que dinheiro, é preciso gestão eficiente e fiscalização, para que os recursos cheguem, de fato, ao atendimento da população.",
+      "A prevenção é o caminho mais eficaz: saneamento básico, alimentação adequada e atenção básica diminuem a procura por hospitais.",
+      "A participação social (conhecer direitos, participar de conselhos de saúde, cobrar as autoridades) é essencial para que o direito saia do papel."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 196",
+        "how": "O artigo determina que \"a saúde é direito de todos e dever do Estado\". É o ponto de partida para comparar o que a lei garante com a realidade vivida pela população."
+      },
+      {
+        "ref": "Lei nº 8.080/1990 (Lei Orgânica da Saúde)",
+        "how": "A lei regula as ações e os serviços de saúde e organiza o SUS. Permite citar princípios do sistema, como a universalidade de acesso aos serviços de saúde (art. 7º)."
+      },
+      {
+        "ref": "8ª Conferência Nacional de Saúde (1986)",
+        "how": "Exemplo de participação social na construção do direito à saúde, já que suas propostas influenciaram a criação do SUS na Constituição de 1988."
+      },
+      {
+        "ref": "Pandemia de covid-19",
+        "how": "Mostra a importância de um sistema público e universal, por exemplo na vacinação em massa, e também revela suas fragilidades, como a sobrecarga dos hospitais."
+      }
+    ],
+    "pitfalls": [
+      "Apenas criticar ou apenas elogiar o SUS, sem responder o que é preciso para garantir o direito à saúde.",
+      "Propor soluções vagas, como \"o governo deve melhorar a saúde\", sem explicar como.",
+      "Basear o texto em um único caso pessoal (uma experiência ruim ou boa em um hospital), generalizando sem argumentos."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "sau-08",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "O que ainda afasta as meninas da prática esportiva no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação das meninas e das mulheres no esporte. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma história de proibições",
+        "body_html": "<p>Durante décadas, a legislação brasileira impediu as mulheres de praticar esportes considerados “incompatíveis com as condições de sua natureza”, e o futebol feminino chegou a ser proibido no país. A proibição caiu em 1979, mas os efeitos desse passado não desapareceram de uma vez. Por muito tempo, faltaram campeonatos, patrocínios, transmissões e escolinhas para meninas. Mesmo assim, atletas brasileiras conquistaram destaque internacional em diversas modalidades, mostrando que talento nunca foi o problema.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Aula de Educação Física",
+        "body_html": "<p>Na aula de Educação Física, o professor anuncia: futebol. Os meninos correm para a quadra e escolhem os times em segundos. As meninas ficam na arquibancada. Duas delas querem jogar, mas ouvem um comentário: “Menina no time atrapalha.” Uma desiste. A outra, Ana, entra mesmo assim e passa o jogo inteiro sem receber a bola. No fim da aula, alguém sugere que, na semana seguinte, as meninas façam “alguma coisa mais tranquila”. Ana não responde, mas decide procurar um time feminino no bairro.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em debate",
+        "body_html": "<p><b>Opinião 1:</b> “Muitas meninas deixam o esporte na adolescência porque não se sentem à vontade com o próprio corpo diante dos outros.”</p><p><b>Opinião 2:</b> “Isso é questão de gosto. Tem menina que simplesmente prefere outras atividades.”</p><p><b>Opinião 3:</b> “Desde pequenos, os meninos ganham bola de presente, e as meninas, bonecas. O interesse também é ensinado.”</p><p><b>Opinião 4:</b> “Faltam exemplos. Quando a televisão mostra mulheres atletas, as meninas passam a se imaginar ali.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que fatores históricos e culturais ajudam a explicar a menor presença de meninas no esporte?",
+      "Como comentários e atitudes do dia a dia podem afastar as meninas das quadras?",
+      "A diferença de participação é apenas uma questão de gosto pessoal?",
+      "O que escolas, famílias, clubes e meios de comunicação podem fazer para mudar essa situação?"
+    ],
+    "argument_paths": [
+      "O principal obstáculo é o preconceito cultural, que associa o esporte ao universo masculino desde a infância, por meio de brinquedos, brincadeiras e comentários.",
+      "A falta de estrutura e de visibilidade (poucos campeonatos, patrocínios e transmissões) reduz as oportunidades e os exemplos para as meninas.",
+      "A escola tem papel decisivo: aulas de Educação Física que excluem ou deixam as meninas de lado reforçam o afastamento; aulas inclusivas podem revertê-lo.",
+      "Há quem defenda que parte da diferença se deve a escolhas pessoais; o texto pode discutir até que ponto essas escolhas são livres ou influenciadas pela sociedade."
+    ],
+    "repertoire": [
+      {
+        "ref": "Decreto-Lei nº 3.199/1941, art. 54",
+        "how": "O decreto vetava às mulheres a prática de esportes \"incompatíveis com as condições de sua natureza\", e a proibição do futebol feminino só caiu em 1979. Mostra que o afastamento das meninas tem raízes históricas e institucionais."
+      },
+      {
+        "ref": "Marta, eleita seis vezes a melhor jogadora do mundo pela FIFA",
+        "how": "Exemplo de talento que se destacou apesar da falta de apoio ao esporte feminino, e da importância de referências para que as meninas se imaginem atletas."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso I",
+        "how": "O inciso estabelece que homens e mulheres são iguais em direitos e obrigações. Permite argumentar que a igualdade de oportunidades no esporte é uma exigência constitucional."
+      }
+    ],
+    "pitfalls": [
+      "Fazer a biografia de uma atleta famosa sem discutir as causas do afastamento das meninas.",
+      "Recorrer a estereótipos (como \"menina não leva jeito para esporte\") como se fossem argumentos.",
+      "Falar só de futebol profissional e salários de atletas, esquecendo a prática esportiva das meninas no dia a dia."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "sau-09",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "A publicidade de alimentos ultraprocessados dirigida a crianças e adolescentes deve ser proibida?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a alimentação dos jovens e a influência da publicidade sobre suas escolhas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que são ultraprocessados",
+        "body_html": "<p>Alimentos ultraprocessados são produtos industrializados feitos, em grande parte, a partir de substâncias extraídas de alimentos e de aditivos, como corantes, aromatizantes e realçadores de sabor. Refrigerantes, salgadinhos de pacote, biscoitos recheados e macarrão instantâneo são alguns exemplos. Costumam ter muito açúcar, sal ou gordura, são práticos e duram bastante tempo. O Guia Alimentar para a População Brasileira, do Ministério da Saúde, recomenda evitar esse tipo de produto e dar preferência a alimentos in natura ou minimamente processados, como frutas, verduras, arroz e feijão.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O intervalo comercial",
+        "body_html": "<p>Durante um vídeo de desenho animado, aparece um anúncio: um personagem sorridente abre um pacote de biscoitos coloridos, e crianças dançam ao som de uma música grudenta. No fim, a promessa: quem juntar cinco embalagens ganha um brinquedo exclusivo. No supermercado, no dia seguinte, Theo, de 7 anos, chora até a mãe colocar três pacotes no carrinho. A irmã dele, Sofia, de 14, ri da cena, mas também não resiste quando uma influenciadora que ela segue mostra o novo sabor de um salgadinho.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Proibir ou não?",
+        "body_html": "<p><b>Opinião 1:</b> “Proibir é exagero. Cabe aos pais educar os filhos e saber dizer não.”</p><p><b>Opinião 2:</b> “Criança não tem maturidade para perceber que está sendo convencida a comprar. É uma disputa desigual.”</p><p><b>Opinião 3:</b> “A indústria gera empregos e tem o direito de divulgar seus produtos, desde que não engane o consumidor.”</p><p><b>Opinião 4:</b> “Em vez de proibir, seria melhor ensinar nas escolas a ler rótulos e a entender como a publicidade funciona.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que crianças e adolescentes são mais vulneráveis à publicidade?",
+      "Quais estratégias os anúncios usam para atrair o público jovem?",
+      "Proibir esse tipo de publicidade seria proteção ou exagero? Quem ganha e quem perde com essa medida?",
+      "Existem alternativas à proibição, como regras mais rígidas, rótulos mais claros ou educação alimentar?"
+    ],
+    "argument_paths": [
+      "Sim, a publicidade dirigida ao público infantil deve ser proibida, porque as crianças não têm maturidade para reconhecer a intenção de venda, e a medida protege a saúde.",
+      "Em vez de uma proibição total, bastariam regras mais rígidas: vetar personagens, brindes e influenciadores voltados ao público infantil, mantendo informações claras nos rótulos.",
+      "A solução está mais na educação alimentar e na responsabilidade das famílias do que na proibição, que poderia ferir a liberdade de comunicação das empresas.",
+      "É possível tratar crianças e adolescentes de forma diferente: proteção maior na infância e, na adolescência, educação para o consumo crítico."
+    ],
+    "repertoire": [
+      {
+        "ref": "Guia Alimentar para a População Brasileira (Ministério da Saúde, 2014)",
+        "how": "O guia recomenda evitar alimentos ultraprocessados e orienta a população a ser crítica em relação às mensagens sobre alimentação veiculadas em propagandas comerciais. É uma fonte oficial para fundamentar o argumento de saúde."
+      },
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 37, § 2º",
+        "how": "O dispositivo considera abusiva a publicidade que se aproveite da deficiência de julgamento e experiência da criança. Serve de base legal para defender limites aos anúncios dirigidos ao público infantil."
+      },
+      {
+        "ref": "Resolução nº 163/2014 do Conanda (Conselho Nacional dos Direitos da Criança e do Adolescente)",
+        "how": "A resolução considera abusivo o direcionamento de publicidade à criança com a intenção de persuadi-la ao consumo, usando recursos como desenhos animados, personagens, músicas infantis e brindes colecionáveis. Mostra que já existe no Brasil uma norma nessa direção, embora haja discussão sobre sua força para obrigar as empresas."
+      },
+      {
+        "ref": "Rotulagem nutricional frontal adotada pela Anvisa (símbolo de lupa que indica alto teor de açúcar adicionado, gordura saturada ou sódio)",
+        "how": "Exemplo de medida intermediária, que informa o consumidor sem proibir a venda nem a publicidade; útil para quem defende alternativas à proibição."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre alimentação saudável e obesidade, sem discutir a publicidade, que é o foco da pergunta.",
+      "Transformar o texto em uma lista de dicas de alimentação.",
+      "Defender a proibição ou a liberdade sem considerar os argumentos do outro lado, o que enfraquece a argumentação."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "sau-10",
+    "axis": "sau",
+    "axis_label": "Saúde, esporte e bem-estar",
+    "theme": "Nos jogos interclasses, o que deve vir primeiro: a vitória ou a participação de todos os estudantes?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o papel da competição e da cooperação no esporte escolar. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, imagine que a direção da sua escola está organizando os jogos interclasses deste ano e escreva uma carta argumentativa dirigida a ela, em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Regulamento em discussão",
+        "body_html": "<p>A direção de uma escola publicou no mural o rascunho do regulamento dos jogos interclasses e pediu sugestões aos alunos. Dois pontos dividiram as turmas.</p><p>O primeiro determina que cada turma pode inscrever quantos atletas quiser, mas só entram em quadra os titulares, escolhidos livremente pelo representante da turma, sem obrigação de fazer substituições. O segundo prevê medalhas apenas para as três primeiras colocadas.</p><p>No grêmio, alguns estudantes comemoraram: “Finalmente um campeonato de verdade!” Outros protestaram: “E quem não é bom de bola vai só assistir de novo?”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "No corredor",
+        "body_html": "<p><b>Diego:</b> Se todo mundo tiver que jogar, a gente perde para o 9º B. Eles têm três jogadores de escolinha.</p><p><b>Yasmin:</b> E daí? Os jogos são da escola, não de clube. Quem nunca joga também quer participar.</p><p><b>Diego:</b> Mas competição é assim. Na vida real ninguém ganha nada só por participar.</p><p><b>Yasmin:</b> Na vida real também é preciso saber trabalhar em equipe com quem tem outras habilidades.</p><p><b>Diego:</b> Então vamos fazer um rodízio: todos entram, mas o time decide quanto tempo cada um joga?</p><p><b>Yasmin:</b> Aí já dá para conversar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Competir também educa",
+        "body_html": "<p>A competição faz parte do esporte e pode ser educativa: ensina a respeitar regras, a aceitar a derrota, a persistir e a respeitar o adversário. Por outro lado, quando a vitória passa a ser o único objetivo, surgem problemas conhecidos, como a exclusão dos menos habilidosos, as provocações entre turmas e a pressão excessiva sobre alguns jogadores. Por isso, na escola, vale pensar em formas de organizar o esporte para que todos possam aprender com ele, e não apenas os mais talentosos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é o objetivo dos jogos interclasses dentro de uma escola?",
+      "O que os estudantes aprendem quando competem? E quando cooperam?",
+      "Como se sentem os colegas que nunca são escolhidos para jogar?",
+      "É possível conciliar competição e participação? Que regras poderiam fazer isso?"
+    ],
+    "argument_paths": [
+      "A participação deve vir primeiro, porque a escola é um espaço de formação, e os jogos devem incluir todos os estudantes, não só os mais habilidosos.",
+      "A vitória também tem valor educativo: competir de verdade motiva, ensina disciplina e a lidar com a derrota; tirar a competição esvaziaria o sentido dos jogos.",
+      "É possível conciliar os dois objetivos com regras como rodízio obrigatório, tempo mínimo de jogo para cada estudante e premiação também para o espírito esportivo.",
+      "A carta pode propor modalidades variadas (xadrez, queimado, corrida de revezamento, entre outras), para que estudantes com habilidades diferentes possam contribuir com a turma."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lema olímpico \"Citius, Altius, Fortius\" (mais rápido, mais alto, mais forte), ao qual o Comitê Olímpico Internacional acrescentou, em 2021, a palavra \"Communiter\" (juntos)",
+        "how": "Mostra que até o maior evento esportivo do mundo passou a valorizar explicitamente a união e a cooperação, e não apenas o desempenho."
+      },
+      {
+        "ref": "Máxima frequentemente associada a Pierre de Coubertin, idealizador dos Jogos Olímpicos modernos, segundo a qual o importante não é vencer, mas participar",
+        "how": "Permite discutir o ideal de participação no esporte e confrontá-lo com a busca pela vitória."
+      },
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC)",
+        "how": "A BNCC inclui os esportes entre as práticas corporais estudadas nas aulas de Educação Física. Ajuda a argumentar que o esporte escolar tem finalidade pedagógica, e não apenas competitiva."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer as marcas do gênero carta (local e data, vocativo dirigido à direção, despedida e assinatura) ou assinar com o nome verdadeiro, o que identificaria a prova; prefira uma assinatura genérica, como \"Um estudante\" ou \"Uma estudante\".",
+      "Escrever um texto dissertativo comum, sem se dirigir ao destinatário, ou uma carta só com pedidos, sem argumentos que os sustentem.",
+      "Discutir esporte profissional ou Copa do Mundo, fugindo do contexto dos jogos da escola."
+    ],
+    "difficulty": 1
+  }
+]

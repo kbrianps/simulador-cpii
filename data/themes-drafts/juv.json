@@ -1,0 +1,622 @@
+[
+  {
+    "id": "juv-01",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "Como estimular a participação dos jovens nas decisões da escola, da comunidade e do país?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a participação dos jovens na vida política e nas decisões coletivas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Participar também se aprende",
+        "body_html": "<p>No Brasil, a Constituição de 1988 tornou o voto facultativo para quem tem 16 e 17 anos. Isso significa que o adolescente pode escolher se quer ou não tirar o título de eleitor antes de completar 18 anos. Mas a participação política não se resume às eleições. Ela acontece também quando estudantes organizam um grêmio, quando moradores se reúnem para cobrar melhorias no bairro ou quando um grupo de jovens cria um projeto para resolver um problema da comunidade.</p><p>Em todos esses casos, participar exige informação, diálogo e disposição para ouvir quem pensa diferente. São habilidades que não nascem prontas: desenvolvem-se com a prática.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na roda de conversa",
+        "body_html": "<p>Durante uma aula sobre cidadania, a professora perguntou à turma se os jovens se interessam por política. As respostas foram variadas.</p><p><b>Júlia:</b> Eu me interesso, mas sinto que ninguém escuta a gente. Nas reuniões do condomínio, por exemplo, só os adultos falam.</p><p><b>Pedro:</b> Acho que muitos jovens nem sabem como as decisões são tomadas. Fica difícil participar do que a gente não entende.</p><p><b>Marcos:</b> Para mim, política é chata e cheia de briga. Prefiro cuidar da minha vida.</p><p><b>Ana:</b> Mas a política já cuida da nossa vida, querendo ou não. O preço da passagem, a merenda e a praça do bairro dependem de decisões políticas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O grêmio que quase não aconteceu",
+        "body_html": "<p>Na escola de Luana, o grêmio estudantil estava desativado havia anos. Quando ela e alguns colegas decidiram reativá-lo, encontraram obstáculos: poucos alunos apareceram na primeira reunião, alguns professores desconfiaram da ideia e ninguém sabia ao certo como organizar uma eleição.</p><p>Aos poucos, o grupo conseguiu apoio da coordenação, redigiu um estatuto e montou duas chapas. No dia da votação, a fila no pátio surpreendeu até os organizadores. A primeira conquista do novo grêmio foi pequena, a instalação de bebedouros no segundo andar, mas mudou a forma como muitos estudantes enxergavam a própria escola.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que muitos jovens se sentem distantes da política e das decisões coletivas?",
+      "Participar é apenas votar ou existem outras formas de participação no dia a dia?",
+      "Qual é o papel da escola e da família na formação de jovens participativos?",
+      "Que obstáculos impedem os jovens de serem ouvidos, e como superá-los?"
+    ],
+    "argument_paths": [
+      "A escola é o primeiro espaço de participação: grêmios, assembleias e conselhos de classe com voz dos estudantes ensinam, na prática, a dialogar e a decidir coletivamente.",
+      "O desinteresse juvenil não é apatia, mas falta de canais de escuta: quando adultos e instituições abrem espaço real, os jovens participam.",
+      "Sem informação não há participação: é preciso ensinar como funcionam as decisões públicas e combater a desinformação para que o jovem participe com consciência.",
+      "Posição mais cautelosa: a participação deve ser estimulada sem pressão, respeitando o amadurecimento e a liberdade de escolha que a própria lei reconhece ao tornar o voto facultativo aos 16 e 17 anos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 14, § 1º (alistamento eleitoral e voto facultativos para maiores de 16 e menores de 18 anos)",
+        "how": "Mostrar que a lei reconhece a capacidade política dos adolescentes, mas deixa a decisão nas mãos deles; o desafio, então, é motivar, e não obrigar."
+      },
+      {
+        "ref": "Lei nº 7.398/1985, que assegura a organização de grêmios estudantis",
+        "how": "Argumentar que a participação dos estudantes na vida escolar é um direito garantido por lei, e não um favor concedido pela direção."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 16",
+        "how": "O direito à liberdade inclui participar da vida política, na forma da lei, e expressar opinião; serve para defender que ouvir os jovens é uma obrigação."
+      },
+      {
+        "ref": "Estatuto da Juventude (Lei nº 12.852/2013)",
+        "how": "Reconhece às pessoas de 15 a 29 anos o direito à participação social e política e à representação juvenil; útil para propor conselhos de juventude e outros canais de escuta."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas de eleições e voto, esquecendo que o tema inclui também a escola e a comunidade.",
+      "Fazer uma crítica genérica aos políticos, sem discutir a participação dos jovens.",
+      "Propor soluções vagas, como “os jovens precisam se interessar mais”, sem explicar como isso poderia acontecer."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "juv-02",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "A pressão estética sobre os adolescentes na era dos filtros e das redes sociais.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre a imagem, a autoestima e a identidade dos adolescentes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Antes de postar",
+        "body_html": "<p><b>Bia:</b> Espera, não posta essa foto ainda!</p><p><b>Carol:</b> Por quê? Ficou ótima.</p><p><b>Bia:</b> Meu rosto ficou largo. Deixa eu passar um filtro antes.</p><p><b>Carol:</b> Mas é o seu rosto, ué.</p><p><b>Bia:</b> Por isso mesmo. Você viu as fotos da turma? Todo mundo parece perfeito.</p><p><b>Carol:</b> Parece. Eu estava na festa e ninguém estava daquele jeito.</p><p><b>Bia:</b> Eu sei. Mas se eu postar sem filtro, vão reparar.</p><p><b>Carol:</b> E se todo mundo parasse de usar ao mesmo tempo?</p><p><b>Bia:</b> Aí seria fácil. O difícil é ser a primeira.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um espelho que distorce",
+        "body_html": "<p>Os padrões de beleza não são novidade: cada época e cada cultura valorizaram certos tipos de corpo, de cabelo e de rosto. O que mudou nos últimos anos foi a velocidade e a intensidade com que esses modelos circulam. Aplicativos permitem afinar o nariz, clarear a pele e alisar a textura do rosto com um toque, e o resultado aparece lado a lado com fotos de pessoas reais.</p><p>Para um adolescente, que vive uma fase em que o corpo muda rapidamente e a opinião dos colegas pesa muito, comparar-se o tempo todo com imagens retocadas pode transformar pequenas diferenças em motivo de vergonha.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em debate",
+        "body_html": "<p>“Uma coisa é cuidar da aparência porque isso faz bem; outra é sentir que só será aceito quem ficar igual a um modelo.” <i>(Mãe de uma estudante)</i></p><p>“Os filtros são só uma brincadeira. Todo mundo sabe que as fotos são editadas, ninguém se engana com isso.” <i>(Estudante do 1º ano)</i></p><p>“Eu sabia que era editado e mesmo assim me sentia feia do lado daquelas fotos. Saber não bastou.” <i>(Estudante do 9º ano)</i></p><p>“Proibir não resolve. O que falta é conversar sobre isso em casa e na escola.” <i>(Professora de Educação Física)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que a opinião dos outros sobre a aparência pesa tanto na adolescência?",
+      "Os filtros e as edições de imagem são apenas diversão ou influenciam a forma como os jovens se veem?",
+      "Quem lucra com a insatisfação das pessoas com o próprio corpo?",
+      "O que famílias, escolas e plataformas digitais poderiam fazer para diminuir essa pressão?"
+    ],
+    "argument_paths": [
+      "A pressão estética prejudica a autoestima dos adolescentes, porque transforma imagens retocadas em padrão de normalidade.",
+      "Os padrões de beleza interessam a um mercado que lucra com a insatisfação; perceber isso é o primeiro passo para resistir a eles.",
+      "As redes sociais também podem ser espaço de resistência, com perfis que valorizam a diversidade de corpos, cores e estilos; o problema está no uso, e não na ferramenta.",
+      "Cuidar da aparência não é errado; o desafio é diferenciar o autocuidado da obrigação de corresponder a um modelo único."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), arts. 17 e 18",
+        "how": "O direito ao respeito inclui a integridade psíquica e moral do adolescente, e é dever de todos protegê-lo de qualquer tratamento vexatório ou constrangedor; serve para defender que ninguém deve ser humilhado ou excluído pela aparência."
+      },
+      {
+        "ref": "O mito da beleza, livro da escritora estadunidense Naomi Wolf",
+        "how": "A autora discute como os padrões de beleza funcionam como forma de pressão social, sobretudo sobre as mulheres; útil para mostrar que o problema é coletivo, e não apenas individual."
+      },
+      {
+        "ref": "Episódio “Queda Livre” (Nosedive), da série Black Mirror",
+        "how": "Mostra uma sociedade em que as pessoas se avaliam por notas e a busca por aprovação domina a vida da protagonista; bom exemplo para discutir imagem e aceitação social."
+      }
+    ],
+    "pitfalls": [
+      "Escrever sobre redes sociais em geral (vício em telas, notícias falsas) e esquecer a questão da aparência e da autoestima.",
+      "Culpar apenas o adolescente (“é só não ligar”), sem discutir as causas sociais da pressão.",
+      "Transformar o texto em relato pessoal, sem argumentos que vão além da própria experiência."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "juv-03",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "Bullying na escola: de quem é a responsabilidade de enfrentá-lo?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o bullying e seus efeitos sobre a convivência e o sentimento de pertencimento na escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O apelido",
+        "body_html": "<p>No começo do ano, alguém deu a Rafael um apelido por causa da sua altura. Parecia brincadeira, e ele mesmo riu nas primeiras vezes. Com o passar dos meses, o apelido virou figurinha no grupo da turma, depois desenho no quadro, depois motivo para ninguém querer sentar perto dele.</p><p>Rafael parou de levantar a mão nas aulas e começou a inventar dores de cabeça para faltar. Os colegas que não participavam das piadas também não diziam nada. Quando a coordenação finalmente percebeu, a turma inteira garantiu a mesma coisa: “Era só zoação”.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quando a brincadeira deixa de ser brincadeira",
+        "body_html": "<p>O bullying é diferente de um conflito ocasional entre colegas. Ele se caracteriza pela repetição: uma ou mais pessoas intimidam, humilham ou excluem alguém de forma sistemática, aproveitando-se de algum desequilíbrio de poder. Pode acontecer por meio de apelidos, agressões, boatos, isolamento e, cada vez mais, pela internet, quando recebe o nome de cyberbullying.</p><p>No Brasil, a Lei nº 13.185, de 2015, instituiu um programa de combate à intimidação sistemática e estabeleceu que as escolas devem adotar medidas de conscientização, prevenção e combate a essa prática.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Quem deve agir?",
+        "body_html": "<p>“A escola precisa agir com firmeza. Se não houver consequência, quem pratica continua.” <i>(Pai de estudante)</i></p><p>“Muitas vezes os pais nem sabem o que o filho faz no grupo da turma. A educação começa em casa.” <i>(Coordenadora pedagógica)</i></p><p>“Quem assiste e ri também faz parte. Se os colegas não aplaudissem, a graça acabava.” <i>(Estudante do 8º ano)</i></p><p>“Só punir não resolve. É preciso entender por que alguém sente necessidade de humilhar o outro.” <i>(Psicóloga escolar)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre uma brincadeira entre amigos e o bullying?",
+      "Que papel têm os colegas que presenciam as agressões e ficam em silêncio?",
+      "A punição é suficiente para combater o bullying? O que mais pode ser feito?",
+      "Como o bullying afeta o sentimento de pertencimento de quem é alvo dele?"
+    ],
+    "argument_paths": [
+      "A responsabilidade é compartilhada: escola, famílias e estudantes precisam agir juntos, pois o bullying se alimenta do silêncio de todos.",
+      "A escola tem a responsabilidade principal, porque a lei determina que ela previna e combata a intimidação sistemática e porque é ali que a convivência acontece.",
+      "Os colegas que assistem são peça-chave: quando o grupo deixa de achar graça e apoia quem é agredido, a agressão perde força.",
+      "Punir sem educar é insuficiente: é preciso trabalhar empatia e respeito às diferenças para prevenir, e não apenas reagir."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 13.185/2015 (Programa de Combate à Intimidação Sistemática)",
+        "how": "Mostrar que combater o bullying é um dever legal das escolas e que a lei dá prioridade à prevenção e à conscientização."
+      },
+      {
+        "ref": "Lei nº 14.811/2024, que incluiu a intimidação sistemática (bullying e cyberbullying) no Código Penal",
+        "how": "Discutir se tratar o bullying como crime resolve o problema ou se a prevenção educativa continua sendo o caminho principal."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 227",
+        "how": "Determina que é dever da família, da sociedade e do Estado colocar crianças, adolescentes e jovens a salvo de toda forma de discriminação, violência e opressão; base para a tese da responsabilidade compartilhada."
+      },
+      {
+        "ref": "Extraordinário, livro de R. J. Palacio, também adaptado para o cinema",
+        "how": "A história de Auggie, menino com uma diferença facial que começa a frequentar a escola, mostra como a atitude dos colegas pode excluir ou acolher."
+      }
+    ],
+    "pitfalls": [
+      "Descrever o bullying e suas consequências sem responder à pergunta central: de quem é a responsabilidade.",
+      "Apontar um único culpado sem justificar, ou propor apenas “punição severa” sem discutir prevenção.",
+      "Tratar qualquer desentendimento como bullying, sem mostrar que se trata de agressão repetida e intencional."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "juv-04",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "De que forma as manifestações culturais das periferias podem ser mais valorizadas pela sociedade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a produção cultural das juventudes das periferias e o reconhecimento que ela recebe. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Da margem ao centro",
+        "body_html": "<p>A história cultural brasileira mostra um movimento que se repete: expressões nascidas entre os mais pobres, muitas delas de origem negra, são primeiro vistas com desconfiança e, anos depois, passam a ser celebradas como símbolos nacionais. A capoeira chegou a ser tratada como crime no Código Penal de 1890, e o samba foi alvo de repressão policial no início do século XX. Hoje, ambos são reconhecidos como patrimônio cultural.</p><p>Essa trajetória levanta uma pergunta atual: como são vistos o funk, o rap, o slam e o passinho, criados e reinventados por jovens das periferias?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Batalha na praça",
+        "body_html": "<p>Toda sexta-feira à noite, a praça do bairro de Kaique vira palco. Jovens formam uma roda, alguém solta uma batida no celular e começam as batalhas de rima. Os temas vão do preço do ônibus à saudade de quem se mudou. Kaique aprendeu ali palavras que não conhecia e descobriu que gostava de escrever.</p><p>Na escola, porém, quando comentou que participava das batalhas, ouviu de um colega que “aquilo não era cultura de verdade”. Naquela noite, transformou a frase em rima e venceu a batalha.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes sobre o tema",
+        "body_html": "<p>“Se a escola estudasse letras de rap como estuda poemas, muita gente ia descobrir que gosta de literatura.” <i>(Professor de Língua Portuguesa)</i></p><p>“Valorizar não é só elogiar. É garantir espaço, estrutura e pagamento justo para quem produz.” <i>(Produtora cultural)</i></p><p>“Tem letra que eu não acho adequada, e isso não tem nada a ver com preconceito. Dá para criticar o conteúdo sem desprezar o movimento inteiro.” <i>(Mãe de estudante)</i></p><p>“Quando a cultura da periferia faz sucesso, muita gente de fora ganha dinheiro com ela, e quem criou fica esquecido.” <i>(Estudante do 1º ano)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que certas manifestações culturais são consideradas “de verdade” e outras não?",
+      "Que relação existe entre o preconceito contra uma cultura e o preconceito contra as pessoas que a produzem?",
+      "É possível criticar o conteúdo de uma obra sem desvalorizar todo um movimento cultural?",
+      "Que papel a escola, os meios de comunicação e o poder público podem ter nessa valorização?"
+    ],
+    "argument_paths": [
+      "O desprezo por essas manifestações repete um preconceito histórico de classe e de raça, como aconteceu com o samba e a capoeira; valorizá-las é reconhecer a identidade de muitos jovens brasileiros.",
+      "A escola pode ser a principal aliada, levando letras de rap, poemas de slam e obras como Quarto de Despejo para as aulas como textos dignos de análise, ao lado dos clássicos.",
+      "Valorizar exige ações concretas do poder público, como espaços, editais e estrutura para os artistas, e não apenas admiração.",
+      "Valorizar não significa aceitar tudo sem crítica: é possível debater conteúdos específicos sem desqualificar toda uma expressão cultural."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 215",
+        "how": "Determina que o Estado garanta o pleno exercício dos direitos culturais e apoie a valorização e a difusão das manifestações culturais; o § 1º manda proteger as manifestações das culturas populares, indígenas e afro-brasileiras. Argumento para cobrar políticas públicas."
+      },
+      {
+        "ref": "Criminalização da capoeira no Código Penal de 1890 (Decreto nº 847/1890)",
+        "how": "Exemplo histórico de uma expressão cultural negra e popular que foi perseguida antes de ser reconhecida como patrimônio cultural do Brasil pelo Iphan (2008) e, no caso da roda de capoeira, da humanidade pela Unesco (2014)."
+      },
+      {
+        "ref": "Inclusão do álbum Sobrevivendo no Inferno (1997), dos Racionais MC's, entre as obras de leitura obrigatória do vestibular da Unicamp",
+        "how": "Exemplo de reconhecimento institucional do rap como obra de valor literário e de crítica social."
+      },
+      {
+        "ref": "Quarto de Despejo, de Carolina Maria de Jesus (1960)",
+        "how": "Diário de uma moradora da favela do Canindé, em São Paulo, que se tornou um clássico; mostra que a periferia produz literatura de grande valor."
+      }
+    ],
+    "pitfalls": [
+      "Defender apenas o gosto pessoal (“eu gosto de funk”), sem argumentos sobre valorização e preconceito.",
+      "Falar de cultura brasileira em geral e esquecer o recorte das periferias, que é o centro do tema.",
+      "Não responder à pergunta “de que forma”, ficando apenas no diagnóstico do problema."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "juv-05",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "O preconceito linguístico e seus efeitos sobre o sentimento de pertencimento dos jovens.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as diferentes formas de falar o português e o modo como elas são julgadas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Sotaque novo",
+        "body_html": "<p>Quando se mudou do interior do Maranhão para o Rio de Janeiro, Heloísa tinha 13 anos e muita vontade de fazer amigos. No primeiro dia de aula, bastou ela responder à chamada para alguns colegas rirem. Nas semanas seguintes, imitavam seu jeito de falar sempre que ela abria a boca.</p><p>Heloísa passou a responder só com gestos e, em casa, treinava diante do espelho para “falar certo”. Um dia, a avó, ao telefone, perguntou por que ela estava falando diferente. Heloísa não soube dizer se estava aprendendo algo novo ou perdendo algo que era seu.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Existe um jeito certo de falar?",
+        "body_html": "<p>Toda língua viva varia. O português falado no Brasil muda conforme a região, a idade, o grupo social e a situação de comunicação. Há diferenças de sotaque, de vocabulário e de construção das frases, e nenhuma delas é, em si, um erro.</p><p>A norma-padrão, ensinada na escola e usada em textos oficiais, é uma variedade importante, que todo cidadão tem o direito de dominar. O problema começa quando outras formas de falar são usadas como motivo para ridicularizar, excluir ou considerar alguém menos inteligente. A esse julgamento os linguistas dão o nome de preconceito linguístico.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Debate na aula de Português",
+        "body_html": "<p><b>Lucas:</b> Se todo jeito de falar está certo, então para que estudar gramática?</p><p><b>Professora:</b> Boa pergunta. Estudar a norma-padrão amplia suas possibilidades. Você vai precisar dela numa entrevista de emprego, numa redação, num documento.</p><p><b>Lucas:</b> Então quem não fala assim está errado?</p><p><b>Professora:</b> Está usando outra variedade. O importante é saber adequar a linguagem à situação.</p><p><b>Marina:</b> Mas, na prática, as pessoas julgam, sim. Meu primo foi motivo de piada numa entrevista por causa do jeito de falar.</p><p><b>Professora:</b> E isso mostra exatamente por que o assunto merece ser discutido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que algumas formas de falar são consideradas mais “bonitas” ou “corretas” do que outras?",
+      "O preconceito linguístico pode estar ligado a outros preconceitos, como o regional e o social?",
+      "Como se sente, em relação ao grupo e à escola, o jovem que é ridicularizado pela forma de falar?",
+      "É possível ensinar a norma-padrão sem desvalorizar as outras variedades?"
+    ],
+    "argument_paths": [
+      "O preconceito linguístico é, muitas vezes, um preconceito social ou regional disfarçado, e leva jovens a esconderem a própria origem para serem aceitos.",
+      "A escola tem papel duplo: garantir o acesso à norma-padrão, que é um direito, e ensinar que as variedades linguísticas fazem parte da identidade de cada pessoa.",
+      "O jeito de falar carrega a memória familiar e regional; respeitá-lo fortalece o sentimento de pertencimento, e ridicularizá-lo gera exclusão.",
+      "Posição que relativiza: adequar a linguagem a cada situação é uma habilidade necessária, e não uma perda de identidade, desde que não venha acompanhada de humilhação."
+    ],
+    "repertoire": [
+      {
+        "ref": "Preconceito linguístico: o que é, como se faz (1999), livro do linguista Marcos Bagno",
+        "how": "Obra de referência que desmonta mitos como o de que “brasileiro não sabe português”; útil para fundamentar a ideia de que variação não é erro."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 3º, inciso IV",
+        "how": "Entre os objetivos da República está promover o bem de todos, sem preconceitos de origem e quaisquer outras formas de discriminação; serve para mostrar que zombar da origem de alguém contraria um princípio constitucional."
+      },
+      {
+        "ref": "Vidas Secas, de Graciliano Ramos (1938)",
+        "how": "Fabiano sente-se inferior diante de quem domina as palavras; o romance mostra como a linguagem pode marcar desigualdades e afetar a forma como uma pessoa se vê."
+      }
+    ],
+    "pitfalls": [
+      "Defender que “não existe certo e errado” e concluir que a escola não deve ensinar a norma-padrão, o que enfraquece o argumento.",
+      "Escrever o texto inteiro sobre gírias ou linguagem da internet, esquecendo o preconceito e o pertencimento.",
+      "Deixar marcas de oralidade na própria redação, já que a proposta exige a norma-padrão."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "juv-06",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "Até que ponto vale a pena mudar o próprio jeito de ser para ser aceito em um grupo?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre a necessidade de pertencer a um grupo e a construção da identidade na adolescência. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Ninguém vive sozinho",
+        "body_html": "<p>Pertencer a um grupo é uma necessidade humana. Na adolescência, essa necessidade se torna ainda mais intensa: os amigos passam a ocupar um lugar central, e ser aceito pela turma pode parecer a coisa mais importante do mundo. É natural que, nesse processo, os jovens experimentem estilos, gostos e opiniões, e que mudem ao conviver com os outros. Toda identidade se forma assim, em contato com diferentes pessoas.</p><p>A questão surge quando a mudança deixa de ser escolha e passa a ser condição: quando, para continuar no grupo, é preciso esconder o que se pensa ou fazer o que não se quer.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A playlist apagada",
+        "body_html": "<p>Gabriel sempre gostou de música sertaneja, herança das viagens de carro com o pai. Quando entrou em uma escola nova, percebeu que o grupo mais popular da turma ria desse estilo. Apagou as músicas da playlist, passou a usar as mesmas gírias dos colegas e comprou um tênis parecido com o deles.</p><p>Funcionou: foi chamado para o aniversário de um dos meninos. Na festa, porém, alguém sugeriu pichar o muro de um vizinho. Todos toparam, e Gabriel ficou parado na calçada, sem saber se dizia o que pensava ou se seguia o grupo mais uma vez.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p>“Mudar um pouco para se encaixar faz parte. Ninguém chega numa turma nova impondo tudo o que gosta.” <i>(Estudante do 1º ano)</i></p><p>“Amigo de verdade aceita você do jeito que é. Se precisa fingir, não é amizade.” <i>(Estudante do 9º ano)</i></p><p>“Às vezes a gente muda por causa dos amigos e descobre coisas boas. Eu comecei a ler porque minha turma lia.” <i>(Estudante do 8º ano)</i></p><p>“O perigo é quando o grupo pede algo que vai contra os seus valores. Aí a mudança deixa de ser crescimento.” <i>(Orientadora educacional)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre se adaptar a um grupo e abrir mão da própria identidade?",
+      "Por que a aceitação dos colegas é tão importante na adolescência?",
+      "Mudar por influência dos amigos é sempre negativo? Em que casos pode ser positivo?",
+      "Que limites uma pessoa deve estabelecer para não agir contra os próprios valores?"
+    ],
+    "argument_paths": [
+      "Mudanças que ampliam gostos e experiências são saudáveis, mas nenhuma aceitação vale o abandono dos próprios valores; o limite está no que fere a consciência ou prejudica outras pessoas.",
+      "Grupos que exigem que alguém esconda quem é não oferecem pertencimento verdadeiro, e sim uma aceitação frágil, que depende de fingimento.",
+      "A identidade não é fixa: ela se constrói nas relações, e mudar ao conviver com os outros é parte natural do amadurecimento.",
+      "A responsabilidade não é só do indivíduo: ambientes que acolhem a diversidade, como escolas atentas à convivência, diminuem a pressão para se encaixar."
+    ],
+    "repertoire": [
+      {
+        "ref": "Experimentos de conformidade do psicólogo Solomon Asch (década de 1950)",
+        "how": "Mostraram que muitas pessoas, diante de um grupo, chegam a concordar com uma resposta claramente errada para não discordar sozinhas; ajudam a explicar a força da pressão social."
+      },
+      {
+        "ref": "Aristóteles, em Política: o ser humano como “animal político”, que vive em comunidade",
+        "how": "Fundamentar que a necessidade de pertencer faz parte da natureza humana, o que torna a pressão do grupo compreensível, embora não justifique tudo."
+      },
+      {
+        "ref": "O Pequeno Príncipe, de Antoine de Saint-Exupéry",
+        "how": "A raposa ensina que os laços verdadeiros se criam com tempo e cuidado (“cativar”); serve para contrastar a amizade verdadeira com a aceitação superficial."
+      }
+    ],
+    "pitfalls": [
+      "Responder apenas “nunca se deve mudar”, ignorando que a identidade se transforma naturalmente com a convivência.",
+      "Contar uma história do começo ao fim, transformando a dissertação em narrativa.",
+      "Não discutir o “até que ponto”, ou seja, não propor um critério para separar a mudança saudável da perda de identidade."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "juv-07",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "As regras da escola sobre roupas, cabelos e acessórios deveriam dar mais espaço à expressão da identidade dos estudantes?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre as regras de convivência escolar e a liberdade dos estudantes para expressar sua identidade por meio da aparência. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O boné na portaria",
+        "body_html": "<p>Na entrada da escola, o inspetor pediu que Davi tirasse o boné. Ele obedeceu, mas perguntou o motivo. “É a regra”, ouviu. Na mesma semana, uma colega foi advertida porque tinha pintado as pontas do cabelo de azul, e outra porque usava um brinco considerado grande demais.</p><p>No grupo da turma, a discussão esquentou. Alguns achavam as regras exageradas e diziam que a escola queria todo mundo igual. Outros lembravam que a escola não é uma festa e que regras existem em qualquer lugar. Ninguém, porém, sabia quem tinha criado aquelas normas nem quando tinham sido discutidas pela última vez.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Para que serve o uniforme?",
+        "body_html": "<p>O uso de uniforme e de regras de apresentação pessoal é comum em muitas escolas brasileiras, públicas e particulares. Quem defende essas normas costuma lembrar que o uniforme ajuda a identificar os estudantes, contribui para a segurança e diminui a comparação entre roupas caras e baratas.</p><p>Quem as critica argumenta que certas regras vão além disso e acabam controlando cabelos, acessórios e estilos que fazem parte da identidade cultural, religiosa ou pessoal dos alunos. Entre esses dois pontos de vista, existe uma pergunta prática: quais regras são realmente necessárias e quem deve participar da decisão sobre elas?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que dizem",
+        "body_html": "<p>“Regra que não se explica vira implicância. Se os alunos entenderem o motivo, vão respeitar mais.” <i>(Estudante do 9º ano)</i></p><p>“A escola é um espaço de aprendizagem e tem suas normas, como qualquer ambiente de trabalho.” <i>(Pai de estudante)</i></p><p>“Meu cabelo crespo solto não é falta de capricho. É quem eu sou.” <i>(Estudante do 1º ano)</i></p><p>“Algumas regras podem ser revistas, mas precisamos de critérios que valham para todos.” <i>(Diretora de escola)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Quais regras sobre aparência têm justificativa clara, como segurança e identificação, e quais parecem não ter?",
+      "A aparência pode ser uma forma de expressar identidade cultural, religiosa ou pessoal?",
+      "Os estudantes deveriam participar da criação ou da revisão dessas regras? De que maneira?",
+      "Como equilibrar a liberdade individual com as normas coletivas da escola?"
+    ],
+    "argument_paths": [
+      "As regras devem ser revistas para permitir expressões de identidade que não prejudicam ninguém, como cabelos, cores e acessórios ligados à cultura e à religião.",
+      "As regras devem ser mantidas, pois garantem segurança, identificação e igualdade entre os estudantes, mas precisam ser explicadas com clareza a todos.",
+      "O problema não é a existência de regras, e sim a falta de diálogo: a carta pode propor uma comissão com estudantes, professores e famílias para rever as normas.",
+      "Posição intermediária: manter o uniforme, que reduz a comparação entre roupas, e flexibilizar as regras sobre cabelo e acessórios, que dizem respeito à identidade."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 17",
+        "how": "O direito ao respeito abrange a preservação da imagem, da identidade, da autonomia, dos valores e das crenças; argumento forte para questionar regras que interferem na identidade."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 53",
+        "how": "Garante ao estudante o direito de ser respeitado por seus educadores e de participar de entidades estudantis; útil para propor que os alunos ajudem a rever as normas."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso VI (liberdade de consciência e de crença)",
+        "how": "Serve para defender o uso de símbolos e vestimentas ligados à religião de cada estudante."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer a estrutura do gênero: a carta precisa de local e data, vocativo dirigido à direção, despedida e assinatura genérica, sem o seu nome verdadeiro, para não identificar a prova.",
+      "Usar tom agressivo ou desrespeitoso com a direção, o que enfraquece a argumentação.",
+      "Escrever uma lista de reclamações sem defender uma posição clara nem apresentar propostas."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "juv-08",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "É justo cobrar dos adolescentes que decidam cedo o seu futuro profissional?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as expectativas que recaem sobre os jovens em relação às escolhas de estudo e de trabalho. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "No almoço de domingo",
+        "body_html": "<p><b>Tio:</b> E aí, já sabe o que vai ser quando crescer?</p><p><b>Laura:</b> Ainda não, tio. Gosto de biologia, mas também de desenho.</p><p><b>Tio:</b> Desenho não dá dinheiro. Pensa em algo mais seguro.</p><p><b>Mãe:</b> Deixa a menina, ela só tem 15 anos.</p><p><b>Tio:</b> Com 15 anos eu já trabalhava.</p><p><b>Laura:</b> E você gostava do que fazia?</p><p><b>Tio:</b> Gostar é luxo. Eu precisava.</p><p><b>Mãe:</b> Pois é. Ela tem a chance de escolher com calma, e isso é bom.</p><p><b>Laura:</b> Mas na escola também perguntam. Todo mundo parece ter um plano, menos eu.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Escolhas no Ensino Médio",
+        "body_html": "<p>A reforma do Ensino Médio, aprovada em 2017 e modificada em 2024, organizou essa etapa em uma formação geral, comum a todos, e em itinerários formativos, que permitem ao estudante aprofundar-se em certas áreas do conhecimento ou na formação técnica e profissional. A proposta pretendia aproximar a escola dos interesses dos jovens, mas também alimentou um debate: adolescentes que acabaram de sair do Ensino Fundamental estão prontos para fazer escolhas que podem influenciar seu futuro?</p><p>Para alguns, escolher cedo dá sentido aos estudos. Para outros, a adolescência deveria ser um período de experimentação, e não de decisões definitivas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Pontos de vista",
+        "body_html": "<p>“Ter um objetivo cedo me ajudou a estudar com mais foco. Eu sei aonde quero chegar.” <i>(Estudante do 1º ano)</i></p><p>“Mudei de ideia três vezes antes de encontrar minha profissão, e cada tentativa me ensinou alguma coisa.” <i>(Professora de História)</i></p><p>“Muitos jovens não têm o direito de escolher com calma, porque precisam ajudar em casa desde cedo.” <i>(Assistente social)</i></p><p>“O mundo do trabalho muda rápido. Algumas profissões de hoje nem existiam quando eu tinha 15 anos.” <i>(Pai de estudante)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Aos 14 ou 15 anos, um jovem já tem informações suficientes para escolher uma profissão?",
+      "Escolher cedo pode trazer vantagens? Quais seriam os riscos?",
+      "Todos os jovens brasileiros têm as mesmas condições de escolher o próprio futuro?",
+      "Como a escola e a família podem ajudar sem pressionar?"
+    ],
+    "argument_paths": [
+      "Não é justo exigir decisões definitivas na adolescência, fase de descobertas; o papel da escola é oferecer experiências variadas para que o jovem se conheça.",
+      "Pensar no futuro desde cedo é positivo quando se trata de construir projetos flexíveis, e não de fechar portas: planejar é diferente de decidir para sempre.",
+      "A cobrança é desigual: jovens de famílias pobres muitas vezes precisam decidir cedo por necessidade, e isso é uma questão de justiça social.",
+      "A orientação profissional na escola, com informação sobre carreiras e contato com profissionais, reduz a ansiedade e torna a escolha mais consciente."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 205",
+        "how": "A educação visa ao pleno desenvolvimento da pessoa, ao preparo para a cidadania e à qualificação para o trabalho; mostra que a escola não deve formar apenas para o mercado."
+      },
+      {
+        "ref": "Lei nº 13.415/2017 (reforma do Ensino Médio) e Lei nº 14.945/2024, que a modificou",
+        "how": "A primeira criou os itinerários formativos; a segunda ampliou a carga horária da formação geral, mas manteve os itinerários. Exemplo concreto do debate sobre escolhas feitas cedo."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 7º, inciso XXXIII",
+        "how": "Proíbe qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz a partir dos 14; ajuda a discutir a situação dos jovens que precisam trabalhar cedo."
+      },
+      {
+        "ref": "Jean-Paul Sartre, em O existencialismo é um humanismo: o ser humano está “condenado a ser livre”",
+        "how": "Discutir o peso e a responsabilidade da liberdade de escolha, que pode gerar tanto autonomia quanto angústia."
+      }
+    ],
+    "pitfalls": [
+      "Escrever sobre a profissão que você quer seguir, transformando a dissertação em relato pessoal.",
+      "Discutir apenas a reforma do Ensino Médio de forma técnica, esquecendo a pressão sobre os jovens.",
+      "Ignorar que as condições para escolher variam muito conforme a realidade social de cada jovem."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "juv-09",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "Solidão na juventude: por que muitos jovens se sentem sozinhos, mesmo cercados de pessoas e de conexões?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a solidão e a busca por vínculos verdadeiros entre os jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Trezentos seguidores",
+        "body_html": "<p>Isabela tem trezentos seguidores, participa de seis grupos de mensagens e passa o intervalo cercada de colegas. Ainda assim, quando pensa em alguém para contar que os pais estão se separando, não encontra ninguém. Com os amigos, as conversas giram em torno de séries, memes e provas. Falar de coisas sérias parece estranho, quase um exagero.</p><p>À noite, ela rola a tela do celular por muito tempo, vendo fotos de festas e viagens, e tem a impressão de que todos estão bem, menos ela. No dia seguinte, sorri no pátio como se nada tivesse acontecido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Estar só e sentir-se só",
+        "body_html": "<p>Estar sozinho e sentir-se sozinho não são a mesma coisa. Muitas pessoas gostam de momentos de solidão, que podem ser usados para descansar, pensar ou criar. A solidão que preocupa é outra: a sensação persistente de não ter com quem contar, de não ser compreendido ou de não fazer parte de lugar nenhum.</p><p>Ela pode surgir mesmo em quem tem muitos contatos, porque depende menos da quantidade de pessoas por perto e mais da qualidade dos vínculos. Na adolescência, fase de muitas mudanças, esse sentimento pode ser intenso e, quando dura muito, merece atenção e cuidado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Hipóteses",
+        "body_html": "<p>“A rede social mostra só o lado bom da vida dos outros. A gente compara e se sente pior.” <i>(Estudante do 1º ano)</i></p><p>“Os jovens de hoje passam pouco tempo juntos sem uma tela no meio. Conversar olho no olho virou raridade.” <i>(Avô de estudante)</i></p><p>“Não acho que a internet seja a vilã. Foi num grupo on-line que encontrei pessoas que gostam das mesmas coisas que eu.” <i>(Estudante do 9º ano)</i></p><p>“Muitos adultos também estão ocupados demais para ouvir. A solidão dos filhos, às vezes, começa em casa.” <i>(Psicólogo)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre ter muitos contatos e ter vínculos verdadeiros?",
+      "As redes sociais aproximam ou afastam as pessoas? Podem fazer as duas coisas?",
+      "Que papel a família e a escola têm na criação de espaços de escuta e convivência?",
+      "Por que falar sobre sentimentos ainda parece difícil para muitos jovens?"
+    ],
+    "argument_paths": [
+      "A comparação constante com a vida idealizada dos outros nas redes alimenta a sensação de inadequação e de isolamento.",
+      "A falta de tempo e de escuta nas famílias e nas escolas faz com que muitos jovens não tenham com quem dividir seus problemas.",
+      "A internet não é a única causa e pode até ajudar a formar comunidades; o problema está nas relações superficiais, dentro e fora da tela.",
+      "O tabu em torno da saúde emocional impede que os jovens peçam ajuda; tornar natural a conversa sobre sentimentos é parte da solução."
+    ],
+    "repertoire": [
+      {
+        "ref": "Amor líquido (2003), do sociólogo polonês Zygmunt Bauman",
+        "how": "O autor do conceito de “modernidade líquida” discute a fragilidade dos laços humanos em uma época de conexões rápidas e fáceis de desfazer; ajuda a explicar por que muitos contatos não significam vínculos sólidos."
+      },
+      {
+        "ref": "Divertida Mente 2 (Pixar, 2024)",
+        "how": "O filme mostra as novas emoções de Riley no início da adolescência, como a Ansiedade, e seu desejo de ser aceita por um novo grupo; exemplo acessível sobre pertencimento e sentimentos."
+      },
+      {
+        "ref": "Centro de Valorização da Vida (CVV), que oferece apoio emocional gratuito pelo telefone 188",
+        "how": "Exemplo de iniciativa de escuta para quem se sente sozinho; pode aparecer na conclusão, ao apontar caminhos."
+      }
+    ],
+    "pitfalls": [
+      "Fazer um texto apenas contra as redes sociais, sem considerar outras causas da solidão.",
+      "Confundir estar sozinho por escolha com o sentimento de solidão que o tema discute.",
+      "Listar causas sem desenvolvê-las com explicações e exemplos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "juv-10",
+    "axis": "juv",
+    "axis_label": "Juventude, identidade e pertencimento",
+    "theme": "Os jovens e a cidade: é possível garantir espaços públicos de lazer e convivência para a juventude?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre os jovens e os espaços públicos das cidades, como praças, quadras, parques e centros culturais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Onde a gente pode ficar?",
+        "body_html": "<p>No bairro de Vitória, a única quadra está com a rede rasgada e as luzes queimadas. A praça mais próxima fica escura depois das seis da tarde. O shopping tem ar-condicionado, mas os seguranças observam os grupos de adolescentes com desconfiança. O centro cultural fica do outro lado da cidade, e a passagem de ida e volta pesa no orçamento da família.</p><p>Nos fins de semana, Vitória e os amigos acabam ficando em casa, cada um no seu celular. “Não é que a gente não queira sair”, ela explica. “É que não tem para onde ir.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A cidade também educa",
+        "body_html": "<p>Praças, parques, bibliotecas, quadras e centros culturais não são apenas lugares de passagem. É neles que pessoas de diferentes idades e origens se encontram, praticam esportes, trocam ideias e criam laços com o lugar onde vivem.</p><p>Para os jovens, esses espaços têm um papel especial: permitem conviver fora da escola e de casa, experimentar novas atividades e sentir que a cidade também lhes pertence. Quando esses lugares estão abandonados, distantes ou são considerados perigosos, a juventude perde oportunidades de lazer e de convivência, e a própria cidade perde a presença de seus moradores mais jovens.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na reunião da associação de moradores",
+        "body_html": "<p>“Se a prefeitura reformar a quadra e colocar iluminação, os jovens voltam a usar.” <i>(Morador)</i></p><p>“Não adianta reformar se ninguém cuida depois. A comunidade precisa se envolver.” <i>(Comerciante do bairro)</i></p><p>“Quando um grupo de jovens se reúne na praça, logo tem gente achando que é bagunça. Precisamos ser tratados como moradores, e não como problema.” <i>(Estudante do 1º ano)</i></p><p>“Os jovens deveriam ser ouvidos antes de qualquer projeto. São eles que sabem do que precisam.” <i>(Professora)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que os espaços públicos são importantes para a formação e o pertencimento dos jovens?",
+      "Que obstáculos afastam os jovens desses espaços, como distância, custo, insegurança ou preconceito?",
+      "De quem é a responsabilidade de criar e manter esses espaços?",
+      "Como os próprios jovens podem participar das decisões sobre a cidade?"
+    ],
+    "argument_paths": [
+      "É possível, desde que o poder público invista em espaços próximos, iluminados e bem cuidados, especialmente nos bairros que mais carecem deles.",
+      "Não basta construir: os jovens precisam ser ouvidos no planejamento, para que os espaços correspondam aos seus interesses e sejam de fato ocupados.",
+      "O preconceito contra jovens reunidos em grupo, sobretudo pobres e negros, é um obstáculo tão grande quanto a falta de estrutura; sem combatê-lo, os espaços existem, mas não acolhem.",
+      "Posição cética: sem segurança, transporte acessível e manutenção contínua, novos espaços tendem a ser abandonados; a solução depende de um conjunto de políticas, e não de obras isoladas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 16",
+        "how": "O direito à liberdade inclui ir, vir e estar nos logradouros públicos e espaços comunitários, além de brincar, praticar esportes e divertir-se; base para defender o direito dos jovens à cidade."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 227",
+        "how": "Estabelece que é dever da família, da sociedade e do Estado assegurar, com absoluta prioridade, direitos como o lazer e a cultura a crianças, adolescentes e jovens; útil para discutir responsabilidades."
+      },
+      {
+        "ref": "Estatuto da Juventude (Lei nº 12.852/2013)",
+        "how": "Reconhece às pessoas de 15 a 29 anos, entre outros, o direito ao desporto e ao lazer e o direito ao território e à mobilidade; reforça que circular pela cidade e usar seus espaços também é um direito da juventude."
+      },
+      {
+        "ref": "Os “rolezinhos” em shoppings de São Paulo, entre o fim de 2013 e o início de 2014",
+        "how": "Encontros de jovens da periferia marcados pela internet provocaram reações de medo e tentativas de restringir o acesso; o episódio ajuda a discutir preconceito e o direito de circular pela cidade."
+      }
+    ],
+    "pitfalls": [
+      "Tratar o tema apenas como problema de segurança pública, esquecendo o lazer, a convivência e o pertencimento.",
+      "Responder “sim” ou “não” sem explicar as condições que tornariam isso possível ou impossível.",
+      "Propor soluções genéricas, como “o governo deve investir mais”, sem dizer em quê e de que maneira."
+    ],
+    "difficulty": 2
+  }
+]

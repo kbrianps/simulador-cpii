@@ -1,0 +1,613 @@
+[
+  {
+    "id": "inf-01",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "Por que as notícias falsas se espalham com tanta facilidade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a rapidez com que informações falsas circulam no dia a dia. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma segunda-feira qualquer",
+        "body_html": "<p>Às 7h12, chega ao grupo da turma um áudio anunciando que a prova de Matemática foi cancelada. Às 7h15, alguém encaminha o mesmo áudio para o grupo do futebol. Às 7h20, uma prima que estuda em outra escola garante que ouviu a mesma coisa. Às 7h40, a professora entra na sala com as provas na mão.</p><p>Ninguém sabe quem gravou o áudio. Ninguém perguntou. A mensagem era curta, tinha a voz de alguém que parecia conhecido e trazia exatamente a notícia que todos queriam ouvir.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O que a mentira tem a seu favor",
+        "body_html": "<p>Uma informação verdadeira costuma dar mais trabalho: precisa ser apurada, conferida e, muitas vezes, vem cheia de ressalvas. A mentira não tem esse compromisso. Pode ser inventada em minutos, sob medida para provocar medo, raiva ou entusiasmo, emoções que levam as pessoas a reagir antes de pensar.</p><p>Além disso, nas redes sociais, aquilo que gera mais curtidas e comentários tende a ganhar mais visibilidade. Assim, o conteúdo mais chocante nem sempre é o mais confiável, mas frequentemente é o que chega mais longe.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três explicações",
+        "body_html": "<p><b>Júlia, 15 anos:</b> “As pessoas compartilham porque não têm tempo de checar. É tudo rápido demais.”</p><p><b>Seu Antônio, 62 anos:</b> “Hoje ninguém sabe mais em quem confiar. Então cada um acredita no que combina com o que já pensa.”</p><p><b>Renata, professora:</b> “Falta ensinar desde cedo a desconfiar de títulos exagerados e a procurar a fonte. Ninguém nasce sabendo ler notícia, isso se aprende.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que emoções costumam estar presentes nas mensagens falsas que mais circulam?",
+      "Por que é mais fácil acreditar em uma informação que confirma aquilo que já pensamos?",
+      "De que maneira o funcionamento das redes sociais favorece conteúdos chamativos?",
+      "A falta do hábito de verificar a fonte é causa ou consequência do problema?"
+    ],
+    "argument_paths": [
+      "As notícias falsas se espalham porque exploram emoções fortes, como medo e indignação, que levam ao compartilhamento impulsivo.",
+      "A principal causa está no funcionamento das plataformas, que dão mais visibilidade ao que gera engajamento, e não necessariamente ao que é verdadeiro.",
+      "O problema é sobretudo educacional: falta formação para ler criticamente, identificar fontes e desconfiar de títulos sensacionalistas.",
+      "A desconfiança em relação às instituições e à imprensa leva as pessoas a preferir acreditar em conhecidos, o que abre espaço para boatos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estudo “The spread of true and false news online”, de Soroush Vosoughi, Deb Roy e Sinan Aral, pesquisadores do MIT, publicado na revista Science em 2018",
+        "how": "Concluiu que, no Twitter, notícias falsas se espalhavam mais rápido e mais longe do que as verdadeiras, em parte por parecerem novidade e despertarem emoções fortes, e que pessoas, mais do que robôs, eram as principais responsáveis por essa difusão. Sustenta o argumento sobre o papel da emoção e do comportamento humano."
+      },
+      {
+        "ref": "Escolha de “post-truth” (pós-verdade) como palavra do ano de 2016 pelos Dicionários Oxford",
+        "how": "O termo descreve situações em que apelos à emoção e às crenças pessoais influenciam mais a opinião pública do que os fatos objetivos; ajuda a explicar por que a mentira que agrada encontra terreno fértil."
+      }
+    ],
+    "pitfalls": [
+      "Apenas definir o que são notícias falsas ou listar exemplos, sem explicar as causas da sua propagação, que são o foco do tema.",
+      "Dedicar quase todo o texto às soluções, esquecendo que a pergunta pede uma reflexão sobre os motivos (a proposta de solução pode aparecer, mas não substitui a análise das causas).",
+      "Culpar genericamente “a internet”, sem desenvolver como e por que ela favorece a desinformação."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "inf-02",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "Quem compartilha uma notícia falsa sem saber que ela é falsa tem responsabilidade pelos danos que ela causa?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a responsabilidade de cada pessoa na circulação de informações falsas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O boato da cantina",
+        "body_html": "<p>Numa sexta-feira, começou a circular entre os alunos uma foto de uma cozinha imunda com a legenda: “Olha a cozinha da cantina! Não comam mais aí”. Muita gente repassou sem pensar duas vezes. Na semana seguinte, as vendas despencaram, e a dona da cantina, que trabalhava ali havia anos, precisou dispensar um funcionário.</p><p>Depois se descobriu que a foto era de outro lugar, tirada em outra cidade. Quem criou a legenda nunca foi identificado. Quem compartilhou dizia apenas: “Eu não sabia”.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Conversa no intervalo",
+        "body_html": "<p><b>Caio:</b> Eu só encaminhei a mensagem. Quem inventou é que tem culpa.</p><p><b>Lara:</b> Mas, sem gente encaminhando, a mentira ficaria parada no celular de quem inventou.</p><p><b>Caio:</b> E eu ia adivinhar que era falso? Parecia verdade.</p><p><b>Lara:</b> Não precisava adivinhar. Bastava esperar, perguntar, procurar em outro lugar.</p><p><b>Caio:</b> Ninguém tem tempo para isso o dia inteiro.</p><p><b>Lara:</b> Então talvez seja melhor não sair repassando tudo o dia inteiro.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Intenção e consequência",
+        "body_html": "<p>Na vida em sociedade, costuma-se distinguir quem age de propósito de quem age por descuido. Quem espalha uma mentira sabendo que ela é mentira age de má-fé. Quem a repassa acreditando nela talvez não tenha má intenção, mas pode ter sido imprudente.</p><p>A diferença importa, mas não apaga os efeitos: uma reputação atingida, um comércio prejudicado ou uma pessoa exposta sofrem o dano do mesmo jeito, qualquer que tenha sido a intenção de quem apertou o botão de compartilhar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Existe diferença moral entre quem cria uma notícia falsa e quem apenas a repassa?",
+      "É razoável exigir que cada pessoa verifique tudo o que recebe antes de compartilhar?",
+      "Dizer “eu não sabia” é suficiente para se livrar da responsabilidade?",
+      "Quem é atingido por um boato consegue recuperar o que perdeu?",
+      "O que deveria fazer alguém que descobre ter compartilhado uma mentira?"
+    ],
+    "argument_paths": [
+      "Sim: quem compartilha participa da cadeia de propagação e, por isso, tem responsabilidade, ainda que menor do que a de quem criou a mentira.",
+      "A responsabilidade é parcial e depende do cuidado: quem tinha meios razoáveis de desconfiar do conteúdo e não o fez agiu com imprudência.",
+      "Não da mesma forma: a culpa principal é de quem cria e lucra com a desinformação, e o usuário enganado também é, de certo modo, vítima.",
+      "Mais importante do que apontar culpados é reparar o dano: quem compartilhou tem o dever de desmentir e se retratar quando descobre o erro."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código Penal brasileiro (Decreto-Lei nº 2.848/1940), arts. 138 a 140",
+        "how": "Definem os crimes de calúnia, difamação e injúria. No caso da calúnia (atribuir falsamente a alguém um crime), o § 1º do art. 138 pune também quem, sabendo falsa a imputação, a propala ou divulga; a lei penal, portanto, dá peso ao conhecimento de quem espalha, o que ajuda a discutir a diferença entre má-fé e descuido."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, incisos V e X",
+        "how": "Asseguram o direito de resposta, proporcional ao agravo, e a inviolabilidade da honra e da imagem das pessoas, com direito a indenização; mostram que o dano causado por uma mentira é reconhecido pela lei e precisa ser reparado."
+      },
+      {
+        "ref": "Código Civil brasileiro (Lei nº 10.406/2002), arts. 186 e 927",
+        "how": "O art. 186 considera ato ilícito violar direito e causar dano a outra pessoa não só por ação voluntária, mas também por negligência ou imprudência; o art. 927 obriga quem causou o dano a repará-lo. Ajuda a argumentar que o descuido, mesmo sem má intenção, pode gerar o dever de reparar."
+      }
+    ],
+    "pitfalls": [
+      "Discutir notícias falsas de modo geral, sem enfrentar a questão central: a responsabilidade de quem compartilha sem saber.",
+      "Responder apenas “sim” ou “não” sem considerar a diferença entre intenção e consequência.",
+      "Recontar o caso do texto motivador como se fosse a redação, em vez de usá-lo como ponto de partida para argumentar."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "inf-03",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "O que fazer quando a desinformação chega pelas pessoas em quem mais confiamos?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a circulação de informações falsas entre familiares e amigos. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Domingo à noite",
+        "body_html": "<p>Domingo à noite, o avô de Bruno manda no grupo da família um vídeo dizendo que um alimento comum “cura” uma doença grave. Em poucos minutos, chegam mensagens de agradecimento e a promessa de uma tia de comprar o produto no dia seguinte.</p><p>Bruno lê a mensagem três vezes. Sabe que o vídeo não indica nenhuma fonte. Também sabe que, se responder, pode parecer arrogante; se ficar calado, alguém da família talvez troque o tratamento médico pelo alimento milagroso.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Confiança",
+        "body_html": "<p>Confiar em quem conhecemos é algo natural e, na maior parte das vezes, saudável. É por meio da família e dos amigos que aprendemos boa parte do que sabemos sobre o mundo. Justamente por isso, uma mensagem falsa ganha força quando chega pelas mãos de alguém querido: ela deixa de parecer uma informação qualquer e passa a carregar o afeto de quem a enviou.</p><p>Contestar a mensagem, nesse caso, pode soar como contestar a própria pessoa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três atitudes possíveis",
+        "body_html": "<p><b>Corrigir em público:</b> “Se a mentira foi para o grupo inteiro, o desmentido também precisa ir. Senão, só metade das pessoas fica sabendo da verdade.”</p><p><b>Conversar em particular:</b> “Ninguém gosta de ser corrigido na frente de todo mundo. Uma conversa reservada evita brigas e tem mais chance de convencer.”</p><p><b>Deixar para lá:</b> “Discutir no grupo da família só gera confusão. Às vezes, manter a paz é mais importante do que ter razão.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que é mais difícil desconfiar de uma informação enviada por alguém querido?",
+      "Corrigir um familiar é falta de respeito ou uma forma de cuidado?",
+      "O silêncio diante de uma mensagem falsa pode ter consequências?",
+      "Que estratégias tornam uma correção mais eficaz sem romper a relação?",
+      "Os jovens têm algum papel especial nessa conversa entre gerações?"
+    ],
+    "argument_paths": [
+      "É preciso corrigir, pois o afeto não justifica deixar pessoas queridas expostas a riscos, sobretudo quando a informação envolve saúde ou dinheiro.",
+      "A correção deve ser feita com cuidado e diálogo, de preferência em particular e com fontes confiáveis, para não transformar a questão em disputa pessoal.",
+      "Em alguns casos, o silêncio pode ser uma escolha razoável para preservar a convivência, desde que a mensagem não represente perigo concreto.",
+      "A solução vai além da família: a formação para avaliar informações deve alcançar pessoas de todas as idades, e não apenas os estudantes."
+    ],
+    "repertoire": [
+      {
+        "ref": "Paulo Freire, Pedagogia do oprimido",
+        "how": "Freire defende o diálogo como base da educação, em oposição à simples transmissão de conteúdos de quem “sabe” para quem “não sabe”; sustenta a ideia de corrigir por meio da conversa, e não da humilhação."
+      },
+      {
+        "ref": "Estatuto da Pessoa Idosa (Lei nº 10.741/2003), art. 3º",
+        "how": "Afirma a obrigação da família, da comunidade, da sociedade e do poder público de assegurar à pessoa idosa, com absoluta prioridade, direitos como a vida e a saúde; reforça que orientar parentes mais velhos contra boatos e golpes pode ser uma forma de cuidado."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 196",
+        "how": "Define a saúde como direito de todos e dever do Estado; ajuda a mostrar que boatos sobre saúde não são apenas um problema familiar, mas uma questão pública."
+      }
+    ],
+    "pitfalls": [
+      "Falar de notícias falsas em geral e esquecer o recorte do tema: a relação de confiança com familiares e amigos.",
+      "Apresentar soluções vagas, como “as pessoas precisam se conscientizar”, sem dizer como agir concretamente.",
+      "Adotar tom de desprezo pelas pessoas mais velhas, o que enfraquece a argumentação e pode soar preconceituoso."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "inf-04",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "A escola deve ensinar os estudantes a avaliar criticamente as informações que circulam nas mídias?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o papel da escola na formação de leitores críticos das informações que circulam nas mídias. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma proposta na reunião",
+        "body_html": "<p>Na reunião do grêmio estudantil, uma aluna do 9º ano propôs que a escola criasse oficinas semanais sobre como checar notícias, identificar anúncios disfarçados e reconhecer imagens manipuladas. Parte da turma adorou a ideia. Outra parte reclamou: “Mais uma matéria? A gente já tem conteúdo demais”. Um colega lembrou que as aulas de Português já trabalham com notícias e reportagens. A coordenadora ouviu tudo e pediu que os alunos enviassem suas opiniões por escrito à direção.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Ler o mundo",
+        "body_html": "<p>Durante muito tempo, saber ler significava, principalmente, decifrar as letras e compreender um texto impresso. Hoje, as informações chegam misturadas: notícias ao lado de publicidade, opiniões com aparência de fato, vídeos cortados fora de contexto. Ler bem passou a exigir outras perguntas: quem produziu este conteúdo? Com que objetivo? Onde mais posso confirmar isso? Há quem defenda que essas perguntas deveriam ser ensinadas de forma sistemática, assim como se ensinam as operações matemáticas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes divergentes",
+        "body_html": "<p><b>Uma mãe:</b> “Ensinar a desconfiar de tudo pode deixar os jovens descrentes de qualquer informação. Prefiro que a escola foque no conteúdo tradicional.”</p><p><b>Um professor:</b> “Não precisa ser uma disciplina nova. Dá para trabalhar isso em História, Ciências, Português, em todas as áreas.”</p><p><b>Um estudante:</b> “Passo horas por dia no celular e nunca ninguém me ensinou a diferenciar notícia de propaganda. Aprendi tudo sozinho, errando.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Avaliar informações é uma habilidade que se aprende sozinho ou precisa ser ensinada?",
+      "Esse aprendizado deveria ocorrer em uma disciplina própria, em projetos ou dentro das matérias que já existem?",
+      "Qual é o papel da família nessa formação?",
+      "Que argumentos e propostas concretas poderiam convencer a direção da sua escola?"
+    ],
+    "argument_paths": [
+      "Sim, e de forma sistemática: a escola é o espaço que alcança todos os jovens e deve prepará-los para a cidadania, o que hoje inclui ler criticamente as mídias.",
+      "Sim, mas sem criar uma disciplina nova: o tema pode ser integrado às matérias existentes, por meio de projetos e atividades práticas.",
+      "A escola tem papel importante, mas não exclusivo: sem o envolvimento das famílias, o ensino terá alcance limitado.",
+      "Com cautela: o ensino deve estimular a verificação e o pensamento crítico, e não uma desconfiança generalizada de toda fonte de informação."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 205",
+        "how": "Define a educação como direito de todos e dever do Estado e da família, visando ao pleno desenvolvimento da pessoa e ao seu preparo para o exercício da cidadania; permite argumentar que ler criticamente as mídias faz parte desse preparo."
+      },
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 5",
+        "how": "Prevê que os estudantes aprendam a compreender, utilizar e criar tecnologias digitais de forma crítica, significativa, reflexiva e ética; mostra que a proposta já tem respaldo nas diretrizes da educação brasileira."
+      },
+      {
+        "ref": "Paulo Freire, A importância do ato de ler",
+        "how": "Traz a ideia de que a leitura do mundo precede a leitura da palavra; ajuda a defender que ler notícias, imagens e vídeos com senso crítico também é ler o mundo."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer a estrutura da carta: local e data, vocativo dirigido à direção, desenvolvimento argumentativo, despedida e assinatura.",
+      "Assinar com o próprio nome ou com as iniciais, o que pode identificar a prova; use uma assinatura genérica, como “Um(a) estudante”, ou siga a instrução de assinatura dada pela prova.",
+      "Escrever apenas uma reclamação ou um elogio à escola, sem defender com argumentos uma posição clara sobre o tema."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "inf-05",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "Até que ponto é aceitável divulgar imagens de violência e de tragédias em nome do direito à informação?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a divulgação de imagens de violência, acidentes e tragédias nos meios de comunicação e nas redes sociais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O vídeo da briga",
+        "body_html": "<p>Na saída da escola, dois alunos brigam, e em segundos dezenas de celulares estão filmando. À noite, o vídeo já passou por vários grupos, com o rosto dos dois bem visível e comentários debochados. No dia seguinte, um dos garotos não vai à aula. A mãe dele descobre o que aconteceu pelo celular de uma vizinha. Alguns alunos dizem que filmaram “para mostrar a verdade”; outros admitem que só queriam ver quantas visualizações o vídeo teria.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Informar ou expor",
+        "body_html": "<p>Mostrar uma tragédia pode ter valor público: imagens de uma enchente podem mobilizar ajuda, e o registro de um abuso pode servir de denúncia. Ao mesmo tempo, a repetição de cenas chocantes pode transformar a dor de alguém em espetáculo, expor vítimas que não autorizaram ser vistas naquele momento e aumentar a audiência à custa do sofrimento alheio. A pergunta que se impõe a jornalistas e a qualquer pessoa com um celular é: o que esta imagem acrescenta à informação?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três pontos de vista",
+        "body_html": "<p><b>Um leitor:</b> “Se aconteceu, as pessoas têm o direito de ver. Esconder imagens é tratar o público como criança.”</p><p><b>A irmã de uma vítima de acidente:</b> “Toda vez que o vídeo volta a circular, é como se a gente vivesse tudo de novo.”</p><p><b>Uma estudante de Jornalismo:</b> “Dá para informar sem mostrar tudo. Descrever o fato, desfocar rostos e respeitar a família também é fazer jornalismo.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Em que situações a divulgação de uma imagem forte cumpre uma função de denúncia ou de utilidade pública?",
+      "Quem é exposto quando um vídeo de violência circula, e essas pessoas foram consultadas?",
+      "Por que imagens chocantes atraem tanta audiência?",
+      "Os limites devem ser os mesmos para veículos de imprensa e para pessoas comuns nas redes?"
+    ],
+    "argument_paths": [
+      "A divulgação é aceitável quando há interesse público claro, como denunciar uma injustiça ou alertar para um perigo, e mesmo assim deve preservar a dignidade das vítimas.",
+      "A busca por audiência transforma o sofrimento em espetáculo; por isso, imagens de violência devem ser evitadas sempre que a informação puder ser transmitida de outra forma.",
+      "Esconder completamente a violência pode suavizar problemas que a sociedade precisa encarar; o desafio está no modo de mostrar, e não na proibição.",
+      "Cada pessoa com um celular também tem responsabilidade: filmar e compartilhar a humilhação de alguém não é informar, é participar da agressão."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, incisos X e XIV",
+        "how": "O inciso X protege a intimidade, a honra e a imagem das pessoas; o XIV assegura a todos o acesso à informação. O tema está justamente na tensão entre esses dois direitos."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), arts. 17 e 18",
+        "how": "Garantem a crianças e adolescentes o direito ao respeito, incluindo a preservação da imagem, e estabelecem o dever de todos de protegê-los de tratamento vexatório ou constrangedor; úteis para discutir vídeos de brigas e humilhações entre estudantes."
+      },
+      {
+        "ref": "Susan Sontag, Diante da dor dos outros (2003)",
+        "how": "Ensaio que reflete sobre imagens de guerra e sofrimento e sobre o que elas provocam em quem as vê, como compaixão, indiferença ou curiosidade; ajuda a discutir se mostrar a dor sempre sensibiliza o público."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas da violência na sociedade, e não da divulgação de imagens de violência pela mídia e pelas redes.",
+      "Descrever cenas violentas com detalhes, o que não acrescenta argumentos e torna o próprio texto sensacionalista.",
+      "Defender uma posição extrema (tudo pode ou nada pode) sem considerar o interesse público e a dignidade das vítimas."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "inf-06",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "Os riscos da desinformação sobre saúde para a sociedade brasileira.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os efeitos das informações falsas sobre saúde na vida das pessoas e da coletividade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Receita milagrosa",
+        "body_html": "<p>Marta tem pressão alta e toma remédio todos os dias, como orientou o médico do posto de saúde. Certa manhã, recebe um vídeo em que um homem de jaleco branco afirma que os remédios de pressão “fazem mal” e que uma mistura de ervas resolve o problema. O vídeo tem milhares de visualizações e parece profissional. Marta pensa em parar o tratamento. Afinal, se tanta gente assistiu e o homem estava de jaleco, deve ser verdade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Saúde é coletiva",
+        "body_html": "<p>Algumas decisões sobre saúde parecem individuais, mas afetam toda a comunidade. A vacinação é o exemplo mais claro: quando muitas pessoas se vacinam, a circulação de certas doenças diminui, o que protege também quem não pode receber a vacina, como bebês muito pequenos ou pessoas com determinadas condições de saúde. Por isso, uma mentira sobre vacinas não prejudica apenas quem acredita nela. Ela pode abrir caminho para o retorno de doenças que já estavam controladas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "No consultório",
+        "body_html": "<p><b>Paciente:</b> Doutora, vi na internet que esse exame é desnecessário.</p><p><b>Médica:</b> Posso perguntar onde você viu?</p><p><b>Paciente:</b> Num vídeo. O rapaz explicava tudo direitinho.</p><p><b>Médica:</b> E ele conhecia o seu histórico, os seus outros exames, a sua família?</p><p><b>Paciente:</b> Não, né. Ele nem sabe que eu existo.</p><p><b>Médica:</b> Pois é. A internet pode ajudar a tirar dúvidas, mas não substitui quem acompanha você de perto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que informações falsas sobre saúde costumam ser tão convincentes?",
+      "De que forma uma decisão individual baseada em um boato pode afetar outras pessoas?",
+      "Qual é o papel dos profissionais e dos serviços públicos de saúde no combate à desinformação?",
+      "A internet ajuda ou atrapalha quem busca informações sobre saúde?"
+    ],
+    "argument_paths": [
+      "A desinformação sobre saúde é especialmente grave porque pode levar ao abandono de tratamentos e colocar vidas em risco.",
+      "Os riscos são coletivos: boatos sobre vacinas enfraquecem a proteção de toda a comunidade, e não apenas a de quem acredita neles.",
+      "A desinformação prospera onde há dificuldade de acesso a serviços de saúde e a profissionais que expliquem as coisas com clareza.",
+      "A internet também pode ser aliada da saúde, desde que as pessoas aprendam a diferenciar fontes confiáveis de conteúdos sem base científica."
+    ],
+    "repertoire": [
+      {
+        "ref": "Revolta da Vacina (Rio de Janeiro, 1904)",
+        "how": "Revolta popular contra a vacinação obrigatória contra a varíola, promovida pelo sanitarista Oswaldo Cruz, marcada por boatos e pela falta de diálogo do governo com a população; mostra que a desconfiança em relação às vacinas é antiga e que informação clara é essencial para as políticas de saúde."
+      },
+      {
+        "ref": "Programa Nacional de Imunizações (PNI), criado em 1973",
+        "how": "Política pública brasileira que oferece vacinas gratuitamente pelo sistema público de saúde; permite mostrar o que está em jogo quando boatos afastam as pessoas da vacinação."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 196",
+        "how": "Estabelece a saúde como direito de todos e dever do Estado; reforça que combater a desinformação sobre saúde é também uma responsabilidade pública."
+      },
+      {
+        "ref": "Infodemia, termo usado pela Organização Mundial da Saúde (OMS) durante a pandemia de covid-19",
+        "how": "Designa o excesso de informações, incluindo falsas e enganosas, que dificulta encontrar orientações confiáveis em uma emergência de saúde."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas da pandemia de covid-19, reduzindo o tema a um único episódio.",
+      "Limitar-se a conselhos de hábitos saudáveis (alimentação, exercícios), fugindo do foco na desinformação.",
+      "Não explicar por que os riscos atingem a sociedade como um todo, e não só quem acredita no boato."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "inf-07",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "É possível confiar no que vemos em tempos de imagens e vídeos criados por inteligência artificial?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os desafios trazidos por imagens, vídeos e áudios produzidos ou alterados por inteligência artificial. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Ver para crer",
+        "body_html": "<p>O ditado “ver para crer” expressa uma confiança antiga: aquilo que os olhos enxergam parece mais seguro do que aquilo que apenas se ouve dizer. Por muito tempo, fotografias e vídeos foram tratados como provas. Hoje, programas de inteligência artificial são capazes de criar rostos que nunca existiram, imitar vozes e colocar pessoas reais em cenas que elas nunca viveram. Quanto mais realistas esses conteúdos se tornam, mais frágil fica a velha certeza de que uma imagem basta como prova.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Uma voz conhecida",
+        "body_html": "<p>Pedro recebe um áudio com a voz do irmão mais velho, que está viajando: ele diz que perdeu a carteira e precisa de uma transferência urgente. A voz é idêntica, até no jeito de rir. Desconfiado, Pedro responde com uma pergunta que só os dois saberiam responder. A resposta não vem. Ele então liga para o irmão, que está bem e não mandou mensagem nenhuma.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três visões",
+        "body_html": "<p><b>Visão pessimista:</b> “Se qualquer vídeo pode ser falso, logo ninguém vai acreditar em mais nada. Até as provas verdadeiras poderão ser descartadas como montagem.”</p><p><b>Visão otimista:</b> “A humanidade já conviveu com fotografias retocadas e aprendeu a desconfiar delas. Vamos criar novas formas de verificação, como já criamos antes.”</p><p><b>Visão prática:</b> “O importante não é só o que o vídeo mostra, mas quem publicou, onde e quando. A confiança passa a depender mais da fonte do que da imagem.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que muda quando uma imagem ou um vídeo deixa de servir, sozinho, como prova?",
+      "Quem pode ser mais prejudicado por conteúdos falsos tão realistas?",
+      "Que hábitos ajudam a avaliar se um conteúdo é confiável?",
+      "Existe o risco de, por medo do falso, deixarmos de acreditar também no verdadeiro?",
+      "A tecnologia que cria o problema também pode ajudar a resolvê-lo?"
+    ],
+    "argument_paths": [
+      "Não é possível confiar apenas no que vemos; a confiança precisa se deslocar da imagem para a fonte, a origem e o contexto do conteúdo.",
+      "É possível, desde que haja regras claras, como a identificação de conteúdos gerados por inteligência artificial e a responsabilização de quem os usa para enganar.",
+      "O maior perigo não é só acreditar no falso, mas passar a duvidar de tudo, inclusive de provas verdadeiras, o que enfraquece a vida democrática.",
+      "A tecnologia não é boa nem má em si; o que define seus efeitos é o uso, e a educação é a principal ferramenta para lidar com ela."
+    ],
+    "repertoire": [
+      {
+        "ref": "Alegoria da caverna, de Platão (livro VII de A República)",
+        "how": "Discute a diferença entre as aparências e a realidade; permite comparar as sombras projetadas na parede da caverna às imagens artificiais que parecem reais."
+      },
+      {
+        "ref": "Fotografias oficiais retocadas na União Soviética sob Stálin, das quais eram apagados antigos aliados caídos em desgraça",
+        "how": "Mostra que a manipulação de imagens é antiga e já foi usada para reescrever a história; o que mudou foi a facilidade e o realismo com que isso pode ser feito hoje."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso X",
+        "how": "Protege a honra e a imagem das pessoas; ajuda a discutir montagens que colocam alguém em situações que nunca viveu."
+      }
+    ],
+    "pitfalls": [
+      "Fazer um texto apenas descritivo sobre o que é inteligência artificial, sem responder se é possível confiar no que vemos.",
+      "Tratar da inteligência artificial em geral (empregos, trabalhos escolares), fugindo do recorte das imagens, vídeos e áudios falsos.",
+      "Adotar uma visão catastrófica sem argumentos, como se não houvesse nenhuma forma de lidar com o problema."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "inf-08",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "Combate à desinformação e liberdade de expressão: como conciliar esses dois valores?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação, nem sempre simples, entre o combate às informações falsas e a garantia da liberdade de expressão. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Dois pilares",
+        "body_html": "<p>A liberdade de expressão é uma conquista fundamental das sociedades democráticas: permite criticar governos, defender ideias impopulares e debater abertamente. Ao mesmo tempo, a democracia depende de que os cidadãos tenham acesso a informações confiáveis para tomar decisões. Quando mentiras se espalham em grande escala, esse segundo pilar fica ameaçado. O desafio está em proteger um sem sacrificar o outro, e em decidir quem deve traçar essa linha.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quem decide?",
+        "body_html": "<p><b>Posição 1:</b> “As plataformas devem remover rapidamente conteúdos comprovadamente falsos. Elas lucram com o alcance dessas mensagens e têm meios técnicos para agir.”</p><p><b>Posição 2:</b> “Deixar empresas decidirem o que é verdade é perigoso. Hoje removem uma mentira; amanhã podem remover uma crítica legítima.”</p><p><b>Posição 3:</b> “Só a Justiça deveria decidir o que sai do ar, com regras claras e direito de defesa.”</p><p><b>Posição 4:</b> “Mentira se combate com mais informação, não com remoção. É melhor acrescentar contexto do que apagar.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na aula de Sociologia",
+        "body_html": "<p><b>Aluno:</b> Se eu posso falar o que penso, por que não posso postar o que eu quiser?</p><p><b>Professora:</b> Você pode dar sua opinião sobre quase tudo. Mas opinião e fato são coisas diferentes. Dizer que não gosta de um político é opinião. Inventar que ele cometeu um crime é outra coisa.</p><p><b>Aluno:</b> E quem decide o que é fato?</p><p><b>Professora:</b> Essa é justamente a pergunta difícil.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre expressar uma opinião e divulgar um fato falso?",
+      "Quem deveria ter o poder de decidir que um conteúdo é falso: as plataformas, a Justiça, o governo ou os próprios usuários?",
+      "A remoção de conteúdos pode ser usada para silenciar críticas legítimas?",
+      "Existem alternativas à remoção, como avisos, checagem e acréscimo de contexto?"
+    ],
+    "argument_paths": [
+      "É possível conciliar os dois valores distinguindo opinião de fato: opiniões devem ser livres, enquanto mentiras que causam danos concretos podem ser limitadas.",
+      "A liberdade de expressão não é absoluta e já convive com limites legais, como os crimes contra a honra; combater a desinformação seria mais uma aplicação dessa lógica.",
+      "O maior risco é a censura: decisões sobre o que é verdade devem caber à Justiça, com regras transparentes, e não a empresas ou governos.",
+      "A melhor forma de conciliar é priorizar medidas que acrescentam informação, como checagem e educação midiática, deixando a remoção para casos extremos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, incisos IV e IX",
+        "how": "O inciso IV garante a livre manifestação do pensamento, vedado o anonimato; o IX declara livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença. São a base para defender a liberdade, e a proibição do anonimato lembra que quem se expressa responde pelo que diz."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), artigo 19",
+        "how": "Assegura a liberdade de opinião e expressão, incluindo o direito de procurar, receber e transmitir informações; mostra que o acesso à informação também é um direito."
+      },
+      {
+        "ref": "Marco Civil da Internet (Lei nº 12.965/2014), art. 19",
+        "how": "Estabeleceu que, em regra, as plataformas só respondiam por conteúdos de terceiros se descumprissem ordem judicial específica para removê-los. Em 2025, o Supremo Tribunal Federal considerou essa regra parcialmente inconstitucional e ampliou os casos em que as plataformas podem ser responsabilizadas mesmo sem ordem judicial; o debate ilustra a disputa sobre quem deve decidir o que sai do ar."
+      },
+      {
+        "ref": "Hannah Arendt, ensaio Verdade e política (1967)",
+        "how": "A autora argumenta que a liberdade de opinião perde o sentido quando os próprios fatos deixam de ser respeitados; ajuda a mostrar que proteger a verdade factual também protege o debate livre."
+      }
+    ],
+    "pitfalls": [
+      "Defender apenas um dos valores e ignorar o outro, sem responder à pergunta sobre como conciliá-los.",
+      "Confundir liberdade de expressão com direito de ofender ou mentir sem consequências, sem problematizar essa ideia.",
+      "Tratar o tema de forma partidária, atacando grupos políticos específicos em vez de argumentar."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "inf-09",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "De que forma a desinformação pode prejudicar a escolha consciente dos eleitores, especialmente dos mais jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre desinformação, eleições e participação dos jovens na vida democrática. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Primeiro voto",
+        "body_html": "<p>Aos 16 anos, Gabriel tirou o título de eleitor. Estava animado para votar pela primeira vez, mas, nas semanas que antecederam a eleição, seu celular virou um campo de batalha: vídeos cortados, prints de supostas conversas, montagens com candidatos dizendo frases que nunca disseram. Cada mensagem parecia mais urgente que a anterior. Na véspera da votação, Gabriel percebeu que sabia muito sobre os escândalos que circulavam e quase nada sobre as propostas de quem pedia seu voto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Voto e informação",
+        "body_html": "<p>Na democracia, o voto é a forma pela qual os cidadãos escolhem quem vai tomar decisões em seu nome. Para que essa escolha seja livre, não basta poder votar: é preciso ter acesso a informações verdadeiras sobre os candidatos, suas trajetórias e suas propostas. Quando mentiras ocupam o lugar do debate, o eleitor continua indo às urnas, mas decide com base em algo que não existe. Por isso, a desinformação eleitoral ameaça não apenas este ou aquele candidato, mas o próprio processo democrático.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na roda de conversa",
+        "body_html": "<p><b>Uma estudante:</b> “Os jovens estão mais preparados para isso do que os adultos. Crescemos na internet e sabemos reconhecer uma montagem.”</p><p><b>Um professor:</b> “Saber usar a internet não é o mesmo que saber avaliar informação. Muita gente jovem também cai em boatos, principalmente quando eles confirmam o que já pensa.”</p><p><b>Um eleitor de primeira viagem:</b> “Eu prefiro nem votar. Com tanta mentira, não sei mais em quem acreditar.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que o período eleitoral é especialmente favorável à circulação de desinformação?",
+      "Crescer usando a internet torna os jovens mais protegidos ou mais expostos aos boatos?",
+      "Desistir de votar por não saber em quem acreditar é uma boa resposta à desinformação?",
+      "Que atitudes ajudam um eleitor a conhecer de fato as propostas dos candidatos?"
+    ],
+    "argument_paths": [
+      "A desinformação desvia o foco das propostas para boatos e escândalos inventados, fazendo com que o voto deixe de ser uma escolha informada.",
+      "Os jovens, apesar de familiarizados com a tecnologia, também são vulneráveis, pois intimidade com as redes não garante capacidade de checar informações.",
+      "O maior dano pode ser o afastamento: a sensação de que tudo é mentira leva jovens a desistir de participar da política, o que enfraquece a democracia.",
+      "Instituições, escolas e plataformas têm papel na proteção do eleitor, mas cada cidadão também precisa buscar fontes confiáveis e comparar informações antes de decidir."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 14, § 1º",
+        "how": "Torna o voto obrigatório, em regra, para os maiores de 18 anos e facultativo para os jovens de 16 e 17 anos; lembra que o tema diz respeito a quem, como os estudantes que terminam o Ensino Fundamental, em breve poderá votar."
+      },
+      {
+        "ref": "Regras aprovadas pelo Tribunal Superior Eleitoral (TSE) em 2024 para as eleições municipais",
+        "how": "Proibiram o uso de deepfakes na propaganda eleitoral e passaram a exigir aviso quando houver conteúdo produzido com inteligência artificial; exemplo de como as instituições tentam reagir à desinformação eleitoral."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), artigo 21",
+        "how": "Afirma o direito de toda pessoa de tomar parte no governo de seu país, diretamente ou por meio de representantes livremente escolhidos; permite argumentar que uma escolha baseada em mentiras não é plenamente livre."
+      }
+    ],
+    "pitfalls": [
+      "Transformar a redação em defesa ou ataque a partidos e candidatos específicos, o que desvia o foco e enfraquece a argumentação.",
+      "Falar da importância do voto em geral, sem relacioná-la à desinformação.",
+      "Ignorar o recorte dos eleitores mais jovens, destacado no próprio tema."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "inf-10",
+    "axis": "inf",
+    "axis_label": "Mídia, informação e desinformação",
+    "theme": "O jornalismo profissional ainda é necessário em uma época em que qualquer pessoa pode publicar informações?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o papel do jornalismo diante da facilidade de publicar e compartilhar informações nas redes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Antes de publicar",
+        "body_html": "<p>O trabalho jornalístico envolve etapas que o público nem sempre vê: ouvir diferentes lados de uma história, conferir documentos, confirmar dados com mais de uma fonte, corrigir erros publicamente. Esse processo leva tempo e custa dinheiro. Nas redes sociais, por outro lado, uma pessoa com um celular pode relatar um acontecimento no instante em que ele ocorre, antes de qualquer repórter chegar ao local. A rapidez é uma vantagem; a falta de checagem, um risco.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Dia de temporal",
+        "body_html": "<p>Durante uma forte chuva, moradores de um bairro filmaram ruas alagadas e publicaram os vídeos nas redes. Os registros ajudaram vizinhos a evitar caminhos perigosos e chamaram a atenção da prefeitura. No meio deles, porém, circulou também um vídeo antigo, de outra cidade, apresentado como se fosse daquele dia, com a informação falsa de que uma ponte tinha desabado. Horas depois, uma reportagem local confirmou quais relatos eram verdadeiros e desmentiu o boato.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões",
+        "body_html": "<p><b>Crítica:</b> “Os grandes jornais também erram e têm seus próprios interesses. Hoje prefiro ver as coisas direto de quem estava lá, sem ninguém filtrando.”</p><p><b>Defesa:</b> “Quem estava lá viu um pedaço. O jornalismo tenta juntar os pedaços, ouvir os envolvidos e explicar o contexto.”</p><p><b>Terceira via:</b> “Os dois podem se completar: o cidadão registra o que acontece na hora, e o jornalista verifica, compara versões e aprofunda.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que diferencia uma notícia apurada por jornalistas de um relato publicado por qualquer pessoa?",
+      "Os erros e os interesses de veículos de imprensa justificam desconfiar de todo o jornalismo?",
+      "De que maneira os relatos de cidadãos comuns podem contribuir para a informação?",
+      "Quem paga pelo jornalismo de qualidade quando quase tudo parece gratuito na internet?"
+    ],
+    "argument_paths": [
+      "Sim: em meio ao excesso de informações, o jornalismo profissional é essencial por seguir métodos de apuração, checagem e correção de erros.",
+      "O jornalismo continua necessário, mas precisa reconquistar a confiança do público, com mais transparência sobre suas fontes e seus métodos.",
+      "Jornalismo profissional e relatos de cidadãos se complementam: um oferece rapidez e proximidade; o outro, verificação e contexto.",
+      "A sobrevivência do jornalismo depende de o público valorizá-lo, inclusive financeiramente; sem isso, a desinformação ocupa o espaço vazio."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 220, caput e § 2º",
+        "how": "Garante que a manifestação do pensamento, a criação, a expressão e a informação não sofrerão qualquer restrição, observado o disposto na própria Constituição, e veda a censura de natureza política, ideológica e artística; mostra o valor dado à liberdade de informação."
+      },
+      {
+        "ref": "Lei de Acesso à Informação (Lei nº 12.527/2011)",
+        "how": "Garante a qualquer cidadão o acesso a informações públicas e é muito usada por jornalistas em reportagens investigativas; ilustra a função fiscalizadora da imprensa."
+      },
+      {
+        "ref": "George Orwell, 1984 (1949)",
+        "how": "No romance, o Ministério da Verdade reescreve constantemente os registros do passado; ajuda a refletir sobre o perigo de uma sociedade sem fontes de informação independentes."
+      },
+      {
+        "ref": "Código de Ética dos Jornalistas Brasileiros, da Federação Nacional dos Jornalistas (Fenaj)",
+        "how": "Afirma o compromisso do jornalista com a verdade no relato dos fatos; mostra que a profissão tem regras próprias de conduta, que a diferenciam de um relato qualquer."
+      }
+    ],
+    "pitfalls": [
+      "Discutir notícias falsas em geral sem avaliar o papel do jornalismo profissional, que é o centro do tema.",
+      "Idealizar a imprensa como infalível ou condená-la por completo, sem nuance.",
+      "Transformar o texto em crítica a um veículo de comunicação específico, sem argumentação geral."
+    ],
+    "difficulty": 2
+  }
+]

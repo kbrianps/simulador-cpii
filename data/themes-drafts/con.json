@@ -1,0 +1,641 @@
+[
+  {
+    "id": "con-01",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "Por que tantos jovens associam aceitação e felicidade ao consumo?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre consumo, identidade e sensação de pertencimento entre os jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Comprar para ser",
+        "body_html": "<p>Quando alguém compra um tênis, um celular ou uma peça de roupa, nem sempre está pensando apenas na utilidade do produto. Muitos objetos carregam significados: indicam a que grupo a pessoa pertence, que gostos ela tem e até como deseja ser vista pelos outros. Por isso, estudiosos falam em consumo simbólico.</p><p>A publicidade conhece bem esse mecanismo. Em vez de mostrar apenas as qualidades de um produto, muitas propagandas vendem uma ideia de sucesso, beleza ou alegria. A mensagem implícita costuma ser a mesma: com aquele objeto, você será mais feliz e mais admirado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O tênis da vitrine",
+        "body_html": "<p>Davi, de 14 anos, passou três meses juntando o dinheiro que ganhava da avó para comprar o mesmo tênis que metade da turma usava. No primeiro dia com o calçado novo, ninguém comentou nada. Na semana seguinte, um colega apareceu com um modelo mais recente, e as conversas no intervalo mudaram de assunto.</p><p>À noite, olhando o tênis ao lado da cama, Davi pensou nas semanas em que deixou de lanchar na cantina. Não sabia dizer se estava arrependido. Só sabia que a sensação boa da compra tinha durado bem menos do que a espera.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que dizem os estudantes",
+        "body_html": "<p><b>Estudante A:</b> Não vejo problema em querer coisas bonitas. Escolher o que vestir também é uma forma de mostrar quem eu sou.</p><p><b>Estudante B:</b> O problema é quando a gente compra para não ficar de fora. Aí não é mais escolha, é pressão.</p><p><b>Estudante C:</b> Nas redes sociais, parece que todo mundo tem tudo. Fica difícil não se comparar, mesmo sabendo que ninguém mostra a vida real inteira.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que papel a publicidade e as redes sociais desempenham na criação de desejos de consumo?",
+      "Por que determinadas marcas e objetos funcionam como símbolos de status entre os jovens?",
+      "Qual é a diferença entre consumir por necessidade, por prazer e por pressão do grupo?",
+      "Como a desigualdade de renda pode tornar essa pressão ainda mais pesada para alguns jovens?",
+      "De que maneiras é possível construir identidade e amizades sem depender do que se compra?"
+    ],
+    "argument_paths": [
+      "A publicidade e as redes sociais vendem estilos de vida, e não apenas produtos, levando o jovem a acreditar que felicidade e aceitação podem ser compradas.",
+      "Na adolescência, a necessidade de pertencer a um grupo é muito forte; por isso, certas marcas passam a funcionar como uma espécie de \"uniforme\" que garante lugar na turma.",
+      "Consumir não é, em si, um problema: escolher roupas e objetos também é expressão pessoal; o risco está no consumo que nasce da comparação constante e da insegurança.",
+      "Em uma sociedade desigual, o consumo vira forma de mostrar que se \"venceu na vida\", o que aumenta a pressão sobre os jovens de famílias com menos recursos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Zygmunt Bauman, \"Vida para consumo\" (publicado originalmente em 2007)",
+        "how": "Apresentar a ideia do sociólogo de que, na sociedade de consumidores, as próprias pessoas passam a ser avaliadas pelo que consomem e exibem, como se também fossem mercadorias."
+      },
+      {
+        "ref": "Carlos Drummond de Andrade, poema \"Eu, etiqueta\", do livro \"Corpo\" (1984)",
+        "how": "Mostrar, com apoio da literatura, a crítica à pessoa que se transforma em anúncio ambulante das marcas que veste e acaba perdendo a própria identidade."
+      },
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 37",
+        "how": "Lembrar que a lei proíbe a publicidade enganosa e a abusiva e considera abusiva, entre outras, a que se aproveita da falta de julgamento e de experiência da criança; ou seja, a propaganda tem limites justamente porque pode influenciar comportamentos."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre consumismo em geral, sem focar nos jovens nem na relação entre consumo, aceitação e felicidade.",
+      "Responder com julgamentos moralistas (\"os jovens são fúteis\") em vez de explicar as causas do fenômeno, que é o que a pergunta pede.",
+      "Transformar a redação em um texto sobre redes sociais ou excesso de telas, deixando o consumo em segundo plano."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "con-02",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "Combate ao trabalho infantil: como garantir a crianças e adolescentes o direito de estudar e brincar?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o trabalho infantil e seus efeitos sobre a infância e a vida escolar. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que diz a lei",
+        "body_html": "<p>No Brasil, a Constituição Federal proíbe qualquer trabalho a menores de 16 anos, exceto na condição de aprendiz, permitida a partir dos 14. Mesmo entre 16 e 18 anos, o trabalho noturno, perigoso ou insalubre continua proibido.</p><p>A aprendizagem é diferente do trabalho comum: o adolescente precisa frequentar a escola, tem jornada limitada e participa de um programa de formação profissional. A ideia é que o trabalho, quando acontece, não tome o lugar dos estudos, do lazer, das brincadeiras e da convivência com a família e a comunidade, que também são direitos garantidos por lei.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Depois da aula, a feira",
+        "body_html": "<p>Toda sexta-feira, Joana, de 12 anos, sai da escola direto para a banca de verduras da família. Descarrega caixas, arruma os tomates e atende os clientes até o fim da tarde. No sábado, acorda antes do sol para ajudar a montar a barraca.</p><p>A mãe diz que a filha está aprendendo a ter responsabilidade, do mesmo jeito que ela aprendeu quando era criança. Joana gosta de ajudar, mas anda cansada. Nas últimas semanas, deixou de entregar alguns trabalhos escolares e parou de frequentar as aulas de dança de que tanto gostava.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Ajudar ou trabalhar?",
+        "body_html": "<p><b>Caio:</b> Meu avô começou a trabalhar com dez anos e sempre diz que isso fez dele um homem honesto.</p><p><b>Lívia:</b> Mas será que ele não teria tido outras oportunidades se tivesse estudado mais?</p><p><b>Caio:</b> Sei lá. Arrumar o quarto e lavar a louça também é trabalho, e todo mundo faz.</p><p><b>Lívia:</b> Ajudar em casa, de vez em quando, é uma coisa. Passar horas trabalhando, ficar exausto e faltar à escola é outra bem diferente.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que o trabalho infantil ainda é visto por algumas pessoas como algo positivo ou \"formador de caráter\"?",
+      "Qual é a relação entre pobreza, trabalho infantil e abandono escolar?",
+      "Onde fica a fronteira entre ajudar a família e ter a infância prejudicada pelo trabalho?",
+      "Que responsabilidades cabem à família, ao Estado, à escola e à sociedade no combate ao problema?"
+    ],
+    "argument_paths": [
+      "O trabalho infantil está ligado à pobreza; por isso, combatê-lo exige políticas de renda e de apoio às famílias, para que a criança não precise complementar o orçamento da casa.",
+      "A escola é peça central: quando oferece ensino de qualidade, acolhimento e acompanhamento da frequência, ajuda a identificar casos e a manter a criança estudando.",
+      "É preciso enfrentar a crença cultural de que trabalhar cedo \"forma o caráter\", mostrando que responsabilidade também se aprende estudando, brincando e convivendo.",
+      "O trabalho protegido, como a aprendizagem a partir dos 14 anos, pode ser positivo, desde que respeite a lei e não prejudique os estudos; o problema é o trabalho que rouba a infância."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 7º, inciso XXXIII",
+        "how": "Mostrar que a proibição do trabalho antes dos 16 anos (salvo como aprendiz, a partir dos 14) é uma regra constitucional, e não uma simples recomendação."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 16, inciso IV, e arts. 60 a 69 (direito à profissionalização e à proteção no trabalho)",
+        "how": "Mostrar que brincar, praticar esportes e divertir-se é um direito previsto em lei e que, quando o adolescente trabalha, a formação profissional não pode prejudicar a escola, o desenvolvimento e a saúde."
+      },
+      {
+        "ref": "Convenções nº 138 (idade mínima para o trabalho) e nº 182 (piores formas de trabalho infantil) da Organização Internacional do Trabalho (OIT)",
+        "how": "Indicar que o combate ao trabalho infantil é um compromisso internacional, assumido pelo Brasil ao ratificar essas convenções."
+      }
+    ],
+    "pitfalls": [
+      "Tratar de trabalho ou desemprego em geral, esquecendo que o tema é o trabalho de crianças e adolescentes.",
+      "Apenas condenar o trabalho infantil, sem responder à pergunta \"como garantir\" com propostas concretas.",
+      "Confundir tarefas domésticas leves e ocasionais com trabalho infantil ou, ao contrário, defender o trabalho precoce sem considerar a lei e os prejuízos aos estudos."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "con-03",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "O trabalho por aplicativos representa liberdade ou precarização para os trabalhadores brasileiros?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as transformações no mundo do trabalho trazidas pelos aplicativos de entrega e de transporte. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um patrão no celular",
+        "body_html": "<p>Nos últimos anos, os aplicativos de entrega e de transporte passaram a fazer parte da rotina das cidades brasileiras. Com poucos toques na tela, é possível pedir uma refeição ou chamar um carro. Do outro lado, há pessoas que usam a própria moto, bicicleta ou automóvel para prestar o serviço.</p><p>Em geral, esses trabalhadores não têm vínculo de emprego com as plataformas: não recebem salário fixo e ganham por corrida ou por entrega. As empresas afirmam que eles são parceiros independentes, livres para escolher quando trabalhar. Críticos respondem que quem define os preços, as regras e as punições continua sendo a empresa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Duas vozes da mesma avenida",
+        "body_html": "<p><b>Entregador 1:</b> Antes eu tinha chefe, horário fixo e salário baixo. Hoje faço meu horário e, se quero ganhar mais, trabalho mais. Para mim, isso é liberdade.</p><p><b>Entregador 2:</b> Liberdade para quem? Se eu paro, não ganho. Se chove, continuo rodando. Se sofro um acidente, quem paga o conserto da moto e os dias parados sou eu. E, se o aplicativo me bloqueia, nem sei a quem reclamar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Noite de chuva",
+        "body_html": "<p>São nove da noite e chove forte. Na sala, Pedro escolhe um lanche no celular e reclama da taxa de entrega. Vinte minutos depois, o interfone toca. Na portaria, um rapaz de capa encharcada entrega o pacote, confere o código e já está olhando a tela, à espera do próximo pedido.</p><p>Pedro pega o lanche e só depois percebe que nem sabe o nome de quem o trouxe. Também não sabe quanto daquela taxa ficou com o entregador, nem se ele já tinha jantado.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que tantas pessoas escolhem trabalhar por aplicativos?",
+      "A flexibilidade de horário compensa a falta de direitos como férias, descanso remunerado e proteção em caso de acidente?",
+      "Quem deve ser responsável pela segurança e pela renda desses trabalhadores: as empresas, o Estado ou os próprios trabalhadores?",
+      "Qual é o papel do consumidor nessa relação?"
+    ],
+    "argument_paths": [
+      "O trabalho por aplicativos amplia as oportunidades de renda, sobretudo em momentos de desemprego, e oferece uma autonomia de horários que muitos trabalhadores valorizam.",
+      "Trata-se de precarização: sem vínculo de emprego, o trabalhador assume sozinho custos e riscos, cumpre longas jornadas e fica desprotegido em caso de doença ou acidente.",
+      "A solução está no meio-termo: é possível manter a flexibilidade, mas com regras mínimas definidas em lei, como remuneração justa, seguro e acesso à previdência.",
+      "O consumidor também participa da questão: ao exigir rapidez e preço baixo sem pensar em quem faz a entrega, ajuda a naturalizar condições de trabalho ruins."
+    ],
+    "repertoire": [
+      {
+        "ref": "Consolidação das Leis do Trabalho, CLT (Decreto-Lei nº 5.452/1943)",
+        "how": "Contrastar os direitos garantidos a quem tem carteira assinada com a situação de quem trabalha sem vínculo de emprego."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 7º (direitos dos trabalhadores urbanos e rurais)",
+        "how": "Mostrar que férias, repouso semanal remunerado e seguro contra acidentes de trabalho são garantias constitucionais e discutir se deveriam alcançar também esses trabalhadores."
+      },
+      {
+        "ref": "Filme \"Você não estava aqui\" (Sorry We Missed You), de Ken Loach (2019)",
+        "how": "Usar a história do entregador que trabalha como \"autônomo\" e se vê preso a metas e cobranças para discutir a sensação de liberdade que nem sempre corresponde à realidade."
+      },
+      {
+        "ref": "Filme \"Tempos modernos\", de Charles Chaplin (1936)",
+        "how": "Comparar o controle sobre o operário na linha de montagem com o controle exercido hoje por aplicativos e algoritmos."
+      }
+    ],
+    "pitfalls": [
+      "Falar da tecnologia ou dos aplicativos em geral e esquecer que o foco é a condição dos trabalhadores.",
+      "Escolher um dos lados sem reconhecer os argumentos do outro, o que enfraquece a discussão de um tema construído como dilema.",
+      "Inventar números sobre renda ou jornada dos trabalhadores para parecer mais convincente."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "con-04",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "Meritocracia: o esforço individual é suficiente para superar a desigualdade social no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre esforço pessoal, oportunidades e desigualdade social. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Uma palavra com história",
+        "body_html": "<p>Meritocracia é a ideia de que as posições em uma sociedade devem ser ocupadas de acordo com o mérito de cada pessoa, isto é, com seu talento e seu esforço. À primeira vista, parece o sistema mais justo possível: quem se dedica mais conquista mais.</p><p>Curiosamente, a palavra se popularizou com um livro satírico publicado pelo sociólogo britânico Michael Young em 1958, que imaginava uma sociedade em que o mérito servia para justificar novas desigualdades. Desde então, o termo é usado tanto para defender o valor do esforço quanto para perguntar se todos, de fato, partem do mesmo lugar.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Dois candidatos",
+        "body_html": "<p>Ana e Lucas vão fazer a mesma prova para entrar em uma escola concorrida. Ana estuda em um quarto só dela, frequenta um curso preparatório e tem pais que podem ajudar com as dúvidas. Lucas divide o quarto com dois irmãos, cuida da irmã caçula à tarde e estuda à noite, com o material que consegue emprestado.</p><p>Os dois se dedicam muito. No dia do resultado, se Ana passar e Lucas não, alguém dirá que ela se esforçou mais. Se Lucas passar, alguém dirá que ele é a prova de que basta querer.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em debate",
+        "body_html": "<p><b>Opinião A:</b> Sem esforço, ninguém chega a lugar nenhum. Conheço gente que saiu da pobreza estudando e trabalhando muito.</p><p><b>Opinião B:</b> Histórias de superação são bonitas, mas são exceções. Usá-las como regra é culpar quem não conseguiu vencer obstáculos que nem escolheu.</p><p><b>Opinião C:</b> O esforço importa, sim, mas só é justo cobrar mérito quando as oportunidades de partida são parecidas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Todos os estudantes brasileiros disputam oportunidades nas mesmas condições?",
+      "Histórias individuais de superação provam que o sistema é justo ou são exceções?",
+      "Que fatores, além do esforço, influenciam o sucesso escolar e profissional?",
+      "Políticas como as cotas contradizem a ideia de mérito ou ajudam a torná-la mais justa?"
+    ],
+    "argument_paths": [
+      "O esforço é indispensável e deve ser valorizado, mas não é suficiente em um país desigual, onde as condições de partida são muito diferentes.",
+      "O discurso de que \"basta querer\" pode ser injusto, pois transforma problemas sociais em fracassos individuais e culpa quem não teve oportunidades.",
+      "A meritocracia só se realiza de verdade quando há igualdade de oportunidades, com escola pública de qualidade e políticas como as ações afirmativas.",
+      "Valorizar o mérito é importante para estimular a dedicação, desde que isso venha acompanhado de apoio concreto a quem começa em desvantagem."
+    ],
+    "repertoire": [
+      {
+        "ref": "Michael Young, \"The Rise of the Meritocracy\" (1958)",
+        "how": "Mostrar que o termo meritocracia ganhou força a partir de uma crítica: o autor alertava que o mérito poderia ser usado para justificar privilégios."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 3º, inciso III",
+        "how": "Lembrar que erradicar a pobreza e reduzir as desigualdades sociais e regionais é um dos objetivos fundamentais da República, o que justifica políticas que equilibrem as oportunidades."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 206, inciso I",
+        "how": "Citar o princípio da igualdade de condições para o acesso e a permanência na escola, que ainda não é realidade para todos os estudantes."
+      },
+      {
+        "ref": "Lei de Cotas (Lei nº 12.711/2012, atualizada pela Lei nº 14.723/2023)",
+        "how": "Discutir as ações afirmativas no ingresso em universidades e instituições federais de ensino como forma de aproximar os pontos de partida de estudantes com origens diferentes."
+      },
+      {
+        "ref": "Michael Sandel, \"A tirania do mérito\" (2020)",
+        "how": "Usar a crítica do filósofo norte-americano de que a crença de que cada um merece exatamente o lugar que ocupa pode tornar os bem-sucedidos arrogantes e fazer quem não chegou lá se sentir culpado pelo próprio fracasso."
+      }
+    ],
+    "pitfalls": [
+      "Contar apenas histórias de superação, pessoais ou famosas, sem analisar a desigualdade como problema coletivo.",
+      "Discutir desigualdade social de modo genérico e esquecer a pergunta central: se o esforço individual é suficiente.",
+      "Negar completamente o valor do esforço ou, ao contrário, ignorar as diferenças de oportunidade, o que torna a argumentação simplista."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "con-05",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "De que forma o consumo consciente pode fazer parte do dia a dia dos jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os hábitos de consumo e os impactos do descarte de produtos no meio ambiente e na sociedade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A vida curta das coisas",
+        "body_html": "<p>Muitos produtos parecem feitos para durar pouco. Aparelhos que deixam de receber atualizações, peças difíceis de encontrar e consertos mais caros do que um produto novo estimulam a troca constante, fenômeno ligado ao que se costuma chamar de obsolescência programada. Na moda, coleções que mudam o tempo todo incentivam o descarte de roupas ainda em bom estado.</p><p>Tudo o que é jogado fora precisa ir para algum lugar. Nem todo lixo é reciclado, e parte dele acaba em aterros, rios e mares. Por isso, consumir de forma consciente não significa apenas comprar menos, mas também pensar no que acontece antes e depois da compra.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Feira de trocas",
+        "body_html": "<p>No último sábado do mês, o grêmio de uma escola pública organizou uma feira de trocas no pátio. Cada estudante levou livros, roupas, jogos e acessórios que não usava mais. Não circulava dinheiro: quem trazia uma peça podia levar outra.</p><p>No fim do dia, sobraram poucas coisas, que foram doadas. Uma estudante saiu com o uniforme do ano seguinte; outro trocou um videogame antigo por uma pilha de quadrinhos. Na reunião seguinte, o grêmio já discutia a próxima edição e uma oficina para ensinar pequenos consertos em roupas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Consciente para quem?",
+        "body_html": "<p><b>Opinião A:</b> Consumo consciente é coisa de quem tem dinheiro. Produto durável e sustentável costuma ser mais caro.</p><p><b>Opinião B:</b> Nada mais consciente do que usar até o fim, consertar e reaproveitar, coisa que muitas famílias sempre fizeram por necessidade.</p><p><b>Opinião C:</b> A mudança individual é importante, mas as empresas também precisam fabricar produtos que durem e se responsabilizar pelo que vendem.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que hábitos simples do dia a dia de um estudante podem reduzir o desperdício?",
+      "Consumir de forma consciente é uma escolha possível para pessoas de todas as classes sociais?",
+      "Qual é a responsabilidade das empresas, que fabricam e anunciam os produtos?",
+      "Como a escola e o grêmio estudantil podem estimular práticas como troca, reaproveitamento e conserto?"
+    ],
+    "argument_paths": [
+      "O consumo consciente começa em atitudes simples, como perguntar se a compra é necessária, cuidar do que se tem, consertar, trocar e doar.",
+      "A escola pode transformar o tema em prática, com feiras de troca, bancos de uniformes e oficinas de reaproveitamento, mostrando que consumir menos não significa viver pior.",
+      "A responsabilidade não deve recair apenas sobre o jovem: empresas precisam fabricar produtos mais duráveis, e o poder público deve garantir coleta seletiva e reciclagem.",
+      "O consumo consciente não pode ser tratado como privilégio: muitas famílias de baixa renda já praticam o reaproveitamento, e essas experiências merecem ser valorizadas."
+    ],
+    "repertoire": [
+      {
+        "ref": "Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",
+        "how": "Citar a responsabilidade compartilhada pelo ciclo de vida dos produtos, que envolve fabricantes, comerciantes, consumidores e poder público."
+      },
+      {
+        "ref": "Agenda 2030 da ONU, Objetivo de Desenvolvimento Sustentável 12 (consumo e produção responsáveis)",
+        "how": "Mostrar que a mudança nos padrões de consumo é uma meta internacional, e não apenas uma escolha pessoal."
+      },
+      {
+        "ref": "Documentário \"A história das coisas\" (The Story of Stuff), de Annie Leonard (2007)",
+        "how": "Usar a ideia de que todo produto percorre um caminho, da extração ao descarte, para mostrar custos que não aparecem no preço."
+      },
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 6º, inciso II",
+        "how": "Lembrar que a educação para o consumo adequado é um direito básico do consumidor, o que reforça o papel da escola."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre reciclagem ou meio ambiente em geral, sem relacionar o problema ao consumo dos jovens.",
+      "Listar dicas soltas, como em um manual, sem argumentar por que elas funcionam e quem deve promovê-las.",
+      "Atribuir toda a responsabilidade a um único agente (só o consumidor ou só as empresas), sem discutir como a mudança pode chegar ao cotidiano."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "con-06",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "Roupa barata, custo alto: o consumidor é responsável pelas condições de trabalho de quem produz o que ele compra?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre o preço dos produtos que consumimos e as condições de trabalho de quem os fabrica. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que a etiqueta não conta",
+        "body_html": "<p>Uma camiseta passa por muitas mãos antes de chegar à loja: há quem plante o algodão, quem fie, quem tinja o tecido, quem corte e quem costure. Em várias partes do mundo, inclusive no Brasil, já foram encontradas oficinas em que costureiros trabalhavam em jornadas exaustivas, recebendo muito pouco e, às vezes, morando no próprio local de trabalho.</p><p>A etiqueta informa o tamanho, o tecido e o país de fabricação. Mas não diz quem fez a peça, quanto essa pessoa ganhou nem em que condições trabalhou.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na fila do provador",
+        "body_html": "<p><b>Bia:</b> Olha essa jaqueta! Está quase de graça.</p><p><b>Rafa:</b> Justamente por isso fico pensando. Como uma jaqueta pode custar menos que um lanche?</p><p><b>Bia:</b> Ah, Rafa, não é culpa minha se a loja vende barato. Eu compro o que cabe no meu bolso.</p><p><b>Rafa:</b> Eu sei. Também não tenho dinheiro para comprar roupa cara. Mas será que não dá para, pelo menos, saber de onde vem o que a gente compra?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Onde está a responsabilidade?",
+        "body_html": "<p><b>Opinião A:</b> Quem explora é a empresa. Cabe ao governo fiscalizar e punir, e não ao consumidor adivinhar o que acontece nas fábricas.</p><p><b>Opinião B:</b> Cada compra é uma escolha. Se os consumidores deixarem de comprar de quem explora, as empresas serão obrigadas a mudar.</p><p><b>Opinião C:</b> Nem todos podem escolher. Para muitas famílias, o preço decide. Por isso, a informação precisa ser clara, e as regras, iguais para todos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que alguns produtos conseguem ser vendidos a preços tão baixos?",
+      "Um consumidor que não sabe como o produto foi fabricado pode ser considerado responsável?",
+      "Qual é o papel das empresas, do governo e da fiscalização na garantia de condições dignas de trabalho?",
+      "É justo cobrar escolhas éticas de quem tem pouco dinheiro para comprar?"
+    ],
+    "argument_paths": [
+      "O consumidor tem parte da responsabilidade: informar-se, preferir marcas transparentes e cobrar mudanças pode pressionar as empresas a respeitar os trabalhadores.",
+      "A principal responsabilidade é das empresas e do Estado, pois o consumidor raramente tem acesso às informações sobre a produção; exigir dele a solução é transferir um dever que não é seu.",
+      "A responsabilidade é compartilhada, mas desigual: quem tem mais recursos e informação pode fazer escolhas mais exigentes, enquanto o poder público deve garantir fiscalização e transparência para todos.",
+      "O problema está no modelo de consumo acelerado, que exige coleções novas a todo momento e empurra os preços para baixo; comprar menos e com mais cuidado é parte da resposta."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código Penal (Decreto-Lei nº 2.848/1940), art. 149 (redução a condição análoga à de escravo)",
+        "how": "Mostrar que submeter alguém a jornadas exaustivas ou a condições degradantes de trabalho é crime no Brasil, e não apenas um problema moral."
+      },
+      {
+        "ref": "Desabamento do edifício Rana Plaza, em Bangladesh (2013)",
+        "how": "Citar a tragédia em um prédio que abrigava confecções de roupas, na qual mais de mil trabalhadores morreram, como exemplo dos custos humanos escondidos na moda barata."
+      },
+      {
+        "ref": "Lei Áurea (Lei nº 3.353/1888)",
+        "how": "Lembrar que a escravidão foi abolida legalmente em 1888, mas que formas de exploração semelhantes ainda persistem, o que torna o tema atual."
+      },
+      {
+        "ref": "Movimento Fashion Revolution, criado em 2013, após o desabamento do Rana Plaza, com a campanha \"Quem fez minhas roupas?\"",
+        "how": "Mostrar que o consumidor pode agir cobrando transparência das marcas, sem que isso substitua o dever das empresas e do Estado."
+      }
+    ],
+    "pitfalls": [
+      "Discutir apenas moda, estilo ou consumismo, sem abordar as condições de trabalho de quem produz.",
+      "Responder \"sim\" ou \"não\" de forma absoluta, sem considerar que as possibilidades de escolha variam conforme a renda e a informação disponível.",
+      "Citar números ou nomes de marcas envolvidas em casos de exploração sem ter certeza, o que compromete a credibilidade do texto."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "con-07",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "A popularização das apostas on-line e seus efeitos sobre os jovens.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o crescimento das apostas pela internet e a promessa de dinheiro fácil. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um jogo que cabe no bolso",
+        "body_html": "<p>As apostas on-line funcionam por meio de sites e aplicativos em que é possível apostar dinheiro em resultados de partidas esportivas ou em jogos de cassino virtuais. Com o celular sempre à mão, a aposta pode acontecer a qualquer hora: no intervalo da aula, no ônibus ou na cama, antes de dormir.</p><p>No Brasil, a atividade foi regulamentada por lei, que proíbe a participação de menores de 18 anos. Mesmo assim, a publicidade dessas empresas aparece em camisas de clubes, transmissões esportivas e redes sociais, muitas vezes associada a festa, emoção e vitória.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Só mais uma",
+        "body_html": "<p>Gustavo tem 19 anos e começou a apostar por brincadeira, com o dinheiro de um lanche. Ganhou na primeira vez e contou aos amigos, orgulhoso. Nas semanas seguintes, perdeu mais do que tinha ganhado e passou a apostar mais alto para recuperar o prejuízo.</p><p>O primo dele, Téo, de 15 anos, acompanha tudo de perto. Acha as vitórias de Gustavo empolgantes e já pensou em pedir que ele faça uma aposta em seu nome. Não sabe que, nos últimos dias, o primo pegou dinheiro emprestado com a mãe sem dizer para quê.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Pontos de vista",
+        "body_html": "<p><b>Opinião A:</b> Cada adulto sabe o que faz com o próprio dinheiro. Apostar pode ser uma diversão como outra qualquer.</p><p><b>Opinião B:</b> O problema é que a propaganda vende a aposta como jeito de ganhar dinheiro, e não como jogo de azar. Isso atrai justamente quem mais precisa de renda.</p><p><b>Opinião C:</b> Os adolescentes veem os mais velhos apostando e acham normal. A proteção precisa começar antes dos 18 anos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que a promessa de dinheiro rápido é tão atraente para os jovens?",
+      "Qual é a influência da publicidade e dos patrocínios esportivos na popularização das apostas?",
+      "Que consequências as apostas podem trazer para a saúde emocional, os estudos e as relações familiares?",
+      "Como proteger os adolescentes, se a lei já proíbe que eles apostem?",
+      "Até que ponto a decisão de apostar é apenas uma escolha individual?"
+    ],
+    "argument_paths": [
+      "As apostas se popularizaram porque vendem a ilusão de enriquecimento rápido, especialmente atraente em um contexto de desigualdade e de poucas perspectivas para muitos jovens.",
+      "A publicidade tem grande peso no problema: ao associar apostas ao futebol, à emoção e ao sucesso, torna normal um comportamento de risco; por isso, deve ter limites mais rígidos.",
+      "A educação financeira e o diálogo na família e na escola são a melhor proteção, pois ajudam o jovem a entender probabilidades, riscos e o valor do dinheiro.",
+      "Para adultos, apostar pode ser uma escolha pessoal, mas o Estado deve garantir fiscalização, bloqueio efetivo de menores e apoio a quem desenvolve dependência."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 14.790/2023 (regulamentação das apostas de quota fixa)",
+        "how": "Mostrar que as apostas on-line são reguladas no Brasil e que a lei proíbe a participação de menores de 18 anos, o que abre a discussão sobre a eficácia dessa proteção."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), arts. 80 e 81, inciso VI",
+        "how": "Lembrar que o ECA proíbe a entrada e a permanência de crianças e adolescentes em casas de jogos que realizem apostas e a venda de bilhetes lotéricos e equivalentes a eles, o que mostra que jogos de azar não são considerados adequados a essa faixa etária."
+      },
+      {
+        "ref": "Classificação Internacional de Doenças (CID-11), da Organização Mundial da Saúde, que inclui o transtorno do jogo de apostas entre os transtornos ligados a comportamentos aditivos",
+        "how": "Mostrar que o jogo compulsivo é reconhecido como problema de saúde, e não apenas como falta de força de vontade."
+      },
+      {
+        "ref": "Fiódor Dostoiévski, \"O jogador\" (1866)",
+        "how": "Recorrer ao romance, que retrata a obsessão pelo jogo, para ilustrar como a esperança de recuperar perdas pode levar a perdas ainda maiores."
+      }
+    ],
+    "pitfalls": [
+      "Falar de jogos eletrônicos ou de uso excessivo do celular em geral, confundindo games com apostas em dinheiro.",
+      "Apenas condenar as apostas, sem analisar seus efeitos sobre os jovens nem propor caminhos, o que deixa o texto superficial.",
+      "Citar valores, porcentagens ou casos de pessoas famosas sem ter certeza de que são verdadeiros."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "con-08",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "A escola deve ensinar os estudantes a lidar com o dinheiro?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a educação financeira e o papel da escola na preparação dos jovens para lidar com o dinheiro. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Mais do que fazer contas",
+        "body_html": "<p>Educação financeira não é apenas aprender a calcular juros ou porcentagens. Ela envolve entender a diferença entre desejo e necessidade, planejar gastos, poupar para um objetivo, comparar preços e perceber os riscos de comprar a prazo sem saber quanto se vai pagar no final.</p><p>A Base Nacional Comum Curricular, documento que orienta o que as escolas brasileiras devem ensinar, inclui a educação financeira entre os temas contemporâneos que as escolas devem incorporar ao currículo, de preferência de forma transversal, isto é, em diferentes disciplinas. Mesmo assim, a forma como o assunto chega às salas de aula varia bastante de uma escola para outra.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A primeira mesada",
+        "body_html": "<p>Quando fez 14 anos, Marina passou a receber uma pequena mesada. No primeiro mês, gastou tudo em três dias, entre lanches, figurinhas e créditos para um jogo no celular. No resto do mês, teve de pedir dinheiro emprestado à irmã.</p><p>No mês seguinte, resolveu anotar cada gasto num caderno. Descobriu que boa parte do dinheiro ia embora em compras pequenas, que ela nem lembrava de ter feito. \"Ninguém nunca me ensinou isso\", comentou com a mãe, que respondeu, rindo: \"Nem a mim\".</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Tarefa de quem?",
+        "body_html": "<p><b>Mãe de um aluno:</b> Dinheiro é assunto de família. Cada casa tem seus valores e sua realidade.</p><p><b>Professor:</b> Muitas famílias também não aprenderam a planejar os gastos. A escola pode ajudar a quebrar esse ciclo.</p><p><b>Estudante:</b> Eu gostaria de aprender coisas práticas, como montar um orçamento e entender os juros do cartão, e não só fórmulas.</p><p><b>Outra estudante:</b> Tenho medo de que vire só uma aula sobre como ficar rico, e não sobre como usar bem o dinheiro.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que conhecimentos sobre dinheiro um jovem de 15 anos deveria ter?",
+      "A educação financeira é responsabilidade da família, da escola ou das duas?",
+      "Como esse aprendizado pode ajudar a evitar endividamento, compras por impulso e golpes?",
+      "De que forma o tema poderia ser trabalhado na sua escola de maneira prática e interessante?",
+      "Que argumentos podem convencer a direção da escola, destinatária da carta?"
+    ],
+    "argument_paths": [
+      "Sim: a escola deve ensinar educação financeira, porque muitas famílias não tiveram acesso a esse conhecimento e a escola é o espaço capaz de alcançar todos os estudantes de forma igual.",
+      "Sim, mas de forma crítica: além de ensinar a poupar e a planejar, a escola deve discutir consumismo, publicidade e desigualdade, em vez de repetir a promessa de \"ficar rico\".",
+      "A responsabilidade deve ser compartilhada: a escola oferece o conhecimento, e a família contribui com o exemplo e com o diálogo sobre a realidade da casa.",
+      "A escola pode integrar o tema às disciplinas que já existem, como Matemática, com projetos práticos (orçamento de uma festa da turma, comparação de preços), sem necessariamente criar uma matéria nova."
+    ],
+    "repertoire": [
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), que inclui a educação financeira entre os temas contemporâneos transversais",
+        "how": "Mostrar à direção que o tema já está previsto nas orientações curriculares nacionais, o que fortalece o pedido."
+      },
+      {
+        "ref": "Lei nº 14.181/2021 (Lei do Superendividamento)",
+        "how": "Indicar que o endividamento excessivo das famílias é um problema reconhecido a ponto de motivar uma lei específica, e que a prevenção pode começar na escola."
+      },
+      {
+        "ref": "Código de Defesa do Consumidor (Lei nº 8.078/1990), art. 6º, inciso II",
+        "how": "Lembrar que a educação para o consumo adequado é um direito básico do consumidor."
+      },
+      {
+        "ref": "Fábula \"A cigarra e a formiga\" (atribuída a Esopo e recontada por La Fontaine e, no Brasil, por Monteiro Lobato)",
+        "how": "Usar a fábula para introduzir a discussão sobre planejamento, sem deixar de questionar se poupar depende só de disciplina ou também de renda; a versão de Lobato em que a formiga acolhe a cigarra pode abrir espaço para falar de solidariedade."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer as marcas do gênero carta (local e data, vocativo dirigido à direção, despedida e assinatura genérica, como \"Um estudante\" ou \"Uma estudante\", sem o seu nome verdadeiro, para não identificar a prova) ou, ao contrário, escrever uma carta pessoal sem argumentação.",
+      "Escrever sobre consumismo ou dinheiro em geral, sem discutir se a escola deve ensinar o tema.",
+      "Fazer pedidos sem justificativa, esquecendo que a carta precisa convencer o destinatário com argumentos."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "con-09",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "É possível construir uma divisão mais justa das tarefas domésticas nas famílias brasileiras?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a divisão do trabalho doméstico dentro das famílias e as desigualdades que ela pode revelar. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O trabalho que não aparece",
+        "body_html": "<p>Lavar, passar, cozinhar, fazer compras, cuidar de crianças e de idosos: tudo isso é trabalho, mesmo quando ninguém recebe salário por ele. Por não ser pago, o trabalho doméstico muitas vezes fica invisível e só é percebido quando deixa de ser feito.</p><p>Historicamente, essas tarefas foram atribuídas sobretudo às mulheres. Em muitas casas, elas ainda acumulam o emprego fora de casa com a maior parte das obrigações domésticas, situação que costuma ser chamada de dupla jornada. Essa divisão desigual afeta o tempo disponível para descansar, estudar e cuidar da própria vida.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Depois do almoço de domingo",
+        "body_html": "<p>Terminado o almoço de domingo, os homens da família vão para a sala assistir ao futebol. Na cozinha, a avó, a mãe e Letícia, de 14 anos, lavam a louça e guardam as sobras. O irmão de Letícia, um ano mais velho, aparece na porta para perguntar se falta muito para a sobremesa.</p><p>Letícia se irrita e pergunta à mãe por que o irmão nunca ajuda. A mãe suspira: \"Sempre foi assim, filha\". A avó, secando os pratos, comenta baixinho que, no tempo dela, ninguém nem fazia essa pergunta.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p><b>Opinião A:</b> Cada família se organiza como quer. O governo e a escola não têm nada a ver com isso.</p><p><b>Opinião B:</b> Quando as meninas fazem quase tudo em casa, sobram menos tempo e energia para estudar. Aí deixa de ser assunto só da família.</p><p><b>Opinião C:</b> A mudança começa cedo: se meninos e meninas aprendem as mesmas tarefas desde pequenos, a divisão fica natural.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que o trabalho doméstico costuma ser pouco valorizado?",
+      "De que maneira a divisão desigual das tarefas afeta os estudos, o lazer e as oportunidades de meninas e mulheres?",
+      "A organização da casa é um assunto apenas privado ou também tem uma dimensão social?",
+      "Que papel a educação, na família e na escola, pode ter na mudança desse padrão?"
+    ],
+    "argument_paths": [
+      "Sim, é possível, desde que a mudança comece na criação dos filhos: meninos e meninas devem aprender, desde cedo, que cuidar da casa é responsabilidade de todos.",
+      "A divisão desigual das tarefas não é apenas um hábito familiar, mas reflexo de uma desigualdade de gênero mais ampla, que precisa ser discutida também na escola e na sociedade.",
+      "Valorizar o trabalho doméstico, pago ou não, é passo fundamental: enquanto ele for visto como \"ajuda\" ou tarefa menor, dificilmente será dividido com justiça.",
+      "A mudança é possível, mas lenta: depende do diálogo dentro de casa e também de condições concretas, como creches e jornadas de trabalho que permitam aos adultos cuidar da família."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, inciso I",
+        "how": "Lembrar que homens e mulheres são iguais em direitos e obrigações, princípio que também pode ser aplicado à vida doméstica."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 226, § 5º",
+        "how": "Mostrar que a Constituição determina que os direitos e deveres referentes à sociedade conjugal sejam exercidos igualmente pelo homem e pela mulher."
+      },
+      {
+        "ref": "Simone de Beauvoir, \"O segundo sexo\" (1949)",
+        "how": "Usar a reflexão da filósofa sobre como os papéis atribuídos às mulheres são construídos socialmente, e não determinados pela natureza."
+      },
+      {
+        "ref": "Filme \"Que horas ela volta?\", de Anna Muylaert (2015)",
+        "how": "Discutir, a partir da história de uma empregada doméstica, como o trabalho de cuidar da casa e da família é pouco reconhecido e marcado por desigualdades de classe."
+      }
+    ],
+    "pitfalls": [
+      "Tratar o tema como simples desabafo sobre a própria casa, sem ampliar a discussão para a sociedade.",
+      "Desviar para o mercado de trabalho feminino em geral e esquecer o foco nas tarefas domésticas.",
+      "Responder apenas \"sim\" ou \"não\" sem explicar como essa divisão mais justa poderia ser construída."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "con-10",
+    "axis": "con",
+    "axis_label": "Consumo, trabalho e desigualdade",
+    "theme": "Como reduzir a desigualdade no acesso dos jovens ao lazer e à cultura nas cidades brasileiras?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as diferenças de acesso ao lazer, à cultura e aos espaços da cidade entre jovens de realidades sociais distintas. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A cidade não é igual para todos",
+        "body_html": "<p>Cinemas, teatros, museus, bibliotecas, parques e praias fazem parte da vida cultural de uma cidade. No entanto, muitos desses espaços se concentram nas regiões centrais ou mais ricas. Para quem mora longe, chegar até eles pode exigir horas de transporte público e gastos com passagem que pesam no orçamento da família.</p><p>Por outro lado, as periferias também produzem cultura: batalhas de rima, bailes, grupos de dança, saraus e times de várzea mostram que a criatividade existe em todos os lugares. O problema é que essas manifestações nem sempre recebem apoio ou reconhecimento.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Sábado de sol",
+        "body_html": "<p>Kauã e Bernardo têm a mesma idade e moram na mesma cidade. No sábado, Bernardo vai de bicicleta até o parque perto de casa e, à noite, assiste a um filme no shopping do bairro. Kauã passa a manhã decidindo se vale a pena gastar o dinheiro das passagens para ir à praia com os amigos, já que são dois ônibus para ir e dois para voltar.</p><p>No fim, decide ficar. À tarde, joga bola num campinho de terra e, à noite, vai a uma roda de rima na praça, onde reencontra a turma.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que fazer?",
+        "body_html": "<p><b>Opinião A:</b> O governo deveria garantir transporte gratuito ou mais barato para os jovens nos fins de semana. Sem isso, a cidade fica fechada para muita gente.</p><p><b>Opinião B:</b> Mais importante do que levar os jovens até o centro é investir em espaços de cultura e lazer perto de onde eles moram.</p><p><b>Opinião C:</b> Nem sempre o obstáculo é só o dinheiro. Há jovens que se sentem olhados com desconfiança em certos lugares, como se ali não fosse o lugar deles.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que obstáculos, além do dinheiro, afastam alguns jovens de espaços de lazer e cultura?",
+      "Por que é importante que todos os jovens tenham acesso a esses espaços?",
+      "As manifestações culturais das periferias recebem o mesmo reconhecimento que as dos bairros centrais?",
+      "Que ações do poder público, das escolas e da sociedade poderiam diminuir essas diferenças?"
+    ],
+    "argument_paths": [
+      "O acesso desigual ao lazer e à cultura é consequência da desigualdade urbana: a concentração de espaços culturais e o custo do transporte limitam o direito dos jovens à cidade.",
+      "É preciso descentralizar a cultura, investindo em bibliotecas, centros culturais, quadras e praças nas periferias, em vez de apenas facilitar o deslocamento até o centro.",
+      "O preconceito social e racial também afasta jovens de certos espaços; por isso, além de investimento, é necessário combater a discriminação.",
+      "A escola pode reduzir essa distância com visitas culturais, parcerias com instituições e valorização das produções culturais dos próprios estudantes."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 6º",
+        "how": "Lembrar que o lazer é um direito social, ao lado da educação, da saúde e do transporte."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 215",
+        "how": "Mostrar que o Estado tem o dever de garantir a todos o pleno exercício dos direitos culturais e o acesso às fontes da cultura nacional."
+      },
+      {
+        "ref": "Estatuto da Juventude (Lei nº 12.852/2013)",
+        "how": "Citar a lei que reconhece direitos específicos dos jovens de 15 a 29 anos, entre eles os direitos à cultura, ao desporto e ao lazer e ao território e à mobilidade, e que garante meia-entrada em eventos culturais e esportivos a estudantes e a jovens de baixa renda."
+      },
+      {
+        "ref": "Milton Santos, \"O espaço do cidadão\" (1987)",
+        "how": "Apresentar a ideia do geógrafo de que o lugar onde a pessoa mora influencia seu acesso a bens e serviços e, portanto, o exercício da cidadania, o que ajuda a explicar por que jovens da mesma cidade vivem realidades tão diferentes."
+      }
+    ],
+    "pitfalls": [
+      "Restringir o texto a museus ou a um único tipo de espaço, sem relacionar o problema à desigualdade social.",
+      "Apenas descrever a desigualdade, sem explicar como ela afeta concretamente o acesso dos jovens ao lazer e à cultura nem responder à pergunta \"como reduzir\".",
+      "Tratar a periferia apenas como lugar de carência, ignorando a produção cultural que existe nela."
+    ],
+    "difficulty": 2
+  }
+]

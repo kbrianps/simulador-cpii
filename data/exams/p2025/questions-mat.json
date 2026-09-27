@@ -1,0 +1,270 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante o ano letivo, um estudante tirou várias fotos do quadro em todas as aulas de Matemática. No final do ano, ele acumulou muitas imagens e decidiu ajudar um colega que ficou de recuperação, enviando todas por e-mail.</p><p>Por uma limitação de tamanho em cada e-mail, ele precisaria fazer vários envios. Como queria enviar a mesma quantidade de fotos em cada e-mail, fez alguns testes:</p><ul><li>Tentou separar as fotos em grupos de 20. Sobrou 1 foto.</li><li>Depois, tentou com grupos de 14. Também sobrou 1 foto.</li><li>Por fim, tentou com grupos de 12, e novamente sobrou 1 foto.</li></ul><p>Sabendo que ele possui a menor quantidade possível de fotos que satisfaz todas essas condições, se ele tentar agora enviar as fotos em e-mails com 25 fotos cada, vão sobrar</p>",
+    "options": {
+      "A": "10 fotos.",
+      "B": "11 fotos.",
+      "C": "20 fotos.",
+      "D": "21 fotos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Em todas as tentativas sobrou 1 foto. Então, se tirarmos essa foto, o número que resta é divisível ao mesmo tempo por 20, por 14 e por 12. Ou seja, o número de fotos menos 1 é um múltiplo comum de 20, 14 e 12.</p><p>Como ele tem a <b>menor</b> quantidade possível, usamos o menor múltiplo comum positivo, que é o MMC. (Ter só 1 foto não serve, porque aí não daria para formar nenhum grupo.)</p><p>\\(20 = 2^2 \\cdot 5\\), \\(\\;14 = 2 \\cdot 7\\), \\(\\;12 = 2^2 \\cdot 3\\)</p><p>\\[\\text{MMC}(20, 14, 12) = 2^2 \\cdot 3 \\cdot 5 \\cdot 7 = 420\\]</p><p>Logo, ele tem \\(420 + 1 = 421\\) fotos.</p><p>Agora dividimos 421 por 25: \\(25 \\cdot 16 = 400\\) e \\(421 - 400 = 21\\). Sobram <b>21 fotos</b>.</p><p>Conferindo as condições: \\(421 = 20 \\cdot 21 + 1 = 14 \\cdot 30 + 1 = 12 \\cdot 35 + 1\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É o resto de 3.360 por 25: usa o produto \\(20 \\cdot 14 \\cdot 12 = 3.360\\) no lugar do MMC e ainda esquece a foto que sobra. O produto é um múltiplo comum, mas não o menor.",
+      "B": "É o resto de 3.361 por 25: usa o produto \\(20 \\cdot 14 \\cdot 12 = 3.360\\) em vez do MMC. O produto é múltiplo comum, mas o enunciado pede a menor quantidade, que vem do MMC (420).",
+      "C": "É o resto de 420 por 25: o MMC está certo, mas faltou somar a foto que sempre sobra. São 421 fotos, não 420."
+    },
+    "tip": "Se a divisão por vários números deixa sempre o mesmo resto, o total é um múltiplo comum deles mais esse resto; para o menor total, use o MMC."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Por causa de um problema interno no tablet de Gael, surgiram listras verticais na tela, dificultando a leitura.</p><p>Enquanto assistia a uma videoaula sobre equações do 2º grau, a imagem congelou e as listras esconderam o valor do coeficiente \\(b\\) da equação e da primeira raiz, conforme ilustrado na imagem ao lado.</p><p><img src=\"img/p2025/mat-q12.png\" alt=\"Desenho de um aparelho com tela branca atravessada por uma listra vertical cinza, um pouco à esquerda do centro. Na tela há duas linhas. Em cima: x², depois a listra cobrindo o coeficiente de x, e em seguida x − 10 = 0. Embaixo: x₁ =, com o valor coberto pela listra, e à direita x₂ = -5.\"></p><p>Assim, Gael sabe que <b>uma das soluções da equação é</b> \\(x_2 = -5\\) e que a equação resolvida era \\(x^2 + bx - 10 = 0\\).</p><p>Sua tia, professora de matemática, ao ver Gael intrigado com o tablet na mão disse: <i>Que interessante! É possível determinar os valores de \\(b\\) e \\(x_1\\) apenas com as informações visíveis na tela.</i></p><p>O resultado da soma \\(b + x_1\\) é</p>",
+    "options": {
+      "A": "\\(-5\\)",
+      "B": "\\(-1\\)",
+      "C": "\\(5\\)",
+      "D": "\\(9\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.eq2"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Sabemos que \\(x_2 = -5\\) é raiz de \\(x^2 + bx - 10 = 0\\). Então, trocando \\(x\\) por \\(-5\\), a igualdade tem de ser verdadeira:</p><p>\\[(-5)^2 + b \\cdot (-5) - 10 = 0\\]</p><p>\\[25 - 5b - 10 = 0 \\;\\Rightarrow\\; 15 = 5b \\;\\Rightarrow\\; b = 3\\]</p><p>A equação é \\(x^2 + 3x - 10 = 0\\). Para achar \\(x_1\\), use o produto das raízes: quando o coeficiente de \\(x^2\\) é 1, o produto das raízes é o termo independente (aqui, \\(-10\\)):</p><p>\\[x_1 \\cdot (-5) = -10 \\;\\Rightarrow\\; x_1 = 2\\]</p><p>(Outro caminho: a soma das raízes é \\(-b\\), então \\(x_1 + (-5) = -3\\) e \\(x_1 = 2\\). Ou fatorar: \\(x^2 + 3x - 10 = (x - 2)(x + 5)\\).)</p><p>Conferindo: \\(2^2 + 3 \\cdot 2 - 10 = 4 + 6 - 10 = 0\\).</p><p>Portanto, \\(b + x_1 = 3 + 2 = 5\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Sai de \\(b = -7\\) e \\(x_1 = 2\\). O erro típico é fazer \\((-5)^2 = -25\\): aí \\(-25 - 5b - 10 = 0\\) dá \\(b = -7\\). O quadrado de um número negativo é positivo: \\((-5)^2 = 25\\).",
+      "B": "Sai de \\(b = -3\\) e \\(x_1 = 2\\): erro de sinal, como escrever \\(b \\cdot (-5) = +5b\\) ou usar \\(b = x_1 + x_2\\). O certo é \\(x_1 + x_2 = -b\\), logo \\(b = 3\\).",
+      "D": "Sai de \\(b = 7\\) e \\(x_1 = 2\\), resultado de dois erros de sinal na substituição \\((-25 + 5b - 10 = 0)\\). Teste: com \\(b = 7\\), \\(-5\\) não seria raiz, pois \\(25 - 35 - 10 = -20 \\neq 0\\)."
+    },
+    "tip": "Conhecendo uma raiz, substitua-a na equação para achar o coeficiente que falta; depois, a soma ou o produto das raízes dá a outra."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No dia da <b>Sexta-feira de Ofertas</b>, um site anunciou um celular com 20% de desconto sobre o preço original. Ao colocar o item no carrinho, foi aplicado mais um novo desconto de 10%, sobre o valor anunciado.</p><p>Após os dois descontos, o valor final do celular ficou em R$ 1.395,00.</p><p>O preço original do celular, antes de qualquer desconto, era</p>",
+    "options": {
+      "A": "R$ 1.701,90",
+      "B": "R$ 1.813,50",
+      "C": "R$ 1.937,50",
+      "D": "R$ 1.992,86"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada desconto multiplica o preço por um fator:</p><ul><li>desconto de 20%: sobram 80% do preço, ou seja, multiplica por \\(0{,}8\\);</li><li>desconto de 10% sobre o valor anunciado: sobram 90%, ou seja, multiplica por \\(0{,}9\\).</li></ul><p>Para voltar ao preço original, desfazemos os descontos de trás para a frente, <b>dividindo</b> pelos fatores:</p><p>Valor anunciado (antes do desconto de 10%): \\(\\dfrac{1.395}{0{,}9} = \\dfrac{13.950}{9} = 1.550\\), isto é, R$ 1.550,00.</p><p>Preço original (antes do desconto de 20%): \\(\\dfrac{1.550}{0{,}8} = \\dfrac{15.500}{8} = 1.937{,}5\\), isto é, R$ 1.937,50.</p><p>Conferindo: \\(1.937{,}50 \\cdot 0{,}8 = 1.550\\) e \\(1.550 \\cdot 0{,}9 = 1.395\\). Resposta: <b>C</b>.</p><p>Repare que os dois descontos juntos multiplicam o preço por \\(0{,}8 \\cdot 0{,}9 = 0{,}72\\): o desconto total é de 28%, e não de 30%.</p>",
+    "distractors": {
+      "A": "É \\(1.395 \\cdot 1{,}22\\): somar uma porcentagem ao preço final não desfaz um desconto. Teste: \\(1.701{,}90 \\cdot 0{,}8 \\cdot 0{,}9 \\approx 1.225{,}37\\), bem menos que R$ 1.395,00.",
+      "B": "É \\(1.395 \\cdot 1{,}3\\): somou os descontos (20% + 10% = 30%) e acrescentou 30% ao preço final. Mas cada desconto foi calculado sobre um valor maior que o preço final, então somar porcentagens ao preço final não os desfaz. Teste: aplicando os dois descontos a R$ 1.813,50, chega-se a R$ 1.305,72, e não a R$ 1.395,00.",
+      "D": "É \\(1.395 \\div 0{,}7\\): tratou os dois descontos como um só de 30%. O segundo desconto incide sobre o valor já reduzido, então o desconto total é de 28% (fator 0,72), e não de 30%."
+    },
+    "tip": "Descontos sucessivos se multiplicam \\((0{,}8 \\cdot 0{,}9 = 0{,}72)\\); para achar o preço original, divida pelos fatores, nunca some porcentagens ao preço final."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante o intervalo na escola, um estudante percebeu que havia perdido o celular.</p><p>Ao chegar em casa, usou o celular da mãe para acessar um aplicativo de rastreamento e localizar o aparelho.</p><p>O mapa exibido pelo aplicativo foi representado em um sistema de coordenadas cartesianas e mostrou a linha poligonal BCDA que representa o caminho que o estudante percorre para ir da sua casa para a escola.</p><ul><li>Ponto A \\((9, 1)\\) → representando o local onde o celular foi encontrado: a escola.</li><li>Ponto B \\((2, -3)\\) → representando a casa do estudante;</li><li>Pontos C \\((5, -3)\\) e D \\((8, -1)\\) → parte do caminho que estudante percorre para ir à escola.</li></ul><p><img src=\"img/p2025/mat-q14.png\" alt=\"Mapa de ruas em tons de cinza sobreposto a uma malha quadriculada com eixos cartesianos: eixo x de −3 a 12 e eixo y de −6 a 6, uma unidade por quadradinho. Pontos marcados: B em (2, −3); C em (5, −3), junto ao ícone da Escola Municipal Pedro Ernesto (o nome da escola aparece logo abaixo do segmento BC, e o bairro Lagoa, abaixo de C); D em (8, −1), na Rua Humaitá; A em (9, 1), junto ao marcador do Colégio Pedro II (Campus Humaitá), no bairro Humaitá. A linha poligonal vai de B a C (segmento horizontal de 3 unidades), de C a D (inclinado, ao longo da Rua Humaitá) e de D a A (inclinado). Outros nomes no mapa: Cristo Redentor, Instituto Estadual de Cardiologia Aloysio de..., Parque do Martelo, Trilha Parque Lage-Corcovado, Lagoa, Av. Alexandre Ferreira, Av. Borges de Medeiros, R. Fonte da S... (cortado), R. São Cle... (cortado), R. Visc. ... (cortado) e Área de Proteção Ambiental do Bairro Peixoto.\"></p><table><tbody><tr><td>\\(\\sqrt{2} \\cong 1{,}4\\)</td></tr><tr><td>\\(\\sqrt{3} \\cong 1{,}7\\)</td></tr><tr><td>\\(\\sqrt{5} \\cong 2{,}2\\)</td></tr><tr><td>\\(\\sqrt{7} \\cong 2{,}6\\)</td></tr><tr><td>\\(\\sqrt{11} \\cong 3{,}3\\)</td></tr><tr><td>\\(\\sqrt{13} \\cong 3{,}6\\)</td></tr></tbody></table><p>Com base nas coordenadas dos pontos e nas aproximações dadas na tabela, o comprimento aproximado da linha poligonal BCDA no plano cartesiano é de</p>",
+    "options": {
+      "A": "7,2 unidades.",
+      "B": "8,6 unidades.",
+      "C": "8,8 unidades.",
+      "D": "11,0 unidades."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.cartesiano",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O comprimento da linha poligonal BCDA é a soma dos três segmentos: \\(BC + CD + DA\\).</p><p><b>BC:</b> B \\((2, -3)\\) e C \\((5, -3)\\) têm o mesmo \\(y\\), então o segmento é horizontal: \\(BC = 5 - 2 = 3\\).</p><p><b>CD:</b> de C \\((5, -3)\\) até D \\((8, -1)\\) andamos 3 na horizontal \\((8 - 5)\\) e 2 na vertical \\((-1 - (-3))\\). CD é a hipotenusa de um triângulo retângulo de catetos 3 e 2:</p><p>\\[CD = \\sqrt{3^2 + 2^2} = \\sqrt{9 + 4} = \\sqrt{13} \\cong 3{,}6\\]</p><p><b>DA:</b> de D \\((8, -1)\\) até A \\((9, 1)\\) andamos 1 na horizontal e 2 na vertical:</p><p>\\[DA = \\sqrt{1^2 + 2^2} = \\sqrt{1 + 4} = \\sqrt{5} \\cong 2{,}2\\]</p><p>Somando: \\(3 + 3{,}6 + 2{,}2 = 8{,}8\\) unidades. Resposta: <b>C</b>.</p><p>Checagem rápida: cada hipotenusa é maior que o maior cateto e menor que a soma dos catetos. Então o total fica entre \\(3 + 3 + 2 = 8\\) e \\(3 + 5 + 3 = 11\\), o que já descarta 7,2 e 11,0.</p>",
+    "distractors": {
+      "A": "Valor pequeno demais: BC já mede 3, CD passa de 3 e DA passa de 2 (a hipotenusa é maior que qualquer cateto), então o total passa de 8.",
+      "B": "É \\(3 + 5{,}6\\): mediu BC e depois foi direto de C até A, \\(\\sqrt{4^2 + 4^2} = \\sqrt{32} = 4\\sqrt{2} \\cong 5{,}6\\), pulando o ponto D. O caminho passa por D, e o atalho CA é mais curto que CD + DA.",
+      "D": "Somou os deslocamentos horizontais e verticais, como se andasse só pelas linhas da malha: \\(3 + (3 + 2) + (1 + 2) = 11\\). Nos trechos inclinados, a distância é a hipotenusa, que é menor que a soma dos catetos."
+    },
+    "tip": "Distância entre dois pontos é Pitágoras: os catetos são a diferença dos \\(x\\) e a diferença dos \\(y\\)."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dodô está assistindo duas séries diferentes em uma plataforma de streaming.</p><p>Todos os episódios da série A duram \\(x\\) minutos, e os episódios da série B, \\(y\\) minutos.</p><p>No fim de semana:</p><ul><li>No sábado, ele assistiu 3 episódios da série A e 4 da série B, totalizando 4 horas de tela.</li><li>No domingo, ele assistiu 5 episódios da série A e 2 da série B, somando 4 horas e 20 minutos de tela.</li></ul><p>Com base nessas informações, o sistema que relaciona corretamente os valores de \\(x\\) e \\(y\\) é</p>",
+    "options": {
+      "A": "\\(\\begin{cases} 3x + 4y = 240 \\\\ 5x + 2y = 260 \\end{cases}\\)",
+      "B": "\\(\\begin{cases} 3x + 4y = 4 \\\\ 5x + 2y = 4{,}2 \\end{cases}\\)",
+      "C": "\\(\\begin{cases} 5x + 2y = 4{,}333\\ldots \\\\ 3x + 4y = 4 \\end{cases}\\)",
+      "D": "\\(\\begin{cases} 3x + 4y = 260 \\\\ 5x + 2y = 240 \\end{cases}\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>As durações \\(x\\) e \\(y\\) estão em <b>minutos</b>, então os totais de cada dia também precisam estar em minutos.</p><ul><li>Sábado: 4 horas \\(= 4 \\cdot 60 = 240\\) minutos. Com 3 episódios da série A e 4 da série B: \\(3x + 4y = 240\\).</li><li>Domingo: 4 horas e 20 minutos \\(= 240 + 20 = 260\\) minutos. Com 5 episódios da série A e 2 da série B: \\(5x + 2y = 260\\).</li></ul><p>O sistema é</p><p>\\[\\begin{cases} 3x + 4y = 240 \\\\ 5x + 2y = 260 \\end{cases}\\]</p><p>Resposta: <b>A</b>.</p><p>Se quiser ir além: resolvendo, \\(x = 40\\) e \\(y = 30\\) (confira: \\(3 \\cdot 40 + 4 \\cdot 30 = 240\\) e \\(5 \\cdot 40 + 2 \\cdot 30 = 260\\)).</p>",
+    "distractors": {
+      "B": "Usa horas no lugar de minutos e ainda converte errado: 4 h 20 min não é 4,2 h, porque 20 minutos são \\(\\frac{20}{60} = \\frac{1}{3}\\) de hora (cerca de 0,333 h), e não 0,2 h.",
+      "C": "As contas estão em horas (4 h 20 min = 4,333... h está certo), mas \\(x\\) e \\(y\\) foram definidos em minutos. Com \\(x\\) e \\(y\\) em minutos, \\(3x + 4y = 4\\) diria que o sábado teve só 4 minutos de tela.",
+      "D": "Trocou os totais dos dias: o sábado (3 episódios de A e 4 de B) somou 4 h = 240 min, e o domingo (5 de A e 2 de B) somou 4 h 20 min = 260 min."
+    },
+    "tip": "Antes de montar a equação, deixe tudo na unidade da incógnita: se \\(x\\) está em minutos, os totais também vão para minutos."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Hoje em dia é comum passarmos várias horas conectados ao celular, seja estudando, trabalhando, conversando ou simplesmente nos divertindo. Muitos aplicativos já mostram automaticamente o tempo que utilizamos o aparelho em cada dia, ajudando-nos a refletir sobre nossos hábitos digitais.</p><p>O gráfico a seguir apresenta o tempo de uso do celular de uma pessoa ao longo de cinco dias de uma semana:</p><p><img src=\"img/p2025/mat-q16.png\" alt=\"Gráfico de barras verticais com o título Tempo de uso por dia. Eixo vertical: Tempo (horas), de 0 a 7. Eixo horizontal: dias da semana. Valores escritos acima de cada barra: SEG, 3h 45min; TER, 6h 15min; QUA, 4h 30min; QUI, 3h 45min; SEX, 6h 45min.\"></p><p>Com base nesses dados, a média diária do tempo gasto por essa pessoa com o uso do celular é</p>",
+    "options": {
+      "A": "180 minutos.",
+      "B": "225 minutos.",
+      "C": "270 minutos.",
+      "D": "300 minutos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.est.medias",
+      "mat.est.graficos",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, passamos cada tempo para minutos (1 h = 60 min):</p><table><thead><tr><th>Dia</th><th>Tempo</th><th>Em minutos</th></tr></thead><tbody><tr><td>SEG</td><td>3 h 45 min</td><td>\\(180 + 45 = 225\\)</td></tr><tr><td>TER</td><td>6 h 15 min</td><td>\\(360 + 15 = 375\\)</td></tr><tr><td>QUA</td><td>4 h 30 min</td><td>\\(240 + 30 = 270\\)</td></tr><tr><td>QUI</td><td>3 h 45 min</td><td>\\(180 + 45 = 225\\)</td></tr><tr><td>SEX</td><td>6 h 45 min</td><td>\\(360 + 45 = 405\\)</td></tr></tbody></table><p>Soma: \\(225 + 375 + 270 + 225 + 405 = 1.500\\) minutos.</p><p>Média diária: \\(\\dfrac{1.500}{5} = 300\\) minutos (ou seja, 5 horas por dia). Resposta: <b>D</b>.</p><p>Atalho: somando só as horas, \\(3 + 6 + 4 + 3 + 6 = 22\\) h; somando só os minutos, \\(45 + 15 + 30 + 45 + 45 = 180\\) min \\(= 3\\) h. Total: 25 h em 5 dias, isto é, 5 h \\(= 300\\) min por dia.</p>",
+    "distractors": {
+      "A": "180 é só a soma das partes em minutos \\((45 + 15 + 30 + 45 + 45)\\), sem as horas. Além disso, 180 min = 3 h é menos que o menor valor do gráfico (3 h 45 min), e a média nunca fica abaixo do menor valor.",
+      "B": "225 min = 3 h 45 min é a moda (o valor que se repete, na segunda e na quinta), não a média. Também é o menor valor do gráfico, e a média só seria igual a ele se todos os dias fossem iguais.",
+      "C": "270 min = 4 h 30 min é a mediana (o valor do meio com os tempos em ordem: 225, 225, 270, 375, 405), não a média."
+    },
+    "tip": "Transforme horas e minutos em minutos antes de somar; a média é a soma dividida pela quantidade de dias."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Todas as televisões têm recomendações de distância e ângulo que devem ser consideradas para uma melhor utilização do aparelho. Essa distância do campo de visão pode ser calculada com base apenas no tamanho da TV.</p><p>Observe, na imagem a seguir, o esquema para uma TV de 75”:</p><p><img src=\"img/p2025/mat-q17.png\" alt=\"Esquema: à esquerda, uma TV vista em perspectiva, com a diagonal da tela marcada por uma linha pontilhada e o rótulo 75”. À direita, uma poltrona. Da poltrona saem duas linhas pontilhadas até as bordas da TV, formando um ângulo de 40°. Uma linha pontilhada horizontal liga a TV à poltrona com a indicação 2,30 metros e, abaixo dela, o texto Distância de Visualização Recomendada.\"></p><p>A tabela a seguir exibe a relação entre o tamanho da televisão e a distância de visualização recomendada:</p><table><thead><tr><th>Tamanho da TV (em polegada)</th><th>Distância de visualização (em metro)</th></tr></thead><tbody><tr><td>55”</td><td>1,7 m</td></tr><tr><td>65”</td><td>2,0 m</td></tr><tr><td>75”</td><td>2,3 m</td></tr><tr><td>85”</td><td>2,6 m</td></tr></tbody></table><p><small>Disponível em: www.samsung.com. Modificado. Acesso em: 20.ago.2025.</small></p><p>Seguindo o padrão indicado na tabela, a distância de visualização para uma televisão de 105” é de</p>",
+    "options": {
+      "A": "2,9 metros.",
+      "B": "3,2 metros.",
+      "C": "4,6 metros.",
+      "D": "5,6 metros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na tabela, o tamanho da TV aumenta de 10 em 10 polegadas (55, 65, 75, 85). Veja o que acontece com a distância:</p><p>\\(1{,}7 \\to 2{,}0 \\to 2{,}3 \\to 2{,}6\\): a cada 10 polegadas a mais, a distância aumenta \\(0{,}3\\) m.</p><p>Continuando o padrão:</p><ul><li>95 polegadas: \\(2{,}6 + 0{,}3 = 2{,}9\\) m;</li><li>105 polegadas: \\(2{,}9 + 0{,}3 = 3{,}2\\) m.</li></ul><p>Ou, direto: de 85 para 105 polegadas são 2 passos de 10, então \\(2{,}6 + 2 \\cdot 0{,}3 = 3{,}2\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a distância para uma TV de 95 polegadas: parou um passo antes. De 85 para 105 polegadas são dois aumentos de 0,3 m.",
+      "C": "Não segue o padrão: de 85 para 105 polegadas a distância subiria 2 m (de 2,6 m para 4,6 m), mas a tabela só aumenta 0,3 m a cada 10 polegadas, ou seja, 0,6 m nesse trecho. O valor coincide com o dobro de 2,3 m (TV de 75 polegadas), e dobrar a distância não é o padrão da tabela.",
+      "D": "Exagera no crescimento: equivale a somar 3 m aos 2,6 m da TV de 85 polegadas, quando o padrão dá só \\(2 \\cdot 0{,}3 = 0{,}6\\) m a mais de 85 para 105 polegadas."
+    },
+    "tip": "Em tabelas com passos iguais, descubra quanto a grandeza aumenta a cada passo e conte quantos passos faltam."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para conforto e precisão durante o uso, a tela é a principal interação do usuário com um smartphone. Pensando nisso, algumas marcas lançaram no mercado aparelhos dobráveis que aumentam o tamanho da tela. Um novo modelo de celular dobrável possui uma <b>tela retangular</b> que se dobra ao meio verticalmente. Quando totalmente aberto, a tela do aparelho possui 157,6 mm de altura e 64,6 mm de largura.</p><p>Observe as imagens a seguir com as dimensões do aparelho em diversos ângulos:</p><p><img src=\"img/p2025/mat-q18.png\" alt=\"Três desenhos do celular dobrável aberto. 1) De frente: tela retangular com uma linha pontilhada atravessando o meio (a dobra) e as indicações 425 ppi; diagonal da tela 6.7” e 170 mm; altura da tela 157,6mm; largura da tela 64,6mm; abaixo do aparelho, largura total 2.9” | 73.6 mm. 2) De costas: duas câmeras e um flash na parte de cima e a dobra no meio. 3) De lado: altura total 6.59” | 167.3 mm e espessura .28” | 7.2 mm.\"></p><p>A área aproximada da tela quando o celular está totalmente aberto é de</p>",
+    "options": {
+      "A": "44,4 cm².",
+      "B": "101,8 cm².",
+      "C": "123,1 cm².",
+      "D": "170,0 cm²."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A tela aberta é um retângulo de 157,6 mm de altura por 64,6 mm de largura. As alternativas estão em cm², então convertemos antes (1 cm = 10 mm):</p><p>\\(157{,}6 \\text{ mm} = 15{,}76 \\text{ cm}\\) e \\(64{,}6 \\text{ mm} = 6{,}46 \\text{ cm}\\).</p><p>Área do retângulo = altura × largura:</p><p>\\[A = 15{,}76 \\cdot 6{,}46 = 94{,}56 + 7{,}2496 \\approx 101{,}8 \\text{ cm}^2\\]</p><p>(Usamos \\(15{,}76 \\cdot 6 = 94{,}56\\) e \\(15{,}76 \\cdot 0{,}46 = 7{,}2496\\).)</p><p>Sem fazer a conta toda, uma estimativa já resolve: \\(16 \\cdot 6{,}5 = 104\\), um pouco acima do valor real, porque arredondamos as duas medidas para cima. A única alternativa perto de 104 é 101,8. Resposta: <b>B</b>.</p><p>Cuidado com as outras medidas da figura: 170 mm é a diagonal da tela, e 73,6 mm e 167,3 mm são medidas do aparelho inteiro, não da tela.</p>",
+    "distractors": {
+      "A": "É o perímetro da tela, \\(2 \\cdot (15{,}76 + 6{,}46) \\approx 44{,}4\\) cm, e não a área. O perímetro mede o contorno, em cm, não em cm².",
+      "C": "Usa as medidas do aparelho inteiro, \\(16{,}73 \\cdot 7{,}36 \\approx 123{,}1\\) cm², e não as da tela (15,76 cm por 6,46 cm).",
+      "D": "170 mm é a diagonal da tela, um comprimento. Trocar a unidade para cm² não transforma uma diagonal em área."
+    },
+    "tip": "Área do retângulo é base × altura; converta mm para cm antes de multiplicar (1 cm² = 100 mm²)."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p><i>A chamada \"síndrome do text neck\" tem se tornado cada vez mais comum, especialmente entre estudantes e profissionais que passam longas horas em frente às telas, como aponta um estudo publicado no PubMed, em 2022.</i></p><p><i>[...] os ângulos da cabeça e do pescoço durante o uso de smartphones em uma posição sentada em uma cadeira sem encosto foram a postura mais incômoda em comparação as outras.</i></p><p><small>Disponível em: https://ge.globo.com. Acesso em: 18.ago.2025.</small></p><p>Observe a ilustração a seguir, de um jovem mexendo em seu celular sentado em um banco:</p><p><img src=\"img/p2025/mat-q19-a.png\" alt=\"Ilustração de um jovem sentado em um banco cilíndrico, curvado para a frente, olhando para o celular que segura com as duas mãos. Sobre o desenho há um pentágono traçado com linha grossa, contornando a cabeça, o tronco e os braços dele. Esse contorno, sem letras nem medidas, é o pentágono ABCDE da figura seguinte.\"><img src=\"img/p2025/mat-q19-b.png\" alt=\"Pentágono ABCDE, com os vértices em sentido horário a partir de A: A no alto à esquerda, B no alto à direita, C à direita, D embaixo à direita e E embaixo à esquerda. O lado AE é vertical e o lado ED é horizontal. Ângulos internos marcados: em A, α (o valor procurado); em B, 95°; em C, 127°; em D, 116°; em E, 90° (ângulo reto).\"></p><p>Observando o pentágono ABCDE, a medida \\(\\alpha\\) do ângulo \\(B\\hat{A}E\\) é</p>",
+    "options": {
+      "A": "112°",
+      "B": "108°",
+      "C": "105°",
+      "D": "102°"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A soma dos ângulos internos de um polígono de \\(n\\) lados é \\(S = (n - 2) \\cdot 180^\\circ\\). Para o pentágono \\((n = 5)\\):</p><p>\\[S = 3 \\cdot 180^\\circ = 540^\\circ\\]</p><p>(Dá para ver isso traçando, a partir de um vértice, as diagonais que dividem o pentágono em 3 triângulos.)</p><p>Os ângulos conhecidos são \\(95^\\circ\\) (em B), \\(127^\\circ\\) (em C), \\(116^\\circ\\) (em D) e \\(90^\\circ\\) (em E, ângulo reto). Somando: \\(95 + 127 + 116 + 90 = 428\\), isto é, \\(428^\\circ\\).</p><p>\\[\\alpha = 540^\\circ - 428^\\circ = 112^\\circ\\]</p><p>Conferindo: \\(112 + 95 + 127 + 116 + 90 = 540\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "108° é o ângulo interno do pentágono <b>regular</b> \\((540^\\circ \\div 5)\\). Este pentágono não é regular: seus ângulos são diferentes entre si.",
+      "C": "Erro de conta: com 105°, a soma dos cinco ângulos daria \\(105^\\circ + 428^\\circ = 533^\\circ\\), e não os 540° de um pentágono.",
+      "D": "Erro de conta: com 102°, a soma dos cinco ângulos daria \\(102^\\circ + 428^\\circ = 530^\\circ\\), e não 540°. Aparece quando se erra por 10° a soma dos ângulos conhecidos."
+    },
+    "tip": "Soma dos ângulos internos de um polígono de \\(n\\) lados: \\((n - 2) \\cdot 180^\\circ\\); no pentágono, 540°."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma plataforma de filmes e séries disponibiliza a seus clientes a possibilidade de modificação na velocidade de reprodução dos vídeos. A tabela a seguir exibe as opções de velocidades disponíveis:</p><table><thead><tr><th colspan=\"6\">Velocidade de reprodução</th></tr></thead><tbody><tr><td>0,5x</td><td>1,0x (normal)</td><td>1,25x</td><td>1,5x</td><td>1,75x</td><td>2,0x</td></tr></tbody></table><p>Um filme, com duração original de 168 minutos, está sendo reproduzido, desde o seu começo, na velocidade de 1,75x.</p><p>Com essa aceleração, o filme completo pode ser assistido em</p>",
+    "options": {
+      "A": "93 minutos.",
+      "B": "96 minutos.",
+      "C": "126 minutos.",
+      "D": "143 minutos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na velocidade 1,75x, passam 1,75 minuto de filme a cada minuto de relógio. Quanto maior a velocidade, menor o tempo: o tempo para assistir fica <b>dividido</b> por 1,75.</p><p>\\[t = \\frac{168}{1{,}75}\\]</p><p>Para fazer sem calculadora, escreva \\(1{,}75 = \\dfrac{7}{4}\\):</p><p>\\[t = 168 \\div \\frac{7}{4} = 168 \\cdot \\frac{4}{7} = 24 \\cdot 4 = 96 \\text{ minutos}\\]</p><p>Conferindo: em 96 minutos, a 1,75x, passam \\(96 \\cdot 1{,}75 = 96 + 72 = 168\\) minutos de filme. Resposta: <b>B</b>.</p><p>Outra checagem: a 1,5x o filme duraria \\(168 \\div 1{,}5 = 112\\) min e a 2x, \\(168 \\div 2 = 84\\) min. A 1,75x o tempo tem de ficar entre 84 e 112 minutos, o que já elimina 126 e 143.</p>",
+    "distractors": {
+      "A": "É \\(168 - 75\\): tratou o 0,75 da velocidade como 75 minutos a menos. Teste: \\(93 \\cdot 1{,}75 = 162{,}75\\) minutos de filme, menos que os 168.",
+      "C": "É \\(168 \\cdot 0{,}75\\): tirou 25% do tempo, o que corresponderia a uma velocidade de cerca de 1,33x. A 1,75x o tempo tem de ser menor que os 112 min que o filme levaria a 1,5x.",
+      "D": "Fica acima até do tempo a 1,5x (112 min), então é impossível: 143 min corresponderia a uma velocidade de apenas cerca de 1,17x \\((168 \\div 143)\\)."
+    },
+    "tip": "Velocidade de reprodução e tempo são inversamente proporcionais: divida a duração original pela velocidade."
+  }
+]

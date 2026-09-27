@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>A crônica de Luís Fernando Veríssimo estrutura-se, semanticamente, com base em ideias contraditórias e irônicas, construídas através da quebra de uma expectativa lógica esperada pelas personagens e pelo próprio leitor.</p><p>Considerando o contexto em que está inserido, o trecho que demonstra esse efeito é</p>",
+    "options": {
+      "A": "“— Nunca nos vimos antes, mas eu sei tudo sobre você e sua barriga.” (linha 09)",
+      "B": "“— Cada centímetro a mais na cintura é um ano a menos de vida.” (linha 24)",
+      "C": "“As ginásticas eram feitas no ritmo de uma ladainha macabra.” (linha 30)",
+      "D": "“O Paulão tinha morrido naquela madrugada. Coração.” (linhas 45-46)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O enunciado pede o trecho em que a história <b>quebra a expectativa</b> do leitor e dos personagens, criando ironia.</p><p>Ao longo da crônica, Paulão é apresentado como modelo de saúde: “não tinha gordura e conservava seu corpo de atleta” (linhas 21-22), repetia que “Cada centímetro a mais na cintura é um ano a menos de vida” (linha 24) e batia na própria barriga dizendo “Uma tábua” (linha 26). Segundo o narrador, “Paulão os estava salvando da morte” (linhas 28-29).</p><p>Por isso, todos esperam que Paulão seja o último a morrer. Mas vem a notícia: “O Paulão tinha morrido naquela madrugada. Coração.” (linhas 45-46). Justamente o homem que parecia o mais saudável de todos, o mesmo que estava salvando os outros da morte, morre de repente do coração. O espanto aparece em “O Paulão?!” (linha 47), e a ironia continua no final, quando os alunos vão ao bar pedir cerveja, bolinho de bacalhau e “bacon”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Há uma contradição aparente (nunca se viram, mas ele sabe tudo), só que nenhuma expectativa é quebrada: o novato confirma “Está certo.” (linha 14), porque Paulão conhece o perfil de quem procura a academia.",
+      "B": "É uma frase de efeito de Paulão, coerente com todo o seu discurso sobre saúde. Ela cria a expectativa de que quem cuida do corpo vive mais; a quebra vem depois, quando essa regra falha com o próprio Paulão.",
+      "C": "Comparar a ginástica a uma “ladainha macabra” é um recurso expressivo e engraçado, mas apenas descreve o clima das aulas. Não contraria nada do que o leitor esperava."
+    },
+    "tip": "Em crônicas de humor, procure a ironia no desfecho: o fato que contraria tudo o que a história levou o leitor a esperar."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><i>“—Nunca nos vimos antes, mas eu sei tudo sobre você e sua barriga.”</i> (linha 09)</blockquote><p>No trecho acima, Paulão generaliza todos os seus novos alunos, dizendo os conhecer, mesmo sem nunca ter visto nenhum deles antes.</p><p>Essa generalização se justifica pelo que se observa em</p>",
+    "options": {
+      "A": "“Todos tinham entre 40 e 50 anos, aquela faixa de idade em que o homem, subitamente, descobre a própria mortalidade.” (linha 01-02)",
+      "B": "“Paulão dá uma gargalhada e outro soco no ombro do novo inscrito, que naquela noite não conseguiria mover os braços.” (linhas 15-16)",
+      "C": "“Purgava, gota a gota, cada gole de chope indevido, cada garfada de fritura, cada excesso cometido no passado.” (linhas 27-28)",
+      "D": "“Alinharam-se contra o balcão. Um pediu uma cerveja. Dali a pouco um pediu um bolinho de bacalhau. Outro pediu batatinhas.” (linhas 50-51)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Paulão diz conhecer o novato sem nunca tê-lo visto. Isso só é possível porque os alunos da academia têm <b>o mesmo perfil</b>.</p><p>O primeiro parágrafo apresenta esse perfil: “Todos tinham entre 40 e 50 anos, aquela faixa de idade em que o homem, subitamente, descobre a própria mortalidade.” (linhas 01-02). Ou seja, todos chegaram à idade em que começam a temer pela saúde e resolvem mudar de vida.</p><p>A fala de Paulão confirma isso: “Agora que passou dos 40, decidiu tomar jeito. Por isso veio ao Paulão.” (linhas 11-12). Ele não adivinha nada: sabe que quem procura a academia nessa idade costuma ter os mesmos hábitos (sedentarismo, comida ruim, bebida, cigarro). Tanto que o novato responde: “Está certo.” (linha 14).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O trecho mostra o ritual de boas-vindas de Paulão (a gargalhada e o soco) e o efeito dele no aluno, mas não diz nada sobre o que os novatos têm em comum.",
+      "C": "O trecho confirma que os alunos tinham os excessos que Paulão apontou, mas fala do que acontecia nas aulas, com os alunos já na academia: “gota a gota”, Paulão os livrava desses excessos. Não explica por que ele podia falar de cada novato antes mesmo de conhecê-lo; isso vem do perfil comum apresentado na abertura.",
+      "D": "A cena acontece no fim, depois da morte de Paulão, e mostra os alunos voltando aos velhos hábitos. É uma consequência da notícia, não a justificativa para a fala do início."
+    },
+    "tip": "Para justificar a fala de um personagem, procure no texto a informação que explica por que ele pôde dizer aquilo, e não apenas trechos sobre o mesmo assunto."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><i>“ (...) E dando um soco na própria barriga:<br>— Olhem aqui. <b><u>Uma tábua</u></b>. O grupo olhava para Paulão com um misto de ódio e adoração.”</i> (linhas 26-27)</blockquote><p>No trecho destacado, a linguagem conotativa foi empregada como recurso estilístico por meio do uso da</p>",
+    "options": {
+      "A": "comparação.",
+      "B": "metáfora.",
+      "C": "metonímia.",
+      "D": "antítese."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Linguagem conotativa é o uso de uma palavra em sentido figurado, diferente do sentido literal.</p><p>Paulão bate na própria barriga e diz: “Olhem aqui. <b>Uma tábua</b>.” (linha 26). É claro que a barriga dele não é, de verdade, um pedaço de madeira. Ele aproveita duas características da tábua, ser <b>lisa e firme</b>, para dizer que sua barriga é reta, dura e sem gordura.</p><p>Existe, portanto, uma comparação entre a barriga e a tábua, mas ela é feita <b>sem conectivo</b>: Paulão não diz “minha barriga é lisa como uma tábua”; diz diretamente que ela é “uma tábua”. Essa comparação implícita, em que uma coisa é chamada diretamente pelo nome de outra por causa de uma semelhança, é a <b>metáfora</b>.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A comparação precisaria de um conectivo, como em “lisa <i>como</i> uma tábua”. Sem “como”, “feito” ou “igual a”, a semelhança fica implícita, e isso é metáfora.",
+      "C": "Metonímia troca uma palavra por outra com a qual tem uma relação real (a parte pelo todo, o autor pela obra, o recipiente pelo conteúdo, como em “beber um copo”). Entre barriga e tábua há só semelhança, não esse tipo de relação.",
+      "D": "Antítese é a aproximação de ideias opostas. Ela até aparece no trecho, em “um misto de ódio e adoração”, mas não na parte destacada, “Uma tábua”."
+    },
+    "tip": "Comparação tem conectivo (como, feito, tal qual); metáfora é a comparação sem conectivo, em que uma coisa é chamada diretamente de outra."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A letra de canção de Marisa Monte configura-se como uma espécie de convite para uma festa, em que se poderá comer guloseimas à vontade, já que “não é proibido”, como o título anuncia.</p><p>Assinale a alternativa que apresenta o verso em que há uma marca gramatical que evidencia a interlocução entre o enunciador e o convidado para essa festa:</p>",
+    "options": {
+      "A": "“Chiclete, sundae de chocolate, uh!” (verso 03)",
+      "B": "“Venha pra cá, venha comigo” (verso 07)",
+      "C": "“A hora é pra já, não é proibido” (verso 08)",
+      "D": "“Vai ser nesse fim de semana (uh, uh, uh)” (verso 12)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Interlocução é a conversa entre quem fala (o enunciador) e a quem se fala (o interlocutor, aqui o convidado). A questão pede uma <b>marca gramatical</b> dessa conversa: uma palavra que mostre, pela sua forma, que alguém está se dirigindo a outra pessoa.</p><p>Em “Venha pra cá, venha comigo” (verso 07), o verbo <i>venha</i> está no <b>modo imperativo</b>, o modo usado para dar ordens, fazer pedidos e convites a alguém. Além disso, <i>comigo</i> é pronome de 1ª pessoa: é o próprio enunciador chamando o convidado para perto dele. O verso é o convite em si.</p><p>A canção tem outras marcas desse tipo, como “Vou <b>te</b> contar” (verso 09), “<b>Manda</b> um e-mail” (verso 13) e “<b>Traz</b> todo mundo” (verso 17), mas, entre as alternativas, só o verso 07 traz uma delas.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O verso é só uma lista de doces seguida da interjeição “uh!”, que expressa empolgação. Não há verbo nem pronome que se dirija ao convidado.",
+      "C": "O verso informa que a festa é agora e que tudo está liberado, mas usa o verbo “ser” na 3ª pessoa do indicativo. Nenhuma palavra aponta diretamente para o convidado.",
+      "D": "“Vai ser” está na 3ª pessoa do indicativo e apenas informa quando a festa acontece. Os “uh, uh, uh” são interjeições, não marcas de quem recebe o convite."
+    },
+    "tip": "Verbos no imperativo, pronomes de 2ª pessoa (tu, te, você) e vocativos são marcas de que o texto fala diretamente com alguém."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>\"As interjeições são uma classe de palavras usada para exprimir emoções de quem emite o enunciado, além de cumprirem a função de chamar a atenção do interlocutor.\"</p><p><small>Disponível em https://brasilescola.uol.com.br. Acesso em 17 ago.2024</small></p></blockquote><p>Considerando o uso das interjeições na canção “Não é proibido”, poderíamos relacioná-las à seguinte emoção:</p>",
+    "options": {
+      "A": "Apelo.",
+      "B": "Alívio.",
+      "C": "Alegria.",
+      "D": "Admiração."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O texto citado na questão lembra que as interjeições exprimem as emoções de quem fala. Na canção, as interjeições são os “uh!” e “uh, uh, uh” (versos 03, 06 e 11 a 16).</p><p>A mesma interjeição pode exprimir emoções diferentes, então é o <b>contexto</b> que decide. Veja onde elas aparecem:</p><ul><li>logo depois de listas de doces e guloseimas (versos 01 a 06);</li><li>num convite para uma festa: “tá divertido” (verso 09), “É pra dançar” (verso 20);</li><li>num ambiente em que a tristeza não entra: “Toda tristeza, deixa lá fora” (verso 21).</li></ul><p>O clima é de festa, animação e entusiasmo. Os “uh!” funcionam como gritos de empolgação, que expressam <b>alegria</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Apelo é um pedido, um chamado ao outro. Isso corresponde à outra função citada no enunciado, a de chamar a atenção do interlocutor, e não a uma emoção, que é o que a questão pede. Além disso, na canção o chamado ao convidado é feito pelos verbos no imperativo (“Venha pra cá”, “Chega pra cá”), não pelos “uh”.",
+      "B": "Alívio é o que se sente quando uma tensão ou um perigo termina. A expressão “não é proibido” pode levar a essa leitura, mas a canção não fala de nenhum sufoco anterior: os “uh!” celebram a festa.",
+      "D": "Admiração é espanto ou encanto diante de algo surpreendente, como em “Uau!”. O eu da canção não se surpreende com nada: ele organiza a festa e convida as pessoas."
+    },
+    "tip": "Uma mesma interjeição pode exprimir emoções diferentes; para descobrir qual, observe o contexto em que ela aparece."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>As tirinhas são textos mistos, em que se articulam elementos da linguagem verbal e da linguagem não verbal para a sua construção de sentido.</p><p>Na tirinha do Armandinho, seu tema é reforçado pelo seguinte elemento não verbal:</p>",
+    "options": {
+      "A": "o sapinho se alimentar de um inseto no segundo quadrinho.",
+      "B": "o uso enfático da palavra “doente” na fala do último quadrinho.",
+      "C": "as onomatopeias utilizadas no segundo e no último quadrinhos.",
+      "D": "as expressões faciais alegres do sapinho nos três quadrinhos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, identifique o <b>tema</b> da tirinha. Armandinho ironiza alguém que diz não ter tempo para comer comida saudável: “HOJE NÃO TEM TEMPO PRA COMER COMIDA SAUDÁVEL? ...TUDO BEM... ...AMANHÃ VAI TER QUE ARRUMAR TEMPO PRA FICAR DOENTE...”. O tema é a <b>alimentação saudável</b> e o preço de descuidar dela.</p><p>Agora procure um elemento <b>não verbal</b>, isto é, algo que se vê no desenho e não está escrito. Enquanto Armandinho fala, o sapinho observa uma mosca, salta e a apanha com a língua no segundo quadrinho. Ou seja, o sapinho come o seu alimento natural na hora, sem desculpa de falta de tempo, o contrário do que faz a pessoa com quem Armandinho fala. Essa ação, mostrada só pela imagem, trata do mesmo assunto das falas (comer) e reforça o tema da tirinha.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A palavra “doente” está escrita no balão, na fala de Armandinho. É um elemento verbal, e a questão pede um elemento não verbal.",
+      "C": "As onomatopeias “PLAC!” e “BURP!” são palavras escritas que imitam sons; elas apenas sonorizam a ação do sapinho. Quem carrega o sentido ligado ao tema é a ação de comer mostrada no desenho.",
+      "D": "A alternativa fala em expressões alegres nos três quadrinhos, mas o desenho não mostra isso: no primeiro, o sapinho está agachado, atento à mosca, e no segundo aparece no meio do salto. Além disso, uma expressão de alegria não trata de alimentação; quem reforça o tema é a ação de comer."
+    },
+    "tip": "Em tirinhas, elemento não verbal é o que se vê (desenho, gesto, ação, expressão), e não o que está escrito nos balões."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Na tirinha, o personagem Armandinho estabelece uma relação de causa e consequência na oposição entre “hoje” (1° quadrinho) e “amanhã” (3° quadrinho).</p><p>Essa relação de causa e consequência também se manifesta, respectivamente, por meio da oposição entre</p>",
+    "options": {
+      "A": "comer saudável x ficar doente",
+      "B": "não comer saudável x ficar doente",
+      "C": "comer saudável x arrumar tempo",
+      "D": "ter tempo x não ter tempo"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Armandinho relaciona dois momentos:</p><ul><li><b>hoje</b> (1º quadrinho): “não tem tempo pra comer comida saudável”, ou seja, a pessoa <b>não come de forma saudável</b>;</li><li><b>amanhã</b> (3º quadrinho): “vai ter que arrumar tempo pra ficar doente”, ou seja, a pessoa vai <b>ficar doente</b>.</li></ul><p>Pergunte: o que provoca o quê? A má alimentação de hoje é a <b>causa</b>; a doença de amanhã é a <b>consequência</b>. A palavra “respectivamente” exige essa ordem: primeiro a causa, depois a consequência, “não comer saudável x ficar doente”.</p><p>A graça da tirinha está na ironia: quem diz não ter tempo para se cuidar vai precisar, no futuro, “arrumar tempo” para cuidar de uma doença.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Comer saudável não causa doença; a tirinha diz o contrário. O problema de “hoje” é justamente não ter tempo para comer comida saudável. Falta o “não”.",
+      "C": "Arrumar tempo não é consequência de comer saudável. Na tirinha, a pessoa vai ter que arrumar tempo para ficar doente, e isso acontece porque ela não comeu bem.",
+      "D": "O par retoma o jogo com a palavra “tempo”, mas na ordem invertida (hoje a pessoa não tem tempo; amanhã terá que arrumá-lo). Além disso, o tempo não é a causa da doença; a causa é a má alimentação."
+    },
+    "tip": "Em relações de causa e consequência, pergunte “o que provoca o quê?”: a causa acontece antes e produz o efeito."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<p>O texto de Bela Gil é um artigo de opinião, sendo, portanto, caracterizado pela presença de argumentos e um posicionamento, que chamamos de tese, sobre o tema discutido.</p><p>O trecho que expressa a tese defendida pela autora é</p>",
+    "options": {
+      "A": "“Pois fazer comida de verdade dá mais trabalho sim!” (linhas 19-20)",
+      "B": "“A resposta é em todos os lugares, o que temos que prestar atenção é o que se ensina.” (linhas 25-26)",
+      "C": "“Educação alimentar e ecológica são duas urgências na educação do pequeno brasileiro.” (linhas 27-28)",
+      "D": "“Lucrativo é não querer saber como é feita a nossa comida” (linha 53)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A <b>tese</b> é a opinião principal que o texto inteiro defende. Os outros trechos servem para explicá-la ou sustentá-la: são os argumentos.</p><p>O título já dá a pista: a educação é urgente para melhorar a alimentação. A autora prepara o terreno mostrando que falar de comida é complexo (linhas 07-12), que o excesso de ultraprocessados faz mal a todos (linhas 13-16) e que eles vencem a comida de verdade por serem práticos (linhas 17-20). Então anuncia: “Aí entramos na educação” (linha 21).</p><p>O posicionamento aparece de forma direta em “Educação alimentar e ecológica são duas urgências na educação do pequeno brasileiro.” (linhas 27-28). O que vem depois desenvolve essa ideia: o papel da casa (linhas 31-40), o da escola (linhas 41-47) e a crítica ao sistema educacional (linhas 48-54). A última frase retoma a tese: “Educação e acesso são urgentes para melhorarmos a alimentação de todos!” (linha 55).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É um argumento que explica por que a comida de verdade perde espaço para os ultraprocessados: dá mais trabalho. Ajuda a sustentar a tese, mas não é a opinião central.",
+      "B": "O trecho responde à pergunta “com quem fica essa missão?” (linha 23), dizendo onde se aprende a comer. É uma etapa do raciocínio, que ainda não afirma a urgência da educação alimentar.",
+      "D": "É uma crítica irônica ao sistema, usada como argumento para mostrar por que falta educação alimentar. Fala de lucro, não da posição central do texto."
+    },
+    "tip": "A tese é a opinião que todo o texto defende; frases que explicam, exemplificam ou criticam algo costumam ser argumentos a favor dela, e o título muitas vezes dá a pista."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<blockquote><i>“<b><u>Mas</u></b> algo que estudiosos já sabem (...)”</i> (linha 13)</blockquote><p>O uso da conjunção “mas” para iniciar o terceiro parágrafo justifica-se porque a autora vai apresentar uma:</p>",
+    "options": {
+      "A": "oposição em relação à ideia de que alimentação não é algo universal.",
+      "B": "conclusão do raciocínio de que cada povo tem sua maneira de comer.",
+      "C": "explicação sobre os alimentos ultraprocessados e pouco saudáveis.",
+      "D": "consequência dos estudos científicos sobre alimentação saudável."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Mas” é uma conjunção <b>adversativa</b>: introduz uma ideia que se opõe à anterior. Por isso, é preciso reler o parágrafo que vem antes.</p><p>No segundo parágrafo, a autora diz que a alimentação é relativa, muda conforme o grupo: “O que é bom para um grupo, pode não ser para outro” (linhas 08-09), e o que é aceitável numa sociedade “pode ser escandaloso para outra” (linhas 10-11). Ou seja, em matéria de comida, quase nada vale para todos.</p><p>Com o “mas”, ela apresenta algo que vale, sim, para todos: “para nenhum corpo, cultura ou sociedade, o excesso de consumo de produtos ultraprocessados (...) não faz bem” (linhas 13-15). Essa é uma verdade <b>universal</b>, que se opõe à ideia de que a alimentação não é algo universal.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Mas” é adversativo, não conclusivo. Além disso, o parágrafo diz o oposto de “cada povo tem sua maneira de comer”: mostra algo que faz mal a qualquer corpo, cultura ou sociedade.",
+      "C": "O parágrafo cita os ultraprocessados, mas o “mas” não introduz uma explicação; ele marca contraste com o parágrafo anterior. A explicação sobre eles (viciantes, acessíveis, práticos) vem depois, em “Sabemos também” (linha 17).",
+      "D": "Consequência seria marcada por “por isso” ou “portanto”, como na linha 11. As doenças citadas são consequência do excesso de ultraprocessados, e não dos estudos."
+    },
+    "tip": "Conjunções adversativas (mas, porém, contudo) marcam contraste; releia o trecho anterior para descobrir com qual ideia elas se contrapõem."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4"
+    ],
+    "stem": "<blockquote><i>“Lavar uma louça, fazer a lista do supermercado, ir à feira para conhecer e escolher os alimentos e conhecer os produtores, lavar uma alface e colocar a mesa são atitudes que podem incentivar a participação das crianças na sua própria alimentação.”</i> (linhas 36-38)</blockquote><p>No fragmento acima, o uso predominante de orações coordenadas tem a função de colaborar para a seguinte construção de sentido:</p>",
+    "options": {
+      "A": "Estabelecer um ponto de vista sobre a comida de verdade.",
+      "B": "Explicar como os pais e as mães devem criar seus filhos.",
+      "C": "Escolher trabalhos que crianças podem fazer em casa.",
+      "D": "Enumerar atitudes em favor da educação alimentar."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.periodo",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Orações coordenadas são orações postas lado a lado, no mesmo nível, ligadas por vírgulas ou por conjunções como “e”.</p><p>No fragmento, a autora encadeia várias ações, uma após a outra: “Lavar uma louça, fazer a lista do supermercado, ir à feira (...), lavar uma alface e colocar a mesa” (linhas 36-37). A estrutura é a de uma <b>lista</b>: vírgulas separando os itens e um “e” antes do último.</p><p>Em seguida, ela diz o que essas ações têm em comum: “são atitudes que podem incentivar a participação das crianças na sua própria alimentação” (linhas 37-38). Assim, a sequência de orações serve para <b>enumerar</b> exemplos de atitudes que favorecem a educação alimentar das crianças, assunto central do texto.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O fragmento não dá opinião sobre a comida de verdade; apenas lista ações práticas. A opinião sobre comida de verdade aparece em outro trecho (linhas 18-20).",
+      "B": "É uma generalização exagerada: o trecho não ensina como criar os filhos, só lista tarefas que envolvem as crianças na própria alimentação.",
+      "C": "A autora não está escolhendo tarefas domésticas; está dando exemplos com uma finalidade, incentivar a participação das crianças na alimentação. E nem todas são em casa: “ir à feira” e “conhecer os produtores” acontecem fora dela."
+    },
+    "tip": "Termos ou orações coordenadas separados por vírgulas e fechados por “e” costumam ter a função de enumerar, isto é, listar elementos."
+  }
+]

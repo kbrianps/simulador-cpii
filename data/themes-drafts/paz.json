@@ -1,0 +1,620 @@
+[
+  {
+    "id": "paz-01",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Pequenos gestos de gentileza são capazes de transformar a convivência no dia a dia?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o valor da gentileza e dos pequenos gestos de cuidado na convivência cotidiana. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O ônibus das sete",
+        "body_html": "<p>Todos os dias, Renata pega o mesmo ônibus para ir à escola. Durante meses, ninguém se cumprimentava ali: cada passageiro olhava para o próprio celular, e o motorista só abria a boca para reclamar do trânsito. Numa segunda-feira, um senhor entrou e disse “bom dia” em voz alta. Poucos responderam.</p><p>Ele repetiu o gesto no dia seguinte, e no outro também. Aos poucos, algumas pessoas passaram a responder, uma estudante começou a ceder o lugar para quem carregava sacolas e o motorista passou a esperar quem vinha correndo até o ponto. Nada de extraordinário aconteceu, mas Renata percebeu que já não se sentia uma estranha naquele trajeto.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Educação ou ingenuidade?",
+        "body_html": "<p>“Gentileza é contagiante. Quando alguém me trata bem, fico com vontade de tratar bem a próxima pessoa que aparecer.” <i>(Estudante, 15 anos)</i></p><p>“Acho bonito, mas não resolve nada. A falta de educação nas ruas vem de problemas maiores, como cansaço, pressa e desigualdade.” <i>(Trabalhador que usa o transporte público todos os dias)</i></p><p>“Hoje em dia, quem é gentil demais acaba sendo feito de bobo.” <i>(Comentário em uma rede social)</i></p><p>“Não dá para esperar que as grandes mudanças venham primeiro. Um ‘obrigado’ custa pouco e já muda o clima de um lugar.” <i>(Professora do ensino fundamental)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que nenhuma lei obriga",
+        "body_html": "<p>A convivência em sociedade depende de leis, que estabelecem direitos e deveres para todos. No entanto, muitas situações do cotidiano não são resolvidas por nenhuma lei: segurar a porta para alguém, ajudar um colega que faltou à aula a entender a matéria, pedir desculpas depois de um esbarrão. Esses gestos formam uma espécie de acordo silencioso entre as pessoas, que torna os espaços compartilhados mais leves.</p><p>Há quem veja na gentileza apenas uma questão de boas maneiras. Outros a consideram uma forma de reconhecer a dignidade do outro, mesmo quando se trata de um desconhecido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que, em muitos espaços públicos, as pessoas deixam de se cumprimentar ou de se ajudar?",
+      "A gentileza é apenas boa educação ou também uma forma de respeito e de cidadania?",
+      "Um gesto individual pode influenciar o comportamento de todo um grupo?",
+      "Que limites a gentileza tem diante de problemas maiores, como a violência e a desigualdade?"
+    ],
+    "argument_paths": [
+      "A gentileza é contagiante: gestos simples criam um ambiente de confiança e estimulam outras pessoas a agir da mesma forma, melhorando a convivência em escolas, transportes e bairros.",
+      "A gentileza é uma forma de reconhecer a dignidade do outro; por isso, não é um detalhe, mas uma das bases de uma cultura de paz.",
+      "Posição crítica: a gentileza ajuda, mas não substitui políticas públicas; o estresse, a pressa e a desigualdade também explicam a falta de cordialidade e precisam ser enfrentados.",
+      "Ser gentil não é ser ingênuo: é possível ser cordial e, ao mesmo tempo, firme na defesa dos próprios direitos e dos direitos dos outros."
+    ],
+    "repertoire": [
+      {
+        "ref": "Os escritos que o Profeta Gentileza (José Datrino) pintou, a partir de 1980, nas pilastras do Viaduto do Caju, no Rio de Janeiro, entre eles a frase “Gentileza gera gentileza”",
+        "how": "Exemplo de como a ideia de gentileza se transformou em mensagem pública e passou a fazer parte da memória da cidade; ajuda a defender que pequenos gestos podem se espalhar."
+      },
+      {
+        "ref": "Canção “Gentileza”, de Marisa Monte (2000), inspirada nos escritos do Profeta Gentileza",
+        "how": "Pode abrir ou fechar o texto, mostrando que a gentileza também é tema da cultura popular brasileira."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, III (dignidade da pessoa humana como fundamento da República)",
+        "how": "Mostrar que tratar o outro com respeito, inclusive nos pequenos gestos, é uma forma de reconhecer essa dignidade no cotidiano."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas uma lista de exemplos de boas maneiras, sem defender um ponto de vista sobre a capacidade da gentileza de transformar a convivência.",
+      "Transformar o texto em uma narrativa pessoal (“um dia, no ônibus...”), fugindo do tipo textual dissertativo-argumentativo.",
+      "Tratar a gentileza como solução mágica para todos os problemas sociais, sem reconhecer seus limites."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "paz-02",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Diante de brigas e desentendimentos entre estudantes, a escola deve priorizar a punição ou o diálogo?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as formas como a escola pode lidar com os conflitos entre estudantes. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola e assinada apenas como “Um estudante” ou “Uma estudante”, em que você defenda seu ponto de vista sobre a seguinte questão:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Depois da briga no pátio",
+        "body_html": "<p>Na hora do intervalo, uma discussão sobre um jogo de futebol terminou em empurrões entre Caio e Téo, ambos do 9º ano. Os dois foram levados à coordenação, e os responsáveis foram chamados. A escola aplicou três dias de suspensão a cada um.</p><p>Quando voltaram, os dois continuavam sem se falar, e os amigos de cada lado alimentavam a rivalidade nos corredores. Uma semana depois, uma nova discussão quase terminou em outra briga. Uma professora comentou na sala dos professores: “A suspensão resolveu o problema da escola durante três dias. O problema dos meninos continua do mesmo tamanho.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O que é mediação de conflitos",
+        "body_html": "<p>A mediação de conflitos é uma prática em que uma pessoa neutra, o mediador, ajuda os envolvidos em um desentendimento a conversar, a entender o ponto de vista do outro e a buscar juntos uma solução. Em algumas escolas, os próprios estudantes são preparados para atuar como mediadores, com o acompanhamento de professores.</p><p>Práticas desse tipo se inspiram na chamada justiça restaurativa, que procura não apenas responsabilizar quem errou, mas também reparar o dano causado e reconstruir as relações. Seus críticos, porém, lembram que o diálogo depende da boa vontade de todos e que certas situações graves pedem medidas firmes.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na reunião de pais",
+        "body_html": "<p><b>Mãe de uma aluna:</b> Se a escola não punir, a mensagem é que qualquer um pode agredir e nada acontece.</p><p><b>Coordenador:</b> Ninguém está falando em deixar sem consequência. A questão é qual consequência ensina mais.</p><p><b>Pai de um aluno:</b> Meu filho foi suspenso e passou três dias jogando videogame em casa. Aprendeu o quê?</p><p><b>Professora:</b> Talvez as duas coisas possam caminhar juntas: regras claras para todos e espaço para que quem errou repare o que fez.</p><p><b>Mãe de uma aluna:</b> Desde que quem foi agredido também seja ouvido e protegido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é o objetivo de uma punição na escola: castigar, proteger ou ensinar?",
+      "A suspensão resolve a origem do conflito ou apenas afasta o problema por alguns dias?",
+      "Em que situações o diálogo pode não ser suficiente?",
+      "Como garantir que quem sofreu a agressão seja protegido e ouvido?",
+      "Que papel os próprios estudantes podem ter na resolução dos conflitos?"
+    ],
+    "argument_paths": [
+      "O diálogo deve ser prioridade: a mediação e as práticas restaurativas tratam a causa do conflito, responsabilizam quem errou e ensinam habilidades de convivência que a suspensão não ensina.",
+      "A punição é necessária: sem consequências claras, as regras perdem força e as vítimas se sentem desprotegidas; o diálogo pode vir depois, mas não substitui a sanção.",
+      "Caminho intermediário: regras claras e proporcionais, combinadas com mediação, de modo que a consequência tenha caráter educativo, como reparar o dano causado ou participar de uma roda de conversa.",
+      "A melhor resposta é a prevenção: formar estudantes mediadores e criar espaços regulares de conversa antes que os desentendimentos se transformem em agressão."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), art. 12, incisos IX e X, incluídos pela Lei nº 13.663/2018",
+        "how": "A lei passou a incluir entre as incumbências das escolas a prevenção e o combate à violência e a promoção da cultura de paz; serve para pedir à direção que a resposta aos conflitos seja também educativa."
+      },
+      {
+        "ref": "Lei nº 13.185/2015 (Programa de Combate à Intimidação Sistemática)",
+        "how": "Entre os objetivos do programa (art. 4º, VIII), está evitar, tanto quanto possível, a punição dos agressores, privilegiando mecanismos e instrumentos alternativos que promovam a efetiva responsabilização e a mudança de comportamento hostil; é um argumento forte a favor do diálogo."
+      },
+      {
+        "ref": "Resolução nº 225/2016 do Conselho Nacional de Justiça (CNJ), que trata da Política Nacional de Justiça Restaurativa no Poder Judiciário",
+        "how": "Mostrar que a ideia de reparar danos e reconstruir relações é reconhecida até pelo sistema de justiça, e não é apenas uma proposta ingênua."
+      }
+    ],
+    "pitfalls": [
+      "Esquecer os elementos da carta (local e data, vocativo dirigido à direção, despedida e assinatura) ou assinar com o próprio nome, em vez de usar apenas “Um estudante” ou “Uma estudante”, como pede a proposta.",
+      "Falar de bullying ou de violência escolar de forma genérica, sem tomar posição sobre a escolha entre punição e diálogo.",
+      "Defender o diálogo ignorando a proteção de quem foi agredido, ou defender a punição sem explicar o que ela ensina."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "paz-03",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Por que tantos trabalhadores essenciais ao nosso dia a dia, como garis, porteiros e entregadores, são tratados como invisíveis?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a falta de reconhecimento e de respeito a profissionais que realizam trabalhos indispensáveis para o funcionamento da vida cotidiana. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O teste do uniforme",
+        "body_html": "<p>Para um trabalho de Sociologia, um grupo de estudantes fez uma experiência simples. Um dos colegas passou a manhã circulando por um shopping com a roupa de sempre; à tarde, voltou vestindo um uniforme de serviço de limpeza. Os outros observaram de longe.</p><p>De manhã, ele recebeu sorrisos, respostas e até um pedido de informação. À tarde, as pessoas desviavam dele sem olhar, conversavam como se ele não estivesse ali e uma senhora deixou um copo vazio em cima do carrinho que ele empurrava. “Eu era a mesma pessoa”, escreveu ele no relatório. “Só mudei de roupa.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Trabalhos que ninguém vê",
+        "body_html": "<p>Quando o lixo é recolhido, a portaria funciona e a comida chega em casa, quase ninguém pensa em quem tornou isso possível. Muitos desses trabalhos são pesados, mal pagos e pouco reconhecidos, embora sejam indispensáveis para que a cidade funcione.</p><p>Nas ciências humanas, fala-se em invisibilidade social para descrever a situação de pessoas que, por causa da profissão, da classe social ou da cor da pele, deixam de ser vistas como indivíduos e passam a ser tratadas como parte da paisagem. Um simples “bom dia” não resolve as desigualdades, mas mostra se enxergamos ou não o outro como alguém igual a nós.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O porteiro da noite",
+        "body_html": "<p><b>Filho:</b> Mãe, você sabe o nome do porteiro da noite?</p><p><b>Mãe:</b> Ué... é o moço do turno da noite. Por quê?</p><p><b>Filho:</b> Ele sabe o nome de todo mundo do prédio, até o do cachorro do 302.</p><p><b>Mãe:</b> Mas isso faz parte do trabalho dele, filho.</p><p><b>Filho:</b> E saber o nome de quem trabalha para a gente faz parte de quê?</p><p><b>Mãe:</b> (depois de um silêncio) Acho que faz parte de ser gente. Amanhã eu pergunto o nome dele.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que algumas profissões são mais respeitadas do que outras, mesmo quando são igualmente necessárias?",
+      "De que modo a desigualdade social e o preconceito contribuem para a invisibilidade de certos trabalhadores?",
+      "O respeito se mostra apenas em gestos individuais ou também em salários, direitos e condições de trabalho?",
+      "Como a família e a escola podem ensinar a reconhecer o valor de todos os trabalhos?"
+    ],
+    "argument_paths": [
+      "A invisibilidade tem raízes históricas: em um país marcado por mais de três séculos de escravidão, o trabalho manual foi associado a quem não tinha direitos, e esse preconceito ainda aparece na forma como tratamos certos profissionais.",
+      "A invisibilidade é também econômica: baixos salários e condições precárias mostram que a sociedade depende desses trabalhadores, mas não os valoriza de fato; o respeito precisa se transformar em direitos.",
+      "A mudança começa na convivência: cumprimentar, chamar pelo nome e agradecer são atitudes simples que devolvem a esses profissionais o lugar de pessoas, e não de parte da paisagem.",
+      "A pressa e o individualismo da vida urbana fazem com que deixemos de enxergar muitas pessoas, e não apenas trabalhadores; o problema é, portanto, também de falta de atenção ao outro."
+    ],
+    "repertoire": [
+      {
+        "ref": "Livro “Homens invisíveis: relatos de uma humilhação social” (2004), do psicólogo Fernando Braga da Costa, que trabalhou como gari na Universidade de São Paulo para realizar sua pesquisa",
+        "how": "Exemplo concreto de invisibilidade social: vestido de gari, o pesquisador relata ter passado despercebido por pessoas que conviviam com ele na universidade."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, III e IV (a dignidade da pessoa humana e os valores sociais do trabalho e da livre iniciativa como fundamentos da República)",
+        "how": "Mostrar que todo trabalho tem valor social e que quem o realiza tem a mesma dignidade que qualquer outra pessoa."
+      },
+      {
+        "ref": "Filme “Que horas ela volta?” (2015), de Anna Muylaert",
+        "how": "Retrata a relação entre uma trabalhadora doméstica e a família para a qual trabalha, revelando fronteiras invisíveis dentro da própria casa; útil para discutir o tratamento desigual no cotidiano."
+      }
+    ],
+    "pitfalls": [
+      "Limitar-se a elogiar essas profissões, sem explicar por que elas são desvalorizadas, que é o que o tema pergunta.",
+      "Tratar o problema apenas como falta de educação individual, ignorando fatores como desigualdade, preconceito e condições de trabalho (ou o contrário: falar só de salários e esquecer a convivência).",
+      "Adotar um tom de caridade ou de pena, que reforça a ideia de que esses trabalhadores são inferiores."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "paz-04",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Os desafios para garantir o respeito à diversidade religiosa no Brasil.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a liberdade de crença e o respeito às diferentes religiões e convicções no Brasil. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um Estado laico",
+        "body_html": "<p>O Brasil é um Estado laico. Isso quer dizer que o poder público não adota uma religião oficial e não pode favorecer nem perseguir nenhuma crença. Ao mesmo tempo, a Constituição garante a liberdade de consciência e de crença: cada pessoa pode seguir a religião que escolher ou não seguir nenhuma.</p><p>Na prática, porém, o respeito à diversidade religiosa ainda é um desafio. Religiões de matriz africana, como o candomblé e a umbanda, estão entre as que mais sofrem ataques, que vão de ofensas e piadas a agressões e depredação de terreiros. A intolerância também atinge pessoas de outras crenças e quem não segue religião alguma.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "As contas por cima da blusa",
+        "body_html": "<p>No primeiro dia de aula, Iara chegou à escola usando um fio de contas brancas, símbolo da sua religião. No intervalo, um colega perguntou, rindo, se aquilo era “coisa de macumba”. Outros acharam graça. Iara ficou calada e, no dia seguinte, escondeu as contas dentro da blusa.</p><p>Semanas depois, a professora de História propôs um trabalho sobre as religiões presentes no bairro. A turma visitou uma igreja, um terreiro e um centro espírita, e ouviu um vizinho ateu falar sobre suas convicções. No fim do trabalho, o mesmo colega procurou Iara para pedir desculpas. Ela voltou a usar as contas por cima da blusa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões em debate",
+        "body_html": "<p>“Respeitar não significa concordar. Eu tenho a minha fé e não preciso diminuir a fé de ninguém para vivê-la.” <i>(Jovem de 16 anos)</i></p><p>“A escola não deveria falar de religião. Isso é assunto da família.” <i>(Pai de estudante)</i></p><p>“Se a escola não fala sobre as religiões, o preconceito continua sendo aprendido em outros lugares.” <i>(Professora de História)</i></p><p>“Liberdade religiosa inclui também o direito de criticar ideias, desde que sem ofender nem agredir pessoas.” <i>(Comentário em um fórum de debates)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre discordar de uma crença e desrespeitar quem a segue?",
+      "Por que algumas religiões são mais alvo de preconceito do que outras no Brasil?",
+      "O que significa, na prática, viver em um Estado laico?",
+      "A escola deve abordar a diversidade religiosa? De que maneira?"
+    ],
+    "argument_paths": [
+      "A intolerância religiosa nasce do desconhecimento; conhecer as diferentes crenças, na escola e na comunidade, é o caminho para substituir o medo e o deboche pelo respeito.",
+      "O preconceito contra as religiões de matriz africana está ligado ao racismo e à herança da escravidão; combatê-lo exige também enfrentar o racismo.",
+      "A laicidade do Estado protege todas as crenças e também quem não tem religião; garantir o cumprimento da lei e responsabilizar os agressores é essencial.",
+      "Posição alternativa: o respeito não depende de a escola ensinar sobre cada religião, mas de valores de convivência, como não ridicularizar o outro, que podem ser trabalhados sem entrar no conteúdo de cada fé."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, VI (inviolabilidade da liberdade de consciência e de crença, com proteção aos locais de culto e às suas liturgias)",
+        "how": "Base para afirmar que atacar terreiros, templos ou igrejas e impedir cultos é violar um direito fundamental."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 19, I (proibição de o poder público estabelecer cultos religiosos ou igrejas, subvencioná-los ou embaraçar-lhes o funcionamento)",
+        "how": "Explicar o que é a laicidade: o Estado não escolhe religião, e é justamente isso que permite a convivência entre todas elas."
+      },
+      {
+        "ref": "Lei nº 11.635/2007, que instituiu o Dia Nacional de Combate à Intolerância Religiosa, em 21 de janeiro",
+        "how": "A data lembra a ialorixá Mãe Gilda, de Salvador, que morreu em 21 de janeiro de 2000, depois de sofrer ataques motivados por intolerância religiosa; exemplo real das consequências do preconceito."
+      },
+      {
+        "ref": "Lei nº 7.716/1989, com a redação dada pela Lei nº 9.459/1997, que pune os crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional",
+        "how": "Mostrar que a discriminação religiosa não é mera falta de educação, mas crime previsto em lei."
+      }
+    ],
+    "pitfalls": [
+      "Defender uma religião específica ou atacar outras, em vez de discutir o respeito à diversidade.",
+      "Tratar o tema como liberdade de expressão em geral, sem focar na convivência entre crenças.",
+      "Esquecer que a liberdade religiosa inclui também quem não tem religião."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "paz-05",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "De que forma jovens e idosos podem conviver melhor e aprender uns com os outros?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a convivência entre jovens e idosos e os preconceitos que afastam as gerações. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O tutorial",
+        "body_html": "<p><b>Avó:</b> Lucas, me ensina de novo a mandar áudio? Eu sempre aperto no lugar errado.</p><p><b>Lucas:</b> Vó, eu já te expliquei três vezes! É só segurar aqui.</p><p><b>Avó:</b> Quando você tinha sete anos, eu te ensinei a amarrar o cadarço umas trinta vezes. Nunca reclamei.</p><p><b>Lucas:</b> (rindo) Tá bom, tá bom. Olha com calma: segura, fala e solta.</p><p><b>Avó:</b> Consegui! Agora é a minha vez de ensinar: aquele bolo que você adora não sai de receita da internet. Pega o avental.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Um país que envelhece",
+        "body_html": "<p>A população brasileira está envelhecendo: as famílias têm menos filhos, e as pessoas vivem mais tempo do que viviam algumas décadas atrás. Isso significa que, cada vez mais, crianças, jovens, adultos e idosos vão dividir as mesmas casas, ruas, escolas e locais de trabalho.</p><p>Essa convivência nem sempre é fácil. Há idosos que se sentem desrespeitados ou tratados como incapazes, e jovens que se sentem julgados ou pouco ouvidos pelos mais velhos. O preconceito contra alguém por causa da idade recebe o nome de etarismo e pode atingir pessoas de diferentes gerações.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Histórias da praça",
+        "body_html": "<p>Em um bairro da cidade, a associação de moradores passou a reunir, uma vez por semana, adolescentes de uma escola próxima e frequentadores de um centro de convivência para idosos. A proposta era simples: os jovens ajudariam os mais velhos a usar o celular, e os mais velhos contariam como era o bairro antigamente.</p><p>Nos primeiros encontros, os dois grupos mal se misturavam. Com o tempo, as conversas foram ficando mais longas. Os adolescentes gravaram as histórias e montaram uma exposição de fotos antigas na praça. Um dos idosos comentou que fazia anos que ninguém lhe perguntava nada.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que preconceitos os jovens têm em relação aos idosos, e os idosos em relação aos jovens?",
+      "O que cada geração pode ensinar à outra?",
+      "Por que o envelhecimento da população torna esse tema ainda mais importante?",
+      "Que espaços e iniciativas poderiam aproximar as gerações na família, na escola e no bairro?"
+    ],
+    "argument_paths": [
+      "A troca é de mão dupla: os jovens podem ajudar os idosos na inclusão digital, enquanto os idosos transmitem memória, experiência e tradições; reconhecer isso combate o preconceito dos dois lados.",
+      "Faltam espaços de encontro: escolas, praças e centros comunitários poderiam promover atividades entre gerações, já que a rotina moderna costuma separá-las.",
+      "O etarismo precisa ser combatido como qualquer outro preconceito: tratar o idoso como incapaz ou o jovem como irresponsável impede o diálogo.",
+      "Posição crítica: conflitos entre gerações são naturais e até necessários para a renovação da sociedade; o desafio não é eliminá-los, mas transformá-los em diálogo respeitoso."
+    ],
+    "repertoire": [
+      {
+        "ref": "Estatuto da Pessoa Idosa (Lei nº 10.741/2003, chamado Estatuto do Idoso até a Lei nº 14.423/2022)",
+        "how": "Estabelece direitos das pessoas com 60 anos ou mais e atribui à família, à comunidade, à sociedade e ao poder público o dever de protegê-las; mostra que o respeito aos idosos é também uma obrigação legal."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 230",
+        "how": "Determina que a família, a sociedade e o Estado amparem as pessoas idosas e assegurem sua participação na comunidade; serve para defender iniciativas que aproximem os idosos da vida coletiva."
+      },
+      {
+        "ref": "Filme “Central do Brasil” (1998), de Walter Salles",
+        "how": "A relação entre Dora, uma professora aposentada, e o menino Josué mostra como o convívio entre pessoas de gerações diferentes pode transformar os dois lados."
+      },
+      {
+        "ref": "Animação “Up: altas aventuras” (2009), da Pixar",
+        "how": "A amizade entre o idoso Carl e o garoto Russell ilustra, de forma acessível, o aprendizado mútuo entre gerações."
+      }
+    ],
+    "pitfalls": [
+      "Falar apenas dos direitos dos idosos, esquecendo que o tema pede convivência e aprendizado nas duas direções.",
+      "Reforçar estereótipos, como o do idoso frágil e ultrapassado ou o do jovem irresponsável e viciado em celular.",
+      "Contar a história da própria família sem transformar a experiência em argumento."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "paz-06",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "É possível manter o diálogo e a amizade quando as opiniões políticas nos dividem?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a convivência entre pessoas com opiniões políticas diferentes e os efeitos da polarização nas relações pessoais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O almoço de domingo",
+        "body_html": "<p>Na família de Sofia, o almoço de domingo sempre foi barulhento, cheio de piadas e de histórias repetidas. Nos últimos anos, porém, bastava alguém mencionar uma notícia para que a mesa se dividisse. O tio deixou de frequentar os encontros, e o grupo da família no celular virou um campo de batalha.</p><p>Sofia, que tem 15 anos, decidiu propor uma regra: todos poderiam falar de política, mas sem interromper, sem gritar e sem ofender. A primeira tentativa durou dez minutos. A segunda, quase meia hora. O tio ainda não voltou, mas mandou uma mensagem perguntando quando seria o próximo almoço.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Adversário ou inimigo?",
+        "body_html": "<p>Fala-se em polarização quando uma sociedade se divide em grupos que não apenas discordam, mas passam a enxergar o outro lado como inimigo. Nesse cenário, quem pensa diferente deixa de ser visto como alguém com outras ideias e passa a ser tratado como alguém de mau caráter.</p><p>A divergência de opiniões faz parte da democracia, que pressupõe a convivência entre visões diferentes sobre como organizar a vida em comum. O problema começa quando a discordância se transforma em desprezo, e o debate de ideias dá lugar a ataques pessoais, rompimentos e, em casos extremos, violência.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O que dizem",
+        "body_html": "<p>“Não consigo ser amigo de quem defende ideias que ferem os direitos das pessoas. Tem coisa que não é só opinião.” <i>(Estudante universitário)</i></p><p>“Meu melhor amigo vota diferente de mim desde sempre. A gente discute, mas o que nos une é maior.” <i>(Aposentado)</i></p><p>“Evito o assunto. Prefiro manter a paz a ganhar uma discussão.” <i>(Estudante do ensino médio)</i></p><p>“Fugir do assunto também é um problema: se ninguém conversa, cada um fica mais convencido de que só ele está certo.” <i>(Professora de Filosofia)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre discordar de alguém e desrespeitar essa pessoa?",
+      "Existe algum limite para o que pode ser tolerado em nome da diversidade de opiniões?",
+      "Evitar falar de política é uma boa estratégia para preservar as relações?",
+      "Que atitudes tornam possível um diálogo produtivo entre pessoas que pensam diferente?",
+      "De que forma as redes sociais podem aprofundar ou suavizar essas divisões?"
+    ],
+    "argument_paths": [
+      "Sim, é possível: a democracia depende da convivência entre opiniões diferentes, e o diálogo respeitoso, com escuta e argumentos, permite discordar sem romper os laços.",
+      "É possível, mas há limites: opiniões que negam direitos humanos ou incentivam a violência não são simples divergências, e afastar-se delas pode ser legítimo.",
+      "O afastamento não resolve: evitar o assunto ou romper amizades aprofunda as bolhas e reforça a ideia de que o outro lado é inimigo.",
+      "A escola tem papel central: ensinar a argumentar, a checar informações e a debater com respeito prepara os jovens para conviver com a diferença."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 1º, V (o pluralismo político como fundamento da República)",
+        "how": "Mostrar que a diversidade de opiniões políticas não é um defeito, mas um princípio da democracia brasileira."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, IV (livre manifestação do pensamento, vedado o anonimato)",
+        "how": "Lembrar que todos podem expressar suas ideias, mas assumindo a responsabilidade pelo que dizem."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), art. 19",
+        "how": "Garante a liberdade de opinião e de expressão, incluindo o direito de ter opiniões sem sofrer interferência; útil para defender que pensar diferente é legítimo e que ninguém deve ser perseguido por suas opiniões."
+      },
+      {
+        "ref": "Livro “Pedagogia do oprimido”, de Paulo Freire",
+        "how": "Freire trata o diálogo como base das relações humanas e da educação; o conceito ajuda a argumentar que conversar exige humildade e disposição para escutar."
+      }
+    ],
+    "pitfalls": [
+      "Defender um partido, um candidato ou uma ideologia, em vez de discutir a convivência entre opiniões diferentes.",
+      "Responder apenas “sim” ou “não”, sem considerar os limites do diálogo nem as condições para que ele aconteça.",
+      "Tratar o tema só como um problema das redes sociais, esquecendo as relações familiares e de amizade."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "paz-07",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Como acolher, na escola e na comunidade, os imigrantes e refugiados que chegam ao Brasil em busca de uma nova vida?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a chegada de imigrantes e refugiados ao Brasil e os desafios de acolhê-los. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Imigrantes e refugiados",
+        "body_html": "<p>Imigrante é quem vem de outro país para viver em um novo lugar, por motivos variados, como trabalho, estudo ou reencontro com a família. Refugiado é quem foi obrigado a deixar seu país por sofrer perseguição (por causa de raça, religião, nacionalidade, grupo social ou opinião política) ou por causa de grave e generalizada violação de direitos humanos, como ocorre em muitas guerras, e não pode voltar em segurança.</p><p>O Brasil tem uma longa história de imigração e, nas últimas décadas, recebeu pessoas vindas de países como Venezuela, Haiti, Síria e Afeganistão. Ao chegar, muitas enfrentam dificuldades com o idioma, com a documentação, com o reconhecimento de diplomas e com o preconceito.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A aluna nova",
+        "body_html": "<p>Valentina chegou à turma do 8º ano em agosto, vinda de Caracas. Falava pouco português e, nas primeiras semanas, passava o intervalo sozinha. Alguns colegas imitavam seu sotaque; outros simplesmente não sabiam como puxar conversa.</p><p>Tudo começou a mudar quando a professora de Geografia pediu que ela apresentasse sua cidade natal. Valentina mostrou fotos, ensinou algumas palavras em espanhol e levou arepas para a turma provar. Dias depois, um colega pediu ajuda para a prova de Espanhol, e ela pediu ajuda com as regras de acentuação. No fim do ano, foi eleita representante da turma.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Vozes sobre o acolhimento",
+        "body_html": "<p>“Se o país ainda tem desemprego, primeiro deveria cuidar dos brasileiros.” <i>(Comentário em uma rede social)</i></p><p>“Meu avô chegou aqui sem nada e sem falar uma palavra de português. Esquecer isso é esquecer a nossa própria história.” <i>(Comerciante)</i></p><p>“Acolher não é só abrir a fronteira. É garantir escola, trabalho, documentos e respeito.” <i>(Voluntária de uma organização de apoio a migrantes)</i></p><p>“A gente aprende muito com quem vem de fora: outra comida, outra música, outro jeito de ver o mundo.” <i>(Estudante do 9º ano)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que tantas pessoas deixam seus países, muitas vezes de forma forçada?",
+      "Que dificuldades um imigrante ou refugiado enfrenta ao chegar a um país novo?",
+      "Onde termina a preocupação legítima com o emprego e começa a xenofobia?",
+      "Qual pode ser o papel da escola e dos colegas no acolhimento de estudantes estrangeiros?"
+    ],
+    "argument_paths": [
+      "O acolhimento é um dever humanitário e legal: o Brasil assumiu compromissos com os direitos humanos e com a proteção de refugiados, e deve cumpri-los com políticas de documentação, ensino do idioma e acesso ao trabalho.",
+      "A escola é a porta de entrada da integração: o ensino de português, a valorização da cultura de origem e o combate à xenofobia entre colegas ajudam famílias inteiras a se integrarem.",
+      "A diversidade trazida pelos imigrantes enriquece o país, como mostra a própria formação histórica do Brasil, construída também por povos vindos de fora.",
+      "Posição que reconhece desafios: o acolhimento exige planejamento e investimento público, para que a chegada de migrantes não sobrecarregue os serviços e não alimente conflitos com a população local."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei de Migração (Lei nº 13.445/2017)",
+        "how": "Entre seus princípios estão o repúdio à xenofobia e a acolhida humanitária; serve para mostrar que o acolhimento é uma política prevista em lei."
+      },
+      {
+        "ref": "Lei nº 9.474/1997, que define mecanismos para a implementação do Estatuto dos Refugiados de 1951",
+        "how": "Define quem é reconhecido como refugiado no Brasil e criou o Comitê Nacional para os Refugiados (Conare); ajuda a diferenciar refugiados de outros migrantes."
+      },
+      {
+        "ref": "Declaração Universal dos Direitos Humanos (1948), art. 14",
+        "how": "Afirma que toda pessoa vítima de perseguição tem o direito de procurar e de gozar asilo em outros países."
+      },
+      {
+        "ref": "A chegada do navio Kasato Maru ao porto de Santos, em 1908, marco do início da imigração japonesa para o Brasil",
+        "how": "Exemplo histórico de que o país foi formado também por imigrantes, que enfrentaram dificuldades de idioma e de adaptação semelhantes às de hoje."
+      }
+    ],
+    "pitfalls": [
+      "Tratar imigrantes e refugiados como se fossem a mesma coisa, ou como um grupo único e sem diferenças.",
+      "Fazer um texto apenas emotivo, sem propor caminhos concretos de acolhimento na escola e na comunidade.",
+      "Discutir somente a política de fronteiras de outros países, afastando-se da realidade brasileira."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "paz-08",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Caminhos para construir uma cultura de paz em comunidades marcadas pela violência.",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, os efeitos da violência urbana sobre crianças e jovens e as possibilidades de construir uma cultura de paz. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Paz não é só ausência de guerra",
+        "body_html": "<p>A expressão cultura de paz ganhou força a partir de documentos da Organização das Nações Unidas no fim da década de 1990. A ideia central é que a paz não significa apenas a ausência de guerras ou de tiroteios, mas um conjunto de valores, atitudes e comportamentos que rejeitam a violência e buscam resolver os conflitos pelo diálogo.</p><p>Nessa perspectiva, a paz se constrói no dia a dia: na forma como uma família resolve suas brigas, como uma escola trata seus alunos, como o poder público garante direitos e como uma comunidade ocupa seus espaços de lazer e de cultura.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quarta-feira sem aula",
+        "body_html": "<p>Na quarta-feira, o grupo de mensagens da turma de Jonas acordou cedo: “Hoje não tem aula, a escola não vai abrir.” Não era feriado. Durante a madrugada, houve tiroteio na comunidade, e as ruas ainda estavam tensas.</p><p>Jonas, de 14 anos, passou o dia em casa, com a janela fechada. À tarde, recebeu uma mensagem do professor do projeto de música do bairro, avisando que o ensaio de sexta-feira estava mantido. Jonas respondeu com um polegar para cima. Era a primeira notícia boa da semana, e ele sabia que muitos colegas pensavam o mesmo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Diferentes caminhos",
+        "body_html": "<p>“Não existe paz sem segurança. É preciso policiamento e presença firme do Estado.” <i>(Morador de um bairro da periferia)</i></p><p>“Segurança não é só polícia. É escola funcionando, posto de saúde aberto, quadra iluminada e emprego para os jovens.” <i>(Líder comunitária)</i></p><p>“Quando um adolescente tem um lugar para tocar, dançar ou treinar, ele passa a ter outras referências.” <i>(Professor de um projeto social)</i></p><p>“Projetos ajudam, mas não podem ocupar o lugar de políticas públicas permanentes.” <i>(Pesquisadora da área de segurança pública)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "De que maneira a violência afeta o direito de crianças e adolescentes à educação, ao lazer e à saúde?",
+      "Construir a paz é tarefa apenas do poder público ou também da comunidade, da escola e da família?",
+      "Qual é o papel da cultura, do esporte e da arte na vida de jovens que convivem com a violência?",
+      "Segurança pública e políticas sociais são caminhos opostos ou complementares?"
+    ],
+    "argument_paths": [
+      "A paz depende da presença do Estado com direitos, e não apenas com força: escolas, saúde, lazer e oportunidades de trabalho reduzem a vulnerabilidade dos jovens.",
+      "Cultura, esporte e arte oferecem aos jovens pertencimento e novas referências, funcionando como alternativas concretas à violência.",
+      "A segurança pública é condição para todo o resto: sem proteção à vida, escolas fecham e projetos não funcionam; mas ela precisa respeitar os direitos dos moradores.",
+      "A cultura de paz começa nas relações cotidianas: a mediação de conflitos nas escolas e nas famílias ensina que as divergências podem ser resolvidas sem violência."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 227",
+        "how": "Determina que a família, a sociedade e o Estado assegurem à criança, ao adolescente e ao jovem, com absoluta prioridade, direitos como a vida, a educação, o lazer e a convivência comunitária, colocando-os a salvo de toda forma de violência."
+      },
+      {
+        "ref": "Declaração e Programa de Ação sobre uma Cultura de Paz, aprovados pela Assembleia Geral da ONU em 1999",
+        "how": "Define a cultura de paz como um conjunto de valores, atitudes e comportamentos que rejeitam a violência; útil para mostrar que a paz é uma construção cotidiana, e não apenas a ausência de conflito."
+      },
+      {
+        "ref": "Filme “Cidade de Deus” (2002), de Fernando Meirelles e Kátia Lund",
+        "how": "Retrata como crianças e jovens de uma comunidade do Rio de Janeiro são envolvidos pela violência; o personagem Buscapé, que encontra na fotografia outro caminho, pode ilustrar o papel da arte e das oportunidades."
+      }
+    ],
+    "pitfalls": [
+      "Descrever a violência de forma genérica, sem apontar caminhos para a construção da paz, que é o foco do tema.",
+      "Culpar os moradores das comunidades, reforçando estigmas contra quem vive nesses lugares e é a principal vítima da violência.",
+      "Propor soluções vagas, como “acabar com a violência”, sem indicar quem deve agir e de que forma."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "paz-09",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Colocar-se no lugar do outro: a empatia pode ser aprendida?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a empatia, suas origens e as formas de desenvolvê-la ao longo da vida. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Sentir com o outro",
+        "body_html": "<p>Empatia é a capacidade de compreender o que outra pessoa sente e pensa, imaginando como seria estar em seu lugar. Ela é diferente da pena, em que olhamos o outro de cima, e também da simples concordância: é possível ter empatia por alguém de quem discordamos.</p><p>Há quem acredite que a empatia é um traço de personalidade, que algumas pessoas têm e outras não. Outros defendem que ela pode ser desenvolvida, assim como aprendemos a ler ou a praticar um esporte: com exemplos, convivência, conversas e contato com experiências diferentes das nossas.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O livro do bimestre",
+        "body_html": "<p>A professora de Língua Portuguesa pediu que a turma lesse um romance narrado por um menino que sofria preconceito por causa da aparência. Bruno achou que seria só mais um livro obrigatório.</p><p>Na roda de conversa, porém, ele surpreendeu os colegas ao contar que tinha ficado incomodado com as cenas em que o personagem era deixado sozinho no refeitório. “Eu já fiz isso com um menino da outra turma”, admitiu. Ninguém disse nada por alguns segundos. Na semana seguinte, alguns alunos viram Bruno sentado ao lado desse menino no intervalo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Nasce com a gente?",
+        "body_html": "<p>“Não dá para obrigar ninguém a se importar com os outros. Ou a pessoa tem empatia, ou não tem.” <i>(Estudante do 9º ano)</i></p><p>“Criança aprende a se importar vendo os adultos se importarem.” <i>(Mãe de três filhos)</i></p><p>“A escola pode até ensinar sobre empatia, mas o que muda as pessoas é conviver de verdade com quem é diferente.” <i>(Coordenador pedagógico)</i></p><p>“Empatia sozinha não basta. Às vezes a gente sente muito pelo outro e continua sem fazer nada.” <i>(Estudante do ensino médio)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "A empatia é uma característica com que nascemos ou uma habilidade que se desenvolve?",
+      "Que experiências ajudam uma pessoa a se colocar no lugar do outro?",
+      "Qual é o papel da família, da escola, da leitura e da arte nesse aprendizado?",
+      "Sentir empatia é suficiente ou ela precisa se transformar em atitude?"
+    ],
+    "argument_paths": [
+      "A empatia pode ser aprendida: o exemplo dos adultos, a convivência com a diversidade e as conversas sobre sentimentos desenvolvem essa capacidade desde a infância.",
+      "A literatura e a arte são escolas de empatia, pois permitem viver, pela imaginação, experiências muito diferentes das nossas.",
+      "Posição intermediária: todos nascem com alguma capacidade de empatia, mas ela se fortalece ou se enfraquece conforme o ambiente; por isso, família e escola têm papel decisivo.",
+      "Empatia não basta: sentimentos variam e costumam favorecer quem é parecido conosco; a convivência justa também exige respeito a direitos e a regras que valem para todos."
+    ],
+    "repertoire": [
+      {
+        "ref": "Base Nacional Comum Curricular (BNCC), competência geral 9",
+        "how": "Propõe que os estudantes exercitem a empatia, o diálogo, a resolução de conflitos e a cooperação; mostra que a empatia é tratada como algo que a escola deve ajudar a desenvolver."
+      },
+      {
+        "ref": "Livro “Extraordinário” (2012), de R. J. Palacio",
+        "how": "A história de Auggie, menino com uma diferença facial que passa a frequentar a escola pela primeira vez no 5º ano, mostra como os colegas podem aprender a enxergá-lo além da aparência."
+      },
+      {
+        "ref": "Livro “Quarto de despejo: diário de uma favelada” (1960), de Carolina Maria de Jesus",
+        "how": "O diário da autora, que vivia na favela do Canindé, em São Paulo, permite ao leitor conhecer por dentro a experiência da fome e da exclusão; exemplo do poder da leitura de aproximar realidades distantes."
+      }
+    ],
+    "pitfalls": [
+      "Definir empatia e parar aí, sem responder se ela pode ou não ser aprendida.",
+      "Confundir empatia com pena, com simpatia ou com concordância com as ideias do outro.",
+      "Reduzir o tema às redes sociais, esquecendo a família, a escola e a convivência presencial."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "paz-10",
+    "axis": "paz",
+    "axis_label": "Convivência, empatia e cultura de paz",
+    "theme": "Rivalidade sem violência: como fazer do futebol um espaço de convivência pacífica entre torcedores?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a rivalidade no futebol e a violência entre torcedores. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Paixão e rivalidade",
+        "body_html": "<p>O futebol é uma das maiores paixões dos brasileiros. Ele reúne famílias diante da televisão, faz desconhecidos se abraçarem na arquibancada e alimenta conversas na escola durante a semana inteira. A rivalidade entre clubes faz parte dessa paixão: sem o adversário, o clássico não teria graça.</p><p>Às vezes, porém, a rivalidade ultrapassa o campo. Brigas entre torcidas, emboscadas nas ruas e agressões a quem veste a camisa do time adversário já provocaram mortes no país. Em algumas ocasiões, autoridades chegaram a determinar que clássicos fossem disputados com torcida única, medida que divide opiniões.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A camisa no ônibus",
+        "body_html": "<p>Depois do clássico, Gabriel, de 14 anos, voltava para casa com o pai. Os dois vestiam a camisa do time que tinha vencido. No ônibus, um grupo de torcedores adversários entrou cantando e começou a provocar os passageiros. O pai pediu que Gabriel ficasse quieto e, discretamente, os dois vestiram o casaco por cima da camisa.</p><p>Em casa, Gabriel perguntou por que tinham precisado se esconder, se não tinham feito nada de errado. O pai demorou a responder. “Porque, às vezes, torcer virou motivo para briga”, disse. “E eu prefiro chegar em casa com você a ter razão.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p>“Torcida única é admitir que não se consegue garantir a segurança. O clássico perde a graça.” <i>(Torcedor que frequenta estádios há 30 anos)</i></p><p>“Enquanto houver mortes, qualquer medida que proteja vidas é válida.” <i>(Mãe de um jovem torcedor)</i></p><p>“A maioria dos integrantes das torcidas organizadas vai ao estádio para fazer festa, não para brigar. Não dá para punir todos pelo erro de alguns.” <i>(Integrante de torcida organizada)</i></p><p>“Clubes, jogadores e dirigentes também precisam dar o exemplo, em vez de alimentar o clima de guerra.” <i>(Jornalista esportiva)</i></p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Onde termina a rivalidade saudável e onde começa a violência?",
+      "Quem tem responsabilidade pela paz no futebol: torcedores, clubes, torcidas organizadas, imprensa ou poder público?",
+      "Medidas como a torcida única resolvem o problema ou apenas o afastam dos estádios?",
+      "O que o esporte pode ensinar sobre respeito ao adversário?"
+    ],
+    "argument_paths": [
+      "A violência precisa ser enfrentada com responsabilização individual: identificar e punir os agressores é mais justo e eficaz do que restringir a presença de todos os torcedores.",
+      "Medidas restritivas, como a torcida única, são aceitáveis enquanto houver risco à vida, ainda que tenham um custo para a festa do futebol.",
+      "Clubes, jogadores, dirigentes e imprensa influenciam o clima dos jogos e devem promover o respeito ao adversário, evitando discursos que tratam a rivalidade como guerra.",
+      "A educação esportiva começa cedo: nas escolas e nas famílias, é possível ensinar que o adversário é necessário para que o jogo exista, e não um inimigo."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 217",
+        "how": "Estabelece o dever do Estado de fomentar práticas desportivas como direito de cada um; serve para defender que todos possam viver o esporte com segurança."
+      },
+      {
+        "ref": "Lei Geral do Esporte (Lei nº 14.597/2023), que substituiu o antigo Estatuto de Defesa do Torcedor (Lei nº 10.671/2003), art. 201",
+        "how": "Prevê pena de reclusão de 1 a 2 anos, e multa, para quem promove tumulto ou pratica ou incita a violência em eventos esportivos, inclusive nos arredores do estádio e no trajeto de ida e volta, e para quem participa de brigas de torcidas; mostra que a violência no futebol é crime, e não parte da rivalidade."
+      },
+      {
+        "ref": "Crônicas esportivas de Nelson Rodrigues, reunidas em livros como “À sombra das chuteiras imortais”",
+        "how": "Mostram como a rivalidade entre clubes, como a do Fla-Flu, pode ser vivida com paixão, humor e imaginação, como espetáculo e não como guerra."
+      }
+    ],
+    "pitfalls": [
+      "Falar de futebol em geral (história, ídolos, Copa do Mundo) sem discutir a violência entre torcedores.",
+      "Generalizar, culpando todos os torcedores organizados, sem distinguir quem comete a violência.",
+      "Apontar uma única solução sem discutir quem deve colocá-la em prática e quais são os seus limites."
+    ],
+    "difficulty": 1
+  }
+]

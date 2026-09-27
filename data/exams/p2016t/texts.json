@@ -1,0 +1,114 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto I",
+    "title": null,
+    "subtitle": null,
+    "author": "Amyr Klink",
+    "kind": "prosa",
+    "numbering": "none",
+    "lines": [
+      "Um homem precisa viajar. Por sua conta, não por meio de histórias, imagens, livros ou TV.",
+      "Precisa viajar por si, com seus olhos e pés, para entender o que é seu. Para um dia plantar as",
+      "suas próprias árvores e dar-lhes valor. Conhecer o frio para desfrutar o calor. E o oposto. Sentir a",
+      "distância e o desabrigo para estar bem sob o próprio teto. Um homem precisa viajar para lugares",
+      "que não conhece para quebrar essa arrogância que nos faz ver o mundo como o imaginamos, e",
+      "não simplesmente como é ou pode ser. Que nos faz professores e doutores do que não vimos,",
+      "quando deveríamos ser alunos, e simplesmente ir ver."
+    ],
+    "para_starts": [
+      1
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "(<b>Amyr Klink</b>, navegador brasileiro. In: http://educacao.estadao.com.br/blogs/blog-da-tissen/um-homem-precisa-viajar-texto-de-amyr-klink-4/. Acesso em 03/10/2016)",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto II",
+    "title": "A Verdadeira Arte de Viajar",
+    "subtitle": null,
+    "author": "Mário Quintana",
+    "kind": "poema",
+    "numbering": "none",
+    "lines": [
+      "A gente sempre deve sair à rua como quem foge de casa,",
+      "Como se estivessem abertos diante de nós todos os caminhos do mundo.",
+      "Não importa que os compromissos, as obrigações, estejam ali…",
+      "Chegamos de muito longe, de alma aberta e o coração cantando!"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "(Fonte: http://www.casadobruxo.com.br/poesia/m/verdadeira.htm. Acesso em 03/10/2016)",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto III",
+    "title": null,
+    "subtitle": null,
+    "author": "Fernando Pessoa",
+    "kind": "prosa",
+    "numbering": "none",
+    "lines": [
+      "Viajar? Para viajar basta existir. Vou de dia para dia, como de estação para estação, no",
+      "comboio<sup>1</sup> do meu corpo, ou do meu destino, debruçado sobre as ruas e as praças, sobre os",
+      "gestos e os rostos, sempre iguais e sempre diferentes, como, afinal, as paisagens são.",
+      "Se imagino, vejo. Que mais faço eu se viajo? Só a fraqueza extrema da imaginação justifica",
+      "que se tenha que deslocar para sentir.",
+      "“Qualquer estrada, esta mesma estrada de Entepfuhl, te levará até ao fim do mundo”<sup>2</sup>. Mas o",
+      "fim do mundo, desde que o mundo se consumou dando-lhe a volta, é o mesmo Entepfuhl de onde",
+      "se partiu. Na realidade, o fim do mundo, como o princípio, é o nosso conceito do mundo. É em nós",
+      "que as paisagens têm paisagem. Por isso, se as imagino, as crio; se as crio, são; se são, vejo-as",
+      "como às outras. Para que viajar? Em Madrid, em Berlim, na Pérsia, na China, nos Polos ambos,",
+      "onde estaria eu senão em mim mesmo, e no tipo e gênero das minhas sensações?",
+      "A vida é o que fazemos dela. As viagens são os viajantes. O que vemos não é o que vemos,",
+      "senão o que somos."
+    ],
+    "para_starts": [
+      1,
+      4,
+      6,
+      12
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "(Fernando Pessoa. In: SOARES,B.<b><i>Livro do Desassossego</i></b>. Vol.II. Lisboa:Ática,1982.p.387.Com adaptações.)",
+    "glossary": [
+      {
+        "term": "comboio",
+        "def": "trem"
+      },
+      {
+        "term": "“Qualquer estrada, esta mesma estrada de Entepfuhl, te levará até ao fim do mundo”",
+        "def": "Citação do autor escocês Carlyle sobre a estrada de Entepfuhl, que começa e termina dentro da mesma cidade."
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T4",
+    "label": "Texto IV",
+    "title": null,
+    "subtitle": null,
+    "author": null,
+    "kind": "tirinha",
+    "numbering": "none",
+    "lines": [],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [
+      {
+        "src": "img/p2016t/pt-t4.png",
+        "alt": "Tirinha da Mafalda em 2 quadros, sem título. Quadro 1: a família chega de viagem. O pai de Mafalda, sorridente e animado, gira a chave na fechadura e abre a porta de casa; atrás dele estão a mãe, com o filho bebê no colo, e Mafalda, de quem só aparece a cabeça. O pai diz: \"PAH!.... A GENTE VOLTA DAS FÉRIAS SE SENTINDO OUTRO!\" Quadro 2: já dentro de casa, a mãe, com o bebê no colo, e o pai, agora com expressão séria e desanimada, estão de pé ao lado de uma mala. Mafalda está sentada no chão, no meio de várias cartas e envelopes espalhados que chegaram durante as férias, lendo um deles, e diz ao pai: \"VEJA VOCÊ, E ESSES INGÊNUOS CONTINUAM MANDANDO CONTAS EM NOME DE QUEM VOCÊ ERA ANTES!\""
+      }
+    ],
+    "source": "(Fonte: https://dandoumgiroblog.wordpress.com/tag/mafalda. Acesso em 03/10/2016)",
+    "glossary": [],
+    "epigraph": null
+  }
+]

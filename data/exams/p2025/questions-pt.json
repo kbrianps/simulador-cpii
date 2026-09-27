@@ -1,0 +1,291 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma reportagem, gênero jornalístico no qual há a presença de fatos e opiniões acerca do tema abordado.</p><p>Uma opinião da autora está presente em:</p>",
+    "options": {
+      "A": "“Há problemas inclusive no modo como se alimentam, pondo em xeque o futuro de toda uma geração” (subtítulo)",
+      "B": "“os efeitos sobre a dieta abrem caminho para o ganho de peso e um rol de doenças crônicas, diagnosticadas cada vez mais precocemente [...]” (linhas 23-25)",
+      "C": "“Colégios dentro e fora do Brasil já começam a debater o tema com os pais e a restringir o acesso aos aparelhos [...]” (linhas 30-31)",
+      "D": "“[...] Expostos de forma intensiva às telas brilhantes a poucos centímetros do rosto, muitos jovens começaram a apresentar olho seco e miopia.” (linhas 34-35)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.fato_opiniao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Fato</b> é o que pode ser comprovado: uma pesquisa, um número, um acontecimento. <b>Opinião</b> é um julgamento, uma avaliação pessoal de quem escreve.</p><p>Veja o subtítulo: “Há problemas inclusive no modo como se alimentam, <b>pondo em xeque o futuro de toda uma geração</b>”. Dizer que o futuro de <i>toda uma geração</i> está “em xeque” (ameaçado) é uma avaliação da autora: ela interpreta os dados, generaliza e usa um tom dramático para chamar a atenção. Não há como comprovar isso; é a conclusão pessoal dela.</p><p>As outras alternativas relatam informações apoiadas em pesquisas ou em acontecimentos observáveis: os efeitos da dieta ligados ao estudo da UFSC (linhas 23-25), escolas debatendo o tema (linhas 30-31) e jovens com olho seco e miopia (linhas 34-35).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Parece uma avaliação, mas é uma informação apoiada na pesquisa da UFSC (linhas 18-22) e na fala do pediatra: dieta ruim e sedentarismo levam ao ganho de peso, algo que a medicina comprova.",
+      "C": "É um fato: relata algo que está acontecendo e pode ser verificado (colégios debatendo e restringindo os celulares), sem julgamento da autora.",
+      "D": "Também é fato: descreve sintomas observados nos jovens (olho seco e miopia), algo que pode ser constatado por médicos."
+    },
+    "tip": "Para achar a opinião, procure o julgamento ou a generalização que não dá para comprovar (como “pondo em xeque o futuro de toda uma geração”); dados, pesquisas e acontecimentos são fatos."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No primeiro parágrafo do Texto 1, faz-se uma comparação entre a infância do passado e do presente:</p><blockquote><p>“Em um passado não tão distante, os mais novos se divertiam correndo em casa, na escola e na praça, e davam asas à imaginação para bolar brincadeiras com os amigos de carne e osso. No avançar da segunda década do século XXI, no entanto, crianças e adolescentes estão cada vez mais hipnotizados pelas telas dos celulares, tornando-se alheios à vida real e expondo-se, sem querer ou saber, a problemas comportamentais, emocionais e físicos. [...]” (linhas 1-6)</p></blockquote><p>O termo que demarca o contraste entre esses dois períodos é</p>",
+    "options": {
+      "A": "avançar.",
+      "B": "décadas.",
+      "C": "no entanto.",
+      "D": "tornando-se."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O trecho compara dois momentos: o passado (“os mais novos se divertiam correndo em casa, na escola e na praça”, linhas 1-2) e o presente (“crianças e adolescentes estão cada vez mais hipnotizados pelas telas dos celulares”, linhas 3-4).</p><p>A expressão que liga esses dois momentos mostrando que eles se opõem é <b>“no entanto”</b> (linha 3). Ela é uma locução conjuntiva adversativa (vale por uma conjunção), com o mesmo valor de “mas”, “porém” e “contudo”: indica que a ideia seguinte contraria a anterior. Faça o teste: “No avançar da segunda década do século XXI, <b>porém</b>, crianças e adolescentes estão...”. O sentido continua o mesmo.</p><p>As outras palavras não ligam ideias opostas: “avançar” e “décadas” só situam o tempo, e “tornando-se” introduz uma consequência do uso das telas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Avançar” faz parte da expressão de tempo “No avançar da segunda década” (linha 3), que indica quando os fatos acontecem, mas não expressa oposição.",
+      "B": "No trecho aparece “década” (linha 3), um substantivo que só situa o momento histórico. Palavras que indicam tempo não estabelecem, sozinhas, o contraste entre as ideias.",
+      "D": "“Tornando-se” introduz uma consequência do uso das telas (crianças e adolescentes ficam “alheios à vida real”, linha 5), e não um contraste entre passado e presente."
+    },
+    "tip": "“No entanto”, “porém”, “contudo”, “todavia” e “entretanto” são conjunções adversativas: equivalem a “mas” e marcam oposição entre ideias."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Em um passado não tão distante, <b><u>os mais novos</u></b> se divertiam correndo em casa, na escola e na praça [...]” (linhas 1-2)</p></blockquote><p>Identifique o caso em que a parte destacada exerce a mesma função sintática da expressão sublinhada no trecho acima:</p>",
+    "options": {
+      "A": "“[...] “Embora não seja uma relação de causa e efeito, o celular acaba sendo <b><u>um fator de risco</u></b>, porque, quanto maior o tempo de tela, menos atividade física a criança faz, diz o pediatra Mauro Fisberg [...]” (linhas 25-27);",
+      "B": "“Colégios dentro e fora do Brasil já <b><u>começam a debater</u></b> o tema com os pais e a restringir o acesso aos aparelhos – em alguns casos, eles ficam confinados em um armário durante as aulas [...]” (linhas 30-32);",
+      "C": "“Eduardo Jorge Custódio da Silva, <b><u>professor da Universidade do Estado do Rio de Janeiro (Uerj)</u></b>, diz que essa população está enfrentando doenças antigas [...]” (linhas 37-39)",
+      "D": "“Afinal, <b><u>crianças e adolescentes</u></b> precisam de contato genuíno com as atividades que fizeram o ser humano desbravar novos ambientes e emoções [...]” (linhas 43-45)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, descubra a função de “os mais novos”. Pergunte ao verbo: quem “se divertiam correndo”? Resposta: <b>os mais novos</b>. Então a expressão é o <b>sujeito</b> da oração (e o verbo concorda com ela no plural).</p><p>Agora faça a mesma pergunta nas alternativas. Na D: quem “precisam de contato genuíno”? Resposta: <b>crianças e adolescentes</b> (linhas 43-44). É o sujeito do verbo “precisam”, com dois núcleos (sujeito composto).</p><p>Nas outras:</p><ul><li>A: “um fator de risco” vem depois de “acaba sendo” (locução com o verbo de ligação “ser”) e diz o que o celular é: é <b>predicativo do sujeito</b>;</li><li>B: “começam a debater” é o próprio verbo (locução verbal), núcleo do predicado;</li><li>C: “professor da Universidade...” explica quem é Eduardo Jorge, entre vírgulas: é um <b>aposto</b>.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Um fator de risco” atribui uma característica ao sujeito “o celular” por meio de “acaba sendo”, locução com o verbo de ligação “ser”: é predicativo do sujeito, e não sujeito.",
+      "B": "“Começam a debater” é uma locução verbal, ou seja, o verbo da oração. O sujeito dela é “Colégios dentro e fora do Brasil”.",
+      "C": "A expressão entre vírgulas explica quem é Eduardo Jorge Custódio da Silva: é um aposto. O sujeito de “diz” é o nome dele."
+    },
+    "tip": "Para achar o sujeito, pergunte ao verbo “quem?” ou “o quê?”: a resposta, que concorda com o verbo, é o sujeito."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 busca discutir os danos comportamentais, físicos e mentais oriundos da utilização exagerada de dispositivos eletrônicos por crianças e adolescentes.</p><p>De acordo com a autora, a proposta de solução para esses problemas encontra-se</p>",
+    "options": {
+      "A": "na substituição massiva dos celulares por atividades dinâmicas.",
+      "B": "em uma iniciativa das escolas para restringir o acesso aos aparelhos.",
+      "C": "no auxílio psicológico para lidar com sentimentos como tédio e silêncio.",
+      "D": "na retomada de atividades e de vínculos praticados pelas gerações anteriores às telas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A solução aparece no último parágrafo: “Há um consenso de que o caminho para tirar crianças e jovens das garras eletrônicas <b>passa pela reconexão com os pais, os amigos e os espaços coletivos</b>” (linhas 42-43). Logo depois, a autora completa: crianças e adolescentes “precisam de contato genuíno com as atividades que fizeram o ser humano desbravar novos ambientes e emoções” (linhas 44-45).</p><p>“Reconexão” quer dizer conectar-se de novo, ou seja, retomar algo que já existia. E o que existia antes? O primeiro parágrafo responde: “os mais novos se divertiam correndo em casa, na escola e na praça, e davam asas à imaginação para bolar brincadeiras com os amigos de carne e osso” (linhas 1-3). Portanto, a proposta é recuperar as atividades e os vínculos (pais, amigos, espaços coletivos) de antes das telas.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É exagerada: o texto não propõe trocar os celulares de forma “massiva”. A autora diz apenas que “Nem tudo pode ser substituído por uma tela de celular” (linha 46), o que é bem diferente de eliminar os aparelhos.",
+      "B": "A restrição nas escolas aparece no texto (linhas 29-33), mas como algo que alguns colégios “já começam a debater”, uma medida entre outras. A saída que a autora apresenta como consenso é a reconexão com pais, amigos e espaços coletivos.",
+      "C": "O texto não fala em auxílio psicológico. Tédio e silêncio (linhas 45-46) são sentimentos com que as crianças devem aprender a lidar por meio do contato genuíno com a vida real, e não por meio de terapia."
+    },
+    "tip": "Para achar a proposta de solução de um texto, procure no final expressões como “o caminho passa por”, “é preciso” ou “precisam de”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O cordel é um texto poético representativo da cultura popular nordestina, que utiliza uma linguagem simples e bem-humorada para abordar os mais variados temas.</p><p>O objetivo de Bráulio Bessa, com o cordel intitulado “Redes Sociais” (Texto 2), é</p>",
+    "options": {
+      "A": "alertar os jovens sobre os impactos da dependência digital.",
+      "B": "convidar o público a aproveitar mais a vida fora das telas.",
+      "C": "homenagear as redes por serem grandes divulgadoras de sua obra.",
+      "D": "conscientizar seus leitores a respeito de uma vida on-line mais equilibrada."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O objetivo do poema fica claro na última estrofe, quando o próprio poeta explica o que o cordel quer: ele “tem um tom de humor / mas no fundo é um clamor / lhe pedindo pra viver” (versos 61-63). E termina com um convite direto ao leitor: “Viva a vida e o real, / pois a curtida final / ninguém consegue prever” (versos 64-66).</p><p>Ao longo do texto, o poeta brinca com comportamentos das redes (fotografar comida chique, filmar o show inteiro, conversar só por tela) e declara: “Prefiro pessoalmente, / pra mim sempre foi o certo” (versos 45-46). Tudo isso leva ao mesmo ponto: um convite, feito com humor, para que o público aproveite mais a vida real, fora das telas.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O poema não se dirige só aos jovens: fala com “meu povo” (verso 26) e com “você”, de qualquer idade. Além disso, embora mostre exageros, como gente que “esquece de comer” (verso 16), o cordel não tem tom de alerta sobre os danos da dependência digital, que são o foco do Texto 1: ele termina com um convite a viver a vida real.",
+      "C": "O cordel critica, com humor, vários comportamentos nas redes. A menção a receber “um cordel do Bráulio Bessa” (versos 55-56) é uma brincadeira do autor consigo mesmo, e não uma homenagem às redes.",
+      "D": "O poeta não propõe equilibrar a vida on-line: ele pede que o leitor viva “a vida e o real” (verso 64) e diz preferir o contato pessoal (verso 45). O foco é a vida fora das telas."
+    },
+    "tip": "Em poemas, a finalidade costuma estar resumida nos versos finais: releia a última estrofe antes de responder."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O cordel de Braulio Bessa (Texto 2) faz uso recorrente de linguagem conotativa, com presença de diversas figuras de linguagem. Assinale a alternativa que relaciona corretamente o trecho com a figura de linguagem presente nele:</p>",
+    "options": {
+      "A": "“dá pra ter milhões de amigos / e mesmo assim ser carente.” (versos 3 e 4) – paradoxo",
+      "B": "“Celular virou fogão, / pois no toque de um botão” (versos 19 e 20) – personificação",
+      "C": "“pois junta quem tá distante / mas afasta quem tá perto.” (versos 48 e 49) – eufemismo",
+      "D": "“pois a curtida final / ninguém consegue prever.” (versos 65 e 66) – hipérbole"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Paradoxo</b> é a figura que junta, numa mesma afirmação, ideias que parecem impossíveis de acontecer juntas, mas que, pensando bem, fazem sentido. Em “dá pra ter milhões de amigos / e mesmo assim ser carente” (versos 3-4), quem tem milhões de amigos não deveria se sentir sozinho. O paradoxo revela uma verdade das redes: muitos “amigos” virtuais não garantem afeto verdadeiro. A expressão “e mesmo assim” reforça a contradição.</p><p>Nas outras alternativas, a figura indicada não corresponde ao trecho:</p><ul><li>B: “Celular virou fogão” é uma <b>metáfora</b> (o celular faz o papel do fogão, porque por ele se pede comida), e não personificação;</li><li>C: “junta” x “afasta” e “distante” x “perto” formam uma <b>antítese</b>;</li><li>D: “a curtida final” é um jeito suave de falar da morte, um <b>eufemismo</b>.</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Personificação é dar características humanas a seres não humanos, e o celular não age como gente aqui. Dizer que o celular “virou fogão” é uma metáfora: por ele, “o rango vem pra você” (verso 21).",
+      "C": "Eufemismo suaviza uma ideia desagradável, o que não acontece aqui. O trecho opõe palavras de sentido contrário (“junta” x “afasta”, “distante” x “perto”): é uma antítese.",
+      "D": "Não há exagero, então não é hipérbole. “A curtida final” é um modo delicado de se referir à morte: o eufemismo está justamente aqui."
+    },
+    "tip": "Antítese opõe palavras de sentido contrário; paradoxo junta, numa mesma afirmação, ideias que parecem se contradizer (ter milhões de amigos e ser carente)."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O Texto 2 critica, dentre outros comportamentos, o exibicionismo praticado pelos usuários das redes sociais.</p><p>Os versos que exemplificam essa atitude verificada no universo on-line são:</p>",
+    "options": {
+      "A": "“dá pra ter milhões de amigos / e mesmo assim ser carente”. (versos 3 e 4)",
+      "B": "“Tem gente que você segue / mas nunca vai lhe seguir.”. (versos 10 e 11)",
+      "C": "“Se a comida for chique, / vai logo fotografando”. (versos 24 e 25)",
+      "D": "“Mas pra ver no celular / nem precisava ter ido.” (versos 41 e 42)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Exibicionismo</b> é o desejo de se mostrar, de chamar a atenção dos outros para o que se tem ou se faz.</p><p>Em “Se a comida for chique, / vai logo fotografando” (versos 24-25), o poeta descreve quem só fotografa o prato quando ele é sofisticado, ou seja, para impressionar quem vê a postagem. Os versos seguintes confirmam a crítica com humor: “quando é feijão com ovo / não vejo ninguém postando” (versos 27-28). Se a comida simples não aparece, é porque o objetivo é se exibir, e não compartilhar a refeição.</p><p>A mesma crítica aparece em “exibir roupas de marca” (verso 31), mas esse verso não está nas alternativas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Esses versos falam de carência: ter muitos amigos virtuais não impede alguém de se sentir sozinho. Não há ninguém se exibindo.",
+      "B": "O trecho trata da falta de reciprocidade nas redes (seguir alguém que não segue de volta), e não de exibicionismo.",
+      "D": "Aqui a crítica é a quem troca a experiência real pela tela: a pessoa vai ao show só para filmar e acaba não assistindo. O foco é deixar de viver o momento, não se mostrar."
+    },
+    "tip": "Quando a pergunta pede um exemplo de um comportamento, defina a palavra-chave (exibicionismo é querer se mostrar) e procure os versos que combinam exatamente com ela."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Ao longo do Texto 2, o poeta utiliza diversas marcas de interlocução, ou seja, de diálogo com o leitor.</p><p>A alternativa em que ele faz isso por meio de um verbo no imperativo é</p>",
+    "options": {
+      "A": "“Vai logo fotografando” (verso 25)",
+      "B": "“E se você receber” (verso 57)",
+      "C": "“lhe pedindo pra viver.” (verso 63)",
+      "D": "“Viva a vida e o real,” (verso 64)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O <b>imperativo</b> é o modo verbal usado para dar ordens, conselhos, pedidos ou convites, dirigindo-se diretamente a alguém.</p><p>Em “Viva a vida e o real,” (verso 64), o poeta fala com o leitor e o aconselha: (você) <b>viva</b> a vida. “Viva” é o imperativo de <i>viver</i> na forma de “você”, como em “(você) coma” ou “(você) leia”. Esse conselho é justamente o “clamor” anunciado no verso 62.</p><p>Nas outras alternativas não há imperativo:</p><ul><li>A: “vai” está no presente do indicativo e descreve o que certas pessoas fazem (“[a pessoa] vai logo fotografando”);</li><li>B: “receber” está no futuro do subjuntivo, numa condição (“se você receber”);</li><li>C: “pedindo” é gerúndio.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Isolado e com inicial maiúscula, “Vai” até parece uma ordem, mas no poema (verso 25) o verbo está no presente do indicativo e descreve o hábito de quem tem comida chique: “[essa pessoa] vai logo fotografando”. O poeta não manda o leitor fotografar.",
+      "B": "Há diálogo com o leitor (“você”), mas “receber” está no futuro do subjuntivo, dentro de uma condição introduzida por “se”. Não é ordem nem conselho.",
+      "C": "O pronome “lhe” se refere ao leitor, mas “pedindo” é gerúndio, uma forma nominal do verbo, e não imperativo."
+    },
+    "tip": "Para reconhecer o imperativo, veja se a frase dá uma ordem, conselho ou convite ao interlocutor: “Viva a vida” equivale a “eu aconselho que você viva a vida”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>Na tirinha (Texto 3), as duas últimas falas – da mãe – empregam sinal de pontuação diferente das frases do filho.</p><p>Essa diferença é justificada</p>",
+    "options": {
+      "A": "pelo encantamento do filho.",
+      "B": "pela indiferença do filho.",
+      "C": "pela decepção da mãe.",
+      "D": "pela irritação da mãe."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Observe a pontuação das falas. As do filho terminam em <b>ponto de exclamação</b>: “QUE LUGAR LEGAL!”, “AS ÁRVORES SÃO LINDAS!”, “INCRÍVEL!”, “TEM ATÉ UM PARQUINHO COM BRINQUEDOS!”, “AMEI A ESCOLA NOVA, MÃE!”. O ponto de exclamação expressa emoção forte: aqui, a admiração e o entusiasmo do menino, encantado com cada detalhe da escola.</p><p>As falas da mãe terminam em <b>ponto final</b>: “É A MESMA DO ANO PASSADO, FILHO.” e “A DIFERENÇA É QUE ESTE ANO VOCÊ ESTÁ SEM O CELULAR.”. O ponto final dá um tom calmo e objetivo: ela apenas informa, sem emoção especial.</p><p>Portanto, a diferença de pontuação se explica pelo encantamento do filho, que contrasta com a tranquilidade da mãe.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É o contrário: os pontos de exclamação mostram que o filho está entusiasmado. Alguém indiferente não exclamaria “INCRÍVEL!”.",
+      "C": "Nada na tirinha mostra decepção: a mãe apenas explica, com calma, o motivo da “descoberta”. O ponto final marca um tom neutro, informativo.",
+      "D": "Irritação costuma ser marcada justamente com exclamações, e as falas da mãe terminam em ponto final. Ela esclarece a situação de modo tranquilo."
+    },
+    "tip": "O ponto de exclamação marca emoção (surpresa, entusiasmo, raiva); o ponto final, em geral, marca um tom neutro e declarativo."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3",
+      "T1"
+    ],
+    "stem": "<p>O humor da tirinha reside na (re)descoberta que o menino faz de sua escola após a lei federal de proibição dos celulares ter sido implementada nas instituições de ensino.</p><p>A falta de percepção que essa criança tinha, anteriormente, sobre o próprio espaço escolar se explica pelo que é observado neste trecho do Texto 1:</p>",
+    "options": {
+      "A": "“(...) os mais novos se divertiam correndo em casa, na escola e na praça, e davam asas à imaginação para bolar brincadeiras com os amigos de carne e osso”. (linhas 1-2)",
+      "B": "“(...) crianças e adolescentes estão cada vez mais hipnotizados pelas telas dos celulares, tornando-se alheios à vida real”. (linhas 3-5)",
+      "C": "“(...) as atividades dinâmicas e de interação social passaram a ser substituídas pela onipresença das telas, agora representadas pelos populares tablets e smartphones”. (linhas 9-11)",
+      "D": "“Expostos de forma intensiva às telas brilhantes a poucos centímetros do rosto, muitos jovens começaram a apresentar olho seco e miopia”. (linhas 34-35)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "oficial",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na tirinha, o menino “descobre” a própria escola: as árvores, o pátio, o parquinho. Mas, como a mãe revela, a escola é a mesma do ano anterior. Ele só não tinha reparado em nada porque, antes, estava com o celular.</p><p>O trecho do Texto 1 que explica essa falta de atenção é: “crianças e adolescentes estão cada vez mais hipnotizados pelas telas dos celulares, tornando-se <b>alheios à vida real</b>” (linhas 3-5). “Hipnotizado” é quem fica preso a algo e não percebe o resto; “alheio” é quem está distante, desligado do que acontece em volta. É exatamente a situação do menino no ano anterior: ele estava na escola, mas não a enxergava de verdade.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Esse trecho descreve as crianças do passado, que brincavam e ocupavam os espaços reais. Ele lembra o menino deste ano, já sem celular, mas não explica a falta de percepção que ele tinha antes.",
+      "C": "Fala da troca das atividades dinâmicas e de interação pelas telas, uma ideia próxima, mas não trata de perceber ou não o ambiente. A “falta de percepção” da pergunta corresponde a “alheios à vida real”, da alternativa B.",
+      "D": "É uma leitura literal demais: o menino não deixava de ver a escola por causa de miopia ou olho seco, e sim por falta de atenção. A tirinha trata de distração, não de problema de visão."
+    },
+    "tip": "Em questões que relacionam dois textos, identifique a ideia exata que a pergunta pede (aqui, a “falta de percepção”) e procure no outro texto a expressão equivalente (“alheios à vida real”)."
+  }
+]

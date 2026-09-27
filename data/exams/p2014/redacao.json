@@ -1,0 +1,23 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "O Rio de Janeiro ainda pode ser chamado de “cidade maravilhosa”?",
+  "prompt_html": "<p>Em 2015, a cidade do Rio de Janeiro, cantada em prosa e verso por muitos autores, comemorará os 450 anos de sua fundação. Escreva um <b>texto dissertativo-argumentativo</b> em que você responda à seguinte pergunta:</p><p class=\"tema\"><b>O Rio de Janeiro ainda pode ser chamado de “cidade maravilhosa”?</b></p>",
+  "requirements": [
+    "A Redação é de caráter eliminatório e classificatório.",
+    "A resposta à Redação deverá ter a extensão mínima de 20 (vinte) e máxima de 25 (vinte e cinco) linhas para o texto.",
+    "A Redação deverá ser manuscrita, em letra legível, com caneta esferográfica de corpo transparente, de ponta grossa e de tinta azul ou preta, não sendo permitida a interferência e/ou a participação de outras pessoas, salvo em caso de candidato na condição de pessoa com deficiência que esteja impossibilitado de redigir textos, como também no caso de candidato que tenha solicitado atendimento especial para este fim, nos termos do Edital. Nesse caso, o candidato será acompanhado por um fiscal do IDECAN devidamente treinado, para o qual deverá ditar o texto, especificando oralmente a grafia das palavras e os sinais gráficos de pontuação.",
+    "Será desconsiderado, para efeito de avaliação, qualquer fragmento de texto que for escrito fora do local apropriado ou que não atingir a extensão mínima ou ultrapassar a extensão máxima permitida.",
+    "A Redação terá o valor de 10 (dez) pontos.",
+    "Ao desenvolver a proposta escolhida para a produção de texto, é necessário: seguir, atentamente, as instruções da proposta quanto ao tipo de texto solicitado; seguir, atentamente, as instruções da proposta quanto ao tema solicitado; utilizar linguagem de acordo com as normas da língua culta; atentar à questão da coesão e da coerência entre as partes do texto."
+  ],
+  "zero_criteria": [
+    "O candidato receberá nota zero na Redação em casos de não atendimento ao conteúdo avaliado, de não haver texto, de manuscrever em letra ilegível ou de grafar por outro meio que não o determinado, bem como no caso de identificação em local indevido.",
+    "Será atribuído grau zero à redação desenvolvida a partir de um tipo de texto ou de um tema diferentes dos solicitados na proposta."
+  ],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "Na prova, as orientações gerais (sob o título “ORIENTAÇÕES GERAIS”) vêm antes da proposta, em uma única lista; aqui foram separadas em requirements e zero_criteria, na ordem original.",
+    "A proposta não traz textos motivadores próprios; a epígrafe de Mia Couto e os textos da prova tratam da vida na cidade."
+  ]
+}

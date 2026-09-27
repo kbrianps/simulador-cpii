@@ -1,0 +1,22 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "É possível tornar mais empáticas as relações nas redes sociais?",
+  "prompt_html": "<p>Com base nas noções relacionadas ao conceito de empatia presentes nos textos desta prova, escreva um <b>texto dissertativo-argumentativo</b> em que você se posicione em relação à seguinte questão:</p><p class=\"tema\">É possível tornar mais empáticas as relações nas redes sociais?</p>",
+  "requirements": [
+    "conter obrigatoriamente argumentos que sustentem suas opiniões",
+    "ter entre 20 e 25 linhas",
+    "apresentar letra legível e não conter rasuras",
+    "ter, no mínimo, três parágrafos",
+    "estar de acordo com a norma-padrão para a modalidade escrita",
+    "ser em prosa",
+    "estar de acordo com a proposta apresentada",
+    "<b>ser transcrito no local indicado na FOLHA DE TEXTOS DEFINITIVOS</b>"
+  ],
+  "zero_criteria": [],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": [
+    "A lista de exigências vem introduzida por “Seu texto deverá:”; o último item aparece em negrito na prova.",
+    "A prova não traz uma lista de critérios de nota zero."
+  ]
+}

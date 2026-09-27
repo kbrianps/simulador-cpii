@@ -1,0 +1,627 @@
+[
+  {
+    "id": "cul-01",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "De que forma os jovens podem contribuir para a preservação do patrimônio histórico e cultural de suas cidades?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a preservação do patrimônio histórico e cultural das cidades brasileiras e a relação das pessoas com os lugares e as tradições que guardam a memória coletiva. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "O que é patrimônio?",
+        "body_html": "<p>Quando se fala em patrimônio cultural, muita gente pensa apenas em igrejas antigas e palácios. No entanto, a Constituição brasileira reconhece como patrimônio cultural tanto os bens materiais, como edificações, documentos e objetos, quanto os imateriais, como as formas de expressão e os modos de criar, fazer e viver. Festas, danças e saberes tradicionais também fazem parte dessa herança.</p><p>Nessa visão mais ampla, uma praça onde gerações se encontraram, a receita que atravessa uma família ou a roda de música de um bairro também contam a história de um povo. Preservar esses bens não significa congelar a cidade no passado, mas garantir que as próximas gerações saibam de onde vieram e possam decidir, com consciência, o que desejam construir.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "O cinema da esquina",
+        "body_html": "<p>No bairro de Joana, um antigo cinema de rua está fechado há anos. A fachada, com letreiro de metal e detalhes coloridos, aparece em fotos antigas da família dela: foi ali que os avós tiveram o primeiro encontro. Agora, o prédio foi vendido, e corre a notícia de que dará lugar a um estacionamento.</p><p>Na escola, a turma de Joana se divide. Alguns colegas querem criar um abaixo-assinado e uma página na internet contando a história do cinema. Outros acham que o prédio abandonado só atrai sujeira e que um estacionamento seria mais útil. Há ainda quem pergunte: de que adianta salvar a fachada se ninguém mais vai frequentar o lugar?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três olhares",
+        "body_html": "<p><b>Opinião A:</b> Cuidar do patrimônio é tarefa do poder público. Jovens até podem se interessar, mas quem tem recursos e responsabilidade legal para restaurar prédios e proteger acervos são os governos.</p><p><b>Opinião B:</b> Nenhuma lei salva um lugar que a comunidade esqueceu. Quando as pessoas frequentam, fotografam, contam histórias e cobram cuidados, o patrimônio continua vivo.</p><p><b>Opinião C:</b> O problema é que a escola quase nunca apresenta o patrimônio da própria cidade aos estudantes. Ninguém defende aquilo que não conhece.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O que você considera patrimônio na sua cidade ou no seu bairro, além dos prédios históricos?",
+      "Quem deve ser responsável pela preservação: o poder público, a comunidade, a escola ou todos eles? Por quê?",
+      "Que ações concretas estão ao alcance de um estudante da sua idade?",
+      "Como as redes sociais e as tecnologias digitais podem ajudar ou atrapalhar a preservação da memória?",
+      "Preservar significa impedir qualquer mudança na cidade?"
+    ],
+    "argument_paths": [
+      "Os jovens contribuem sobretudo ao conhecer e frequentar o patrimônio: visitas, pesquisas escolares e registros digitais criam vínculo, e só se defende aquilo que se valoriza.",
+      "A participação juvenil é importante, mas limitada: sem investimento público e fiscalização, iniciativas de estudantes não impedem demolições nem incêndios; por isso, o papel central dos jovens é cobrar ações das autoridades.",
+      "A escola é a ponte entre jovens e patrimônio: projetos de educação patrimonial, como mapear a história do bairro ou entrevistar moradores antigos, transformam a memória local em conhecimento.",
+      "Preservar não é congelar: os jovens podem ajudar a dar novos usos a espaços antigos, como centros culturais, bibliotecas e ateliês, conciliando memória e necessidades atuais."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 216, caput e § 1º",
+        "how": "Define o patrimônio cultural brasileiro como os bens de natureza material e imaterial ligados à identidade e à memória dos grupos formadores da sociedade, e determina que o poder público, com a colaboração da comunidade, o promova e proteja. Útil para mostrar que a preservação é uma responsabilidade compartilhada, que também inclui os cidadãos."
+      },
+      {
+        "ref": "Incêndio do Museu Nacional, no Rio de Janeiro, em 2 de setembro de 2018",
+        "how": "Exemplo de como a falta de investimento e de prevenção pode destruir, em poucas horas, grande parte de um acervo reunido ao longo de dois séculos. Ajuda a argumentar a favor de vigilância permanente e de uma sociedade que cobre investimento na memória."
+      },
+      {
+        "ref": "Decreto-Lei nº 25/1937",
+        "how": "Organizou a proteção do patrimônio histórico e artístico nacional e instituiu o tombamento no Brasil. Pode mostrar que a preocupação com a memória tem base legal antiga, embora a lei, sozinha, não garanta a preservação."
+      }
+    ],
+    "pitfalls": [
+      "Escrever apenas sobre a importância do patrimônio, sem responder à pergunta central: de que forma os jovens podem contribuir.",
+      "Limitar-se a culpar o governo, sem discutir o papel da juventude, que é o foco do tema.",
+      "Propor soluções vagas, como “conscientizar a população”, sem explicar quem faria o quê e de que maneira."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "cul-02",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "Arte urbana e espaço público: quem deve decidir o que pode ocupar os muros da cidade?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o grafite, a pichação e outras formas de arte urbana, além dos conflitos em torno do uso dos espaços públicos. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Entre a tinta e a lei",
+        "body_html": "<p>O grafite chegou às cidades brasileiras como expressão marginal e, com o tempo, conquistou galerias, festivais e reconhecimento internacional. Hoje, muitos murais coloridos viraram pontos turísticos e chegam a receber apoio de prefeituras e empresas.</p><p>A legislação brasileira faz uma distinção: pichar edificações ou monumentos urbanos é crime previsto na Lei de Crimes Ambientais, enquanto o grafite feito para valorizar o patrimônio, com consentimento do proprietário ou, no caso de bens públicos, com autorização do órgão responsável, não é considerado crime. A fronteira, porém, nem sempre é clara para quem passa na rua. O que para uns é poluição visual, para outros é a voz de quem raramente é ouvido.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Na reunião de condomínio",
+        "body_html": "<p>O muro lateral de um prédio vive pichado. Na reunião de condomínio, surge uma proposta: convidar jovens grafiteiros do bairro para pintar um grande mural.</p><p><b>Sr. Almeida:</b> Pintar de cinza resolve. Mural só chama mais gente para rabiscar por cima.</p><p><b>Carla:</b> Já pintamos de cinza três vezes. Um trabalho bonito costuma ser respeitado, e ainda valoriza a rua.</p><p><b>Tiago, 15 anos:</b> E quem escolhe o desenho? Se for só o que agrada ao condomínio, não é arte de rua, é decoração.</p><p><b>Sr. Almeida:</b> O muro é nosso. Quem paga a tinta decide.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "A cidade como tela",
+        "body_html": "<p>A rua é de todos, mas cada parede tem dono. Essa contradição está no centro do debate sobre a arte urbana. Se só o proprietário decide, a cidade tende a exibir apenas anúncios e muros lisos. Se qualquer pessoa pode intervir em qualquer superfície, o espaço comum vira território de disputa.</p><p>Algumas cidades têm experimentado caminhos intermediários, como muros liberados para artistas, editais públicos para murais e consultas aos moradores. Nenhuma dessas soluções agrada a todos, o que talvez mostre que decidir sobre a paisagem urbana é, também, decidir sobre quem tem o direito de se expressar nela.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Qual é a diferença entre grafite e pichação? Essa diferença é artística, legal ou as duas coisas?",
+      "Quem tem mais direito sobre a paisagem da cidade: o proprietário do imóvel, o poder público, os artistas ou os moradores?",
+      "A arte de rua perde o sentido quando precisa de autorização?",
+      "Que formas de diálogo poderiam conciliar a liberdade de expressão e o respeito à propriedade?"
+    ],
+    "argument_paths": [
+      "A decisão deve ser coletiva: o poder público deve criar editais, muros liberados e consultas aos moradores, equilibrando expressão artística e direito de propriedade.",
+      "Quem decide é o proprietário ou o órgão responsável, como prevê a lei; a arte urbana ganha legitimidade justamente quando é autorizada e dialoga com a comunidade.",
+      "A arte de rua nasceu para dar voz a quem é excluído, e exigir autorização para tudo pode transformá-la em mera decoração; por isso, a cidade deve ampliar os espaços livres, e não apenas punir.",
+      "A pichação, mesmo quando expressa a revolta de grupos marginalizados, causa prejuízos e não pode ser equiparada ao grafite autorizado; o desafio é oferecer alternativas, e não somente repressão."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 9.605/1998 (Lei de Crimes Ambientais), art. 65, com redação dada pela Lei nº 12.408/2011",
+        "how": "Define como crime pichar edificação ou monumento urbano e, no § 2º, esclarece que não constitui crime o grafite feito para valorizar o patrimônio público ou privado, com consentimento do proprietário ou, em bens públicos, com autorização do órgão competente. Mostra que a própria lei distingue intervenção artística autorizada de dano."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, IX",
+        "how": "Garante a livre expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença. Permite discutir se a liberdade artística justifica ocupar qualquer espaço ou se ela convive com outros direitos, como o de propriedade."
+      },
+      {
+        "ref": "OSGEMEOS, dupla de irmãos gêmeos grafiteiros de São Paulo, com obras em diversos países",
+        "how": "Exemplo de artistas que começaram nas ruas e alcançaram reconhecimento internacional. Útil para argumentar que a arte urbana tem valor artístico legítimo e merece espaço na cidade."
+      }
+    ],
+    "pitfalls": [
+      "Discutir apenas se o grafite é ou não arte, sem responder quem deve decidir sobre o uso dos muros.",
+      "Tratar pichação e grafite como a mesma coisa ou, ao contrário, condenar toda arte urbana sem argumentos.",
+      "Defender posições extremas, como “tudo deve ser permitido” ou “tudo deve ser proibido”, sem considerar os interesses em conflito."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cul-03",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "Preconceito contra expressões culturais das periferias: por que ele ainda persiste no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as expressões culturais nascidas nas periferias e nas comunidades populares brasileiras e a forma como elas são vistas pelo restante da sociedade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Da repressão ao reconhecimento",
+        "body_html": "<p>A capoeira, criada por africanos escravizados e seus descendentes, chegou a ser proibida pelo Código Penal de 1890, pouco depois da abolição da escravatura. Rodas de samba também sofreram repressão policial no início do século XX. Com o tempo, as duas manifestações passaram a ser celebradas como símbolos da cultura brasileira, e a roda de capoeira foi reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade.</p><p>Essa trajetória levanta uma pergunta: será que outras expressões que hoje enfrentam desconfiança, como o funk, o rap e o passinho, seguirão o mesmo caminho?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "No intervalo",
+        "body_html": "<p><b>Rafa:</b> A comissão da festa da escola vetou o funk da playlist. Disseram que não combina com o ambiente escolar.</p><p><b>Bia:</b> Mas tem funk sem palavrão, com letra que fala da vida na comunidade. Vetaram tudo?</p><p><b>Rafa:</b> Tudo. E liberaram umas músicas estrangeiras cheias de palavrão, só que em inglês.</p><p><b>Bia:</b> Então o problema não é a letra. É de onde a música vem.</p><p><b>Rafa:</b> Ou quem ouve. Meu primo diz que já foi parado na rua só por estar de boné, ouvindo funk no celular.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Slam na praça",
+        "body_html": "<p>Em muitas cidades brasileiras, praças e estações passaram a receber batalhas de rima e competições de poesia falada, os chamados slams. Neles, jovens apresentam textos autorais sobre racismo, violência, amor, escola e desigualdade, e o público escolhe as melhores apresentações.</p><p>Para quem participa, esses encontros são espaços de criação e de pertencimento. Para parte de quem passa, porém, um grupo de jovens reunido na praça desperta primeiro desconfiança e nem sempre é percebido como manifestação artística. Essa diferença de olhar diz muito sobre quem, no Brasil, é reconhecido como produtor de cultura.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Por que algumas manifestações culturais são consideradas “arte” e outras são vistas com desconfiança?",
+      "Que papel o racismo e a desigualdade social têm nesse preconceito?",
+      "Os meios de comunicação e as redes sociais reforçam ou combatem estereótipos sobre a cultura das periferias?",
+      "Críticas ao conteúdo de algumas letras são sempre preconceito, ou podem ser legítimas?",
+      "Como a escola poderia ajudar a enfrentar esse tipo de preconceito?"
+    ],
+    "argument_paths": [
+      "O preconceito persiste porque está ligado ao racismo e à desigualdade social: o que é produzido por pessoas negras e pobres tende a ser desvalorizado, como aconteceu com o samba e a capoeira no passado.",
+      "A falta de contato alimenta estereótipos: quem nunca foi a um slam ou a um baile conhece essas expressões apenas por notícias negativas, e a escola e a mídia poderiam mudar esse quadro.",
+      "Parte das críticas se dirige ao conteúdo de algumas letras, e não à origem dos artistas; é possível criticar mensagens específicas sem condenar um gênero inteiro nem seus ouvintes.",
+      "O reconhecimento costuma chegar quando a cultura periférica é absorvida pelo mercado e pelas classes médias; o desafio é valorizar essas expressões sem apagar quem as criou."
+    ],
+    "repertoire": [
+      {
+        "ref": "Código Penal de 1890 (Decreto nº 847/1890), capítulo “Dos vadios e capoeiras”",
+        "how": "Mostra que uma expressão cultural afro-brasileira já foi tratada como caso de polícia antes de ser reconhecida como símbolo nacional. Útil para argumentar que o preconceito atual repete um padrão histórico."
+      },
+      {
+        "ref": "Reconhecimento da roda de capoeira como Patrimônio Cultural Imaterial da Humanidade pela UNESCO (2014)",
+        "how": "Contrasta com a antiga proibição e reforça a ideia de que o valor de uma cultura não depende da aprovação imediata das elites."
+      },
+      {
+        "ref": "Quarto de despejo: diário de uma favelada, de Carolina Maria de Jesus (1960)",
+        "how": "Livro de uma mulher negra moradora de favela que se tornou sucesso e hoje é estudado nas escolas. Exemplo de produção cultural periférica que rompeu barreiras e ajuda a discutir quem tem voz na cultura brasileira."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 215, caput e § 1º",
+        "how": "Determina que o Estado garanta a todos o pleno exercício dos direitos culturais e proteja as manifestações das culturas populares, indígenas e afro-brasileiras. Sustenta que valorizar a cultura das periferias é também um dever do poder público."
+      }
+    ],
+    "pitfalls": [
+      "Descrever as manifestações culturais, como funk, rap e slam, sem explicar as causas do preconceito, que é o que o tema pergunta.",
+      "Generalizar, afirmando que todo funk é bom ou que todo funk é ruim, sem argumentos.",
+      "Transformar o texto em relato pessoal sobre gosto musical, fugindo da discussão social."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cul-04",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "A leitura obrigatória de clássicos na escola aproxima ou afasta os jovens da literatura?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação dos jovens com a literatura e o papel da escola na formação de leitores. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Capitu na sala de aula",
+        "body_html": "<p>A professora anunciou que a turma leria <i>Dom Casmurro</i>, de Machado de Assis, para a avaliação do bimestre. Metade da sala reclamou antes mesmo de abrir o livro: palavras difíceis, frases longas, uma história com mais de cem anos.</p><p>Três semanas depois, porém, a aula virou um tribunal. Uns acusavam Capitu de traição; outros defendiam que tudo não passava de ciúme de Bentinho, o narrador. Houve quem terminasse a leitura só pelo resumo da internet e quem, pela primeira vez, procurasse por conta própria outro livro do mesmo autor.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Vozes da turma",
+        "body_html": "<p><b>Estudante 1:</b> Eu gosto de ler, mas fantasia e mangá. Quando a escola obriga um clássico, parece que o meu tipo de leitura não vale nada.</p><p><b>Estudante 2:</b> Sozinho, eu nunca teria lido um livro do século XIX. Foi difícil, mas descobri que dá para entender e até gostar.</p><p><b>Estudante 3:</b> O problema não é o livro, é a cobrança. Leio só para responder à prova e esqueço tudo depois.</p><p><b>Estudante 4:</b> Por que não deixar a gente escolher entre várias opções, incluindo autores atuais?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Para que servem os clássicos?",
+        "body_html": "<p>Chamamos de clássicos as obras que continuam sendo lidas muito tempo depois de escritas, porque ainda dizem algo sobre ciúme, poder, injustiça, amor ou morte. Ler esses livros é também conhecer a língua em outros momentos e dialogar com leitores de várias gerações.</p><p>Por outro lado, o gosto pela leitura costuma nascer do prazer, da identificação e da liberdade de escolha. Por isso, muitos educadores defendem que a escola equilibre obras consagradas e livros próximos do universo dos estudantes, sem tratar umas como superiores aos outros.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Como foi a sua experiência com as leituras obrigatórias da escola?",
+      "O que torna um livro “clássico”? Essas obras têm algo a dizer aos jovens de hoje?",
+      "O problema está na obrigatoriedade ou na forma como a leitura é cobrada?",
+      "Leituras escolhidas pelos próprios estudantes, como mangás, fantasia ou livros populares nas redes, podem ser porta de entrada para outras obras?"
+    ],
+    "argument_paths": [
+      "A leitura obrigatória aproxima, porque apresenta obras que o jovem dificilmente encontraria sozinho e amplia seu repertório; sem a escola, muitos nunca teriam contato com a literatura brasileira.",
+      "A leitura obrigatória afasta quando vira apenas cobrança em prova: o estudante recorre a resumos, associa literatura a castigo e perde o prazer de ler.",
+      "O efeito depende da mediação: os clássicos aproximam quando o professor cria debates, relaciona a obra com a vida dos alunos e respeita o tempo de leitura.",
+      "O ideal é o equilíbrio: combinar clássicos com livros escolhidos pelos estudantes, de modo que o prazer da leitura abra caminho para obras mais desafiadoras."
+    ],
+    "repertoire": [
+      {
+        "ref": "Dom Casmurro, de Machado de Assis (1899)",
+        "how": "Exemplo de clássico que ainda provoca debates entre leitores jovens, como a dúvida sobre a traição de Capitu. Mostra que obras antigas podem dialogar com temas atuais, como o ciúme e a confiança no que alguém conta."
+      },
+      {
+        "ref": "Ensaio “O direito à literatura”, de Antonio Candido, publicado no livro Vários escritos",
+        "how": "O crítico defende que a literatura é uma necessidade humana e, por isso, um direito de todos. Útil para argumentar que a escola deve garantir o acesso a obras que muitas pessoas não encontrariam sozinhas."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 205",
+        "how": "Afirma que a educação visa ao pleno desenvolvimento da pessoa e ao seu preparo para o exercício da cidadania. Permite sustentar que formar leitores faz parte desse desenvolvimento, e não é apenas preparação para provas."
+      }
+    ],
+    "pitfalls": [
+      "Falar sobre a importância da leitura em geral, sem discutir a obrigatoriedade dos clássicos na escola.",
+      "Transformar a redação em lista de livros preferidos ou em relato pessoal sem argumentação.",
+      "Culpar apenas a tecnologia pelo desinteresse dos jovens, desviando do foco do tema."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cul-05",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "Como superar os estereótipos e valorizar as culturas dos povos indígenas no Brasil?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a diversidade dos povos indígenas brasileiros, os estereótipos que ainda circulam sobre eles e o lugar de suas culturas na escola e na sociedade. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Muito além do 19 de abril",
+        "body_html": "<p>Durante muito tempo, em várias escolas, o 19 de abril foi marcado por crianças com cocares de papel e rostos pintados, como se existisse um único “índio” genérico, parado no passado. Na realidade, o Brasil abriga centenas de povos indígenas, com línguas, costumes e formas de organização muito diferentes entre si.</p><p>Em 2022, uma lei federal mudou o nome da data de “Dia do Índio” para “Dia dos Povos Indígenas”. A troca de palavras pode parecer pequena, mas indica uma mudança de olhar: da imagem única e folclórica para o reconhecimento da diversidade.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Palavras que moram na nossa boca",
+        "body_html": "<p>Quem come pipoca no cinema, toma suco de abacaxi ou vê uma capivara à beira de um rio usa, talvez sem saber, palavras de origem tupi. Nomes de cidades, rios, frutas e animais espalhados pelo país revelam como as línguas indígenas se misturaram ao português falado no Brasil.</p><p>Apesar dessa presença diária, muitas pessoas conhecem pouco sobre os povos que deram origem a essas palavras. Diversas línguas indígenas ainda são faladas no país, algumas por poucas pessoas, e correm risco de desaparecer. Quando uma língua some, vão junto modos únicos de nomear e compreender o mundo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na feira de ciências",
+        "body_html": "<p><b>Lucas:</b> Nosso grupo vai apresentar sobre os indígenas. Pensei em mostrar oca, arco e flecha e pintura no rosto.</p><p><b>Maya:</b> Mas tem indígena que mora na cidade, faz faculdade, é médico, artista, produz vídeos. Mostrar só a oca não é contar metade da história?</p><p><b>Lucas:</b> Então ele deixa de ser indígena se usar celular?</p><p><b>Maya:</b> Não, e é justamente isso. Ninguém deixa de ser brasileiro por usar um tênis importado. Acho que a gente devia pesquisar um povo específico e, se der, ouvir o que eles mesmos dizem.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "De onde vêm as imagens que você tem sobre os povos indígenas: da escola, dos livros, da TV, das redes sociais?",
+      "Por que a ideia de um “índio” único e parado no passado é um estereótipo?",
+      "Qual é o papel da escola e dos meios de comunicação na valorização das culturas indígenas?",
+      "Como abrir espaço para que os próprios indígenas contem suas histórias?"
+    ],
+    "argument_paths": [
+      "A escola é central: cumprir de fato o ensino de história e cultura indígena previsto em lei, com o estudo de povos específicos, desfaria a imagem genérica e folclórica.",
+      "É preciso ouvir os próprios indígenas: livros, filmes, músicas e perfis produzidos por autores indígenas combatem estereótipos melhor do que discursos feitos sobre eles.",
+      "Valorizar a cultura exige também garantir direitos, como território, saúde e educação diferenciada; sem isso, a valorização fica apenas no plano simbólico.",
+      "A mídia e as redes sociais podem tanto reforçar quanto desfazer estereótipos; conteúdos de criadores indígenas mostram que tradição e modernidade convivem."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei nº 11.645/2008",
+        "how": "Alterou a LDB para tornar obrigatório o estudo da história e da cultura afro-brasileira e indígena nas escolas de ensino fundamental e médio, públicas e privadas. Útil para cobrar que a escola vá além das comemorações de 19 de abril."
+      },
+      {
+        "ref": "Lei nº 14.402/2022",
+        "how": "Substituiu o antigo “Dia do Índio” pelo “Dia dos Povos Indígenas”, celebrado em 19 de abril. Mostra que até o nome de uma data comemorativa pode reforçar ou combater a imagem de um “índio” genérico."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 231",
+        "how": "Reconhece aos indígenas sua organização social, costumes, línguas, crenças e tradições. Reforça que respeitar a diversidade dos povos indígenas é um dever previsto na Constituição."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 210, § 2º",
+        "how": "Assegura às comunidades indígenas, no ensino fundamental, o uso de suas línguas maternas e de processos próprios de aprendizagem, além da língua portuguesa. Exemplo de valorização cultural que vai além do discurso."
+      },
+      {
+        "ref": "Ailton Krenak, autor de Ideias para adiar o fim do mundo (2019) e primeiro indígena eleito para a Academia Brasileira de Letras, em 2023",
+        "how": "Exemplo de pensador indígena reconhecido nacionalmente. Mostra a importância de ler os indígenas como autores, e não apenas como tema."
+      }
+    ],
+    "pitfalls": [
+      "Reproduzir os estereótipos que o tema pede para superar, por exemplo, descrevendo os indígenas como povos do passado.",
+      "Tratar todos os povos indígenas como se fossem um só grupo, com a mesma língua e os mesmos costumes.",
+      "Apresentar apenas denúncias, sem responder ao “como” do tema com propostas concretas."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cul-06",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "Pirataria digital: democratização do acesso à cultura ou desrespeito ao trabalho de quem cria?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o consumo de filmes, séries, músicas, jogos e livros por meios ilegais e o conflito entre o direito de acesso à cultura e os direitos de quem produz obras culturais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um clique",
+        "body_html": "<p><b>Nina:</b> Achei o filme que estreou semana passada num site gratuito. Vamos ver hoje?</p><p><b>Pedro:</b> Esse site é pirata. A equipe que fez o filme não ganha nada com isso.</p><p><b>Nina:</b> O ingresso está caro, e o cinema mais perto fica a duas conduções daqui. Se eu não vir assim, não vejo nunca.</p><p><b>Pedro:</b> Entendo, mas e o roteirista, o técnico de som, o pessoal dos efeitos? Eles também precisam pagar as contas.</p><p><b>Nina:</b> Os grandes estúdios já ganham muito dinheiro. Um download a mais não muda nada.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Quem ganha com uma obra?",
+        "body_html": "<p>Por trás de um livro, de uma música ou de um jogo há, em geral, muitos trabalhadores: autores, músicos, ilustradores, editores, programadores, técnicos. A lei brasileira protege os direitos autorais, garantindo a quem cria a decisão sobre como sua obra pode ser reproduzida e divulgada, e prevê punição para quem viola esses direitos.</p><p>Ao mesmo tempo, a Constituição afirma que o Estado deve garantir a todos o acesso às fontes da cultura nacional. Bibliotecas públicas, meia-entrada para estudantes e plataformas legais gratuitas são tentativas de conciliar esses dois direitos, mas nem sempre chegam a todos.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Três situações",
+        "body_html": "<p><b>Situação 1:</b> Uma estudante baixa ilegalmente um livro esgotado há anos, que não está à venda em lugar nenhum.</p><p><b>Situação 2:</b> Um rapaz assiste a jogos e filmes em um aparelho pirata para não pagar assinatura, embora tenha condições de pagar.</p><p><b>Situação 3:</b> Uma banda independente descobre que seu primeiro álbum, vendido para financiar a próxima gravação, está sendo distribuído de graça em sites piratas.</p><p>As três situações envolvem cópias não autorizadas. Mas será que todas têm o mesmo peso?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "O preço alto e a falta de acesso justificam o consumo de cultura pirata?",
+      "Quem é prejudicado pela pirataria: grandes empresas, artistas independentes ou ambos?",
+      "Todas as situações de pirataria têm o mesmo peso ético?",
+      "Que alternativas poderiam ampliar o acesso à cultura sem desrespeitar os direitos de quem cria?"
+    ],
+    "argument_paths": [
+      "A pirataria desrespeita o trabalho de quem cria e prejudica sobretudo artistas pequenos e trabalhadores menos visíveis; o acesso à cultura deve ser ampliado por meios legais.",
+      "A pirataria é sintoma de um problema maior, a desigualdade no acesso à cultura; enquanto ingressos e assinaturas forem caros e os equipamentos culturais estiverem concentrados, muitos continuarão recorrendo a ela.",
+      "A resposta depende do caso: copiar uma obra que não está disponível de nenhuma forma é diferente de piratear por comodidade quando se pode pagar.",
+      "O Estado e as empresas têm responsabilidade: bibliotecas digitais, preços acessíveis, plataformas públicas e meia-entrada reduzem a pirataria melhor do que a simples punição."
+    ],
+    "repertoire": [
+      {
+        "ref": "Constituição Federal de 1988, art. 5º, XXVII",
+        "how": "Garante aos autores o direito exclusivo de utilização, publicação ou reprodução de suas obras. Sustenta o argumento de que a pirataria viola um direito fundamental."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 215",
+        "how": "Determina que o Estado garanta a todos o pleno exercício dos direitos culturais e o acesso às fontes da cultura nacional. Permite argumentar que o acesso também é um direito e que cabe ao poder público ampliá-lo."
+      },
+      {
+        "ref": "Lei nº 9.610/1998 (Lei de Direitos Autorais)",
+        "how": "Regula os direitos autorais no Brasil. Mostra que a proteção a quem cria tem base legal específica."
+      },
+      {
+        "ref": "Lei nº 12.933/2013 (Lei da Meia-Entrada)",
+        "how": "Garante meia-entrada a estudantes, entre outros grupos, em eventos culturais. Exemplo de política pública que amplia o acesso à cultura sem recorrer à ilegalidade."
+      }
+    ],
+    "pitfalls": [
+      "Tratar da pirataria de produtos físicos, como roupas e relógios, desviando do foco na cultura digital.",
+      "Defender um lado sem reconhecer o conflito entre os dois direitos envolvidos: o de acesso à cultura e o de quem cria.",
+      "Justificar a pirataria apenas com a ideia de que “todo mundo faz”, sem argumento consistente."
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "cul-07",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "É possível manter vivas as festas e tradições populares brasileiras entre as novas gerações?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, as festas e tradições populares brasileiras e a relação dos jovens com essas manifestações culturais. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Um país em festa",
+        "body_html": "<p>De norte a sul, o Brasil se reconhece em festas populares: as quadrilhas juninas, o bumba meu boi, o maracatu, a folia de reis, o frevo, o carimbó, as congadas e tantas outras. Muitas delas misturam heranças indígenas, africanas e europeias e passam de geração em geração pela convivência, e não pelos livros.</p><p>Desde 2000, o Brasil registra oficialmente saberes, celebrações e formas de expressão como patrimônio imaterial. O registro ajuda a divulgar e proteger essas tradições, mas não garante, sozinho, que alguém continue dançando, tocando e ensinando.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "A quadrilha da dona Neide",
+        "body_html": "<p>Todo mês de junho, dona Neide organiza a quadrilha da rua onde mora há quarenta anos. Ela costura as roupas, ensaia os passos e prepara a canjica. Este ano, porém, só apareceram crianças pequenas e alguns adultos. Os adolescentes preferiram ficar em casa.</p><p>Um neto dela sugeriu gravar vídeos dos ensaios e misturar músicas atuais às tradicionais. Dona Neide ficou em dúvida: “Se mudar demais, deixa de ser a nossa festa.” O neto respondeu: “Se não mudar nada, ela acaba.”</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Opiniões divididas",
+        "body_html": "<p><b>Opinião A:</b> Tradição que precisa de campanha para sobreviver já perdeu o sentido. As culturas mudam, e é natural que algumas festas desapareçam.</p><p><b>Opinião B:</b> Os jovens não rejeitam as tradições, apenas não as conhecem. Quando participam de verdade, dançando e tocando, costumam se encantar.</p><p><b>Opinião C:</b> As redes sociais podem ser aliadas: grupos de maracatu, jongo e boi conseguem alcançar novos públicos mostrando seu trabalho na internet.</p><p><b>Opinião D:</b> Sem apoio financeiro, mestres e grupos populares não conseguem se manter, por maior que seja o interesse.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que festas ou tradições populares existem na sua cidade, na sua escola ou na sua família? Você participa delas?",
+      "Por que muitos jovens se afastam dessas manifestações?",
+      "Adaptar uma tradição aos novos tempos é uma forma de preservá-la ou de descaracterizá-la?",
+      "Quem deve agir para manter as tradições vivas: famílias, comunidades, escolas, governo ou os próprios jovens?"
+    ],
+    "argument_paths": [
+      "Sim, desde que as tradições sejam vividas, e não apenas assistidas: oficinas, apresentações na escola e participação ativa criam vínculo entre os jovens e a cultura popular.",
+      "Sim, mas só com apoio público: sem recursos para mestres, grupos e espaços, a boa vontade das comunidades não basta.",
+      "As tradições sobrevivem porque se transformam; a mistura com elementos atuais e a divulgação nas redes são formas legítimas de mantê-las vivas.",
+      "Não é possível manter todas: algumas tradições desaparecem naturalmente, e o mais importante é registrá-las e preservar sua memória, sem forçar a participação dos jovens."
+    ],
+    "repertoire": [
+      {
+        "ref": "Decreto nº 3.551/2000",
+        "how": "Instituiu o registro de bens culturais de natureza imaterial no Brasil, como celebrações, saberes e formas de expressão. Mostra que as festas populares são reconhecidas oficialmente como patrimônio."
+      },
+      {
+        "ref": "Reconhecimento do frevo como Patrimônio Cultural Imaterial da Humanidade pela UNESCO (2012)",
+        "how": "Exemplo de manifestação popular brasileira que ganhou reconhecimento internacional sem deixar de ser praticada nas ruas, o que sustenta a ideia de que tradição e renovação podem caminhar juntas."
+      },
+      {
+        "ref": "Missão de Pesquisas Folclóricas (1938), idealizada por Mário de Andrade",
+        "how": "Expedição que gravou e documentou músicas e danças populares do Norte e do Nordeste. Exemplo de como o registro preserva a memória de tradições, mesmo quando elas mudam ou desaparecem."
+      },
+      {
+        "ref": "Constituição Federal de 1988, art. 216",
+        "how": "Inclui as formas de expressão e os modos de criar, fazer e viver no patrimônio cultural brasileiro. Sustenta que preservar tradições é dever do poder público, com a colaboração da comunidade."
+      }
+    ],
+    "pitfalls": [
+      "Apenas descrever festas populares, sem discutir se é possível mantê-las entre os jovens e de que maneira.",
+      "Responder “sim” ou “não” sem justificar com argumentos e exemplos.",
+      "Culpar só a tecnologia ou a cultura estrangeira, sem considerar outras causas, como a falta de apoio e de espaços."
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "cul-08",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "Os algoritmos das plataformas digitais ampliam ou limitam o gosto cultural dos jovens?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o modo como as plataformas digitais recomendam músicas, vídeos, séries e livros e a forma como isso interfere nas escolhas culturais dos jovens. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Recomendado para você",
+        "body_html": "<p>Aplicativos de música, de vídeo e redes sociais usam sistemas automáticos, os algoritmos, para sugerir conteúdos. Eles observam o que cada pessoa escuta, assiste, curte ou pula e, a partir disso, tendem a oferecer conteúdos parecidos, já que essas plataformas costumam se beneficiar do tempo que o usuário passa conectado.</p><p>O resultado é ambíguo. De um lado, nunca foi tão fácil descobrir artistas de outros países ou de cidades distantes. De outro, quem não procura ativamente pode acabar preso a uma espécie de bolha, ouvindo sempre o mesmo tipo de música e vendo sempre o mesmo tipo de vídeo.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Playlist",
+        "body_html": "<p><b>Júlia, 14 anos:</b> Conheci K-pop, anime e um monte de bandas de rock antigo pelo celular. Meu gosto ficou muito mais variado que o dos meus pais.</p><p><b>Caio, 15 anos:</b> Meu feed só me mostra funk e vídeo de jogo. Uma vez pesquisei MPB para um trabalho e o aplicativo ficou confuso por dias.</p><p><b>Luana, 14 anos:</b> Eu decido o que ouço. O algoritmo sugere, mas quem aperta o play sou eu.</p><p><b>Gabriel, 15 anos:</b> Será? Quando tudo aparece pronto, a gente nem pensa em procurar outra coisa.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Devorar o que vem de fora",
+        "body_html": "<p>Na década de 1920, artistas do Modernismo brasileiro discutiram como lidar com a forte influência da cultura europeia. Uma das respostas foi a ideia de antropofagia: em vez de copiar o que vinha de fora ou simplesmente rejeitá-lo, os artistas brasileiros deveriam “devorar” essas influências e transformá-las em algo novo e próprio.</p><p>Quase um século depois, a questão continua atual. Diante de um fluxo infinito de conteúdos estrangeiros e nacionais, entregues por máquinas, os jovens estão devorando e recriando, ou apenas consumindo o que lhes é oferecido?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Como você costuma descobrir novas músicas, séries, filmes ou livros: por indicação de pessoas ou das plataformas?",
+      "As recomendações automáticas ampliam seu repertório ou fazem você consumir sempre o mesmo tipo de conteúdo?",
+      "Quem é responsável pelo gosto cultural de um jovem: ele mesmo, a família, a escola ou as plataformas?",
+      "A facilidade de acessar culturas estrangeiras enfraquece ou enriquece a cultura brasileira?",
+      "O que poderia ser feito para que os jovens tenham contato com mais diversidade cultural?"
+    ],
+    "argument_paths": [
+      "Os algoritmos limitam o gosto cultural, pois criam bolhas e favorecem o que já é popular; artistas independentes e expressões regionais têm menos chance de aparecer.",
+      "As plataformas ampliaram o acesso como nunca antes: jovens de qualquer lugar podem conhecer culturas do mundo inteiro, e a diversidade depende mais da curiosidade do usuário do que da máquina.",
+      "O problema não é a tecnologia, mas a falta de mediação: família, escola e bibliotecas precisam apresentar referências que o algoritmo não oferece, formando jovens com senso crítico.",
+      "A influência estrangeira não ameaça a cultura brasileira quando há diálogo criativo, como propunha a antropofagia modernista; o risco está em consumir passivamente, sem recriar."
+    ],
+    "repertoire": [
+      {
+        "ref": "Manifesto Antropófago, de Oswald de Andrade (1928)",
+        "how": "Propunha “devorar” as influências estrangeiras e transformá-las em algo brasileiro. Útil para defender que o contato com culturas de fora pode enriquecer, desde que haja criação, e não só consumo."
+      },
+      {
+        "ref": "Semana de Arte Moderna de 1922, em São Paulo",
+        "how": "Marco da busca por uma arte com identidade brasileira. Ajuda a mostrar que o debate sobre influência externa e cultura nacional é antigo e anterior à internet."
+      },
+      {
+        "ref": "Tropicália, movimento cultural do fim da década de 1960",
+        "how": "Com artistas como Caetano Veloso, Gilberto Gil e Os Mutantes, misturou guitarra elétrica e rock a ritmos brasileiros, dialogando com a ideia de antropofagia. Exemplo de que influências estrangeiras podem gerar criação original."
+      }
+    ],
+    "pitfalls": [
+      "Discutir o excesso de telas ou o vício em celular de forma genérica, sem focar na formação do gosto cultural.",
+      "Tratar toda influência estrangeira como ameaça, sem argumentos, ou idealizar a tecnologia sem considerar seus limites.",
+      "Explicar como funcionam os algoritmos sem relacionar isso à formação cultural dos jovens."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "cul-09",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "O que fazer com monumentos que homenageiam figuras históricas hoje vistas como controversas?",
+    "genre": "dissertativo-argumentativo",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, a relação entre monumentos, memória e história, e os debates sobre as homenagens públicas a personagens do passado. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "Pedra e memória",
+        "body_html": "<p>Estátuas, bustos e nomes de ruas não são apenas enfeites: eles indicam quem uma sociedade escolheu lembrar e admirar em determinada época. Muitas dessas homenagens foram feitas há décadas, quando certas ações eram vistas de outra forma.</p><p>É o caso dos bandeirantes, celebrados por muito tempo como desbravadores do interior do Brasil. Hoje, os livros de História também destacam que suas expedições capturaram e escravizaram indígenas e atacaram quilombos. Por isso, em várias partes do mundo, monumentos a figuras ligadas à escravidão e à violência contra povos inteiros têm provocado protestos e discussões.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Três propostas",
+        "body_html": "<p><b>Proposta 1, retirar:</b> Manter uma estátua em praça pública é continuar homenageando alguém. Os descendentes de quem sofreu com as ações daquela pessoa não deveriam ter de passar por ela todos os dias.</p><p><b>Proposta 2, manter e explicar:</b> Retirar apaga a história. É melhor deixar o monumento e instalar placas que contem também o lado sombrio do personagem.</p><p><b>Proposta 3, levar para um museu:</b> Fora da praça, o monumento deixa de ser homenagem e passa a ser objeto de estudo, sem ser destruído.</p><p>E quem deveria tomar essa decisão?</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "O nome da escola",
+        "body_html": "<p>Uma escola pública tem o nome de um político do passado. Em um projeto de História, os alunos descobriram que ele apoiou medidas autoritárias e perseguiu opositores. A turma propôs, então, uma votação para trocar o nome da escola pelo de uma antiga professora do bairro.</p><p>Parte da comunidade apoiou a ideia. Outra parte reagiu: “Esse nome faz parte da nossa história. Se começarmos a trocar tudo, o que vai sobrar?” A direção decidiu promover um debate aberto antes de qualquer decisão.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Um monumento serve para registrar a história ou para homenagear alguém? Qual é a diferença?",
+      "É justo julgar pessoas do passado com os valores de hoje? Por quê?",
+      "Retirar uma estátua apaga a história ou abre espaço para outras memórias?",
+      "Quem deveria decidir o destino desses monumentos: governo, especialistas ou comunidade?",
+      "Que outras pessoas e grupos poderiam ser homenageados nos espaços públicos?"
+    ],
+    "argument_paths": [
+      "Os monumentos devem sair dos espaços de honra e ir para museus, onde podem ser estudados com contexto, deixando de funcionar como homenagem.",
+      "Os monumentos devem permanecer, acompanhados de placas e materiais educativos, porque removê-los tiraria a chance de discutir criticamente o passado.",
+      "A decisão deve ser democrática, com participação da comunidade, de historiadores e dos grupos afetados, e nunca tomada por meio de depredação.",
+      "Mais importante do que retirar é acrescentar: criar novos monumentos para indígenas, pessoas negras, mulheres e outros grupos esquecidos, tornando a memória pública mais diversa."
+    ],
+    "repertoire": [
+      {
+        "ref": "Incêndio da estátua de Borba Gato, em São Paulo, em 2021",
+        "how": "Caso brasileiro que expôs o debate sobre homenagens a bandeirantes. Pode ser usado para discutir tanto a crítica à homenagem quanto os limites da depredação como forma de protesto."
+      },
+      {
+        "ref": "Derrubada da estátua de Edward Colston em Bristol, na Inglaterra, em 2020",
+        "how": "Estátua de um comerciante de escravizados derrubada durante protestos antirracistas e depois exposta em um museu da cidade. Exemplo da proposta de transformar a homenagem em objeto de estudo."
+      },
+      {
+        "ref": "Comissão Nacional da Verdade (Lei nº 12.528/2011)",
+        "how": "Investigou graves violações de direitos humanos ocorridas entre 1946 e 1988 e, em seu relatório final (2014), recomendou alterar nomes de ruas, prédios e instituições públicas que homenageiam pessoas ligadas a essas violações. Ajuda a argumentar que a memória pública também é uma questão de justiça."
+      }
+    ],
+    "pitfalls": [
+      "Escrever sobre racismo ou sobre a ditadura em geral, sem discutir o destino dos monumentos.",
+      "Defender a depredação ou, ao contrário, desqualificar todo o debate como “apagamento da história”, sem argumentos.",
+      "Tratar de um único caso específico, sem ampliar a reflexão para a sociedade como um todo."
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "cul-10",
+    "axis": "cul",
+    "axis_label": "Cultura, arte, memória e patrimônio",
+    "theme": "As artes, como música, teatro, dança e artes visuais, devem ter mais tempo e espaço na rotina escolar?",
+    "genre": "carta argumentativa",
+    "intro": "Os textos motivadores abaixo discutem, de maneiras diversas, o lugar das artes na formação dos estudantes e na rotina da escola. Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore uma carta argumentativa, dirigida à direção da sua escola, em que você defenda seu ponto de vista sobre o seguinte tema:",
+    "motivating_texts": [
+      {
+        "label": "Texto I",
+        "title": "A proposta do grêmio",
+        "body_html": "<p>O grêmio estudantil de uma escola apresentou à direção uma proposta: transformar uma sala sem uso em espaço de ensaio para teatro e música, criar oficinas de dança no contraturno e organizar uma mostra artística por semestre.</p><p>A direção respondeu que vai analisar o pedido, mas levantou dúvidas. Os estudantes teriam tempo, com tantas provas e trabalhos? A sala não seria mais útil como laboratório ou para aulas de reforço? Quem ficaria responsável pelos equipamentos? O grêmio agora prepara seus argumentos para a próxima reunião.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto II",
+        "title": "Arte na escola: o que diz a lei",
+        "body_html": "<p>No Brasil, o ensino de Arte é componente curricular obrigatório da educação básica. Desde 2016, a lei especifica que esse componente deve abranger quatro linguagens: artes visuais, dança, música e teatro.</p><p>Na prática, porém, a realidade varia muito. Em muitas escolas, as aulas de Arte ocupam pouco espaço na grade, faltam materiais e salas adequadas, e nem sempre há professores formados em todas as linguagens. Há quem veja a arte como essencial para a sensibilidade, a criatividade e a convivência; há quem a considere menos importante do que as matérias cobradas em provas e vestibulares.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      },
+      {
+        "label": "Texto III",
+        "title": "Na porta da escola",
+        "body_html": "<p><b>Márcia:</b> Meu filho entrou no grupo de teatro da escola e mudou muito. Era tímido, agora fala em público e faz amigos.</p><p><b>Sônia:</b> Que bom, mas a minha filha tem dificuldade em Matemática. Prefiro que esse tempo vá para o reforço.</p><p><b>Márcia:</b> Uma coisa não precisa excluir a outra. Ensaiar também ensina disciplina e trabalho em grupo.</p><p><b>Sônia:</b> Em teoria, sim. Mas o dia não tem horas sobrando, e o vestibular não cobra dança.</p>",
+        "source_note": "Texto elaborado para o simulador."
+      }
+    ],
+    "guiding_questions": [
+      "Que espaço as artes ocupam hoje na sua escola? Você gostaria que fosse diferente?",
+      "O que as artes podem ensinar que as outras disciplinas não ensinam?",
+      "Ampliar as atividades artísticas prejudicaria outras aprendizagens, ou elas podem se complementar?",
+      "Que propostas concretas e viáveis você poderia apresentar à direção?",
+      "Como adequar a linguagem e o tom ao destinatário da carta, que é a direção da escola?"
+    ],
+    "argument_paths": [
+      "Sim: as artes desenvolvem criatividade, expressão, autoconfiança e convivência, habilidades importantes para a vida e para o próprio desempenho escolar; a carta pode propor oficinas no contraturno e mostras semestrais.",
+      "Sim, com equilíbrio: a ampliação deve ocorrer sem retirar o tempo de reforço dos alunos com dificuldades, aproveitando o contraturno, parcerias com a comunidade e espaços ociosos.",
+      "Não neste momento: a escola tem outras prioridades, como reforço e infraestrutura básica, mas pode valorizar as artes em projetos interdisciplinares, sem aumentar a carga horária.",
+      "A arte é um direito previsto em lei e não pode ser tratada como enfeite; a direção tem a responsabilidade de garantir condições reais para o ensino das quatro linguagens."
+    ],
+    "repertoire": [
+      {
+        "ref": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), art. 26, § 2º",
+        "how": "Estabelece o ensino de Arte como componente curricular obrigatório da educação básica. Útil para lembrar à direção que a arte não é atividade opcional."
+      },
+      {
+        "ref": "Lei nº 13.278/2016, que incluiu o § 6º no art. 26 da LDB",
+        "how": "Alterou a LDB para determinar que artes visuais, dança, música e teatro são as linguagens do componente curricular Arte. Permite cobrar que a escola contemple mais do que uma única linguagem artística."
+      },
+      {
+        "ref": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), art. 4º",
+        "how": "Inclui a cultura e o lazer entre os direitos que família, comunidade, sociedade e poder público devem assegurar a crianças e adolescentes com absoluta prioridade. Reforça que o acesso à arte faz parte dos direitos dos estudantes."
+      }
+    ],
+    "pitfalls": [
+      "Escrever um texto dissertativo comum, sem vocativo, sem se dirigir à direção e sem despedida, o que foge ao gênero carta.",
+      "Usar linguagem informal ou tom desrespeitoso com o destinatário; a carta deve seguir a norma-padrão e manter a cortesia.",
+      "Assinar com o próprio nome ou incluir dados que identifiquem o candidato: o edital do CPII proíbe registrar nome ou assinatura na folha da redação, sob pena de anulação da prova. Para fechar a carta, use uma identificação genérica, como “Um estudante do 9º ano”."
+    ],
+    "difficulty": 1
+  }
+]

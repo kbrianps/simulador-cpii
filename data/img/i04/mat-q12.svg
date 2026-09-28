@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 310" width="450" height="310" font-family="Arial, Helvetica, sans-serif" font-size="15">
+<rect width="450" height="310" fill="#ffffff"/>
+<rect x="50" y="130" width="320" height="140" fill="#eef2f6" stroke="#333" stroke-width="2"/>
+<polygon points="50,130 370,130 210,10" fill="#f6e3c8" stroke="#333" stroke-width="2"/>
+<line x1="30" y1="270" x2="420" y2="270" stroke="#333" stroke-width="2"/>
+<text x="118" y="62" text-anchor="middle">5 m</text>
+<text x="302" y="62" text-anchor="middle">5 m</text>
+<line x1="50" y1="288" x2="370" y2="288" stroke="#333"/>
+<line x1="50" y1="282" x2="50" y2="294" stroke="#333"/><line x1="370" y1="282" x2="370" y2="294" stroke="#333"/>
+<text x="210" y="305" text-anchor="middle">8 m</text>
+<line x1="385" y1="130" x2="385" y2="270" stroke="#333"/>
+<line x1="379" y1="130" x2="391" y2="130" stroke="#333"/><line x1="379" y1="270" x2="391" y2="270" stroke="#333"/>
+<text x="392" y="205" font-size="15">3,5 m</text>
+<text x="210" y="105" text-anchor="middle" font-size="14" fill="#7a4a12">parte triangular</text>
+<text x="210" y="205" text-anchor="middle" font-size="14" fill="#34495e">parte retangular</text>
+</svg>

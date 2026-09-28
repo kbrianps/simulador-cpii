@@ -1,0 +1,295 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma reportagem, gênero jornalístico que relata fatos de interesse público a partir da apuração feita junto às pessoas envolvidas.</p><p>Um recurso típico desse gênero, usado no texto para dar credibilidade ao relato, é</p>",
+    "options": {
+      "A": "a defesa de uma tese pelo próprio jornalista, sustentada por argumentos ao longo de todo o texto.",
+      "B": "a reprodução, entre aspas, das falas de pessoas que vivem os fatos narrados, como Júlia, Marta e Diego.",
+      "C": "a construção de uma narrativa imaginária, com personagens inventados, clímax e desfecho surpreendente.",
+      "D": "a apresentação de dados de pesquisas científicas para comprovar os benefícios do esporte para a saúde."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A reportagem informa o leitor sobre fatos reais e, para mostrar que foi até a fonte, dá voz a quem participa deles. Isso aparece várias vezes no Texto 1, sempre com aspas:</p><ul><li>Júlia: “A gente ficava sentada esperando uma vaga que nunca aparecia” (linhas 5-6);</li><li>Marta: “Aqui ninguém precisa ser craque. Precisa querer jogar” (linha 16);</li><li>Diego: “Parece pouca coisa, mas uma rampa diz que você também é esperado neste lugar” (linhas 22-23).</li></ul><p>Esses depoimentos funcionam como testemunhos: é como se o leitor ouvisse as próprias pessoas, o que torna o relato mais confiável.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Defender uma tese com argumentos é a marca do artigo de opinião (como o Texto 3). No Texto 1, quem avalia a situação são os entrevistados; o texto relata os fatos.",
+      "C": "Personagens inventados, clímax e desfecho surpreendente caracterizam o conto. A reportagem trata de acontecimentos apresentados como reais.",
+      "D": "O texto não cita nenhuma pesquisa científica. O único número sobre o grupo (“mais de trinta garotas”, linha 13) vem da observação do dia a dia da quadra."
+    },
+    "tip": "Reportagem = fatos + vozes de quem os viveu (depoimentos entre aspas). Tese defendida pelo autor é marca de artigo de opinião."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Às seis da tarde, quando o sol já não <b><u>castiga</u></b> o cimento, a quadra da praça do bairro começa a encher.” (linhas 1-2)</p></blockquote><p>No contexto, o verbo destacado foi empregado em sentido figurado e significa</p>",
+    "options": {
+      "A": "pune.",
+      "B": "esfria.",
+      "C": "ilumina.",
+      "D": "aquece intensamente."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No sentido literal (denotativo), “castigar” é aplicar uma punição a alguém. Mas o sol não pune ninguém: aqui a palavra está em sentido figurado (conotativo).</p><p>Pense na cena: às seis da tarde o sol está mais fraco. Antes disso, ele “castigava” o cimento, isto é, esquentava muito o piso da quadra, a ponto de tornar o jogo desconfortável. Por isso as pessoas só chegam quando o sol “já não castiga”. Substitua: “quando o sol já não <b>aquece intensamente</b> o cimento”. O sentido se mantém.</p><p>Repare que o texto atribui ao sol uma ação humana (castigar), o que também é uma personificação.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Punir” é o sentido literal de “castigar”. O sol não aplica punição; o texto usa a palavra de modo figurado para falar do calor forte.",
+      "B": "É o contrário: o sol esquenta o cimento. O que muda às seis da tarde é que ele deixa de esquentar tanto, e não que passe a esfriar o piso.",
+      "C": "O sol ilumina, é verdade, mas não é a luz que afasta as pessoas da quadra, e sim o calor. “Castigar” sugere sofrimento, que combina com calor excessivo."
+    },
+    "tip": "Diante de um verbo usado de forma estranha, pergunte: o que essa ação provoca na cena? Depois substitua a palavra pela opção e veja se o sentido se mantém."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“<b><u>Cansada de ver a filha voltar para casa sem ter tocado na bola</u></b>, a costureira Marta Silva procurou a associação de moradores e propôs uma divisão dos horários [...]” (linhas 7-9)</p></blockquote><p>Em relação ao restante do período, o trecho destacado expressa uma ideia de</p>",
+    "options": {
+      "A": "causa, pois indica o motivo que levou Marta a procurar a associação.",
+      "B": "concessão, pois apresenta um obstáculo que não impediu a ação de Marta.",
+      "C": "finalidade, pois indica o objetivo que Marta pretendia alcançar.",
+      "D": "tempo, pois indica o momento exato em que Marta procurou a associação."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O trecho destacado não tem conjunção, mas dá para descobrir a relação reescrevendo-o com uma: “<b>Como</b> estava cansada de ver a filha voltar para casa sem ter tocado na bola, Marta procurou a associação” ou “Marta procurou a associação <b>porque</b> estava cansada...”.</p><p>As duas versões mantêm o sentido: o cansaço de Marta é o <b>motivo</b> que a levou a agir. Logo, a relação é de <b>causa</b>.</p><p>Teste as outras: “<i>Embora</i> estivesse cansada...” (concessão) muda o sentido, porque o cansaço não atrapalhou a ação, ele a provocou; “<i>Para</i> ficar cansada...” (finalidade) não faz sentido; “<i>Quando</i> ficou cansada...” (tempo) perde a ideia de motivo, que é o que o texto enfatiza.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Concessão seria algo que dificulta a ação sem impedi-la (“embora”). O cansaço de Marta não foi obstáculo: foi justamente o que a fez agir.",
+      "C": "O objetivo de Marta aparece depois, na proposta de dividir os horários. O trecho destacado mostra o que a motivou, não o que ela queria alcançar.",
+      "D": "O trecho não marca um momento (dia, hora, ocasião). Ele descreve o estado de Marta que explica a sua atitude, por isso a relação é de causa."
+    },
+    "tip": "Para descobrir a relação de um trecho sem conectivo, tente encaixar “porque”, “embora”, “para” e “quando”: fica a que mantém o sentido."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Parece pouca coisa, mas uma rampa diz que você também é esperado neste lugar” (linhas 22-23)</p></blockquote><p>Com essa afirmação, Diego sugere que a construção da rampa</p>",
+    "options": {
+      "A": "foi uma obra pequena e pouco importante, que não mudou a rotina da quadra.",
+      "B": "servia apenas para facilitar a entrada de equipamentos esportivos na quadra.",
+      "C": "além de permitir o acesso, comunica às pessoas com deficiência que elas pertencem àquele espaço.",
+      "D": "tornou dispensável a ajuda dos amigos, o que levou Diego a se afastar do grupo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A frase de Diego tem duas partes ligadas por “mas”:</p><ul><li>“Parece pouca coisa”: reconhece que, à primeira vista, uma rampa é uma obra simples;</li><li>“mas uma rampa diz que você também é esperado neste lugar”: apresenta o que realmente importa.</li></ul><p>Uma rampa não fala; “diz” está em sentido figurado. Ela “diz” porque transmite uma mensagem: o lugar foi pensado para receber também quem usa cadeira de rodas. Antes, Diego dependia de que dois amigos carregassem a cadeira pelos degraus (linhas 21-22), como se o espaço não contasse com ele. Portanto, além do acesso físico, a rampa tem um valor simbólico: significa acolhimento e pertencimento.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Toma só a primeira parte da frase (“Parece pouca coisa”). O “mas” introduz justamente a ideia contrária: a obra é mais importante do que parece, e ela permitiu que Diego passasse a treinar ali (linha 20).",
+      "B": "O texto não fala em entrada de equipamentos. A rampa é apresentada como obra que permitiu o acesso de Diego e de outros jovens cadeirantes.",
+      "D": "Nada no texto indica afastamento dos amigos. A conclusão é inventada: a rampa trouxe autonomia, não isolamento."
+    },
+    "tip": "Numa frase com “mas”, a ideia mais importante costuma vir depois do conectivo."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No Texto 1, as aspas são usadas em trechos como “não era coisa de menina” (linha 11) e “lugar de vagabundagem” (linhas 27-28).</p><p>Nesses dois casos, as aspas servem para</p>",
+    "options": {
+      "A": "indicar que as expressões são estrangeiras e ainda não foram incorporadas ao português.",
+      "B": "reproduzir palavras ditas por outras pessoas, marcando que o texto não assume essas opiniões.",
+      "C": "destacar as expressões que resumem o ponto de vista defendido pelo próprio texto.",
+      "D": "assinalar apelidos carinhosos dados pelos moradores às jogadoras e à quadra."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.leitura.fato_opiniao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Leia cada trecho no contexto:</p><ul><li>“outros garantiram que futebol <b>‘não era coisa de menina’</b>” (linhas 10-11): é o que diziam alguns rapazes;</li><li>“Há ainda quem veja o espaço apenas como <b>‘lugar de vagabundagem’</b>, expressão que os jovens ouvem de alguns vizinhos” (linhas 27-28): é o que dizem alguns vizinhos.</li></ul><p>Nos dois casos, as aspas mostram que as palavras são <b>de outras pessoas</b>, e não do texto. Isso também é uma forma de se distanciar delas: logo depois, o texto as contradiz, mostrando mais de trinta garotas jogando (linha 13) e a quadra como “o que o bairro tem de mais parecido com um clube” para a maioria dos moradores (linhas 28-29).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "As duas expressões são em português comum. Aspas (ou itálico) para estrangeirismo não se aplicam aqui.",
+      "C": "É o oposto: as expressões representam o preconceito que o texto mostra ser superado, e não a visão defendida por ele.",
+      "D": "O apelido carinhoso do texto é “As Invocadas” (linha 4). “Não era coisa de menina” e “lugar de vagabundagem” são falas preconceituosas, nada carinhosas."
+    },
+    "tip": "Aspas em meio a um relato costumam marcar a voz de outra pessoa: pergunte “quem disse isso?”."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O poema “Chuteira emprestada” (Texto 2) emprega linguagem figurada para falar da conquista de um espaço no esporte.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem presente nele:</p>",
+    "options": {
+      "A": "“Mas o chão da quadra não pergunta / quem é que chega com o pé descalço” (versos 5 e 6) – personificação",
+      "B": "“que a bola tinha dono e endereço,” (verso 2) – paradoxo",
+      "C": "“Quem ria antes, agora pensa;” (verso 11) – onomatopeia",
+      "D": "“o laço, a saia, o jeito, o começo.” (verso 4) – eufemismo"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir ações ou características humanas a seres inanimados. Perguntar é uma ação humana, e nos versos 5 e 6 quem “não pergunta” é o <b>chão da quadra</b>. A imagem sugere que o esporte, em si, não faz distinção: o piso recebe qualquer pessoa, sem querer saber quem ela é.</p><p>Confira as outras figuras citadas:</p><ul><li>paradoxo: união de ideias que parecem se anular (“estar sozinho no meio da multidão”);</li><li>onomatopeia: palavra que imita um som (“tic-tac”);</li><li>eufemismo: suavização de uma ideia desagradável (“partiu” no lugar de “morreu”).</li></ul><p>Nenhuma delas aparece nos versos 2, 11 e 4.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Ter dono e endereço” não junta ideias contraditórias. É uma forma figurada de dizer que a bola (o futebol) seria propriedade de alguns, mas não há paradoxo.",
+      "C": "Nenhuma palavra do verso imita um som. “Ria” e “pensa” são verbos comuns; o verso faz um contraste entre o passado e o presente.",
+      "D": "O verso não suaviza nenhuma ideia desagradável. Ele enumera o que, segundo o preconceito, a menina que corre “desalinha”: é uma enumeração."
+    },
+    "tip": "Personificação: algo que não é humano faz uma ação de gente (perguntar, dizer, sorrir)."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>“Disseram que a rua não era minha” (verso 1)<br>“Hoje eu entro sem pedir licença” (verso 9)<br>“Quem ria antes, agora pensa;” (verso 11)</p></blockquote><p>A alternância entre os tempos verbais nesses versos contribui para</p>",
+    "options": {
+      "A": "reforçar que a exclusão vivida pelo eu lírico continua a mesma no presente.",
+      "B": "indicar que o eu lírico apenas imagina uma situação que ainda não aconteceu.",
+      "C": "mostrar que as ações descritas se repetem da mesma forma em todas as épocas.",
+      "D": "contrapor um passado de exclusão a um presente em que o eu lírico ocupa o espaço do jogo."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Identifique os tempos:</p><ul><li>“Disseram” (pretérito perfeito) e “não era”, “ria” (pretérito imperfeito): falam do <b>passado</b>, quando diziam à menina que a rua não era dela e zombavam dela;</li><li>“entro”, “pensa” (presente), reforçados por “Hoje” e “agora”: falam do <b>presente</b>, em que ela entra na quadra “sem pedir licença” e é respeitada.</li></ul><p>No verso 11, a oposição cabe numa linha só: “Quem ria <b>antes</b>, <b>agora</b> pensa”. A mudança de tempo verbal acompanha a mudança na vida do eu lírico: da exclusão para a conquista.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O presente mostra justamente a mudança: ela entra “sem pedir licença” e quem duvidava agora “estende a mão” (verso 12). A exclusão ficou no passado.",
+      "B": "O que é hipotético no poema está no verso 13 (“Se um dia a rua me disser de novo”). Os versos citados relatam fatos passados e presentes, não imaginados.",
+      "C": "A troca de tempos serve para marcar diferença entre épocas, e não permanência. “Antes” e “agora” deixam claro que algo mudou."
+    },
+    "tip": "Quando um texto alterna passado e presente com palavras como “antes”, “hoje” e “agora”, ele costuma construir um contraste de transformação."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O Texto 3 é um artigo de opinião, gênero em que o autor defende um ponto de vista (tese) sobre determinado assunto.</p><p>A tese defendida no texto é a de que</p>",
+    "options": {
+      "A": "a construção de novas quadras é suficiente para garantir o lazer em todos os bairros.",
+      "B": "o esporte deve servir, sobretudo, para revelar novos talentos paralímpicos para o país.",
+      "C": "o lazer é um direito de todos, que exige ação contínua do poder público para ser garantido sem exclusões.",
+      "D": "o lazer deve ser oferecido principalmente por clubes e academias particulares, mais bem equipados."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A tese é a ideia central que o autor quer provar. No Texto 3, ela aparece no primeiro parágrafo e é retomada na conclusão:</p><ul><li>o lazer está entre os direitos sociais (linhas 2-3) e brincar, praticar esporte e ocupar os espaços públicos “não são privilégios de quem pode pagar, mas necessidades de qualquer cidadão” (linhas 4-5);</li><li>“Garantir o direito ao lazer, portanto, exige mais do que inaugurar quadras [...] Exige manutenção, iluminação, profissionais e, sobretudo, a escuta de quem usa esses espaços” (linhas 16-18).</li></ul><p>No meio, os argumentos mostram por que isso é necessário: o direito é distribuído de forma desigual (linha 6) e exclui meninas e pessoas com deficiência (linhas 11-13). Juntando tudo: o lazer é direito de todos, e cabe ao poder público garanti-lo de forma permanente e inclusiva.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto diz exatamente o contrário: garantir o lazer “exige mais do que inaugurar quadras em ano de eleição” (linhas 16-17).",
+      "B": "Os paratletas aparecem como exemplo (linhas 13-15) de talentos que se perdem pela falta de acessibilidade. O texto defende o lazer como direito de qualquer cidadão, e não só como caminho para formar atletas.",
+      "D": "O texto critica a situação em que o lazer “vira mercadoria” quando o poder público se ausenta (linha 9). Clubes e academias são citados como sinal de desigualdade, não como solução."
+    },
+    "tip": "A tese costuma aparecer na introdução e voltar na conclusão, muitas vezes depois de um conectivo conclusivo como “portanto”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T3"
+    ],
+    "stem": "<blockquote><p>“[...] pessoas com deficiência encontram escadas onde deveriam encontrar rampas.” (Texto 3, linhas 12-13)</p></blockquote><p>A situação descrita nesse trecho do Texto 3 é exemplificada, no Texto 1, pela seguinte passagem:</p>",
+    "options": {
+      "A": "“Antes, para chegar ao piso, ele dependia de que dois amigos carregassem a cadeira pelos degraus.” (linhas 21-22)",
+      "B": "“Até pouco tempo atrás, elas só assistiam.” (linhas 4-5)",
+      "C": "“A iluminação falha com frequência, o que obriga os treinos a terminar mais cedo no inverno [...]” (linhas 25-26)",
+      "D": "“Não há uniforme oficial nem treinador contratado [...]” (linha 14)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No Texto 3, “escadas onde deveriam encontrar rampas” resume a falta de acessibilidade: os espaços de lazer não foram pensados para quem tem deficiência.</p><p>O Texto 1 mostra essa situação na história de Diego, que usa cadeira de rodas. Antes da obra da prefeitura, “para chegar ao piso, ele dependia de que dois amigos carregassem a cadeira pelos <b>degraus</b>” (linhas 21-22). Os degraus são as “escadas” do Texto 3; a rampa construída depois (linha 18) é exatamente o que faltava.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "As linhas 4-5 falam das meninas, que só assistiam porque não havia vaga para elas. É um exemplo de exclusão de gênero (que o Texto 3 trata em “o futebol não lhes pertence”, linha 12), e não de falta de acessibilidade.",
+      "C": "A iluminação precária é um problema de manutenção (o Texto 3 cita “uma quadra sem iluminação”, linha 7), que afeta todos os frequentadores, não especificamente as pessoas com deficiência.",
+      "D": "A falta de uniforme e de treinador mostra a organização voluntária do time, e não uma barreira física para pessoas com deficiência."
+    },
+    "tip": "Em questões de comparação, localize a ideia exata do primeiro texto (aqui, falta de acessibilidade) antes de procurar o exemplo no outro."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T4",
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>O Texto 4 é um cartaz de campanha que combina linguagem verbal e não verbal.</p><p>A frase “TEM LUGAR PARA TODO MUNDO EM CAMPO.” é reforçada pela imagem porque</p>",
+    "options": {
+      "A": "a quadra aparece vazia, o que indica que ainda há vagas para novos jogadores.",
+      "B": "a cena reúne pessoas de gênero, idade e condição física diferentes dividindo o mesmo espaço.",
+      "C": "os refletores acesos mostram que a quadra só pode ser usada durante a noite.",
+      "D": "a menina aparece sozinha em primeiro plano, o que sugere que o esporte é uma prática individual."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.multimodal",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A expressão “todo mundo” fala de inclusão: ninguém deve ficar de fora. A imagem mostra isso concretamente, porque reúne na mesma quadra:</p><ul><li>uma <b>menina</b> de chuteiras (quem ouvia que futebol “não era coisa de menina”, Texto 1, linha 11);</li><li>um <b>rapaz em cadeira de rodas</b> com uma bola de basquete (como Diego, no Texto 1);</li><li>um <b>senhor</b> de boné na arquibancada (outra geração).</li></ul><p>Pessoas diferentes em gênero, idade e condição física, dividindo o mesmo espaço: é o “todo mundo” da frase, e também o que pede o texto menor, “Cuide, divida, jogue junto”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A quadra não está vazia: a descrição mostra a menina, o rapaz e o senhor. Ler a imagem sem atenção leva a esse erro.",
+      "C": "Os refletores acesos indicam que a quadra está em funcionamento e bem cuidada (o contrário da “quadra sem iluminação” do Texto 3), e não que só possa ser usada à noite.",
+      "D": "A menina não está sozinha: o rapaz está ao lado dela e o senhor na arquibancada. O cartaz, aliás, pede que se “jogue junto”."
+    },
+    "tip": "Em textos multimodais, confira se cada elemento da imagem conversa com as palavras: aqui, a diversidade das pessoas ilustra o “todo mundo”."
+  }
+]

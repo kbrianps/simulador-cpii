@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300" font-family="Arial, Helvetica, sans-serif" font-size="15">
+<rect width="460" height="300" fill="#fff"/>
+<text x="230.0" y="26" text-anchor="middle" font-size="16" font-weight="bold">Atividade extra escolhida pelos estudantes</text>
+<path d="M150,165 L150.0,55.0 A110,110 0 0 1 214.7,254.0 Z" fill="#4a78b0" stroke="#fff" stroke-width="2"/>
+<text x="214.9" y="148.9" text-anchor="middle" font-weight="bold" fill="#fff">40%</text>
+<path d="M150,165 L214.7,254.0 A110,110 0 0 1 61.0,229.7 Z" fill="#e0a030" stroke="#fff" stroke-width="2"/>
+<text x="139.3" y="237.4" text-anchor="middle" font-weight="bold" fill="#fff">25%</text>
+<path d="M150,165 L61.0,229.7 A110,110 0 0 1 45.4,131.0 Z" fill="#6aa56a" stroke="#fff" stroke-width="2"/>
+<text x="82.6" y="180.7" text-anchor="middle" font-weight="bold" fill="#fff">15%</text>
+<path d="M150,165 L45.4,131.0 A110,110 0 0 1 150.0,55.0 Z" fill="#c0504d" stroke="#fff" stroke-width="2"/>
+<text x="109.9" y="114.8" text-anchor="middle" font-weight="bold" fill="#fff">20%</text>
+<rect x="300" y="97" width="16" height="16" fill="#4a78b0"/><text x="324" y="110">Esportes</text>
+<rect x="300" y="127" width="16" height="16" fill="#e0a030"/><text x="324" y="140">Música</text>
+<rect x="300" y="157" width="16" height="16" fill="#6aa56a"/><text x="324" y="170">Teatro</text>
+<rect x="300" y="187" width="16" height="16" fill="#c0504d"/><text x="324" y="200">Robótica</text>
+</svg>

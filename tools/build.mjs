@@ -116,7 +116,9 @@ for (const id of fs.existsSync(examsDir) ? fs.readdirSync(examsDir) : []) {
   const redacao = readJSON(path.join(dir, "redacao.json"), null);
   exams.push(deep({ ...meta, texts, questions: qs, redacao: redacao && Object.keys(redacao).length ? redacao : null }));
 }
-exams.sort((a, b) => b.year - a.year || String(a.shift || "").localeCompare(String(b.shift || "")) || a.id.localeCompare(b.id));
+// Past exams first, then the original ("inédita") ones, then the CP2 Digital extras.
+const rank = (e) => (e.id[0] === "p" ? 0 : e.id[0] === "i" ? 1 : 2);
+exams.sort((a, b) => rank(a) - rank(b) || (a.id[0] === "i" ? a.id.localeCompare(b.id) : 0) || b.year - a.year || String(a.shift || "").localeCompare(String(b.shift || "")) || a.id.localeCompare(b.id));
 
 // ---- themes ----
 // data/themes.json is the reviewed bank; data/themes-drafts/ keeps the first per-axis drafts for reference only.

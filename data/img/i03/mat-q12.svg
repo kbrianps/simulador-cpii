@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" width="420" height="290" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="420" height="290" fill="#ffffff"/>
+  <!-- ground -->
+  <line x1="20" y1="240" x2="400" y2="240" stroke="#555" stroke-width="2"/>
+  <g stroke="#999" stroke-width="1">
+    <line x1="40" y1="240" x2="30" y2="252"/><line x1="80" y1="240" x2="70" y2="252"/>
+    <line x1="120" y1="240" x2="110" y2="252"/><line x1="160" y1="240" x2="150" y2="252"/>
+    <line x1="240" y1="240" x2="230" y2="252"/><line x1="280" y1="240" x2="270" y2="252"/>
+    <line x1="320" y1="240" x2="310" y2="252"/><line x1="360" y1="240" x2="350" y2="252"/>
+  </g>
+  <!-- pole -->
+  <line x1="210" y1="40" x2="210" y2="240" stroke="#222" stroke-width="5"/>
+  <!-- cables -->
+  <line x1="210" y1="40" x2="60" y2="240" stroke="#1f5fa8" stroke-width="2.5"/>
+  <line x1="210" y1="40" x2="360" y2="240" stroke="#1f5fa8" stroke-width="2.5"/>
+  <!-- stakes -->
+  <line x1="60" y1="234" x2="60" y2="248" stroke="#222" stroke-width="3"/>
+  <line x1="360" y1="234" x2="360" y2="248" stroke="#222" stroke-width="3"/>
+  <!-- right angle -->
+  <polyline points="224,240 224,226 210,226" fill="none" stroke="#222" stroke-width="1.5"/>
+  <!-- labels -->
+  <text x="198" y="145" text-anchor="end">2,4 m</text>
+  <line x1="210" y1="266" x2="360" y2="266" stroke="#222" stroke-width="1.2"/>
+  <line x1="210" y1="260" x2="210" y2="272" stroke="#222" stroke-width="1.2"/>
+  <line x1="360" y1="260" x2="360" y2="272" stroke="#222" stroke-width="1.2"/>
+  <text x="285" y="284" text-anchor="middle">1,8 m</text>
+  <text x="300" y="128" fill="#1f5fa8">cabo</text>
+  <text x="80" y="128" fill="#1f5fa8">cabo</text>
+  <text x="222" y="36">topo do mastro</text>
+  <text x="370" y="232" font-size="14">estaca</text>
+  <text x="50" y="232" text-anchor="end" font-size="14">estaca</text>
+</svg>

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "O que cabe numa caixa de sapatos",
+    "subtitle": null,
+    "author": "Marta Vilela",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Quando minha avó Celeste completou oitenta e sete anos, pediu de presente uma",
+      "coisa estranha: que alguém da família tivesse paciência. Não queria bolo, nem perfume,",
+      "nem a viagem que meus tios planejavam havia meses. Queria que um de nós se sentasse",
+      "com ela, numa tarde inteira, diante de uma velha caixa de sapatos. Como eu era a única",
+      "de férias, a incumbência<sup>1</sup> sobrou para mim, e confesso que aceitei com a má vontade de",
+      "quem cumpre uma obrigação.",
+      "A caixa guardava de tudo: fotografias de bordas recortadas, cartas amareladas, um",
+      "bilhete de bonde, a receita de um doce escrita a lápis e uma chave que já não abria",
+      "porta nenhuma. Era a chave do casarão da Rua das Acácias, onde ela nascera e de onde",
+      "saíra casada, e que fora demolido quando eu ainda aprendia a andar. No lugar dele há",
+      "hoje um estacionamento; eu passo ali quase todo dia e nunca tinha reparado.",
+      "Minha avó não abriu a caixa de uma vez. Tirava um objeto, segurava-o contra a luz",
+      "da janela e só então começava a falar. A chave virou uma escada de madeira que rangia<sup>2</sup>",
+      "no terceiro degrau; a receita virou uma cozinha cheia de primas; o bilhete de bonde",
+      "virou o primeiro passeio com meu avô, que, segundo ela, errou o caminho de propósito",
+      "para a viagem durar mais. Eu, que tinha chegado olhando o relógio, esqueci o celular",
+      "no sofá.",
+      "Foi nessa tarde que entendi uma coisa simples: os objetos não guardam memória",
+      "sozinhos. Uma fotografia sem ninguém que a explique é só um rosto desconhecido; uma",
+      "chave sem história é apenas um pedaço de metal. O que dá sentido a esses restos é a",
+      "voz de quem viveu, e essa voz não dura para sempre. Por isso os arquivos de família",
+      "são tão frágeis: dependem menos do papel do que da boa vontade de quem escuta.",
+      "Há quem diga que lembrar é coisa de gente velha, que o passado deve ficar onde",
+      "está. Discordo. Quando um casarão cai, a cidade perde mais do que paredes: perde um",
+      "pedaço do mapa que explica quem somos. E quando uma avó conta uma história, ela não",
+      "está apenas se distraindo; está entregando uma herança que não cabe em testamento<sup>3</sup>.",
+      "Saí da casa dela com a caixa debaixo do braço. Ela insistiu que eu a levasse,",
+      "“porque agora você sabe o que tem dentro”. Ainda não sei tudo. Mas, desde então, toda",
+      "vez que passo pelo estacionamento da Rua das Acácias, subo em pensamento uma escada de",
+      "madeira e conto os degraus até chegar ao terceiro."
+    ],
+    "para_starts": [
+      1,
+      7,
+      12,
+      18,
+      23,
+      27
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "incumbência",
+        "def": "tarefa, encargo"
+      },
+      {
+        "term": "rangia",
+        "def": "produzia um ruído áspero, como madeira velha ao ser pisada"
+      },
+      {
+        "term": "testamento",
+        "def": "documento em que alguém declara a quem deixará seus bens depois da morte"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Herança",
+    "subtitle": null,
+    "author": "Tomás Arruda",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Minha avó não deixou joias,",
+      "deixou nomes de rua antigos,",
+      "o cheiro de um quintal que não existe",
+      "e a lista dos seus velhos amigos.",
+      "Deixou a casa que o tempo derrubou",
+      "e que ela reerguia sem esforço:",
+      "bastava dizer “aqui era a sala”",
+      "e a sala voltava, tijolo por tijolo.",
+      "Deixou o costume de passar café,",
+      "a pressa nenhuma de terminar",
+      "e um jeito de começar as histórias",
+      "que eu ainda não sei imitar.",
+      "O cartório não registra isso,",
+      "nenhum cofre sabe guardar:",
+      "é herança que só se recebe",
+      "de ouvido, sem assinar.",
+      "Agora sou eu quem, na varanda,",
+      "conta aos pequenos o que escutou:",
+      "a memória é casa que só fica de pé",
+      "enquanto alguém mora no que sobrou."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "ESSA HISTÓRIA TAMBÉM É SUA",
+    "subtitle": null,
+    "author": null,
+    "kind": "outro",
+    "numbering": "none",
+    "lines": [
+      "<i>[Cartaz de uma campanha de bairro. Ao fundo, ocupando todo o cartaz, uma fotografia antiga, em preto e branco, mostra uma família reunida na escadaria de um casarão. Em primeiro plano, uma mão jovem, em cores, segura essa mesma fotografia. Sobre a imagem, aparecem os textos abaixo.]</i>",
+      "<b>Aquela foto esquecida na gaveta pode contar a história do seu bairro.</b>",
+      "Traga fotografias, cartas, documentos e objetos antigos da sua família para o Arquivo Comunitário. Nós digitalizamos tudo na hora, e o original volta para casa com você.",
+      "E não se esqueça de trazer quem sabe contar: avós e bisavós são nossos convidados de honra.",
+      "<b>Não deixe a memória virar entulho.</b>",
+      "Semana da Memória do Bairro · Arquivo Comunitário · Entrada gratuita"
+    ],
+    "para_starts": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Campanha fictícia. Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

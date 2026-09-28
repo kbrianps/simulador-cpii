@@ -6,7 +6,8 @@
     "build": "node tools/build.mjs",
     "check-math": "node tools/check_katex.mjs",
     "deploy": "bash tools/deploy.sh",
-    "shoot": "node tools/shoot.mjs"
+    "shoot": "node tools/shoot.mjs",
+    "e2e": "node tools/e2e.mjs"
   },
   "dependencies": {
     "@fontsource/literata": "^5.3.0",

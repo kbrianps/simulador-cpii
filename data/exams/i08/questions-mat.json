@@ -1,0 +1,269 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um supermercado, o pacote tradicional de café de 250 g custa R$ 12,00. Durante uma promoção, a mesma marca lançou um pacote de 300 g vendido por R$ 13,50.</p><p>Comparando o preço do quilograma de café nos dois pacotes, o preço do quilograma no pacote da promoção, em relação ao do pacote tradicional, teve uma redução de</p>",
+    "options": {
+      "A": "3%.",
+      "B": "6,25%.",
+      "C": "12,5%.",
+      "D": "20%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Para comparar pacotes de tamanhos diferentes, calculamos o preço de um mesmo peso nos dois casos. Vamos usar o quilograma (1.000 g).</p><ul><li>Pacote tradicional: 250 g cabem 4 vezes em 1.000 g, então 1 kg custa \\(4 \\cdot 12 = 48\\) reais.</li><li>Pacote da promoção: 13,50 reais por 300 g dá \\(13{,}50 \\div 3 = 4{,}50\\) reais a cada 100 g, então 1 kg custa \\(10 \\cdot 4{,}50 = 45\\) reais.</li></ul><p>O quilograma ficou \\(48 - 45 = 3\\) reais mais barato. Para saber quanto isso representa em porcentagem, comparamos com o preço <b>antigo</b> (48 reais):</p><p>\\[\\frac{3}{48} = \\frac{1}{16} = 0{,}0625 = 6{,}25\\%\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Usa a diferença de R$ 3,00 no preço do quilograma como se fosse a porcentagem. Uma diferença em reais só vira porcentagem quando é dividida pelo preço de referência (48 reais).",
+      "C": "É o aumento do preço do pacote: \\(\\frac{13{,}50 - 12}{12} = 12{,}5\\%\\). Esse cálculo ignora que o pacote novo também tem mais café, então não compara preços de quantidades iguais.",
+      "D": "É o aumento da quantidade de café: \\(\\frac{300 - 250}{250} = 20\\%\\). Olhar só para a quantidade esquece que o preço do pacote também subiu."
+    },
+    "tip": "Para comparar embalagens de tamanhos diferentes, calcule o preço de uma mesma quantidade (por quilo, por litro) e divida a diferença pelo preço antigo."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Nas lojas, o tamanho da tela de um tablet é informado pela medida da <b>diagonal</b> da tela, em polegadas. A tela retangular do tablet de Júlia mede 24 cm de largura e 18 cm de altura, como mostra a figura.</p><p><img src=\"img/i08/mat-q12.svg\" alt=\"Tablet visto de frente. A tela é um retângulo com 24 cm de largura, indicados embaixo, e 18 cm de altura, indicados à direita. Uma linha tracejada liga o canto inferior esquerdo ao canto superior direito da tela e está marcada como diagonal.\"></p><p>Considerando 1 polegada igual a 2,5 cm, o tamanho da tela desse tablet, em polegadas, é</p>",
+    "options": {
+      "A": "16,8.",
+      "B": "75.",
+      "C": "30.",
+      "D": "12."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A diagonal divide a tela em dois triângulos retângulos. Em cada um, os catetos são a largura (24 cm) e a altura (18 cm), e a diagonal \\(d\\) é a hipotenusa.</p><p>Pelo Teorema de Pitágoras:</p><p>\\[d^2 = 24^2 + 18^2 = 576 + 324 = 900 \\;\\Rightarrow\\; d = 30 \\text{ cm}\\]</p><p>(Outra forma de ver: 24 e 18 são \\(6 \\cdot 4\\) e \\(6 \\cdot 3\\), então a diagonal é \\(6 \\cdot 5 = 30\\).)</p><p>Agora convertemos para polegadas. Como cada polegada tem 2,5 cm, dividimos:</p><p>\\[30 \\div 2{,}5 = 12 \\text{ polegadas}\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Somou a largura e a altura em vez de usar Pitágoras: \\(24 + 18 = 42\\) cm e \\(42 \\div 2{,}5 = 16{,}8\\). A diagonal é a hipotenusa, que é menor que a soma dos catetos.",
+      "B": "Achou a diagonal de 30 cm, mas multiplicou por 2,5 em vez de dividir: \\(30 \\cdot 2{,}5 = 75\\). Como a polegada é maior que o centímetro, a medida em polegadas tem de ser um número menor.",
+      "C": "Calculou a diagonal corretamente, 30 cm, mas esqueceu de converter o resultado para polegadas."
+    },
+    "tip": "Tamanho de tela é a diagonal: use Pitágoras com a largura e a altura e só depois converta a unidade. Para passar de cm para polegadas, divida por 2,5."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Luana vai trocar o piso de uma sala retangular de 6 m por 4,5 m. Em um dos cantos há um armário embutido, também retangular, de 2 m por 1,5 m, cujo chão <b>não</b> receberá o novo piso, como mostra a planta a seguir.</p><p><img src=\"img/i08/mat-q13.svg\" alt=\"Planta baixa vista de cima: um retângulo de 6 m de comprimento por 4,5 m de largura representa a sala. No canto superior direito há um retângulo menor, de 2 m por 1,5 m, marcado com um X e indicado como armário. Uma porta aparece na parede de baixo.\"></p><p>O piso escolhido é formado por peças quadradas de 50 cm de lado, vendidas somente em caixas fechadas com 10 peças cada. As medidas permitem cobrir a área sem cortar nenhuma peça.</p><p>A menor quantidade de caixas que Luana precisa comprar é</p>",
+    "options": {
+      "A": "10.",
+      "B": "11.",
+      "C": "9.",
+      "D": "5."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Área a ser coberta.</b> A área da sala menos a área do armário:</p><p>\\[6 \\cdot 4{,}5 - 2 \\cdot 1{,}5 = 27 - 3 = 24 \\text{ m}^2\\]</p><p><b>2) Área de cada peça.</b> 50 cm = 0,5 m, então cada peça tem \\(0{,}5 \\cdot 0{,}5 = 0{,}25\\) m². Em 1 m² cabem 4 peças.</p><p><b>3) Número de peças.</b> \\(24 \\cdot 4 = 96\\) peças.</p><p>(Também dá para contar pelos lados: a sala comporta \\(12 \\cdot 9 = 108\\) peças e o armário ocuparia \\(4 \\cdot 3 = 12\\); \\(108 - 12 = 96\\).)</p><p><b>4) Caixas.</b> \\(96 \\div 10 = 9{,}6\\). Como só se vendem caixas fechadas, 9 caixas (90 peças) não bastam; são necessárias <b>10 caixas</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu de descontar o armário: \\(27 \\text{ m}^2\\) dão 108 peças, ou seja, 10,8 e portanto 11 caixas.",
+      "C": "Arredondou 9,6 para baixo. Com 9 caixas há só 90 peças, e faltariam 6 para cobrir a sala.",
+      "D": "Considerou que cada peça tem 0,5 m² (confundiu o lado de 0,5 m com a área). A área é \\(0{,}5 \\cdot 0{,}5 = 0{,}25 \\text{ m}^2\\), a metade disso."
+    },
+    "tip": "Área de um quadrado de lado 0,5 m é 0,25 m², não 0,5 m². E, quando só se vende a embalagem inteira, arredonde sempre para cima."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para uma apresentação de teatro no pátio da escola, o grêmio vai arrumar exatamente <b>36 cadeiras</b> em forma de retângulo: todas as fileiras terão o mesmo número de cadeiras, sem sobrar nenhuma cadeira.</p><p>O grêmio quer que haja <b>pelo menos 2 fileiras</b> e <b>pelo menos 2 cadeiras em cada fileira</b>. Uma arrumação com 4 fileiras de 9 cadeiras é considerada diferente de uma com 9 fileiras de 4 cadeiras.</p><p>O número de arrumações diferentes possíveis é</p>",
+    "options": {
+      "A": "4.",
+      "B": "9.",
+      "C": "7.",
+      "D": "6."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Se houver \\(f\\) fileiras com \\(c\\) cadeiras cada, então \\(f \\cdot c = 36\\). Logo, o número de fileiras tem de ser um <b>divisor de 36</b>.</p><p>Os divisores de 36 são: 1, 2, 3, 4, 6, 9, 12, 18 e 36 (são 9 divisores).</p><p>As condições eliminam dois casos:</p><ul><li>1 fileira de 36 cadeiras (menos de 2 fileiras);</li><li>36 fileiras de 1 cadeira (menos de 2 cadeiras por fileira).</li></ul><p>Sobram as arrumações:</p><p>\\[2 \\times 18,\\; 3 \\times 12,\\; 4 \\times 9,\\; 6 \\times 6,\\; 9 \\times 4,\\; 12 \\times 3,\\; 18 \\times 2\\]</p><p>São 7 arrumações diferentes (lembrando que 4 fileiras de 9 e 9 fileiras de 4 contam como duas). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contou apenas os pares de números sem levar em conta a ordem (2 e 18, 3 e 12, 4 e 9, 6 e 6), mas o enunciado diz que 4 fileiras de 9 é diferente de 9 fileiras de 4.",
+      "B": "Contou todos os 9 divisores de 36, sem retirar os casos de 1 fileira e de 1 cadeira por fileira, que o grêmio não aceita.",
+      "D": "Contou as arrumações com a ordem, mas esqueceu a arrumação quadrada de 6 fileiras de 6 cadeiras, que também serve."
+    },
+    "tip": "Arrumar objetos em retângulo é procurar divisores: fileiras vezes cadeiras dá o total. Liste os divisores e confira quais cumprem as condições do enunciado."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Paulo abriu um livro ao acaso e observou os números das duas páginas que ficaram à vista, uma ao lado da outra. Esses números são consecutivos, e o <b>produto</b> deles é igual a 1.806.</p><p>A soma dos números dessas duas páginas é</p>",
+    "options": {
+      "A": "43.",
+      "B": "85.",
+      "C": "87.",
+      "D": "169."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Chamando de \\(x\\) o número da primeira página, a outra é \\(x + 1\\). O produto é 1.806:</p><p>\\[x(x+1) = 1806 \\;\\Rightarrow\\; x^2 + x - 1806 = 0\\]</p><p>Na fórmula resolutiva, com \\(a = 1\\), \\(b = 1\\) e \\(c = -1806\\):</p><p>\\[\\Delta = b^2 - 4ac = 1 + 7224 = 7225, \\qquad \\sqrt{7225} = 85\\]</p><p>\\[x = \\frac{-1 \\pm 85}{2} \\;\\Rightarrow\\; x = 42 \\;\\text{ ou }\\; x = -43\\]</p><p>Número de página não pode ser negativo, então \\(x = 42\\) e as páginas são 42 e 43. Conferindo: \\(42 \\cdot 43 = 1806\\).</p><p>A soma é \\(42 + 43 = 85\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Encontrou as páginas 42 e 43, mas respondeu apenas o número da maior página, e não a soma das duas.",
+      "C": "Errou o sinal de \\(b\\) na fórmula: fez \\(x = \\frac{1 + 85}{2} = 43\\) e tomou as páginas 43 e 44, cuja soma é 87. Mas \\(43 \\cdot 44 = 1892\\), não 1.806.",
+      "D": "Esqueceu de dividir por \\(2a\\) na fórmula: fez \\(x = -1 + 85 = 84\\) e somou \\(84 + 85 = 169\\). Bastava conferir: \\(84 \\cdot 85\\) é muito maior que 1.806."
+    },
+    "tip": "Em problemas com números consecutivos, chame um deles de \\(x\\) e o outro de \\(x + 1\\). Depois de resolver, confira a resposta substituindo no enunciado."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma corrida de rua de 10 km, Ana e Bruna largaram juntas. Cada uma manteve o mesmo ritmo do início ao fim da prova:</p><ul><li>Ana: 4 minutos para cada quilômetro;</li><li>Bruna: 5 minutos para cada quilômetro.</li></ul><p>No instante em que Ana cruzou a linha de chegada, a distância que ainda faltava para Bruna completar a prova era de</p>",
+    "options": {
+      "A": "1 km.",
+      "B": "2,5 km.",
+      "C": "8 km.",
+      "D": "2 km."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Tempo de Ana:</b> são 10 km a 4 minutos por quilômetro, então ela terminou em \\(10 \\cdot 4 = 40\\) minutos.</p><p><b>Onde estava Bruna nesse instante:</b> ela também correu durante 40 minutos, gastando 5 minutos por quilômetro. A distância é proporcional ao tempo:</p><p>\\[\\frac{40 \\text{ min}}{5 \\text{ min/km}} = 8 \\text{ km}\\]</p><p>Faltavam, então, \\(10 - 8 = 2\\) km para Bruna.</p><p>Conferindo de outro jeito: a cada minuto, Ana corre \\(\\frac{1}{4}\\) km e Bruna, \\(\\frac{1}{5}\\) km; a diferença entre elas aumenta \\(\\frac{1}{4} - \\frac{1}{5} = \\frac{1}{20}\\) km por minuto. Em 40 minutos: \\(40 \\cdot \\frac{1}{20} = 2\\) km.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Subtraiu os ritmos (\\(5 - 4 = 1\\)) e tratou essa diferença de 1 minuto por quilômetro como se fosse 1 km de distância.",
+      "B": "Calculou a diferença entre os tempos de prova (\\(50 - 40 = 10\\) minutos) e a converteu em distância usando o ritmo de Ana: \\(10 \\div 4 = 2{,}5\\) km. Nesses 10 minutos quem corre é Bruna, no ritmo dela: \\(10 \\div 5 = 2\\) km.",
+      "C": "Calculou corretamente que Bruna tinha percorrido 8 km, mas respondeu a distância já percorrida, e não a que faltava."
+    },
+    "tip": "Ritmo (minutos por quilômetro) é o contrário de velocidade: quanto maior o ritmo, mais devagar. Descubra primeiro o tempo de quem chega antes e veja onde a outra está nesse instante."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dez estudantes participaram de uma corrida de 5 km na escola. O professor de Educação Física anotou o tempo de cada um, em minutos, na tabela a seguir.</p><table><tbody><tr><th>Estudante</th><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><th>Tempo (min)</th><td>27</td><td>25</td><td>31</td><td>22</td><td>43</td><td>25</td><td>28</td><td>24</td><td>30</td><td>25</td></tr></tbody></table><p>Depois, ele percebeu que tinha cometido um erro: o tempo do estudante 5 foi de 33 minutos, e não de 43 minutos. O professor corrigiu a tabela e recalculou a média, a mediana e a moda dos tempos.</p><p>Com a correção,</p>",
+    "options": {
+      "A": "apenas a média mudou.",
+      "B": "apenas a mediana mudou.",
+      "C": "a média e a mediana mudaram, e a moda não mudou.",
+      "D": "nenhuma das três medidas mudou."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Colocando os tempos em ordem crescente:</p><p>22, 24, 25, 25, 25, 27, 28, 30, 31, 43</p><p><b>Antes da correção:</b></p><ul><li>Média: a soma é 280, então a média é \\(280 \\div 10 = 28\\) minutos.</li><li>Mediana: com 10 valores, é a média do 5º e do 6º: \\(\\dfrac{25 + 27}{2} = 26\\) minutos.</li><li>Moda: o valor que mais aparece é 25 (três vezes).</li></ul><p><b>Depois da correção</b> (43 vira 33): 22, 24, 25, 25, 25, 27, 28, 30, 31, 33</p><ul><li>Média: a soma diminui 10 e passa a 270, então a média é \\(270 \\div 10 = 27\\) minutos. <b>Mudou.</b></li><li>Mediana: 33 continua sendo o maior valor, então o 5º e o 6º valores continuam 25 e 27, e a mediana continua 26. <b>Não mudou.</b></li><li>Moda: continua 25. <b>Não mudou.</b></li></ul><p>A média usa todos os valores, por isso sente a correção; a mediana só depende dos valores do meio. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Inverteu o comportamento das medidas: a mediana depende só dos valores centrais (25 e 27), que não mudaram; quem muda é a média, porque a soma dos tempos diminuiu 10 minutos.",
+      "C": "Achou que a mediana também mudaria porque um valor da tabela mudou. Mas 33 continua sendo o maior tempo, e o 5º e o 6º valores em ordem continuam 25 e 27.",
+      "D": "Achou que corrigir um único valor não altera nenhuma medida. A média, porém, depende da soma de todos os tempos, que caiu de 280 para 270, e passou de 28 para 27 minutos."
+    },
+    "tip": "A média é sensível a qualquer valor, principalmente aos extremos; a mediana e a moda costumam não mudar quando só um valor extremo é alterado. Para a mediana, sempre coloque os dados em ordem."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O piso de um coreto, em uma praça, tem a forma de um polígono regular. Ao projetar o coreto, a arquiteta observou que cada ângulo interno desse polígono mede o quádruplo de cada ângulo externo.</p><p>Para a festa junina, serão esticados cordões de bandeirinhas ligando cada par de vértices <b>não consecutivos</b> do piso, um cordão para cada par.</p><p>O número de cordões de bandeirinhas é</p>",
+    "options": {
+      "A": "20.",
+      "B": "70.",
+      "C": "35.",
+      "D": "45."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Em cada vértice, o ângulo interno e o ângulo externo são suplementares: \\(i + e = 180^\\circ\\).</p><p>Com \\(i = 4e\\):</p><p>\\[4e + e = 180^\\circ \\;\\Rightarrow\\; 5e = 180^\\circ \\;\\Rightarrow\\; e = 36^\\circ\\]</p><p>A soma dos ângulos externos de qualquer polígono é \\(360^\\circ\\). Como o polígono é regular, o número de lados é</p><p>\\[n = \\frac{360^\\circ}{36^\\circ} = 10 \\quad \\text{(decágono)}\\]</p><p>Os cordões ligam vértices não consecutivos, ou seja, são as <b>diagonais</b>. De cada vértice saem \\(n - 3 = 7\\) diagonais (não vale ligar ao próprio vértice nem aos dois vizinhos). Como cada diagonal liga dois vértices, ela seria contada duas vezes:</p><p>\\[d = \\frac{n(n - 3)}{2} = \\frac{10 \\cdot 7}{2} = 35\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Fez \\(e = 180^\\circ \\div 4 = 45^\\circ\\), esquecendo que interno e externo somam 180°. Isso dá \\(n = 8\\) e \\(\\frac{8 \\cdot 5}{2} = 20\\). Com \\(e = 45^\\circ\\), o interno seria 135°, que é só o triplo de 45°.",
+      "B": "Achou o decágono, mas não dividiu por 2: \\(10 \\cdot 7 = 70\\) conta cada diagonal duas vezes, uma por extremidade.",
+      "D": "Contou todos os pares de vértices, \\(\\frac{10 \\cdot 9}{2} = 45\\), incluindo os 10 pares de vértices consecutivos, que formam os lados e não recebem cordão."
+    },
+    "tip": "Ângulo interno + externo = 180°, e os externos somam 360°. Diagonais: \\(\\frac{n(n-3)}{2}\\)."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um livro de Ciências, Caio leu que um fio de cabelo humano tem espessura de cerca de \\(8 \\cdot 10^{-5}\\) m e que certa bactéria tem comprimento de cerca de \\(2 \\cdot 10^{-6}\\) m.</p><p>De acordo com esses valores, o número dessas bactérias que, enfileiradas uma encostada na outra, cobririam a espessura de um fio de cabelo é</p>",
+    "options": {
+      "A": "4.",
+      "B": "40.",
+      "C": "400.",
+      "D": "0,4."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Precisamos saber quantas vezes o comprimento da bactéria cabe na espessura do fio, ou seja, dividir as duas medidas:</p><p>\\[\\frac{8 \\cdot 10^{-5}}{2 \\cdot 10^{-6}} = \\frac{8}{2} \\cdot \\frac{10^{-5}}{10^{-6}} = 4 \\cdot 10^{-5-(-6)} = 4 \\cdot 10^{1} = 40\\]</p><p>Conferindo com números decimais: \\(8 \\cdot 10^{-5} = 0{,}00008\\) e \\(2 \\cdot 10^{-6} = 0{,}000002\\). Multiplicando os dois por 1.000.000: \\(80 \\div 2 = 40\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu apenas 8 por 2 e ignorou as potências de 10, como se as duas medidas estivessem na mesma ordem de grandeza.",
+      "C": "Errou ao escrever \\(8 \\cdot 10^{-5}\\) na forma decimal, colocando um zero a menos (0,0008, que é \\(8 \\cdot 10^{-4}\\)), e obteve \\(0{,}0008 \\div 0{,}000002 = 400\\).",
+      "D": "Na divisão de potências de mesma base, subtraiu os expoentes na ordem errada: fez \\(10^{-6-(-5)} = 10^{-1}\\) e obteve \\(4 \\cdot 10^{-1} = 0{,}4\\). O certo é expoente do numerador menos expoente do denominador."
+    },
+    "tip": "Na divisão de potências de mesma base, conserve a base e subtraia os expoentes: numerador menos denominador. Com expoentes negativos, cuidado com o sinal: \\(-5 - (-6) = 1\\)."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma escola de natação oferece três planos mensais:</p><table><thead><tr><th>Plano</th><th>Como é cobrado</th></tr></thead><tbody><tr><td>Avulso</td><td>R$ 12,00 por aula</td></tr><tr><td>Livre</td><td>R$ 90,00 fixos, com aulas ilimitadas</td></tr><tr><td>Parceiro</td><td>R$ 40,00 fixos mais R$ 5,00 por aula</td></tr></tbody></table><p>Considere \\(n\\) o número de aulas que um aluno faz em um mês.</p><p>A quantidade de valores inteiros de \\(n\\) para os quais o plano Parceiro fica <b>mais barato que cada um dos outros dois planos</b> é</p>",
+    "options": {
+      "A": "4.",
+      "B": "5.",
+      "C": "9.",
+      "D": "3."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.inequacoes_funcoes",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Os custos mensais, em reais, com \\(n\\) aulas são:</p><ul><li>Avulso: \\(12n\\);</li><li>Livre: \\(90\\);</li><li>Parceiro: \\(40 + 5n\\).</li></ul><p><b>Parceiro mais barato que Avulso:</b></p><p>\\[40 + 5n < 12n \\;\\Rightarrow\\; 40 < 7n \\;\\Rightarrow\\; n > \\frac{40}{7} \\approx 5{,}7\\]</p><p>Como \\(n\\) é inteiro, \\(n \\geq 6\\). (Teste: com 5 aulas, Avulso custa 60 e Parceiro, 65; com 6 aulas, 72 contra 70.)</p><p><b>Parceiro mais barato que Livre:</b></p><p>\\[40 + 5n < 90 \\;\\Rightarrow\\; 5n < 50 \\;\\Rightarrow\\; n < 10\\]</p><p>Então \\(n \\leq 9\\). (Com 10 aulas, os dois custam 90 reais: empate, não é mais barato.)</p><p>As duas condições valem juntas para \\(n = 6, 7, 8, 9\\): são <b>4 valores</b>. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Incluiu \\(n = 10\\). Com 10 aulas, Parceiro e Livre custam os mesmos 90 reais, então o Parceiro não é mais barato que o Livre.",
+      "C": "Comparou o Parceiro só com o plano Livre (de \\(n = 1\\) a \\(n = 9\\)), esquecendo que para poucas aulas o Avulso é mais barato.",
+      "D": "Arredondou \\(\\frac{40}{7} \\approx 5{,}7\\) para 6 e exigiu \\(n > 6\\), ficando só com 7, 8 e 9. Com 6 aulas o Parceiro (70 reais) já vence o Avulso (72 reais)."
+    },
+    "tip": "Quando o preço depende da quantidade, escreva uma inequação para cada comparação, resolva e junte as condições; depois teste as bordas."
+  }
+]

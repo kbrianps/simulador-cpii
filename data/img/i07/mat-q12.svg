@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 250" width="389" height="191" font-family="Arial, Helvetica, sans-serif" font-size="21">
+  <rect x="0" y="0" width="510" height="250" fill="#ffffff"/>
+  <rect x="50" y="40" width="360" height="135" fill="#e8f3e3" stroke="#222" stroke-width="2.5"/>
+  <polyline points="50,175 230,40 410,175" fill="none" stroke="#8a5a2b" stroke-width="3.5" stroke-dasharray="10 7"/>
+  <circle cx="50" cy="175" r="4.5" fill="#222"/>
+  <circle cx="410" cy="175" r="4.5" fill="#222"/>
+  <circle cx="230" cy="40" r="4.5" fill="#222"/>
+  <text x="26" y="198">A</text>
+  <text x="418" y="198">B</text>
+  <text x="418" y="34">C</text>
+  <text x="26" y="34">D</text>
+  <text x="222" y="30">M</text>
+  <line x1="50" y1="212" x2="410" y2="212" stroke="#555" stroke-width="1.5"/>
+  <line x1="50" y1="204" x2="50" y2="220" stroke="#555" stroke-width="1.5"/>
+  <line x1="410" y1="204" x2="410" y2="220" stroke="#555" stroke-width="1.5"/>
+  <text x="230" y="242" text-anchor="middle">40 m</text>
+  <line x1="434" y1="40" x2="434" y2="175" stroke="#555" stroke-width="1.5"/>
+  <line x1="426" y1="40" x2="442" y2="40" stroke="#555" stroke-width="1.5"/>
+  <line x1="426" y1="175" x2="442" y2="175" stroke="#555" stroke-width="1.5"/>
+  <text x="448" y="115">15 m</text>
+  <text x="230" y="145" text-anchor="middle" font-size="18" fill="#557055">jardim</text>
+</svg>

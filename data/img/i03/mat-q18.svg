@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 290" width="440" height="290" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect x="0" y="0" width="440" height="290" fill="#ffffff"/>
+  <!-- parallel streets r and s -->
+  <line x1="30" y1="90" x2="410" y2="90" stroke="#222" stroke-width="2.5"/>
+  <line x1="30" y1="210" x2="410" y2="210" stroke="#222" stroke-width="2.5"/>
+  <text x="414" y="95" font-style="italic">r</text>
+  <text x="414" y="215" font-style="italic">s</text>
+  <text x="44" y="82" font-size="14">Rua das Flores</text>
+  <text x="44" y="202" font-size="14">Rua dos Ipês</text>
+  <!-- transversal t -->
+  <line x1="283.7" y1="25" x2="193.4" y2="273" stroke="#1f5fa8" stroke-width="2.5"/>
+  <text x="290" y="32" font-style="italic" fill="#1f5fa8">t</text>
+  <text x="296" y="54" font-size="14" fill="#1f5fa8">Avenida Central</text>
+  <!-- angle at top intersection: below r, left of t -->
+  <path d="M 232 90 A 28 28 0 0 0 250.4 116.3" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <text x="236" y="128" text-anchor="end" fill="#c0392b">3x + 10°</text>
+  <!-- angle at bottom intersection: above s, right of t -->
+  <path d="M 244.3 210 A 28 28 0 0 0 225.9 183.7" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <text x="250" y="198" fill="#c0392b">5x − 30°</text>
+  <!-- angle y at bottom intersection: above s, left of t -->
+  <path d="M 194.3 210 A 22 22 0 0 1 223.8 189.3" fill="none" stroke="#1d7a3a" stroke-width="2"/>
+  <text x="176" y="194" font-style="italic" fill="#1d7a3a">y</text>
+</svg>

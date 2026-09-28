@@ -1,0 +1,293 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma crônica, gênero que costuma partir de situações do dia a dia para chegar a reflexões sobre a vida.</p><p>Uma característica desse gênero presente no Texto 1 é</p>",
+    "options": {
+      "A": "a defesa explícita de uma tese, sustentada por dados e pesquisas sobre a adolescência.",
+      "B": "o relato objetivo e impessoal de um acontecimento de interesse público.",
+      "C": "a narração em primeira pessoa de um episódio cotidiano, seguida de uma reflexão sobre ele.",
+      "D": "a apresentação de instruções para que o leitor resolva um problema de convivência."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Veja como o Texto 1 é construído.</p><ul><li>Ele é narrado em <b>primeira pessoa</b>: “Quando <b>mudei</b> de escola” (linha 1), “<b>Escolhi</b>, então, o banco” (linha 7).</li><li>Conta um <b>episódio comum do cotidiano</b>: um garoto que muda de escola, passa os recreios sozinho e faz amigos num dia de chuva na biblioteca (linhas 17-27).</li><li>Termina com uma <b>reflexão</b> que vai além do fato: “Pertencer, descobri depois, não é encontrar um lugar pronto à nossa espera: é perceber que outros também procuram e resolver procurar junto” (linhas 30-32).</li></ul><p>Partir de uma cena simples do dia a dia para chegar a uma reflexão sobre a vida é exatamente o que caracteriza a crônica.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Defender uma tese com dados e pesquisas é próprio do artigo de opinião (como o Texto 3). O Texto 1 não traz nenhum dado; ele conta uma experiência pessoal.",
+      "B": "O texto não é objetivo nem impessoal: está cheio de sentimentos do narrador (“uma ternura atrasada”, linhas 28-29) e trata de uma vivência particular, não de um fato de interesse público, como faria uma notícia.",
+      "D": "Não há instruções nem verbos no imperativo dirigidos ao leitor. A reflexão final é uma conclusão do narrador sobre a própria vida, não um passo a passo."
+    },
+    "tip": "Crônica: fato cotidiano, linguagem próxima da conversa, muitas vezes em primeira pessoa, e uma reflexão que nasce da cena."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Quando mudei de escola, aos catorze anos, descobri que o recreio pode ser o intervalo mais longo do dia. Na escola antiga, os vinte minutos <b><u>passavam num sopro</u></b> [...]” (linhas 1-2)</p></blockquote><p>No contexto, a expressão destacada indica que, na escola antiga, os vinte minutos de recreio</p>",
+    "options": {
+      "A": "pareciam durar muito pouco, pois o narrador estava entre amigos.",
+      "B": "passavam em silêncio, sem conversas entre os colegas.",
+      "C": "eram cansativos, pois deixavam o narrador sem fôlego.",
+      "D": "eram desperdiçados com brincadeiras sem importância."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Um sopro é algo que dura um instante. Dizer que o tempo “passava num sopro” é usar a palavra em <b>sentido figurado (conotativo)</b>: o tempo passava muito depressa.</p><p>O próprio parágrafo confirma essa leitura por contraste. Na escola nova, o recreio parecia “o intervalo mais longo do dia” (linhas 1-2), porque o narrador estava sozinho. Na antiga, ao contrário, havia “o time de sempre, a fila da cantina com as mesmas piadas, o canto do muro onde a gente dividia fones de ouvido” (linhas 3-4): com os amigos, os vinte minutos voavam.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Confunde “sopro” com algo silencioso. O trecho mostra o oposto: havia piadas na fila da cantina e amigos dividindo fones (linhas 3-4).",
+      "C": "Associa “sopro” a ficar sem fôlego, uma leitura literal. A expressão fala da duração do tempo, e o texto não menciona cansaço.",
+      "D": "Não há nenhuma crítica às brincadeiras. O narrador lembra a escola antiga com saudade, em contraste com a solidão na nova."
+    },
+    "tip": "Para descobrir o sentido de uma expressão figurada, compare-a com o que vem antes e depois: aqui, o “intervalo mais longo” da escola nova se opõe ao tempo que passava “num sopro” na antiga."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Ela levantou os olhos, e eu me preparei para o pior. <b><u>Mas</u></b> ela só perguntou:” (linhas 20-21)</p></blockquote><p>No trecho, a conjunção destacada estabelece entre as frases uma relação de</p>",
+    "options": {
+      "A": "adição, reforçando que o narrador tinha motivos para temer a menina.",
+      "B": "oposição, pois a reação da menina contraria o que o narrador esperava.",
+      "C": "conclusão, pois a pergunta da menina é uma consequência lógica do riso do narrador.",
+      "D": "explicação, pois a pergunta da menina justifica o medo que o narrador sentiu."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, veja o que o narrador esperava: ele riu “alto demais para uma biblioteca” (linha 20), a menina levantou os olhos e ele se preparou “para o pior”, isto é, achou que levaria uma bronca ou um olhar de reprovação.</p><p>O que aconteceu foi diferente: ela “só perguntou” se ele tinha achado engraçado (linhas 21-22). A conjunção <b>“Mas”</b> marca exatamente essa <b>oposição</b>, a quebra da expectativa. É uma conjunção <b>adversativa</b>; poderia ser trocada por “Porém” ou “No entanto” sem mudar o sentido.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Adição somaria uma ideia na mesma direção (como “e”, “além disso”). Aqui a segunda frase vai na direção contrária da primeira: o “pior” não acontece.",
+      "C": "Conclusão seria indicada por “portanto”, “logo”. A pergunta da menina não é deduzida do trecho anterior; ela surpreende o narrador.",
+      "D": "Explicação seria indicada por “pois”, “porque”. A pergunta não justifica o medo; pelo contrário, mostra que o medo não tinha razão de ser."
+    },
+    "tip": "“Mas”, “porém”, “contudo”, “no entanto” e “entretanto” marcam oposição, muitas vezes uma quebra de expectativa."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Sinto, talvez, uma ternura atrasada por aquele garoto que fingia estudar. <b><u>Ele</u></b> não sabia que, a poucos metros dali, outras pessoas também fingiam alguma coisa.” (linhas 28-30)</p></blockquote><p>O pronome destacado retoma</p>",
+    "options": {
+      "A": "o banco perto do bebedouro, lembrado no início do parágrafo.",
+      "B": "o irmão gêmeo da menina, que jogava xadrez contra si mesmo.",
+      "C": "o menino do nono ano, que sabia de cor as capitais do mundo.",
+      "D": "o próprio narrador, na época em que chegou à escola nova."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pronome “Ele” (linha 29) retoma o termo masculino mais próximo que faz sentido com o verbo “não sabia”: <b>“aquele garoto que fingia estudar”</b> (linha 29).</p><p>E quem é esse garoto? Lembre do segundo parágrafo: quem ficava no banco e “fingia revisar a matéria” (linhas 8-9) era o próprio narrador. No último parágrafo, já mais velho, ele olha para si mesmo no passado e fala de si na terceira pessoa (“aquele garoto”), como se olhasse para outra pessoa. Por isso “Ele” se refere ao <b>narrador quando era o aluno novo</b>.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Banco” é masculino e aparece no parágrafo, mas um banco não “sabe” nada. Quem não sabia era o garoto que fingia estudar.",
+      "B": "O irmão gêmeo aparece em outro parágrafo (linha 25) e nunca é descrito fingindo estudar. O pronome retoma o termo imediatamente anterior, “aquele garoto que fingia estudar”.",
+      "C": "O menino do nono ano também aparece só no parágrafo anterior (linhas 25-26). Quem fingia estudar no banco era o narrador."
+    },
+    "tip": "Para achar o referente de um pronome, volte ao termo mais próximo que combine em gênero, número e sentido com o que se diz dele."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Na escola antiga, os vinte minutos passavam num sopro<b>:</b> havia o time de sempre, a fila da cantina com as mesmas piadas, o canto do muro onde a gente dividia fones de ouvido.” (linhas 2-4)</p></blockquote><p>No trecho, os dois-pontos foram empregados para introduzir</p>",
+    "options": {
+      "A": "uma enumeração que explica a afirmação anterior, mostrando o que tornava o recreio tão agradável.",
+      "B": "a fala de uma personagem, reproduzida em discurso direto.",
+      "C": "uma ideia que se opõe à afirmação anterior, corrigindo-a.",
+      "D": "uma pausa que marca a mudança para um novo assunto no parágrafo."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Antes dos dois-pontos, o narrador faz uma afirmação: os vinte minutos “passavam num sopro”. Depois deles, vem uma <b>lista</b> (enumeração) separada por vírgulas: “o time de sempre”, “a fila da cantina com as mesmas piadas”, “o canto do muro onde a gente dividia fones de ouvido”.</p><p>Essa lista <b>explica</b> por que o tempo voava: havia amigos e rotinas compartilhadas. Introduzir uma enumeração ou um esclarecimento do que foi dito é um dos usos mais comuns dos dois-pontos.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Os dois-pontos também introduzem falas, como em “Mas ela só perguntou:” (linha 21), mas aí a fala vem na linha seguinte, marcada por travessão. No trecho da questão, não há ninguém falando.",
+      "C": "O que vem depois não contraria a afirmação; ao contrário, confirma e detalha por que o recreio passava rápido.",
+      "D": "O assunto continua o mesmo (o recreio na escola antiga). A mudança para a escola nova só vem na frase seguinte, “Na nova, o sinal tocava...” (linha 4)."
+    },
+    "tip": "Dois-pontos anunciam o que vem a seguir: uma fala, uma lista ou uma explicação do que acabou de ser dito."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>“sou a cadeira da sala<br>que ninguém quer ocupar.” (versos 3 e 4)</p></blockquote><p>Nesses versos do Texto 2, o eu lírico se compara a um objeto por meio de uma metáfora. Essa imagem expressa</p>",
+    "options": {
+      "A": "o desejo de ficar sozinho para descansar do barulho dos colegas.",
+      "B": "o orgulho de estar sempre disponível para ajudar quem precisar.",
+      "C": "a sensação de ser ignorado e de não ser escolhido pelos outros.",
+      "D": "a vontade de conquistar um lugar de destaque na sala de aula."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na <b>metáfora</b>, uma coisa é apresentada como se fosse outra, sem palavras como “como” ou “feito”: o eu lírico diz que <b>é</b> “a cadeira da sala”.</p><p>O detalhe que dá sentido à imagem é “que ninguém quer ocupar”: uma cadeira vazia, que ninguém escolhe. Assim, o eu lírico mostra que se sente deixado de lado, sem que os colegas o procurem. Os versos anteriores reforçam essa ideia: “Estou no meio de todos / e ninguém me vê passar” (versos 1 e 2).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Nada indica que o eu lírico queira ficar só. Pelo contrário, ele ensaia um sorriso para acompanhar os risos da turma (verso 8) e, no fim, deseja “um amigo ao lado” (verso 15).",
+      "B": "Uma cadeira até está “disponível”, mas o verso diz que ninguém quer ocupá-la. A imagem é de rejeição, não de orgulho.",
+      "D": "Uma cadeira vazia que ninguém escolhe é o oposto de destaque. E a última estrofe diz que ele não precisa “de multidão / nem de curtidas na tela” (versos 13 e 14)."
+    },
+    "tip": "Para interpretar uma metáfora, pergunte: que característica do objeto o poeta quer transferir para si? Aqui, a cadeira que ninguém ocupa."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A terceira estrofe do Texto 2 marca uma virada no poema, iniciada pela conjunção “Mas” (verso 9).</p><p>A mudança vivida pelo eu lírico é provocada por</p>",
+    "options": {
+      "A": "sua popularidade repentina, conquistada por meio das redes sociais.",
+      "B": "um gesto simples de reconhecimento: ser chamado pelo próprio nome.",
+      "C": "sua decisão de ensaiar sorrisos para ser aceito pelo grupo.",
+      "D": "seu afastamento do barulho dos corredores, onde se sentia excluído."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Nas duas primeiras estrofes, o eu lírico se sente invisível: “ninguém me vê passar” (verso 2), “eu ensaio o meu sorriso” (verso 8).</p><p>A terceira estrofe começa com “Mas”, anunciando a mudança: “um dia alguém me chama / pelo nome, sem razão” (versos 9 e 10). É um gesto pequeno, sem motivo especial, mas mostra que alguém o <b>enxergou</b>. Por isso, o nome “que era só nome” passa a ser “porta” e “chão” (versos 11 e 12): metáforas de abertura (uma porta para entrar num grupo) e de segurança (um chão onde se apoiar).</p><p>O título “Chamada” também aponta para isso: ser chamado pelo nome, como na lista de presença, é sinal de que se existe para o outro.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O poema recusa a popularidade: “Não preciso de multidão / nem de curtidas na tela” (versos 13 e 14). A virada vem de uma única pessoa.",
+      "C": "Ensaiar o sorriso (verso 8) acontece antes da virada e mostra a solidão do eu lírico, que fingia acompanhar o grupo. Não é isso que muda sua situação.",
+      "D": "O barulho do corredor aparece na segunda estrofe, e o poema não diz que o eu lírico se afastou dele. A mudança vem de alguém que o chama."
+    },
+    "tip": "Em poemas, conjunções como “Mas” no início de uma estrofe costumam marcar a virada: compare o que vem antes com o que vem depois."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O Texto 3 é um artigo de opinião, gênero em que o autor apresenta um posicionamento sobre um tema (a tese) e procura sustentá-lo com argumentos.</p><p>O trecho que expressa a tese do texto é:</p>",
+    "options": {
+      "A": "“Há uma diferença importante entre estar sozinho e sentir-se só.” (linha 1)",
+      "B": "“Ninguém publica o recreio passado em silêncio.” (linhas 9-10)",
+      "C": "“Pertencer não acontece por decreto.” (linha 17)",
+      "D": "“defendo que a solidão juvenil seja tratada como um assunto coletivo, e não como um defeito de quem a sente.” (linhas 11-12)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A tese é a opinião central que o texto quer provar. Uma pista forte é o verbo <b>“defendo”</b> (linha 11), em que o autor assume claramente sua posição: a solidão dos jovens deve ser tratada como <b>assunto coletivo</b>, e não como <b>defeito individual</b>.</p><p>Observe como o texto se organiza em torno dela:</p><ul><li>1º parágrafo: distingue estar sozinho de sentir-se só (preparação do tema);</li><li>2º parágrafo: mostra por que o jovem vive a solidão como fracasso pessoal (as redes como vitrine);</li><li>3º parágrafo: “Por isso, defendo...” apresenta a tese e, em seguida, propostas para escolas, famílias e jovens;</li><li>4º parágrafo: conclusão que retoma a ideia.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É a frase de abertura, que apresenta uma distinção de conceitos para introduzir o tema. Ela prepara a discussão, mas não é a posição que o autor defende.",
+      "B": "É um argumento (uma observação sobre as redes sociais) que ajuda a explicar por que o jovem se sente o único sozinho. Serve para sustentar a tese, não é a tese.",
+      "C": "Faz parte da conclusão e retoma a ideia de que o pertencimento precisa ser construído, mas sozinha não diz qual é a posição do autor sobre a solidão juvenil."
+    },
+    "tip": "Procure a tese onde o autor se posiciona abertamente: verbos como “defendo”, “acredito”, “é preciso” e conectivos como “por isso” costumam anunciá-la."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“Ninguém publica o recreio passado em silêncio.” (linhas 9-10)</p></blockquote><p>A passagem dessa oração para a voz passiva, mantendo o tempo verbal e o sentido original, está correta em:</p>",
+    "options": {
+      "A": "O recreio passado em silêncio, ninguém o publica.",
+      "B": "Nenhum recreio é passado em silêncio por quem publica.",
+      "C": "O recreio passado em silêncio não é publicado por ninguém.",
+      "D": "Ninguém tinha publicado o recreio passado em silêncio."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na voz ativa, o sujeito pratica a ação. Separe os termos:</p><ul><li>sujeito (quem pratica): <b>Ninguém</b>;</li><li>verbo: <b>publica</b> (presente do indicativo);</li><li>objeto direto (o que é publicado): <b>o recreio passado em silêncio</b>.</li></ul><p>Na voz passiva analítica, o objeto direto vira sujeito, o verbo passa para <b>ser + particípio</b> no mesmo tempo (“é publicado”, presente) e quem pratica a ação vira agente da passiva, introduzido por “por”: “O recreio passado em silêncio não é publicado por ninguém.”</p><p>O “não” aparece porque, com “ninguém” depois do verbo, o português exige a dupla negação; o sentido continua o mesmo: nenhuma pessoa publica esse recreio.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Apenas mudou a ordem, colocando o objeto no início e repetindo-o com o pronome “o”. O verbo “publica” continua na voz ativa e “Ninguém” continua sendo o sujeito.",
+      "B": "Tem verbo na passiva (“é passado”), mas o sentido mudou totalmente: agora a frase fala de como o recreio é passado, e não de quem o publica.",
+      "D": "Continua na voz ativa e ainda mudou o tempo verbal: “tinha publicado” é pretérito mais-que-perfeito, e não presente."
+    },
+    "tip": "Voz passiva analítica: o objeto vira sujeito, o verbo vira “ser + particípio” no mesmo tempo, e o antigo sujeito vira agente com “por”."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>No Texto 3, o autor afirma que os jovens podem lembrar que, “em qualquer pátio, há sempre alguém esperando um convite” (linhas 15-16).</p><p>Essa ideia encontra confirmação, no Texto 1, no seguinte trecho:</p>",
+    "options": {
+      "A": "“Todos pareciam ter um lugar marcado, como se tivessem recebido um mapa que ninguém se lembrou de me entregar.” (linhas 5-6)",
+      "B": "“Ele não sabia que, a poucos metros dali, outras pessoas também fingiam alguma coisa.” (linhas 29-30)",
+      "C": "“Às vezes pegava o celular e rolava a tela sem ler nada, só para que as mãos tivessem o que fazer.” (linhas 9-10)",
+      "D": "“Eu respondia que sim, que a turma era legal, e mudava de assunto.” (linhas 12-13)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A frase do Texto 3 significa que o jovem solitário nunca é o único: perto dele sempre há outra pessoa sozinha, à espera de que alguém se aproxime.</p><p>No Texto 1, o narrador, já mais velho, percebe exatamente isso ao olhar para o passado: “a poucos metros dali, outras pessoas <b>também</b> fingiam alguma coisa” (linhas 29-30). A palavra “também” mostra que ele não era o único. A história confirma: a menina dos quadrinhos se queixava de que “Ninguém entende as minhas piadas” (linha 22), e o irmão dela jogava xadrez “contra si mesmo” (linha 25). Eram outras pessoas esperando um convite.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Diz o contrário: é a impressão do narrador, na época, de que todos os outros já pertenciam a algum grupo e só ele estava de fora. O próprio texto mostra depois que essa impressão era enganosa.",
+      "C": "Mostra o disfarce da solidão do narrador (o celular como ocupação para as mãos), mas fala só dele, não da existência de outras pessoas na mesma situação.",
+      "D": "Mostra o narrador escondendo a solidão da mãe. O trecho se relaciona com o “interrogatório” criticado no Texto 3 (linha 14), mas não com a ideia de que sempre há alguém esperando um convite."
+    },
+    "tip": "Em questões de comparação, reescreva com suas palavras a ideia do primeiro texto e procure no outro o trecho que diz a mesma coisa, não apenas um que trate do mesmo assunto."
+  }
+]

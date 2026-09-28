@@ -1,0 +1,157 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Da roda de samba à batalha de rima",
+    "subtitle": "A cultura que nasce nas periferias ainda precisa provar, a cada geração, que é cultura",
+    "author": "Marina Albuquerque",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Toda sexta-feira à noite, na praça de um bairro distante do centro, jovens formam uma roda",
+      "em torno de dois rapazes que se enfrentam com palavras. Não há palco, não há ingresso, não",
+      "há microfone de sobra: há uma caixa de som, uma batida e a plateia, que decide no grito",
+      "quem venceu. Quem passa de carro talvez veja ali apenas barulho e aglomeração. Quem para e",
+      "escuta percebe outra coisa: uma aula improvisada de ritmo, rima, argumentação e memória.",
+      "A cena não é nova. Há pouco mais de um século, o samba também nascia nos quintais e",
+      "terreiros das camadas populares do Rio de Janeiro, sobretudo entre descendentes de",
+      "africanos escravizados, e também era visto com desconfiança. Rodas de samba chegaram a ser",
+      "dispersadas pela polícia, e o pandeiro, hoje símbolo nacional, podia servir de pretexto",
+      "para prender um homem por vadiagem<sup>1</sup>. Décadas depois, esse mesmo samba desfilaria na avenida,",
+      "seria transmitido pelo rádio e passaria a representar o país no exterior. O que antes era",
+      "caso de polícia virou patrimônio.",
+      "O funk e o rap percorrem hoje um caminho parecido. Nascidos nas periferias das grandes",
+      "cidades, influenciados por ritmos que atravessaram o oceano e reinventados com o sotaque de",
+      "cada quebrada<sup>2</sup>, esses gêneros ainda enfrentam o preconceito de quem os considera “música de",
+      "bandido” ou “coisa sem valor”. É claro que há letras que merecem crítica, como em qualquer",
+      "estilo musical. O problema é outro: julga-se o gênero inteiro pelo lugar de onde ele vem e",
+      "pelo endereço de quem o produz. O menino que canta rap no ônibus costuma ser olhado com",
+      "mais suspeita do que aquele que toca violão na praia.",
+      "Esse olhar ignora o que essas músicas fazem por quem as cria. Nas letras de samba, de funk",
+      "e de rap, a periferia conta a própria história com as próprias palavras: fala do trabalho",
+      "pesado, do transporte lotado e da violência, mas também da festa, do amor, da fé e da",
+      "vontade de vencer. Nas batalhas de rima, adolescentes que muitas vezes se sentem invisíveis",
+      "na escola descobrem que têm algo a dizer e que sabem dizê-lo bem. Para improvisar, é",
+      "preciso ler o mundo depressa, ampliar o vocabulário e responder ao adversário com lógica e",
+      "humor. Não por acaso, há professores que já levam essas rimas para a sala de aula.",
+      "Reconhecer essa produção não significa romantizar<sup>3</sup> a pobreza nem fechar os olhos para os",
+      "problemas das periferias. Significa admitir que cultura não é privilégio de quem mora perto",
+      "dos teatros e dos museus. A identidade de um povo se forma também nas lajes, nos becos e",
+      "nas praças, e quem a ignora conhece apenas metade do Brasil. Talvez, daqui a algumas",
+      "décadas, as batalhas de rima de hoje sejam estudadas como hoje estudamos os primeiros",
+      "sambas. Seria bom que, desta vez, não fosse preciso esperar tanto para ouvi-las."
+    ],
+    "para_starts": [
+      1,
+      6,
+      13,
+      20,
+      27
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "vadiagem",
+        "def": "situação de quem não tinha trabalho fixo; no início do século XX, era tratada como crime"
+      },
+      {
+        "term": "quebrada",
+        "def": "(gíria) bairro de periferia, comunidade"
+      },
+      {
+        "term": "romantizar",
+        "def": "mostrar de forma idealizada, escondendo o lado negativo"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Microfone aberto",
+    "subtitle": null,
+    "author": "MC Dandara Luz",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Aqui na praça é nóis, a roda já tá formada,",
+      "o beat<sup>1</sup> bate no peito, é o coração da quebrada.",
+      "Os moleque chega cedo, caderno cheio de ideia,",
+      "a rima é nossa escola, o povo é nossa plateia.",
+      "Cê acha que é só barulho? Então chega mais pra perto:",
+      "cada verso é um tijolo que eu levanto a céu aberto.",
+      "Meu avô cantava samba no quintal, com caixa e prato,",
+      "minha mãe dançava funk, e eu rimo o mesmo retrato.",
+      "Me chamaram de ninguém, me chamaram de ameaça,",
+      "mas quem tem a voz na mão não se perde na fumaça.",
+      "A caneta é minha arma, o papel é meu escudo,",
+      "quem nunca pisou aqui não pode falar de tudo.",
+      "Então solta o som, DJ, que a noite ainda é criança,",
+      "cada rima que eu jogo é semente de esperança.",
+      "Se o mundo não me escuta, eu aumento o volume:",
+      "a quebrada tem história que não cabe num resumo."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador (letra de rap de autoria fictícia).",
+    "glossary": [
+      {
+        "term": "beat",
+        "def": "(inglês) batida, base rítmica sobre a qual se canta o rap"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "A juíza da praça",
+    "subtitle": null,
+    "author": "Helena Barcellos",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Voltava do mercado com duas sacolas quando a praça me segurou. Havia uma pequena",
+      "multidão perto do coreto<sup>1</sup>, e dali saía uma batida que fazia tremer as folhas secas do chão.",
+      "Confesso que pensei em mudar de calçada. Pensei, mas não mudei: a curiosidade de professora",
+      "aposentada foi mais forte que o cansaço das pernas.",
+      "No centro da roda, uma menina de uns quinze anos, de tranças e boné, encarava um",
+      "rapaz bem mais alto. Ele tinha acabado de rimar uma provocação sobre o tamanho dela, e a",
+      "plateia respondia com um “uuuh” comprido. Ela esperou a batida voltar, sorriu e respondeu",
+      "com oito versos que eu não saberia repetir, mas que tinham começo, meio, fim e uma piada no",
+      "último. A praça veio abaixo.",
+      "– Quem levou essa? – gritou o apresentador.",
+      "A resposta foi unânime. A menina levantou os braços, e eu, sem perceber, levantei as",
+      "sacolas.",
+      "Na volta para casa, fiquei pensando nos quarenta anos em que pedi redações sobre “a",
+      "importância da leitura”. Aquela menina talvez nunca tivesse escrito uma. Mas acabara de",
+      "fazer, em trinta segundos, tudo o que eu tentava ensinar: ouviu o outro, organizou as",
+      "ideias, escolheu as palavras e convenceu uma plateia inteira. Tive vontade de voltar e",
+      "pedir desculpas, não sei bem a quem."
+    ],
+    "para_starts": [
+      1,
+      5,
+      10,
+      11,
+      13
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "coreto",
+        "def": "pequena construção coberta, no meio de praças, usada para apresentações musicais"
+      }
+    ],
+    "epigraph": null
+  }
+]

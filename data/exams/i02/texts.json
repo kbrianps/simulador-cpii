@@ -1,0 +1,176 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Na quadra da praça, o jogo agora é de todos",
+    "subtitle": "Divisão de horários e uma rampa de acesso mudaram a rotina de um espaço público de esporte em um bairro da periferia",
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Às seis da tarde, quando o sol já não castiga o cimento, a quadra da praça do",
+      "bairro começa a encher. Chegam os meninos com a bola debaixo do braço, chegam os",
+      "aposentados que jogam dominó na arquibancada e, há cerca de dois anos, chegam também",
+      "as meninas do time que os moradores apelidaram de “As Invocadas”. Até pouco tempo",
+      "atrás, elas só assistiam. “A gente ficava sentada esperando uma vaga que nunca",
+      "aparecia”, lembra Júlia, de 14 anos, hoje camisa 10 da equipe.",
+      "A mudança começou com uma ideia simples. Cansada de ver a filha voltar para casa",
+      "sem ter tocado na bola, a costureira Marta Silva procurou a associação de moradores e",
+      "propôs uma divisão dos horários: às terças e quintas, a quadra seria reservada às",
+      "meninas. Houve resistência. Alguns rapazes reclamaram que perderiam espaço; outros",
+      "garantiram que futebol “não era coisa de menina”. A associação, no entanto, manteve a",
+      "proposta, e o que parecia uma disputa virou costume.",
+      "Hoje, nos dias reservados, a quadra recebe mais de trinta garotas, algumas vindas",
+      "de bairros vizinhos. Não há uniforme oficial nem treinador contratado: quem organiza",
+      "os treinos é um grupo de mães e de ex-jogadoras de várzea<sup>1</sup>, que se revezam como",
+      "voluntárias. “Aqui ninguém precisa ser craque. Precisa querer jogar”, resume Marta.",
+      "A quadra também mudou de outras formas. No ano passado, depois de muita",
+      "insistência dos moradores, a prefeitura construiu uma rampa de acesso e alargou o",
+      "portão de entrada. A obra permitiu que Diego, de 17 anos, que usa cadeira de rodas",
+      "desde os oito, passasse a treinar basquete ali com outros jovens cadeirantes da",
+      "região. Antes, para chegar ao piso, ele dependia de que dois amigos carregassem a",
+      "cadeira pelos degraus. “Parece pouca coisa, mas uma rampa diz que você também é",
+      "esperado neste lugar”, afirma o rapaz, que sonha em disputar competições",
+      "paralímpicas<sup>2</sup>.",
+      "Nem tudo, porém, está resolvido. A iluminação falha com frequência, o que obriga",
+      "os treinos a terminar mais cedo no inverno, e as redes das traves são remendadas pelos",
+      "próprios frequentadores. Há ainda quem veja o espaço apenas como “lugar de",
+      "vagabundagem”, expressão que os jovens ouvem de alguns vizinhos. Para a maioria dos",
+      "moradores, contudo, a quadra é o que o bairro tem de mais parecido com um clube: um",
+      "lugar para encontrar os amigos, gastar energia e aprender a conviver com quem é",
+      "diferente.",
+      "No fim do treino de quinta-feira, Júlia recolhe os cones espalhados pelo piso e",
+      "olha para a arquibancada, onde agora também há meninos assistindo. “Antes, eu achava",
+      "que aquele lugar não era para mim”, diz. “Hoje eu sei que era. Só faltava alguém abrir",
+      "o portão.”"
+    ],
+    "para_starts": [
+      1,
+      7,
+      13,
+      17,
+      25,
+      32
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "várzea",
+        "def": "futebol amador, praticado em campos de bairro"
+      },
+      {
+        "term": "paralímpicas",
+        "def": "relativas às Paralimpíadas, competições esportivas para atletas com deficiência"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "CHUTEIRA EMPRESTADA",
+    "subtitle": null,
+    "author": null,
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Disseram que a rua não era minha,",
+      "que a bola tinha dono e endereço,",
+      "que menina que corre desalinha",
+      "o laço, a saia, o jeito, o começo.",
+      "Mas o chão da quadra não pergunta",
+      "quem é que chega com o pé descalço:",
+      "a bola rola, a vontade junta,",
+      "e cada drible desmancha um laço.",
+      "Hoje eu entro sem pedir licença,",
+      "com a chuteira velha do meu irmão.",
+      "Quem ria antes, agora pensa;",
+      "quem duvidava me estende a mão.",
+      "Se um dia a rua me disser de novo",
+      "que o jogo inteiro nunca foi meu,",
+      "eu mostro a rede balançando ao povo:",
+      "o gol é de quem por ele correu."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "Lazer não é luxo",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Quando se fala em direitos básicos, pensa-se logo em saúde, educação e",
+      "moradia. Poucos lembram que a Constituição Federal de 1988 inclui o lazer na lista",
+      "dos direitos sociais, ao lado desses outros. A lembrança não é mero detalhe",
+      "jurídico: ela revela que brincar, praticar esporte e ocupar os espaços públicos não",
+      "são privilégios de quem pode pagar, mas necessidades de qualquer cidadão.",
+      "Na prática, contudo, esse direito é distribuído de forma desigual. Em",
+      "muitos bairros, a única área de esporte é uma quadra sem iluminação, cercada por",
+      "alambrado<sup>1</sup> enferrujado; em outros, sobram academias, clubes e escolinhas",
+      "particulares. Quando o poder público se ausenta, o lazer vira mercadoria, e quem",
+      "não pode comprá-lo fica com a calçada.",
+      "A desigualdade não se mede apenas pelo endereço. Meninas ainda crescem",
+      "ouvindo que o futebol não lhes pertence, e pessoas com deficiência encontram",
+      "escadas onde deveriam encontrar rampas. O Brasil se orgulha de seus paratletas,",
+      "celebrados a cada grande competição, mas raramente se pergunta quantos talentos",
+      "ficaram pelo caminho por falta de um vestiário adaptado ou de um ônibus acessível.",
+      "Garantir o direito ao lazer, portanto, exige mais do que inaugurar quadras",
+      "em ano de eleição. Exige manutenção, iluminação, profissionais e, sobretudo, a",
+      "escuta de quem usa esses espaços. Uma praça bem cuidada e aberta a todos não é",
+      "enfeite urbano: é o lugar onde se aprende a conviver, a perder e a ganhar, a",
+      "dividir a bola. Uma cidade que não oferece isso aos seus jovens está dizendo a",
+      "eles, sem palavras, que ali não há lugar para eles."
+    ],
+    "para_starts": [
+      1,
+      6,
+      11,
+      16
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "alambrado",
+        "def": "cerca de tela de arame"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T4",
+    "label": "Texto 4",
+    "title": null,
+    "subtitle": null,
+    "author": null,
+    "kind": "outro",
+    "numbering": "none",
+    "lines": [
+      "<i>[Descrição do cartaz: fotografia de uma quadra pública à noite, com os refletores acesos. Em primeiro plano, uma menina de chuteiras conduz uma bola de futebol; ao lado dela, um rapaz em cadeira de rodas segura uma bola de basquete. Na arquibancada, um senhor de boné aplaude. No alto do cartaz, em letras grandes, lê-se a frase abaixo.]</i>",
+      "<b>TEM LUGAR PARA TODO MUNDO EM CAMPO.</b>",
+      "Quadra pública é de quem chega. Cuide, divida, jogue junto.",
+      "Campanha de valorização dos espaços públicos de lazer."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Cartaz de campanha elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

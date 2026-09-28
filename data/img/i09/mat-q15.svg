@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect x="0" y="0" width="400" height="260" fill="#ffffff"/>
+  <rect x="180" y="40" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="181" y="54" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="158" y="84" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="159" y="98" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="202" y="84" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="203" y="98" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="136" y="128" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="137" y="142" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="180" y="128" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="181" y="142" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="224" y="128" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="225" y="142" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="114" y="172" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="115" y="186" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="158" y="172" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="159" y="186" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="202" y="172" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="203" y="186" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <rect x="246" y="172" width="40" height="44" fill="#e8c26a" stroke="#7a5a12" stroke-width="2"/>
+  <rect x="247" y="186" width="38" height="16" fill="#c0392b" opacity="0.75"/>
+  <line x1="80" y1="216" x2="320" y2="216" stroke="#222" stroke-width="2"/>
+  <text x="310" y="67">1 lata</text>
+  <text x="300" y="111">2 latas</text>
+  <text x="310" y="155">3 latas</text>
+  <text x="320" y="199">4 latas</text>
+  <line x1="100" y1="172" x2="100" y2="216" stroke="#333" stroke-width="1"/>
+  <line x1="94" y1="172" x2="106" y2="172" stroke="#333" stroke-width="1"/><line x1="94" y1="216" x2="106" y2="216" stroke="#333" stroke-width="1"/>
+  <text x="90" y="199" text-anchor="end">12 cm</text>
+  <text x="200" y="246" text-anchor="middle">Pilha com 4 fileiras (10 latas)</text>
+</svg>

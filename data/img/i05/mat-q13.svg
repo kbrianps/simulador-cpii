@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 400" width="440" height="400" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="440" height="400" fill="#fff"/>
+  <rect x="60" y="40" width="300" height="300" fill="#e8f3e0" stroke="#222" stroke-width="2"/>
+  <polygon points="60,40 210,340 360,240" fill="#f4c6d6" stroke="#222" stroke-width="2"/>
+  <line x1="135" y1="334" x2="135" y2="346" stroke="#222" stroke-width="2"/>
+  <line x1="285" y1="334" x2="285" y2="346" stroke="#222" stroke-width="2"/>
+  <text x="46" y="36" text-anchor="middle">D</text>
+  <text x="374" y="36" text-anchor="middle">C</text>
+  <text x="46" y="358" text-anchor="middle">A</text>
+  <text x="374" y="358" text-anchor="middle">B</text>
+  <text x="210" y="362" text-anchor="middle">M</text>
+  <text x="376" y="245" text-anchor="start">N</text>
+  <line x1="60" y1="378" x2="360" y2="378" stroke="#555" stroke-width="1.2"/>
+  <line x1="60" y1="372" x2="60" y2="384" stroke="#555" stroke-width="1.2"/>
+  <line x1="360" y1="372" x2="360" y2="384" stroke="#555" stroke-width="1.2"/>
+  <rect x="180" y="368" width="60" height="20" fill="#fff"/>
+  <text x="210" y="384" text-anchor="middle">12 m</text>
+  <line x1="408" y1="240" x2="408" y2="340" stroke="#555" stroke-width="1.2"/>
+  <line x1="402" y1="240" x2="414" y2="240" stroke="#555" stroke-width="1.2"/>
+  <line x1="402" y1="340" x2="414" y2="340" stroke="#555" stroke-width="1.2"/>
+  <rect x="396" y="280" width="36" height="20" fill="#fff"/>
+  <text x="412" y="296" text-anchor="middle">4 m</text>
+  <text x="235" y="215" text-anchor="middle" font-size="14">flores</text>
+  <text x="105" y="250" text-anchor="middle" font-size="14">grama</text>
+  <text x="300" y="100" text-anchor="middle" font-size="14">grama</text>
+  <text x="300" y="315" text-anchor="middle" font-size="14">grama</text>
+</svg>

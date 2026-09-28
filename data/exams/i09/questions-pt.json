@@ -1,0 +1,291 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é um artigo de opinião, gênero em que o autor defende um ponto de vista (a tese) e o sustenta com argumentos.</p><p>A tese defendida por Marina Albuquerque é a de que</p>",
+    "options": {
+      "A": "a desinformação só será vencida quando cientistas e jornalistas trabalharem juntos.",
+      "B": "o hábito de perguntar e investigar é a melhor proteção contra a desinformação.",
+      "C": "as notícias falsas mais comuns devem ser memorizadas para que possam ser reconhecidas.",
+      "D": "a curiosidade das crianças desaparece com a idade e não pode mais ser recuperada."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A tese costuma aparecer resumida no início ou retomada na conclusão. No último parágrafo, iniciado por “Por isso” (sinal de conclusão), a autora afirma que “talvez a melhor vacina contra a desinformação não seja decorar uma lista de notícias falsas [...] e sim cultivar o hábito de perguntar” (linhas 35-36) e fecha com “A dúvida, quando bem usada, não paralisa: protege.” (linhas 37-38). O próprio título, “A dúvida que protege”, anuncia essa ideia.</p><p>Todo o resto do texto serve para sustentá-la: a curiosidade é o “instrumento mais poderoso” de quem recebe uma notícia (linhas 8-10), a checagem se faz com “algumas perguntas simples” (linhas 18-19) e a divulgação científica ensina o caminho da investigação (linhas 29-34).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Contraria o texto: a autora diz que combater a desinformação não é “tarefa exclusiva de cientistas, jornalistas e professores” (linhas 6-7). Para ela, cada leitor ocupa “o lugar de editor” (linha 8).",
+      "C": "É o oposto do que a autora propõe: a melhor vacina “não seja decorar uma lista de notícias falsas, que se renovam todos os dias” (linhas 35-36).",
+      "D": "O texto diz que muitos aprendem “a ter vergonha de perguntar” (linha 12), mas não afirma que a curiosidade se perde para sempre; ao contrário, todo o texto convida o leitor a retomá-la."
+    },
+    "tip": "A tese é a ideia que o texto inteiro defende; procure-a no título e na conclusão, muitas vezes introduzida por “Por isso”, “Portanto” ou “Assim”."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A criança que pergunta “por quê?” dezenas de vezes por dia está exercitando, sem saber, o mesmo músculo que a ciência usa há séculos.</p><p>Com o tempo, <b><u>porém</u></b>, muitos de nós aprendemos a ter vergonha de perguntar.” (linhas 10-12)</p></blockquote><p>O conectivo destacado estabelece, entre os dois parágrafos, uma relação de</p>",
+    "options": {
+      "A": "conclusão, pois resume a ideia de que combater a desinformação é tarefa de todos.",
+      "B": "explicação, pois justifica o motivo de as crianças fazerem tantas perguntas.",
+      "C": "causa, pois indica a razão pela qual a ciência se interessa pela curiosidade.",
+      "D": "oposição, pois contrasta a curiosidade da infância com a vergonha de perguntar."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Leia as duas ideias que o conectivo liga. No fim do segundo parágrafo, a criança pergunta “por quê?” dezenas de vezes por dia (linha 10). No início do terceiro, “com o tempo”, muitos de nós aprendemos “a ter vergonha de perguntar” (linha 12). São ideias que se contrapõem: antes, perguntar era natural; depois, passa a dar vergonha.</p><p>“Porém” é uma conjunção adversativa, com o mesmo valor de “mas”, “contudo” e “no entanto”. Faça o teste: “Com o tempo, <b>no entanto</b>, muitos de nós aprendemos a ter vergonha de perguntar.” O sentido se mantém.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Conectivos de conclusão são “portanto”, “logo”, “por isso”. “Porém” não resume nada; ele introduz uma ideia contrária à anterior.",
+      "B": "Conectivos explicativos são “pois”, “porque”, “já que”. O terceiro parágrafo não explica por que as crianças perguntam; mostra o que acontece depois, com o tempo.",
+      "C": "Não há relação de causa: o trecho não diz por que a ciência se interessa pela curiosidade. Além disso, “porém” nunca exprime causa."
+    },
+    "tip": "“Porém”, “mas”, “contudo”, “todavia”, “entretanto” e “no entanto” marcam oposição: equivalem a “mas”."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“<b><u>Ambas as ideias</u></b> já foram desmentidas por quem estuda o assunto, mas continuam circulando, porque são fáceis de lembrar e agradáveis de contar.” (linhas 26-27)</p></blockquote><p>A expressão destacada retoma, no texto,</p>",
+    "options": {
+      "A": "a crença de que usamos apenas dez por cento do cérebro e a de que um raio nunca cai duas vezes no mesmo lugar.",
+      "B": "a ideia de que um chá pode curar todas as doenças e a de que a Terra é plana.",
+      "C": "a afirmação de que os mitos resistem e a de que as informações repetidas se tornam verdadeiras.",
+      "D": "os conceitos de desinformação e de divulgação científica, discutidos ao longo do texto."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Ambas” significa “as duas”. Então a expressão retoma <b>duas</b> ideias mencionadas pouco antes. Volte à frase anterior: “Ainda hoje há quem repita que <b>usamos apenas dez por cento do cérebro</b> ou que <b>um raio nunca cai duas vezes no mesmo lugar</b>.” (linhas 24-25).</p><p>São esses os dois mitos que “já foram desmentidos por quem estuda o assunto” e que, mesmo assim, continuam circulando. O texto usa “Ambas as ideias” para não repetir as duas crenças inteiras, um recurso de coesão referencial.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O chá milagroso e a Terra plana aparecem no primeiro parágrafo (linhas 1-2), longe demais do trecho. Numa retomada, procure primeiro o que vem imediatamente antes.",
+      "C": "“Alguns mitos resistem” (linha 24) é o comentário geral que introduz os exemplos, não um deles; e a ideia de que a repetição torna algo verdadeiro aparece depois (linhas 27-28) e é negada pela autora.",
+      "D": "Desinformação e divulgação científica são temas gerais do texto, mas não são “ideias desmentidas” por especialistas. A expressão retoma os dois mitos citados na linha 25."
+    },
+    "tip": "Diante de “ambos”, “este”, “aquele” e outras retomadas, procure o que foi dito imediatamente antes e confira se o número (um, dois) combina."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Uma manchete que desperta raiva ou medo imediato merece, aliás, um cuidado redobrado: emoções fortes são o <b><u>combustível</u></b> preferido dos boatos.” (linhas 22-23)</p></blockquote><p>A palavra destacada foi empregada em sentido figurado. No contexto, ela indica que as emoções fortes</p>",
+    "options": {
+      "A": "diminuem a velocidade com que os boatos circulam.",
+      "B": "tornam os boatos mais fáceis de desmentir.",
+      "C": "alimentam os boatos e impulsionam a sua propagação.",
+      "D": "surgem apenas depois que o leitor termina de ler um boato."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No sentido literal (denotativo), combustível é aquilo que alimenta o fogo ou faz um motor funcionar, como a gasolina. No trecho, a palavra é usada em sentido figurado (conotativo): há uma metáfora que aproxima os boatos de algo que só “anda” se for abastecido.</p><p>Assim, dizer que emoções fortes são o combustível dos boatos significa que a raiva e o medo <b>alimentam e fazem espalhar</b> essas mensagens: quem se assusta ou se irrita tende a repassar sem pensar. É por isso que a autora recomenda “um cuidado redobrado” (linha 23) com manchetes desse tipo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Inverte o sentido: combustível acelera, não freia. Se as emoções diminuíssem a circulação dos boatos, a autora não pediria cuidado redobrado.",
+      "B": "O texto não diz que emoções ajudam a desmentir boatos; ao contrário, elas atrapalham o exame calmo da informação.",
+      "D": "A palavra não indica tempo nem ordem dos acontecimentos. A manchete “desperta raiva ou medo imediato” (linha 22), ou seja, a emoção vem antes da reflexão, e é ela que move o boato."
+    },
+    "tip": "Em metáforas, pense primeiro no sentido literal da palavra (o que um combustível faz?) e depois transfira essa função para o contexto."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No quarto parágrafo do Texto 1 (linhas 18-23), a autora emprega uma sequência de frases interrogativas, como “Quem está dizendo isso, e que conhecimento essa pessoa tem sobre o assunto?” (linha 19).</p><p>Nesse parágrafo, o uso dos pontos de interrogação tem a função de</p>",
+    "options": {
+      "A": "revelar que a própria autora não sabe como verificar uma informação.",
+      "B": "oferecer ao leitor um roteiro de perguntas que ele mesmo pode fazer ao checar uma notícia.",
+      "C": "criticar as pessoas que costumam fazer perguntas nas redes sociais.",
+      "D": "substituir os argumentos do texto por dúvidas que não têm resposta."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O parágrafo começa afirmando que checar uma informação “Exige, antes de tudo, algumas perguntas simples.” (linhas 18-19). Em seguida vêm justamente essas perguntas: quem disse, quando o fato aconteceu, se outras fontes confirmam, se há dados que podem ser conferidos (linhas 19-22).</p><p>Portanto, as interrogações não são dúvidas da autora. Elas funcionam como um <b>roteiro prático</b>, uma lista de verificação que o leitor pode repetir sempre que receber uma notícia. É também uma estratégia argumentativa: mostrando como as perguntas são simples, a autora reforça que checar “não exige laboratório” (linha 18).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "As perguntas não expressam ignorância da autora: ela as apresenta como o método de checagem que está ensinando (“Exige, antes de tudo, algumas perguntas simples”, linhas 18-19).",
+      "C": "O texto valoriza quem pergunta; ele critica, isso sim, a vergonha de perguntar (linhas 12-14). Não há crítica a quem faz perguntas.",
+      "D": "As perguntas não têm resposta impossível: cada uma pode ser respondida pelo leitor ao investigar a notícia. Elas fazem parte da argumentação, não a substituem."
+    },
+    "tip": "Nem toda pergunta num texto é uma dúvida do autor: às vezes é um recurso para guiar o leitor ou fazê-lo refletir."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Ambas as ideias já foram desmentidas por quem estuda o assunto [...]” (linha 26)</p></blockquote><p>O trecho está na voz passiva. Ao ser reescrito na voz ativa, mantendo-se o tempo verbal e o sentido original, obtém-se:</p>",
+    "options": {
+      "A": "Quem estuda o assunto já desmentiu ambas as ideias.",
+      "B": "Ambas as ideias já desmentiram quem estuda o assunto.",
+      "C": "Quem estuda o assunto já desmentia ambas as ideias.",
+      "D": "Desmentiram-se ambas as ideias por quem estuda o assunto."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na voz passiva analítica (verbo “ser” + particípio), o sujeito <b>sofre</b> a ação e quem pratica a ação aparece depois de “por”, no agente da passiva:</p><ul><li>sujeito paciente: “Ambas as ideias”;</li><li>locução verbal: “foram desmentidas” (pretérito perfeito do verbo “ser” + particípio);</li><li>agente da passiva: “por quem estuda o assunto”.</li></ul><p>Para passar para a voz ativa, o agente vira sujeito, o sujeito paciente vira objeto direto e o verbo vai para o tempo em que está o auxiliar “ser” (pretérito perfeito): “foram desmentidas” vira “desmentiu”. Resultado: “Quem estuda o assunto já <b>desmentiu</b> ambas as ideias.”</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Troca os papéis: agora são as ideias que desmentem os especialistas. O sentido original se perde.",
+      "C": "A transformação dos termos está certa, mas o tempo mudou: “desmentia” é pretérito imperfeito, e “foram” está no pretérito perfeito, que corresponde a “desmentiu”.",
+      "D": "Continua na voz passiva, agora a sintética (verbo + “se”). Além disso, a passiva sintética normalmente não vem acompanhada de agente, o que deixa a frase estranha."
+    },
+    "tip": "Da passiva para a ativa: o agente (depois de “por”) vira sujeito, e o verbo principal assume o tempo do auxiliar “ser”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A mensagem costuma vir acompanhada de um pedido urgente, “repasse para o maior número de pessoas”, e é justamente essa pressa que deveria nos fazer desconfiar. Afinal, a verdade raramente tem medo de esperar alguns minutos.” (linhas 3-5)</p></blockquote><p>A partir do trecho, pode-se inferir que, para a autora,</p>",
+    "options": {
+      "A": "informações verdadeiras perdem o valor se não forem compartilhadas imediatamente.",
+      "B": "a verdade só pode ser descoberta por quem tem paciência para esperar muitos anos.",
+      "C": "quem pede que uma mensagem seja repassada com urgência está sempre mais bem informado.",
+      "D": "a urgência é suspeita, já que a verdade resiste a uma breve checagem."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A autora diz que a pressa do pedido “repasse para o maior número de pessoas” deveria “nos fazer desconfiar” (linhas 4-5). Em seguida, justifica com “Afinal”: “a verdade raramente tem medo de esperar alguns minutos” (linha 5).</p><p>A frase atribui à verdade um sentimento humano (medo), uma personificação. O que ela quer dizer é: uma informação verdadeira não deixa de ser verdadeira se você parar alguns minutos para checá-la. Quem tem motivo para “ter pressa” é o boato, que pode ser desmascarado nesse tempo. Por isso a urgência é um sinal de alerta.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Inverte a ideia: a autora afirma justamente que a verdade pode esperar, ou seja, não perde o valor com alguns minutos de checagem.",
+      "B": "Exagera o tempo: o texto fala em “alguns minutos” (linha 5), não em anos. A espera sugerida é a da checagem rápida antes de compartilhar.",
+      "C": "O texto diz o contrário: é essa pressa que “deveria nos fazer desconfiar” (linhas 4-5). Além disso, “sempre” generaliza algo que o trecho não afirma."
+    },
+    "tip": "Inferir é tirar uma conclusão apoiada no texto; desconfie de alternativas que invertem a ideia ou usam generalizações como “sempre” e “só”."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O poema “Brinco de interrogação” (Texto 2) faz uso de linguagem conotativa, com diversas figuras de linguagem.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“pendurado na ponta da língua, / feito brinco de estimação.” (versos 3 e 4) – eufemismo",
+      "B": "“Por que o céu fica azul? / Pra onde vai o som do trovão?” (versos 5 e 6) – antítese",
+      "C": "“quando um boato chega / batendo forte à minha porta,” (versos 17 e 18) – personificação",
+      "D": "“quem pergunta pode errar, / mas vive menos confuso.” (versos 23 e 24) – hipérbole"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Personificação (ou prosopopeia) é atribuir ações ou características humanas a seres que não são humanos. Nos versos 17 e 18, o boato “chega / batendo forte à minha porta”, como se fosse uma visita. Bater à porta é uma ação de gente; o boato, que é só uma informação, ganha comportamento humano. Por isso o eu lírico reage como diante de um visitante desconhecido: “não abro sem antes perguntar” (verso 19).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Nos versos 3 e 4 há uma comparação, marcada por “feito” (com o sentido de “como”): o ponto de interrogação é comparado a um brinco. Eufemismo seria suavizar uma ideia desagradável, o que não acontece.",
+      "B": "Os versos 5 e 6 são perguntas curiosas, sem ideias opostas. Antítese exige a aproximação de termos de sentidos contrários (por exemplo, “dia” e “noite”).",
+      "D": "Os versos 23 e 24 não exageram nada; fazem uma afirmação moderada (“pode errar”, “menos confuso”). Hipérbole é exagero intencional."
+    },
+    "tip": "Personificação: um ser ou objeto não humano age ou sente como gente (chega, bate à porta, tem medo)."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No Texto 2, aparecem formas como “Pra” (versos 6 e 12) e “feito” (verso 4), no sentido de “como”.</p><p>O uso dessas formas revela</p>",
+    "options": {
+      "A": "um registro informal, próximo da fala cotidiana, que aproxima o poema do leitor.",
+      "B": "erros gramaticais graves, que comprometem a compreensão dos versos.",
+      "C": "uma variedade regional usada exclusivamente em uma região do Brasil.",
+      "D": "um registro técnico-científico, típico dos textos de divulgação da ciência."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Pra” é a forma reduzida de “para”, muito comum na fala do dia a dia em todo o Brasil. “Feito”, no lugar de “como” (“feito brinco de estimação”), também é típico da conversa informal.</p><p>No poema, essas escolhas não são erros: são um recurso de estilo. O eu lírico fala da própria infância, da avó e das perguntas de criança, e o tom próximo da oralidade deixa o texto mais afetivo e mais perto do leitor jovem. Na fala do verso 12 (“Pra que tanta pergunta, menino?”), o registro informal ainda ajuda a reproduzir o jeito de falar dos adultos.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Variação linguística não é erro. Em um poema, o registro informal é escolha expressiva, e os versos continuam perfeitamente compreensíveis.",
+      "C": "“Pra” e “feito” no sentido de “como” são usados na fala informal de todas as regiões do país, não só de uma.",
+      "D": "É o contrário: o registro técnico-científico usa vocabulário especializado e formal, e essas formas são coloquiais."
+    },
+    "tip": "Formas como “pra”, “tá” e “feito” (= como) marcam registro informal; em textos literários, costumam ser escolhas de estilo, não erros."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T3"
+    ],
+    "stem": "<p>O cartaz de campanha (Texto 3) apresenta orientações que dialogam com as perguntas propostas no quarto parágrafo do Texto 1 (linhas 18-23).</p><p>A alternativa que relaciona corretamente uma orientação do cartaz à pergunta do Texto 1 que lhe corresponde é:</p>",
+    "options": {
+      "A": "“Confira a data de publicação.” / “O texto apresenta dados que podem ser conferidos ou apenas adjetivos e pontos de exclamação?” (linhas 21-22)",
+      "B": "“Compare com outras fontes confiáveis.” / “Outras fontes confiáveis dizem o mesmo?” (linhas 20-21)",
+      "C": "“Procure a fonte original.” / “Uma manchete que desperta raiva ou medo imediato merece, aliás, um cuidado redobrado” (linhas 22-23)",
+      "D": "“Desconfie de títulos alarmantes.” / “Quando o fato aconteceu?” (linhas 19-20)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare o que cada orientação manda fazer com o que cada pergunta investiga.</p><ul><li>“Compare com outras fontes confiáveis” corresponde a “Outras fontes confiáveis dizem o mesmo?” (linhas 20-21): nos dois casos, a ideia é verificar se a informação aparece em outros veículos de confiança;</li><li>“Confira a data” corresponde a “Quando o fato aconteceu? A notícia não é antiga, requentada para parecer atual?” (linhas 19-20);</li><li>“Procure a fonte original” corresponde a “Quem está dizendo isso [...]?” (linha 19);</li><li>“Desconfie de títulos alarmantes” corresponde à manchete que “desperta raiva ou medo imediato” (linha 22).</li></ul><p>Só a alternativa B faz o par certo. Repare também que o cartaz usa verbos no imperativo (“Desconfie”, “Procure”, “Compare”, “Confira”), próprios de uma campanha que quer orientar o comportamento do leitor.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A semelhança entre “Confira” e “conferidos” é só de palavra. A pergunta das linhas 21-22 trata do tipo de conteúdo (dados ou só adjetivos), e não da data da notícia, que aparece nas linhas 19-20.",
+      "C": "A manchete que desperta raiva ou medo corresponde a “Desconfie de títulos alarmantes”. “Procure a fonte original” combina com “Quem está dizendo isso” (linha 19).",
+      "D": "Troca os pares: “Quando o fato aconteceu?” combina com “Confira a data de publicação”, e “Desconfie de títulos alarmantes” combina com a manchete que desperta raiva ou medo (linha 22)."
+    },
+    "tip": "Em questões de comparação, não se guie por palavras parecidas: confira se as duas partes dizem, de fato, a mesma coisa."
+  }
+]

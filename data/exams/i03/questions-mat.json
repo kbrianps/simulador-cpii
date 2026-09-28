@@ -1,0 +1,271 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No início do semestre, a cantina de uma escola reajustou os preços de alguns produtos. A tabela a seguir mostra os preços antes e depois do reajuste.</p><table><thead><tr><th>Produto</th><th>Preço antigo</th><th>Preço novo</th></tr></thead><tbody><tr><td>Salgado assado</td><td>R$ 8,00</td><td>R$ 10,00</td></tr><tr><td>Suco natural</td><td>R$ 5,00</td><td>R$ 6,00</td></tr><tr><td>Pão de queijo</td><td>R$ 4,00</td><td>R$ 5,20</td></tr><tr><td>Bolo de pote</td><td>R$ 12,00</td><td>R$ 13,80</td></tr></tbody></table><p>Um grupo de alunos quer denunciar no jornal da escola o produto que teve o <b>maior aumento percentual</b> em relação ao preço antigo.</p><p>Esse produto e o seu aumento percentual são</p>",
+    "options": {
+      "A": "salgado assado, com aumento de 25%.",
+      "B": "pão de queijo, com aumento de 30%.",
+      "C": "pão de queijo, com aumento de cerca de 23%.",
+      "D": "pão de queijo, com aumento de 1,2%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O aumento percentual compara o aumento em reais com o <b>preço antigo</b>:</p><p>\\[\\text{aumento percentual} = \\dfrac{\\text{preço novo} - \\text{preço antigo}}{\\text{preço antigo}}\\]</p><ul><li>Salgado: \\(\\dfrac{10 - 8}{8} = \\dfrac{2}{8} = 0{,}25 = 25\\%\\);</li><li>Suco: \\(\\dfrac{6 - 5}{5} = \\dfrac{1}{5} = 0{,}20 = 20\\%\\);</li><li>Pão de queijo: \\(\\dfrac{5{,}20 - 4}{4} = \\dfrac{1{,}20}{4} = 0{,}30 = 30\\%\\);</li><li>Bolo: \\(\\dfrac{13{,}80 - 12}{12} = \\dfrac{1{,}80}{12} = 0{,}15 = 15\\%\\).</li></ul><p>O maior aumento percentual foi o do pão de queijo: 30%. Repare que o salgado teve o maior aumento <b>em reais</b> (R$ 2,00), mas, como o preço dele era maior, esse aumento pesa menos em porcentagem. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O salgado teve o maior aumento em reais (R$ 2,00), e seus 25% estão certos, mas a pergunta é sobre o maior aumento percentual. O pão de queijo subiu só R$ 1,20, porém sobre um preço de R$ 4,00, o que dá 30%.",
+      "C": "Dividiu o aumento pelo preço novo: \\(1{,}20 \\div 5{,}20 \\approx 0{,}23\\). O aumento percentual é calculado sobre o preço antigo: \\(1{,}20 \\div 4 = 0{,}30\\).",
+      "D": "Confundiu o aumento em reais (R$ 1,20) com a porcentagem. Para virar porcentagem, o aumento precisa ser dividido pelo preço antigo: 1,20 de 4,00 é 30%."
+    },
+    "tip": "Aumento percentual = aumento em reais dividido pelo preço ANTIGO; o maior aumento em reais nem sempre é o maior em porcentagem."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a feira de ciências, a escola montou uma tenda sustentada por um mastro vertical de 2,4 m de altura, fincado no chão plano. Para deixar o mastro firme, serão usados <b>quatro cabos</b> esticados, todos presos no topo do mastro e em estacas no chão. Cada estaca fica a 1,8 m do pé do mastro. A figura a seguir mostra a situação vista de lado, com dois dos quatro cabos.</p><p><img src=\"img/i03/mat-q12.svg\" alt=\"Vista lateral: um mastro vertical com 2,4 m de altura, formando ângulo reto com o chão. Do topo do mastro saem dois cabos esticados, um para a esquerda e outro para a direita, cada um preso a uma estaca no chão. A distância do pé do mastro até a estaca da direita está marcada como 1,8 m.\"></p><p>Para amarrar cada cabo, gastam-se 20 cm a mais de corda, somando as duas pontas.</p><p>O comprimento total de corda necessário para os quatro cabos, incluindo as amarrações, é</p>",
+    "options": {
+      "A": "3,2 m.",
+      "B": "12,0 m.",
+      "C": "16,8 m.",
+      "D": "12,8 m."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada cabo, o mastro e o chão formam um <b>triângulo retângulo</b>: o ângulo reto fica no pé do mastro. Os catetos medem 2,4 m (mastro) e 1,8 m (chão), e o cabo é a hipotenusa \\(c\\).</p><p>\\[c^2 = 2{,}4^2 + 1{,}8^2 = 5{,}76 + 3{,}24 = 9 \\;\\Rightarrow\\; c = 3 \\text{ m}\\]</p><p>(Atalho: 2,4 e 1,8 são \\(0{,}6 \\cdot 4\\) e \\(0{,}6 \\cdot 3\\); o triângulo é o famoso 3, 4, 5 multiplicado por 0,6, então a hipotenusa é \\(0{,}6 \\cdot 5 = 3\\).)</p><p>Com a amarração, cada cabo gasta \\(3 + 0{,}2 = 3{,}2\\) m de corda (20 cm = 0,2 m).</p><p>Para os quatro cabos: \\(4 \\cdot 3{,}2 = 12{,}8\\) m. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É a corda de um cabo só (3 m + 0,2 m). O enunciado pede os quatro cabos.",
+      "B": "Calculou certo os quatro cabos (\\(4 \\cdot 3 = 12\\) m), mas esqueceu os 20 cm de amarração de cada um.",
+      "C": "Somou os catetos em vez de usar Pitágoras: \\(2{,}4 + 1{,}8 = 4{,}2\\) e \\(4 \\cdot 4{,}2 = 16{,}8\\). O cabo é a hipotenusa, e a hipotenusa é sempre menor que a soma dos catetos."
+    },
+    "tip": "Cabo, poste e chão formam um triângulo retângulo; o cabo é a hipotenusa. Fique de olho nos triângulos 3, 4, 5 disfarçados."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Rafael montou um aquário com a forma de um paralelepípedo retângulo. As medidas internas são 60 cm de comprimento, 30 cm de largura e 40 cm de altura. Ele colocou água até a altura de 25 cm, como mostra a figura.</p><p><img src=\"img/i03/mat-q13.svg\" alt=\"Aquário em forma de paralelepípedo, desenhado em perspectiva, com 60 cm de comprimento, 30 cm de largura (profundidade) e 40 cm de altura. Há água até a altura de 25 cm.\"></p><p>Em seguida, ele colocou no fundo algumas pedras decorativas, que ficaram totalmente cobertas pela água, e o nível da água subiu para 26,5 cm.</p><p>O manual recomenda que o nível da água fique, no máximo, 2 cm abaixo da borda do aquário. Para atingir exatamente esse nível máximo, sem retirar as pedras, Rafael ainda pode acrescentar</p>",
+    "options": {
+      "A": "20,7 litros de água.",
+      "B": "23,4 litros de água.",
+      "C": "24,3 litros de água.",
+      "D": "27,0 litros de água."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1. Nível máximo.</b> A borda está a 40 cm do fundo, então o nível máximo é \\(40 - 2 = 38\\) cm.</p><p><b>2. Quanto o nível ainda pode subir.</b> Depois das pedras, a água já está em 26,5 cm. As pedras ficam submersas e não mudam de lugar, então a água nova ocupa a camada entre 26,5 cm e 38 cm, que tem \\(38 - 26{,}5 = 11{,}5\\) cm de altura.</p><p><b>3. Volume dessa camada.</b> Ela é um paralelepípedo com a mesma base do aquário (60 cm por 30 cm):</p><p>\\[V = 60 \\cdot 30 \\cdot 11{,}5 = 1800 \\cdot 11{,}5 = 20700 \\text{ cm}^3\\]</p><p><b>4. Converter para litros.</b> Como \\(1 \\text{ L} = 1 \\text{ dm}^3 = 1000 \\text{ cm}^3\\), temos \\(20700 \\text{ cm}^3 = 20{,}7\\) L. Resposta: <b>A</b>.</p><p>Observação: não é preciso calcular o volume das pedras. Se quiser conferir, elas ocupam \\(1800 \\cdot 1{,}5 = 2700 \\text{ cm}^3 = 2{,}7\\) L, e o total que se pode acrescentar desde o nível inicial seria \\(1800 \\cdot 13 = 23{,}4\\) L menos esses 2,7 L, ou seja, 20,7 L.</p>",
+    "distractors": {
+      "B": "Calculou a camada de 25 cm até 38 cm (\\(1800 \\cdot 13 = 23400 \\text{ cm}^3\\)), esquecendo que as pedras já fizeram o nível subir para 26,5 cm.",
+      "C": "Usou a subida causada pelas pedras, mas encheu até a borda (40 cm), ignorando a recomendação do manual: \\(1800 \\cdot 13{,}5 = 24300 \\text{ cm}^3\\).",
+      "D": "Cometeu os dois erros: partiu de 25 cm e foi até a borda: \\(1800 \\cdot 15 = 27000 \\text{ cm}^3 = 27\\) L."
+    },
+    "tip": "O volume de uma camada de água num recipiente de base retangular é área da base vezes a altura da camada; 1 litro = 1000 cm³."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma campanha de arrecadação reuniu 84 lápis, 126 borrachas e 210 cadernos, que serão distribuídos em kits escolares para uma creche comunitária. A organização decidiu que:</p><ul><li>todos os kits devem ser iguais, isto é, ter a mesma quantidade de lápis, a mesma de borrachas e a mesma de cadernos;</li><li>todo o material deve ser usado, sem sobras;</li><li>deve ser montado o <b>maior número possível</b> de kits.</li></ul><p>Nessas condições, a quantidade total de itens (lápis, borrachas e cadernos) em cada kit será</p>",
+    "options": {
+      "A": "30.",
+      "B": "20.",
+      "C": "10.",
+      "D": "42."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Para não sobrar nada, o número de kits tem de dividir 84, 126 e 210 ao mesmo tempo, ou seja, ser um divisor comum. Como queremos o <b>maior</b> número de kits, usamos o MDC.</p><p>\\(84 = 2^2 \\cdot 3 \\cdot 7\\), \\(\\;126 = 2 \\cdot 3^2 \\cdot 7\\), \\(\\;210 = 2 \\cdot 3 \\cdot 5 \\cdot 7\\)</p><p>O MDC reúne os fatores comuns com o menor expoente: \\(\\text{MDC} = 2 \\cdot 3 \\cdot 7 = 42\\). Serão 42 kits.</p><p>Em cada kit: \\(84 \\div 42 = 2\\) lápis, \\(126 \\div 42 = 3\\) borrachas e \\(210 \\div 42 = 5\\) cadernos.</p><p>Total por kit: \\(2 + 3 + 5 = 10\\) itens. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Usou 14 kits: 14 é divisor comum de 84, 126 e 210, mas não é o maior. Com 14 kits, cada um teria \\(6 + 9 + 15 = 30\\) itens.",
+      "B": "Usou 21 kits: 21 é divisor comum, mas não é o maior. Com 21 kits, cada um teria \\(4 + 6 + 10 = 20\\) itens.",
+      "D": "42 é o número de kits (o MDC), e não a quantidade de itens em cada kit. Faltou dividir cada material por 42 e somar."
+    },
+    "tip": "Dividir em grupos iguais sem sobras, com o maior número de grupos: pense em MDC. Depois, leia com atenção se a pergunta quer o número de grupos ou o conteúdo de cada um."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lívia recebeu uma quantia em dinheiro de presente de aniversário. Com esse dinheiro:</p><ul><li>primeiro, gastou \\(\\dfrac{1}{3}\\) da quantia recebida na compra de um livro;</li><li>depois, gastou \\(\\dfrac{1}{4}\\) do que tinha sobrado em um lanche com as amigas;</li><li>por fim, guardou os R$ 36,00 restantes no cofrinho.</li></ul><p>A quantia que Lívia recebeu de presente foi</p>",
+    "options": {
+      "A": "R$ 72,00.",
+      "B": "R$ 86,40.",
+      "C": "R$ 108,00.",
+      "D": "R$ 144,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(x\\) a quantia recebida.</p><ul><li>Livro: \\(\\dfrac{x}{3}\\). Sobra: \\(x - \\dfrac{x}{3} = \\dfrac{2x}{3}\\).</li><li>Lanche: \\(\\dfrac{1}{4}\\) <b>do que sobrou</b>: \\(\\dfrac{1}{4} \\cdot \\dfrac{2x}{3} = \\dfrac{2x}{12} = \\dfrac{x}{6}\\).</li><li>Sobra final: \\(\\dfrac{2x}{3} - \\dfrac{x}{6} = \\dfrac{4x}{6} - \\dfrac{x}{6} = \\dfrac{3x}{6} = \\dfrac{x}{2}\\).</li></ul><p>Essa sobra vale R$ 36,00:</p><p>\\[\\dfrac{x}{2} = 36 \\;\\Rightarrow\\; x = 72\\]</p><p>Conferindo: livro R$ 24,00, sobram R$ 48,00; lanche \\(\\frac{1}{4}\\) de 48 = R$ 12,00; sobram R$ 36,00. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou as duas frações sobre o total: \\(x - \\dfrac{x}{3} - \\dfrac{x}{4} = \\dfrac{5x}{12} = 36\\), o que dá 86,40. Mas o \\(\\frac{1}{4}\\) do lanche é sobre o que sobrou depois do livro, não sobre o total.",
+      "C": "Fez \\(36 \\cdot 3\\), como se os R$ 36,00 fossem \\(\\frac{1}{3}\\) da quantia (a parte do livro). Os R$ 36,00 são o que sobrou no final.",
+      "D": "Fez \\(36 \\cdot 4\\), como se os R$ 36,00 fossem \\(\\frac{1}{4}\\) da quantia. Na verdade, R$ 36,00 é a metade do total."
+    },
+    "tip": "Em \"fração do que sobrou\", calcule a sobra primeiro e aplique a fração sobre ela, e não sobre o total."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na véspera da festa junina, o grêmio estudantil organizou uma equipe de voluntários para arrumar as cadeiras no pátio. Pela experiência do ano anterior, <b>6 voluntários</b>, trabalhando juntos, arrumam todas as cadeiras em <b>40 minutos</b>.</p><p>Neste ano, apenas <b>4 voluntários</b> compareceram. Considerando que todos trabalham no mesmo ritmo, o tempo necessário para eles arrumarem todas as cadeiras será de</p>",
+    "options": {
+      "A": "26 minutos e 40 segundos.",
+      "B": "53 minutos e 20 segundos.",
+      "C": "1 hora e 20 minutos.",
+      "D": "1 hora."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Menos pessoas trabalhando levam <b>mais</b> tempo: número de voluntários e tempo são grandezas <b>inversamente proporcionais</b>. Assim, o produto (voluntários) × (tempo) é constante, pois representa o trabalho total:</p><p>\\[6 \\cdot 40 = 4 \\cdot t \\;\\Rightarrow\\; 240 = 4t \\;\\Rightarrow\\; t = 60 \\text{ minutos}\\]</p><p>Outra forma de pensar: o trabalho equivale a \\(6 \\cdot 40 = 240\\) \"minutos de voluntário\". Dividindo por 4 pessoas, cada uma trabalha 60 minutos, isto é, 1 hora. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Tratou as grandezas como diretamente proporcionais: \\(\\dfrac{40 \\cdot 4}{6} \\approx 26{,}67\\) min. Mas com menos voluntários o tempo não pode diminuir.",
+      "B": "Pensou que, com \\(\\frac{1}{3}\\) a menos de pessoas, bastaria somar \\(\\frac{1}{3}\\) do tempo: \\(40 + 13{,}33 \\approx 53\\) min 20 s. Com 4 voluntários, cada um faz \\(\\frac{1}{4}\\) do trabalho, e não \\(\\frac{1}{6}\\): a parte de cada um fica \\(\\frac{6}{4} = 1{,}5\\) vez maior, então o tempo é multiplicado por 1,5: \\(40 \\cdot 1{,}5 = 60\\) min.",
+      "C": "Dobrou o tempo, como se dois voluntários a menos fizessem o tempo dobrar. O tempo só dobraria se o número de voluntários caísse pela metade (de 6 para 3)."
+    },
+    "tip": "Se uma grandeza aumenta e a outra diminui na mesma proporção, elas são inversamente proporcionais: o produto das duas é constante."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Duas turmas do 9º ano de uma escola fizeram o mesmo simulado de Matemática. A tabela mostra o número de estudantes de cada turma e a média das notas obtidas por eles.</p><table><thead><tr><th>Turma</th><th>Número de estudantes</th><th>Média das notas</th></tr></thead><tbody><tr><td>9º A</td><td>20</td><td>6,0</td></tr><tr><td>9º B</td><td>30</td><td>7,0</td></tr></tbody></table><p>Considerando todos os estudantes das duas turmas juntos, a média das notas nesse simulado foi</p>",
+    "options": {
+      "A": "6,5.",
+      "B": "6,6.",
+      "C": "6,4.",
+      "D": "13,0."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A média do grupo todo é a soma de <i>todas</i> as notas dividida pelo número total de estudantes.</p><p><b>Soma das notas do 9º A:</b> se 20 estudantes têm média 6,0, a soma das notas é \\(20 \\cdot 6{,}0 = 120\\).</p><p><b>Soma das notas do 9º B:</b> \\(30 \\cdot 7{,}0 = 210\\).</p><p><b>Média geral:</b> \\(\\dfrac{120 + 210}{20 + 30} = \\dfrac{330}{50} = 6{,}6\\).</p><p>Conferindo: a média geral tem de ficar entre 6,0 e 7,0, mais perto da média da turma maior (9º B), como 6,6.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Fez a média simples das duas médias, \\(\\dfrac{6{,}0 + 7{,}0}{2} = 6{,}5\\), sem levar em conta que as turmas têm tamanhos diferentes.",
+      "C": "Trocou os pesos, associando 30 estudantes à média 6,0 e 20 à média 7,0: \\(\\dfrac{30 \\cdot 6 + 20 \\cdot 7}{50} = 6{,}4\\).",
+      "D": "Somou as duas médias (\\(6{,}0 + 7{,}0 = 13{,}0\\)) e esqueceu de dividir; uma média não pode passar da maior nota do grupo."
+    },
+    "tip": "Para juntar grupos, volte às somas: soma = média × quantidade. A média geral fica sempre mais perto da média do grupo maior."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No mapa de um bairro, a Rua das Flores e a Rua dos Ipês são representadas por retas paralelas \\(r\\) e \\(s\\), cortadas pela Avenida Central, representada pela reta transversal \\(t\\). Um arquiteto anotou algumas medidas de ângulos em função de \\(x\\), como mostra a figura.</p><p><img src=\"img/i03/mat-q18.svg\" alt=\"Duas retas horizontais paralelas: r (Rua das Flores), em cima, e s (Rua dos Ipês), embaixo. Uma reta inclinada t (Avenida Central), que sobe da esquerda para a direita, corta as duas. No cruzamento de t com r, o ângulo abaixo de r e à esquerda de t mede 3x + 10°. No cruzamento de t com s, o ângulo acima de s e à direita de t mede 5x − 30°, e o ângulo acima de s e à esquerda de t, vizinho a ele, é chamado de y.\"></p><p>A medida do ângulo \\(y\\) é</p>",
+    "options": {
+      "A": "20°.",
+      "B": "70°.",
+      "C": "110°.",
+      "D": "160°."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.angulos",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os ângulos \\(3x + 10^\\circ\\) e \\(5x - 30^\\circ\\) estão entre as paralelas (internos) e em lados opostos da transversal: são <b>alternos internos</b>. Quando as retas são paralelas, ângulos alternos internos são iguais:</p><p>\\[5x - 30 = 3x + 10 \\;\\Rightarrow\\; 2x = 40 \\;\\Rightarrow\\; x = 20\\]</p><p>Então cada um desses ângulos mede \\(3 \\cdot 20 + 10 = 70^\\circ\\) (confira: \\(5 \\cdot 20 - 30 = 70^\\circ\\)).</p><p>O ângulo \\(y\\) e o ângulo de \\(70^\\circ\\) no cruzamento com \\(s\\) estão lado a lado sobre a reta \\(s\\): juntos formam um ângulo raso, ou seja, são <b>suplementares</b>:</p><p>\\[y + 70^\\circ = 180^\\circ \\;\\Rightarrow\\; y = 110^\\circ\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "20 é o valor de \\(x\\), e não a medida de um ângulo. Faltou substituir \\(x\\) nas expressões e usar o suplemento.",
+      "B": "70° é a medida dos ângulos alternos internos. O ângulo \\(y\\) é o vizinho desse ângulo sobre a reta \\(s\\), então é o suplemento: \\(180^\\circ - 70^\\circ\\).",
+      "D": "Fez \\(180^\\circ - 20^\\circ\\), usando o valor de \\(x\\) como se fosse o ângulo. Primeiro é preciso calcular o ângulo: \\(3x + 10^\\circ = 70^\\circ\\)."
+    },
+    "tip": "Paralelas cortadas por transversal: alternos internos são iguais; ângulos vizinhos sobre a mesma reta somam 180°."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na sala de leitura da escola, que tem o piso quadrado, foi colocado um tapete também quadrado, centralizado, de modo que sobrou uma faixa de piso aparente com 0,75 m de largura em todo o contorno, como mostra a figura.</p><p><img src=\"img/i03/mat-q19.svg\" alt=\"Vista de cima de uma sala quadrada com um tapete quadrado no centro. Entre a borda do tapete e a parede sobra uma faixa de piso de largura constante; a largura da faixa está marcada como 0,75 m.\"></p><p>A bibliotecária mediu o contorno da sala e o contorno do tapete e percebeu que a soma dos dois perímetros é igual a 38 m.</p><p>A área da faixa de piso aparente é igual a</p>",
+    "options": {
+      "A": "2,25 m².",
+      "B": "7,125 m².",
+      "C": "16 m².",
+      "D": "14,25 m²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.geo.areas",
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(b\\) o lado da sala e \\(a\\) o lado do tapete, em metros.</p><p><b>1. Diferença dos lados.</b> A faixa de 0,75 m aparece dos dois lados do tapete, então \\(b = a + 2 \\cdot 0{,}75\\), ou seja, \\(b - a = 1{,}5\\).</p><p><b>2. Soma dos lados.</b> \\(4b + 4a = 38 \\;\\Rightarrow\\; a + b = 9{,}5\\).</p><p><b>3. Área da faixa.</b> É a área da sala menos a área do tapete: \\(b^2 - a^2\\). Pelo produto notável da <b>diferença de quadrados</b>:</p><p>\\[b^2 - a^2 = (b + a)(b - a) = 9{,}5 \\cdot 1{,}5 = 14{,}25 \\text{ m}^2\\]</p><p>Conferindo pelos lados: somando as duas equações, \\(2b = 11\\), então \\(b = 5{,}5\\) e \\(a = 4\\). Assim, \\(5{,}5^2 - 4^2 = 30{,}25 - 16 = 14{,}25\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Fez \\(b^2 - a^2 = (b - a)^2 = 1{,}5^2\\). Esse é um erro clássico: \\(b^2 - a^2\\) é igual a \\((b + a)(b - a)\\), e não a \\((b - a)^2\\).",
+      "B": "Usou \\(b - a = 0{,}75\\), esquecendo que a faixa aparece dos dois lados do tapete: \\(9{,}5 \\cdot 0{,}75 = 7{,}125\\). A diferença entre os lados é \\(2 \\cdot 0{,}75 = 1{,}5\\) m.",
+      "C": "16 m² é a área do tapete (\\(4^2\\)), e não a da faixa. A faixa é o que sobra: \\(30{,}25 - 16\\)."
+    },
+    "tip": "Área entre dois quadrados = \\(b^2 - a^2 = (b + a)(b - a)\\): a soma e a diferença dos lados bastam."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um terreno retangular de 12 m por 8 m será transformado em uma praça. Dois caminhos de terra batida vão atravessar o terreno, e o restante será coberto de grama, como mostra a figura.</p><p><img src=\"img/i03/mat-q20.svg\" alt=\"Retângulo de 12 m de comprimento (horizontal) por 8 m de altura. Um caminho horizontal de 1 m de largura atravessa o terreno de um lado menor ao outro, paralelo aos lados de 12 m. Um segundo caminho, inclinado, com bordas paralelas, vai do lado de baixo ao lado de cima: no lado de baixo, ele começa a 2 m do canto esquerdo e ocupa 1 m; no lado de cima, ele ocupa 1 m e termina a 3 m do canto direito. Os dois caminhos se cruzam. O restante do terreno é gramado.\"></p><ul><li>O caminho horizontal tem 1 m de largura e vai de um lado de 8 m ao outro.</li><li>O caminho inclinado tem bordas paralelas e ocupa exatamente 1 m em cada um dos lados de 12 m do terreno.</li></ul><p>A área que será coberta de grama é</p>",
+    "options": {
+      "A": "77 m².",
+      "B": "76 m².",
+      "C": "75 m².",
+      "D": "74 m²."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Área do terreno:</b> \\(12 \\cdot 8 = 96\\) m².</p><p><b>Caminho horizontal:</b> retângulo de 12 m por 1 m, área \\(12\\) m².</p><p><b>Caminho inclinado:</b> é um <b>paralelogramo</b>. Tomando como base o trecho de 1 m sobre o lado de baixo, a altura é a distância entre os lados de 12 m, ou seja, 8 m. Área: \\(1 \\cdot 8 = 8\\) m².</p><p>Atenção: a altura do paralelogramo é 8 m, e não o comprimento da borda inclinada. A borda inclinada anda 6 m na horizontal (de 2 m até \\(12 - 3 - 1 = 8\\) m a partir da esquerda) e 8 m na vertical, então mede \\(\\sqrt{6^2 + 8^2} = 10\\) m, mas esse valor não entra na conta da área.</p><p><b>Cruzamento:</b> a parte em que os caminhos se sobrepõem foi contada duas vezes. Ela é um paralelogramo com base 1 m (medida na horizontal) e altura 1 m (largura do caminho horizontal): área \\(1\\) m².</p><p><b>Área dos caminhos:</b> \\(12 + 8 - 1 = 19\\) m².</p><p><b>Área de grama:</b> \\(96 - 19 = 77\\) m². Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Somou as áreas dos dois caminhos (\\(12 + 8 = 20\\) m²) sem descontar o cruzamento, que foi contado duas vezes: \\(96 - 20 = 76\\).",
+      "C": "Usou o comprimento da borda inclinada (10 m) como altura do paralelogramo: \\(1 \\cdot 10 = 10\\) m², e depois \\(96 - (12 + 10 - 1) = 75\\). A altura é a distância entre os lados paralelos do terreno, 8 m.",
+      "D": "Juntou dois erros: usou 10 m como altura do caminho inclinado e não descontou o cruzamento: \\(96 - (12 + 10) = 74\\)."
+    },
+    "tip": "Área do paralelogramo = base × altura, com a altura perpendicular à base (não o lado inclinado). Em sobreposições, desconte a parte contada duas vezes."
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "O banco perto do bebedouro",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Quando mudei de escola, aos catorze anos, descobri que o recreio pode ser o",
+      "intervalo mais longo do dia. Na escola antiga, os vinte minutos passavam num sopro:",
+      "havia o time de sempre, a fila da cantina com as mesmas piadas, o canto do muro onde a",
+      "gente dividia fones de ouvido. Na nova, o sinal tocava e eu não sabia para onde levar o",
+      "corpo. Todos pareciam ter um lugar marcado, como se tivessem recebido um mapa que",
+      "ninguém se lembrou de me entregar.",
+      "Escolhi, então, o banco perto do bebedouro. Era estratégico<sup>1</sup>: quem para ali para",
+      "beber água não repara em quem está sentado. Eu abria o caderno e fingia revisar a",
+      "matéria, virando as páginas com uma concentração de cientista. Às vezes pegava o",
+      "celular e rolava a tela sem ler nada, só para que as mãos tivessem o que fazer. Aprendi",
+      "cedo que a solidão, na adolescência, tem vergonha de si mesma e procura um disfarce.",
+      "Minha mãe perguntava, no jantar, se eu já tinha feito amigos. Eu respondia que",
+      "sim, que a turma era legal, e mudava de assunto. Não era bem mentira; era uma espécie",
+      "de previsão otimista. Ela também tinha mudado de cidade na minha idade e costumava",
+      "dizer que amizade é planta de crescimento lento. Eu achava a frase bonita e inútil,",
+      "como os conselhos que chegam antes da hora.",
+      "Numa terça-feira de chuva, o pátio ficou fechado e todo mundo se espremeu na",
+      "biblioteca. Sentei no único lugar vazio, ao lado de uma menina que desenhava quadrinhos",
+      "na margem do caderno. Os personagens eram pássaros de óculos discutindo o fim do mundo.",
+      "Ri sem querer, alto demais para uma biblioteca. Ela levantou os olhos, e eu me preparei",
+      "para o pior. Mas ela só perguntou:",
+      "– Você achou engraçado? Ninguém entende as minhas piadas.",
+      "Eu entendia. Passamos o resto do intervalo inventando falas para os pássaros, e o",
+      "sinal, pela primeira vez, tocou cedo demais. Na semana seguinte, ela me apresentou ao",
+      "irmão gêmeo, que jogava xadrez contra si mesmo, e a um menino do nono ano que sabia de",
+      "cor todas as capitais do mundo. Não formávamos exatamente um grupo; éramos mais um",
+      "arquipélago<sup>2</sup>, ilhas vizinhas que tinham descoberto uma ponte.",
+      "Hoje, quando me lembro daquele banco, não sinto pena de mim. Sinto, talvez, uma",
+      "ternura atrasada por aquele garoto que fingia estudar. Ele não sabia que, a poucos",
+      "metros dali, outras pessoas também fingiam alguma coisa. Pertencer, descobri depois,",
+      "não é encontrar um lugar pronto à nossa espera: é perceber que outros também procuram e",
+      "resolver procurar junto."
+    ],
+    "para_starts": [
+      1,
+      7,
+      12,
+      17,
+      22,
+      23,
+      28
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "estratégico",
+        "def": "escolhido de propósito, pensado para alcançar um objetivo"
+      },
+      {
+        "term": "arquipélago",
+        "def": "conjunto de ilhas próximas umas das outras"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "CHAMADA",
+    "subtitle": null,
+    "author": null,
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Estou no meio de todos",
+      "e ninguém me vê passar;",
+      "sou a cadeira da sala",
+      "que ninguém quer ocupar.",
+      "O barulho do corredor",
+      "chega a mim como um aviso:",
+      "todos riem da mesma coisa,",
+      "eu ensaio o meu sorriso.",
+      "Mas um dia alguém me chama",
+      "pelo nome, sem razão,",
+      "e o nome, que era só nome,",
+      "vira porta, vira chão.",
+      "Não preciso de multidão",
+      "nem de curtidas na tela:",
+      "me basta um amigo ao lado",
+      "para a casa ter janela."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "Estar sozinho não é o mesmo que ser só",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Há uma diferença importante entre estar sozinho e sentir-se só. A primeira",
+      "situação pode ser uma escolha saudável: ler um livro no quarto, caminhar ouvindo",
+      "música, pensar na vida sem ninguém por perto. A segunda é uma dor, a sensação de que",
+      "ninguém nos enxerga de verdade, mesmo quando estamos cercados de gente. Confundir",
+      "as duas coisas é um erro comum, sobretudo quando se fala de adolescentes.",
+      "Na adolescência, a solidão costuma ser vivida como um fracasso pessoal. As redes",
+      "sociais contribuem para isso, pois funcionam como uma vitrine em que todos parecem",
+      "rodeados de amigos, sempre em festas, sempre sorrindo. Quem olha a vitrine do lado de",
+      "fora conclui que é o único a ficar em casa num sábado à noite. Ninguém publica o",
+      "recreio passado em silêncio.",
+      "Por isso, defendo que a solidão juvenil seja tratada como um assunto coletivo, e",
+      "não como um defeito de quem a sente. As escolas podem criar clubes, grêmios e projetos",
+      "em que os estudantes se encontrem por interesses comuns, e não apenas pela sala em que",
+      "foram colocados. As famílias podem trocar o interrogatório (“Já fez amigos?”) pela",
+      "escuta paciente. E os próprios jovens podem lembrar que, em qualquer pátio, há sempre",
+      "alguém esperando um convite.",
+      "Pertencer não acontece por decreto<sup>1</sup>. Pode, no entanto, ser facilitado, desde que",
+      "os adultos deixem de enxergar o jovem solitário como um problema a ser corrigido e",
+      "passem a vê-lo como alguém que ainda não encontrou a sua turma."
+    ],
+    "para_starts": [
+      1,
+      6,
+      11,
+      17
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "decreto",
+        "def": "ordem oficial dada por uma autoridade"
+      }
+    ],
+    "epigraph": null
+  }
+]

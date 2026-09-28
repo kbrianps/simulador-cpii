@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect width="480" height="300" fill="#fff"/>
+  <rect x="40" y="40" width="200" height="200" fill="#f4ecd8" stroke="#333" stroke-width="2"/>
+  <g fill="#bbb" stroke="#333" stroke-width="1.5">
+    <rect x="40" y="40" width="40" height="40"/><rect x="200" y="40" width="40" height="40"/>
+    <rect x="40" y="200" width="40" height="40"/><rect x="200" y="200" width="40" height="40"/>
+  </g>
+  <g stroke="#666" stroke-width="1.5" stroke-dasharray="6 4">
+    <line x1="80" y1="80" x2="200" y2="80"/><line x1="80" y1="200" x2="200" y2="200"/>
+    <line x1="80" y1="80" x2="80" y2="200"/><line x1="200" y1="80" x2="200" y2="200"/>
+  </g>
+  <text x="60" y="33" text-anchor="middle">4 cm</text>
+  <text x="32" y="65" text-anchor="end">4 cm</text>
+  <line x1="40" y1="258" x2="240" y2="258" stroke="#333"/>
+  <line x1="40" y1="252" x2="40" y2="264" stroke="#333"/><line x1="240" y1="252" x2="240" y2="264" stroke="#333"/>
+  <text x="140" y="280" text-anchor="middle" font-style="italic">L</text>
+  <text x="140" y="145" text-anchor="middle" fill="#555">folha</text>
+  <path d="M258 140 L298 140" stroke="#333" stroke-width="2"/>
+  <path d="M298 140 L290 135 L290 145 Z" fill="#333"/>
+  <g stroke="#333" stroke-width="2" fill="#e8dcc0">
+    <path d="M320 150 L420 150 L450 125 L350 125 Z" fill="#c2ad82"/>
+    <path d="M320 150 L350 125 L350 150 Z" fill="#a8946b" stroke-width="1.2"/>
+    <path d="M320 150 L420 150 L420 190 L320 190 Z"/>
+    <path d="M420 150 L450 125 L450 165 L420 190 Z" fill="#d8c8a4"/>
+  </g>
+  <path d="M320 150 L320 190" stroke="#333" stroke-width="2"/>
+  <text x="385" y="225" text-anchor="middle">caixa aberta</text>
+  <text x="385" y="245" text-anchor="middle">(altura 4 cm)</text>
+</svg>

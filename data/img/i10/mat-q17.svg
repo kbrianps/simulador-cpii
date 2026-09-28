@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 330" width="440" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="440" height="330" fill="#fff"/>
+  <text x="240" y="24" text-anchor="middle" font-size="16" font-weight="bold">Nível do reservatório (% da capacidade)</text>
+  <line x1="62" y1="270" x2="420" y2="270" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="275" text-anchor="end" fill="#333">0%</text>
+  <line x1="62" y1="226" x2="420" y2="226" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="231" text-anchor="end" fill="#333">20%</text>
+  <line x1="62" y1="182" x2="420" y2="182" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="187" text-anchor="end" fill="#333">40%</text>
+  <line x1="62" y1="138" x2="420" y2="138" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="143" text-anchor="end" fill="#333">60%</text>
+  <line x1="62" y1="94" x2="420" y2="94" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="99" text-anchor="end" fill="#333">80%</text>
+  <line x1="62" y1="50" x2="420" y2="50" stroke="#ccc" stroke-width="1"/>
+  <text x="55" y="55" text-anchor="end" fill="#333">100%</text>
+  <line x1="62" y1="270" x2="420" y2="270" stroke="#333" stroke-width="1.5"/>
+  <polyline points="90,94 150,116 210,127 270,149 330,182 390,171" fill="none" stroke="#3b6fb6" stroke-width="2.5"/>
+  <circle cx="90" cy="94" r="4.5" fill="#3b6fb6"/>
+  <text x="90" y="84" text-anchor="middle">80%</text>
+  <text x="90" y="292" text-anchor="middle">Jan</text>
+  <circle cx="150" cy="116" r="4.5" fill="#3b6fb6"/>
+  <text x="150" y="106" text-anchor="middle">70%</text>
+  <text x="150" y="292" text-anchor="middle">Fev</text>
+  <circle cx="210" cy="127" r="4.5" fill="#3b6fb6"/>
+  <text x="210" y="117" text-anchor="middle">65%</text>
+  <text x="210" y="292" text-anchor="middle">Mar</text>
+  <circle cx="270" cy="149" r="4.5" fill="#3b6fb6"/>
+  <text x="270" y="139" text-anchor="middle">55%</text>
+  <text x="270" y="292" text-anchor="middle">Abr</text>
+  <circle cx="330" cy="182" r="4.5" fill="#3b6fb6"/>
+  <text x="330" y="172" text-anchor="middle">40%</text>
+  <text x="330" y="292" text-anchor="middle">Mai</text>
+  <circle cx="390" cy="171" r="4.5" fill="#3b6fb6"/>
+  <text x="390" y="161" text-anchor="middle">45%</text>
+  <text x="390" y="292" text-anchor="middle">Jun</text>
+  <text x="240" y="318" text-anchor="middle" font-size="14">Mês</text>
+</svg>

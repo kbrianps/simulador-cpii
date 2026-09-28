@@ -1,0 +1,242 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": ["T1"],
+    "stem": "<p>O Texto 1 é um artigo de opinião, gênero em que o autor defende um ponto de vista (a tese) e procura convencer o leitor por meio de argumentos.</p><p>A tese defendida pela autora é a de que</p>",
+    "options": {
+      "A": "os congestionamentos são inevitáveis nas grandes cidades, pois dependem de fatores que ninguém controla.",
+      "B": "as dificuldades para circular na cidade resultam de escolhas e devem ser enfrentadas tratando a mobilidade como um direito de todos.",
+      "C": "a melhor forma de garantir o direito de ir e vir é facilitar para que cada família tenha o próprio automóvel.",
+      "D": "a Constituição precisa ser modificada para incluir o transporte entre os direitos sociais dos brasileiros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.leitura.tema_tese", "pt.leitura.genero"],
+    "difficulty": 1,
+    "explanation": "<p>A <b>tese</b> é a ideia principal que o autor quer provar. Para encontrá-la, observe o que o texto afirma com mais força e o que ele conclui.</p><p>No segundo parágrafo, a autora nega que o trânsito seja uma “fatalidade”: “A forma como uma cidade se organiza resulta de escolhas” (linhas 8-9). No último parágrafo, ela conclui: “pensar a mobilidade é pensar a cidade como um bem comum” (linha 29) e defende calçadas niveladas, faixas de ônibus, ciclovias e veículos acessíveis como “condições” para que todos cheguem aonde precisam (linhas 29-32). Ela lembra ainda que circular “não é um favor, mas um direito” (linha 17).</p><p>Juntando tudo: as dificuldades de circular vêm de escolhas e devem ser enfrentadas tratando a mobilidade como direito de todos.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É exatamente a ideia que a autora combate. Ela diz que costumamos tratar o problema “como uma fatalidade” e responde: “Não é.” (linhas 7-8).",
+      "C": "A autora apresenta essa ideia como a opinião de outras pessoas (“Há quem responda”, linha 23) justamente para rejeitá-la: se todos fossem de carro, “as ruas simplesmente parariam” (linhas 26-27).",
+      "D": "O texto informa que a Constituição já inclui o transporte entre os direitos sociais “desde 2015” (linhas 15-16). O problema apontado é que esse direito não se cumpre na prática, e não a falta de uma lei."
+    },
+    "tip": "A tese costuma aparecer com clareza na conclusão do artigo; desconfie das alternativas que repetem ideias que o autor cita apenas para rebater."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": ["T1"],
+    "stem": "<blockquote><p>“No papel, portanto, circular pela cidade não é um favor, mas um direito. Na prática, entretanto, esse direito <b><u>tropeça em degraus</u></b>.” (linhas 16-18)</p></blockquote><p>No trecho acima, a expressão destacada foi empregada em sentido figurado. Ela significa que o direito de circular</p>",
+    "options": {
+      "A": "foi retirado da Constituição por ser considerado difícil de aplicar.",
+      "B": "é garantido apenas às pessoas que conseguem subir escadas com facilidade.",
+      "C": "avança devagar porque as leis brasileiras são escritas com linguagem complicada.",
+      "D": "encontra, no dia a dia, obstáculos concretos que impedem que ele seja exercido plenamente."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.semantica.sentido", "pt.semantica.figuras"],
+    "difficulty": 2,
+    "explanation": "<p>Um direito não tem pés, então não pode tropeçar de verdade: a expressão é <b>figurada</b>. A autora atribui ao direito uma ação de quem caminha (tropeçar), o que combina com o assunto do texto, a circulação a pé.</p><p>Observe a oposição marcada no trecho: “No papel” (na lei) circular é um direito; “Na prática, entretanto” (no dia a dia), ele tropeça. Logo depois, a autora mostra quais são os “degraus”: “a calçada estreita, o poste no meio do caminho, a rampa que termina num meio-fio alto, o ônibus cujo elevador não funciona” (linhas 19-21).</p><p>Portanto, “tropeça em degraus” quer dizer que o direito esbarra em obstáculos concretos e, por isso, não se realiza por completo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O texto afirma o contrário: a Constituição garante a liberdade de locomoção e inclui o transporte entre os direitos sociais (linhas 15-16). O direito existe no papel; o problema está na prática.",
+      "B": "É uma leitura literal demais. Os “degraus” representam todos os obstáculos do caminho, e o texto não diz que o direito seja “garantido apenas” a um grupo; diz que muitas pessoas não conseguem exercê-lo.",
+      "C": "O texto não fala da linguagem das leis. A oposição “No papel” x “Na prática” mostra que a lei é clara; o que falha é a estrutura da cidade."
+    },
+    "tip": "Para entender uma expressão figurada, procure no próprio texto o que vem logo depois: a autora quase sempre “traduz” a imagem com exemplos concretos."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": ["T1"],
+    "stem": "<p>No Texto 1, os conectivos são essenciais para a organização dos argumentos.</p><p>Assinale a alternativa em que a relação de sentido estabelecida pelo termo destacado está corretamente identificada:</p>",
+    "options": {
+      "A": "“<b><u>Por isso</u></b>, pensar a mobilidade é pensar a cidade como um bem comum.” (linha 29) – conclusão",
+      "B": "“<b><u>Mas</u></b> essa saída individual esbarra em um limite físico.” (linhas 23-24) – adição",
+      "C": "“<b><u>Se</u></b> todos resolvessem ir ao trabalho de carro, as ruas simplesmente parariam.” (linhas 26-27) – causa",
+      "D": "“<b><u>Enquanto</u></b> o caminho for um obstáculo, o direito de ir e vir continuará sendo, para muitos, apenas uma promessa.” (linhas 33-34) – finalidade"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.coesao.conectivos", "pt.leitura.argumentacao"],
+    "difficulty": 2,
+    "explanation": "<p>Analise cada conectivo pelo papel que ele exerce entre as ideias.</p><ul><li><b>Por isso</b> (linha 29) retoma tudo o que foi dito antes (o tempo perdido, os obstáculos, o limite dos carros) e introduz a consequência lógica desses argumentos: a cidade deve ser pensada como bem comum. É uma relação de <b>conclusão</b>, como “portanto” ou “logo”. Correto.</li><li><b>Mas</b> (linha 23) opõe a proposta de “cada um ter o próprio carro” ao seu limite: é <b>oposição</b> (adversidade), não adição.</li><li><b>Se</b> (linha 26) apresenta uma hipótese, uma <b>condição</b>: as ruas parariam caso todos fossem de carro.</li><li><b>Enquanto</b> (linha 33) indica <b>tempo</b> (durante o tempo em que o caminho for um obstáculo).</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Mas” introduz uma ideia que contraria a anterior (a solução “simples” esbarra num limite): a relação é de oposição. Adição seria expressa por “e”, “também”, “além disso”.",
+      "C": "“Se” não explica o motivo de algo; ele apresenta uma hipótese necessária para que o fato aconteça. A relação é de condição (equivale a “caso todos resolvessem”).",
+      "D": "Finalidade seria “para que” ou “a fim de que”. “Enquanto” marca o período de tempo durante o qual o direito continuará sendo só uma promessa."
+    },
+    "tip": "Teste a troca: se “por isso” vira “portanto” sem mudar o sentido, é conclusão; se “se” vira “caso”, é condição; se “mas” vira “porém”, é oposição."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": ["T1"],
+    "stem": "<blockquote><p>“Há quem responda que a solução é simples: cada um deveria ter o próprio carro. Mas <b><u>essa saída individual</u></b> esbarra em um limite físico.” (linhas 23-24)</p></blockquote><p>A expressão destacada retoma, no texto,</p>",
+    "options": {
+      "A": "o ônibus cheio, que transporta dezenas de pessoas.",
+      "B": "a ciclovia, que ocupa uma faixa estreita de asfalto.",
+      "C": "a ideia de que cada pessoa deveria possuir o próprio carro.",
+      "D": "o direito de ir e vir, garantido a todos pela Constituição."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.coesao.referenciacao"],
+    "difficulty": 1,
+    "explanation": "<p>O pronome demonstrativo <b>“essa”</b> indica que a expressão se refere a algo que acabou de ser mencionado. O que foi dito imediatamente antes? “cada um deveria ter o próprio carro” (linha 23).</p><p>A autora resume essa proposta com uma nova expressão: ela é uma “saída” (uma solução) e é “individual” (cada um resolve o próprio problema, com o seu carro). Esse recurso de retomar uma ideia com outras palavras se chama <b>coesão referencial</b> por substituição lexical.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O ônibus só aparece depois (linha 24) e é justamente o contrário de uma saída individual: é transporte coletivo, apresentado como alternativa ao carro.",
+      "B": "A ciclovia também vem depois (linha 25) e é citada como exemplo de solução eficiente, não como a “saída individual” criticada.",
+      "D": "O direito de ir e vir é o assunto geral do texto, mas não é o que “essa saída” retoma. “Essa” aponta para a proposta mencionada logo antes: ter o próprio carro."
+    },
+    "tip": "Os demonstrativos “esse, essa, isso” costumam retomar o que acabou de ser dito; procure a resposta na frase imediatamente anterior."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": ["T1"],
+    "stem": "<p>No quarto parágrafo do Texto 1 (linhas 23-28), a autora inicia com a frase “Há quem responda que a solução é simples: cada um deveria ter o próprio carro.”</p><p>A estratégia argumentativa empregada nesse parágrafo consiste em</p>",
+    "options": {
+      "A": "citar a fala de um especialista em trânsito para dar credibilidade à tese.",
+      "B": "apresentar uma possível objeção à sua tese e, em seguida, refutá-la.",
+      "C": "apoiar-se em dados estatísticos de pesquisas sobre o uso de automóveis.",
+      "D": "narrar uma experiência pessoal para comover o leitor."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.leitura.argumentacao"],
+    "difficulty": 2,
+    "explanation": "<p>A expressão “Há quem responda” (linha 23) mostra que a autora dá voz a pessoas que pensam diferente dela. Essa opinião contrária (uma <b>objeção</b>) seria: “cada um deveria ter o próprio carro”.</p><p>Logo em seguida, com o conectivo “Mas” (linha 23), ela rebate essa ideia: a saída “esbarra em um limite físico” (linha 24), pois “Se todos resolvessem ir ao trabalho de carro, as ruas simplesmente parariam” (linhas 26-27). Rebater um argumento contrário se chama <b>refutar</b>.</p><p>Essa estratégia (antecipar a objeção e refutá-la) fortalece a tese, porque mostra que a autora pensou nas críticas possíveis.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Não há nenhum especialista citado no parágrafo. “Há quem responda” é uma referência vaga a pessoas comuns que discordam, e não uma voz de autoridade.",
+      "C": "O parágrafo não traz números nem pesquisas. A comparação entre ônibus, ciclovia e carros é um raciocínio geral (“dezenas de pessoas”, “muita gente”), e não um dado estatístico.",
+      "D": "A autora não conta nada que tenha vivido; o parágrafo apresenta um raciocínio geral, sem narrar fatos. Uma narrativa de experiência pessoal aparece no Texto 3, a crônica."
+    },
+    "tip": "Expressões como “Há quem diga”, “Alguns afirmam” ou “Pode-se objetar” anunciam um contra-argumento que o autor vai derrubar logo depois."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": ["T2"],
+    "stem": "<p>O poema “Ponto de ônibus” (Texto 2) constrói suas imagens por meio de diversas figuras de linguagem.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“O ônibus vem de longe, / cansado antes de nós,” (versos 7 e 8) – personificação",
+      "B": "“A cidade passa na janela / como um filme sem legenda:” (versos 13 e 14) – metáfora",
+      "C": "“Às seis da manhã, o ponto / já está cheio de sono:” (versos 1 e 2) – ironia",
+      "D": "“A cidade é tão grande, / e o meu mundo cabe inteiro / entre dois pontos de ônibus.” (versos 20 a 22) – eufemismo"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.semantica.figuras", "pt.leitura.literario"],
+    "difficulty": 2,
+    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir sentimentos ou ações humanas a seres que não são humanos. Em “O ônibus vem de longe, / cansado antes de nós” (versos 7-8), o ônibus aparece “cansado”, como se fosse uma pessoa. A imagem continua nos versos seguintes: ele “engole a fila inteira” e segue “bufando” (versos 9-10).</p><p>Nas outras alternativas, a figura indicada não corresponde ao trecho:</p><ul><li>B: há o conectivo “como”, que torna a comparação explícita; é uma <b>comparação</b> (símile), e não metáfora;</li><li>C: o ponto “cheio de sono” representa as pessoas sonolentas que estão nele (o lugar pelos ocupantes); não há ironia, pois o poeta não diz o contrário do que pensa;</li><li>D: a oposição entre a cidade “tão grande” e o mundo que “cabe” entre dois pontos é uma <b>antítese</b>; nada é suavizado, então não há eufemismo.</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Na metáfora, a comparação é implícita (“a cidade é um filme”). Quando aparece o “como”, a figura é a comparação.",
+      "C": "Ironia é dizer o contrário do que se quer expressar, o que não acontece aqui. O ponto “cheio de sono” indica, de forma expressiva, que as pessoas que esperam o ônibus estão sonolentas.",
+      "D": "Eufemismo suaviza uma ideia desagradável. Os versos fazem o oposto: aproximam ideias contrárias (a cidade enorme e o mundo pequeno do eu lírico), formando uma antítese."
+    },
+    "tip": "Com “como”, “feito” ou “tal qual” é comparação; ação humana dada a objeto (ônibus “cansado”, “bufando”) é personificação."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": ["T2", "T1"],
+    "stem": "<p>Na última estrofe do Texto 2, o eu lírico afirma: “A cidade é tão grande, / e o meu mundo cabe inteiro / entre dois pontos de ônibus.” (versos 20 a 22). Antes, na terceira estrofe, ele já tinha visto pela janela “prédios que não são meus, / praças onde nunca desço” (versos 15 e 16).</p><p>A ideia expressa nesses versos dialoga diretamente com o seguinte trecho do Texto 1:</p>",
+    "options": {
+      "A": "“Somadas ao longo de um ano, essas horas formam semanas inteiras roubadas do descanso, do estudo e da convivência com a família.” (linhas 5-6)",
+      "B": "“A Constituição garante a todos a liberdade de locomoção e, desde 2015, inclui o transporte entre os direitos sociais [...]” (linhas 15-16)",
+      "C": "“Um ônibus cheio transporta dezenas de pessoas no espaço que poucos automóveis ocupam [...]” (linhas 24-25)",
+      "D": "“Uma cidade só pertence de fato a seus moradores quando eles conseguem atravessá-la.” (linhas 32-33)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.leitura.comparacao", "pt.leitura.inferencia"],
+    "difficulty": 3,
+    "explanation": "<p>Primeiro, entenda os versos. O eu lírico vive numa cidade enorme, mas conhece apenas o trajeto entre dois pontos de ônibus (casa e trabalho, provavelmente). O resto da cidade só aparece pela janela: são “prédios que não são meus” e “praças onde nunca desço”. Ou seja, ele sente que a cidade <b>não lhe pertence</b>, porque não consegue circular por ela e aproveitá-la.</p><p>O Texto 1 formula exatamente essa ideia em linguagem argumentativa: “Uma cidade só pertence de fato a seus moradores quando eles conseguem atravessá-la” (linhas 32-33). O poema mostra, pela experiência de uma pessoa, o que o artigo afirma como princípio geral.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Trata do tempo perdido nos deslocamentos, tema que se aproxima do poema (a viagem de ida e volta), mas os versos citados falam de pertencimento à cidade, e não da quantidade de horas gastas.",
+      "B": "O trecho trata da garantia legal do direito de circular. O poema não fala de leis; fala da sensação de não fazer parte da cidade.",
+      "C": "O trecho compara a eficiência do ônibus com a do carro. Embora o poema se passe num ônibus, os versos citados não discutem o espaço ocupado pelos veículos."
+    },
+    "tip": "Em questões que comparam textos, traduza primeiro a ideia do trecho citado com suas palavras (aqui: “a cidade não é minha”) e só depois procure o equivalente no outro texto."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": ["T3"],
+    "stem": "<blockquote><p>“– Tá vendo, meu filho? – disse minha avó, rindo. – Fizeram a rampa só pra constar.” (linha 9)</p></blockquote><p>Na fala da avó, aparecem formas como “Tá” e “pra”, próprias da linguagem oral informal. No contexto da crônica, o uso dessas formas</p>",
+    "options": {
+      "A": "constitui um erro gramatical que deveria ter sido corrigido pelo autor antes da publicação.",
+      "B": "caracteriza um falar típico de uma única região do Brasil, o que revela a origem da personagem.",
+      "C": "reproduz o modo espontâneo como a personagem fala, tornando o diálogo mais natural e próximo do leitor.",
+      "D": "indica que o narrador desconhece a norma-padrão, já que ele próprio escreve dessa maneira."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.variacao", "pt.leitura.genero"],
+    "difficulty": 1,
+    "explanation": "<p>A crônica é um gênero que retrata cenas do cotidiano com linguagem leve. Quando o narrador reproduz a fala de uma personagem, ele pode manter as marcas da <b>oralidade</b>: “Tá” (está) e “pra” (para) são formas comuns na fala informal de pessoas de todas as regiões do país.</p><p>Repare que o narrador, fora do diálogo, escreve de acordo com a norma-padrão (“Fiquei pensando em quantas vezes tinha passado por ali”, linha 10). A informalidade aparece só na fala da avó, o que mostra que é uma <b>escolha consciente</b> do autor: dar naturalidade à cena e aproximar o leitor da personagem, que fala com carinho (“meu filho”) e bom humor (“rindo”).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não é erro: é variação linguística adequada à situação. Numa conversa entre avó e neto, o registro informal é o esperado, e o autor o reproduz de propósito.",
+      "B": "“Tá” e “pra” são usados em todo o Brasil na fala informal; não identificam uma região específica. É uma marca de registro (situação informal), não de dialeto regional.",
+      "D": "O narrador usa a norma-padrão em toda a narração. A forma informal aparece apenas entre travessões, na fala da avó."
+    },
+    "tip": "Marcas de oralidade dentro de um diálogo quase sempre servem para tornar a fala da personagem mais real; variação linguística não é sinônimo de erro."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": ["T3"],
+    "stem": "<blockquote><p>“A primeira calçada terminava num degrau da altura de um joelho. <b><u>Voltamos</u></b>, <b><u>atravessamos</u></b> a rua pelo meio dos carros e <b><u>subimos</u></b> pela garagem de um prédio [...]” (linhas 4-5)</p></blockquote><p>As formas verbais destacadas estão no pretérito perfeito do indicativo. No trecho, esse tempo verbal é empregado para</p>",
+    "options": {
+      "A": "narrar ações concluídas que se sucedem ao longo do trajeto.",
+      "B": "descrever hábitos que se repetiam todos os dias no passado.",
+      "C": "expressar hipóteses sobre o que poderia ter acontecido.",
+      "D": "indicar ações que ainda vão acontecer no próximo sábado."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.gramatica.verbos"],
+    "difficulty": 2,
+    "explanation": "<p>O <b>pretérito perfeito</b> (voltamos, atravessamos, subimos) indica ações que começaram e terminaram no passado, num momento determinado. No trecho, essas ações acontecem uma depois da outra, como etapas do caminho: primeiro voltaram, depois atravessaram, depois subiram pela garagem. É o tempo típico da <b>narração</b> de fatos.</p><p>Compare com “A primeira calçada <b>terminava</b> num degrau” (linha 4): aqui o verbo está no pretérito imperfeito, usado para <b>descrever</b> o cenário, algo que durava, e não uma ação pontual.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Hábitos repetidos no passado são expressos pelo pretérito imperfeito (“voltávamos”, “atravessávamos”). Além disso, a crônica relata um único trajeto, o do “sábado passado” (linha 2).",
+      "C": "Hipóteses sobre o passado usariam o futuro do pretérito ou o subjuntivo (“teríamos voltado”, “se tivéssemos atravessado”). O narrador conta o que de fato aconteceu.",
+      "D": "Ações futuras exigiriam o futuro do presente (“voltaremos”). O próprio texto situa os fatos no “sábado passado” (linha 2)."
+    },
+    "tip": "Na narração, o pretérito perfeito faz a história andar (ações pontuais); o imperfeito descreve o cenário ou hábitos."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": ["T4", "T3"],
+    "stem": "<p>O cartaz de campanha (Texto 4) combina uma imagem com a frase “Você para cinco minutos. Eles param a vida.”</p><p>Considerando a relação entre o texto verbal e a imagem, e comparando o cartaz com a crônica (Texto 3), pode-se afirmar que</p>",
+    "options": {
+      "A": "o verbo “parar” tem o mesmo sentido nas duas frases, o que mostra que motoristas e pedestres são prejudicados na mesma medida.",
+      "B": "o pronome “Você” dirige-se aos pedestres da imagem, pedindo que tenham paciência e esperem o carro sair da calçada.",
+      "C": "o pronome “Eles” refere-se aos motoristas, que perdem tempo procurando lugar para estacionar, assim como a avó perdeu a consulta.",
+      "D": "o cartaz opõe o pequeno ganho de quem estaciona na calçada ao grande prejuízo imposto a quem precisa passar, prejuízo semelhante ao vivido pela avó da crônica, que perdeu a consulta."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": ["pt.leitura.multimodal", "pt.leitura.comparacao", "pt.semantica.sentido"],
+    "difficulty": 3,
+    "explanation": "<p>Primeiro, identifique os interlocutores. O cartaz condena o carro sobre a calçada, então “<b>Você</b>” é o motorista que estaciona ali. “<b>Eles</b>” são as pessoas mostradas na imagem, o menino de muletas e a mulher com o carrinho de bebê, que ficam sem ter por onde passar.</p><p>Depois, observe o verbo “parar”. Na primeira frase, ele tem sentido literal: o motorista estaciona por pouco tempo (“cinco minutos”). Na segunda, “param a vida” tem sentido figurado: os pedestres têm a rotina interrompida. O cartaz opõe, assim, o pequeno ganho de um ao grande prejuízo dos outros.</p><p>Na crônica, os obstáculos da calçada fazem um trajeto de “cinco minutos” durar “quase uma hora” (linha 3), e a avó chega depois do horário da consulta (linhas 13-14): a vida dela, de fato, “parou” por causa do caminho.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O verbo muda de sentido: “para cinco minutos” é literal (estacionar), e “param a vida” é figurado (ter a rotina interrompida). O cartaz quer mostrar justamente que os prejuízos são desiguais.",
+      "B": "O cartaz não fala com os pedestres. “Você” é o motorista, a quem a campanha se dirige: “Respeite o espaço de quem anda a pé”.",
+      "C": "“Eles” são os pedestres impedidos de passar, mostrados na imagem, e não os motoristas. A relação com a avó está correta, mas a referência do pronome está errada."
+    },
+    "tip": "Em anúncios e cartazes, descubra a quem o texto se dirige (“você”) e de quem ele fala (“eles”) olhando a imagem: ela completa o sentido das palavras."
+  }
+]

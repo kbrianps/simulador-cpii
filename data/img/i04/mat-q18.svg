@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 370" width="420" height="370" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="420" height="370" fill="#ffffff"/>
+  <!-- A(210,30) B(101,330) C(319,330) D(268,190), angle A = 40 deg, BD = BC -->
+  <polygon points="210,30 101,330 319,330" fill="#f3f0e8" stroke="#333" stroke-width="3"/>
+  <line x1="101" y1="330" x2="268" y2="190" stroke="#8a5a2b" stroke-width="3"/>
+  <!-- angle arc at A -->
+  <path d="M 199.7 58.2 A 30 30 0 0 0 220.3 58.2" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <text x="210" y="82" text-anchor="middle" fill="#c0392b" font-size="15">40°</text>
+  <!-- tick marks AB = AC (single) -->
+  <line x1="158.9" y1="147.3" x2="173.9" y2="152.7" stroke="#1f4e8c" stroke-width="2.5"/>
+  <line x1="246.1" y1="152.7" x2="261.1" y2="147.3" stroke="#1f4e8c" stroke-width="2.5"/>
+  <!-- double ticks BD = BC -->
+  <line x1="178" y1="252" x2="189" y2="265" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="186" y1="245" x2="197" y2="258" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="206" y1="322" x2="206" y2="338" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="214" y1="322" x2="214" y2="338" stroke="#8a5a2b" stroke-width="2.5"/>
+  <circle cx="268" cy="190" r="4" fill="#333"/>
+  <text x="210" y="22" text-anchor="middle" font-weight="bold">A</text>
+  <text x="86" y="344" text-anchor="middle" font-weight="bold">B</text>
+  <text x="334" y="344" text-anchor="middle" font-weight="bold">C</text>
+  <text x="282" y="192" font-weight="bold">D</text>
+</svg>

@@ -1,0 +1,294 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma reportagem, gênero jornalístico que trata de um assunto de interesse público a partir de informações apuradas e de entrevistas.</p><p>Um recurso usado no texto para aproximar o leitor do tema é</p>",
+    "options": {
+      "A": "a defesa explícita, pela autora, de que adolescentes não devem trabalhar antes de concluir o ensino médio.",
+      "B": "a história de um jovem aprendiz, que abre e fecha o texto, combinada com informações gerais e com a fala de uma especialista.",
+      "C": "a narração, em primeira pessoa, das experiências vividas pela própria autora quando era adolescente.",
+      "D": "a apresentação de dados estatísticos sobre o número de jovens que abandonam a escola para trabalhar."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe como o texto começa e como termina. O primeiro parágrafo apresenta Kauã, de dezessete anos, no ônibus, a caminho da escola e do trabalho (linhas 1-5). O último parágrafo volta a ele: “Kauã, por enquanto, segue equilibrando os pratos” (linha 29), e o texto se encerra com uma fala do rapaz, “antes de descer do ônibus” (linhas 32-33).</p><p>Entre esses dois momentos, a repórter traz informações gerais sobre o tema (a lei, nas linhas 12-17, e o trabalho infantil, nas linhas 23-28) e a fala da pedagoga Sílvia Andrade (linhas 18-22). Começar por um caso concreto, com nome, idade e rotina, faz o leitor se identificar com o assunto antes de receber as informações mais gerais. Esse é um recurso muito comum em reportagens.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A autora não declara a própria opinião dessa forma. Além disso, o texto apresenta a aprendizagem como algo permitido e que pode ser positivo (linhas 15-17), e não como algo a ser evitado.",
+      "C": "Quem conta sua experiência é Kauã, em falas entre aspas. A autora narra em terceira pessoa e não fala da própria adolescência.",
+      "D": "O texto não traz números nem estatísticas. As informações gerais são sobre o que a lei permite e proíbe (linhas 12-17)."
+    },
+    "tip": "Reportagens costumam “humanizar” o tema: começam pela história de uma pessoa real e só depois ampliam para o quadro geral."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Kauã, por enquanto, segue <b><u>equilibrando os pratos</u></b>.” (linha 29)</p></blockquote><p>No contexto do último parágrafo, a expressão destacada significa que Kauã continua</p>",
+    "options": {
+      "A": "procurando um emprego em que precise lidar menos com o público.",
+      "B": "ajudando nas tarefas domésticas depois de chegar do trabalho.",
+      "C": "tentando dar conta, ao mesmo tempo, das exigências da escola e do trabalho.",
+      "D": "economizando parte do salário para pagar a inscrição no vestibular."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A expressão “equilibrar os pratos” vem da imagem do malabarista que mantém vários pratos girando ao mesmo tempo, sem deixar nenhum cair. No sentido figurado (conotativo), significa <b>administrar várias tarefas ao mesmo tempo, com esforço para não falhar em nenhuma</b>.</p><p>O próprio parágrafo mostra quais são esses “pratos”: Kauã combinou com a gerente de “sair mais cedo nas semanas de prova” e passou “a revisar a matéria no trajeto de volta” (linhas 29-30). Ou seja, ele se organiza para não deixar cair nem o trabalho nem os estudos, a mesma dificuldade que ele já tinha percebido “depois da primeira prova de Química” (linha 4).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não diz que Kauã quer mudar de emprego. Pelo contrário: ele afirma que o trabalho o ensinou “a conversar com gente diferente” (linhas 31-32).",
+      "B": "Essa leitura toma “pratos” no sentido literal (a louça de casa). A expressão é figurada, e o parágrafo fala de escola e trabalho, não de tarefas domésticas.",
+      "D": "O texto menciona o plano de prestar vestibular (linhas 30-31), mas não fala em economizar dinheiro para isso."
+    },
+    "tip": "Diante de uma expressão figurada, procure no próprio parágrafo as ações que explicam a imagem."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A Constituição proíbe qualquer trabalho para menores de dezesseis anos, <b><u>salvo</u></b> na condição de aprendiz, a partir dos quatorze.” (linhas 12-14)</p></blockquote><p>No trecho, a palavra destacada introduz uma ideia de</p>",
+    "options": {
+      "A": "exceção, podendo ser substituída por “exceto”.",
+      "B": "inclusão, podendo ser substituída por “inclusive”.",
+      "C": "ênfase, podendo ser substituída por “sobretudo”.",
+      "D": "condição, podendo ser substituída por “desde que”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A frase apresenta uma regra geral: é proibido “qualquer trabalho para menores de dezesseis anos”. Em seguida, aponta um caso que fica fora dessa proibição: o aprendiz, a partir dos quatorze anos. Quando um termo retira um caso de uma regra geral, ele expressa <b>exceção</b>.</p><p>Faça o teste da substituição: “A Constituição proíbe qualquer trabalho para menores de dezesseis anos, <b>exceto</b> na condição de aprendiz”. O sentido se mantém. O parágrafo confirma essa leitura ao explicar como funciona a aprendizagem permitida (linhas 15-17).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Inclusive” faria o aprendiz entrar na proibição, o contrário do que o texto diz: a aprendizagem é justamente o caso permitido.",
+      "C": "“Sobretudo” destacaria o aprendiz como o caso mais proibido de todos, o que inverte o sentido da frase.",
+      "D": "“Desde que” indicaria uma condição para a proibição valer, e a frase ficaria sem sentido. “Salvo” não impõe condição; ele retira um caso da regra."
+    },
+    "tip": "“Salvo”, “exceto”, “menos” e “com exceção de” retiram um caso de uma regra geral: indicam exceção."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“[...] muitas vezes, ele ajuda a pagar a conta de luz ou o gás de casa. É justamente <b><u>aí</u></b> que mora o dilema.” (linhas 8-9)</p></blockquote><p>No trecho, a palavra destacada retoma</p>",
+    "options": {
+      "A": "a casa de Kauã, lugar onde a família depende do salário do rapaz.",
+      "B": "a primeira prova de Química, quando Kauã percebeu a dificuldade de conciliar tudo.",
+      "C": "o lanche e o tênis novo, que os jovens compram com o primeiro salário.",
+      "D": "o fato de o salário do jovem, muitas vezes, ser necessário para as despesas da família."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Aí” costuma indicar lugar, mas também pode retomar uma <b>ideia</b> dita antes, com o sentido de “nesse ponto”, “nessa situação”. É o que acontece aqui.</p><p>A frase anterior diz que o primeiro salário, “muitas vezes, [...] ajuda a pagar a conta de luz ou o gás de casa” (linha 8). O dilema (escolha difícil entre duas opções) mora exatamente nessa situação: se o dinheiro do jovem é necessário para a família, deixar o trabalho não é simples; mas, se o trabalho tomar o tempo dos estudos, ele “acaba cobrando um preço alto no futuro” (linhas 10-11).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Essa leitura toma “aí” como indicação de lugar. No trecho, porém, a palavra não aponta para uma casa, e sim para a situação descrita na frase anterior.",
+      "B": "A prova de Química aparece no primeiro parágrafo (linha 4), longe do trecho. Os pronomes e advérbios que retomam ideias costumam se ligar ao que foi dito logo antes.",
+      "C": "O texto diz justamente que o salário “não significa apenas” lanche e tênis (linha 7). O dilema não está nesses gastos, e sim no uso do dinheiro para as contas da casa."
+    },
+    "tip": "Para saber o que uma palavra como “aí”, “isso” ou “esse” retoma, releia a frase imediatamente anterior e substitua."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Até os dezoito, também são vedadas as atividades noturnas, perigosas ou insalubres.” (linhas 14-15)</p></blockquote><p>A reescrita que mantém o sentido original e está de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "Até os dezoito, também é vedada as atividades noturnas, perigosas ou insalubres.",
+      "B": "Até os dezoito, as atividades noturnas, perigosas ou insalubres também vedam os adolescentes.",
+      "C": "Até os dezoito, também se vedam as atividades noturnas, perigosas ou insalubres.",
+      "D": "Até os dezoito, também foram vedadas as atividades noturnas, perigosas ou insalubres."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A frase original está na <b>voz passiva analítica</b> (verbo “ser” + particípio): “são vedadas as atividades”. O sujeito é “as atividades noturnas, perigosas ou insalubres”, que sofre a ação de vedar (proibir). Por isso o verbo está no plural.</p><p>A mesma ideia pode ser escrita na <b>voz passiva sintética</b>, com o pronome “se”: “também <b>se vedam</b> as atividades”. Como o sujeito continua sendo “as atividades” (plural), o verbo também fica no plural. Compare com um exemplo mais comum: “vendem-se casas” = “casas são vendidas”.</p><p>A reescrita C mantém o tempo presente, o sentido de regra geral e a concordância.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Erro de concordância: o sujeito “as atividades” está no plural, então o correto seria “são vedadas”, e não “é vedada”.",
+      "B": "Muda o sentido: as atividades passam a ser o sujeito que “veda” (proíbe) os adolescentes, como se elas proibissem alguém. No original, são as atividades que são proibidas.",
+      "D": "Troca o presente pelo pretérito (“foram vedadas”). O texto apresenta uma regra que vale hoje; no passado, pareceria algo que já aconteceu e talvez não valha mais."
+    },
+    "tip": "Na passiva sintética (verbo + “se”), o verbo concorda com o sujeito: “vedam-se as atividades”, assim como “são vedadas as atividades”."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No poema (Texto 2), a autora utiliza recursos expressivos para construir a imagem do menino que trabalha no sinal.</p><p>A alternativa que relaciona corretamente o trecho à figura de linguagem presente nele é:</p>",
+    "options": {
+      "A": "“tem nove anos, talvez dez,” (verso 3) – hipérbole",
+      "B": "“Na escola, a carteira espera” (verso 13) – personificação",
+      "C": "“vai passando feito um rio.” (verso 20) – metáfora",
+      "D": "“ninguém pergunta o seu nome, / ninguém lhe estende a mão.” (versos 11 e 12) – eufemismo"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir ações ou sentimentos humanos a seres inanimados. Em “Na escola, a carteira espera” (verso 13), a carteira, um objeto, aparece esperando o menino, como se sentisse a falta dele. A imagem reforça a ausência da criança na escola.</p><p>Nas outras alternativas, a figura indicada não corresponde ao trecho:</p><ul><li>A: “nove anos, talvez dez” é apenas uma estimativa da idade, sem exagero; não há hipérbole;</li><li>C: “feito um rio” traz a palavra “feito”, que tem o valor de “como”. Uma comparação com conectivo explícito é <b>comparação</b> (símile), e não metáfora;</li><li>D: a repetição de “ninguém” no início dos versos é uma <b>anáfora</b>, que reforça a indiferença das pessoas. Não há suavização de uma ideia negativa, que seria o eufemismo.</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Hipérbole é um exagero intencional. “Nove anos, talvez dez” é uma estimativa realista da idade do menino, e não um exagero.",
+      "C": "O conectivo “feito” (igual a “como”) torna a figura uma comparação. Na metáfora, a aproximação é feita sem conectivo (“a infância é um rio”).",
+      "D": "Os versos não suavizam nada; ao contrário, denunciam com força a indiferença. O recurso presente é a anáfora, a repetição de “ninguém” no início dos versos."
+    },
+    "tip": "Com “como”, “feito”, “tal qual”, é comparação; sem conectivo, é metáfora; objeto agindo como gente é personificação."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>“Na escola, a carteira espera<br>e o caderno fica sem abrir;<br>a lição de hoje, coitada,<br>não teve tempo de existir.” (versos 13-16)</p></blockquote><p>Nessa estrofe, o eu lírico sugere que</p>",
+    "options": {
+      "A": "o menino não gosta de estudar e prefere ficar na rua vendendo balas.",
+      "B": "a escola do menino está fechada, por isso ele passa o dia no sinal.",
+      "C": "o menino aproveita o tempo do sinal vermelho para fazer as lições de casa.",
+      "D": "o trabalho no sinal ocupa o tempo que deveria ser dedicado aos estudos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A estrofe mostra a escola vazia do menino: a carteira “espera”, o caderno “fica sem abrir” e a lição “não teve tempo de existir” (versos 13-16). Por que não houve tempo? As estrofes anteriores respondem: o menino passa o dia no sinal, vendendo bala e contando moedas “enquanto a tarde esfria” (versos 1-8).</p><p>Assim, o poema sugere que o trabalho toma o tempo que seria da escola. A culpa não é colocada na criança: a lição é que “não teve tempo”, e a palavra “coitada” dá um tom de lamento à situação.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Nada no poema indica que o menino prefere a rua. Ele “quase nunca fala” (verso 4) e carrega a caixa “como quem carrega o dia” (verso 6), imagens de peso e cansaço, não de escolha prazerosa.",
+      "B": "A escola não está fechada: a carteira “espera” por ele (verso 13). Quem falta é o menino.",
+      "C": "É o contrário: o caderno “fica sem abrir” (verso 14) e a lição não chegou a existir. Ele não estuda no trabalho."
+    },
+    "tip": "Em perguntas de inferência sobre poemas, ligue a estrofe citada ao que as outras estrofes já mostraram."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“Toda vez que o assunto é trabalho infantil, alguém repete a velha frase: ‘Comecei a trabalhar com oito anos e <b><u>tô</u></b> aqui, <b><u>inteirinho</u></b>’.” (linhas 1-2)</p></blockquote><p>O uso das formas destacadas, próprias da linguagem oral informal, em um artigo de opinião escrito na norma-padrão se justifica porque</p>",
+    "options": {
+      "A": "reproduz o modo como as pessoas costumam dizer a frase, deixando claro que se trata da fala de outros, e não das palavras do autor.",
+      "B": "revela que o autor desconhece a norma-padrão, já que mistura formas da oralidade ao texto escrito.",
+      "C": "indica uma variação regional, típica de uma única região do país, onde a frase costuma ser dita.",
+      "D": "tem a função de ridicularizar os adultos que trabalharam na infância, zombando de seu modo de falar."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Tô” (redução de “estou”) e “inteirinho” (diminutivo afetivo de “inteiro”) são marcas da fala do dia a dia. Observe que elas aparecem <b>entre aspas</b>, dentro da “velha frase” que “alguém repete” (linha 1). O autor está citando o que as pessoas dizem, do jeito que dizem.</p><p>Reproduzir a fala informal torna a citação mais fiel e reconhecível para o leitor, que provavelmente já ouviu essa frase. Fora das aspas, o autor escreve na norma-padrão, o que mostra que a escolha é consciente.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "As formas informais estão só dentro das aspas, na fala citada. No restante, o autor usa a norma-padrão (“Entendo o orgulho de quem venceu as dificuldades”, linhas 3-4), o que mostra domínio, e não desconhecimento.",
+      "C": "“Tô” e “inteirinho” são usados em todo o Brasil na fala informal; não caracterizam uma região específica. A variação aqui é de registro (formal x informal).",
+      "D": "O autor não zomba de ninguém: ele diz “Entendo o orgulho de quem venceu as dificuldades” (linhas 3-4). Ele discorda da conclusão da frase, não do jeito de falar."
+    },
+    "tip": "Linguagem informal entre aspas num texto formal costuma ser citação fiel da fala de alguém, não erro do autor."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O Texto 3 é um artigo de opinião, gênero em que o autor defende uma tese, isto é, um ponto de vista sobre o tema, sustentado por argumentos.</p><p>A tese defendida por Renato Lemos é a de que</p>",
+    "options": {
+      "A": "o primeiro emprego deve ser evitado por todos os adolescentes, mesmo quando respeita os estudos.",
+      "B": "quem trabalhou na infância não tem motivo algum para se orgulhar de ter vencido as dificuldades.",
+      "C": "ter trabalhado na infância e sobrevivido a isso não transforma o trabalho infantil em algo positivo.",
+      "D": "as crianças que trabalham falham com a sociedade quando trocam o caderno pela caixa de balas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O autor parte da frase “Comecei a trabalhar com oito anos e tô aqui, inteirinho” e declara: “discordo da conclusão” (linha 4). Que conclusão? A de que o trabalho infantil seria bom, já que a pessoa “sobreviveu”.</p><p>O segundo parágrafo explica a tese com clareza: “Quem sobreviveu a uma infância de trabalho não prova que ela seja boa; prova apenas que resistiu” (linhas 5-6). Os argumentos seguintes a sustentam: muitos não tiveram a mesma sorte (linhas 6-8), e a infância “é o tempo de aprender, brincar e sonhar” (linha 15).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O autor afirma o contrário: “Não se trata de condenar o primeiro emprego” e uma vaga de aprendiz “pode ensinar muito a um adolescente” (linhas 9-10).",
+      "B": "O autor diz “Entendo o orgulho de quem venceu as dificuldades” (linhas 3-4). Ele não critica o orgulho, e sim a conclusão de que o trabalho infantil seria positivo.",
+      "D": "Inverte o sentido das linhas 11-12: “não é ela que está falhando: somos nós, como sociedade, que falhamos com ela”. A responsabilidade é da sociedade, não da criança."
+    },
+    "tip": "A tese costuma aparecer logo depois de uma expressão como “discordo”, “defendo” ou “não prova”: procure onde o autor toma posição."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "stem": "<p>Os três textos da prova pertencem a gêneros diferentes (reportagem, poema e artigo de opinião), mas dialogam entre si.</p><p>Um ponto em comum entre eles é</p>",
+    "options": {
+      "A": "o reconhecimento de que o trabalho infantil afasta crianças da escola e de experiências próprias da infância.",
+      "B": "a condenação de qualquer forma de trabalho antes dos dezoito anos, inclusive a aprendizagem.",
+      "C": "a apresentação da experiência de um jovem trabalhador contada por ele mesmo, em primeira pessoa.",
+      "D": "a atribuição às próprias crianças da responsabilidade por abandonarem os estudos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Procure, em cada texto, o que ele diz sobre o trabalho de crianças:</p><ul><li>Texto 1: o trabalho infantil é “uma violação de direitos que rouba horas de brincadeira, de descanso e de estudo e que, com frequência, empurra a criança para fora da escola” (linhas 26-28);</li><li>Texto 2: enquanto o menino vende bala no sinal, “a carteira espera” e a lição “não teve tempo de existir” (versos 13-16), e a infância “vai passando feito um rio” (verso 20);</li><li>Texto 3: muitos que trabalharam cedo “deixaram pelo caminho a escola, a saúde e os sonhos” (linha 7), e a infância é “o tempo de aprender, brincar e sonhar” (linha 15).</li></ul><p>Os três, portanto, mostram que o trabalho infantil tira da criança a escola e a própria infância.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Os Textos 1 e 3 aceitam a aprendizagem quando ela respeita os estudos: ela é “uma extensão da formação” (Texto 1, linhas 16-17) e “pode ensinar muito a um adolescente” (Texto 3, linhas 9-10).",
+      "C": "Só o Texto 1 traz falas de um jovem trabalhador (Kauã). O poema fala do menino em terceira pessoa, e o artigo não apresenta nenhum jovem específico: a frase em primeira pessoa que ele cita (linhas 1-2) é atribuída a “alguém”, um adulto qualquer, e não a um jovem trabalhador.",
+      "D": "Nenhum texto culpa as crianças. O Texto 3 diz expressamente que “não é ela que está falhando” (linhas 11-12), e o poema mostra o menino como vítima da indiferença."
+    },
+    "tip": "Em questões de comparação, confira cada alternativa em todos os textos: basta um texto contrariar para ela cair."
+  }
+]

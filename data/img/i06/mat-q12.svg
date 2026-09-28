@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 180" width="330" height="175" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect x="0" y="0" width="340" height="180" fill="#ffffff"/>
+  <rect x="30" y="30" width="264" height="110" fill="#e8f3e2" stroke="#222" stroke-width="2"/>
+  <line x1="30" y1="140" x2="294" y2="30" stroke="#222" stroke-width="2" stroke-dasharray="7 5"/>
+  <circle cx="30" cy="140" r="3.5" fill="#222"/>
+  <circle cx="294" cy="30" r="3.5" fill="#222"/>
+  <text x="18" y="158" text-anchor="middle" font-weight="bold">A</text>
+  <text x="18" y="26" text-anchor="middle" font-weight="bold">D</text>
+  <text x="306" y="26" text-anchor="middle" font-weight="bold">C</text>
+  <text x="306" y="158" text-anchor="middle" font-weight="bold">B</text>
+  <text x="162" y="162" text-anchor="middle">48 m</text>
+  <text x="302" y="90" text-anchor="start">20 m</text>
+  <text x="190" y="112" text-anchor="middle" font-style="italic">trilha</text>
+</svg>

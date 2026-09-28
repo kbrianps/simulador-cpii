@@ -1,0 +1,269 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Quatro amigas jantaram juntas em um restaurante. O valor consumido foi de R$ 180,00, e a conta trazia a observação: <i>“Taxa de serviço de 10% sobre o consumo”</i>.</p><p>Elas pagaram a conta com a taxa de serviço e dividiram o valor total igualmente. Cada amiga pagou</p>",
+    "options": {
+      "A": "R$ 45,00",
+      "B": "R$ 49,50",
+      "C": "R$ 55,00",
+      "D": "R$ 63,00"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Taxa de serviço:</b> 10% de 180 é \\(0{,}10 \\cdot 180 = 18\\) reais.</p><p><b>Total da conta:</b> \\(180 + 18 = 198\\) reais (ou, direto, \\(180 \\cdot 1{,}10 = 198\\)).</p><p><b>Divisão entre as quatro:</b> \\(198 \\div 4 = 49{,}50\\) reais.</p><p>Conferindo por outro caminho: sem a taxa, cada uma pagaria \\(180 \\div 4 = 45\\) reais; a taxa de 10% sobre essa parte é \\(4{,}50\\), e \\(45 + 4{,}50 = 49{,}50\\).</p><p>Cada amiga pagou R$ 49,50. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu apenas o consumo, \\(180 \\div 4 = 45\\), esquecendo de incluir a taxa de serviço de 10%.",
+      "C": "Entendeu “10%” como R$ 10,00 a mais para cada pessoa: \\(45 + 10 = 55\\). A taxa é 10% do consumo, e não dez reais por pessoa.",
+      "D": "Calculou a taxa sobre a conta inteira (R$ 18,00) e somou esse valor à parte de cada uma, \\(45 + 18 = 63\\), como se cada amiga pagasse a taxa toda sozinha."
+    },
+    "tip": "Calcule o total com a taxa (fator 1,10) e só depois divida; ou aplique os 10% à parte de cada pessoa. Os dois caminhos dão o mesmo resultado."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O relógio de parede da sala de aula tem ponteiros finos, e o ponteiro dos minutos mede 12 cm, do centro do relógio até a ponta.</p><p>A aula de Matemática começou às 8h10 e terminou às 8h50. Considere \\(\\pi = 3\\).</p><p>Durante essa aula, a ponta do ponteiro dos minutos percorreu uma distância de</p>",
+    "options": {
+      "A": "24 cm.",
+      "B": "28,8 cm.",
+      "C": "72 cm.",
+      "D": "48 cm."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A ponta do ponteiro dos minutos descreve uma circunferência de raio 12 cm e dá uma volta completa a cada 60 minutos.</p><p><b>Comprimento de uma volta:</b> \\(C = 2\\pi r = 2 \\cdot 3 \\cdot 12 = 72\\) cm.</p><p><b>Tempo da aula:</b> de 8h10 até 8h50 passaram 40 minutos, ou seja, \\(\\dfrac{40}{60} = \\dfrac{2}{3}\\) de volta.</p><p><b>Distância percorrida:</b> \\(\\dfrac{2}{3} \\cdot 72 = 48\\) cm.</p><p>Conferindo por regra de três: em 60 min a ponta anda 72 cm; em 1 min, \\(72 \\div 60 = 1{,}2\\) cm; em 40 min, \\(40 \\cdot 1{,}2 = 48\\) cm.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou 12 cm como diâmetro, e não como raio: \\(\\pi \\cdot 12 = 36\\) cm por volta e \\(\\dfrac{2}{3} \\cdot 36 = 24\\) cm. O ponteiro vai do centro até a borda, então 12 cm é o raio.",
+      "B": "Tratou 40 minutos como 40% da volta, fazendo \\(0{,}4 \\cdot 72 = 28{,}8\\) cm. Uma hora tem 60 minutos, e não 100; a fração correta é \\(\\dfrac{40}{60}\\).",
+      "C": "Calculou o comprimento de uma volta inteira (72 cm), mas em 40 minutos o ponteiro dos minutos percorre só \\(\\dfrac{2}{3}\\) da volta."
+    },
+    "tip": "O ponteiro dos minutos dá uma volta por hora; transforme o tempo em fração de volta (minutos ÷ 60) e multiplique pelo comprimento \\(2\\pi r\\)."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Júlio vai pintar as quatro paredes do seu quarto, que tem piso retangular de 4 m por 3 m e paredes com 2,5 m de altura. O teto não será pintado. Em uma das paredes há uma porta de 1 m por 2 m e, em outra, uma janela de 1,5 m por 1 m, que também não serão pintadas.</p><p>Cada lata da tinta escolhida rende 16 m² por demão, e o pintor recomendou aplicar <b>duas demãos</b> em todas as paredes.</p><p>O menor número de latas que Júlio deve comprar é</p>",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Área das quatro paredes:</b> são duas paredes de \\(4 \\times 2{,}5 = 10\\) m² e duas de \\(3 \\times 2{,}5 = 7{,}5\\) m². Total: \\(2 \\cdot 10 + 2 \\cdot 7{,}5 = 35\\) m². (Ou: perímetro do piso vezes a altura, \\(14 \\cdot 2{,}5 = 35\\) m².)</p><p><b>Descontando porta e janela:</b> porta \\(1 \\cdot 2 = 2\\) m² e janela \\(1{,}5 \\cdot 1 = 1{,}5\\) m². Área a pintar: \\(35 - 2 - 1{,}5 = 31{,}5\\) m².</p><p><b>Duas demãos:</b> \\(2 \\cdot 31{,}5 = 63\\) m² de pintura.</p><p><b>Latas:</b> \\(63 \\div 16 \\approx 3{,}94\\). Três latas cobrem só 48 m², o que não basta; é preciso comprar 4 latas (64 m²).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Considerou apenas uma demão: \\(31{,}5 \\div 16 \\approx 1{,}97\\), que arredondou para 2 latas. O pintor recomendou duas demãos, o que dobra a área de pintura.",
+      "B": "Fez as contas certas (\\(63 \\div 16 \\approx 3{,}94\\)), mas arredondou para baixo. Com 3 latas faltaria tinta; como não se compra fração de lata, é preciso arredondar para cima.",
+      "D": "Esqueceu de descontar a porta e a janela: \\(2 \\cdot 35 = 70\\) m² e \\(70 \\div 16 \\approx 4{,}4\\), que levou a 5 latas."
+    },
+    "tip": "Área de paredes = perímetro do piso × altura; desconte portas e janelas, multiplique pelo número de demãos e arredonde a quantidade de latas para cima."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na festa junina de uma escola, a barraca de sucos vendia copos de dois tamanhos:</p><table><thead><tr><th>Copo</th><th>Preço</th></tr></thead><tbody><tr><td>Pequeno</td><td>R$ 4,00</td></tr><tr><td>Grande</td><td>R$ 6,00</td></tr></tbody></table><p>Ao final da festa, os organizadores verificaram que foram vendidos 120 copos de suco no total e que a barraca arrecadou R$ 590,00.</p><p>O número de copos <b>pequenos</b> vendidos foi</p>",
+    "options": {
+      "A": "55.",
+      "B": "59.",
+      "C": "60.",
+      "D": "65."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame de \\(p\\) o número de copos pequenos e de \\(g\\) o número de copos grandes.</p><ul><li>Total de copos: \\(p + g = 120\\)</li><li>Total arrecadado: \\(4p + 6g = 590\\)</li></ul><p>Da primeira equação, \\(g = 120 - p\\). Substituindo na segunda:</p><p>\\[4p + 6(120 - p) = 590\\]\\[4p + 720 - 6p = 590\\]\\[-2p = -130 \\;\\Rightarrow\\; p = 65\\]</p><p>Então \\(g = 120 - 65 = 55\\).</p><p>Conferindo: \\(4 \\cdot 65 + 6 \\cdot 55 = 260 + 330 = 590\\). Foram 65 copos pequenos. Resposta: <b>D</b>.</p><p>Raciocínio sem álgebra: se os 120 copos fossem grandes, a barraca teria R$ 720,00, ou seja, R$ 130,00 a mais. Cada copo pequeno no lugar de um grande tira R$ 2,00, então há \\(130 \\div 2 = 65\\) copos pequenos.</p>",
+    "distractors": {
+      "A": "55 é o número de copos <b>grandes</b>. O sistema foi resolvido, mas a resposta foi dada para a variável errada.",
+      "B": "É \\(590 \\div 10\\): somou os preços \\((4 + 6 = 10)\\) e dividiu o total por eles. Isso só faria sentido se cada cliente comprasse um copo de cada tamanho, o que não foi dito.",
+      "C": "É metade de 120: supôs que os dois tamanhos venderam a mesma quantidade. Mas \\(60 \\cdot 4 + 60 \\cdot 6 = 600\\), e a barraca arrecadou R$ 590,00."
+    },
+    "tip": "Duas incógnitas pedem duas equações: uma para a quantidade e outra para o valor; confira no fim qual variável a pergunta pede."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para guardar peças de um jogo, Téo vai construir uma caixa sem tampa a partir de uma folha de papelão quadrada de lado \\(L\\). Ele recorta um quadrado de 4 cm de lado em cada um dos quatro cantos da folha e dobra as abas para cima, ao longo das linhas tracejadas, como mostra a figura.</p><p><img src=\"img/i02/mat-q15.svg\" alt=\"À esquerda, uma folha quadrada de lado L, com um quadradinho cinza de 4 cm de lado em cada um dos quatro cantos, que será recortado. Linhas tracejadas ligam os cantos dos quadradinhos e formam um quadrado menor no centro, que será o fundo da caixa. Uma seta leva à direita, onde aparece a caixa aberta obtida dobrando as abas para cima, com a indicação altura 4 cm.\"></p><p>Téo quer que a caixa tenha volume de 576 cm³. Para isso, a medida \\(L\\) do lado da folha de papelão deve ser</p>",
+    "options": {
+      "A": "20 cm.",
+      "B": "16 cm.",
+      "C": "12 cm.",
+      "D": "32 cm."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.med.volume"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Medidas da caixa:</b> ao recortar 4 cm de <i>cada</i> canto, cada lado da folha perde 4 cm em uma ponta e 4 cm na outra. O fundo da caixa é um quadrado de lado \\(L - 8\\), e a altura da caixa é 4 cm (a largura das abas dobradas).</p><p><b>Equação do volume:</b> \\(V = (L - 8)^2 \\cdot 4 = 576\\).</p><p>Dividindo por 4: \\((L - 8)^2 = 144\\). Então \\(L - 8 = 12\\) ou \\(L - 8 = -12\\). A segunda possibilidade daria \\(L = -4\\), que não serve para uma medida. Logo \\(L - 8 = 12\\) e \\(L = 20\\) cm.</p><p><b>Conferindo:</b> com \\(L = 20\\), o fundo tem \\(12 \\times 12\\) cm e o volume é \\(12 \\cdot 12 \\cdot 4 = 576\\) cm³.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Descontou apenas um corte de 4 cm em cada lado, escrevendo o fundo como \\(L - 4\\): de \\(L - 4 = 12\\) veio \\(L = 16\\). Cada lado da folha perde um quadradinho em cada ponta, isto é, 8 cm.",
+      "C": "Resolveu a equação corretamente até \\(L - 8 = 12\\), mas deu como resposta o lado do fundo da caixa (12 cm), e não o lado da folha.",
+      "D": "Esqueceu a altura da caixa no volume e fez \\((L - 8)^2 = 576\\), obtendo \\(L - 8 = 24\\) e \\(L = 32\\). O volume é área do fundo vezes a altura, que aqui é 4 cm."
+    },
+    "tip": "Monte a caixa na cabeça: o fundo perde o recorte dos dois lados (\\(L - 2 \\cdot 4\\)) e a altura é o próprio recorte. Em equações do tipo \\((\\ldots)^2 = k\\), descarte a raiz que dá medida negativa."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No fim da tarde, Bia, que tem 1,60 m de altura, parou em pé em uma praça plana, em um ponto em que a ponta da sua sombra coincidia com a ponta da sombra de um poste vertical. Um colega mediu duas distâncias com uma trena: do pé do poste até os pés de Bia, 6 m; e dos pés de Bia até a ponta das sombras, 2 m. O esquema abaixo representa a situação (fora de escala).</p><p><img src=\"img/i02/mat-q16.svg\" alt=\"Esquema fora de escala. À esquerda, um poste vertical de altura H. À direita dele, no mesmo chão plano, Bia representada por um segmento vertical de 1,60 m. Um raio de sol tracejado passa pelo topo do poste e pelo topo da cabeça de Bia e chega ao chão na ponta da sombra. No chão: 6 m do pé do poste até Bia e 2 m de Bia até a ponta da sombra.\"></p><p>Considerando que os raios de sol são paralelos, a altura H do poste é</p>",
+    "options": {
+      "A": "4,8 m.",
+      "B": "6,4 m.",
+      "C": "7,6 m.",
+      "D": "9,6 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O raio de sol que passa pelo topo da cabeça de Bia é o mesmo que passa pelo topo do poste e termina na ponta da sombra. Assim, formam-se dois triângulos retângulos com o vértice comum na ponta da sombra:</p><ul><li>triângulo pequeno: altura 1,60 m (Bia) e base 2 m (a sombra de Bia);</li><li>triângulo grande: altura H (poste) e base \\(6 + 2 = 8\\) m (a sombra do poste).</li></ul><p>Os dois têm um ângulo reto e o mesmo ângulo na ponta da sombra, então são semelhantes, e os lados correspondentes são proporcionais:</p><p>\\[\\frac{H}{8} = \\frac{1{,}6}{2} \\;\\Rightarrow\\; H = 8 \\cdot 0{,}8 = 6{,}4\\]</p><p>O poste tem 6,4 m. Resposta: <b>B</b>.</p><p>Leitura rápida: a sombra do poste (8 m) é 4 vezes a de Bia (2 m), então o poste é 4 vezes mais alto: \\(4 \\cdot 1{,}6 = 6{,}4\\) m.</p>",
+    "distractors": {
+      "A": "Usou 6 m como base do triângulo grande: \\(\\frac{H}{6} = \\frac{1{,}6}{2}\\) dá 4,8. Mas a sombra do poste vai do pé do poste até a ponta da sombra: \\(6 + 2 = 8\\) m.",
+      "C": "Raciocínio aditivo: como a sombra do poste tem 6 m a mais que a de Bia, somou 6 à altura dela \\((1{,}6 + 6 = 7{,}6)\\). Semelhança é proporção (multiplicação), não soma.",
+      "D": "É \\(1{,}6 \\cdot 6\\): multiplicou a altura de Bia pela distância até o poste, sem montar a proporção entre os triângulos."
+    },
+    "tip": "Sombras ao mesmo tempo formam triângulos semelhantes: altura/sombra é igual para todos; cuidado para usar a sombra inteira do objeto maior."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Os 480 estudantes de uma escola escolheram, cada um, uma única atividade extra para o segundo semestre. O resultado da escolha está no gráfico a seguir.</p><p><img src=\"img/i02/mat-q17.svg\" alt=\"Gráfico de setores com o título Atividade extra escolhida pelos estudantes. Setores e porcentagens: Esportes, 40%; Música, 25%; Teatro, 15%; Robótica, 20%. Uma legenda à direita associa cada cor a uma atividade.\"></p><p>O número de estudantes que escolheram Esportes supera o número dos que escolheram Teatro em</p>",
+    "options": {
+      "A": "25.",
+      "B": "72.",
+      "C": "120.",
+      "D": "192."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pelo gráfico, 40% dos estudantes escolheram Esportes e 15% escolheram Teatro.</p><p><b>Esportes:</b> 40% de 480 é \\(0{,}40 \\cdot 480 = 192\\) estudantes.</p><p><b>Teatro:</b> 15% de 480 é \\(0{,}15 \\cdot 480 = 72\\) estudantes.</p><p><b>Diferença:</b> \\(192 - 72 = 120\\) estudantes.</p><p>Outro caminho: a diferença entre as porcentagens é \\(40\\% - 15\\% = 25\\%\\), e 25% de 480 é \\(480 \\div 4 = 120\\).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Parou na diferença entre as porcentagens (\\(40 - 15 = 25\\)) e deu esse número como quantidade de estudantes. Ainda é preciso calcular 25% de 480.",
+      "B": "Calculou apenas o número de estudantes que escolheram Teatro (15% de 480 = 72), e não a diferença pedida.",
+      "D": "Calculou apenas o número de estudantes que escolheram Esportes (40% de 480 = 192), sem subtrair os que escolheram Teatro."
+    },
+    "tip": "Em gráficos de setores com porcentagens, subtraia as porcentagens primeiro e aplique o resultado ao total: é uma conta só."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O acervo digital de fotografias de um museu ocupa \\(3{,}6 \\times 10^{12}\\) bytes de memória. Em média, cada fotografia desse acervo ocupa \\(4{,}5 \\times 10^{6}\\) bytes.</p><p>De acordo com esses dados, o número aproximado de fotografias do acervo é</p>",
+    "options": {
+      "A": "\\(8 \\times 10^{1}\\)",
+      "B": "\\(8 \\times 10^{5}\\)",
+      "C": "\\(1{,}25 \\times 10^{6}\\)",
+      "D": "\\(8 \\times 10^{6}\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O número de fotografias é a memória total dividida pela memória de cada foto:</p><p>\\[\\frac{3{,}6 \\times 10^{12}}{4{,}5 \\times 10^{6}} = \\frac{3{,}6}{4{,}5} \\times \\frac{10^{12}}{10^{6}}\\]</p><p><b>Parte decimal:</b> \\(\\frac{3{,}6}{4{,}5} = \\frac{36}{45} = \\frac{4}{5} = 0{,}8\\).</p><p><b>Potências de mesma base:</b> na divisão, subtraem-se os expoentes: \\(\\frac{10^{12}}{10^{6}} = 10^{12 - 6} = 10^{6}\\).</p><p>Resultado: \\(0{,}8 \\times 10^{6}\\). Em notação científica, o número antes da potência deve ficar entre 1 e 10. Como \\(0{,}8 = 8 \\times 10^{-1}\\):</p><p>\\[0{,}8 \\times 10^{6} = 8 \\times 10^{-1} \\times 10^{6} = 8 \\times 10^{5}\\]</p><p>São cerca de 800.000 fotografias. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu os expoentes \\((12 \\div 6 = 2)\\) em vez de subtraí-los, obtendo \\(0{,}8 \\times 10^{2} = 8 \\times 10^{1}\\). Na divisão de potências de mesma base, os expoentes se subtraem.",
+      "C": "Inverteu a divisão dos números decimais \\((4{,}5 \\div 3{,}6 = 1{,}25)\\). Cada foto é menor que o total, então se divide o total (3,6) pelo tamanho de cada foto (4,5).",
+      "D": "Chegou a \\(0{,}8 \\times 10^{6}\\), mas trocou 0,8 por 8 sem corrigir o expoente. Se o número fica 10 vezes maior (0,8 vira 8), a potência tem de ficar 10 vezes menor: \\(10^{6}\\) vira \\(10^{5}\\)."
+    },
+    "tip": "Na divisão de potências de mesma base, subtraia os expoentes; ao ajustar a notação científica, se o número aumenta, o expoente diminui."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Caio esqueceu a senha de 4 dígitos do cadeado de sua bicicleta. Cada dígito pode ser qualquer algarismo de 0 a 9. Ele se lembra de apenas três coisas sobre a senha:</p><ul><li>os quatro dígitos são diferentes entre si;</li><li>o primeiro dígito é um número par;</li><li>o último dígito é 7.</li></ul><p>O número máximo de senhas que Caio pode ter de testar até abrir o cadeado é</p>",
+    "options": {
+      "A": "280.",
+      "B": "320.",
+      "C": "500.",
+      "D": "504."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Use o princípio fundamental da contagem, preenchendo primeiro as posições com restrição.</p><ul><li><b>4º dígito:</b> é o 7. Só 1 possibilidade.</li><li><b>1º dígito:</b> par: 0, 2, 4, 6 ou 8. São 5 possibilidades (nenhuma delas é o 7).</li><li><b>2º dígito:</b> qualquer algarismo, menos os dois já usados (o 7 e o par escolhido): \\(10 - 2 = 8\\) possibilidades.</li><li><b>3º dígito:</b> menos os três já usados: \\(10 - 3 = 7\\) possibilidades.</li></ul><p>Multiplicando:</p><p>\\[5 \\cdot 8 \\cdot 7 \\cdot 1 = 280\\]</p><p>No pior caso, Caio testa 280 senhas. Resposta: <b>A</b>.</p><p>Observação: o 0 pode ser o primeiro dígito, porque senha de cadeado não é um número, é uma sequência de algarismos (0-3-5-7 é uma senha válida).</p>",
+    "distractors": {
+      "B": "É \\(5 \\cdot 8 \\cdot 8\\): tirou do 3º dígito o 7 e o primeiro dígito, mas esqueceu de tirar também o 2º. Os quatro dígitos são diferentes, então o 3º dígito tem só 7 opções.",
+      "C": "É \\(5 \\cdot 10 \\cdot 10\\): ignorou que os dígitos não se repetem. Com dígitos distintos, cada posição tem menos opções que a anterior.",
+      "D": "É \\(9 \\cdot 8 \\cdot 7\\): esqueceu que o primeiro dígito é par e aceitou qualquer algarismo diferente de 7 na primeira posição."
+    },
+    "tip": "No princípio multiplicativo, comece pelas posições com restrição e vá descontando os algarismos já usados."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um sítio tem um terreno com a forma de um triângulo retângulo ABC, com o ângulo reto no vértice A, onde fica a casa. As cercas AB e AC medem 15 m e 20 m, respectivamente.</p><p>O caseiro vai instalar um cano reto que sai da casa (ponto A) e chega à cerca BC pelo caminho mais curto possível, isto é, perpendicularmente a BC, no ponto H. De H, o cano segue junto à cerca BC até o canto C, onde fica a horta, como mostra a figura.</p><p><img src=\"img/i02/mat-q20.svg\" alt=\"Triângulo retângulo ABC com o ângulo reto em A, no canto inferior esquerdo. B está acima de A e C à direita de A. O lado AB mede 15 m e o lado AC mede 20 m. Um segmento tracejado azul, chamado cano, sai de A e chega ao ponto H, sobre o lado BC, formando ângulo reto com BC; de H, o cano tracejado azul segue sobre o lado BC até C.\"></p><p>O comprimento total do cano, de A até H e de H até C, é</p>",
+    "options": {
+      "A": "28 m.",
+      "B": "25 m.",
+      "C": "21 m.",
+      "D": "32 m."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.semelhanca"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Cerca BC (hipotenusa):</b> \\(BC^2 = 15^2 + 20^2 = 225 + 400 = 625\\), logo \\(BC = 25\\) m.</p><p><b>2) Trecho AH (altura relativa à hipotenusa):</b> a área do triângulo pode ser calculada de dois jeitos: \\(\\dfrac{15 \\cdot 20}{2} = \\dfrac{25 \\cdot AH}{2}\\). Então \\(25 \\cdot AH = 300\\) e \\(AH = 12\\) m.</p><p><b>3) Trecho HC:</b> o triângulo AHC é retângulo em H, com hipotenusa \\(AC = 20\\): \\(HC^2 = 20^2 - 12^2 = 400 - 144 = 256\\), logo \\(HC = 16\\) m. (Pela relação métrica \\(AC^2 = BC \\cdot HC\\): \\(400 = 25 \\cdot HC\\), \\(HC = 16\\).)</p><p><b>Total:</b> \\(AH + HC = 12 + 16 = 28\\) m.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Supôs que H fosse o ponto médio de BC. Nesse caso, \\(HC = 12{,}5\\) e o segmento de A até esse ponto (a mediana) também mede 12,5, somando 25 m. O pé da perpendicular não é o ponto médio quando os catetos são diferentes.",
+      "C": "Calculou \\(AH = 12\\) corretamente, mas usou o trecho HB (\\(15^2 = 25 \\cdot HB\\), \\(HB = 9\\)) em vez de HC: \\(12 + 9 = 21\\). O cano segue até C, o canto mais distante de H.",
+      "D": "Achou \\(AH = 12\\), mas tomou HC igual à cerca AC (20 m): \\(12 + 20 = 32\\). HC é apenas uma parte da hipotenusa BC."
+    },
+    "tip": "Para a altura relativa à hipotenusa, iguale as duas formas de calcular a área: cateto × cateto = hipotenusa × altura. Depois, um novo Pitágoras dá a projeção."
+  }
+]

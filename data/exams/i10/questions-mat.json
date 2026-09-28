@@ -1,0 +1,270 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Rodrigo é vendedor em uma loja de eletrodomésticos. Todo mês, ele recebe um salário fixo de R$ 1.500,00 mais uma comissão de 4% sobre o valor total das vendas que fez no mês.</p><p>Em março, Rodrigo recebeu, ao todo, R$ 2.300,00. O valor total das vendas que ele fez em março foi de</p>",
+    "options": {
+      "A": "R$ 20.000,00.",
+      "B": "R$ 57.500,00.",
+      "C": "R$ 2.000,00.",
+      "D": "R$ 37.500,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Do total recebido, R$ 1.500,00 são o salário fixo. A comissão foi o restante:</p><p>\\[2300 - 1500 = 800 \\text{ reais}\\]</p><p>Esses R$ 800,00 correspondem a 4% das vendas. Chamando de \\(V\\) o valor das vendas:</p><p>\\[0{,}04 \\cdot V = 800 \\quad\\Rightarrow\\quad V = \\frac{800}{0{,}04} = 20.000\\]</p><p>Conferindo: 4% de 20.000 é 800, e \\(1500 + 800 = 2300\\). As vendas de março somaram R$ 20.000,00. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Tratou os R$ 2.300,00 inteiros como comissão, esquecendo de descontar o salário fixo: \\(2300 \\div 0{,}04 = 57.500\\).",
+      "C": "Escreveu 4% como 0,4 em vez de 0,04: \\(800 \\div 0{,}4 = 2000\\). Mas 4% de 2.000 é só 80 reais.",
+      "D": "Dividiu o salário fixo por 4%, como se os R$ 1.500,00 fossem a comissão: \\(1500 \\div 0{,}04 = 37.500\\)."
+    },
+    "tip": "Separe a parte fixa da parte que depende da porcentagem; só a parte variável é \"x% das vendas\". Lembre que 4% = 0,04."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A placa de trânsito “Dê a preferência” tem a forma de um triângulo equilátero com um vértice voltado para baixo. Em uma rua do bairro, uma dessas placas, com 60 cm de lado, foi presa a um poste vertical de modo que o vértice de baixo ficou a 2 m do chão plano e o lado de cima ficou na horizontal, como mostra o esquema.</p><p><img src=\"img/i10/mat-q12.svg\" alt=\"Esquema fora de escala: um poste vertical sobre o chão plano. No alto do poste há uma placa em forma de triângulo equilátero, com borda vermelha, com o lado de cima horizontal e um vértice voltado para baixo, apoiado no topo do poste. Os três lados da placa estão indicados com 60 cm. Uma cota vertical mostra que o vértice de baixo da placa está a 2 m do chão.\"></p><p>Considere \\(\\sqrt{3} \\approx 1{,}7\\). A altura aproximada do lado de cima da placa em relação ao chão é</p>",
+    "options": {
+      "A": "2,30 m.",
+      "B": "2,51 m.",
+      "C": "2,60 m.",
+      "D": "2,67 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Precisamos da altura do triângulo equilátero, isto é, a distância vertical do vértice de baixo até o lado de cima.</p><p>A altura cai no ponto médio do lado de cima e divide o triângulo em dois triângulos retângulos com hipotenusa 60 cm e um cateto de 30 cm. Pelo Teorema de Pitágoras:</p><p>\\[h^2 + 30^2 = 60^2 \\quad\\Rightarrow\\quad h^2 = 3600 - 900 = 2700\\]</p><p>\\[h = \\sqrt{2700} = \\sqrt{900 \\cdot 3} = 30\\sqrt{3} \\approx 30 \\cdot 1{,}7 = 51 \\text{ cm}\\]</p><p>O lado de cima fica, então, a \\(2 \\text{ m} + 0{,}51 \\text{ m} = 2{,}51 \\text{ m}\\) do chão. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Usou a metade do lado (30 cm) como se fosse a altura do triângulo: \\(2 + 0{,}30 = 2{,}30\\) m. A altura é maior que a metade do lado.",
+      "C": "Considerou que a altura do triângulo é igual ao lado (60 cm): \\(2 + 0{,}60 = 2{,}60\\) m. Mas a altura é um cateto e, por isso, é menor que o lado, que é a hipotenusa.",
+      "D": "Somou os quadrados em vez de subtrair: \\(\\sqrt{60^2 + 30^2} = \\sqrt{4500} \\approx 67\\) cm, obtendo \\(2{,}67\\) m. No triângulo retângulo, o lado de 60 cm é a hipotenusa, então \\(h^2 = 60^2 - 30^2\\)."
+    },
+    "tip": "A altura de um triângulo equilátero de lado \\(\\ell\\) vale \\(\\frac{\\ell\\sqrt{3}}{2}\\); ela sai de Pitágoras com a hipotenusa \\(\\ell\\) e o cateto \\(\\frac{\\ell}{2}\\)."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma praça tem uma área de lazer com a forma mostrada na figura: um retângulo de 20 m por 12 m com um semicírculo em cada uma das duas pontas. No centro dessa área há um canteiro circular de 2 m de raio.</p><p><img src=\"img/i10/mat-q13.svg\" alt=\"Figura de uma área em forma de pista: uma parte retangular central com 20 m de comprimento e 12 m de largura e, em cada ponta, um semicírculo cujo diâmetro é o lado de 12 m do retângulo. Linhas tracejadas separam o retângulo dos semicírculos. No centro da figura há um canteiro circular verde com raio de 2 m.\"></p><p>A prefeitura vai pintar o piso de toda essa área, exceto o canteiro, e o serviço custa R$ 15,00 por metro quadrado. Considerando \\(\\pi = 3\\), o custo da pintura será de</p>",
+    "options": {
+      "A": "R$ 3.420,00.",
+      "B": "R$ 5.220,00.",
+      "C": "R$ 6.660,00.",
+      "D": "R$ 5.040,00."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Dividimos a área de lazer em partes.</p><p><b>Retângulo central:</b> \\(20 \\cdot 12 = 240\\) m².</p><p><b>Os dois semicírculos:</b> cada um tem diâmetro 12 m, ou seja, raio 6 m. Juntos, os dois semicírculos formam <b>um</b> círculo completo de raio 6 m: \\(\\pi \\cdot 6^2 = 3 \\cdot 36 = 108\\) m².</p><p><b>Canteiro (não será pintado):</b> \\(\\pi \\cdot 2^2 = 3 \\cdot 4 = 12\\) m².</p><p>Área a pintar: \\(240 + 108 - 12 = 336\\) m².</p><p>Custo: \\(336 \\cdot 15 = 5040\\) reais. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu os dois semicírculos e calculou só o retângulo menos o canteiro: \\((240 - 12) \\cdot 15 = 3420\\).",
+      "B": "Não descontou o canteiro, que não será pintado: \\((240 + 108) \\cdot 15 = 5220\\).",
+      "C": "Contou cada ponta como um círculo inteiro de raio 6 m (\\(2 \\cdot 108 = 216\\) m²): \\((240 + 216 - 12) \\cdot 15 = 6660\\). Dois semicírculos iguais formam um único círculo."
+    },
+    "tip": "Em figuras compostas, some as partes e subtraia os buracos; dois semicírculos de mesmo diâmetro valem um círculo inteiro."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na rifa da festa da escola, o número sorteado tem 4 algarismos, mas a tinta do bilhete premiado borrou o 2º e o 4º algarismos. O que ainda dá para ler é:</p><p style=\"text-align:center\"><b>5 _ 4 _</b></p><p>A organizadora lembra apenas que o número sorteado era divisível por 5 e também por 9. A quantidade de números que satisfazem todas essas condições é</p>",
+    "options": {
+      "A": "3.",
+      "B": "2.",
+      "C": "1.",
+      "D": "20."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame o número de \\(5\\,a\\,4\\,b\\), em que \\(a\\) e \\(b\\) são os algarismos borrados.</p><p><b>Divisível por 5:</b> o último algarismo é 0 ou 5, então \\(b = 0\\) ou \\(b = 5\\).</p><p><b>Divisível por 9:</b> a soma dos algarismos \\(5 + a + 4 + b = 9 + a + b\\) deve ser múltiplo de 9, ou seja, \\(a + b\\) deve ser 0, 9 ou 18.</p><ul><li>Se \\(b = 0\\): \\(a = 0\\) ou \\(a = 9\\), o que dá 5040 e 5940.</li><li>Se \\(b = 5\\): \\(a + 5\\) deve ser 9 (não dá para ser 0 nem 18), então \\(a = 4\\), o que dá 5445.</li></ul><p>São 3 números: 5040, 5445 e 5940. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Considerou apenas os números terminados em 0 (5040 e 5940) e esqueceu que um número terminado em 5 também é divisível por 5.",
+      "C": "Achou que ser divisível por 5 exige terminar em 5 e encontrou só o 5445, esquecendo os terminados em 0.",
+      "D": "Usou apenas a condição de divisibilidade por 5: 10 possibilidades para o 2º algarismo vezes 2 para o último (\\(10 \\cdot 2 = 20\\)), sem aplicar o critério do 9."
+    },
+    "tip": "Divisível por 5: termina em 0 ou 5. Divisível por 9: a soma dos algarismos é múltiplo de 9. Teste cada caso do último algarismo separadamente."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O auditório de uma escola tinha todas as fileiras com o mesmo número de cadeiras, e o número de cadeiras em cada fileira era 8 a mais que o número de fileiras. Ao todo, eram 240 cadeiras.</p><p>Na reforma, cada fileira ganhou 2 cadeiras a mais e foram criadas 2 fileiras novas, com o mesmo número de cadeiras das outras fileiras já reformadas. Depois da reforma, o auditório passou a ter</p>",
+    "options": {
+      "A": "280 cadeiras.",
+      "B": "264 cadeiras.",
+      "C": "308 cadeiras.",
+      "D": "304 cadeiras."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(x\\) o número de fileiras antes da reforma. Cada fileira tinha \\(x + 8\\) cadeiras, então:</p><p>\\[x(x + 8) = 240 \\quad\\Rightarrow\\quad x^2 + 8x - 240 = 0\\]</p><p>\\[\\Delta = 8^2 - 4 \\cdot 1 \\cdot (-240) = 64 + 960 = 1024, \\qquad \\sqrt{1024} = 32\\]</p><p>\\[x = \\frac{-8 \\pm 32}{2} \\quad\\Rightarrow\\quad x = 12 \\ \\text{ ou } \\ x = -20\\]</p><p>Como não existe número negativo de fileiras, eram 12 fileiras de 20 cadeiras (\\(12 \\cdot 20 = 240\\)).</p><p>Depois da reforma: \\(12 + 2 = 14\\) fileiras, cada uma com \\(20 + 2 = 22\\) cadeiras.</p><p>\\[14 \\cdot 22 = 308 \\text{ cadeiras}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Acrescentou só as 2 fileiras novas e esqueceu as 2 cadeiras a mais em cada fileira: \\(14 \\cdot 20 = 280\\).",
+      "B": "Acrescentou só as 2 cadeiras em cada fileira e esqueceu as 2 fileiras novas: \\(12 \\cdot 22 = 264\\).",
+      "D": "Somou separadamente \\(2 \\cdot 20 = 40\\) cadeiras das fileiras novas e \\(2 \\cdot 12 = 24\\) cadeiras novas nas fileiras antigas: \\(240 + 40 + 24 = 304\\). Faltaram as 4 cadeiras extras das próprias fileiras novas, que também ganharam 2 cadeiras cada (\\(14 \\cdot 22 = 308\\))."
+    },
+    "tip": "Monte a equação com uma só incógnita (fileiras \\(x\\), cadeiras \\(x + 8\\)), descarte a raiz negativa e só depois aplique as mudanças: o novo total é o novo número de fileiras vezes o novo número de cadeiras."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa junina, 4 pintores, trabalhando 5 horas por dia, pintaram um muro de 60 m de comprimento em 6 dias. A escola agora quer pintar outro muro, de mesma altura e 90 m de comprimento, com apenas 3 pintores trabalhando 6 horas por dia.</p><p>Considerando que todos os pintores trabalham no mesmo ritmo, o número de dias necessários para pintar o novo muro é</p>",
+    "options": {
+      "A": "8.",
+      "B": "9.",
+      "C": "10.",
+      "D": "12."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>É uma regra de três composta. Vamos ver como cada grandeza afeta o número de dias:</p><ul><li>muro maior (60 m para 90 m): mais dias, <b>diretamente</b> proporcional, fator \\(\\dfrac{90}{60}\\);</li><li>menos pintores (4 para 3): mais dias, <b>inversamente</b> proporcional, fator \\(\\dfrac{4}{3}\\);</li><li>mais horas por dia (5 para 6): menos dias, <b>inversamente</b> proporcional, fator \\(\\dfrac{5}{6}\\).</li></ul><p>\\[\\text{dias} = 6 \\cdot \\frac{90}{60} \\cdot \\frac{4}{3} \\cdot \\frac{5}{6} = 6 \\cdot \\frac{3}{2} \\cdot \\frac{4}{3} \\cdot \\frac{5}{6} = 10\\]</p><p>Outro jeito, contando “horas de pintor”: o primeiro muro gastou \\(4 \\cdot 5 \\cdot 6 = 120\\) horas de pintor para 60 m, isto é, 2 horas por metro. O novo muro precisa de \\(90 \\cdot 2 = 180\\) horas de pintor. Por dia, a nova equipe faz \\(3 \\cdot 6 = 18\\) horas, então são \\(180 \\div 18 = 10\\) dias. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É \\(6 \\cdot \\frac{4}{3}\\): considerou só a redução do número de pintores e esqueceu que o muro é maior e que as horas por dia aumentaram.",
+      "B": "É \\(6 \\cdot \\frac{90}{60}\\): considerou só o aumento do comprimento do muro e esqueceu as mudanças no número de pintores e nas horas por dia.",
+      "D": "É \\(6 \\cdot \\frac{90}{60} \\cdot \\frac{4}{3}\\): acertou os fatores do muro e dos pintores, mas esqueceu que agora eles trabalham 6 horas por dia em vez de 5, o que reduz o número de dias."
+    },
+    "tip": "Na regra de três composta, pergunte para cada grandeza: \"se ela aumenta, os dias aumentam ou diminuem?\". Diminuem: inverta a razão."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O gráfico a seguir mostra o nível de água de um reservatório que abastece uma cidade, no último dia de cada mês do primeiro semestre, em porcentagem da capacidade total.</p><p><img src=\"img/i10/mat-q17.svg\" alt=\"Gráfico de linha com o título Nível do reservatório, em porcentagem da capacidade. Eixo horizontal: meses de janeiro a junho. Eixo vertical: de 0% a 100%, de 20 em 20. Valores marcados nos pontos: janeiro, 80%; fevereiro, 70%; março, 65%; abril, 55%; maio, 40%; junho, 45%.\"></p><p>A capacidade total desse reservatório é de 400 milhões de litros. No mês em que o nível registrado foi o mais baixo do semestre, havia no reservatório</p>",
+    "options": {
+      "A": "160 milhões de litros.",
+      "B": "40 milhões de litros.",
+      "C": "240 milhões de litros.",
+      "D": "180 milhões de litros."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No gráfico, o ponto mais baixo é o de maio, com 40% da capacidade.</p><p>40% de 400 milhões de litros:</p><p>\\[0{,}40 \\cdot 400 = 160 \\text{ milhões de litros}\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Leu o valor 40% do gráfico e o usou diretamente como 40 milhões de litros, sem calcular a porcentagem da capacidade.",
+      "C": "Calculou a parte vazia do reservatório: \\(60\\%\\) de 400 é 240 milhões de litros. A pergunta é quanto havia de água, ou seja, 40%.",
+      "D": "Usou o último mês do gráfico (junho, 45%): \\(0{,}45 \\cdot 400 = 180\\). O nível mais baixo foi o de maio, e não o de junho."
+    },
+    "tip": "Em gráficos de porcentagem, primeiro localize o ponto certo e depois transforme a porcentagem em quantidade multiplicando pelo total."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um terreno tem a forma de um hexágono (polígono de 6 lados), não regular. O topógrafo mediu os ângulos internos nos seis cantos do terreno e anotou: dois cantos retos (90° cada), um canto de 120° e um canto de 140°. Os dois cantos que faltavam anotar têm medidas iguais entre si.</p><p>A medida de cada um desses dois cantos é</p>",
+    "options": {
+      "A": "50°.",
+      "B": "140°.",
+      "C": "120°.",
+      "D": "280°."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A soma dos ângulos internos de um polígono de \\(n\\) lados é \\((n - 2) \\cdot 180^\\circ\\). Para o hexágono, \\(n = 6\\):</p><p>\\[S = (6 - 2) \\cdot 180^\\circ = 4 \\cdot 180^\\circ = 720^\\circ\\]</p><p>Os quatro ângulos conhecidos somam \\(90^\\circ + 90^\\circ + 120^\\circ + 140^\\circ = 440^\\circ\\). Chamando de \\(x\\) cada um dos dois ângulos iguais:</p><p>\\[440^\\circ + 2x = 720^\\circ \\quad\\Rightarrow\\quad 2x = 280^\\circ \\quad\\Rightarrow\\quad x = 140^\\circ\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Usou a soma dos ângulos internos do pentágono, 540°, em vez da do hexágono: \\(2x = 540^\\circ - 440^\\circ = 100^\\circ\\), então \\(x = 50^\\circ\\).",
+      "C": "Supôs que o terreno fosse um hexágono regular, cujos ângulos medem 120°. Mas o terreno não é regular: seus ângulos são diferentes entre si.",
+      "D": "Encontrou \\(720^\\circ - 440^\\circ = 280^\\circ\\), mas esqueceu que esse valor é a soma dos <b>dois</b> ângulos iguais; faltou dividir por 2."
+    },
+    "tip": "Soma dos ângulos internos: \\((n - 2) \\cdot 180^\\circ\\), para qualquer polígono de \\(n\\) lados, regular ou não."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O baú de carga de um triciclo de entregas tem a forma de um paralelepípedo retângulo com medidas internas de 1,1 m de comprimento, 0,5 m de largura e 0,4 m de altura.</p><p>O entregador precisa transportar caixas cúbicas, todas iguais, com 20 cm de aresta. As caixas não podem ser desmontadas nem amassadas e devem ficar inteiramente dentro do baú fechado, arrumadas com as faces paralelas às paredes do baú.</p><p>O número máximo de caixas que cabem no baú é</p>",
+    "options": {
+      "A": "27.",
+      "B": "20.",
+      "C": "28.",
+      "D": "36."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Primeiro, passamos tudo para centímetros: o baú mede 110 cm por 50 cm por 40 cm, e cada caixa tem 20 cm de aresta.</p><p>Como as caixas são inteiras, contamos quantas cabem <b>em cada direção</b>, desprezando as sobras:</p><ul><li>comprimento: \\(110 \\div 20 = 5{,}5\\), então cabem 5 caixas (sobram 10 cm);</li><li>largura: \\(50 \\div 20 = 2{,}5\\), então cabem 2 caixas (sobram 10 cm);</li><li>altura: \\(40 \\div 20 = 2\\), então cabem 2 caixas.</li></ul><p>Total: \\(5 \\cdot 2 \\cdot 2 = 20\\) caixas.</p><p>Dividir o volume do baú pelo volume de uma caixa (\\(220.000 \\div 8000 = 27{,}5\\)) daria um resultado maior, porque contaria como aproveitáveis as faixas de 10 cm que sobram, onde nenhuma caixa inteira cabe. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu o volume do baú pelo volume de uma caixa (\\(220.000 \\div 8000 = 27{,}5\\)) e desprezou a parte decimal. Esse cálculo supõe que as sobras de 10 cm poderiam ser preenchidas, o que não acontece com caixas inteiras.",
+      "C": "Dividiu os volumes (27,5) e arredondou para cima, como se meia caixa pudesse virar uma caixa inteira.",
+      "D": "Arredondou para cima a quantidade em cada direção (\\(6 \\cdot 3 \\cdot 2 = 36\\)), como se 6 caixas coubessem em 110 cm; mas 6 caixas precisariam de 120 cm."
+    },
+    "tip": "Para encaixar objetos inteiros, conte quantos cabem em cada dimensão (arredondando para baixo) e multiplique; dividir volumes só funciona quando as medidas se dividem exatamente."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na gincana de uma escola, os estudantes do 8º e do 9º ano escolheram o esporte de que mais gostam entre futebol, vôlei e basquete. Cada estudante escolheu um único esporte. O resultado está na tabela.</p><table><thead><tr><th></th><th>Futebol</th><th>Vôlei</th><th>Basquete</th><th>Total</th></tr></thead><tbody><tr><th>8º ano</th><td>10</td><td>8</td><td>10</td><td>28</td></tr><tr><th>9º ano</th><td>14</td><td>12</td><td>6</td><td>32</td></tr><tr><th>Total</th><td>24</td><td>20</td><td>16</td><td>60</td></tr></tbody></table><p>Para capitanear a equipe de vôlei, será sorteado um estudante entre os que escolheram vôlei. A probabilidade de o sorteado ser do 9º ano é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{5}\\)",
+      "B": "\\(\\dfrac{1}{3}\\)",
+      "C": "\\(\\dfrac{3}{8}\\)",
+      "D": "\\(\\dfrac{3}{5}\\)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O sorteio é feito <b>só entre quem escolheu vôlei</b>. Então os casos possíveis são os 20 estudantes da coluna do vôlei (8 do 8º ano e 12 do 9º ano).</p><p>Os casos favoráveis são os estudantes do 9º ano que escolheram vôlei: 12.</p><p>\\[P = \\frac{12}{20} = \\frac{3}{5}\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É \\(\\frac{12}{60}\\): dividiu pelo total de estudantes da gincana. Mas o sorteio é só entre os 20 que escolheram vôlei.",
+      "B": "É \\(\\frac{20}{60}\\), a probabilidade de um estudante qualquer ter escolhido vôlei. Isso não responde se o sorteado é do 9º ano.",
+      "C": "É \\(\\frac{12}{32}\\): dividiu pelo total do 9º ano. Essa seria a chance de um aluno do 9º ano escolher vôlei, e não a chance de um jogador de vôlei ser do 9º ano."
+    },
+    "tip": "Na probabilidade, os casos possíveis são só o grupo de onde se sorteia; veja na tabela de qual linha ou coluna sai o sorteio."
+  }
+]

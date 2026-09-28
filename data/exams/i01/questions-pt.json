@@ -1,0 +1,293 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é um artigo de opinião, gênero em que o autor defende um ponto de vista sobre um tema e procura convencer o leitor.</p><p>A tese defendida no texto é a de que</p>",
+    "options": {
+      "A": "os jovens de hoje leem menos do que os das gerações anteriores, por causa das telas.",
+      "B": "as telas precisam ser afastadas da rotina dos adolescentes para que a leitura sobreviva.",
+      "C": "a leitura entre os jovens não acabou, mas o desafio atual é sustentar uma leitura atenta e profunda, seja no papel, seja na tela.",
+      "D": "as fanfics e os vídeos de recomendação já formam leitores tão preparados quanto a leitura dos clássicos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A tese é a ideia principal que o autor defende. Para encontrá-la, observe como o texto começa, como avança e como termina.</p><ul><li>No 1º parágrafo, o texto apresenta a queixa comum (“os jovens de hoje não leem”, linha 1) e diz que ela “costuma olhar para o lugar errado” (linha 5).</li><li>No 2º parágrafo, afirma que “a leitura não desapareceu: mudou de endereço” (linha 6).</li><li>No 3º parágrafo, faz uma ressalva: “O problema, portanto, não é a ausência de leitura, mas a dificuldade de sustentá-la” (linhas 18-19).</li><li>No último parágrafo, conclui que é preciso “ensinar a ler com profundidade em qualquer um deles” (linhas 31-32), isto é, no papel ou na tela.</li></ul><p>Juntando tudo: a leitura continua viva entre os jovens, e o desafio é mantê-la atenta e profunda, qualquer que seja o suporte.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É justamente a opinião que o texto contesta: a frase “os jovens de hoje não leem” (linha 1) é apresentada como uma queixa que “costuma olhar para o lugar errado” (linha 5).",
+      "B": "O texto não propõe afastar as telas: diz que a escola e a família “não precisam escolher entre o papel e a tela” (linhas 30-31) e que, na biblioteca, o celular “não é proibido” (linha 21).",
+      "D": "O texto valoriza fanfics e vídeos como “ponte” (linha 27) para outras leituras, mas avisa que isso não autoriza “um otimismo ingênuo” (linha 14). Não afirma que eles equivalem aos clássicos."
+    },
+    "tip": "A tese costuma aparecer no começo e ser retomada na conclusão; desconfie de alternativas que repetem a opinião que o autor critica."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Ler um capítulo aos pedaços, entre um alerta e outro, não é o mesmo que mergulhar num livro por horas a fio. O problema, <b>portanto</b>, não é a ausência de leitura, mas a dificuldade de sustentá-la.” (linhas 17-19)</p></blockquote><p>No trecho, a palavra destacada introduz uma ideia de</p>",
+    "options": {
+      "A": "conclusão, pois apresenta o que se deduz do que foi exposto antes no parágrafo.",
+      "B": "oposição, pois contraria o que foi afirmado na frase anterior.",
+      "C": "causa, pois explica por que a leitura aos pedaços é diferente da leitura longa.",
+      "D": "concessão, pois admite uma ideia contrária sem impedir a afirmação principal."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O 3º parágrafo mostra que a tela disputa a atenção do leitor e que a leitura longa “é a primeira a perder essa disputa” (linha 17). A partir disso, o autor tira uma conclusão: o problema não é faltar leitura, e sim conseguir sustentá-la.</p><p>“Portanto” é uma conjunção <b>conclusiva</b>, como “logo”, “por isso” e “por conseguinte”. Faça o teste: “O problema, <b>por isso</b>, não é a ausência de leitura...”. O sentido se mantém.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Oposição seria marcada por “mas”, “porém”, “contudo” (esta aparece na linha 14). No trecho, a oposição está em “não é... mas...”, e não em “portanto”.",
+      "C": "Causa seria marcada por “porque”, “pois” (explicativo), “já que”. “Portanto” faz o caminho inverso: não explica o motivo, apresenta a consequência lógica do que foi dito.",
+      "D": "Concessão é marcada por “embora”, “ainda que”, “mesmo que” (como em “embora compreensível”, linha 5). “Portanto” não admite ideia contrária: conclui."
+    },
+    "tip": "“Portanto”, “logo”, “por isso” e “por conseguinte” concluem; “mas”, “porém” e “contudo” opõem; “embora” e “ainda que” concedem."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A mesma tela que aproxima o leitor de uma história também <b>o</b> disputa a cada segundo.” (linhas 14-15)</p></blockquote><p>O pronome destacado retoma o termo</p>",
+    "options": {
+      "A": "“uma história”.",
+      "B": "“o leitor”.",
+      "C": "“A mesma tela”.",
+      "D": "“um otimismo ingênuo”."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pronome oblíquo “o” substitui um termo masculino e singular já citado, evitando repetição. Pergunte: a tela disputa <b>o quê</b> ou <b>quem</b>?</p><p>Reescreva trocando o pronome pelos candidatos: “A mesma tela que aproxima o leitor de uma história também disputa <b>o leitor</b> a cada segundo”. Faz sentido: as notificações, os vídeos e os jogos citados em seguida (linhas 15-16) competem pela atenção do leitor.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Uma história” é feminino; para retomá-lo seria preciso o pronome “a” (“também a disputa”).",
+      "C": "“A mesma tela” é o sujeito que pratica a ação de disputar, e também é feminino. O pronome “o” indica quem sofre a ação, não quem a pratica.",
+      "D": "“Um otimismo ingênuo” é masculino e singular, mas está em outra frase (linha 14) e não faz sentido: a tela não disputa o otimismo a cada segundo."
+    },
+    "tip": "Para descobrir a quem um pronome se refere, substitua-o pelos candidatos e veja qual combina em gênero, número e sentido."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Basta olhar com atenção para perceber que a leitura não desapareceu: <b>mudou de endereço</b>.” (linha 6)</p></blockquote><p>A expressão destacada, empregada em sentido figurado, significa que a leitura</p>",
+    "options": {
+      "A": "passou a ser praticada principalmente dentro das bibliotecas.",
+      "B": "deixou de existir nas casas e nas escolas dos jovens.",
+      "C": "foi substituída por vídeos curtos sobre livros.",
+      "D": "passou a acontecer também em outros meios e espaços, como as telas dos celulares."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Ninguém “muda de endereço” literalmente aqui: a leitura não é uma pessoa que se muda de casa. A expressão é usada em sentido <b>figurado</b> (conotativo).</p><p>A frase seguinte explica o sentido: “Ela migrou, em boa parte, para as mesmas telas acusadas de destruí-la” (linha 7). Logo depois, o texto dá exemplos: as fanfics lidas e escritas nos celulares (linhas 7-9) e os vídeos de recomendação (linhas 11-13). Ou seja, a leitura continua existindo, mas passou a ocupar outros lugares, sobretudo as telas.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O “novo endereço” da leitura, segundo a linha 7, são as telas. As bibliotecas só aparecem no 4º parágrafo, como espaços que ajudam a sustentar a leitura.",
+      "B": "Contradiz a própria frase: a leitura “não desapareceu” (linha 6). Mudar de endereço não é deixar de existir.",
+      "C": "Os vídeos são um dos lugares onde a leitura aparece, mas neles os jovens recomendam livros (linha 11): a leitura não foi substituída pelos vídeos."
+    },
+    "tip": "Quando uma expressão figurada vem depois de dois-pontos ou é seguida de uma explicação, a frase vizinha costuma revelar o sentido."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A mesma tela que aproxima o leitor de uma história também o disputa a cada segundo.” (linhas 14-15)</p></blockquote><p>Ao passar as duas orações do trecho para a voz passiva, mantendo o sentido original, obtém-se:</p>",
+    "options": {
+      "A": "O leitor, que é aproximado de uma história pela mesma tela, também é disputado por ela a cada segundo.",
+      "B": "A mesma tela, que é aproximada de uma história pelo leitor, também é disputada por ele a cada segundo.",
+      "C": "O leitor, que se aproxima de uma história pela mesma tela, também a disputa a cada segundo.",
+      "D": "O leitor, que foi aproximado de uma história pela mesma tela, também foi disputado por ela a cada segundo."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Na voz ativa, o sujeito pratica a ação; na voz passiva, o sujeito sofre a ação e quem a pratica vira <b>agente da passiva</b> (introduzido por “por”, “pelo”, “pela”).</p><p>No original:</p><ul><li>“[a tela] aproxima o leitor”: quem aproxima é a tela; quem é aproximado é o leitor;</li><li>“[a tela] o disputa”: quem disputa é a tela; quem é disputado é o leitor (“o”).</li></ul><p>Na passiva, “o leitor” vira sujeito das duas orações, e a tela vira agente: “O leitor <b>é aproximado</b> de uma história <b>pela mesma tela</b>” e “<b>é disputado por ela</b>”. Os verbos no presente (“aproxima”, “disputa”) pedem o auxiliar “ser” também no presente: “é aproximado”, “é disputado”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Inverte os papéis: diz que o leitor aproxima a tela e a disputa, quando no original é a tela que age sobre o leitor.",
+      "C": "Não há voz passiva (“se aproxima” e “disputa” estão na voz ativa) e o sentido mudou: agora é o leitor quem pratica a ação de disputar, e não quem a sofre.",
+      "D": "A estrutura passiva está certa, mas o tempo verbal mudou: “foi aproximado” e “foi disputado” estão no pretérito perfeito, enquanto o original está no presente."
+    },
+    "tip": "Na passiva analítica, o auxiliar “ser” fica no mesmo tempo do verbo original: “aproxima” vira “é aproximado”; “aproximou” vira “foi aproximado”."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Em vez de lamentar o fim de uma geração de leitores, os adultos <b>fariam</b> melhor se <b>reconhecessem</b> as leituras que os jovens já praticam e as usassem como ponte.” (linhas 26-27)</p></blockquote><p>As formas verbais destacadas contribuem para que o autor do texto</p>",
+    "options": {
+      "A": "afirme, com certeza, que os adultos já valorizam as leituras dos jovens.",
+      "B": "dê uma ordem direta aos adultos, típica do modo imperativo.",
+      "C": "apresente, como sugestão, uma atitude hipotética que os adultos ainda não costumam tomar.",
+      "D": "relate uma atitude que os adultos tomaram no passado e já abandonaram."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Identifique os tempos:</p><ul><li>“fariam” está no <b>futuro do pretérito</b> do indicativo, tempo usado para falar do que aconteceria sob certa condição e também para fazer sugestões de modo mais suave;</li><li>“reconhecessem” está no <b>pretérito imperfeito do subjuntivo</b>, que, depois de “se”, expressa uma condição hipotética.</li></ul><p>A construção “fariam melhor se reconhecessem” equivale a “seria bom que os adultos reconhecessem”: o autor sugere uma mudança de atitude. E, se ele precisa sugerir, é porque essa atitude ainda não é comum, já que os adultos costumam “lamentar o fim de uma geração de leitores” (linha 26).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O indicativo presente expressaria certeza (“os adultos reconhecem”). O futuro do pretérito e o subjuntivo indicam hipótese, e o texto mostra que os adultos costumam lamentar, não valorizar.",
+      "B": "Uma ordem direta usaria o imperativo (“reconheçam”, “usem”). A forma escolhida é mais suave: aconselha, não manda.",
+      "D": "Apesar da palavra “pretérito” no nome dos tempos, eles não narram um fato passado: “fariam” e “reconhecessem” expressam possibilidade, não um acontecimento concluído."
+    },
+    "tip": "O par “futuro do pretérito + se + imperfeito do subjuntivo” (fariam... se reconhecessem) expressa hipótese e é muito usado para sugerir com delicadeza."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No poema (Texto 2), a linguagem é conotativa e há diversas figuras de linguagem. Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“entre mochilas e cotovelos,” (verso 2) – paradoxo",
+      "B": "“é farol, é janela, é estrada,” (verso 13) – metáfora",
+      "C": "“e que ela vai perder o ponto / só para chegar ao fim do capítulo.” (versos 14 e 15) – eufemismo",
+      "D": "“verá que a leitura não tem idade: / tem apenas fome de começo.” (versos 20 e 21) – ironia"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Metáfora</b> é atribuir a um ser características de outro por semelhança, sem usar conectivos como “como” ou “feito”.</p><p>No verso 13, “a luz pequena em suas mãos” (verso 12), isto é, a tela do celular, “é farol, é janela, é estrada”. A tela não é literalmente nada disso, mas se parece com cada um deles para a menina: <i>farol</i> porque guia, <i>janela</i> porque abre para outro mundo, <i>estrada</i> porque leva a algum lugar. São três metáforas seguidas.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Paradoxo junta ideias que parecem impossíveis ao mesmo tempo. “Mochilas e cotovelos” apenas sugerem, de modo concreto, o ônibus apertado; não há contradição.",
+      "C": "Eufemismo suaviza uma ideia desagradável. Os versos dizem, sem disfarce, que ela perderá o ponto de descida para terminar o capítulo, o que mostra seu envolvimento com a leitura.",
+      "D": "Ironia é dizer o contrário do que se pensa, e o eu lírico afirma com sinceridade que a leitura serve a todas as idades. A figura presente é a personificação: a leitura “tem fome”, como um ser vivo."
+    },
+    "tip": "Metáfora é uma comparação sem “como”: “a tela é farol”. Com “como”, seria comparação (símile): “a tela é como um farol”."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2",
+      "T1"
+    ],
+    "stem": "<p>Leia os versos do Texto 2:</p><blockquote><p>“uma menina lê no celular / a história que alguém escreveu / para um herói que nem era seu.” (versos 3 a 5)</p><p>“Amanhã, na biblioteca da escola, / ela vai pedir o livro de papel / de onde aquele herói fugiu.” (versos 16 a 18)</p></blockquote><p>Relacionando esses versos ao Texto 1, conclui-se que a menina</p>",
+    "options": {
+      "A": "é a autora da história que lê, pois criou um herói só seu.",
+      "B": "vai abandonar o celular por ter descoberto que o livro de papel é mais interessante.",
+      "C": "lê no celular a mesma obra que depois pedirá na biblioteca, apenas em outro formato.",
+      "D": "lê uma fanfic e, a partir dela, vai buscar a obra original, como o Texto 1 propõe ao falar em usar as leituras dos jovens “como ponte” (linha 27)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Os versos 4-5 dizem que “alguém” escreveu a história para “um herói que nem era seu”: o autor usou um personagem criado por outra pessoa. Isso corresponde à definição de fanfic dada no Texto 1: “histórias criadas por fãs a partir de personagens de livros, séries e jogos” (linhas 8-9).</p><p>Nos versos 16-18, a menina vai pedir “o livro de papel / de onde aquele herói fugiu”, isto é, o livro original em que o personagem nasceu. É exatamente o caminho descrito no Texto 1: os adultos deveriam usar as leituras dos jovens “como ponte” (linha 27), pois “Quem devora fanfics de fantasia pode chegar aos clássicos do gênero” (linhas 27-28).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O poema diz que “alguém escreveu” a história (verso 4), e não a menina. E o herói “nem era seu” significa que não pertencia a quem escreveu, o contrário de ser um herói próprio.",
+      "B": "O poema não diz que ela vai abandonar o celular nem que o papel é melhor. Ela vai buscar o livro porque se interessou pela história, sem desprezar a tela, que para ela “é farol, é janela, é estrada” (verso 13).",
+      "C": "Se fosse a mesma obra, o herói não teria “fugido” do livro. O verbo “fugiu” (verso 18) indica que o personagem saiu do livro original e foi parar em outra história, a fanfic."
+    },
+    "tip": "Na comparação entre textos, procure no texto em prosa a definição ou a ideia que explica a situação do poema: aqui, a definição de fanfic e a ideia de “ponte”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>No cartaz (Texto 3), aparecem verbos no imperativo (“Traga”, “venha”) e expressões próprias da linguagem informal, como “contar pra gente” e “a conversa é olho no olho”.</p><p>Essas escolhas de linguagem têm como principal finalidade</p>",
+    "options": {
+      "A": "aproximar-se do público jovem e convencê-lo a participar do clube de leitura.",
+      "B": "informar, de modo neutro e técnico, as regras de funcionamento da biblioteca.",
+      "C": "proibir o uso do celular e da internet durante os encontros do clube.",
+      "D": "criticar os jovens que preferem ler em telas a ler em livros de papel."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.variacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O cartaz de campanha é um gênero <b>persuasivo</b>: quer levar o público a fazer algo, aqui, frequentar o clube de leitura.</p><p>Dois recursos ajudam nisso:</p><ul><li>o <b>imperativo</b> (“Traga o livro”, “venha contar”) dirige-se diretamente ao leitor e o convida a agir;</li><li>o <b>registro informal</b> (“pra gente”, “olho no olho”) imita o jeito de falar dos jovens e cria proximidade, como se fosse um convite de amigo.</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A linguagem do cartaz não é neutra nem técnica: o imperativo e as expressões informais mostram que ele quer convencer, não apenas informar regras.",
+      "C": "O cartaz não proíbe nada; ao contrário, avisa que “Tem wi-fi”. A frase “a conversa é olho no olho” valoriza o encontro presencial sem proibir o celular.",
+      "D": "O cartaz não critica a leitura em telas: aceita “a fanfic” entre as leituras bem-vindas e reconhece que “TEM HISTÓRIA QUE CABE NA TELA”."
+    },
+    "tip": "Em anúncios e campanhas, imperativo e linguagem informal servem para falar diretamente com o público e convencê-lo a agir."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3",
+      "T1"
+    ],
+    "stem": "<blockquote><p>“TEM HISTÓRIA QUE CABE NA TELA.<br>E TEM HISTÓRIA QUE PEDE UMA TARDE INTEIRA.”</p></blockquote><p>O slogan do cartaz (Texto 3) reconhece que há leituras adequadas à tela, mas as distingue daquelas que exigem tempo e continuidade.</p><p>Essa distinção dialoga mais diretamente com o seguinte trecho do Texto 1:</p>",
+    "options": {
+      "A": "“a leitura não desapareceu: mudou de endereço.” (linha 6)",
+      "B": "“Ler um capítulo aos pedaços, entre um alerta e outro, não é o mesmo que mergulhar num livro por horas a fio.” (linhas 17-18)",
+      "C": "“cobrando dos autores, com uma impaciência que qualquer escritor invejaria, a continuação da trama.” (linhas 10-11)",
+      "D": "“vários desses grupos nasceram na internet e hoje também se encontram em praças, escolas e salas de leitura.” (linhas 24-25)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O slogan tem duas partes: há histórias que “cabem na tela” (leituras curtas, que se encaixam no celular) e há histórias que “pedem uma tarde inteira” (leituras longas, que exigem tempo e concentração).</p><p>O Texto 1 faz a mesma distinção nas linhas 17-18: ler “um capítulo aos pedaços, entre um alerta e outro” (leitura fragmentada, típica da tela) “não é o mesmo que mergulhar num livro por horas a fio” (leitura longa e contínua). “Uma tarde inteira” e “horas a fio” expressam a mesma ideia de tempo dedicado sem interrupção.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O trecho diz que a leitura passou a ocupar as telas, o que se relaciona só com a primeira frase do slogan. Ele não distingue a leitura na tela da leitura longa.",
+      "C": "Fala do entusiasmo dos leitores de fanfics por novos capítulos, e não da diferença entre leituras rápidas e leituras que exigem tempo.",
+      "D": "Trata da origem dos clubes de leitura, tema próximo ao do cartaz (que divulga um clube), mas não da distinção feita no slogan."
+    },
+    "tip": "Em questões de comparação, identifique a ideia central do trecho pedido (aqui, a oposição entre leitura curta e leitura longa) e procure no outro texto a mesma oposição, mesmo com outras palavras."
+  }
+]

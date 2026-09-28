@@ -3,7 +3,9 @@
 function filterQuestions(f) {
   return ALL_Q.filter((q) => {
     const e = EXAM[q.examId];
-    if (!f.extras && !e.official) return false;
+    if (!f.extras && e.origin === "extra") return false;
+    if (f.origin === "oficial" && e.origin === "inedita") return false;
+    if (f.origin === "inedita" && e.origin !== "inedita") return false;
     if (f.subject && q.subject !== f.subject) return false;
     if (f.exam && q.examId !== f.exam) return false;
     if (f.topic && !q.topics.includes(f.topic)) return false;
@@ -38,7 +40,7 @@ function smartOrder(qs) {
 }
 
 function viewPracticeSetup() {
-  const f = Object.assign({ subject: "", exam: "", topic: "", diff: "", status: "", order: "random", size: "20", extras: true }, S().practiceFilters || {});
+  const f = Object.assign({ subject: "", exam: "", topic: "", diff: "", status: "", order: "random", size: "20", extras: true, origin: "" }, S().practiceFilters || {});
   const st = computeStats();
   const topicOpts = (subj) =>
     Object.entries(DATA.topics[subj] || {})
@@ -65,6 +67,7 @@ function viewPracticeSetup() {
     <p class="lead">Resolva questões das provas anteriores com correção na hora e resolução comentada. Seus acertos e erros alimentam as estatísticas.</p>
     <section class="sheet">
       <div class="filters" id="pf">
+        <label class="field">Origem<select name="origin"><option value="">Todas as questões</option><option value="oficial" ${f.origin === "oficial" ? "selected" : ""}>Provas anteriores do CPII</option><option value="inedita" ${f.origin === "inedita" ? "selected" : ""}>Questões inéditas</option></select></label>
         <label class="field">Matéria<select name="subject"><option value="">Todas</option><option value="portugues" ${f.subject === "portugues" ? "selected" : ""}>Português</option><option value="matematica" ${f.subject === "matematica" ? "selected" : ""}>Matemática</option></select></label>
         <label class="field">Prova<select name="exam"><option value="">Todas as provas</option>${EXAMS.map((e) => `<option value="${e.id}" ${f.exam === e.id ? "selected" : ""}>${esc(e.title)}</option>`).join("")}</select></label>
         <label class="field">Assunto<select name="topic"><option value="">Todos os assuntos</option><optgroup label="Português">${topicOpts("portugues")}</optgroup><optgroup label="Matemática">${topicOpts("matematica")}</optgroup></select></label>
@@ -82,6 +85,7 @@ function viewPracticeSetup() {
           <button class="btn" id="q-wrong" ${wrongCount ? "" : "disabled"}>Refazer as que eu errei (${wrongCount})</button>
           <button class="btn" id="q-flag" ${flagCount ? "" : "disabled"}>Revisar as marcadas (${flagCount})</button>
           <button class="btn" id="q-weak" ${weakTopics(st).length ? "" : "disabled"}>Treinar meus 3 assuntos mais fracos</button>
+          <button class="btn" id="q-ined" ${ALL_Q.some((q) => EXAM[q.examId].inedita) ? "" : "disabled"}>10 questões inéditas que eu ainda não fiz</button>
           <button class="btn" id="q-mix">10 questões novas misturadas</button>
         </div>
       </section>
@@ -127,6 +131,11 @@ function viewPracticeSetup() {
     const weak = weakTopics(st).slice(0, 3).map((t) => t.id);
     const qs = ALL_Q.filter((q) => q.topics.some((t) => weak.includes(t)));
     startPractice(smartOrder(qs).slice(0, 15), "Assuntos mais fracos");
+  });
+  $("#q-ined").addEventListener("click", () => {
+    const ined = ALL_Q.filter((q) => EXAM[q.examId].inedita && !q.annulled);
+    const fresh = ined.filter((q) => !lastAttempt(q.id));
+    startPractice(shuffle(fresh.length ? fresh : ined).slice(0, 10).map((q) => q.id), "Questões inéditas");
   });
   $("#q-mix").addEventListener("click", () => {
     const fresh = ALL_Q.filter((q) => !lastAttempt(q.id));

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect width="420" height="300" fill="#fff"/>
+  <polygon points="70,250 70,70 310,250" fill="#e6f0dc" stroke="#333" stroke-width="2"/>
+  <path d="M70 232 L88 232 L88 250" fill="none" stroke="#333" stroke-width="1.5"/>
+  <line x1="70" y1="250" x2="156.4" y2="134.8" stroke="#1f5fa8" stroke-width="3" stroke-dasharray="8 5"/>
+  <path d="M149.2 144.4 L158.8 151.6 L166 142" fill="none" stroke="#333" stroke-width="1.5"/>
+  <line x1="156.4" y1="134.8" x2="310" y2="250" stroke="#1f5fa8" stroke-width="4" stroke-dasharray="8 5"/>
+  <circle cx="156.4" cy="134.8" r="3.5" fill="#333"/>
+  <text x="58" y="268" text-anchor="middle">A</text>
+  <text x="62" y="64" text-anchor="middle">B</text>
+  <text x="322" y="268" text-anchor="middle">C</text>
+  <text x="168" y="128">H</text>
+  <text x="56" y="165" text-anchor="end">15 m</text>
+  <text x="190" y="275" text-anchor="middle">20 m</text>
+  <text x="116" y="222" fill="#1f5fa8" font-weight="bold">cano</text>
+  <text x="246" y="186" fill="#1f5fa8" font-weight="bold">cano</text>
+</svg>

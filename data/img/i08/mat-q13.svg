@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 250" width="340" height="250" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect width="340" height="250" fill="#fff"/>
+  <!-- room 6 m x 4,5 m at 40 px/m -->
+  <rect x="45" y="25" width="240" height="180" fill="#f4f1ea" stroke="#333" stroke-width="2.5"/>
+  <!-- closet 2 m x 1,5 m, upper right corner -->
+  <rect x="205" y="25" width="80" height="60" fill="#cfcfcf" stroke="#333" stroke-width="1.8"/>
+  <line x1="205" y1="25" x2="285" y2="85" stroke="#999" stroke-width="0.8"/>
+  <line x1="285" y1="25" x2="205" y2="85" stroke="#999" stroke-width="0.8"/>
+  <rect x="213" y="45" width="64" height="20" fill="#cfcfcf"/>
+  <text x="245" y="60" text-anchor="middle">armário</text>
+  <text x="125" y="120" text-anchor="middle">sala</text>
+  <line x1="70" y1="205" x2="110" y2="205" stroke="#f4f1ea" stroke-width="3.5"/>
+  <path d="M70 165 A40 40 0 0 1 110 205" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="70" y1="205" x2="70" y2="165" stroke="#666" stroke-width="1.5"/>
+  <text x="165" y="226" text-anchor="middle">6 m</text>
+  <text x="22" y="120" text-anchor="middle">4,5 m</text>
+  <text x="245" y="18" text-anchor="middle">2 m</text>
+  <text x="312" y="60" text-anchor="middle">1,5 m</text>
+</svg>

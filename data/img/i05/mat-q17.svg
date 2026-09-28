@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 332" width="500" height="332" font-family="Arial, Helvetica, sans-serif" font-size="15">
+<rect width="500" height="332" fill="#fff"/>
+<defs><clipPath id="half2"><rect x="0" y="0" width="13" height="40"/></clipPath></defs>
+<defs><clipPath id="half"><rect x="0" y="0" width="17" height="60"/></clipPath></defs>
+<text x="250.0" y="24" text-anchor="middle" font-weight="bold">Latas arrecadadas por turma</text>
+<text x="62" y="72" text-anchor="end">9º A</text>
+<line x1="72" y1="96" x2="486" y2="96" stroke="#ddd"/>
+<rect x="84" y="48" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="101.0" cy="48" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="88" y1="66.0" x2="114" y2="66.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="132" y="48" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="149.0" cy="48" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="136" y1="66.0" x2="162" y2="66.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="180" y="48" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="197.0" cy="48" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="184" y1="66.0" x2="210" y2="66.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="228" y="48" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="245.0" cy="48" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="232" y1="66.0" x2="258" y2="66.0" stroke="#2f4f6f" stroke-width="1"/>
+<g transform="translate(276,44)"><g clip-path="url(#half)"><rect x="0" y="4" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="17.0" cy="4" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="4" y1="22.0" x2="30" y2="22.0" stroke="#2f4f6f" stroke-width="1"/></g></g>
+<text x="62" y="132" text-anchor="end">9º B</text>
+<line x1="72" y1="156" x2="486" y2="156" stroke="#ddd"/>
+<rect x="84" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="101.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="88" y1="126.0" x2="114" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="132" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="149.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="136" y1="126.0" x2="162" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="180" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="197.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="184" y1="126.0" x2="210" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="228" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="245.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="232" y1="126.0" x2="258" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="276" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="293.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="280" y1="126.0" x2="306" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="324" y="108" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="341.0" cy="108" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="328" y1="126.0" x2="354" y2="126.0" stroke="#2f4f6f" stroke-width="1"/>
+<text x="62" y="192" text-anchor="end">9º C</text>
+<line x1="72" y1="216" x2="486" y2="216" stroke="#ddd"/>
+<rect x="84" y="168" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="101.0" cy="168" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="88" y1="186.0" x2="114" y2="186.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="132" y="168" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="149.0" cy="168" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="136" y1="186.0" x2="162" y2="186.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="180" y="168" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="197.0" cy="168" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="184" y1="186.0" x2="210" y2="186.0" stroke="#2f4f6f" stroke-width="1"/>
+<g transform="translate(228,164)"><g clip-path="url(#half)"><rect x="0" y="4" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="17.0" cy="4" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="4" y1="22.0" x2="30" y2="22.0" stroke="#2f4f6f" stroke-width="1"/></g></g>
+<text x="62" y="252" text-anchor="end">9º D</text>
+<line x1="72" y1="276" x2="486" y2="276" stroke="#ddd"/>
+<rect x="84" y="228" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="101.0" cy="228" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="88" y1="246.0" x2="114" y2="246.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="132" y="228" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="149.0" cy="228" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="136" y1="246.0" x2="162" y2="246.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="180" y="228" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="197.0" cy="228" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="184" y1="246.0" x2="210" y2="246.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="228" y="228" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="245.0" cy="228" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="232" y1="246.0" x2="258" y2="246.0" stroke="#2f4f6f" stroke-width="1"/>
+<rect x="276" y="228" width="34" height="36" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="293.0" cy="228" rx="17.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="280" y1="246.0" x2="306" y2="246.0" stroke="#2f4f6f" stroke-width="1"/>
+<g transform="translate(150,288)"><rect x="0" y="4" width="26" height="26" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="13.0" cy="4" rx="13.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="4" y1="17.0" x2="22" y2="17.0" stroke="#2f4f6f" stroke-width="1"/></g>
+<text x="186" y="313">= 20 latas</text>
+<g transform="translate(290,288)"><g clip-path="url(#half2)"><rect x="0" y="4" width="26" height="26" rx="3" fill="#8fa9c4" stroke="#2f4f6f" stroke-width="1.5"/><ellipse cx="13.0" cy="4" rx="13.0" ry="4" fill="#c9d6e3" stroke="#2f4f6f" stroke-width="1.5"/><line x1="4" y1="17.0" x2="22" y2="17.0" stroke="#2f4f6f" stroke-width="1"/></g></g>
+<text x="312" y="313">= 10 latas</text>
+</svg>

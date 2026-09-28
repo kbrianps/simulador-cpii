@@ -1,0 +1,294 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma reportagem que trata das enchentes nas grandes cidades brasileiras.</p><p>O principal objetivo do texto é</p>",
+    "options": {
+      "A": "defender que a construção de galerias subterrâneas maiores é a solução definitiva para as enchentes.",
+      "B": "mostrar que as enchentes resultam, em parte, do modo como as cidades trataram seus rios e apontar caminhos para mudar essa relação.",
+      "C": "atribuir exclusivamente aos moradores que descartam lixo nas ruas a responsabilidade pelos alagamentos.",
+      "D": "narrar a história de um rio específico que foi enterrado sob uma avenida no século XX."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para achar o objetivo de um texto, observe o caminho que ele percorre do começo ao fim.</p><ul><li>Linhas 1-6: os rios urbanos foram retificados e enterrados em galerias de concreto.</li><li>Linhas 7-13: por isso, quando chove forte, a água não se infiltra no solo impermeabilizado e as galerias não dão conta: vêm os alagamentos.</li><li>Linhas 14-18: o lixo agrava o problema, e a enchente é “também resultado de escolhas feitas ao longo de décadas”.</li><li>Linhas 19-33: a reportagem apresenta soluções (parques lineares, jardins de chuva, pisos permeáveis, reabertura de rios) e atitudes do dia a dia.</li></ul><p>Ou seja, o texto explica que as enchentes têm relação com a forma como as cidades lidaram com seus rios e aponta caminhos para mudar essa relação.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O texto diz o contrário: segundo a engenheira, “o caminho não é apenas construir galerias maiores” (linhas 19-20). As galerias aparecem como parte do problema, e não como solução definitiva.",
+      "C": "O lixo é citado como um fator que agrava o problema (linhas 14-16), mas o texto divide a responsabilidade: as escolhas foram feitas “algumas pelo poder público, outras por cada um de nós” (linhas 17-18). A palavra “exclusivamente” torna a alternativa falsa.",
+      "D": "A reportagem fala de rios em geral (“córregos e riachos”, linha 3) e não conta a história de um rio específico; além disso, ela informa e analisa, não narra."
+    },
+    "tip": "Palavras como “exclusivamente”, “definitiva” e “sempre” costumam denunciar alternativas exageradas em questões de ideia central."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Essas obras são caras e demoradas, mas seus defensores argumentam que o custo de não fazer nada também é alto, <b><u>embora</u></b> nem sempre apareça nas contas oficiais [...]” (linhas 27-29)</p></blockquote><p>Sem alterar o sentido do trecho, a conjunção destacada pode ser substituída por</p>",
+    "options": {
+      "A": "porque.",
+      "B": "portanto.",
+      "C": "desde que.",
+      "D": "ainda que."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Embora” é uma conjunção <b>concessiva</b>: introduz um fato que poderia atrapalhar a ideia principal, mas não a impede. No trecho, a ideia principal é que “o custo de não fazer nada também é alto”; o fato concedido é que esse custo “nem sempre apareça nas contas oficiais”. Mesmo não aparecendo nas contas, o custo continua alto.</p><p>A única alternativa com valor concessivo é <b>“ainda que”</b>. Faça o teste: “o custo de não fazer nada também é alto, <b>ainda que</b> nem sempre apareça nas contas oficiais”. O sentido se mantém, e o verbo continua no subjuntivo (“apareça”), como pede a concessão.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Porque” indica causa. O fato de o custo não aparecer nas contas não é a causa de ele ser alto; a troca mudaria o sentido.",
+      "B": "“Portanto” indica conclusão. O trecho não conclui nada a partir do custo alto; ele faz uma ressalva.",
+      "C": "“Desde que” indica condição: o custo só seria alto se não aparecesse nas contas, o que não é o que o texto diz."
+    },
+    "tip": "“Embora”, “ainda que”, “mesmo que” e “apesar de que” são concessivas: admitem um obstáculo que não impede a ideia principal."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“[...] mas seus defensores argumentam que o custo de não fazer nada também é alto, embora nem sempre apareça nas contas oficiais: <b><u>ele</u></b> se mede em prejuízos a cada verão.” (linhas 27-29)</p></blockquote><p>O pronome destacado retoma, no trecho,</p>",
+    "options": {
+      "A": "“o custo de não fazer nada”.",
+      "B": "“seus defensores”.",
+      "C": "“cada verão”.",
+      "D": "“trechos de rios canalizados”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Um pronome pessoal como “ele” substitui um termo já dito, para evitar repetição. Para descobrir qual, coloque cada candidato no lugar do pronome e veja se a frase faz sentido.</p><p>“<b>O custo de não fazer nada</b> se mede em prejuízos a cada verão.” Faz todo o sentido: o texto acabou de afirmar que esse custo é alto, embora “nem sempre apareça nas contas oficiais” (linhas 28-29), e os dois-pontos introduzem a explicação de como ele pode ser medido: em prejuízos. Além disso, “ele” é masculino e singular, como “o custo”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Seus defensores” está no plural; seria retomado por “eles”. E não faz sentido dizer que os defensores “se medem em prejuízos”.",
+      "C": "“Cada verão” aparece depois do pronome, dentro da mesma oração; ele é o momento em que os prejuízos acontecem, e não aquilo que se mede.",
+      "D": "“Trechos de rios canalizados” (linha 26) está no plural e distante; além disso, o que se mede em prejuízos é o custo da falta de obras, e não os rios."
+    },
+    "tip": "Para achar o referente de um pronome, substitua-o pelos candidatos: o certo concorda em gênero e número e mantém o sentido da frase."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“A natureza, no entanto, não costuma obedecer às <b><u>pranchetas</u></b>.” (linha 7)</p></blockquote><p>No contexto, a palavra destacada foi empregada em sentido figurado e refere-se</p>",
+    "options": {
+      "A": "às placas de trânsito instaladas nas novas avenidas.",
+      "B": "às tábuas de madeira usadas para cobrir os rios.",
+      "C": "aos projetos elaborados pelos engenheiros e planejadores urbanos.",
+      "D": "às leis ambientais que proíbem a ocupação das margens."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No sentido literal, prancheta é a mesa ou a placa de apoio em que engenheiros, arquitetos e desenhistas fazem seus projetos. No texto, a palavra está em sentido figurado: o objeto de trabalho representa aquilo que se faz com ele, ou seja, os <b>projetos</b> e planos.</p><p>O contexto confirma: o parágrafo anterior fala dos rios que “foram retificados” e “enterrados em galerias de concreto” segundo uma lógica que “parecia simples” (linhas 3-4). A frase da linha 7 diz que a natureza não segue o que foi planejado: quando chove forte, a água não respeita os canais “planejados para outra época” (linha 10).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não fala de placas de trânsito. Quem escolhe essa opção associa “prancheta” a “placa” e a “avenidas”, sem considerar o contexto de planejamento.",
+      "B": "Essa seria uma leitura literal e ainda errada: os rios foram cobertos por galerias de concreto (linha 4), não por tábuas.",
+      "D": "Leis ambientais não são mencionadas no texto. A frase opõe a natureza ao planejamento técnico das obras, e não a normas jurídicas."
+    },
+    "tip": "Quando uma palavra parece estranha no contexto, pergunte o que ela representa ali: muitas vezes o instrumento (prancheta) está no lugar do trabalho feito com ele (o projeto)."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Os canais subterrâneos, planejados para outra época, recebem em minutos um volume que não conseguem escoar.” (linhas 10-11)</p></blockquote><p>Considere apenas a oração “Os canais subterrâneos [...] recebem em minutos um volume [...]”. Ao passá-la para a voz passiva, mantendo o tempo verbal e o sentido original, obtém-se:</p>",
+    "options": {
+      "A": "Em minutos, um volume é recebido pelos canais subterrâneos.",
+      "B": "Em minutos, um volume foi recebido pelos canais subterrâneos.",
+      "C": "Em minutos, os canais subterrâneos são recebidos por um volume.",
+      "D": "Em minutos, um volume são recebidos pelos canais subterrâneos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na voz ativa, o sujeito pratica a ação: “Os canais subterrâneos” (sujeito) “recebem” (verbo) “um volume” (objeto direto).</p><p>Para passar à voz passiva analítica:</p><ol><li>o objeto direto vira sujeito: <b>um volume</b>;</li><li>o verbo vira locução com “ser” + particípio, <b>no mesmo tempo</b> do verbo original: “recebem” está no presente, então fica “<b>é recebido</b>” (singular, concordando com o novo sujeito “um volume”);</li><li>o antigo sujeito vira agente da passiva, introduzido por “por”: <b>pelos canais subterrâneos</b>.</li></ol><p>Resultado: “Em minutos, um volume é recebido pelos canais subterrâneos.”</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Foi recebido” está no pretérito perfeito, mas o verbo original “recebem” está no presente. O tempo verbal foi alterado.",
+      "C": "Inverte os papéis: agora seriam os canais que são recebidos pelo volume, o que muda completamente o sentido.",
+      "D": "Erro de concordância: o sujeito da passiva é “um volume” (singular), então o verbo deve ser “é recebido”, e não “são recebidos”."
+    },
+    "tip": "Voz passiva analítica: objeto direto vira sujeito, verbo vira “ser + particípio” no mesmo tempo, e o sujeito antigo vira agente com “por”."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O poema “Rio de baixo” (Texto 2) emprega linguagem figurada para falar do rio escondido sob o bairro.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“Havia um rio no meu bairro, / me contou meu avô um dia” (versos 1 e 2) – hipérbole",
+      "B": "“deram ao rio um teto cinza / e ao bairro uma promessa.” (versos 7 e 8) – antítese",
+      "C": "“engole o que a rua joga: / garrafa, sacola, trapo.” (versos 11 e 12) – eufemismo",
+      "D": "“o rio se lembra do seu nome / e sobe à procura do rumo.” (versos 15 e 16) – personificação"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir a seres não humanos ações, sentimentos ou características humanas. Nos versos 15 e 16, o rio “se lembra do seu nome” e sai “à procura do rumo”: lembrar e procurar são ações de gente. O poema transforma a enchente em um gesto do rio, como se ele recordasse quem era.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Não há exagero nos versos 1 e 2: é uma informação simples, contada pelo avô. Hipérbole seria um exagero intencional, como “choveu um oceano”.",
+      "B": "Os versos 7 e 8 não opõem ideias contrárias, que é o que caracteriza a antítese. O “teto cinza” é uma metáfora para a cobertura de concreto sobre o rio.",
+      "C": "Eufemismo suaviza uma ideia desagradável. Os versos 11 e 12 fazem o contrário: mostram cruamente o lixo que o rio recebe, numa enumeração (“garrafa, sacola, trapo”). O verbo “engole”, aliás, também personifica o rio."
+    },
+    "tip": "Se um ser que não é humano lembra, procura, sente ou fala, pense em personificação."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>“Invade a sala, a escola, / arrasta a rua inteira: / não é vingança, é memória / de quem já teve ribeira.” (versos 17 a 20)</p></blockquote><p>Na última estrofe, o eu lírico sugere que as enchentes</p>",
+    "options": {
+      "A": "são um castigo da natureza contra os moradores que poluem o rio.",
+      "B": "são consequência de o rio ter perdido seu espaço, que ele volta a ocupar quando a chuva é forte.",
+      "C": "acontecem porque os moradores esqueceram o nome do rio que passava pelo bairro.",
+      "D": "atingem apenas a sala e a escola, poupando o restante do bairro."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O verso 19 nega uma interpretação e afirma outra: “<b>não é vingança, é memória</b>”. O rio não invade o bairro para punir ninguém; ele “se lembra” do lugar que ocupava quando tinha “ribeira”, isto é, margens (verso 20).</p><p>O poema conta essa perda nas estrofes anteriores: o rio “tinha margem” (verso 3), mas recebeu “um teto cinza” (verso 7) e hoje corre “debaixo do meu sapato” (verso 10). Quando “o céu desaba” (verso 13), a água volta a ocupar o espaço que era do rio. Assim, o eu lírico sugere que a enchente é consequência da ocupação desse espaço.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É justamente a leitura que o verso 19 recusa: “não é vingança”. A ideia de castigo contradiz o poema.",
+      "C": "O “nome” do verso 15 pertence ao rio, que “se lembra” dele; o poema não diz que os moradores esqueceram nada. A alternativa confunde a personificação com um fato.",
+      "D": "A enumeração “a sala, a escola” é seguida de “arrasta a rua inteira” (verso 18): a enchente atinge tudo, e não apenas dois lugares."
+    },
+    "tip": "Quando o poema diz “não é X, é Y”, a resposta costuma estar no Y: é a interpretação que o eu lírico escolhe."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“– Bom dia, seu Arlindo! O senhor sabe que dá <b>pra</b> fazer isso com uma vassoura, <b>né</b>?” (linha 6)</p><p>“– Menino, eu pago a minha conta direitinho. A água é minha, <b>tá</b> entendendo?” (linha 8)</p></blockquote><p>As formas destacadas nas falas das personagens</p>",
+    "options": {
+      "A": "são erros gramaticais que o autor deveria ter corrigido para publicar a crônica.",
+      "B": "revelam que as personagens usam um falar regional típico de uma única região do país.",
+      "C": "reproduzem marcas da fala informal, adequadas a uma conversa espontânea entre vizinhos.",
+      "D": "pertencem a um vocabulário técnico, próprio de quem trabalha com abastecimento de água."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Pra” (para), “né” (não é) e “tá” (está) são reduções muito comuns na <b>fala informal</b> em todo o Brasil. Na crônica, elas aparecem somente nas falas das personagens, introduzidas por travessão, e não na narração, que segue a norma-padrão (“Fiquei sem resposta e voltei para casa”, linha 9).</p><p>O autor usou essas formas de propósito: a situação é uma conversa espontânea entre vizinhos na calçada, e o registro informal deixa o diálogo natural e verossímil. A língua varia conforme a situação, e o texto respeita isso.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não são erros: em uma conversa informal, essas formas são adequadas. O autor as usou intencionalmente para dar naturalidade às falas.",
+      "B": "“Pra”, “né” e “tá” são usados por falantes de todas as regiões do país; não identificam o falar de uma região específica.",
+      "D": "Nenhuma dessas palavras é termo técnico. São reduções de palavras comuns (“para”, “não é”, “está”)."
+    },
+    "tip": "Variação linguística não é erro: o registro informal é adequado em situações informais, como um diálogo entre vizinhos."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“Todo sábado, às sete da manhã, seu Arlindo cumpre o mesmo ritual: abre o portão, desenrola a mangueira verde e começa a <b>“varrer”</b> a calçada com um jato d’água.” (linhas 1-2)</p></blockquote><p>No trecho, as aspas na palavra destacada indicam que ela</p>",
+    "options": {
+      "A": "foi usada em sentido especial, pois a limpeza não é feita com vassoura, mas com água.",
+      "B": "reproduz exatamente uma fala de seu Arlindo, citada pelo narrador.",
+      "C": "é uma palavra estrangeira, ainda não incorporada ao português.",
+      "D": "tem o mesmo sentido literal de “limpar com vassoura”, apenas reforçado."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Além de marcar citações, as aspas servem para indicar que uma palavra está sendo usada em <b>sentido especial</b>: irônico, figurado ou fora do habitual.</p><p>“Varrer”, no sentido literal, é limpar com vassoura. Mas seu Arlindo faz a limpeza “com um jato d’água” (linha 2), usando a mangueira. O narrador põe a palavra entre aspas para mostrar que aquilo não é bem varrer, e já deixa escapar uma crítica ao desperdício que será o tema da crônica. Tanto que, no final, seu Arlindo passa a varrer de verdade, “com uma vassoura de piaçava” (linha 14), e aí a palavra “varria” aparece sem aspas.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Seu Arlindo ainda não falou nada nesse ponto do texto; suas falas vêm depois, com travessão (linha 8). As aspas não marcam citação aqui.",
+      "C": "“Varrer” é uma palavra do português, e não estrangeirismo.",
+      "D": "É o oposto: as aspas mostram justamente que a palavra não está no sentido literal, já que não há vassoura na cena."
+    },
+    "tip": "Aspas em uma palavra solta, fora de citação, costumam avisar: “não leve ao pé da letra”."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3",
+      "T4"
+    ],
+    "stem": "<p>O Texto 4 é um cartaz de campanha, gênero que procura convencer o público a mudar comportamentos, por isso emprega frases curtas e verbos no imperativo.</p><p>A mudança de atitude de seu Arlindo no final do Texto 3 (linhas 13-16) corresponde à seguinte orientação do cartaz:</p>",
+    "options": {
+      "A": "“Feche a torneira enquanto escova os dentes.”",
+      "B": "“Conserte vazamentos: uma torneira pingando desperdiça água o dia inteiro.”",
+      "C": "“Troque a mangueira pela vassoura na limpeza de calçadas e quintais.”",
+      "D": "“Tome banhos mais curtos: cada minuto a menos no chuveiro economiza água.”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.genero",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>No início da crônica, seu Arlindo limpa a calçada “com um jato d’água” da mangueira (linha 2). No sábado seguinte, o narrador o vê varrendo “com uma vassoura de piaçava” (linha 14). A mudança, portanto, foi trocar a mangueira pela vassoura na limpeza da calçada, exatamente o que pede a terceira frase do cartaz: “<b>Troque</b> a mangueira pela vassoura na limpeza de calçadas e quintais.”</p><p>Repare no verbo “troque”: está no imperativo, modo usado para dar conselhos e ordens, típico dos textos de campanha.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É uma orientação do cartaz, mas a crônica não fala de escovar os dentes. Relaciona-se com a economia de água em geral, e não com a atitude de seu Arlindo.",
+      "B": "Também está no cartaz, mas não há vazamento na história: seu Arlindo “fechou a torneira” (linha 7) quando quis. O desperdício dele era proposital, com a mangueira.",
+      "D": "É outra forma de economizar água dentro de casa, mas a crônica não fala de banho. A atitude de seu Arlindo muda na limpeza da calçada, e não no chuveiro."
+    },
+    "tip": "Em questões de comparação, localize no primeiro texto o fato exato (a vassoura no lugar da mangueira) antes de procurar a correspondência no segundo."
+  }
+]

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 275" width="380" height="275" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect width="380" height="275" fill="#fff"/>
+  <line x1="10" y1="230" x2="370" y2="230" stroke="#222" stroke-width="2"/>
+  <line x1="40" y1="230" x2="40" y2="50" stroke="#222" stroke-width="5"/>
+  <line x1="250" y1="230" x2="250" y2="185" stroke="#222" stroke-width="4"/>
+  <line x1="40" y1="50" x2="320" y2="230" stroke="#d08a00" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="26" y="145" text-anchor="end">H</text>
+  <text x="244" y="215" text-anchor="end">1,60 m</text>
+  <text x="244" y="196" text-anchor="end">Bia</text>
+  <text x="50" y="40">poste</text>
+  <text x="300" y="165" fill="#8a5a00">raio de sol</text>
+  <line x1="40" y1="250" x2="320" y2="250" stroke="#222"/>
+  <line x1="40" y1="244" x2="40" y2="256" stroke="#222"/>
+  <line x1="250" y1="244" x2="250" y2="256" stroke="#222"/>
+  <line x1="320" y1="244" x2="320" y2="256" stroke="#222"/>
+  <text x="145" y="270" text-anchor="middle">6 m</text>
+  <text x="285" y="270" text-anchor="middle">2 m</text>
+</svg>

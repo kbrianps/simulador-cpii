@@ -1,0 +1,27 @@
+{
+  "genre": "dissertativo-argumentativo",
+  "theme": "Os desafios para garantir a todos o direito de circular pela cidade.",
+  "prompt_html": "<p>Os textos da prova de Língua Portuguesa discutem, de maneiras diversas, aspectos relacionados à circulação das pessoas pela cidade (transporte público, bicicleta, calçadas e acessibilidade). Esses textos servem como elementos motivadores para que você faça suas próprias reflexões a respeito da temática abordada. A partir daí, elabore um texto dissertativo-argumentativo em que você defenda seu ponto de vista sobre o seguinte tema:</p><p class=\"tema\"><b>Os desafios para garantir a todos o direito de circular pela cidade</b>.</p>",
+  "requirements": [
+    "evitar cópia integral ou parcial de fragmentos dos textos da prova",
+    "conter obrigatoriamente argumentos que sustentem suas opiniões",
+    "ter entre 20 e 25 linhas",
+    "apresentar letra legível e não conter rasuras",
+    "ter, no mínimo, três parágrafos",
+    "estar de acordo com a norma-padrão para a modalidade escrita",
+    "ser em prosa",
+    "estar de acordo com a proposta apresentada",
+    "ser transcrito no local indicado na FOLHA DE TEXTOS DEFINITIVOS"
+  ],
+  "zero_criteria": [
+    "folha completamente em branco",
+    "número insuficiente de linhas (9 linhas ou menos)",
+    "letra ilegível",
+    "fuga ao tema",
+    "fuga ao tipo textual (ausência de qualquer indício de opinião)",
+    "palavras de baixo calão e/ou comentários ofensivos ou que desrespeitem os direitos humanos"
+  ],
+  "lines_min": 20,
+  "lines_max": 25,
+  "notes": []
+}

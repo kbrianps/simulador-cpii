@@ -1,0 +1,137 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Leitores de tela, leitores de página",
+    "subtitle": null,
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Há quem garanta, com ar de sentença definitiva, que os jovens de hoje não leem. A frase se",
+      "repete em reuniões de pais, em almoços de família e em comentários nas redes, quase sempre",
+      "acompanhada de um suspiro de saudade de um tempo em que, supostamente, todo adolescente",
+      "carregava um romance debaixo do braço. Esse tempo, convenhamos, talvez nunca tenha existido.",
+      "E a queixa, embora compreensível, costuma olhar para o lugar errado.",
+      "Basta olhar com atenção para perceber que a leitura não desapareceu: mudou de endereço.",
+      "Ela migrou, em boa parte, para as mesmas telas acusadas de destruí-la. Nos celulares, muitos",
+      "adolescentes escrevem e leem fanfics, histórias criadas por fãs a partir de personagens de",
+      "livros, séries e jogos. Há quem passe horas acompanhando capítulos semanais, comentando cada",
+      "reviravolta e cobrando dos autores, com uma impaciência que qualquer escritor invejaria, a",
+      "continuação da trama. Em vídeos curtos, jovens leitores recomendam títulos, emocionam-se",
+      "diante da câmera ao narrar um desfecho<sup>1</sup> e transformam lançamentos em pequenos",
+      "acontecimentos.",
+      "Nada disso, contudo, autoriza um otimismo ingênuo<sup>2</sup>. A mesma tela que aproxima o leitor de",
+      "uma história também o disputa a cada segundo. Notificações, vídeos que se sucedem sem fim e",
+      "jogos desenhados para prender a atenção competem com a página, e a leitura longa, aquela que",
+      "exige silêncio e continuidade, é a primeira a perder essa disputa. Ler um capítulo aos",
+      "pedaços, entre um alerta e outro, não é o mesmo que mergulhar num livro por horas a fio. O",
+      "problema, portanto, não é a ausência de leitura, mas a dificuldade de sustentá-la.",
+      "É aí que entram as bibliotecas e os clubes de leitura, espaços que muitos já consideravam",
+      "ultrapassados. Numa biblioteca, o celular não é proibido, mas perde o protagonismo<sup>3</sup>: o",
+      "próprio ambiente convida ao foco. Nos clubes, a leitura deixa de ser uma atividade solitária",
+      "e vira conversa, e é justamente a vontade de discutir um livro com os amigos que leva muitos",
+      "adolescentes a terminá-lo. Não por acaso, vários desses grupos nasceram na internet e hoje",
+      "também se encontram em praças, escolas e salas de leitura.",
+      "Em vez de lamentar o fim de uma geração de leitores, os adultos fariam melhor se",
+      "reconhecessem as leituras que os jovens já praticam e as usassem como ponte. Quem devora",
+      "fanfics de fantasia pode chegar aos clássicos do gênero; quem se emociona com um romance",
+      "recomendado em vídeo pode descobrir os autores que o inspiraram. Desprezar essas leituras é",
+      "fechar a porta justamente por onde o leitor quer entrar. A escola e a família não precisam",
+      "escolher entre o papel e a tela: precisam ensinar a ler com profundidade em qualquer um",
+      "deles. Afinal, o que forma um leitor não é o suporte em que ele lê, mas o hábito de voltar,",
+      "dia após dia, às histórias que o esperam."
+    ],
+    "para_starts": [
+      1,
+      6,
+      14,
+      20,
+      26
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "desfecho",
+        "def": "final, conclusão de uma história"
+      },
+      {
+        "term": "ingênuo",
+        "def": "que acredita facilmente, sem senso crítico"
+      },
+      {
+        "term": "protagonismo",
+        "def": "papel principal, posição de destaque"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Leitora do ônibus das seis",
+    "subtitle": null,
+    "author": null,
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "No ônibus lotado das seis,",
+      "entre mochilas e cotovelos,",
+      "uma menina lê no celular",
+      "a história que alguém escreveu",
+      "para um herói que nem era seu.",
+      "O senhor ao lado dobra o jornal",
+      "e espia, torto, a tela acesa.",
+      "“Essa aí não larga o aparelho”,",
+      "pensa, e volta às notícias de ontem.",
+      "Mal sabe ele que a menina",
+      "atravessa agora um mar de dragões,",
+      "que a luz pequena em suas mãos",
+      "é farol, é janela, é estrada,",
+      "e que ela vai perder o ponto",
+      "só para chegar ao fim do capítulo.",
+      "Amanhã, na biblioteca da escola,",
+      "ela vai pedir o livro de papel",
+      "de onde aquele herói fugiu.",
+      "E o senhor, se olhar com calma,",
+      "verá que a leitura não tem idade:",
+      "tem apenas fome de começo."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      5,
+      9,
+      15
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": null,
+    "subtitle": null,
+    "author": null,
+    "kind": "outro",
+    "numbering": "none",
+    "lines": [
+      "<i>[Cartaz de campanha. No alto, a ilustração de um celular aberto ao meio, como se fosse um livro; das duas metades da tela saem pássaros de papel que voam em direção às frases abaixo.]</i>",
+      "<b>TEM HISTÓRIA QUE CABE NA TELA.</b>",
+      "<b>E TEM HISTÓRIA QUE PEDE UMA TARDE INTEIRA.</b>",
+      "Clube de Leitura Jovem da Biblioteca Pública Municipal",
+      "Encontros aos sábados, às 15h. Traga o livro, a fanfic ou o conto que você está lendo e venha contar pra gente.",
+      "Entrada gratuita. Tem wi-fi, mas aqui a conversa é olho no olho.",
+      "<b>Biblioteca: a sua próxima história começa aqui.</b>"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

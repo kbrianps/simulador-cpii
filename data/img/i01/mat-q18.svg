@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="106 6 330 395" width="330" height="395">
+<rect x="106" y="6" width="330" height="395" fill="#fff"/>
+<polygon points="250.0,128.0 320.0,128.0 320.0,58.0 250.0,58.0" fill="#cfe3f7" stroke="#222" stroke-width="2.5"/><polygon points="250.0,128.0 250.0,58.0 189.4,23.0 128.8,58.0 128.8,128.0 189.4,163.0" fill="#f7e3b5" stroke="#222" stroke-width="2.5"/><polygon points="250.0,128.0 189.4,163.0 154.4,223.6 154.4,293.6 189.4,354.2 250.0,389.2 320.0,389.2 380.6,354.2 415.6,293.6 415.6,223.6 380.6,163.0 320.0,128.0" fill="#d8eed2" stroke="#222" stroke-width="2.5"/>
+<text x="285" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">quadrado</text>
+<text x="189" y="98" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">hexágono</text>
+<text x="285" y="255" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">polígono</text>
+<text x="285" y="273" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">desconhecido</text>
+<circle cx="250" cy="128" r="4" fill="#c00"/>
+<text x="258" y="148" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c00">V</text>
+</svg>

@@ -7,7 +7,8 @@ function textHTML(exam, t) {
   const paras = new Set(t.para_starts || []);
   const stanzas = new Set(t.stanza_breaks || []);
   // "none": the exam printed no numbers, but questions still cite lines, so show faint ones every 5.
-  const numOf = (n) => (t.numbering === "all" || n % 5 === 0 ? String(n).padStart(2, "0") : "");
+  const faintOk = t.numbering !== "none" || ((t.lines || []).length >= 10 && t.kind !== "outro"); // posters need no numbers
+  const numOf = (n) => (!faintOk ? "" : t.numbering === "all" || n % 5 === 0 ? String(n).padStart(2, "0") : "");
   const faint = t.numbering === "none" ? " faint" : "";
   const lines = (t.lines || [])
     .map((ln, i) => {
@@ -31,7 +32,9 @@ function textHTML(exam, t) {
         .map((g) => `<li><b>${String(g.term).replace(/[:\s]+$/, "")}</b>: ${String(g.def).replace(/[;\s]+$/, "")}</li>`)
         .join("")}</${tag}></div>`
     : "";
-  return `<section class="text-block" data-text="${esc(t.id)}" data-exam="${esc(exam.id)}">
+  // Unnumbered texts (posters, captions) wrap freely instead of shrinking to fit.
+  const free = t.numbering === "none" && !faintOk ? " data-free" : "";
+  return `<section class="text-block" data-text="${esc(t.id)}" data-exam="${esc(exam.id)}"${free}>
     <div class="text-label">${esc(t.label || t.id)}</div>
     ${t.epigraph ? `<p class="text-epi">${t.epigraph}</p>` : ""}
     ${t.title ? `<div class="text-title">${t.title}</div>` : ""}
@@ -64,13 +67,13 @@ let _fitCtx = null;
 function fitLines(root = document) {
   if (!_fitCtx) _fitCtx = document.createElement("canvas").getContext("2d");
   root.querySelectorAll(".lines").forEach((box) => {
-    if (!box.offsetParent) return;
+    if (!box.offsetParent || box.closest(".text-block[data-free]")) return;
     box.style.fontSize = "";
     const cs = getComputedStyle(box);
     const size = parseFloat(cs.fontSize);
     const firstT = box.querySelector(".ln .t");
     if (!firstT) return;
-    const avail = firstT.getBoundingClientRect().width - 2;
+    const avail = (firstT.getBoundingClientRect().width - 2) * 0.97; // canvas metrics run slightly narrow
     _fitCtx.font = `${size}px ${cs.fontFamily}`;
     let longest = 0;
     box.querySelectorAll(".ln").forEach((ln) => {
@@ -255,7 +258,8 @@ function enhanceContent(root) {
   });
   root.querySelectorAll(".qstem img, .opt img, .expl img, .reader img, .text-block img").forEach((img) => {
     img.classList.add("zoomable");
-    if (img.closest(".reader, .text-block")) return;
+    // SVG figures are drawn at their intended size; only the ~200 dpi raster crops get scaled.
+    if (img.closest(".reader, .text-block") || img.src.startsWith("data:image/svg")) return;
     // Crops were made at about 200 dpi: show them near print size, never tiny, never wider than the column.
     const size = () => {
       if (!img.naturalWidth) return;
@@ -332,7 +336,7 @@ function questionHeadHTML(q, extra = "") {
   const topics = q.topics.map((t, i) => `<span class="chip ${i === 0 ? "chip-pen" : ""}">${esc(TOPIC_LABEL[t] || t)}</span>`).join("");
   return `<div class="qhead"><span class="qnum">Questão ${q.n}</span>
     <span class="chip">${esc(e.title)}</span><span class="chip">${SUBJ_LABEL[q.subject]}</span>${topics}${diffDots(q.difficulty)}
-    ${q.annulled ? `<span class="chip chip-warn">${q.answer_source === "resolvido" ? "desconsiderada" : "anulada"}</span>` : ""}${q.answer_source === "resolvido" ? `<span class="chip chip-warn" title="Sem gabarito oficial publicado">gabarito resolvido</span>` : ""}${e.answer_key_kind === "preliminar" ? `<span class="chip chip-warn" title="Só o gabarito preliminar desta prova foi publicado on-line">gabarito preliminar</span>` : ""}${extra}</div>`;
+    ${q.annulled ? `<span class="chip chip-warn">${q.answer_source === "resolvido" ? "desconsiderada" : "anulada"}</span>` : ""}${q.answer_source === "resolvido" ? `<span class="chip chip-warn" title="Sem gabarito oficial publicado">gabarito resolvido</span>` : ""}${e.inedita ? `<span class="chip chip-pen" title="Questão criada para o simulador no estilo do CPII">inédita</span>` : ""}${e.answer_key_kind === "preliminar" ? `<span class="chip chip-warn" title="Só o gabarito preliminar desta prova foi publicado on-line">gabarito preliminar</span>` : ""}${extra}</div>`;
 }
 
 function explanationHTML(q, chosen) {

@@ -1,6 +1,7 @@
 // Simulado: timed exam with booklet, answer sheet and essay sheet. Corrected only on delivery.
 
 const OFFICIAL = () => EXAMS.filter((e) => e.official);
+const FULL_EXAMS = () => EXAMS.filter((e) => (e.official || e.inedita) && e.questions.length === 20);
 const TIME_OPTIONS = [
   { v: 180, label: "3 horas (tempo da prova)" },
   { v: 150, label: "2 h 30 min" },
@@ -32,13 +33,13 @@ function buildFullSim(examId) {
   return { kind: "full", title: e.title, ptExam: e.id, qids: e.questions.map((q) => q.id), essayFrom: e.redacao ? { examId: e.id } : null };
 }
 function buildMixedSim({ weak, fresh }) {
-  const exams = OFFICIAL().filter((e) => e.questions.some((q) => q.subject === "portugues"));
+  const exams = FULL_EXAMS().filter((e) => e.questions.some((q) => q.subject === "portugues"));
   const donePt = (e) => e.questions.filter((q) => q.subject === "portugues").some((q) => lastAttempt(q.id));
   const pool = fresh && exams.some((e) => !donePt(e)) ? exams.filter((e) => !donePt(e)) : exams;
   const ptExam = pool[Math.floor(Math.random() * pool.length)];
   const pt = ptExam.questions.filter((q) => q.subject === "portugues").map((q) => q.id);
   // Only official exams: the CP2 Digital sets were adapted and have no official key.
-  let mat = ALL_Q.filter((q) => q.subject === "matematica" && !q.annulled && EXAM[q.examId].official);
+  let mat = ALL_Q.filter((q) => q.subject === "matematica" && !q.annulled && (EXAM[q.examId].official || EXAM[q.examId].inedita));
   if (fresh) {
     const unseen = mat.filter((q) => !lastAttempt(q.id));
     if (unseen.length >= 10) mat = unseen;
@@ -106,8 +107,8 @@ function viewSimSetup() {
     <section class="sheet">
       <h2>1. Escolha a prova</h2>
       <div class="choice-list">
-        <label class="choice"><input type="radio" name="kind" value="full" checked><span><b>Uma prova completa de um ano</b><br><span class="muted">As 20 questões e a redação exatamente como caíram.</span>
-          <select id="exam-pick" style="margin-top:8px;display:block" aria-describedby="exam-notes">${OFFICIAL().map((e) => `<option value="${e.id}">${esc(e.title)}${lastByExam[e.id] ? ` (feita em ${fmt.date(lastByExam[e.id].finishedAt)}: ${lastByExam[e.id].score.obj}/20)` : ""}</option>`).join("")}</select></span></label>
+        <label class="choice"><input type="radio" name="kind" value="full" checked><span><b>Uma prova completa</b><br><span class="muted">As 20 questões e a redação de uma prova anterior do CPII, exatamente como caíram, ou de uma prova inédita, com questões novas no mesmo formato.</span>
+          <select id="exam-pick" style="margin-top:8px;display:block" aria-describedby="exam-notes">${[["Provas anteriores do CPII", OFFICIAL()], ["Provas inéditas (questões novas)", FULL_EXAMS().filter((e) => e.inedita)]].filter(([, l]) => l.length).map(([g, l]) => `<optgroup label="${g}">${l.map((e) => `<option value="${e.id}">${esc(e.title)}${lastByExam[e.id] ? ` (feita em ${fmt.date(lastByExam[e.id].finishedAt)}: ${lastByExam[e.id].score.obj}/20)` : ""}</option>`).join("")}</optgroup>`).join("")}</select></span></label>
         <div id="exam-notes"></div>
         <label class="choice"><input type="radio" name="kind" value="mixed"><span><b>Simulado misto</b><br><span class="muted">Português, textos e redação de uma prova sorteada, mais 10 questões de Matemática sorteadas entre todas as provas.</span>
           <span class="stack" style="display:block;margin-top:8px"><label class="chk"><input type="checkbox" id="mx-fresh" checked> Evitar questões que já resolvi</label><br><label class="chk"><input type="checkbox" id="mx-weak"> Puxar mais questões dos meus assuntos fracos</label></span></span></label>

@@ -1,0 +1,270 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No início do ano, uma escola com 800 estudantes fez uma pesquisa e constatou que 40% deles praticavam algum esporte. Depois de um projeto de incentivo, a pesquisa foi repetida com os mesmos 800 estudantes, e o resultado passou a ser 50%.</p><p>No mural, o grêmio escreveu: <b>“A prática de esportes na escola aumentou 10%!”</b>. Na verdade, o número de estudantes que praticam esporte aumentou</p>",
+    "options": {
+      "A": "10%.",
+      "B": "25%.",
+      "C": "50%.",
+      "D": "20%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Vamos contar pessoas, e não só comparar as porcentagens.</p><ul><li>Antes: 40% de 800 = \\(0{,}40 \\cdot 800 = 320\\) estudantes.</li><li>Depois: 50% de 800 = \\(0{,}50 \\cdot 800 = 400\\) estudantes.</li></ul><p>O aumento foi de \\(400 - 320 = 80\\) estudantes. Em relação ao valor inicial:</p><p>\\[\\dfrac{80}{320} = \\dfrac{1}{4} = 0{,}25 = 25\\%\\]</p><p>Sem usar o 800: \\(\\dfrac{50 - 40}{40} = \\dfrac{10}{40} = 25\\%\\).</p><p>A taxa passou de 40% para 50%, um aumento de 10 <b>pontos percentuais</b>, mas o número de praticantes cresceu 25%. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a diferença \\(50 - 40 = 10\\), que mede o aumento em pontos percentuais. O aumento percentual compara essa diferença com o valor inicial: \\(10 \\div 40 = 25\\%\\).",
+      "C": "50% é a nova taxa de praticantes, e não o aumento. Ela diz quantos estudantes praticam esporte agora, não quanto esse número cresceu.",
+      "D": "Dividiu o aumento pelo valor final, e não pelo inicial: \\(10 \\div 50 = 20\\%\\) (ou \\(80 \\div 400\\)). O aumento percentual se calcula sobre o valor de antes."
+    },
+    "tip": "Diferença entre duas porcentagens é medida em pontos percentuais; para o aumento percentual, divida essa diferença pelo valor inicial."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A parede lateral de uma casa tem uma parte retangular e, em cima dela, uma parte triangular formada pelo telhado de duas águas. A parte triangular é um triângulo isósceles com base de 8 m e os outros dois lados medindo 5 m cada um. A parte retangular tem 8 m de largura e 3,5 m de altura, como mostra a figura.</p><p><img src=\"img/i04/mat-q12.svg\" alt=\"Parede lateral de uma casa vista de frente. Embaixo, um retângulo de 8 m de largura e 3,5 m de altura, chamado parte retangular. Em cima dele, apoiado em toda a largura, um triângulo isósceles chamado parte triangular, com base de 8 m e os dois lados inclinados medindo 5 m cada um. A altura do triângulo não está indicada.\"></p><p>Essa parede, que não tem portas nem janelas, será pintada por inteiro. A área total a ser pintada é</p>",
+    "options": {
+      "A": "48 m².",
+      "B": "52 m².",
+      "C": "12 m².",
+      "D": "40 m²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Parte retangular:</b> \\(8 \\cdot 3{,}5 = 28\\) m².</p><p><b>Parte triangular:</b> falta a altura. No triângulo isósceles, a altura relativa à base cai no ponto médio da base e divide o triângulo em dois triângulos retângulos, cada um com hipotenusa 5 m e cateto \\(8 \\div 2 = 4\\) m. Pelo Teorema de Pitágoras:</p><p>\\[h^2 + 4^2 = 5^2 \\Rightarrow h^2 = 25 - 16 = 9 \\Rightarrow h = 3 \\text{ m}\\]</p><p>Área do triângulo: \\(\\dfrac{8 \\cdot 3}{2} = 12\\) m².</p><p>Área total: \\(28 + 12 = 40\\) m². Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou o lado inclinado de 5 m como se fosse a altura do triângulo: \\(\\dfrac{8 \\cdot 5}{2} = 20\\) e \\(28 + 20 = 48\\). A altura é perpendicular à base e mede 3 m, obtida por Pitágoras.",
+      "B": "Achou a altura certa (3 m), mas esqueceu de dividir por 2 a área do triângulo: \\(8 \\cdot 3 = 24\\) e \\(28 + 24 = 52\\).",
+      "C": "12 m² é só a área da parte triangular. A parede inteira inclui também a parte retangular de 28 m²."
+    },
+    "tip": "Em triângulo isósceles, a altura relativa à base divide a base ao meio: use Pitágoras com metade da base e o lado igual."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Seu Jorge vai cercar uma horta retangular de 10 m por 6 m com 4 fios de arame farpado, esticados um acima do outro em todo o contorno. Em um dos lados de 10 m, ele vai deixar um portão de 1,5 m de largura, onde não haverá arame.</p><p>O arame é vendido apenas em rolos fechados de 25 m. Desconsiderando as sobras usadas nas amarrações, o menor número de rolos que Seu Jorge precisa comprar é</p>",
+    "options": {
+      "A": "5.",
+      "B": "6.",
+      "C": "4.",
+      "D": "2."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Perímetro da horta:</b> \\(2 \\cdot (10 + 6) = 32\\) m.</p><p><b>Contorno com arame:</b> descontando o portão, \\(32 - 1{,}5 = 30{,}5\\) m.</p><p><b>Arame necessário:</b> são 4 fios em todo esse contorno: \\(4 \\cdot 30{,}5 = 122\\) m.</p><p><b>Rolos:</b> \\(122 \\div 25 = 4{,}88\\). Quatro rolos dão só 100 m, que não bastam; é preciso comprar 5 rolos (125 m), e sobram 3 m.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não descontou o portão: \\(4 \\cdot 32 = 128\\) m e \\(128 \\div 25 = 5{,}12\\), o que leva a 6 rolos. No portão não vai arame, e com esse desconto 5 rolos bastam.",
+      "C": "Calculou \\(122 \\div 25 = 4{,}88\\) e arredondou para baixo. Com 4 rolos há apenas 100 m de arame, e faltariam 22 m.",
+      "D": "Considerou um único fio: \\(30{,}5 \\div 25 = 1{,}22\\), arredondado para 2 rolos. A cerca tem 4 fios, então o contorno é percorrido 4 vezes."
+    },
+    "tip": "Cerca é perímetro: desconte o portão, multiplique pelo número de fios e arredonde o número de rolos sempre para cima."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dona Rosa vai montar, na parede do quintal, um painel <b>quadrado</b> de azulejos, com o mesmo número de fileiras e de azulejos em cada fileira. Os azulejos são quadrados, todos iguais, e vendidos apenas em caixas fechadas com 180 azulejos cada.</p><p>Ela quer usar todos os azulejos que comprar, sem cortar nenhum e sem sobrar nenhum, para formar o painel completo. O menor número de caixas que Dona Rosa deve comprar é</p>",
+    "options": {
+      "A": "20.",
+      "B": "4.",
+      "C": "5.",
+      "D": "10."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Em um painel quadrado com \\(n\\) fileiras de \\(n\\) azulejos, o total de azulejos é \\(n^2\\), um quadrado perfeito. Com \\(k\\) caixas, o total é \\(180k\\); precisamos do menor \\(k\\) que torne \\(180k\\) um quadrado perfeito.</p><p>Decompondo em fatores primos: \\(180 = 2^2 \\cdot 3^2 \\cdot 5\\).</p><p>Num quadrado perfeito, todos os expoentes são pares. Os fatores 2 e 3 já têm expoente 2; falta um fator 5. Então \\(k = 5\\):</p><p>\\[180 \\cdot 5 = 900 = 2^2 \\cdot 3^2 \\cdot 5^2 = 30^2\\]</p><p>Com 5 caixas, Dona Rosa monta um painel de 30 fileiras com 30 azulejos cada. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Com 20 caixas também se forma um quadrado (\\(3.600 = 60^2\\)), mas não é o menor número de caixas: 5 caixas já bastam.",
+      "B": "Escolheu 4 por ser um quadrado perfeito, mas o que precisa ser quadrado é o total de azulejos: \\(180 \\cdot 4 = 720\\), que não é quadrado perfeito (\\(26^2 = 676\\) e \\(27^2 = 729\\)).",
+      "D": "Achou que um total “redondo” como \\(180 \\cdot 10 = 1.800\\) serviria, mas \\(1.800 = 2^3 \\cdot 3^2 \\cdot 5^2\\) tem o fator 2 com expoente ímpar e não é quadrado perfeito."
+    },
+    "tip": "Para completar um quadrado perfeito, decomponha em primos e multiplique pelos fatores que ainda têm expoente ímpar."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma aula de Ciências, uma bola foi lançada verticalmente para cima, a partir do chão. A altura \\(h\\) da bola, em metros, \\(t\\) segundos após o lançamento, é dada por</p><p>\\[h = 20t - 5t^2\\]</p><p>Durante o movimento, a bola passa duas vezes pela altura de 15 m: uma vez subindo e outra vez descendo. O tempo decorrido entre essas duas passagens é</p>",
+    "options": {
+      "A": "1 s.",
+      "B": "2 s.",
+      "C": "3 s.",
+      "D": "4 s."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.inequacoes_funcoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Os instantes em que a bola está a 15 m são as soluções de</p><p>\\[20t - 5t^2 = 15\\]</p><p>Passando tudo para um lado e dividindo por 5: \\(5t^2 - 20t + 15 = 0 \\Rightarrow t^2 - 4t + 3 = 0\\).</p><p>Por Bhaskara: \\(\\Delta = 16 - 12 = 4\\), então \\(t = \\dfrac{4 \\pm 2}{2}\\), ou seja, \\(t = 1\\) ou \\(t = 3\\). (Também dá para pensar em dois números com soma 4 e produto 3: 1 e 3.)</p><p>A bola passa por 15 m subindo em \\(t = 1\\) s e descendo em \\(t = 3\\) s. O tempo entre as duas passagens é \\(3 - 1 = 2\\) s.</p><p>Conferindo: \\(h(1) = 20 - 5 = 15\\) e \\(h(3) = 60 - 45 = 15\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "1 s é o instante em que a bola passa por 15 m subindo, e não o tempo entre as duas passagens.",
+      "C": "3 s é o instante em que a bola passa por 15 m descendo. A pergunta pede o intervalo entre as passagens: \\(3 - 1 = 2\\) s.",
+      "D": "4 s é quando a bola volta ao chão (\\(20t - 5t^2 = 0\\) dá \\(t = 0\\) ou \\(t = 4\\)). Resolveu \\(h = 0\\) em vez de \\(h = 15\\)."
+    },
+    "tip": "Quando uma grandeza atinge o mesmo valor duas vezes, as duas raízes da equação são os dois instantes; leia com cuidado o que a pergunta pede sobre elas."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O mapa de um bairro foi desenhado sobre um plano cartesiano. A padaria fica no ponto \\(P(-2, 1)\\), e a quadra de esportes, no ponto \\(Q(4, 9)\\), como mostra a figura.</p><p><img src=\"img/i04/mat-q16.svg\" alt=\"Plano cartesiano quadriculado com eixo x de −3 a 6 e eixo y de 0 a 10. O ponto P, a padaria, está em (−2, 1). O ponto Q, a quadra, está em (4, 9). Um segmento tracejado liga P a Q.\"></p><p>A prefeitura vai instalar um bebedouro sobre o segmento \\(PQ\\), exatamente no ponto que fica à mesma distância da padaria e da quadra. As coordenadas desse ponto são</p>",
+    "options": {
+      "A": "\\((1, 5)\\)",
+      "B": "\\((3, 4)\\)",
+      "C": "\\((2, 10)\\)",
+      "D": "\\((6, 8)\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.cartesiano"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O ponto do segmento que fica à mesma distância das duas pontas é o <b>ponto médio</b>. Cada coordenada dele é a média das coordenadas correspondentes de \\(P\\) e \\(Q\\):</p><p>\\[x_M = \\dfrac{-2 + 4}{2} = \\dfrac{2}{2} = 1 \\qquad y_M = \\dfrac{1 + 9}{2} = \\dfrac{10}{2} = 5\\]</p><p>Outro jeito: de \\(P\\) até \\(Q\\) andamos 6 unidades para a direita e 8 para cima. Metade do caminho é 3 para a direita e 4 para cima, partindo de \\(P\\): \\((-2 + 3, 1 + 4) = (1, 5)\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "\\((3, 4)\\) é metade do deslocamento de \\(P\\) até \\(Q\\) (6 e 8 divididos por 2). Faltou somar esse meio deslocamento às coordenadas de \\(P\\).",
+      "C": "Somou as coordenadas, \\((-2 + 4, 1 + 9) = (2, 10)\\), mas esqueceu de dividir por 2.",
+      "D": "\\((6, 8)\\) é o deslocamento total de \\(P\\) até \\(Q\\) (\\(4 - (-2) = 6\\) e \\(9 - 1 = 8\\)), e não um ponto do segmento."
+    },
+    "tip": "Ponto médio: faça a média das abscissas e a média das ordenadas das duas extremidades."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma família foi de carro de sua cidade até uma praia que fica a 120 km de distância. Na ida, com a estrada livre, a velocidade média foi de 60 km/h. Na volta, pelo mesmo caminho, havia trânsito, e a velocidade média foi de 40 km/h.</p><p>Considerando a viagem completa, de ida e volta, a velocidade média do carro foi de</p>",
+    "options": {
+      "A": "50 km/h.",
+      "B": "100 km/h.",
+      "C": "24 km/h.",
+      "D": "48 km/h."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Velocidade média é a distância total dividida pelo tempo total.</p><ul><li>Ida: \\(120 \\div 60 = 2\\) h.</li><li>Volta: \\(120 \\div 40 = 3\\) h.</li></ul><p>Distância total: \\(120 + 120 = 240\\) km. Tempo total: \\(2 + 3 = 5\\) h.</p><p>\\[v_m = \\dfrac{240}{5} = 48 \\text{ km/h}\\]</p><p>O resultado é menor que 50 km/h porque o carro passou mais tempo (3 h) na velocidade menor do que na maior (2 h). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Fez a média simples das velocidades, \\((60 + 40) \\div 2 = 50\\). Isso só valeria se o carro andasse o mesmo <b>tempo</b> em cada velocidade; aqui ele andou a mesma distância e ficou mais tempo a 40 km/h.",
+      "B": "Somou as duas velocidades, \\(60 + 40 = 100\\), em vez de calcular distância total sobre tempo total.",
+      "C": "Dividiu só a distância da ida pelo tempo total: \\(120 \\div 5 = 24\\). Nas 5 horas o carro percorreu 240 km."
+    },
+    "tip": "Velocidade média é sempre distância total dividida pelo tempo total, e não a média das velocidades."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A estrutura metálica da fachada de um galpão foi desenhada como o triângulo ABC da figura, com \\(AB = AC\\) e ângulo \\(B\\hat{A}C = 40^\\circ\\). Para reforçar a estrutura, o engenheiro instalou uma barra BD, ligando o vértice B a um ponto D do lado AC, de modo que a barra BD tenha o mesmo comprimento da base BC.</p><p><img src=\"img/i04/mat-q18.svg\" alt=\"Triângulo ABC com o vértice A no alto e a base BC horizontal embaixo, B à esquerda e C à direita. O ângulo no vértice A está marcado com 40 graus. Os lados AB e AC têm um tracinho cada, indicando que são iguais. Um segmento liga B a um ponto D sobre o lado AC, mais perto de C do que de A. Os segmentos BD e BC têm dois tracinhos cada, indicando que são iguais.\"></p><p>A medida do ângulo \\(A\\hat{B}D\\), formado entre a barra BD e o lado AB, é</p>",
+    "options": {
+      "A": "40°",
+      "B": "70°",
+      "C": "30°",
+      "D": "35°"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.triangulos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo: triângulo ABC.</b> Como \\(AB = AC\\), ele é isósceles de base BC, e os ângulos da base são iguais. A soma dos ângulos internos é 180°:</p><p>\\[\\hat{B} = \\hat{C} = \\dfrac{180^\\circ - 40^\\circ}{2} = 70^\\circ\\]</p><p><b>2º passo: triângulo BCD.</b> Como \\(BD = BC\\), ele também é isósceles, agora com lados iguais saindo de B. Os ângulos opostos a esses lados são iguais: \\(B\\hat{D}C = B\\hat{C}D = 70^\\circ\\). Assim,</p><p>\\[D\\hat{B}C = 180^\\circ - 70^\\circ - 70^\\circ = 40^\\circ\\]</p><p><b>3º passo:</b> o ângulo \\(A\\hat{B}C = 70^\\circ\\) é dividido pela barra em duas partes, \\(A\\hat{B}D\\) e \\(D\\hat{B}C\\):</p><p>\\[A\\hat{B}D = 70^\\circ - 40^\\circ = 30^\\circ\\]</p><p>Conferindo no triângulo ABD: \\(40^\\circ + 30^\\circ + 110^\\circ = 180^\\circ\\), pois \\(A\\hat{D}B = 180^\\circ - 70^\\circ = 110^\\circ\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "40° é o ângulo \\(D\\hat{B}C\\), a outra parte do ângulo B. Falta subtraí-lo de \\(A\\hat{B}C = 70^\\circ\\).",
+      "B": "70° é o ângulo \\(A\\hat{B}C\\) inteiro (ou o ângulo \\(B\\hat{D}C\\)), e não só a parte entre AB e a barra BD.",
+      "D": "Supõe que BD é bissetriz e divide o ângulo de 70° ao meio. Nada no enunciado diz isso; a informação dada é \\(BD = BC\\)."
+    },
+    "tip": "Em figuras com vários triângulos isósceles, marque os lados iguais e vá de um triângulo ao outro usando ângulos da base iguais e soma 180°."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para encher uma piscina infantil, que estava vazia, Tiago abriu duas mangueiras ao mesmo tempo. Sozinha, a mangueira A enche essa piscina em 4 horas; sozinha, a mangueira B enche a mesma piscina em 6 horas.</p><p>Tiago não percebeu que o ralo do fundo estava aberto. Com as mangueiras fechadas, esse ralo esvaziaria a piscina cheia em 12 horas.</p><p>Mantendo as duas mangueiras e o ralo abertos, com vazões constantes, a piscina ficará cheia em</p>",
+    "options": {
+      "A": "3 horas.",
+      "B": "2 horas e 24 minutos.",
+      "C": "20 minutos.",
+      "D": "2 horas."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Pense em que <b>fração da piscina</b> cada um faz em 1 hora:</p><ul><li>mangueira A: \\(\\dfrac{1}{4}\\) da piscina por hora (enche);</li><li>mangueira B: \\(\\dfrac{1}{6}\\) da piscina por hora (enche);</li><li>ralo: \\(\\dfrac{1}{12}\\) da piscina por hora (esvazia, então entra com sinal de menos).</li></ul><p>Juntos, em 1 hora:</p><p>\\[\\dfrac{1}{4} + \\dfrac{1}{6} - \\dfrac{1}{12} = \\dfrac{3}{12} + \\dfrac{2}{12} - \\dfrac{1}{12} = \\dfrac{4}{12} = \\dfrac{1}{3}\\]</p><p>A cada hora, a piscina ganha \\(\\dfrac{1}{3}\\) do seu volume. Para enchê-la inteira são necessárias 3 horas.</p><p>Conferindo com um volume de 12 partes: A coloca 3 partes por hora, B coloca 2 e o ralo tira 1, sobrando 4 partes por hora; \\(12 \\div 4 = 3\\) h. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu o ralo: \\(\\dfrac{1}{4} + \\dfrac{1}{6} = \\dfrac{5}{12}\\) por hora, e \\(12 \\div 5 = 2{,}4\\) h, ou 2 h 24 min. O ralo aberto faz a piscina demorar mais.",
+      "C": "Chegou a \\(\\dfrac{1}{3}\\), mas leu essa fração como \\(\\dfrac{1}{3}\\) de hora (20 minutos). Na verdade, \\(\\dfrac{1}{3}\\) é a parte da piscina que se enche em 1 hora; o tempo é o inverso, 3 horas.",
+      "D": "Somou a vazão do ralo em vez de subtrair: \\(\\dfrac{1}{4} + \\dfrac{1}{6} + \\dfrac{1}{12} = \\dfrac{6}{12} = \\dfrac{1}{2}\\) por hora, o que daria 2 horas. O ralo tira água, então sua fração entra com sinal negativo."
+    },
+    "tip": "Em problemas de encher e esvaziar, some as frações feitas por hora (com sinal negativo para o que esvazia) e inverta o resultado para obter o tempo."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma campanha de economia de água alerta que uma torneira mal fechada pode desperdiçar muita água. Em uma casa, uma torneira pinga 1 gota a cada 2 segundos, sem parar, dia e noite. Considere que 20 gotas equivalem a 1 mL.</p><p>Se ninguém consertar a torneira, em 30 dias o desperdício será de</p>",
+    "options": {
+      "A": "2,16 L",
+      "B": "32,4 L",
+      "C": "129,6 L",
+      "D": "64,8 L"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.unidades",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Tempo em segundos:</b> um dia tem \\(24 \\cdot 60 \\cdot 60 = 86.400\\) s. Em 30 dias: \\(30 \\cdot 86.400 = 2.592.000\\) s.</p><p><b>Gotas:</b> 1 gota a cada 2 s dá \\(2.592.000 \\div 2 = 1.296.000\\) gotas.</p><p><b>Volume:</b> 20 gotas formam 1 mL, então são \\(1.296.000 \\div 20 = 64.800\\) mL.</p><p><b>Litros:</b> 1 L = 1.000 mL, então \\(64.800 \\div 1.000 = 64{,}8\\) L. Resposta: <b>D</b>.</p><p>Um atalho: em um dia caem \\(86.400 \\div 2 = 43.200\\) gotas, que são \\(43.200 \\div 20 = 2.160\\) mL \\(= 2{,}16\\) L por dia; em 30 dias, \\(30 \\cdot 2{,}16 = 64{,}8\\) L.</p>",
+    "distractors": {
+      "A": "2,16 L é o desperdício de um único dia. Faltou multiplicar por 30 dias.",
+      "B": "Sai de contar só 12 horas por dia (ou de dividir por 2 duas vezes). O enunciado diz que a torneira pinga sem parar, dia e noite: são 24 horas por dia.",
+      "C": "Considera 1 gota por segundo, esquecendo que cai 1 gota a cada 2 segundos. O número de gotas é a metade do número de segundos."
+    },
+    "tip": "Em conversões longas, faça uma etapa por vez (s, gotas, mL, L) e confira a ordem de grandeza com um valor por dia."
+  }
+]

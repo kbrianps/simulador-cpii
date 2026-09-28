@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" width="440" height="320" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect x="0" y="0" width="440" height="320" fill="#ffffff"/>
+  <polygon points="40,280 400,280 184,40" fill="#f3e3c8" stroke="#222" stroke-width="2.5"/>
+  <rect x="126.4" y="136" width="144" height="144" fill="#b7d3ee" stroke="#1f4e79" stroke-width="2.5"/>
+  <line x1="184" y1="40" x2="184" y2="280" stroke="#444" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <polyline points="184,266 198,266 198,280" fill="none" stroke="#444" stroke-width="1.2"/>
+  <text x="191" y="124" text-anchor="start">40 cm</text>
+  <text x="220" y="30" text-anchor="middle">tábua</text>
+  <text x="227" y="214" text-anchor="middle" fill="#1f4e79">quadrado</text>
+  <text x="220" y="304" text-anchor="middle">60 cm</text>
+</svg>

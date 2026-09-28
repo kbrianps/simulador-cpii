@@ -1,0 +1,268 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O celular de Júlia tem 64 GB de memória. Na semana passada, o aparelho avisou que 75% dessa memória já estava ocupada. Para liberar espaço, Júlia apagou vídeos antigos que ocupavam, juntos, 8 GB.</p><p>Depois disso, a porcentagem da memória do celular que continua ocupada é</p>",
+    "options": {
+      "A": "62,5%.",
+      "B": "67%.",
+      "C": "37,5%.",
+      "D": "12,5%."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Memória ocupada antes:</b> 75% de 64 GB é \\(0{,}75 \\cdot 64 = 48\\) GB.</p><p><b>Memória ocupada depois:</b> Júlia apagou 8 GB, então restam \\(48 - 8 = 40\\) GB ocupados.</p><p><b>Porcentagem:</b> em relação ao total de 64 GB,</p><p>\\[\\frac{40}{64} = \\frac{5}{8} = 0{,}625 = 62{,}5\\%\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Subtraiu 8 da porcentagem, como se 8 GB fossem 8% da memória: \\(75\\% - 8\\% = 67\\%\\). Mas 8 GB de 64 GB correspondem a 12,5%, não a 8%.",
+      "C": "Calculou a parte <b>livre</b> da memória depois da limpeza: \\(64 - 40 = 24\\) GB, e \\(\\frac{24}{64} = 37{,}5\\%\\). A pergunta é sobre a parte que continua ocupada.",
+      "D": "Calculou só a porcentagem que foi liberada: \\(\\frac{8}{64} = 12{,}5\\%\\). Esse valor ainda precisa ser descontado dos 75%: \\(75\\% - 12{,}5\\% = 62{,}5\\%\\)."
+    },
+    "tip": "Quando a porcentagem é de um total e a mudança vem em unidades (GB, reais, pessoas), converta tudo para a mesma unidade antes de subtrair."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma praça tem a forma de um retângulo ABCD, com 48 m de comprimento e 20 m de largura. Para ir do portão A até o quiosque C, as pessoas contornavam a praça pela calçada, passando pelo canto B. A prefeitura construiu então uma trilha reta, ligando diretamente A a C, como mostra o esquema.</p><p><img src=\"img/i06/mat-q12.svg\" alt=\"Retângulo ABCD que representa a praça, com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo. O lado AB, embaixo, mede 48 m e o lado BC, à direita, mede 20 m. Uma linha tracejada, chamada trilha, liga A a C pela diagonal do retângulo.\"></p><p>Usando a trilha em vez do caminho A → B → C, uma pessoa que vai do portão ao quiosque passa a caminhar</p>",
+    "options": {
+      "A": "16 m a menos.",
+      "B": "28 m a menos.",
+      "C": "52 m a menos.",
+      "D": "68 m a menos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O caminho antigo, pela calçada, é A → B → C: \\(48 + 20 = 68\\) m.</p><p>A trilha AC é a diagonal do retângulo. O triângulo ABC tem ângulo reto em B, com catetos \\(AB = 48\\) m e \\(BC = 20\\) m, e a trilha é a hipotenusa. Pelo Teorema de Pitágoras:</p><p>\\[AC^2 = 48^2 + 20^2 = 2304 + 400 = 2704\\]</p><p>\\[AC = \\sqrt{2704} = 52\\ \\text{m}\\]</p><p>(Conferindo: \\(52 \\cdot 52 = 2704\\). Outro jeito: 48, 20 e 52 são \\(4 \\cdot 12\\), \\(4 \\cdot 5\\) e \\(4 \\cdot 13\\), múltiplos do trio 5, 12, 13.)</p><p>A economia é \\(68 - 52 = 16\\) m. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É \\(48 - 20\\): subtrai os lados do retângulo, sem calcular o comprimento da trilha.",
+      "C": "É o comprimento da trilha, 52 m. A pergunta é quanto se caminha a menos, isto é, a diferença entre os dois caminhos.",
+      "D": "É o comprimento do caminho antigo (\\(48 + 20\\)), e não a diferença entre ele e a trilha."
+    },
+    "tip": "Atalho pela diagonal de um retângulo é hipotenusa: calcule-a por Pitágoras e compare com a soma dos dois lados."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A prefeitura vai vender um terreno com a forma de um trapézio retângulo, com as medidas indicadas na planta a seguir.</p><p><img src=\"img/i06/mat-q13.svg\" alt=\"Planta de um terreno em forma de trapézio retângulo. O lado de cima, horizontal, mede 20 m; o lado de baixo, horizontal e paralelo ao de cima, mede 30 m. O lado esquerdo é vertical, mede 24 m e forma ângulos retos com os lados de cima e de baixo. O lado direito é inclinado e mede 26 m.\"></p><p>O preço de venda foi fixado em R$ 120,00 por metro quadrado. O valor total de venda desse terreno é</p>",
+    "options": {
+      "A": "R$ 57.600,00",
+      "B": "R$ 72.000,00",
+      "C": "R$ 78.000,00",
+      "D": "R$ 144.000,00"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O terreno é um trapézio: os lados de 20 m e 30 m são as bases (paralelas), e a altura é a distância entre elas, medida na perpendicular. Essa distância é o lado vertical, de 24 m. O lado inclinado de 26 m não é a altura.</p><p>\\[A = \\frac{(B + b) \\cdot h}{2} = \\frac{(30 + 20) \\cdot 24}{2} = \\frac{50 \\cdot 24}{2} = 600\\ \\text{m}^2\\]</p><p>Conferindo de outro jeito: o terreno é um retângulo de \\(20 \\times 24 = 480\\) m² mais um triângulo retângulo de catetos \\(30 - 20 = 10\\) m e 24 m, com área \\(\\frac{10 \\cdot 24}{2} = 120\\) m². Total: \\(480 + 120 = 600\\) m².</p><p>Valor: \\(600 \\cdot 120 = 72.000\\), ou seja, R$ 72.000,00. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calculou só o retângulo de \\(20 \\times 24 = 480\\) m², esquecendo a parte triangular do terreno: \\(480 \\cdot 120 = 57.600\\).",
+      "C": "Usou o lado inclinado (26 m) como altura: \\(\\frac{50 \\cdot 26}{2} = 650\\) m² e \\(650 \\cdot 120 = 78.000\\). A altura do trapézio é a distância perpendicular entre as bases, que é o lado vertical de 24 m.",
+      "D": "Esqueceu de dividir por 2 na fórmula do trapézio: \\(50 \\cdot 24 = 1.200\\) m² e \\(1.200 \\cdot 120 = 144.000\\)."
+    },
+    "tip": "Na área do trapézio, a altura é sempre a distância perpendicular entre as bases; um lado inclinado nunca é a altura."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um terminal rodoviário, os ônibus da linha Centro saem a cada 15 minutos, e os da linha Praia saem a cada 25 minutos. Às 6h, um ônibus de cada linha saiu do terminal ao mesmo tempo.</p><p>Mantidos esses intervalos, depois das 6h, os ônibus das duas linhas voltarão a sair juntos, pela primeira vez, às</p>",
+    "options": {
+      "A": "6h05.",
+      "B": "6h40.",
+      "C": "7h15.",
+      "D": "12h15."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os ônibus da linha Centro saem 15, 30, 45, 60, 75, ... minutos depois das 6h (múltiplos de 15). Os da linha Praia saem 25, 50, 75, 100, ... minutos depois das 6h (múltiplos de 25).</p><p>Eles saem juntos nos múltiplos comuns de 15 e 25. O primeiro é o MMC:</p><p>\\[15 = 3 \\cdot 5, \\quad 25 = 5^2 \\quad\\Rightarrow\\quad \\text{MMC}(15, 25) = 3 \\cdot 5^2 = 75\\]</p><p>75 minutos correspondem a 1 hora e 15 minutos. Logo, os ônibus voltam a sair juntos às \\(6\\text{h} + 1\\text{h}15 = 7\\text{h}15\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Usou o MDC de 15 e 25, que é 5 minutos. O MDC dá o maior divisor comum, mas aqui procuramos o primeiro múltiplo comum dos dois intervalos.",
+      "B": "Somou os intervalos: \\(15 + 25 = 40\\) minutos. Mas 40 não é múltiplo de 15, então às 6h40 nem sai ônibus da linha Centro.",
+      "D": "Multiplicou os intervalos: \\(15 \\cdot 25 = 375\\) minutos, ou 6h15, chegando a 12h15. O produto é um múltiplo comum, mas não o primeiro, porque 15 e 25 têm o fator 5 em comum."
+    },
+    "tip": "\"Voltar a acontecer junto pela primeira vez\" é MMC; multiplicar os números só funciona quando eles não têm fator comum."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Seu Antônio quer fazer um cercado retangular para galinhas, aproveitando um muro reto como um dos lados. Ele tem 30 m de tela e vai usar toda ela nos outros três lados do cercado, como mostra o esquema (fora de escala).</p><p><img src=\"img/i06/mat-q15.svg\" alt=\"Esquema visto de cima: um muro reto na parte de cima. Encostado nele, um cercado retangular cujos três outros lados, o esquerdo, o de baixo e o direito, são feitos de tela, desenhada tracejada, com a legenda tela (três lados). Dentro do cercado está escrito cercado: 112 metros quadrados.\"></p><p>Ele quer que o cercado tenha exatamente 112 m² de área. As medidas possíveis para o cercado, indicando primeiro o lado perpendicular ao muro e depois o lado paralelo ao muro, são</p>",
+    "options": {
+      "A": "7 m por 16 m ou 8 m por 14 m.",
+      "B": "7 m por 16 m, apenas.",
+      "C": "7 m por 8 m.",
+      "D": "nenhuma, pois não existe cercado com essas condições."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(x\\) a medida de cada um dos dois lados perpendiculares ao muro. A tela cobre esses dois lados e mais o lado paralelo ao muro, que então mede \\(30 - 2x\\).</p><p>Área igual a 112 m²:</p><p>\\[x(30 - 2x) = 112 \\;\\Rightarrow\\; 30x - 2x^2 = 112 \\;\\Rightarrow\\; 2x^2 - 30x + 112 = 0 \\;\\Rightarrow\\; x^2 - 15x + 56 = 0\\]</p><p>\\(\\Delta = 15^2 - 4 \\cdot 56 = 225 - 224 = 1\\), então \\(x = \\dfrac{15 \\pm 1}{2}\\), ou seja, \\(x = 8\\) ou \\(x = 7\\).</p><ul><li>Se \\(x = 7\\): lado paralelo \\(30 - 14 = 16\\) m. Tela: \\(7 + 7 + 16 = 30\\) m; área \\(7 \\cdot 16 = 112\\) m².</li><li>Se \\(x = 8\\): lado paralelo \\(30 - 16 = 14\\) m. Tela: \\(8 + 8 + 14 = 30\\) m; área \\(8 \\cdot 14 = 112\\) m².</li></ul><p>As duas raízes são positivas e dão lados positivos, então as duas medidas servem. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Encontrou só uma das raízes da equação \\(x^2 - 15x + 56 = 0\\). As duas raízes, 7 e 8, dão cercados válidos (7 por 16 e 8 por 14).",
+      "C": "Resolveu a equação corretamente, mas tomou as raízes 7 e 8 como os dois lados do cercado. Um cercado de 7 m por 8 m teria 56 m² e usaria, no máximo, \\(8 + 8 + 7 = 23\\) m de tela.",
+      "D": "Montou o problema como se a tela cercasse os quatro lados: \\(2x + 2y = 30\\) e \\(xy = 112\\), o que leva a \\(x^2 - 15x + 112 = 0\\), com \\(\\Delta = 225 - 448 < 0\\). Mas o muro faz um dos lados, e a tela cobre só três."
+    },
+    "tip": "Em problemas com muro, a tela cobre só três lados; e, na equação do 2º grau, teste as duas raízes antes de descartar alguma."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um marceneiro tem uma tábua em forma de triângulo, com 60 cm de base e 40 cm de altura relativa a essa base. Ele vai recortar dela a maior peça quadrada possível, com um lado apoiado sobre a base do triângulo e os outros dois vértices sobre os outros dois lados da tábua, como mostra a figura.</p><p><img src=\"img/i06/mat-q16.svg\" alt=\"Um triângulo com base horizontal de 60 cm e altura de 40 cm, indicada por uma linha tracejada vertical que vai do vértice de cima até a base. Dentro do triângulo, um quadrado azul tem o lado de baixo apoiado na base do triângulo; seus dois vértices de cima tocam os outros dois lados do triângulo, um de cada lado.\"></p><p>A medida do lado dessa peça quadrada é</p>",
+    "options": {
+      "A": "16 cm.",
+      "B": "24 cm.",
+      "C": "30 cm.",
+      "D": "20 cm."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(x\\) o lado do quadrado. O lado de cima do quadrado é paralelo à base e forma, com o vértice de cima, um triângulo menor semelhante à tábua inteira (os ângulos são os mesmos, porque as bases são paralelas).</p><ul><li>Triângulo grande: base 60 cm e altura 40 cm.</li><li>Triângulo pequeno (acima do quadrado): base \\(x\\) (o lado de cima do quadrado) e altura \\(40 - x\\) (a altura total menos a altura do quadrado).</li></ul><p>Na semelhança, bases e alturas são proporcionais:</p><p>\\[\\frac{x}{60} = \\frac{40 - x}{40} \\;\\Rightarrow\\; 40x = 2400 - 60x \\;\\Rightarrow\\; 100x = 2400 \\;\\Rightarrow\\; x = 24\\ \\text{cm}\\]</p><p>Conferindo: acima do quadrado sobram \\(40 - 24 = 16\\) cm de altura, que é \\(\\frac{16}{40} = \\frac{2}{5}\\) da altura total; a base do triângulo pequeno deve ser \\(\\frac{2}{5} \\cdot 60 = 24\\) cm, igual ao lado do quadrado. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Trocou as correspondências na proporção, fazendo \\(\\frac{x}{40} = \\frac{40 - x}{60}\\), o que dá \\(100x = 1600\\) e \\(x = 16\\). Base deve corresponder a base, e altura a altura.",
+      "C": "Tomou como lado do quadrado o segmento que liga os pontos médios dos lados do triângulo, que mede metade da base (30 cm). Esse segmento fica a 20 cm de altura, então o \"quadrado\" teria 30 cm de largura e só 20 cm de altura.",
+      "D": "Supôs que o quadrado vai até a metade da altura (20 cm). Nessa altura, porém, a largura do triângulo é 30 cm, e não 20 cm, então a peça não seria quadrada."
+    },
+    "tip": "Quadrado inscrito em triângulo: o triângulo que sobra em cima é semelhante ao grande; compare base com base e altura com altura."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma pequena empresa tem 10 pessoas trabalhando, incluindo o dono. A tabela mostra o salário mensal de cada cargo.</p><table><thead><tr><th>Cargo</th><th>Número de pessoas</th><th>Salário mensal de cada uma</th></tr></thead><tbody><tr><td>Auxiliar</td><td>5</td><td>R$ 2.000,00</td></tr><tr><td>Técnico</td><td>3</td><td>R$ 3.000,00</td></tr><tr><td>Gerente</td><td>1</td><td>R$ 5.000,00</td></tr><tr><td>Dono</td><td>1</td><td>R$ 16.000,00</td></tr></tbody></table><p>Em um anúncio de vaga, a empresa escreveu: “Aqui, o salário médio é de R$ 4.000,00”. Considerando os 10 salários da tabela, é correto afirmar que</p>",
+    "options": {
+      "A": "a média dos salários é R$ 6.500,00, e o anúncio está errado.",
+      "B": "a mediana dos salários também é R$ 4.000,00, igual à média.",
+      "C": "metade das pessoas da empresa ganha mais de R$ 4.000,00 por mês.",
+      "D": "a média é R$ 4.000,00, a mediana é R$ 2.500,00, e 8 das 10 pessoas ganham menos que a média."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Média:</b> somamos os 10 salários e dividimos por 10.</p><p>\\[\\frac{5 \\cdot 2000 + 3 \\cdot 3000 + 5000 + 16000}{10} = \\frac{40000}{10} = 4000\\]</p><p>O anúncio está certo: a média é R$ 4.000,00.</p><p><b>Mediana:</b> em ordem crescente, os salários são 2.000 (cinco vezes), 3.000 (três vezes), 5.000 e 16.000. Com 10 valores, a mediana é a média do 5º e do 6º: o 5º é 2.000 e o 6º é 3.000, então a mediana é \\(\\frac{2000 + 3000}{2} = 2500\\).</p><p><b>Quem ganha menos que a média:</b> os 5 auxiliares e os 3 técnicos, ou seja, 8 das 10 pessoas. O salário alto do dono puxa a média para cima.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Fez a média dos quatro salários diferentes, \\(\\frac{2000 + 3000 + 5000 + 16000}{4} = 6500\\), sem levar em conta quantas pessoas recebem cada um.",
+      "B": "Calculou a mediana só dos quatro valores diferentes da tabela, \\(\\frac{3000 + 5000}{2} = 4000\\). A mediana deve considerar os 10 salários, e o 5º e o 6º valores são 2.000 e 3.000.",
+      "C": "Achou que a média divide o grupo ao meio, confundindo média com mediana. Na verdade, só 2 pessoas (gerente e dono) ganham mais de R$ 4.000,00."
+    },
+    "tip": "Um valor muito alto puxa a média para cima, mas quase não mexe na mediana; por isso a mediana descreve melhor o salário \"típico\"."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O tampo de uma mesa tem a forma do pentágono regular ABCDE. Para decorá-lo, um artesão colou dois filetes de madeira retos: um ligando os vértices A e C, e outro ligando os vértices B e D. Os filetes se cruzam no ponto P, como mostra a figura.</p><p><img src=\"img/i06/mat-q18.svg\" alt=\"Pentágono regular ABCDE, com A no alto, B à direita em cima, C à direita embaixo, D à esquerda embaixo e E à esquerda em cima. Estão traçados os segmentos AC, em vermelho, e BD, em azul, que se cruzam no ponto P. O ângulo APB, entre os segmentos PA e PB, voltado para o lado AB, está marcado com um ponto de interrogação.\"></p><p>A medida do ângulo \\(A\\hat{P}B\\), indicado na figura, é</p>",
+    "options": {
+      "A": "36°.",
+      "B": "54°.",
+      "C": "72°.",
+      "D": "108°."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Ângulo interno do pentágono regular:</b> a soma dos ângulos internos é \\((5 - 2) \\cdot 180^\\circ = 540^\\circ\\), então cada um mede \\(540^\\circ \\div 5 = 108^\\circ\\).</p><p><b>Triângulo ABC:</b> como \\(AB = BC\\) (lados do pentágono regular), ele é isósceles, com \\(A\\hat{B}C = 108^\\circ\\). Os outros dois ângulos são iguais: \\(B\\hat{A}C = B\\hat{C}A = \\frac{180^\\circ - 108^\\circ}{2} = 36^\\circ\\).</p><p><b>Triângulo BCD:</b> do mesmo modo, \\(BC = CD\\) e \\(B\\hat{C}D = 108^\\circ\\), então \\(C\\hat{B}D = 36^\\circ\\).</p><p><b>Triângulo PBC:</b> nele, \\(P\\hat{C}B = 36^\\circ\\) e \\(P\\hat{B}C = 36^\\circ\\), então \\(B\\hat{P}C = 180^\\circ - 36^\\circ - 36^\\circ = 108^\\circ\\).</p><p>Os ângulos \\(A\\hat{P}B\\) e \\(B\\hat{P}C\\) são suplementares (A, P e C estão alinhados):</p><p>\\[A\\hat{P}B = 180^\\circ - 108^\\circ = 72^\\circ\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Parou no primeiro passo: \\(36^\\circ\\) é o ângulo \\(B\\hat{A}C\\) (ou \\(C\\hat{B}D\\)), entre um filete e um lado do pentágono, e não o ângulo entre os dois filetes.",
+      "B": "Supôs que o filete divide o ângulo interno de \\(108^\\circ\\) ao meio, obtendo \\(54^\\circ\\). A diagonal não é bissetriz do ângulo do pentágono: ela forma ângulos de \\(36^\\circ\\) e \\(72^\\circ\\) com os lados.",
+      "D": "Encontrou \\(B\\hat{P}C = 108^\\circ\\), o ângulo vizinho, voltado para o lado BC, e esqueceu que o ângulo pedido é o seu suplemento."
+    },
+    "tip": "Em polígono regular, as diagonais formam triângulos isósceles com os lados; comece pelo ângulo interno e use a soma 180° em cada triângulo."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um jogo de tabuleiro, Bia está a 9 casas da chegada. Na sua vez, ela lança dois dados comuns, com faces numeradas de 1 a 6, e anda um número de casas igual à soma dos pontos obtidos. Pelas regras, ela vence se chegar ou passar da chegada nessa jogada, isto é, se a soma for <b>pelo menos 9</b>.</p><p>A probabilidade de Bia vencer o jogo nessa jogada é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{9}\\)",
+      "B": "\\(\\dfrac{1}{6}\\)",
+      "C": "\\(\\dfrac{5}{18}\\)",
+      "D": "\\(\\dfrac{2}{7}\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Pense nos dois dados como diferentes (dado 1 e dado 2). Cada um tem 6 resultados, então há \\(6 \\cdot 6 = 36\\) resultados possíveis, todos com a mesma chance.</p><p>Resultados com soma pelo menos 9 (dado 1, dado 2):</p><ul><li>soma 9: (3, 6), (4, 5), (5, 4), (6, 3), que são 4 resultados;</li><li>soma 10: (4, 6), (5, 5), (6, 4), que são 3;</li><li>soma 11: (5, 6), (6, 5), que são 2;</li><li>soma 12: (6, 6), que é 1.</li></ul><p>Total de casos favoráveis: \\(4 + 3 + 2 + 1 = 10\\).</p><p>\\[P = \\frac{10}{36} = \\frac{5}{18}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Conta só a soma exatamente 9 (\\(\\frac{4}{36} = \\frac{1}{9}\\)). Mas somas 10, 11 e 12 também fazem Bia chegar ou passar da chegada.",
+      "B": "Conta só as somas maiores que 9 (\\(\\frac{6}{36} = \\frac{1}{6}\\)), deixando de fora a soma 9. “Pelo menos 9” inclui o 9.",
+      "D": "Conta pares sem ordem: 6 pares favoráveis ({3, 6}, {4, 5}, {4, 6}, {5, 5}, {5, 6}, {6, 6}) em 21 possíveis. Esses pares não têm a mesma chance: (4, 5) pode sair de dois jeitos, (5, 5) de um só."
+    },
+    "tip": "Com dois dados, trabalhe com os 36 pares ordenados, que são igualmente prováveis; “pelo menos” inclui o próprio valor."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lia e três amigas voltaram de um show usando um aplicativo de transporte. O preço da corrida é calculado assim:</p><ul><li>R$ 4,00 fixos por corrida;</li><li>R$ 1,80 por quilômetro percorrido;</li><li>R$ 0,30 por minuto de viagem.</li></ul><p>A corrida teve 15 km e durou 20 minutos. As quatro amigas dividiram o valor total igualmente. Cada uma pagou</p>",
+    "options": {
+      "A": "R$ 6,75",
+      "B": "R$ 7,75",
+      "C": "R$ 8,25",
+      "D": "R$ 9,25"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.operacoes",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Calculamos cada parte do preço:</p><ul><li>parte fixa: R$ 4,00;</li><li>distância: \\(15 \\cdot 1{,}80 = 27\\), ou seja, R$ 27,00;</li><li>tempo: \\(20 \\cdot 0{,}30 = 6\\), ou seja, R$ 6,00.</li></ul><p>Total da corrida: \\(4 + 27 + 6 = 37\\), isto é, R$ 37,00.</p><p>São quatro pessoas (Lia e três amigas): \\(37 \\div 4 = 9{,}25\\).</p><p>Cada uma pagou R$ 9,25. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Considera só o valor por quilômetro: \\(27 \\div 4 = 6{,}75\\). Esquece a parte fixa e o valor por minuto.",
+      "B": "Esquece o valor por minuto: \\((4 + 27) \\div 4 = 7{,}75\\).",
+      "C": "Esquece a parte fixa de R$ 4,00: \\((27 + 6) \\div 4 = 8{,}25\\)."
+    },
+    "tip": "Em tarifas com várias partes, calcule cada parte separadamente, some tudo e só então divida."
+  }
+]

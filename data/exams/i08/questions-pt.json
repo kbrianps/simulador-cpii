@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é uma crônica, gênero que costuma partir de um fato do dia a dia para chegar a uma reflexão mais ampla.</p><p>Uma característica desse gênero presente no Texto 1 é</p>",
+    "options": {
+      "A": "o uso de linguagem impessoal, apoiada em dados de pesquisas e em depoimentos de especialistas.",
+      "B": "a narração, em primeira pessoa, de um episódio familiar que leva a narradora a refletir sobre a memória.",
+      "C": "a organização em versos e estrofes, com rimas que reforçam a musicalidade do texto.",
+      "D": "o predomínio de instruções dirigidas ao leitor, com verbos no imperativo, para ensiná-lo a organizar arquivos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A crônica é um texto curto, publicado em jornais, revistas ou livros, que parte de uma cena comum do cotidiano e, a partir dela, faz o leitor pensar em algo maior.</p><p>No Texto 1, a narradora conta um episódio da própria vida, em primeira pessoa (“minha avó”, linha 1; “aceitei”, linha 5): a tarde em que abriu com a avó uma caixa de sapatos cheia de objetos antigos. Depois, esse episódio vira reflexão: “Foi nessa tarde que entendi uma coisa simples: os objetos não guardam memória sozinhos” (linha 18). É exatamente o movimento típico da crônica: do fato pequeno à ideia geral.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Linguagem impessoal com dados e especialistas é marca da reportagem ou da notícia. O Texto 1 é pessoal (“minha avó”, “confesso”) e não cita pesquisa nenhuma.",
+      "C": "O Texto 1 é escrito em prosa, em parágrafos. Versos e estrofes aparecem no Texto 2, o poema.",
+      "D": "O texto não ensina nada passo a passo nem dá ordens ao leitor; ele narra e reflete. Instruções ao leitor aparecem, na prova, no cartaz do Texto 3 (“Traga”)."
+    },
+    "tip": "Crônica = fato do cotidiano (muitas vezes em primeira pessoa) + reflexão. Se o texto conta algo pequeno e tira dali uma ideia maior, pense em crônica."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Eu, que tinha chegado olhando o relógio, esqueci o celular no sofá.” (linhas 16-17)</p></blockquote><p>No contexto do terceiro parágrafo, a atitude descrita nesse trecho revela que a narradora</p>",
+    "options": {
+      "A": "costumava ser descuidada com seus objetos pessoais.",
+      "B": "continuava irritada por ter de passar a tarde com a avó.",
+      "C": "desligou o celular de propósito para não interromper a avó.",
+      "D": "se envolveu com as histórias da avó a ponto de abandonar a pressa e as distrações."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Compare o antes e o depois dentro da mesma frase. Antes: ela “tinha chegado olhando o relógio” (linha 16), ou seja, com pressa de ir embora, do mesmo jeito que tinha aceitado a tarefa “com a má vontade de quem cumpre uma obrigação” (linhas 5-6). Depois: “esqueci o celular no sofá”.</p><p>Esquecer o celular não é um detalhe à toa. A frase vem logo depois das histórias da chave, da receita e do bilhete de bonde (linhas 13-16): as lembranças da avó prenderam tanto a atenção da neta que o relógio e o celular (símbolos de pressa e de distração) deixaram de importar. É essa mudança de atitude que a autora quer que o leitor perceba.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O texto não fala de um hábito de perder coisas. O esquecimento aconteceu naquela tarde específica e tem uma causa: o interesse pelas histórias.",
+      "B": "É o contrário: a irritação existia no começo (linhas 5-6), mas o trecho mostra justamente que ela passou.",
+      "C": "“Esqueci” indica algo que aconteceu sem intenção. Se ela tivesse deixado o celular de lado de propósito, o verbo seria outro, como “desliguei” ou “guardei”."
+    },
+    "tip": "Quando um texto mostra um personagem “esquecendo” o relógio ou o celular, costuma indicar envolvimento: a atenção foi toda para outra coisa."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“<b><u>Como</u></b> eu era a única de férias, a incumbência sobrou para mim [...]” (linhas 4-5)</p></blockquote><p>No trecho, a palavra destacada introduz uma ideia de</p>",
+    "options": {
+      "A": "causa.",
+      "B": "comparação.",
+      "C": "conformidade.",
+      "D": "concessão."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pergunte: por que a tarefa sobrou para a narradora? Porque ela era a única de férias. A oração iniciada por “Como” traz o <b>motivo</b> do fato expresso depois (“a incumbência sobrou para mim”).</p><p>Faça o teste da troca: “<b>Porque</b> eu era a única de férias, a incumbência sobrou para mim” ou “<b>Já que</b> eu era a única de férias...”. O sentido se mantém, então “como” é uma conjunção <b>causal</b>. Repare que o “como” causal aparece no início do período, antes da consequência.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Como” pode comparar (“forte como um touro”), mas aí ele liga dois termos parecidos. Aqui não há nada sendo comparado: há um motivo e sua consequência.",
+      "C": "O “como” de conformidade equivale a “conforme” (“fiz como você pediu”). Trocar por “Conforme eu era a única de férias” não faz sentido.",
+      "D": "Concessão é uma ideia contrária que não impede o fato (“embora”, “ainda que”). Ser a única de férias não se opõe a receber a tarefa; ao contrário, é o que a explica."
+    },
+    "tip": "Teste o “como” trocando por “porque/já que” (causa), “conforme” (conformidade) ou “igual a” (comparação): a troca que mantém o sentido revela a relação."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“O que dá sentido a <b><u>esses restos</u></b> é a voz de quem viveu, e essa voz não dura para sempre.” (linhas 20-21)</p></blockquote><p>A expressão destacada retoma, no texto,</p>",
+    "options": {
+      "A": "as paredes do casarão demolido da Rua das Acácias.",
+      "B": "as lembranças que a avó guardava apenas na memória.",
+      "C": "os objetos antigos guardados na caixa, como a fotografia e a chave.",
+      "D": "os parentes que já morreram e aparecem nas fotografias."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pronome demonstrativo “esses” indica que a expressão aponta para algo que acabou de ser mencionado. Então olhe para trás, nas linhas anteriores do mesmo parágrafo: “os objetos não guardam memória sozinhos. Uma fotografia sem ninguém que a explique é só um rosto desconhecido; uma chave sem história é apenas um pedaço de metal” (linhas 18-20).</p><p>Os “restos” são, portanto, os <b>objetos</b> de que o parágrafo vem falando, exemplificados pela fotografia e pela chave, que vieram da caixa de sapatos. A autora os chama de “restos” porque são o que sobrou de um passado que já não existe, e que só ganham sentido com “a voz de quem viveu”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O casarão é citado no segundo parágrafo, longe do trecho, e suas paredes nem são mencionadas ali. O demonstrativo “esses” retoma o que está logo antes: os objetos das linhas 18-20.",
+      "B": "As lembranças não são “restos” sem sentido: elas são justamente a “voz de quem viveu”, aquilo que dá sentido aos objetos.",
+      "D": "O texto fala de “um rosto desconhecido” na fotografia, mas o assunto do parágrafo são os objetos em si, e não as pessoas retratadas."
+    },
+    "tip": "Pronomes como “esse”, “essa” e “esses” costumam retomar o que acabou de ser dito: procure a resposta nas linhas imediatamente anteriores."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No quinto parágrafo do Texto 1 (linhas 23-26), a autora apresenta uma opinião com a qual não concorda e, em seguida, a contesta.</p><p>O ponto de vista defendido por ela é o de que</p>",
+    "options": {
+      "A": "o passado deve permanecer onde está, pois lembrar é um hábito próprio das pessoas idosas.",
+      "B": "preservar lugares e histórias antigas é importante, porque eles ajudam a explicar a identidade de uma comunidade.",
+      "C": "as histórias contadas pelos avós deveriam ser registradas em testamento para não se perderem.",
+      "D": "a demolição de casarões antigos é o preço inevitável do crescimento das cidades."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O parágrafo tem duas partes. Primeiro vem a opinião alheia: “Há quem diga que lembrar é coisa de gente velha, que o passado deve ficar onde está” (linhas 23-24). Depois, a autora rejeita essa ideia com uma única palavra: “Discordo” (linha 24).</p><p>Em seguida, ela justifica sua posição com dois argumentos: quando um casarão cai, “a cidade perde mais do que paredes: perde um pedaço do mapa que explica quem somos” (linhas 24-25); e a avó que conta histórias está “entregando uma herança” (linha 26). Ou seja, lugares e histórias antigas ajudam a explicar <b>quem somos</b>, a identidade de uma comunidade. Por isso merecem ser preservados.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Essa é exatamente a opinião que a autora rebate com “Discordo” (linha 24). Quem marca essa alternativa confunde a voz que ela cita com a voz dela.",
+      "C": "A autora diz que a herança das histórias “não cabe em testamento” (linha 26), isto é, não pode ser registrada como um bem material. A alternativa inverte a ideia.",
+      "D": "O texto não trata a demolição como algo inevitável ou aceitável; ao contrário, lamenta o que a cidade perde quando um casarão cai."
+    },
+    "tip": "Em textos argumentativos, “Há quem diga que...” costuma introduzir a opinião que o autor vai contestar. A tese dele vem depois, junto com os argumentos."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Era a chave do casarão da Rua das Acácias, onde ela <b><u>nascera</u></b> e de onde <b><u>saíra</u></b> casada, e que <b><u>fora</u></b> demolido quando eu ainda aprendia a andar.” (linhas 9-10)</p></blockquote><p>As formas verbais destacadas estão no pretérito mais-que-perfeito do indicativo. No trecho, esse tempo verbal é usado para indicar</p>",
+    "options": {
+      "A": "ações que se repetiam com frequência no passado, como hábitos da avó.",
+      "B": "fatos que poderiam ter acontecido, mas dependiam de uma condição.",
+      "C": "acontecimentos futuros, previstos pela avó ao entregar a chave.",
+      "D": "fatos ocorridos antes de outro momento também passado: a tarde em que a caixa foi aberta."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A crônica é narrada no passado: a tarde com a avó já aconteceu (“A caixa <b>guardava</b> de tudo”, linha 7; “Minha avó não <b>abriu</b> a caixa”, linha 12). Dentro desse passado, a narradora volta ainda mais no tempo para contar a história da chave: o nascimento da avó, a saída de casa ao se casar e a demolição do casarão aconteceram <b>antes</b> daquela tarde.</p><p>O <b>pretérito mais-que-perfeito</b> (nascera = tinha nascido; saíra = tinha saído; fora demolido = tinha sido demolido) serve justamente para isso: marcar um fato passado anterior a outro fato também passado. É o “passado do passado”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Ações habituais no passado são expressas pelo pretérito imperfeito, como “Tirava um objeto, segurava-o contra a luz” (linha 12). Nascer e sair de casa casada são fatos únicos, não hábitos.",
+      "B": "Fatos que dependem de uma condição usam o futuro do pretérito (“nasceria”, “sairia”). O texto afirma que os fatos aconteceram de verdade.",
+      "C": "No trecho, o mais-que-perfeito aponta para o passado, e não para o futuro. Além disso, a avó não faz previsão nenhuma no trecho; ela é a personagem cujo passado está sendo contado."
+    },
+    "tip": "Mais-que-perfeito = “tinha feito”: é o passado anterior a outro passado. Troque “nascera” por “tinha nascido” para conferir."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>O poema “Herança” (Texto 2) emprega linguagem figurada para falar do que a avó deixou ao eu lírico.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“a memória é casa que só fica de pé / enquanto alguém mora no que sobrou.” (versos 19 e 20) – metáfora",
+      "B": "“Minha avó não deixou joias, / deixou nomes de rua antigos,” (versos 1 e 2) – eufemismo",
+      "C": "“bastava dizer ‘aqui era a sala’ / e a sala voltava, tijolo por tijolo.” (versos 7 e 8) – ironia",
+      "D": "“O cartório não registra isso, / nenhum cofre sabe guardar:” (versos 13 e 14) – comparação"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A <b>metáfora</b> aproxima dois seres ou ideias diferentes sem usar um conectivo de comparação (como “como”, “feito”, “tal qual”): um passa a ser o outro. Nos versos 19 e 20, a memória <b>é</b> uma casa: assim como uma casa desabitada se deteriora, a memória só “fica de pé” enquanto alguém continua a contá-la e a ouvi-la. Não há “como” entre os termos, então é metáfora, e não comparação.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Eufemismo suaviza uma ideia desagradável (“partiu” no lugar de “morreu”). Os versos 1 e 2 não suavizam nada: apenas contrapõem bens materiais (joias) a bens imateriais (nomes, lembranças).",
+      "C": "Ironia é dizer o contrário do que se pensa, com intenção crítica ou humorística. Nos versos 7 e 8, o eu lírico fala a sério e com admiração da capacidade da avó de “reerguer” a casa com palavras.",
+      "D": "Não há conectivo de comparação nos versos 13 e 14. A figura ali é a personificação (prosopopeia): o cofre, que é um objeto, “sabe” guardar, como se fosse uma pessoa."
+    },
+    "tip": "Metáfora e comparação aproximam ideias; a diferença é o conectivo: com “como/feito/tal qual” é comparação; sem ele (“a memória é casa”), é metáfora."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No Texto 2, o eu lírico faz um inventário do que recebeu da avó.</p><p>A leitura do poema permite concluir que essa herança</p>",
+    "options": {
+      "A": "decepcionou o eu lírico, que esperava receber bens de valor, como joias.",
+      "B": "consiste sobretudo na casa da família, que ele deverá reconstruir.",
+      "C": "é imaterial, transmitida pela escuta, e cabe ao eu lírico mantê-la viva ao contá-la a outros.",
+      "D": "é pouco confiável, pois se baseia em lugares e pessoas que já não existem."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe o que a avó deixou: nomes de rua, um cheiro de quintal, uma lista de amigos, o costume de passar café, um jeito de contar histórias (versos 1-12). Nada disso pode ser tocado ou vendido: é uma herança <b>imaterial</b>. A quarta estrofe confirma: o cartório não a registra, nenhum cofre a guarda, e ela “só se recebe / de ouvido, sem assinar” (versos 15-16), isto é, pela escuta.</p><p>A última estrofe mostra a continuação: “Agora sou eu quem, na varanda, / conta aos pequenos o que escutou” (versos 17-18). O eu lírico assume o papel da avó e passa a história adiante, porque a memória só fica de pé “enquanto alguém mora no que sobrou” (verso 20).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O poema não expressa decepção. Dizer que a avó “não deixou joias” (verso 1) serve para valorizar o que ela deixou de fato, e o tom de todo o poema é de carinho.",
+      "B": "A casa foi derrubada pelo tempo (verso 5) e só é “reerguida” em palavras (versos 6-8). Não se fala em reconstrução real.",
+      "D": "O fato de os lugares não existirem mais é justamente o que torna a memória valiosa. O poema nunca põe em dúvida a verdade das histórias da avó."
+    },
+    "tip": "Em poemas, preste atenção à última estrofe: ela costuma trazer a conclusão ou a mudança de atitude do eu lírico."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<p>O Texto 3 é um cartaz de campanha que busca convencer os moradores de um bairro a participar da Semana da Memória.</p><p>Para alcançar esse objetivo, o texto verbal do cartaz</p>",
+    "options": {
+      "A": "apresenta dados numéricos sobre a quantidade de documentos que as famílias perdem.",
+      "B": "dirige-se diretamente ao leitor, com verbos no imperativo e referências a ele, como em “Traga” e “seu bairro”.",
+      "C": "reproduz o depoimento de uma avó que teve sua história preservada pelo Arquivo Comunitário.",
+      "D": "usa linguagem técnica e formal, própria dos documentos oficiais de arquivos públicos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Textos publicitários e de campanha querem levar o leitor a agir. Para isso, costumam falar diretamente com ele. No cartaz, isso aparece de duas formas:</p><ul><li>verbos no <b>imperativo</b>, que dão ordens ou fazem convites: “<b>Traga</b> fotografias”, “não <b>se esqueça</b> de trazer”, “Não <b>deixe</b> a memória virar entulho”;</li><li>palavras que se referem ao leitor: “<b>seu</b> bairro”, “<b>sua</b> família”, “volta para casa com <b>você</b>”, e até o título “Essa história também é <b>sua</b>”.</li></ul><p>Essas marcas de interlocução aproximam o leitor e fazem com que ele se sinta parte da campanha.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O cartaz não traz nenhum número ou estatística. Sua força está no apelo direto ao leitor e na imagem, não em dados.",
+      "C": "Não há depoimento de ninguém no cartaz. As avós aparecem apenas como “convidados de honra”, sem falas reproduzidas.",
+      "D": "A linguagem é simples e próxima do leitor (“Aquela foto esquecida na gaveta”), nada técnica. Um tom de documento oficial afastaria o público, o contrário do que a campanha quer."
+    },
+    "tip": "Em anúncios e campanhas, procure o imperativo (“traga”, “não deixe”) e o “você/seu”: são as marcas de quem quer convencer o leitor a agir."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "stem": "<p>Os três textos da prova tratam da memória familiar e das histórias dos mais velhos, cada um à sua maneira.</p><p>Uma ideia comum aos três textos é a de que</p>",
+    "options": {
+      "A": "objetos e lugares antigos ganham sentido quando acompanhados das histórias de quem os viveu.",
+      "B": "os casarões antigos devem ser tombados pelo poder público para que a memória não se perca.",
+      "C": "os jovens não se interessam pelo passado e, por isso, as histórias dos avós estão condenadas ao esquecimento.",
+      "D": "a memória de uma família é um assunto privado, que não tem relação com a história da cidade."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Procure em cada texto o que dá valor às coisas antigas.</p><ul><li>Texto 1: “os objetos não guardam memória sozinhos” e “O que dá sentido a esses restos é a voz de quem viveu” (linhas 18-21).</li><li>Texto 2: a casa derrubada volta “tijolo por tijolo” quando a avó diz “aqui era a sala” (versos 7-8), e a herança “só se recebe / de ouvido” (versos 15-16).</li><li>Texto 3: além de fotos e documentos, o cartaz pede que se traga “quem sabe contar”, e os avós são “convidados de honra”.</li></ul><p>Nos três, fotografias, chaves, casas e documentos só ganham significado completo junto com as histórias de quem os viveu.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Nenhum dos textos fala em tombamento ou em ação do poder público. O cartaz é de um arquivo comunitário e pede a participação dos moradores.",
+      "C": "Os textos mostram o contrário: a neta do Texto 1 se envolve com as histórias, o eu lírico do Texto 2 passa a contá-las, e o cartaz do Texto 3 convida jovens a participar (há uma “mão jovem” segurando a foto).",
+      "D": "O Texto 1 diz que, quando um casarão cai, a cidade perde “um pedaço do mapa que explica quem somos” (linhas 24-25), e o Texto 3 afirma que a foto da gaveta “pode contar a história do seu bairro”. Memória familiar e memória coletiva aparecem ligadas."
+    },
+    "tip": "Em questões de comparação, teste cada alternativa nos três textos: a correta precisa valer para todos, e basta um texto contrariar para eliminá-la."
+  }
+]

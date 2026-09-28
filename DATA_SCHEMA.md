@@ -9,7 +9,8 @@ without touching the same file. Never write another exam's folder.
 
 Exam ids (application year, `m` = manhã, `t` = tarde):
 `p2014 p2015 p2016m p2016t p2017m p2017t p2018m p2018t p2019 p2022 p2023 p2024 p2025`,
-plus the math-only sets `f2011` and `f2013` (CP2 Digital Google Forms adaptations).
+plus the math-only sets `f2011` and `f2013` (CP2 Digital Google Forms adaptations) and the original
+exams `i01` to `i10` (`answer_key_kind` and `answer_source` "inedita").
 
 All user-facing content is Brazilian Portuguese with correct accents. Transcriptions
 must be faithful to the original, including its punctuation (the original texts may

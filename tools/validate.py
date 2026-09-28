@@ -142,12 +142,12 @@ def validate(eid, stage, part=None):
                 check_html(f"{where} distractor {k}", v, errs, own_text=True)
             if "tip" in q:
                 check_html(f"{where} tip", q["tip"], errs, own_text=True)
-    if red is not None and eid.startswith("p"):
+    if red is not None and eid[0] in "pi":
         for k in ("genre", "theme", "prompt_html", "requirements", "lines_min", "lines_max"):
             if k not in red:
                 errs.append(f"redacao: missing {k}")
         check_html("redacao prompt", red.get("prompt_html", ""), errs)
-    if eid.startswith("p") and part is None:
+    if eid[0] in "pi" and part is None:
         total = len(qpt or []) + len(qmat or [])
         if total != 20:
             errs.append(f"expected 20 questions, found {total}")

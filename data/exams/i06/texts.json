@@ -1,0 +1,152 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Entre o caderno e o crachá",
+    "subtitle": "Adolescentes que estudam e trabalham contam como dividem o dia entre a escola, o emprego e o cansaço",
+    "author": "Marina Toledo",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Às seis e meia da manhã, Kauã já está no ônibus, com a mochila no colo e o uniforme",
+      "da loja dobrado lá dentro. Aos dezessete anos, ele cursa o 2º ano do ensino médio pela",
+      "manhã e, à tarde, trabalha como aprendiz em uma farmácia perto de casa. “No começo, eu",
+      "achava que ia dar conta de tudo sem esforço. Depois da primeira prova de Química, percebi",
+      "que não era bem assim”, conta, rindo.",
+      "Histórias como a de Kauã são comuns em muitas famílias brasileiras. Para boa parte",
+      "dos jovens, o primeiro salário não significa apenas dinheiro para o lanche ou para o tênis",
+      "novo: muitas vezes, ele ajuda a pagar a conta de luz ou o gás de casa. É justamente aí que",
+      "mora o dilema. O trabalho pode trazer autonomia, responsabilidade e experiência, mas, se",
+      "ocupar o tempo e a energia que deveriam ser dedicados aos estudos, acaba cobrando um preço",
+      "alto no futuro.",
+      "A legislação brasileira tenta equilibrar essa balança. A Constituição proíbe qualquer",
+      "trabalho para menores de dezesseis anos, salvo na condição de aprendiz, a partir dos",
+      "quatorze. Até os dezoito, também são vedadas<sup>1</sup> as atividades noturnas, perigosas ou",
+      "insalubres<sup>2</sup>. Na aprendizagem, o adolescente tem carteira assinada, jornada reduzida e a",
+      "obrigação de continuar matriculado na escola. A ideia é que o emprego funcione como uma",
+      "extensão da formação, e não como um obstáculo a ela.",
+      "Para a pedagoga Sílvia Andrade, que coordena um programa de aprendizagem em uma",
+      "organização social, a diferença entre as duas situações está nos detalhes. “Quando a",
+      "empresa respeita o horário e acompanha o boletim do aprendiz, o trabalho vira aliado. O",
+      "problema começa quando o jovem chega à aula exausto, cochila na carteira e, aos poucos,",
+      "deixa de ver sentido na escola”, explica.",
+      "Bem diferente é a situação de crianças que trabalham sem nenhuma proteção. Nos",
+      "semáforos, nas feiras, nas lavouras ou dentro de casa, cuidando de irmãos menores e de",
+      "tarefas domésticas pesadas, meninos e meninas assumem responsabilidades de adulto antes do",
+      "tempo. Nesses casos, não se trata de primeiro emprego, mas de trabalho infantil, uma",
+      "violação de direitos que rouba horas de brincadeira, de descanso e de estudo e que, com",
+      "frequência, empurra a criança para fora da escola.",
+      "Kauã, por enquanto, segue equilibrando os pratos. Combinou com a gerente de sair mais",
+      "cedo nas semanas de prova e passou a revisar a matéria no trajeto de volta. Seu plano é",
+      "prestar vestibular para Farmácia. “O trabalho me ensinou a ter horário e a conversar com",
+      "gente diferente. Mas quem vai me levar mais longe é o estudo”, resume, antes de descer do",
+      "ônibus."
+    ],
+    "para_starts": [
+      1,
+      6,
+      12,
+      18,
+      23,
+      29
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "vedadas",
+        "def": "proibidas"
+      },
+      {
+        "term": "insalubres",
+        "def": "que fazem mal à saúde"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "MENINO DO SINAL",
+    "subtitle": null,
+    "author": "Lúcia Vasconcelos",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "No vermelho do sinal",
+      "o menino vende bala:",
+      "tem nove anos, talvez dez,",
+      "e quase nunca fala.",
+      "Carrega a caixa de papelão",
+      "como quem carrega o dia,",
+      "conta moedas na calçada",
+      "enquanto a tarde esfria.",
+      "Os carros passam com pressa,",
+      "vidros fechados, olhar no chão;",
+      "ninguém pergunta o seu nome,",
+      "ninguém lhe estende a mão.",
+      "Na escola, a carteira espera",
+      "e o caderno fica sem abrir;",
+      "a lição de hoje, coitada,",
+      "não teve tempo de existir.",
+      "Quando o sinal fica verde,",
+      "ele recua para o meio-fio,",
+      "e a infância, sem ninguém que a espere,",
+      "vai passando feito um rio."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "Trabalhar cedo não é medalha",
+    "subtitle": null,
+    "author": "Renato Lemos",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Toda vez que o assunto é trabalho infantil, alguém repete a velha frase: “Comecei a",
+      "trabalhar com oito anos e tô aqui, inteirinho”. A frase costuma vir carregada de orgulho,",
+      "como se o sofrimento precoce<sup>1</sup> fosse uma espécie de diploma. Entendo o orgulho de quem",
+      "venceu as dificuldades, mas discordo da conclusão.",
+      "Quem sobreviveu a uma infância de trabalho não prova que ela seja boa; prova apenas",
+      "que resistiu. Para cada adulto que conta essa história com um sorriso, há muitos outros que",
+      "não tiveram a mesma sorte e deixaram pelo caminho a escola, a saúde e os sonhos. Ninguém",
+      "sobe ao palco para contar a história de quem ficou para trás.",
+      "Não se trata de condenar o primeiro emprego. Uma vaga de aprendiz, com horário justo",
+      "e respeito aos estudos, pode ensinar muito a um adolescente. O que não se pode é confundir",
+      "oportunidade com necessidade. Quando uma criança troca o caderno pela caixa de balas, não é",
+      "ela que está falhando: somos nós, como sociedade, que falhamos com ela.",
+      "Por isso, da próxima vez que ouvir que o trabalho infantil “forma o caráter”,",
+      "pergunte: forma o caráter de quem, e a que custo? A infância não é um atraso a ser",
+      "encurtado. É o tempo de aprender, brincar e sonhar, e ele não volta."
+    ],
+    "para_starts": [
+      1,
+      5,
+      9,
+      13
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "precoce",
+        "def": "que acontece antes do tempo esperado"
+      }
+    ],
+    "epigraph": null
+  }
+]

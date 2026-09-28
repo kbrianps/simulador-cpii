@@ -1,0 +1,272 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Marina juntou dinheiro durante o ano para comprar uma bicicleta que custa R$ 1.250,00. Na loja, o vendedor apresentou duas formas de pagamento:</p><ul><li><b>à vista:</b> desconto de 12% sobre o preço da bicicleta;</li><li><b>a prazo:</b> 5 parcelas iguais de R$ 280,00, sem entrada.</li></ul><p>Se Marina escolher pagar à vista, em vez de pagar a prazo, ela economizará</p>",
+    "options": {
+      "A": "R$ 150,00",
+      "B": "R$ 168,00",
+      "C": "R$ 300,00",
+      "D": "R$ 318,00"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.financeira"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Vamos calcular quanto Marina paga em cada forma de pagamento.</p><p><b>À vista:</b> o desconto é de 12% de R$ 1.250,00:</p><p>\\[0{,}12 \\times 1250 = 150\\]</p><p>Então ela paga \\(1250 - 150 = 1100\\), ou seja, R$ 1.100,00. (Outro jeito: pagar 88% do preço, \\(0{,}88 \\times 1250 = 1100\\).)</p><p><b>A prazo:</b> 5 parcelas de R$ 280,00 dão \\(5 \\times 280 = 1400\\), ou seja, R$ 1.400,00.</p><p><b>Economia:</b> \\(1400 - 1100 = 300\\). Pagando à vista, Marina economiza R$ 300,00. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É só o desconto de 12% sobre o preço de etiqueta (\\(0{,}12 \\times 1250 = 150\\)). A comparação pedida é com o total a prazo, R$ 1.400,00, que já é R$ 150,00 mais caro que o preço de etiqueta.",
+      "B": "Aplicou os 12% sobre o total a prazo (\\(0{,}12 \\times 1400 = 168\\)). O desconto vale sobre o preço da bicicleta, R$ 1.250,00, e não sobre o valor parcelado.",
+      "D": "Somou os dois valores errados, 150 + 168. A economia é simplesmente a diferença entre os dois totais: \\(1400 - 1100 = 300\\)."
+    },
+    "tip": "Para comparar formas de pagamento, calcule o total de cada uma e subtraia; o desconto sozinho não é a economia."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um domingo de vento, Lucas soltou pipa em um campo plano. Em certo momento, a linha, totalmente esticada, tinha 50 m entre a mão de Lucas e a pipa. A mão dele estava a 1,5 m do chão, e a distância horizontal entre a mão de Lucas e o ponto exatamente abaixo da pipa era de 30 m, como mostra o esquema (fora de escala):</p><p><img src=\"img/i09/mat-q12.svg\" alt=\"Esquema fora de escala. Um menino, Lucas, está em pé no chão plano, à esquerda, segurando uma linha. A mão dele está a 1,5 m do chão. Da mão sai a linha reta, marcada 'linha: 50 m', subindo até a pipa, no alto à direita. Da pipa desce uma linha tracejada vertical até o chão, e essa altura total da pipa até o chão é marcada com a letra h. Da mão de Lucas sai uma linha tracejada horizontal até a vertical da pipa, marcada 30 m, formando um ângulo reto com a vertical.\"></p><p>A altura \\(h\\) da pipa em relação ao chão, nesse momento, era de</p>",
+    "options": {
+      "A": "40,0 m.",
+      "B": "41,5 m.",
+      "C": "51,5 m.",
+      "D": "59,8 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A linha, o trecho horizontal tracejado e o trecho vertical acima da altura da mão formam um triângulo retângulo:</p><ul><li>hipotenusa: a linha, 50 m;</li><li>um cateto: a distância horizontal, 30 m;</li><li>outro cateto: a altura da pipa <b>acima da mão</b> de Lucas, que chamaremos de \\(y\\).</li></ul><p>Pelo Teorema de Pitágoras:</p><p>\\[y^2 + 30^2 = 50^2 \\Rightarrow y^2 + 900 = 2500 \\Rightarrow y^2 = 1600 \\Rightarrow y = 40\\]</p><p>Mas esses 40 m são medidos a partir da mão, que está a 1,5 m do chão. Então:</p><p>\\[h = 40 + 1{,}5 = 41{,}5 \\text{ m}\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a altura da pipa acima da mão de Lucas. Faltou somar 1,5 m, porque o triângulo começa na altura da mão e não no chão.",
+      "C": "Tratou a linha de 50 m como se fosse vertical e somou 1,5 m. A linha é inclinada: ela é a hipotenusa, e a altura é um cateto, sempre menor que 50 m.",
+      "D": "Somou os quadrados como se 50 m fosse um cateto: \\(\\sqrt{50^2 + 30^2} = \\sqrt{3400} \\cong 58{,}3\\), e depois somou 1,5. A hipotenusa é o maior lado (a linha), então o certo é subtrair: \\(50^2 - 30^2\\)."
+    },
+    "tip": "Em Pitágoras, a hipotenusa é o lado oposto ao ângulo reto e o maior lado; confira sempre de onde a altura está sendo medida."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A planta de um apartamento foi desenhada na escala 1 : 50. Nela, o quarto de Júlia, que tem a forma de um retângulo, aparece com 12 cm por 9 cm, como mostra a figura.</p><p><img src=\"img/i09/mat-q13.svg\" alt=\"Planta de um quarto retangular, com a palavra QUARTO no centro, uma porta na parede de baixo e uma janela na parede de cima. No desenho, o comprimento mede 12 cm e a largura mede 9 cm. Abaixo, a indicação: Escala 1 : 50.\"></p><p>A área real do piso desse quarto é de</p>",
+    "options": {
+      "A": "0,54 m².",
+      "B": "5,4 m².",
+      "C": "270 m².",
+      "D": "27 m²."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na escala 1 : 50, cada 1 cm do desenho corresponde a 50 cm reais. Por isso, convertemos primeiro as <b>medidas lineares</b>:</p><p>comprimento: \\(12 \\cdot 50 = 600\\) cm \\(= 6\\) m; largura: \\(9 \\cdot 50 = 450\\) cm \\(= 4{,}5\\) m.</p><p>Área real: \\(6 \\cdot 4{,}5 = 27\\) m².</p><p>Conferindo de outro jeito: a área no desenho é \\(12 \\cdot 9 = 108\\) cm². Como as medidas lineares ficam 50 vezes maiores, a área fica \\(50^2 = 2.500\\) vezes maior: \\(108 \\cdot 2.500 = 270.000\\) cm². Como 1 m² \\(= 10.000\\) cm², isso dá 27 m². Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Multiplicou a área do desenho (108 cm²) por 50, e não por \\(50^2\\): \\(108 \\cdot 50 = 5.400\\) cm² \\(= 0{,}54\\) m². A escala vale para cada medida linear, então a área cresce \\(50 \\cdot 50\\) vezes.",
+      "B": "Multiplicou a área do desenho só por 50 (5.400 cm²) e ainda converteu dividindo por 1.000, e não por 10.000. Os dois passos estão errados.",
+      "C": "Chegou corretamente a 270.000 cm², mas converteu para m² dividindo por 1.000. Como 1 m = 100 cm, 1 m² = \\(100 \\cdot 100 = 10.000\\) cm²."
+    },
+    "tip": "Em plantas e mapas, a escala vale para comprimentos: converta cada lado e só depois calcule a área (ou multiplique a área pelo quadrado da escala)."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>As irmãs Ana e Bia economizaram juntas, durante as férias, R$ 380,00 para comprar um presente para a mãe. Ana conseguiu guardar R$ 60,00 a mais do que Bia.</p><p>A quantia guardada por Ana foi</p>",
+    "options": {
+      "A": "R$ 220,00.",
+      "B": "R$ 160,00.",
+      "C": "R$ 190,00.",
+      "D": "R$ 250,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame de \\(a\\) a quantia de Ana e de \\(b\\) a de Bia:</p><p>\\[\\begin{cases} a + b = 380 \\\\ a - b = 60 \\end{cases}\\]</p><p>Somando as duas equações: \\(2a = 440\\), logo \\(a = 220\\). Então \\(b = 380 - 220 = 160\\).</p><p>Conferindo: \\(220 + 160 = 380\\) e \\(220 - 160 = 60\\). Ana guardou R$ 220,00. Resposta: <b>A</b>.</p><p>Raciocínio rápido: tirando os R$ 60,00 a mais de Ana, sobram \\(380 - 60 = 320\\) reais, divididos igualmente: 160 para cada. Ana tem \\(160 + 60 = 220\\).</p>",
+    "distractors": {
+      "B": "R$ 160,00 é a quantia de Bia. Resolveu o problema corretamente, mas respondeu a incógnita errada.",
+      "C": "Dividiu o total ao meio (\\(380 \\div 2 = 190\\)), como se as duas tivessem guardado o mesmo valor, ignorando a diferença de R$ 60,00.",
+      "D": "Dividiu o total ao meio e depois somou os 60 reais: \\(190 + 60 = 250\\). Mas então Bia teria \\(380 - 250 = 130\\), e a diferença entre as duas seria \\(250 - 130 = 120\\) reais, e não 60."
+    },
+    "tip": "Em problemas de soma e diferença, tire a diferença do total, divida o resto igualmente e confira se os valores somam o total dado."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um supermercado, um funcionário empilha latas cilíndricas de mesmo tamanho, todas em pé, formando uma pilha triangular: a fileira de cima tem 1 lata, a de baixo dela tem 2, a seguinte tem 3, e assim por diante, sempre com uma lata a mais em cada fileira, como mostra o exemplo com 4 fileiras.</p><p><img src=\"img/i09/mat-q15.svg\" alt=\"Pilha triangular de latas em pé, vistas de frente, cada uma desenhada como um retângulo com rótulo. A fileira de cima tem 1 lata, a segunda tem 2, a terceira tem 3 e a de baixo tem 4 latas, apoiada no chão; cada lata fica apoiada sobre as tampas das latas da fileira de baixo. Ao lado de uma lata da fileira de baixo, a indicação 12 cm mostra a altura de uma lata. Legenda: Pilha com 4 fileiras (10 latas).\"></p><p>Para uma promoção, ele montou uma pilha completa desse tipo usando exatamente 78 latas. Cada lata tem 12 cm de altura, e cada fileira fica apoiada sobre as tampas das latas da fileira de baixo, de modo que a altura da pilha é a soma das alturas das fileiras.</p><p>A altura dessa pilha de 78 latas é</p>",
+    "options": {
+      "A": "1,56 m.",
+      "B": "4,68 m.",
+      "C": "1,44 m.",
+      "D": "1,08 m."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Com \\(n\\) fileiras, o total de latas é \\(1 + 2 + 3 + \\dots + n\\). Essa soma pode ser calculada juntando o primeiro com o último termo, o segundo com o penúltimo, e assim por diante: \\(1 + 2 + \\dots + n = \\dfrac{n(n + 1)}{2}\\). (Confira no exemplo: \\(\\dfrac{4 \\cdot 5}{2} = 10\\) latas.)</p><p>Então: \\(\\dfrac{n(n + 1)}{2} = 78 \\Rightarrow n^2 + n = 156 \\Rightarrow n^2 + n - 156 = 0\\).</p><p>\\(\\Delta = 1^2 - 4 \\cdot 1 \\cdot (-156) = 1 + 624 = 625\\), \\(\\sqrt{\\Delta} = 25\\), e \\(n = \\dfrac{-1 \\pm 25}{2}\\): \\(n = 12\\) ou \\(n = -13\\). Só \\(n = 12\\) serve.</p><p>Conferindo: \\(1 + 2 + \\dots + 12 = 78\\). A pilha tem 12 fileiras, e sua altura é \\(12 \\cdot 12 = 144\\) cm \\(= 1{,}44\\) m. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Errou o sinal na fórmula: fez \\(n = \\dfrac{1 + 25}{2} = 13\\) em vez de \\(\\dfrac{-1 + 25}{2} = 12\\). Com 13 fileiras seriam 91 latas, e a altura \\(13 \\cdot 12 = 156\\) cm.",
+      "B": "Dividiu 78 por 2 e achou 39 fileiras (\\(39 \\cdot 12 = 468\\) cm). Mas 39 fileiras usariam \\(\\dfrac{39 \\cdot 40}{2} = 780\\) latas.",
+      "D": "Tratou a pilha como um quadrado de latas (\\(n^2 = 78\\), \\(n \\cong 9\\)) e obteve \\(9 \\cdot 12 = 108\\) cm. Na pilha triangular, as fileiras têm 1, 2, 3, ... latas, e não o mesmo número."
+    },
+    "tip": "A soma \\(1 + 2 + \\dots + n\\) vale \\(\\dfrac{n(n+1)}{2}\\); quando o total é dado, isso vira uma equação do 2º grau. Teste a resposta somando."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na sala de aula, o projetor está a 4,5 m da parede e projeta nela uma imagem com 2,4 m de largura, como no esquema, visto de cima.</p><p><img src=\"img/i09/mat-q16.svg\" alt=\"Esquema visto de cima. À esquerda, um projetor; à direita, uma parede. Do projetor saem duas linhas tracejadas que se abrem até as extremidades da imagem na parede, formando um triângulo. A largura da imagem na parede está marcada 2,4 m. Uma linha reta, perpendicular à parede, liga o projetor à parede e está marcada 4,5 m.\"></p><p>A professora quer que a imagem caiba em um quadro branco pendurado nessa parede, e para isso a largura da imagem precisa ser de 1,6 m. Ela vai apenas aproximar o projetor da parede, em linha reta e sem mudar nenhuma configuração do aparelho, de modo que os triângulos formados pela luz sejam semelhantes.</p><p>Para obter a imagem com 1,6 m de largura, o projetor deve ser aproximado da parede em</p>",
+    "options": {
+      "A": "0,8 m.",
+      "B": "1,5 m.",
+      "C": "2,25 m.",
+      "D": "3,0 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Os raios de luz formam um triângulo com vértice no projetor e base na imagem. Como a abertura do projetor não muda, o triângulo novo é semelhante ao antigo: distância e largura da imagem são proporcionais.</p><p>Chamando de \\(d\\) a nova distância até a parede:</p><p>\\[\\frac{d}{4{,}5} = \\frac{1{,}6}{2{,}4}\\]</p><p>Simplificando: \\(\\dfrac{1{,}6}{2{,}4} = \\dfrac{16}{24} = \\dfrac{2}{3}\\). Então</p><p>\\[d = \\frac{2}{3} \\times 4{,}5 = 3{,}0 \\text{ m}\\]</p><p>O projetor estava a 4,5 m e vai ficar a 3,0 m da parede, portanto deve ser aproximado</p><p>\\[4{,}5 - 3{,}0 = 1{,}5 \\text{ m}\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Pensou de forma aditiva: a largura diminuiu \\(2{,}4 - 1{,}6 = 0{,}8\\) m, então aproximou o projetor também 0,8 m. Em figuras semelhantes, as medidas variam na mesma <b>razão</b>, e não pela mesma diferença.",
+      "C": "Inverteu a razão: \\(4{,}5 \\times \\dfrac{2{,}4}{1{,}6} = 6{,}75\\), e \\(6{,}75 - 4{,}5 = 2{,}25\\). Isso seria afastar o projetor, o que aumentaria a imagem.",
+      "D": "3,0 m é a nova distância do projetor à parede, não o quanto ele deve ser aproximado. A pergunta pede o deslocamento: \\(4{,}5 - 3{,}0 = 1{,}5\\) m."
+    },
+    "tip": "Em triângulos semelhantes, divida lado por lado correspondente; e leia com atenção se a pergunta pede a nova medida ou a variação."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O time de futsal de uma escola disputou 8 jogos em um campeonato. A tabela mostra quantos gols o time marcou em cada jogo:</p><table><thead><tr><th>Gols marcados no jogo</th><th>Número de jogos</th></tr></thead><tbody><tr><td>0</td><td>1</td></tr><tr><td>1</td><td>3</td></tr><tr><td>2</td><td>2</td></tr><tr><td>3</td><td>1</td></tr><tr><td>4</td><td>1</td></tr></tbody></table><p>A média, a mediana e a moda do número de gols marcados por jogo, nesse campeonato, são, respectivamente,</p>",
+    "options": {
+      "A": "2; 1,5 e 3.",
+      "B": "2,8; 1,5 e 1.",
+      "C": "1,75; 2 e 1.",
+      "D": "1,75; 1,5 e 1."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Média:</b> primeiro, o total de gols. Cada linha da tabela vale \\(\\text{gols} \\times \\text{jogos}\\):</p><p>\\[0 \\cdot 1 + 1 \\cdot 3 + 2 \\cdot 2 + 3 \\cdot 1 + 4 \\cdot 1 = 0 + 3 + 4 + 3 + 4 = 14\\]</p><p>Foram 8 jogos, então a média é \\(14 \\div 8 = 1{,}75\\) gol por jogo.</p><p><b>Mediana:</b> escrevendo os 8 resultados em ordem: 0, 1, 1, 1, 2, 2, 3, 4. Com uma quantidade par de valores, a mediana é a média dos dois do meio (4º e 5º): \\(\\dfrac{1 + 2}{2} = 1{,}5\\).</p><p><b>Moda:</b> o resultado mais frequente é 1 gol (aconteceu em 3 jogos).</p><p>Média 1,75; mediana 1,5; moda 1. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou a média dos valores 0, 1, 2, 3 e 4 sem levar em conta quantos jogos teve cada um, e deu como moda a maior frequência (3), quando a moda é o <b>valor</b> que mais se repete (1 gol).",
+      "B": "Dividiu os 14 gols por 5 (o número de linhas da tabela) em vez de 8 (o número de jogos).",
+      "C": "Tomou como mediana o valor do meio da coluna 0, 1, 2, 3, 4. A mediana deve ser procurada na lista dos 8 resultados, em que os valores centrais são 1 e 2."
+    },
+    "tip": "Em tabela de frequência, cada valor conta tantas vezes quanto a sua frequência: some \\(\\text{valor} \\times \\text{frequência}\\) e divida pelo total de observações."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma bicicleta, a corrente liga a coroa (a engrenagem dos pedais) à catraca (a engrenagem presa à roda traseira). Na bicicleta de Rafael, a coroa tem 48 dentes e a catraca, 16 dentes. Assim, a cada volta completa dos pedais, a corrente passa por 48 dentes da catraca.</p><p>A roda traseira gira junto com a catraca e tem 70 cm de diâmetro.</p><p>Considerando \\(\\pi = 3{,}14\\) e que a roda não desliza no chão, com 50 pedaladas completas (50 voltas dos pedais), a bicicleta avança</p>",
+    "options": {
+      "A": "109,9 m.",
+      "B": "164,85 m.",
+      "C": "329,7 m.",
+      "D": "659,4 m."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo: quantas voltas a roda dá por pedalada.</b> A cada volta dos pedais, passam 48 dentes pela catraca, que tem 16 dentes. Então a catraca (e a roda) dá</p><p>\\[48 \\div 16 = 3 \\text{ voltas por pedalada}\\]</p><p><b>2º passo: quanto a bicicleta anda em uma volta da roda.</b> É o comprimento da circunferência da roda. Com diâmetro 70 cm:</p><p>\\[C = \\pi \\cdot d = 3{,}14 \\times 70 = 219{,}8 \\text{ cm}\\]</p><p><b>3º passo: total.</b> 50 pedaladas dão \\(50 \\times 3 = 150\\) voltas da roda:</p><p>\\[150 \\times 219{,}8 = 32970 \\text{ cm} = 329{,}7 \\text{ m}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Considerou que a roda dá só 1 volta por pedalada: \\(50 \\times 219{,}8 = 10990\\) cm \\(= 109{,}9\\) m. Como a coroa tem o triplo de dentes da catraca, a roda dá 3 voltas por pedalada.",
+      "B": "Usou \\(\\pi \\cdot r\\) (metade da circunferência) em vez de \\(\\pi \\cdot d\\): \\(3{,}14 \\times 35 = 109{,}9\\) cm por volta, dando 164,85 m. O comprimento da circunferência é \\(2\\pi r = \\pi d\\).",
+      "D": "Tratou os 70 cm como raio: \\(2 \\times 3{,}14 \\times 70 = 439{,}6\\) cm por volta, o dobro do certo. 70 cm é o diâmetro, e o raio é 35 cm."
+    },
+    "tip": "Uma volta da roda faz a bicicleta andar o comprimento da circunferência, \\(\\pi d\\); engrenagens multiplicam as voltas pela razão entre os dentes."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa da escola, foi montado um cordão com 120 lâmpadas coloridas. As cores seguem sempre a mesma ordem, que se repete: azul, azul, vermelho, amarelo, verde; depois, de novo azul, azul, vermelho, amarelo, verde; e assim por diante. A figura mostra as dez primeiras lâmpadas.</p><p><img src=\"img/i09/mat-q19.svg\" alt=\"Cordão com dez lâmpadas numeradas de 1 a 10. As cores são: 1ª azul, 2ª azul, 3ª vermelho, 4ª amarelo, 5ª verde, 6ª azul, 7ª azul, 8ª vermelho, 9ª amarelo, 10ª verde, seguidas de reticências. Legenda: A = azul, Vm = vermelho, Am = amarelo, Vd = verde.\"></p><p>A 88ª lâmpada desse cordão é</p>",
+    "options": {
+      "A": "vermelha.",
+      "B": "verde.",
+      "C": "amarela.",
+      "D": "azul."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O padrão tem <b>5 lâmpadas</b> (azul, azul, vermelho, amarelo, verde) e se repete. As lâmpadas 5, 10, 15, ..., ou seja, as de posição múltipla de 5, fecham um bloco e são verdes.</p><p>Dividindo 88 por 5: \\(88 = 5 \\cdot 17 + 3\\). Depois de 17 blocos completos (85 lâmpadas), a 88ª é a 3ª lâmpada do bloco seguinte.</p><p>Contando: 86ª azul, 87ª azul, 88ª <b>vermelha</b>. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contou apenas as cores diferentes (azul, vermelho, amarelo, verde) e usou um padrão de 4 lâmpadas. Como 88 é múltiplo de 4, concluiu que seria a última cor, verde. Mas o azul aparece duas vezes em cada bloco, que tem 5 lâmpadas.",
+      "C": "Errou por uma posição: começou o novo bloco na 85ª lâmpada (85ª azul, 86ª azul, 87ª vermelha, 88ª amarela). A 85ª é múltiplo de 5 e fecha o bloco, sendo verde.",
+      "D": "Usou o quociente da divisão (17) como se fosse a posição no bloco: \\(17 = 5 \\cdot 3 + 2\\), 2ª posição, azul. O que indica a posição no bloco é o resto (3), não o quociente."
+    },
+    "tip": "Em padrões que se repetem, divida a posição pelo tamanho do bloco: o resto diz o lugar dentro do bloco (resto 0 significa o último elemento)."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa junina da escola, a comissão pendurou no pátio três cordões de luzes que piscam automaticamente, cada um em um ritmo:</p><ul><li>o cordão amarelo pisca a cada 12 segundos;</li><li>o cordão vermelho pisca a cada 18 segundos;</li><li>o cordão azul pisca a cada 30 segundos.</li></ul><p>Às 20h em ponto, os três cordões piscaram ao mesmo tempo.</p><p>Contando o momento das 20h e mantendo esses ritmos, o número de vezes em que os três cordões piscam juntos até as 21h, inclusive, é</p>",
+    "options": {
+      "A": "20.",
+      "B": "21.",
+      "C": "61.",
+      "D": "101."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Os três cordões piscam juntos em instantes que são múltiplos de 12, de 18 e de 30 segundos ao mesmo tempo. O intervalo entre dois encontros é o MMC desses números.</p><p>Fatorando: \\(12 = 2^2 \\cdot 3\\), \\(18 = 2 \\cdot 3^2\\) e \\(30 = 2 \\cdot 3 \\cdot 5\\).</p><p>\\[\\text{MMC}(12, 18, 30) = 2^2 \\cdot 3^2 \\cdot 5 = 180 \\text{ segundos} = 3 \\text{ minutos}\\]</p><p>Então eles piscam juntos às 20h00, 20h03, 20h06, ..., 20h57 e 21h00.</p><p>De 20h a 21h são 60 minutos, ou seja, \\(60 \\div 3 = 20\\) intervalos de 3 minutos. Com 20 intervalos, há 21 momentos (como numa cerca com 20 vãos há 21 estacas), contando as 20h e as 21h.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calculou certo os 20 intervalos de 3 minutos, mas esqueceu de contar o momento inicial das 20h, que o enunciado manda incluir.",
+      "C": "Somou os tempos (\\(12 + 18 + 30 = 60\\) s) em vez de calcular o MMC, obtendo encontros a cada minuto: \\(60 + 1 = 61\\). Somar os intervalos não garante que o instante seja múltiplo de cada um.",
+      "D": "Usou só o MMC de 12 e 18 (36 s), esquecendo o cordão azul: \\(3600 \\div 36 + 1 = 101\\). Em 36 s o cordão azul não pisca, pois 36 não é múltiplo de 30."
+    },
+    "tip": "Acontecimentos periódicos que coincidem: o intervalo entre as coincidências é o MMC; ao contar os momentos, lembre de incluir o primeiro."
+  }
+]

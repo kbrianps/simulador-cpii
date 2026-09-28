@@ -1,0 +1,267 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma escola organizou uma campanha de doação de livros para a biblioteca comunitária do bairro, com a meta de arrecadar 1.200 livros em três semanas.</p><ul><li>Na primeira semana, foram arrecadados 300 livros.</li><li>Na segunda semana, a arrecadação foi 20% maior do que a da primeira.</li><li>Na terceira semana, a arrecadação foi 25% menor do que a da segunda.</li></ul><p>Ao final da terceira semana, a porcentagem da meta que ainda faltava ser atingida era de</p>",
+    "options": {
+      "A": "77,5%.",
+      "B": "22,5%.",
+      "C": "26,25%.",
+      "D": "21,25%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Vamos calcular semana a semana.</p><ul><li>1ª semana: 300 livros.</li><li>2ª semana: 20% a mais que 300. Como \\(20\\%\\) de 300 é \\(0{,}2 \\cdot 300 = 60\\), foram \\(300 + 60 = 360\\) livros.</li><li>3ª semana: 25% a menos que a <b>segunda</b> (360). Como \\(25\\%\\) de 360 é \\(\\dfrac{360}{4} = 90\\), foram \\(360 - 90 = 270\\) livros.</li></ul><p>Total arrecadado: \\(300 + 360 + 270 = 930\\) livros.</p><p>Parte da meta atingida: \\(\\dfrac{930}{1.200} = 0{,}775 = 77{,}5\\%\\).</p><p>A pergunta é quanto <b>falta</b>: \\(100\\% - 77{,}5\\% = 22{,}5\\%\\). (Conferindo: faltam \\(1.200 - 930 = 270\\) livros, e \\(\\dfrac{270}{1.200} = 0{,}225\\).) Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "77,5% é a parte da meta que já foi <b>atingida</b>. O enunciado pergunta quanto ainda faltava, que é \\(100\\% - 77{,}5\\% = 22{,}5\\%\\).",
+      "C": "Calculou os 25% a menos sobre a primeira semana (300 livros), obtendo 225 livros na terceira. Mas o enunciado compara a terceira semana com a <b>segunda</b> (360 livros).",
+      "D": "Somou as porcentagens (\\(+20\\% - 25\\% = -5\\%\\)) e aplicou tudo sobre 300, obtendo 285 livros na terceira semana. Os 25% são calculados sobre 360, e não sobre 300."
+    },
+    "tip": "Em porcentagens encadeadas, preste atenção em qual valor é a base de cada porcentagem."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um jardim tem a forma de um retângulo ABCD, com 40 m de comprimento e 15 m de largura. Nele foi construído um caminho em forma de V, formado por dois trechos retos: um que vai do canto A até o ponto M, ponto médio do lado CD, e outro que vai de M até o canto B, como mostra a figura.</p><p><img src=\"img/i07/mat-q12.svg\" alt=\"Retângulo ABCD com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo. O lado AB mede 40 m e o lado BC mede 15 m. M é o ponto médio do lado de cima, DC. Um caminho tracejado em forma de V liga A a M e M a B.\"></p><p>O jardineiro vai instalar luminárias ao longo de todo o caminho, uma a cada 2,5 m, começando no canto A e terminando no canto B, incluindo uma luminária no ponto M.</p><p>O número total de luminárias instaladas será</p>",
+    "options": {
+      "A": "20.",
+      "B": "29.",
+      "C": "22.",
+      "D": "21."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, a medida de cada trecho do caminho. Como M é ponto médio de DC, temos \\(DM = 20\\) m. O trecho AM é a hipotenusa do triângulo retângulo ADM, cujos catetos são \\(AD = 15\\) m e \\(DM = 20\\) m:</p><p>\\[AM^2 = 15^2 + 20^2 = 225 + 400 = 625 \\;\\Rightarrow\\; AM = 25 \\text{ m}\\]</p><p>Pela simetria da figura, \\(MB = 25\\) m também. O caminho inteiro mede \\(25 + 25 = 50\\) m.</p><p>Com uma luminária a cada 2,5 m, o caminho fica dividido em \\(\\dfrac{50}{2{,}5} = 20\\) intervalos. Como há luminária no começo (A) e no fim (B), o número de luminárias é um a mais que o número de intervalos: \\(20 + 1 = 21\\).</p><p>Repare que M fica a 25 m de A, e \\(25 \\div 2{,}5 = 10\\) é inteiro, então M recebe uma das luminárias, como diz o enunciado. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "20 é o número de <b>intervalos</b> de 2,5 m. Como há luminária nas duas pontas, são 21 luminárias (pense em uma cerca: 2 postes para 1 vão).",
+      "B": "Usou cada trecho como \\(15 + 20 = 35\\) m, somando os catetos em vez de usar Pitágoras. Assim o caminho teria 70 m, com 28 intervalos e 29 luminárias. A hipotenusa mede 25 m, e não 35 m.",
+      "C": "Contou 11 luminárias em cada trecho (\\(25 \\div 2{,}5 + 1\\)) e somou, \\(11 + 11 = 22\\), contando duas vezes a luminária do ponto M, que é comum aos dois trechos."
+    },
+    "tip": "Primeiro Pitágoras para achar o comprimento; depois lembre que, com postes nas duas pontas, há um poste a mais que o número de intervalos."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma pizzaria vende pizzas redondas em dois tamanhos:</p><table><thead><tr><th>Tamanho</th><th>Diâmetro</th><th>Preço</th></tr></thead><tbody><tr><td>Média</td><td>30 cm</td><td>R$ 36,00</td></tr><tr><td>Gigante</td><td>45 cm</td><td>R$ 72,00</td></tr></tbody></table><p>O cartaz da pizzaria diz: <b>“Gigante: o dobro do preço, mas muito mais pizza!”</b>. Considere que as duas pizzas têm a mesma espessura e use \\(\\pi = 3\\).</p><p>Comparando as duas pizzas, é correto afirmar que a gigante tem</p>",
+    "options": {
+      "A": "2,25 vezes a área da média e custa o dobro; por isso, cada cm² de pizza sai mais barato na gigante.",
+      "B": "1,5 vez a área da média e custa o dobro; por isso, cada cm² de pizza sai mais caro na gigante.",
+      "C": "o dobro da área da média e custa o dobro; por isso, o preço de cada cm² é o mesmo nas duas.",
+      "D": "3 vezes a área da média e custa o dobro; por isso, cada cm² de pizza sai mais barato na gigante."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A quantidade de pizza é dada pela <b>área</b> do círculo, \\(A = \\pi r^2\\), e o raio é a metade do diâmetro.</p><p><b>Média:</b> \\(r = 15\\) cm, então \\(A = 3 \\cdot 15^2 = 3 \\cdot 225 = 675\\) cm².</p><p><b>Gigante:</b> \\(r = 22{,}5\\) cm, então \\(A = 3 \\cdot 22{,}5^2 = 3 \\cdot 506{,}25 = 1.518{,}75\\) cm².</p><p>Razão entre as áreas: \\(\\dfrac{1.518{,}75}{675} = 2{,}25\\). Outra forma: o diâmetro foi multiplicado por \\(\\dfrac{45}{30} = 1{,}5\\), e a área fica multiplicada por \\(1{,}5^2 = 2{,}25\\).</p><p>A gigante tem 2,25 vezes a área, mas custa só 2 vezes o preço. Conferindo o preço de cada cm²: média, \\(36 \\div 675 \\cong 0{,}053\\) real; gigante, \\(72 \\div 1.518{,}75 \\cong 0{,}047\\) real. A gigante é mais vantajosa. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Achou que a área cresce na mesma proporção que o diâmetro (\\(45 \\div 30 = 1{,}5\\)). A área depende do quadrado do raio, então cresce \\(1{,}5^2 = 2{,}25\\) vezes.",
+      "C": "Somou os aumentos em vez de multiplicar: pensou em “50% a mais em uma direção e 50% a mais na outra”, \\(1 + 0{,}5 + 0{,}5 = 2\\). O correto é \\(1{,}5 \\cdot 1{,}5 = 2{,}25\\).",
+      "D": "Dividiu o diâmetro da gigante (45 cm) pelo raio da média (15 cm), obtendo 3. É preciso comparar medidas do mesmo tipo: diâmetro com diâmetro ou raio com raio."
+    },
+    "tip": "Se as medidas de uma figura são multiplicadas por \\(k\\), a área fica multiplicada por \\(k^2\\): pizza com diâmetro 1,5 vez maior tem 2,25 vezes mais área."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na cantina da escola, o suco natural tem sempre o mesmo preço, e cada pão de queijo também. Observe o que dois alunos pagaram:</p><ul><li>Caio comprou 2 sucos e 3 pães de queijo e pagou R$ 19,00.</li><li>Bia comprou 3 sucos e 2 pães de queijo e pagou R$ 21,00.</li></ul><p>Nessa cantina, quem comprar 1 suco e 4 pães de queijo pagará</p>",
+    "options": {
+      "A": "R$ 23,00.",
+      "B": "R$ 20,00.",
+      "C": "R$ 17,00.",
+      "D": "R$ 19,00."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(s\\) o preço do suco e de \\(p\\) o preço do pão de queijo (em reais):</p><p>\\[\\begin{cases} 2s + 3p = 19 \\\\ 3s + 2p = 21 \\end{cases}\\]</p><p><b>Somando</b> as equações: \\(5s + 5p = 40\\), logo \\(s + p = 8\\).</p><p><b>Subtraindo</b> a primeira da segunda: \\(s - p = 2\\).</p><p>Somando \\(s + p = 8\\) com \\(s - p = 2\\), obtemos \\(2s = 10\\), então \\(s = 5\\) e \\(p = 3\\).</p><p>Conferindo: \\(2 \\cdot 5 + 3 \\cdot 3 = 19\\) e \\(3 \\cdot 5 + 2 \\cdot 3 = 21\\). Certo!</p><p>Então 1 suco e 4 pães de queijo custam \\(5 + 4 \\cdot 3 = 5 + 12 = 17\\) reais, ou seja, R$ 17,00. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Trocou os preços (suco a R$ 3,00 e pão de queijo a R$ 5,00): \\(3 + 4 \\cdot 5 = 23\\). Teste na compra de Caio: \\(2 \\cdot 3 + 3 \\cdot 5 = 21\\), e não 19.",
+      "B": "Achou \\(s + p = 8\\) e supôs que os dois itens custam R$ 4,00 cada: \\(5 \\cdot 4 = 20\\). Mas os preços são diferentes, já que Bia, com mais sucos, pagou mais que Caio.",
+      "D": "Pensou que 5 itens custam sempre o mesmo que a compra de Caio (também 5 itens). Isso só valeria se suco e pão de queijo tivessem o mesmo preço."
+    },
+    "tip": "Em sistemas com coeficientes \"cruzados\", somar e subtrair as equações costuma resolver rapidinho."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Três irmãos têm idades, em anos, que são números inteiros consecutivos. O produto da idade do mais novo pela idade do mais velho é igual a seis vezes a idade do irmão do meio, mais 6.</p><p>A idade do irmão mais velho é</p>",
+    "options": {
+      "A": "6 anos.",
+      "B": "8 anos.",
+      "C": "7 anos.",
+      "D": "4 anos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Chame de \\(x\\) a idade do mais novo. Então o do meio tem \\(x + 1\\) e o mais velho, \\(x + 2\\).</p><p>A condição do enunciado fica:</p><p>\\[x(x + 2) = 6(x + 1) + 6 \\Rightarrow x^2 + 2x = 6x + 12 \\Rightarrow x^2 - 4x - 12 = 0\\]</p><p>Resolvendo: \\(\\Delta = (-4)^2 - 4 \\cdot 1 \\cdot (-12) = 16 + 48 = 64\\), e \\(x = \\dfrac{4 \\pm 8}{2}\\), ou seja, \\(x = 6\\) ou \\(x = -2\\). Idade não pode ser negativa, então \\(x = 6\\).</p><p>As idades são 6, 7 e 8 anos. Conferindo: \\(6 \\cdot 8 = 48\\) e \\(6 \\cdot 7 + 6 = 48\\). O mais velho tem <b>8 anos</b>. Resposta: <b>B</b>.</p><p>Outro caminho: chamando de \\(m\\) a idade do irmão do meio, \\((m - 1)(m + 1) = 6m + 6\\), isto é, \\(m^2 - 6m - 7 = 0\\), que dá \\(m = 7\\); o mais velho tem \\(7 + 1 = 8\\) anos.</p>",
+    "distractors": {
+      "A": "6 é a raiz da equação, mas \\(x\\) representa a idade do irmão <b>mais novo</b>. Faltou somar 2 para chegar ao mais velho.",
+      "C": "Encontrou \\(x = 6\\), mas achou que \\(x\\) era a idade do irmão do meio e somou apenas 1. Na equação montada, \\(x\\) é a idade do mais novo.",
+      "D": "Usou a outra raiz, \\(-2\\), trocando o sinal para 2: idades 2, 3 e 4. Raízes negativas devem ser descartadas, e \\(2 \\cdot 4 = 8\\) não é igual a \\(6 \\cdot 3 + 6 = 24\\)."
+    },
+    "tip": "Deixe claro o que a incógnita representa antes de montar a equação, descarte raízes sem sentido no problema e, no fim, responda exatamente o que foi pedido."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma receita de bolo de cenoura rende 8 porções e usa os ingredientes da tabela.</p><table><thead><tr><th>Ingrediente</th><th>Quantidade (8 porções)</th></tr></thead><tbody><tr><td>Farinha de trigo</td><td>3 xícaras</td></tr><tr><td>Açúcar</td><td>2 xícaras</td></tr><tr><td>Ovos</td><td>4</td></tr><tr><td>Leite</td><td>240 mL</td></tr></tbody></table><p>Para a festa da turma, Rafael quer fazer essa receita para 20 porções, mantendo as proporções entre os ingredientes. A quantidade de leite que ele deverá usar é</p>",
+    "options": {
+      "A": "600 mL.",
+      "B": "480 mL.",
+      "C": "96 mL.",
+      "D": "720 mL."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A quantidade de leite é diretamente proporcional ao número de porções: mais porções, mais leite, na mesma razão.</p><p>Leite por porção: \\(\\dfrac{240}{8} = 30\\) mL.</p><p>Para 20 porções: \\(20 \\cdot 30 = 600\\) mL.</p><p>Pela regra de três: \\(\\dfrac{8}{240} = \\dfrac{20}{x} \\Rightarrow 8x = 4.800 \\Rightarrow x = 600\\) mL. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É o leite para 16 porções (receita dobrada). Mas 20 porções equivalem a 2,5 receitas: \\(2{,}5 \\cdot 240 = 600\\) mL.",
+      "C": "Inverteu a proporção: \\(240 \\cdot \\frac{8}{20} = 96\\). Com mais porções é preciso <b>mais</b> leite, então a quantidade tem de aumentar.",
+      "D": "Triplicou a receita, o que daria 24 porções, e não 20. O fator correto é \\(\\frac{20}{8} = 2{,}5\\)."
+    },
+    "tip": "Ache quanto vai em uma porção e multiplique pelo número de porções desejado."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lia acompanhou o consumo de água da sua casa no primeiro semestre do ano e organizou os dados no gráfico abaixo.</p><p><img src=\"img/i07/mat-q17.svg\" alt=\"Gráfico de barras verticais intitulado Consumo de água da casa de Lia. Eixo vertical: Consumo (metros cúbicos), de 0 a 20. Eixo horizontal: meses. Valores escritos sobre as barras: janeiro, 12; fevereiro, 15; março, 10; abril, 13; maio, 18; junho, 9.\"></p><p>A maior redução no consumo de um mês para o mês seguinte ocorreu</p>",
+    "options": {
+      "A": "de fevereiro para março, com redução de 5 m³.",
+      "B": "de abril para maio, com redução de 5 m³.",
+      "C": "de maio para junho, com redução de 18 m³.",
+      "D": "de maio para junho, com redução de 9 m³."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Calcule a variação entre cada mês e o seguinte (valor do mês seguinte menos o do mês anterior):</p><ul><li>jan para fev: \\(15 - 12 = +3\\) (aumento)</li><li>fev para mar: \\(10 - 15 = -5\\) (redução de 5 m³)</li><li>mar para abr: \\(13 - 10 = +3\\) (aumento)</li><li>abr para mai: \\(18 - 13 = +5\\) (aumento)</li><li>mai para jun: \\(9 - 18 = -9\\) (redução de 9 m³)</li></ul><p>Só há duas reduções: 5 m³ e 9 m³. A maior é de maio para junho, com 9 m³. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "De fevereiro para março houve de fato uma redução de 5 m³, mas ela é menor que a de maio para junho (9 m³).",
+      "B": "De abril para maio o consumo passou de 13 para 18 m³: foi um <b>aumento</b> de 5 m³, e não uma redução.",
+      "C": "Os meses estão certos, mas 18 m³ é o consumo de maio, e não a redução. A redução é \\(18 - 9 = 9\\) m³."
+    },
+    "tip": "Variação é sempre \"depois menos antes\": o sinal diz se aumentou ou diminuiu."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma barra de ferro foi dobrada no ponto P e presa às duas barras horizontais de um portão, nos pontos A e B. As barras horizontais estão representadas pelas retas paralelas \\(r\\) e \\(s\\), e as medidas de alguns ângulos estão indicadas na figura.</p><p><img src=\"img/i07/mat-q18.svg\" alt=\"Duas retas horizontais paralelas, r em cima e s embaixo. O ponto A está em r e o ponto B está em s, um pouco à direita de A. Uma linha poligonal sai de A, desce para a direita até o ponto P, situado entre as retas e à direita de A e B, e depois desce para a esquerda até B. Em A, o ângulo entre a semirreta de r voltada para a esquerda e o segmento AP, abaixo de r, mede (3x + 10) graus. Em B, o ângulo entre a semirreta de s voltada para a direita e o segmento BP, acima de s, mede (x + 20) graus. Em P, o ângulo APB, com abertura voltada para a esquerda, mede 110 graus.\"></p><p>A medida do ângulo indicado por \\((x + 20)^\\circ\\) é</p>",
+    "options": {
+      "A": "40°.",
+      "B": "57,5°.",
+      "C": "60°.",
+      "D": "80°."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.angulos",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Trace por P uma reta \\(t\\) paralela a \\(r\\) e \\(s\\). Ela divide o ângulo de 110° em duas partes.</p><p><b>Parte de cima.</b> Em A, o ângulo \\((3x + 10)^\\circ\\) é o ângulo <b>obtuso</b>, do lado esquerdo. O ângulo entre AP e a semirreta de \\(r\\) voltada para a <b>direita</b> é o suplemento dele: \\(180^\\circ - (3x + 10)^\\circ = (170 - 3x)^\\circ\\). Esse ângulo e a parte de cima do ângulo em P são alternos internos (entre as paralelas \\(r\\) e \\(t\\)), então são iguais: a parte de cima mede \\((170 - 3x)^\\circ\\).</p><p><b>Parte de baixo.</b> Do mesmo modo, com as paralelas \\(t\\) e \\(s\\), a parte de baixo do ângulo em P é alterna interna ao ângulo em B e mede \\((x + 20)^\\circ\\).</p><p>Somando as duas partes:</p><p>\\[(170 - 3x) + (x + 20) = 110 \\;\\Rightarrow\\; 190 - 2x = 110 \\;\\Rightarrow\\; 2x = 80 \\;\\Rightarrow\\; x = 40\\]</p><p>Assim, \\(x + 20 = 60\\), e o ângulo pedido mede 60°.</p><p>Conferindo: em A, \\(3 \\cdot 40 + 10 = 130^\\circ\\), cujo suplemento é 50°; e \\(50^\\circ + 60^\\circ = 110^\\circ\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Somou diretamente \\((3x + 10) + (x + 20) = 110\\), achando \\(x = 20\\). Mas \\(3x + 10\\) é o ângulo obtuso do lado de fora; quem entra na soma é o seu suplemento, \\(170 - 3x\\).",
+      "B": "Igualou o suplemento do ângulo em A ao ângulo em B (\\(170 - 3x = x + 20\\), \\(x = 37{,}5\\)), como se fossem alternos. Eles não são alternos entre si; a soma deles é que dá o ângulo em P.",
+      "D": "Tratou A, P e B como vértices de um triângulo e fez a soma \\((170 - 3x) + (x + 20) + 110 = 180\\), achando \\(x = 60\\). Os ângulos em A e B não são ângulos internos de um triângulo APB."
+    },
+    "tip": "Em uma \"dobra\" entre duas paralelas, o ângulo da dobra é a soma dos ângulos que os segmentos fazem com as paralelas, do mesmo lado da abertura."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma lanchonete monta combos com as seguintes regras:</p><ul><li>1 sanduíche, entre 4 opções: frango, carne, queijo e vegano;</li><li>1 bebida, entre 3 opções: suco, refrigerante e milk-shake;</li><li>sobremesa opcional: o cliente pode escolher sorvete, pudim ou ficar sem sobremesa.</li></ul><p>Como o milk-shake da casa é feito com leite, a lanchonete <b>não</b> permite combinar o sanduíche vegano com o milk-shake.</p><p>O número de combos diferentes que podem ser montados é</p>",
+    "options": {
+      "A": "33.",
+      "B": "36.",
+      "C": "22.",
+      "D": "35."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro contamos todos os combos, sem a restrição, pelo princípio multiplicativo. Na sobremesa há 3 possibilidades: sorvete, pudim ou nenhuma.</p><p>\\[4 \\cdot 3 \\cdot 3 = 36\\]</p><p>Agora retiramos os combos proibidos: sanduíche vegano (1 opção) com milk-shake (1 opção), com qualquer escolha de sobremesa (3 possibilidades):</p><p>\\[1 \\cdot 1 \\cdot 3 = 3\\]</p><p>Total permitido: \\(36 - 3 = 33\\) combos. Resposta: <b>A</b>.</p><p>(Outro caminho: os 3 sanduíches não veganos combinam com as 3 bebidas, \\(3 \\cdot 3 \\cdot 3 = 27\\); o vegano só com 2 bebidas, \\(1 \\cdot 2 \\cdot 3 = 6\\); e \\(27 + 6 = 33\\).)</p>",
+    "distractors": {
+      "B": "É o total sem a restrição. Faltou retirar os 3 combos com sanduíche vegano e milk-shake.",
+      "C": "Esqueceu que ficar sem sobremesa também é uma escolha: contou \\(4 \\cdot 3 \\cdot 2 = 24\\) e tirou 2. Com a opção \"sem sobremesa\", são 3 possibilidades para esse item.",
+      "D": "Retirou só 1 combo proibido. Mas a dupla vegano e milk-shake aparece com cada uma das 3 escolhas de sobremesa, então são 3 combos proibidos."
+    },
+    "tip": "\"Não escolher\" também conta como opção; e, com restrição, é comum contar tudo e tirar os casos proibidos."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A caixa-d’água de uma casa tem a forma de um cilindro com 2 m de diâmetro e 1,5 m de altura, apoiado em uma base horizontal. Em certo dia, a água dentro dela estava a 1,2 m de altura, como mostra a figura.</p><p><img src=\"img/i07/mat-q20.svg\" alt=\"Desenho em perspectiva de uma caixa-d’água em forma de cilindro com 2 m de diâmetro, indicado na tampa, e 1,5 m de altura, indicado à direita. Dentro dela, a água, em azul, ocupa a parte de baixo até a altura de 1,2 m, indicada à esquerda.\"></p><p>Por causa da posição do cano de saída, os últimos 20 cm de água no fundo da caixa nunca saem pelas torneiras. Nessa casa moram 5 pessoas, e cada uma consome 140 litros de água por dia. O abastecimento da rua foi interrompido, e nenhuma água entrou na caixa a partir desse dia.</p><p>Considerando \\(\\pi = 3\\) e \\(1\\ \\text{m}^3 = 1.000\\) litros, o número de dias <b>completos</b> em que a água da caixa consegue abastecer a casa é</p>",
+    "options": {
+      "A": "5.",
+      "B": "6.",
+      "C": "17.",
+      "D": "4."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O raio da base é metade do diâmetro: \\(r = 1\\) m. A área da base é \\(\\pi r^2 = 3 \\cdot 1^2 = 3\\) m².</p><p>A água que pode ser usada vai da altura 1,2 m até a altura 0,2 m (os 20 cm do fundo não saem): uma camada de \\(1{,}2 - 0{,}2 = 1{,}0\\) m.</p><p>Volume utilizável: \\(V = 3 \\cdot 1{,}0 = 3\\) m³ \\(= 3.000\\) litros.</p><p>Consumo diário da casa: \\(5 \\cdot 140 = 700\\) litros.</p><p>\\(3.000 \\div 700 \\cong 4{,}3\\). A água dá para 4 dias completos (em 4 dias gastam-se 2.800 L; sobram 200 L, que não bastam para um quinto dia inteiro). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou toda a água, até a altura de 1,2 m: \\(3 \\cdot 1{,}2 = 3{,}6\\) m³ \\(= 3.600\\) L e \\(3.600 \\div 700 \\cong 5{,}1\\). Esqueceu que os 20 cm do fundo não saem pelas torneiras.",
+      "B": "Calculou a capacidade total da caixa, usando a altura de 1,5 m: \\(3 \\cdot 1{,}5 = 4{,}5\\) m³ \\(= 4.500\\) L e \\(4.500 \\div 700 \\cong 6{,}4\\). A caixa não estava cheia.",
+      "C": "Usou o diâmetro (2 m) no lugar do raio: \\(3 \\cdot 2^2 \\cdot 1{,}0 = 12\\) m³ \\(= 12.000\\) L e \\(12.000 \\div 700 \\cong 17{,}1\\)."
+    },
+    "tip": "Volume do cilindro = área da base \\(\\pi r^2\\) vezes a altura da camada que interessa; confira se é o raio ou o diâmetro e qual parte da água realmente pode ser usada."
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Os rios que a cidade escondeu",
+    "subtitle": "Canalizados e cobertos por avenidas, os cursos d’água urbanos voltam ao debate a cada temporal",
+    "author": "Marina Albuquerque",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Quem atravessa de carro certas avenidas das grandes cidades brasileiras raramente",
+      "imagina que, poucos metros abaixo do asfalto, corre um rio. Durante boa parte do século XX,",
+      "córregos e riachos que cortavam os bairros foram retificados, isto é, tiveram suas curvas",
+      "eliminadas, e depois enterrados em galerias de concreto. A lógica parecia simples: um rio",
+      "escondido não ocupa espaço, não exala mau cheiro e abre caminho para novas pistas de",
+      "trânsito.",
+      "A natureza, no entanto, não costuma obedecer às pranchetas. Quando chove forte, a",
+      "água que antes se infiltrava na terra encontra uma cidade quase inteiramente",
+      "impermeabilizada<sup>1</sup>: telhados, calçadas e ruas asfaltadas fazem com que ela escorra",
+      "rapidamente para as partes mais baixas. Os canais subterrâneos, planejados para outra",
+      "época, recebem em minutos um volume que não conseguem escoar. O resultado é conhecido de",
+      "quem vive nas metrópoles: ruas alagadas, carros ilhados, casas invadidas pela lama e, nos",
+      "casos mais graves, perda de vidas.",
+      "O problema se agrava com o lixo. Garrafas, sacolas plásticas e restos de entulho",
+      "descartados de maneira irregular vão parar nos bueiros e nas margens, bloqueando a passagem",
+      "da água justamente quando ela mais precisa correr. Assim, a enchente, que muitos atribuem",
+      "apenas à chuva, é também resultado de escolhas feitas ao longo de décadas, algumas pelo",
+      "poder público, outras por cada um de nós.",
+      "Para a engenheira Lúcia Barreto, especialista em recursos hídricos ouvida pela",
+      "reportagem, o caminho não é apenas construir galerias maiores. “Durante muito tempo,",
+      "tratamos o rio como um inimigo a ser vencido. Hoje sabemos que é preciso devolver espaço a",
+      "ele”, afirma. Ela cita soluções que já aparecem em projetos de diversas cidades: parques",
+      "lineares ao longo das margens, que servem de área de lazer nos dias secos e de reservatório",
+      "natural nos dias de temporal; jardins de chuva, canteiros rebaixados que acumulam a água e",
+      "permitem que ela se infiltre lentamente; e pisos permeáveis<sup>2</sup> em praças e estacionamentos.",
+      "Há ainda iniciativas que buscam reabrir trechos de rios canalizados e recuperar a",
+      "vegetação das margens, a chamada mata ciliar<sup>3</sup>. Essas obras são caras e demoradas, mas seus",
+      "defensores argumentam que o custo de não fazer nada também é alto, embora nem sempre",
+      "apareça nas contas oficiais: ele se mede em prejuízos a cada verão.",
+      "Enquanto as grandes mudanças não chegam, o cuidado começa em gestos cotidianos.",
+      "Descartar o lixo corretamente, não jogar óleo de cozinha na pia e evitar o desperdício de",
+      "água tratada são atitudes que, somadas, fazem diferença. Afinal, o rio que a cidade",
+      "escondeu continua lá embaixo, correndo, à espera de que alguém volte a enxergá-lo."
+    ],
+    "para_starts": [
+      1,
+      7,
+      14,
+      19,
+      26,
+      30
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "impermeabilizada",
+        "def": "coberta por materiais que não deixam a água penetrar no solo"
+      },
+      {
+        "term": "permeáveis",
+        "def": "que deixam a água passar"
+      },
+      {
+        "term": "mata ciliar",
+        "def": "vegetação que cresce nas margens de rios e córregos e as protege, como os cílios protegem os olhos"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Rio de baixo",
+    "subtitle": null,
+    "author": "Helena Duarte",
+    "kind": "poema",
+    "numbering": "every5",
+    "lines": [
+      "Havia um rio no meu bairro,",
+      "me contou meu avô um dia:",
+      "tinha peixe, tinha margem,",
+      "tinha menino e alegria.",
+      "Vieram homens com projetos,",
+      "vieram máquinas e pressa,",
+      "deram ao rio um teto cinza",
+      "e ao bairro uma promessa.",
+      "Hoje o rio corre calado",
+      "debaixo do meu sapato,",
+      "engole o que a rua joga:",
+      "garrafa, sacola, trapo.",
+      "Mas quando o céu desaba",
+      "e a cidade perde o prumo<sup>1</sup>,",
+      "o rio se lembra do seu nome",
+      "e sobe à procura do rumo.",
+      "Invade a sala, a escola,",
+      "arrasta a rua inteira:",
+      "não é vingança, é memória",
+      "de quem já teve ribeira<sup>2</sup>."
+    ],
+    "para_starts": [],
+    "stanza_breaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "prumo",
+        "def": "equilíbrio, rumo certo"
+      },
+      {
+        "term": "ribeira",
+        "def": "margem de rio; terreno à beira de um curso d’água"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T3",
+    "label": "Texto 3",
+    "title": "A mangueira de seu Arlindo",
+    "subtitle": null,
+    "author": "Rodrigo Tavares",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Todo sábado, às sete da manhã, seu Arlindo cumpre o mesmo ritual: abre o portão,",
+      "desenrola a mangueira verde e começa a “varrer” a calçada com um jato d’água. As folhas da",
+      "amendoeira vão sendo empurradas, uma a uma, até o bueiro da esquina. Leva quase uma hora",
+      "nisso. Da minha janela, acompanho a cena com a xícara de café esfriando na mão.",
+      "Neste sábado, tomei coragem e desci.",
+      "– Bom dia, seu Arlindo! O senhor sabe que dá pra fazer isso com uma vassoura, né?",
+      "Ele fechou a torneira sem pressa, me olhou de cima a baixo e respondeu:",
+      "– Menino, eu pago a minha conta direitinho. A água é minha, tá entendendo?",
+      "Fiquei sem resposta e voltei para casa remoendo a frase. A água é dele, a conta é",
+      "dele, a calçada, de certa forma, também. Mas o rio de onde essa água sai não é de ninguém;",
+      "ou melhor, é de todo mundo. E o bueiro da esquina, entupido de folhas, é o mesmo que",
+      "transborda em janeiro e transforma a nossa rua num córrego de lama.",
+      "No sábado seguinte, acordei com um barulho diferente: rasc, rasc, rasc. Corri à",
+      "janela. Seu Arlindo varria a calçada com uma vassoura de piaçava<sup>1</sup>, resmungando alguma coisa",
+      "que não consegui entender. As folhas iam para um saco de lixo, e não para o bueiro. Quando",
+      "me viu, ergueu a vassoura como quem ergue uma bandeira:",
+      "– Satisfeito, doutor?",
+      "Sorri e não disse nada. Há vitórias que a gente só preserva se não comemorar."
+    ],
+    "para_starts": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      9,
+      13,
+      17,
+      18
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [
+      {
+        "term": "piaçava",
+        "def": "fibra vegetal dura usada para fazer vassouras"
+      }
+    ],
+    "epigraph": null
+  },
+  {
+    "id": "T4",
+    "label": "Texto 4",
+    "title": "CADA GOTA CONTA",
+    "subtitle": "Cartaz de campanha, descrito em palavras: no alto, uma torneira da qual cai uma gota em forma de coração; abaixo dela, os textos a seguir, em letras grandes.",
+    "author": null,
+    "kind": "outro",
+    "numbering": "none",
+    "lines": [
+      "Feche a torneira enquanto escova os dentes.",
+      "Tome banhos mais curtos: cada minuto a menos no chuveiro economiza água.",
+      "Conserte vazamentos: uma torneira pingando desperdiça água o dia inteiro.",
+      "Troque a mangueira pela vassoura na limpeza de calçadas e quintais.",
+      "Lixo no bueiro vira enchente na sua rua.",
+      "A água que chega limpa à sua casa fez um longo caminho até você. Cuide dela também no caminho de volta.",
+      "<b>Água: um bem de todos. Cuidar dela é tarefa de cada um.</b>"
+    ],
+    "para_starts": [],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Campanha fictícia. Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

@@ -8,6 +8,8 @@ const EXAM = Object.fromEntries(EXAMS.map((e) => [e.id, e]));
 const Q = {};
 for (const e of EXAMS) {
   e.official = e.id.startsWith("p");
+  e.inedita = e.answer_key_kind === "inedita";
+  e.origin = e.official ? "oficial" : e.inedita ? "inedita" : "extra";
   e.textById = Object.fromEntries((e.texts || []).map((t) => [t.id, t]));
   for (const q of e.questions) {
     q.id = `${e.id}:${q.n}`;

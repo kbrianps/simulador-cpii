@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" width="400" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="400" height="380" fill="#fff"/>
+  <line x1="20" y1="350" x2="380" y2="350" stroke="#333" stroke-width="2"/>
+  <rect x="195" y="164" width="10" height="186" fill="#999" stroke="#555" stroke-width="1"/>
+  <polygon points="140,60 260,60 200,164" fill="#fff" stroke="#c62828" stroke-width="9" stroke-linejoin="round"/>
+  <polygon points="140,60 260,60 200,164" fill="none" stroke="#333" stroke-width="1"/>
+  <line x1="140" y1="42" x2="260" y2="42" stroke="#333" stroke-width="1.2"/>
+  <line x1="140" y1="36" x2="140" y2="48" stroke="#333" stroke-width="1.2"/>
+  <line x1="260" y1="36" x2="260" y2="48" stroke="#333" stroke-width="1.2"/>
+  <text x="200" y="32" text-anchor="middle">60 cm</text>
+  <text x="152" y="120" text-anchor="end">60 cm</text>
+  <text x="248" y="120" text-anchor="start">60 cm</text>
+  <line x1="205" y1="164" x2="330" y2="164" stroke="#333" stroke-width="1" stroke-dasharray="5 4"/>
+  <line x1="320" y1="164" x2="320" y2="350" stroke="#333" stroke-width="1.2"/>
+  <line x1="314" y1="164" x2="326" y2="164" stroke="#333" stroke-width="1.2"/>
+  <line x1="314" y1="350" x2="326" y2="350" stroke="#333" stroke-width="1.2"/>
+  <text x="330" y="262">2 m</text>
+  <text x="200" y="372" text-anchor="middle" font-size="14">(fora de escala)</text>
+</svg>

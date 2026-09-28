@@ -1,0 +1,293 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 é um artigo de opinião: nele, a autora defende um ponto de vista (a tese) e apresenta argumentos para sustentá-lo.</p><p>A tese defendida no texto é a de que</p>",
+    "options": {
+      "A": "o funk e o rap devem ficar livres de qualquer crítica, por serem produzidos nas periferias.",
+      "B": "as manifestações musicais das periferias são cultura legítima e não devem ser julgadas pela origem de quem as produz.",
+      "C": "o samba deixou de pertencer à periferia no momento em que passou a representar o país no exterior.",
+      "D": "as batalhas de rima devem substituir as aulas de língua portuguesa nas escolas das periferias."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A tese é a ideia principal que a autora quer provar. Ela aparece de forma mais clara no último parágrafo: reconhecer essa produção significa “admitir que cultura não é privilégio de quem mora perto dos teatros e dos museus” (linhas 28-29), e “quem a ignora conhece apenas metade do Brasil” (linha 30).</p><p>Os argumentos seguem essa direção: o samba já foi perseguido e depois virou patrimônio (linhas 6-12); o funk e o rap sofrem hoje um preconceito parecido, porque se julga “o gênero inteiro pelo lugar de onde ele vem e pelo endereço de quem o produz” (linhas 17-18); e essas músicas dão voz à periferia e desenvolvem habilidades nos jovens (linhas 20-26).</p><p>Tudo converge para a ideia de que essa música é cultura legítima e não deve ser julgada pela origem de quem a faz.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A autora diz o contrário: “É claro que há letras que merecem crítica, como em qualquer estilo musical” (linhas 16-17). Ela condena o preconceito, e não a crítica.",
+      "C": "O texto não diz que o samba deixou de ser da periferia. A trajetória do samba (linhas 6-12) é usada como exemplo de uma música perseguida que depois foi reconhecida.",
+      "D": "O texto só menciona que “há professores que já levam essas rimas para a sala de aula” (linha 26). Levar rimas para a aula não é o mesmo que substituir as aulas de português."
+    },
+    "tip": "A tese costuma ser retomada na conclusão: releia o último parágrafo e veja qual alternativa resume a ideia que todos os argumentos defendem."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“O que antes era <b><u>caso de polícia</u></b> virou patrimônio.” (linhas 11-12)</p></blockquote><p>No contexto do segundo parágrafo, a expressão sublinhada significa</p>",
+    "options": {
+      "A": "um assunto que exigia investigação cuidadosa.",
+      "B": "um problema que já havia sido resolvido.",
+      "C": "algo visto como ameaça à ordem e reprimido pelas autoridades.",
+      "D": "um tema frequente nas reportagens policiais da imprensa."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para entender a expressão, olhe o que vem antes dela no parágrafo. A autora conta que o samba “era visto com desconfiança” (linha 8), que rodas de samba “chegaram a ser dispersadas pela polícia” (linhas 8-9) e que o pandeiro podia servir de pretexto para prender alguém por vadiagem (linhas 9-10).</p><p>Portanto, dizer que o samba “era caso de polícia” significa que ele era tratado como algo perigoso para a ordem, uma prática que as autoridades reprimiam. A frase resume a mudança: aquilo que era perseguido “virou patrimônio”, isto é, passou a ser valorizado como bem cultural do país.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Leva o sentido para “investigação”, mas o texto não fala de apurar crimes: fala de reprimir rodas de samba e prender sambistas.",
+      "B": "Não há ideia de problema resolvido. Ao contrário, o samba era tratado como problema e só depois foi valorizado.",
+      "D": "É uma leitura literal demais da palavra “polícia”. O texto não menciona jornais ou reportagens; a expressão fala da repressão sofrida pelo samba."
+    },
+    "tip": "Expressões como “caso de polícia” têm sentido figurado: descubra o significado pelas pistas do próprio parágrafo, e não só pelas palavras isoladas."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“É claro que há letras que merecem crítica, como em qualquer estilo musical. O problema é outro: julga-se o gênero inteiro pelo lugar de onde ele vem e pelo endereço de quem o produz.” (linhas 16-18)</p></blockquote><p>No desenvolvimento da argumentação, a primeira frase do trecho acima tem a função de</p>",
+    "options": {
+      "A": "admitir uma possível objeção dos leitores para, em seguida, mostrar que a questão principal é outra.",
+      "B": "reforçar a opinião de quem considera o funk e o rap “música de bandido”.",
+      "C": "apresentar a conclusão do texto, antecipando a proposta do último parágrafo.",
+      "D": "introduzir um dado de pesquisa que comprova a qualidade das letras de funk e de rap."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Com “É claro que há letras que merecem crítica”, a autora <b>concorda em parte</b> com quem critica o funk e o rap: ela reconhece que algumas letras podem ser criticadas. Essa estratégia se chama <b>concessão</b>: o autor admite um argumento contrário para mostrar que é justo e, logo depois, apresenta o que considera mais importante.</p><p>É exatamente o que acontece na frase seguinte: “O problema é outro” (linha 17). O foco volta para a tese: o preconceito está em julgar a música pelo lugar de origem e pelo endereço de quem a faz. Seria possível unir as duas frases com um conectivo concessivo: “<b>Embora</b> haja letras que merecem crítica, o problema é outro”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A autora não reforça o preconceito: ela reconhece que há letras criticáveis “como em qualquer estilo musical”, isto é, o problema não é exclusivo do funk e do rap.",
+      "C": "O trecho está no meio do terceiro parágrafo e prepara o argumento seguinte; a conclusão só aparece no último parágrafo (linhas 27-32).",
+      "D": "Não há nenhum dado de pesquisa no trecho, apenas uma afirmação da autora. Além disso, a frase fala de letras que merecem crítica, e não da qualidade delas."
+    },
+    "tip": "Expressões como “é claro que”, “é verdade que” e “sem dúvida” muitas vezes abrem uma concessão: o autor cede um ponto antes de voltar à sua tese."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Talvez, daqui a algumas décadas, as batalhas de rima de hoje sejam estudadas como hoje estudamos os primeiros sambas. Seria bom que, desta vez, não fosse preciso esperar tanto para ouvi-<b><u>las</u></b>.” (linhas 30-32)</p></blockquote><p>O pronome sublinhado retoma a expressão</p>",
+    "options": {
+      "A": "“algumas décadas”.",
+      "B": "“os primeiros sambas”.",
+      "C": "“as periferias”.",
+      "D": "“as batalhas de rima de hoje”."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pronome oblíquo “-las” (forma de “as” depois de verbo terminado em <i>r</i>: ouvir + as = ouvi-las) está no <b>feminino plural</b>, então retoma uma expressão feminina e plural.</p><p>Pergunte: o que a autora não quer esperar tanto para <b>ouvir</b>? O sentido pede algo que se possa ouvir e que ainda não é devidamente reconhecido: <b>as batalhas de rima de hoje</b> (linha 31). A autora compara: o samba demorou décadas para ser valorizado; ela torce para que, “desta vez”, o reconhecimento das batalhas de rima venha mais cedo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Décadas” é feminino plural, mas não faz sentido “ouvir décadas”. A expressão indica tempo, não aquilo que deve ser ouvido.",
+      "B": "“Os primeiros sambas” é masculino plural e não concordaria com “-las”. Além disso, os primeiros sambas já foram reconhecidos; o texto fala de ouvir quem ainda espera reconhecimento.",
+      "C": "“Periferias” é feminino plural e aparece antes (linha 28), mas não é o referente. A frase anterior tem como sujeito “as batalhas de rima de hoje”, e o “desta vez” compara o reconhecimento delas com o dos primeiros sambas, que demorou décadas: é às batalhas de rima que o pronome se refere."
+    },
+    "tip": "Para achar o referente de um pronome, confira gênero e número e depois substitua: “esperar tanto para ouvir as batalhas de rima” faz sentido; as outras trocas não."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Quem para e escuta percebe outra coisa<b><u>:</u></b> uma aula improvisada de ritmo, rima, argumentação e memória.” (linhas 4-5)</p></blockquote><p>No trecho acima, os dois-pontos foram empregados para introduzir</p>",
+    "options": {
+      "A": "uma ideia que se opõe ao que foi dito antes.",
+      "B": "a fala de uma das pessoas presentes na roda.",
+      "C": "um esclarecimento sobre o que seria “outra coisa”.",
+      "D": "uma consequência do barulho produzido pela caixa de som."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A expressão “outra coisa” é vaga: o leitor fica se perguntando <i>que coisa?</i>. Logo depois dos dois-pontos vem a resposta: “uma aula improvisada de ritmo, rima, argumentação e memória”.</p><p>Esse é um dos usos mais comuns dos dois-pontos: introduzir uma <b>explicação</b> ou <b>especificação</b> de um termo anterior. Poderíamos trocar os dois-pontos por “ou seja” sem mudar o sentido: “percebe outra coisa, ou seja, uma aula improvisada...”.</p><p>O contraste com quem “passa de carro” (linha 4) existe, mas é marcado pela oposição entre as duas frases (“Quem passa de carro” x “Quem para e escuta”), e não pelos dois-pontos.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A oposição existe entre as duas frases (quem passa de carro x quem para e escuta), mas o que vem depois dos dois-pontos não se opõe a “outra coisa”: explica o que ela é.",
+      "B": "Dois-pontos podem anunciar uma fala, mas aqui não há discurso direto, travessão nem aspas: ninguém da roda está falando.",
+      "D": "O trecho não indica causa e consequência. “Uma aula improvisada” não resulta do barulho; é aquilo que o observador atento percebe."
+    },
+    "tip": "Quando os dois-pontos vêm depois de uma palavra vaga (“outra coisa”, “um detalhe”, “o seguinte”), eles costumam introduzir a explicação dessa palavra."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A letra de rap “Microfone aberto” (Texto 2) apresenta marcas da linguagem oral e de uma variedade urbana popular, como em “é nóis” e “tá” (verso 1), “Os moleque chega cedo” (verso 3) e “Cê acha” (verso 5).</p><p>Sobre o uso dessas marcas no texto, é correto afirmar que ele</p>",
+    "options": {
+      "A": "aproxima a letra da fala da comunidade retratada e reforça a identidade do grupo que se expressa no rap.",
+      "B": "demonstra que a autora desconhece a norma-padrão, o que diminui o valor artístico da letra.",
+      "C": "é inadequado ao gênero, pois as letras de música exigem sempre o registro formal da língua.",
+      "D": "se limita ao vocabulário, já que não há no texto nenhuma diferença em relação às regras de concordância da norma-padrão."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A língua varia conforme a região, o grupo social, a idade e a situação de comunicação. Nenhuma variedade é “errada” em si: cada uma é <b>adequada</b> ou não a uma situação.</p><p>O rap nasce da fala das ruas e é cantado para a própria comunidade. Por isso, usar “nóis”, “tá”, “cê” e “os moleque chega” é uma escolha coerente com o gênero: a letra soa como a fala de quem está na roda e afirma, pela própria linguagem, a identidade da periferia (“a quebrada tem história”, verso 16).</p><p>Repare que a variação aparece também na gramática: em “Os moleque chega cedo” (verso 3), o plural é marcado só no artigo “Os”, e o verbo fica no singular. Na norma-padrão, seria “Os moleques chegam cedo”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É uma visão preconceituosa. A variedade popular é uma escolha expressiva adequada ao rap, e não prova de desconhecimento. O valor artístico não depende de seguir a norma-padrão.",
+      "C": "Letras de música não exigem registro formal. A adequação depende do gênero e do público: no rap, a linguagem das ruas faz parte da proposta.",
+      "D": "Há diferença de concordância em “Os moleque chega cedo” (verso 3): o plural aparece só no artigo, e o verbo fica no singular. Na norma-padrão, seria “Os moleques chegam cedo”."
+    },
+    "tip": "Em questões de variação linguística, desconfie de alternativas que chamam uma variedade de “errada” ou “inferior”: o critério é a adequação à situação e ao gênero."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>A letra de rap (Texto 2) emprega diversas figuras de linguagem. Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem presente nele:</p>",
+    "options": {
+      "A": "“Me chamaram de ninguém, me chamaram de ameaça,” (verso 9) – eufemismo",
+      "B": "“A caneta é minha arma, o papel é meu escudo,” (verso 11) – metáfora",
+      "C": "“Então solta o som, DJ, que a noite ainda é criança,” (verso 13) – antítese",
+      "D": "“Se o mundo não me escuta, eu aumento o volume:” (verso 15) – paradoxo"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Metáfora</b> é a figura em que se atribui a um ser o nome ou a característica de outro, com base numa semelhança, sem usar conectivo de comparação (como “como” ou “feito”).</p><p>Em “A caneta é minha arma, o papel é meu escudo” (verso 11), a caneta é chamada de arma e o papel de escudo. A semelhança é a função: assim como a arma ataca e o escudo protege, a escrita permite ao rapper responder a quem o chama “de ninguém” e “de ameaça” (verso 9) e se defender do preconceito. Não há “como”: é metáfora.</p><p>Nas outras alternativas, a figura não corresponde ao trecho:</p><ul><li>A: não há suavização; há repetição de “me chamaram de” no início das duas partes do verso (anáfora);</li><li>C: “a noite ainda é criança” é uma metáfora (expressão popular que significa “a noite está só começando”), e não há palavras de sentido oposto;</li><li>D: não há contradição; a frase apenas mostra uma reação à indiferença do mundo.</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Eufemismo suaviza algo desagradável, mas o verso não suaviza nada: repete de propósito “me chamaram de”, uma anáfora que destaca o preconceito sofrido.",
+      "C": "Antítese exige palavras de sentido oposto no mesmo trecho, o que não ocorre. “A noite ainda é criança” é uma metáfora popular: a noite está só começando.",
+      "D": "Paradoxo reúne ideias que parecem impossíveis juntas. Aumentar o volume quando ninguém escuta é uma reação lógica, não uma contradição."
+    },
+    "tip": "Metáfora é uma comparação sem o “como”: “a caneta é minha arma”. Com o “como”, seria comparação (símile): “a caneta é como uma arma”."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“Tive vontade de voltar e pedir desculpas, não sei bem a quem.” (linhas 16-17)</p></blockquote><p>Ao final da crônica (Texto 3), a vontade de pedir desculpas revela que a narradora</p>",
+    "options": {
+      "A": "se arrependeu de ter levantado as sacolas e atrapalhado a apresentação da batalha.",
+      "B": "considerou injusta a vitória da menina sobre o rapaz mais alto.",
+      "C": "lamentou nunca ter pedido redações sobre as batalhas de rima aos seus alunos.",
+      "D": "percebeu que não reconhecia, até então, aquela forma de expressão como aprendizado."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A narradora é uma professora aposentada que, no começo, pensou “em mudar de calçada” (linha 3) ao ouvir a batida: ela tinha um pé atrás com aquele tipo de evento.</p><p>Depois de ver a menina vencer, ela reflete: a jovem, que “talvez nunca tivesse escrito” uma redação (linha 14), acabara de fazer “tudo o que eu tentava ensinar: ouviu o outro, organizou as ideias, escolheu as palavras e convenceu uma plateia inteira” (linhas 14-16).</p><p>A vontade de pedir desculpas mostra que ela reconhece ter subestimado aquela manifestação, sem enxergá-la como forma legítima de linguagem e de aprendizado. O “não sei bem a quem” sugere que a desculpa não seria só para a menina, mas para todos os jovens cuja expressão ela não soube valorizar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Levantar as sacolas foi um gesto espontâneo de comemoração junto com a plateia (linhas 11-12), e não atrapalhou nada.",
+      "B": "A narradora comemorou a vitória e diz que a resposta da plateia foi “unânime” (linha 11). Não há nenhum sinal de que ela achou a vitória injusta.",
+      "C": "O texto não diz que ela queria ter pedido redações sobre batalhas de rima. A reflexão é sobre ter ensinado a argumentar sem perceber que essa habilidade também se desenvolve fora da escola."
+    },
+    "tip": "Em crônicas, o sentido do final costuma depender de uma mudança do narrador: compare como ele pensava no início com o que percebe no fim."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“Aquela menina talvez nunca tivesse escrito uma. Mas <b><u>acabara</u></b> de fazer, em trinta segundos, tudo o que eu tentava ensinar [...]” (linhas 14-15)</p></blockquote><p>A forma verbal sublinhada, no pretérito mais-que-perfeito do indicativo, expressa uma ação</p>",
+    "options": {
+      "A": "passada e concluída antes de outro momento também passado.",
+      "B": "habitual, repetida muitas vezes no passado.",
+      "C": "hipotética, que dependeria de uma condição para acontecer.",
+      "D": "ainda em andamento no momento em que a narradora escreve."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O <b>pretérito mais-que-perfeito</b> indica um fato passado que aconteceu <b>antes de outro fato também passado</b>. É o “passado do passado”.</p><p>Na crônica, a narradora conta o que pensou “Na volta para casa” (linha 13), um momento do passado. A vitória da menina aconteceu antes disso, na praça. Por isso ela diz que a menina “acabara de fazer” tudo o que ela tentava ensinar.</p><p>Um teste útil: troque pela forma composta, mais comum na fala. “Mas <b>tinha acabado</b> de fazer...” O sentido é o mesmo, e “tinha acabado” também é mais-que-perfeito.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Ação habitual no passado é expressa pelo pretérito imperfeito, como “tentava ensinar” (linha 15), que indica algo que ela fazia sempre. “Acabara” indica um fato único e concluído.",
+      "C": "Ação hipotética aparece no futuro do pretérito (acabaria) ou no subjuntivo, como em “talvez nunca tivesse escrito” (linha 14). “Acabara” está no indicativo e afirma um fato que aconteceu.",
+      "D": "Ação em andamento pediria uma forma como “está acabando”. “Acabara” indica uma ação já concluída."
+    },
+    "tip": "Mais-que-perfeito é o “passado do passado”: “acabara” = “tinha acabado”, algo que já tinha acontecido quando outra coisa passada ocorreu."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "stem": "<p>O artigo de opinião (Texto 1), a letra de rap (Texto 2) e a crônica (Texto 3) tratam de manifestações musicais de origem popular a partir de gêneros e pontos de vista diferentes.</p><p>Os três textos aproximam-se porque</p>",
+    "options": {
+      "A": "defendem que o funk e o rap substituam a escola na formação dos jovens das periferias.",
+      "B": "denunciam principalmente a repressão policial sofrida pelos sambistas no início do século XX.",
+      "C": "valorizam manifestações musicais de origem popular, a exemplo do rap e das batalhas de rima, como formas legítimas de expressão.",
+      "D": "afirmam que as batalhas de rima são superiores às formas musicais mais antigas, como o samba."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Veja o que cada texto faz:</p><ul><li><b>Texto 1</b>: defende que a cultura das periferias seja reconhecida, porque “A identidade de um povo se forma também nas lajes, nos becos e nas praças” (linhas 29-30);</li><li><b>Texto 2</b>: o próprio rapper afirma sua voz e sua origem: “a rima é nossa escola” (verso 4) e “a quebrada tem história que não cabe num resumo” (verso 16);</li><li><b>Texto 3</b>: a narradora descobre, numa batalha de rima, uma forma de expressão que ela não valorizava e que reunia tudo o que ela “tentava ensinar” (linha 15).</li></ul><p>O ponto comum é a valorização dessas manifestações musicais populares (o rap, as batalhas de rima) como formas legítimas de expressão. Repare que só essa alternativa vale para os três textos ao mesmo tempo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Nenhum texto propõe substituir a escola. O Texto 1 cita professores que levam rimas para a aula (linha 26), e o Texto 3 aproxima a batalha do que se ensina na escola; nos dois casos, a ideia é somar, e não substituir.",
+      "B": "A repressão ao samba aparece só no Texto 1 (linhas 8-10), como exemplo histórico. Não é o assunto principal nem aparece nos outros textos.",
+      "D": "Os textos não comparam gêneros para dizer qual é melhor. O Texto 2 até valoriza a continuidade entre samba, funk e rap: o avô no samba, a mãe no funk e o eu lírico que rima “o mesmo retrato” (versos 7-8)."
+    },
+    "tip": "Em questões de comparação, a alternativa certa precisa valer para todos os textos citados; se ela só serve para um deles, descarte."
+  }
+]

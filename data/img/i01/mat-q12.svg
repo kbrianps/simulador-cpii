@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360">
+<rect x="0" y="0" width="360" height="360" fill="#fff"/>
+<rect x="66" y="30" width="24" height="270" fill="#d9d9d9" stroke="#333" stroke-width="2"/>
+<line x1="30" y1="300" x2="330" y2="300" stroke="#333" stroke-width="2"/>
+<g stroke="#333" stroke-width="1"><line x1="40" y1="300" x2="30" y2="310"/><line x1="55" y1="300" x2="45" y2="310"/><line x1="70" y1="300" x2="60" y2="310"/><line x1="85" y1="300" x2="75" y2="310"/><line x1="100" y1="300" x2="90" y2="310"/><line x1="115" y1="300" x2="105" y2="310"/><line x1="130" y1="300" x2="120" y2="310"/><line x1="145" y1="300" x2="135" y2="310"/><line x1="160" y1="300" x2="150" y2="310"/><line x1="175" y1="300" x2="165" y2="310"/><line x1="190" y1="300" x2="180" y2="310"/><line x1="205" y1="300" x2="195" y2="310"/><line x1="220" y1="300" x2="210" y2="310"/><line x1="235" y1="300" x2="225" y2="310"/><line x1="250" y1="300" x2="240" y2="310"/><line x1="265" y1="300" x2="255" y2="310"/><line x1="280" y1="300" x2="270" y2="310"/><line x1="295" y1="300" x2="285" y2="310"/><line x1="310" y1="300" x2="300" y2="310"/><line x1="325" y1="300" x2="315" y2="310"/></g>
+<line x1="90" y1="60" x2="160" y2="300" stroke="#8a5a2b" stroke-width="6" stroke-linecap="round"/>
+<polyline points="90,286 104,286 104,300" fill="none" stroke="#333" stroke-width="1.5"/>
+<text x="139.0" y="180.0" font-family="Arial, Helvetica, sans-serif" font-size="16">5 m</text>
+<line x1="90" y1="326" x2="160" y2="326" stroke="#333" stroke-width="1.5"/>
+<line x1="90" y1="320" x2="90" y2="332" stroke="#333" stroke-width="1.5"/>
+<line x1="160" y1="320" x2="160" y2="332" stroke="#333" stroke-width="1.5"/>
+<text x="125.0" y="348" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">1,4 m</text>
+<text x="78" y="22" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">muro</text>
+<text x="250" y="290" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">chão</text>
+</svg>

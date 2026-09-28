@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 290" width="480" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="480" height="290" fill="#fff"/>
+  <path d="M110,62 L370,62 A78,78 0 0 1 370,218 L110,218 A78,78 0 0 1 110,62 Z" fill="#cfd8e3" stroke="#333" stroke-width="2"/>
+  <line x1="110" y1="62" x2="110" y2="218" stroke="#333" stroke-width="1" stroke-dasharray="5 4"/>
+  <line x1="370" y1="62" x2="370" y2="218" stroke="#333" stroke-width="1" stroke-dasharray="5 4"/>
+  <circle cx="240" cy="140" r="26" fill="#7cb342" stroke="#33691e" stroke-width="1.5"/>
+  <line x1="240" y1="140" x2="266" y2="140" stroke="#000" stroke-width="1.5"/>
+  <circle cx="240" cy="140" r="2.5" fill="#000"/>
+  <text x="272" y="136">2 m</text>
+  <text x="240" y="186" text-anchor="middle" font-size="14">canteiro</text>
+  <line x1="110" y1="40" x2="370" y2="40" stroke="#333" stroke-width="1.2"/>
+  <line x1="110" y1="34" x2="110" y2="46" stroke="#333" stroke-width="1.2"/>
+  <line x1="370" y1="34" x2="370" y2="46" stroke="#333" stroke-width="1.2"/>
+  <text x="240" y="30" text-anchor="middle">20 m</text>
+  <text x="378" y="145">12 m</text>
+  <text x="240" y="250" text-anchor="middle" font-size="14">As duas pontas são semicírculos.</text>
+</svg>

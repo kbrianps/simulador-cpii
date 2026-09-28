@@ -394,7 +394,7 @@ function viewEssayGen() {
 }
 
 function viewEssayOfficial() {
-  const list = EXAMS.filter((e) => e.official && e.redacao);
+  const list = EXAMS.filter((e) => (e.official || e.inedita) && e.redacao);
   main().innerHTML = `<div class="page">
     <h1>Redação</h1>${essayTabs("redacao/provas")}
     <p class="lead">Os temas que já caíram. Na prova, os textos de Língua Portuguesa servem de textos motivadores para a redação.</p>

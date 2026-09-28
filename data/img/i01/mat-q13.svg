@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 265" width="350" height="265">
+<rect x="0" y="0" width="350" height="265" fill="#fff"/>
+<polygon points="55,40 205,40 205,100 295,100 295,220 55,220" fill="#f2efe6" stroke="#222" stroke-width="3"/>
+<rect x="205" y="40" width="90" height="60" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="250.0" y="73.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#666">varanda</text>
+<text x="175" y="166.0" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">sala</text>
+<text x="130.0" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">5 m</text>
+<text x="175" y="244" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">8 m</text>
+<text x="45" y="135" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="end">6 m</text>
+<text x="305" y="165" font-family="Arial, Helvetica, sans-serif" font-size="16">4 m</text>
+</svg>

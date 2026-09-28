@@ -1,0 +1,271 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma escola, 60% dos estudantes são meninas. Entre as meninas, 25% fazem parte do time de vôlei da escola.</p><p>Em relação ao total de estudantes da escola, as meninas que fazem parte do time de vôlei representam</p>",
+    "options": {
+      "A": "15%.",
+      "B": "35%.",
+      "C": "25%.",
+      "D": "85%."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O 25% não é calculado sobre todos os estudantes, e sim sobre as meninas, que já são 60% do total. Então queremos 25% de 60% do total.</p><p>\\[25\\% \\text{ de } 60\\% = 0{,}25 \\cdot 0{,}60 = 0{,}15 = 15\\%\\]</p><p>Com números: imagine uma escola com 100 estudantes. São 60 meninas, e 25% de 60 é \\(\\dfrac{60}{4} = 15\\). Assim, 15 de cada 100 estudantes são meninas do time de vôlei, ou seja, 15% do total.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Subtraiu as porcentagens: \\(60\\% - 25\\% = 35\\%\\). Mas os 25% são uma parte das meninas; para achar “uma porcentagem de outra porcentagem”, é preciso multiplicar.",
+      "C": "Tomou os 25% como se fossem do total de estudantes. Eles são 25% apenas das meninas, que formam 60% da escola, então o grupo é menor: 15% do total.",
+      "D": "Somou as porcentagens: \\(60\\% + 25\\% = 85\\%\\). O grupo das jogadoras está dentro do grupo das meninas, então não pode ser maior que 60% do total."
+    },
+    "tip": "“x% de y%” é uma multiplicação: transforme em decimais (0,25 · 0,60) ou teste com um total de 100 pessoas."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Tiago vai de bicicleta para a escola todos os dias. Cada roda da sua bicicleta tem 60 cm de diâmetro, como mostra a figura.</p><p><img src=\"img/i05/mat-q12.svg\" alt=\"Desenho de uma roda de bicicleta vista de lado: um círculo com três raios cruzados e um eixo no centro. Uma seta vermelha atravessa a roda passando pelo centro, de uma borda à outra, com a indicação 60 cm (o diâmetro da roda). Abaixo, a legenda: roda da bicicleta.\"></p><p>O trajeto da casa de Tiago até a escola tem 540 metros. Considere \\(\\pi = 3\\) e que as rodas giram sem deslizar.</p><p>Ao fazer esse trajeto, cada roda da bicicleta dá</p>",
+    "options": {
+      "A": "150 voltas.",
+      "B": "900 voltas.",
+      "C": "300 voltas.",
+      "D": "600 voltas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A cada volta completa, a roda avança uma distância igual ao seu comprimento (o contorno da roda).</p><p>O comprimento de uma circunferência é \\(C = \\pi \\cdot d\\), em que \\(d\\) é o diâmetro. Como \\(d = 60\\) cm \\(= 0{,}6\\) m e \\(\\pi = 3\\):</p><p>\\[C = 3 \\cdot 0{,}6 = 1{,}8 \\text{ m}\\]</p><p>Agora dividimos o trajeto pelo que a roda avança em cada volta:</p><p>\\[\\frac{540}{1{,}8} = \\frac{5.400}{18} = 300\\]</p><p>Cada roda dá <b>300 voltas</b>. Resposta: <b>C</b>.</p><p>Atenção às unidades: o diâmetro está em centímetros e o trajeto em metros. Passe tudo para a mesma unidade antes de dividir.</p>",
+    "distractors": {
+      "A": "Usou \\(C = 2 \\cdot \\pi \\cdot d = 3{,}6\\) m. A fórmula \\(2\\pi r\\) usa o <b>raio</b>; com o diâmetro, o comprimento é \\(\\pi \\cdot d\\).",
+      "B": "É \\(540 \\div 0{,}6\\): dividiu o trajeto pelo diâmetro, esquecendo o \\(\\pi\\). Em uma volta a roda avança o contorno inteiro, que é cerca de 3 vezes o diâmetro.",
+      "D": "Usou \\(C = \\pi \\cdot 0{,}3 = 0{,}9\\) m, isto é, colocou o raio no lugar do diâmetro na fórmula \\(C = \\pi d\\)."
+    },
+    "tip": "Uma volta da roda = um contorno: \\(C = \\pi d = 2\\pi r\\). Número de voltas = distância dividida pelo contorno, na mesma unidade."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um terreno quadrado ABCD, de 12 m de lado, será transformado em um jardim. O ponto M é o ponto médio do lado AB, e o ponto N fica sobre o lado BC, a 4 m do vértice B. O triângulo DMN será coberto com flores, e o restante do terreno será coberto com grama, como mostra a figura.</p><p><img src=\"img/i05/mat-q13.svg\" alt=\"Quadrado ABCD com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo. O lado AB mede 12 m. O ponto M está no meio do lado AB (marcas iguais indicam AM = MB). O ponto N está no lado BC, e o trecho BN mede 4 m. O triângulo DMN, destacado em rosa, tem a palavra flores; as três regiões restantes do quadrado (triângulos AMD, MBN e NCD), em verde, têm a palavra grama.\"></p><p>O metro quadrado da área com flores custa R$ 15,00, e o metro quadrado da área com grama custa R$ 8,00.</p><p>O custo total para cobrir todo o terreno será de</p>",
+    "options": {
+      "A": "R$ 1.572,00",
+      "B": "R$ 1.488,00",
+      "C": "R$ 1.656,00",
+      "D": "R$ 1.824,00"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Calcular a área do triângulo DMN diretamente é difícil. É mais fácil tirar do quadrado os três triângulos retângulos de grama.</p><p>Medidas: \\(AM = MB = 6\\) m (M é ponto médio), \\(BN = 4\\) m e \\(NC = 12 - 4 = 8\\) m.</p><ul><li>Triângulo AMD (retângulo em A): \\(\\dfrac{6 \\cdot 12}{2} = 36\\) m²;</li><li>Triângulo MBN (retângulo em B): \\(\\dfrac{6 \\cdot 4}{2} = 12\\) m²;</li><li>Triângulo NCD (retângulo em C): \\(\\dfrac{8 \\cdot 12}{2} = 48\\) m².</li></ul><p>Área de grama: \\(36 + 12 + 48 = 96\\) m².</p><p>Área do quadrado: \\(12 \\cdot 12 = 144\\) m². Área de flores: \\(144 - 96 = 48\\) m².</p><p>Custo:</p><p>\\[48 \\cdot 15 + 96 \\cdot 8 = 720 + 768 = 1.488\\]</p><p>O custo total é <b>R$ 1.488,00</b>. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Aparece quando se usa \\(NC = 4\\) m e \\(BN = 8\\) m (trocando a posição de N). Aí a área de flores daria 60 m² e a de grama 84 m²: \\(60 \\cdot 15 + 84 \\cdot 8 = 1.572\\). O enunciado diz que N está a 4 m de <b>B</b>.",
+      "C": "Considerou que o triângulo de flores ocupa metade do terreno (72 m²) e a grama, a outra metade: \\(72 \\cdot 15 + 72 \\cdot 8 = 1.656\\). Um triângulo com vértices nos lados do quadrado não ocupa necessariamente a metade; é preciso calcular.",
+      "D": "As áreas estão certas, mas os preços foram trocados: \\(48 \\cdot 8 + 96 \\cdot 15 = 1.824\\). As flores (R$ 15,00) ficam no triângulo DMN, de 48 m²."
+    },
+    "tip": "Área de uma figura \"inclinada\" dentro de um retângulo: calcule o retângulo inteiro e subtraia os triângulos retângulos que sobram nos cantos."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Hoje, a soma das idades de Carla e de sua filha Júlia é 48 anos. Daqui a 4 anos, a idade de Carla será o triplo da idade de Júlia.</p><p>Hoje, Carla tem</p>",
+    "options": {
+      "A": "36 anos.",
+      "B": "10 anos.",
+      "C": "42 anos.",
+      "D": "38 anos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Seja \\(c\\) a idade de Carla hoje e \\(j\\) a idade de Júlia hoje.</p><p>Hoje: \\(c + j = 48\\).</p><p>Daqui a 4 anos, <b>as duas</b> terão 4 anos a mais: Carla terá \\(c + 4\\) e Júlia, \\(j + 4\\). Então:</p><p>\\[c + 4 = 3(j + 4) \\;\\Rightarrow\\; c + 4 = 3j + 12 \\;\\Rightarrow\\; c = 3j + 8\\]</p><p>Substituindo na primeira equação:</p><p>\\[3j + 8 + j = 48 \\;\\Rightarrow\\; 4j = 40 \\;\\Rightarrow\\; j = 10\\]</p><p>Logo, \\(c = 48 - 10 = 38\\).</p><p>Conferindo: daqui a 4 anos, Carla terá 42 anos e Júlia, 14; e \\(42 = 3 \\cdot 14\\). Hoje, Carla tem <b>38 anos</b>. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu os 4 anos e escreveu \\(c = 3j\\) (triplo hoje). Com \\(c + j = 48\\), sai \\(4j = 48\\), \\(j = 12\\) e \\(c = 36\\). Mas a relação de triplo vale só daqui a 4 anos, e as duas envelhecem 4 anos.",
+      "B": "10 anos é a idade de Júlia hoje. O sistema foi resolvido corretamente, mas a pergunta é a idade de Carla.",
+      "C": "42 anos é a idade que Carla terá daqui a 4 anos (\\(38 + 4\\)). A pergunta é a idade dela hoje."
+    },
+    "tip": "Em problemas de idades, some o mesmo número de anos a <b>todas</b> as pessoas e confira a resposta nas duas condições do enunciado."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um marceneiro vai montar um grande esquadro de madeira, que tem a forma de um triângulo retângulo. Ele planejou as medidas dos três lados, em decímetros, como \\(x\\), \\(x + 7\\) e \\(x + 8\\), como mostra a figura.</p><p><img src=\"img/i05/mat-q15.svg\" alt=\"Triângulo retângulo de madeira com o ângulo reto no canto inferior esquerdo. O lado vertical, à esquerda, mede x; o lado horizontal, embaixo, mede x mais 7; o lado inclinado, oposto ao ângulo reto, mede x mais 8. Abaixo do título está escrito: medidas em decímetros.\"></p><p>A medida do maior lado desse esquadro é</p>",
+    "options": {
+      "A": "5 dm.",
+      "B": "11 dm.",
+      "C": "13 dm.",
+      "D": "12 dm."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O maior lado, \\(x + 8\\), fica oposto ao ângulo reto: é a hipotenusa. Pelo Teorema de Pitágoras:</p><p>\\[x^2 + (x + 7)^2 = (x + 8)^2\\]</p><p>Desenvolvendo os quadrados:</p><p>\\[x^2 + x^2 + 14x + 49 = x^2 + 16x + 64\\]</p><p>\\[x^2 - 2x - 15 = 0\\]</p><p>Procuramos dois números com soma 2 e produto \\(-15\\): são 5 e \\(-3\\). Assim, \\((x - 5)(x + 3) = 0\\), e as raízes são \\(x = 5\\) e \\(x = -3\\).</p><p>(Por Bhaskara: \\(\\Delta = 4 + 60 = 64\\), \\(x = \\dfrac{2 \\pm 8}{2}\\), que dá 5 ou \\(-3\\).)</p><p>Uma medida não pode ser negativa, então \\(x = 5\\). Os lados são 5 dm, 12 dm e 13 dm.</p><p>Conferindo: \\(5^2 + 12^2 = 25 + 144 = 169 = 13^2\\). O maior lado mede <b>13 dm</b>. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "5 é o valor de \\(x\\), a medida do <b>menor</b> lado. O maior lado é \\(x + 8 = 13\\).",
+      "B": "Usou a raiz negativa sem o sinal (\\(x = 3\\)) e calculou \\(x + 8 = 11\\). Essa raiz não serve, e os lados 3, 10 e 11 nem formam um triângulo retângulo: \\(9 + 100 = 109 \\neq 121\\).",
+      "D": "12 é \\(x + 7\\), o outro cateto. O maior lado de um triângulo retângulo é a hipotenusa, \\(x + 8 = 13\\)."
+    },
+    "tip": "Em triângulo retângulo com lados em função de \\(x\\), a expressão maior é a hipotenusa; monte Pitágoras, descarte a raiz negativa e confira com os números."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para fazer o contrapiso de uma calçada, um pedreiro prepara concreto misturando cimento, areia e brita na proporção <b>1 : 2 : 3</b>, em volume, isto é, 1 parte de cimento para 2 partes de areia e 3 partes de brita.</p><p>Ele vai precisar de 1,8 m³ dessa mistura. Considere que o volume da mistura é a soma dos volumes de cimento, areia e brita e que 1 m³ = 1.000 L.</p><p>O cimento é vendido em sacos, e cada saco contém 36 litros de cimento. O menor número de sacos de cimento que o pedreiro deve comprar é</p>",
+    "options": {
+      "A": "9.",
+      "B": "8.",
+      "C": "17.",
+      "D": "50."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A mistura tem \\(1 + 2 + 3 = 6\\) partes iguais, e o cimento é 1 dessas 6 partes.</p><p>Volume de cimento: \\(\\dfrac{1}{6} \\cdot 1{,}8 = 0{,}3\\) m³, ou seja, \\(0{,}3 \\cdot 1.000 = 300\\) litros.</p><p>Número de sacos: \\(\\dfrac{300}{36} \\approx 8{,}33\\).</p><p>Com 8 sacos ele teria só \\(8 \\cdot 36 = 288\\) litros, que não bastam. Como os sacos são inteiros, ele precisa comprar <b>9 sacos</b> (\\(9 \\cdot 36 = 324\\) litros). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou \\(300 \\div 36 \\approx 8{,}33\\) e arredondou para baixo. Com 8 sacos faltariam 12 litros de cimento; quando falta material, é preciso arredondar para cima.",
+      "C": "Achou que o cimento é \\(\\dfrac{1}{3}\\) da mistura, por serem três ingredientes: \\(\\dfrac{1}{3} \\cdot 1.800 = 600\\) litros e \\(600 \\div 36 \\approx 16{,}7\\), ou seja, 17 sacos. Na proporção 1 : 2 : 3 há 6 partes, e o cimento é só 1 delas.",
+      "D": "Dividiu o volume inteiro da mistura pelo volume do saco: \\(1.800 \\div 36 = 50\\). Mas só uma parte da mistura é cimento; areia e brita são compradas separadamente."
+    },
+    "tip": "Na proporção a : b : c, some as partes para saber em quantas partes o total foi dividido; e, ao comprar embalagens inteiras, arredonde para cima."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma campanha de reciclagem, as turmas do 9º ano de uma escola arrecadaram latas de alumínio. O resultado foi apresentado no pictograma a seguir.</p><p><img src=\"img/i05/mat-q17.svg\" alt=\"Pictograma com o título Latas arrecadadas por turma. Cada lata desenhada vale 20 latas e meia lata desenhada vale 10 latas. 9º A: 4 latas e meia. 9º B: 6 latas. 9º C: 3 latas e meia. 9º D: 5 latas.\"></p><p>A turma que mais arrecadou juntou, em relação à turma que menos arrecadou,</p>",
+    "options": {
+      "A": "2,5 latas a mais.",
+      "B": "40 latas a mais.",
+      "C": "60 latas a mais.",
+      "D": "50 latas a mais."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Cada lata desenhada vale 20 latas, e meia lata desenhada vale 10.</p><ul><li>9º A: \\(4 \\cdot 20 + 10 = 90\\) latas;</li><li>9º B: \\(6 \\cdot 20 = 120\\) latas;</li><li>9º C: \\(3 \\cdot 20 + 10 = 70\\) latas;</li><li>9º D: \\(5 \\cdot 20 = 100\\) latas.</li></ul><p>A turma que mais arrecadou foi o 9º B (120) e a que menos arrecadou foi o 9º C (70).</p><p>Diferença: \\(120 - 70 = 50\\) latas. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Contou só os desenhos: \\(6 - 3{,}5 = 2{,}5\\). Faltou multiplicar pelo valor de cada desenho: \\(2{,}5 \\cdot 20 = 50\\) latas.",
+      "B": "Contou a meia lata do 9º C como uma lata inteira (4 desenhos, ou 80 latas) e fez \\(120 - 80 = 40\\).",
+      "C": "Ignorou a meia lata do 9º C (3 desenhos, ou 60 latas) e fez \\(120 - 60 = 60\\)."
+    },
+    "tip": "Num pictograma, leia primeiro a legenda: quanto vale cada figura inteira e quanto vale cada pedaço de figura."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa da escola, os alunos montaram um painel decorativo em forma de losango. A estrutura é feita de duas varetas de madeira, que ficam exatamente sobre as diagonais do losango: uma com 80 cm e outra com 60 cm. Toda a borda do painel será contornada com uma fita vermelha, como mostra a figura.</p><p><img src=\"img/i05/mat-q18.svg\" alt=\"Losango com uma diagonal vertical de 80 cm e uma diagonal horizontal de 60 cm, desenhadas tracejadas e com as medidas indicadas de ponta a ponta, que se cruzam no centro formando ângulo reto. A borda do losango está destacada em vermelho, com a indicação fita.\"></p><p>Sem contar sobras, o comprimento de fita necessário para contornar toda a borda do painel é</p>",
+    "options": {
+      "A": "280 cm.",
+      "B": "200 cm.",
+      "C": "140 cm.",
+      "D": "400 cm."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>As diagonais de um losango se cortam ao meio e são perpendiculares. Assim, elas dividem o losango em 4 triângulos retângulos iguais, com catetos iguais à metade de cada diagonal:</p><p>\\[\\frac{80}{2} = 40 \\text{ cm} \\quad \\text{e} \\quad \\frac{60}{2} = 30 \\text{ cm}\\]</p><p>O lado \\(\\ell\\) do losango é a hipotenusa desses triângulos:</p><p>\\[\\ell^2 = 30^2 + 40^2 = 900 + 1.600 = 2.500 \\;\\Rightarrow\\; \\ell = 50 \\text{ cm}\\]</p><p>Os quatro lados do losango são iguais, então a fita mede \\(4 \\cdot 50 = 200\\) cm. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou os catetos em vez de usar Pitágoras: tomou o lado como \\(30 + 40 = 70\\) cm e fez \\(4 \\cdot 70 = 280\\). O lado é a hipotenusa, que é menor que a soma dos catetos.",
+      "C": "Somou as duas diagonais: \\(80 + 60 = 140\\) cm. Esse é o comprimento das varetas, que ficam dentro do painel, e não o da borda.",
+      "D": "Usou as diagonais inteiras como catetos: \\(\\sqrt{80^2 + 60^2} = 100\\) e \\(4 \\cdot 100 = 400\\). Mas as diagonais se cortam ao meio, e os catetos são as metades, 40 cm e 30 cm."
+    },
+    "tip": "No losango, as diagonais se cortam ao meio em ângulo reto: cada lado é a hipotenusa de um triângulo com catetos iguais às metades das diagonais."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um artesão monta faixas decorativas com lajotas quadradas iguais, pretas e brancas. Cada faixa tem uma fileira de lajotas pretas cercada por lajotas brancas, seguindo o padrão mostrado nas três primeiras figuras.</p><p><img src=\"img/i05/mat-q19.svg\" alt=\"Três figuras formadas por quadradinhos. Figura 1: grade de 3 por 3 com 1 quadradinho preto no centro e 8 brancos em volta. Figura 2: grade de 3 linhas por 4 colunas, com 2 pretos lado a lado na linha do meio e 10 brancos em volta. Figura 3: grade de 3 linhas por 5 colunas, com 3 pretos lado a lado na linha do meio e 12 brancos em volta.\"></p><p>Mantendo esse padrão, o artesão montou uma faixa com exatamente 50 lajotas brancas.</p><p>O número total de lajotas (pretas e brancas) dessa faixa é</p>",
+    "options": {
+      "A": "72.",
+      "B": "75.",
+      "C": "22.",
+      "D": "66."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe as figuras:</p><table><thead><tr><th>Figura</th><th>Pretas</th><th>Brancas</th><th>Total</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>8</td><td>9</td></tr><tr><td>2</td><td>2</td><td>10</td><td>12</td></tr><tr><td>3</td><td>3</td><td>12</td><td>15</td></tr></tbody></table><p>Na figura \\(n\\) há \\(n\\) lajotas pretas. As brancas formam uma linha de \\(n + 2\\) em cima, outra de \\(n + 2\\) embaixo e mais 2 nas pontas da fileira preta:</p><p>\\[\\text{brancas} = 2(n + 2) + 2 = 2n + 6\\]</p><p>(Confere: \\(n = 1\\) dá 8, \\(n = 2\\) dá 10, \\(n = 3\\) dá 12.)</p><p>Para 50 brancas: \\(2n + 6 = 50 \\Rightarrow 2n = 44 \\Rightarrow n = 22\\) lajotas pretas.</p><p>Total: \\(22 + 50 = 72\\) lajotas. (Também dá para ver a faixa como uma grade de 3 linhas por \\(n + 2 = 24\\) colunas: \\(3 \\cdot 24 = 72\\).) Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Supôs que as brancas são o dobro das pretas (\\(2n = 50\\), \\(n = 25\\)) e somou \\(25 + 50 = 75\\). A figura 1 já mostra que não é assim: 1 preta e 8 brancas. A fórmula certa é \\(2n + 6\\).",
+      "C": "22 é o número de lajotas <b>pretas</b>. Faltou somar as 50 brancas para obter o total.",
+      "D": "É \\(3 \\cdot 22\\): usou 3 linhas por 22 colunas, esquecendo as duas colunas brancas das pontas. A grade tem \\(n + 2 = 24\\) colunas, então o total é \\(3 \\cdot 24 = 72\\)."
+    },
+    "tip": "Em sequências de figuras, monte uma tabela com as primeiras figuras, ache a fórmula em função de \\(n\\) e confira com os casos desenhados."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Clara aplicou R$ 5.000,00 em um investimento que rende juros compostos de 10% ao ano. Ao final do 2º ano, ela retirou R$ 2.050,00 para pagar um curso, e o restante continuou aplicado, nas mesmas condições, por mais 1 ano.</p><p>Considerando que não houve outros depósitos nem retiradas, ao final do 3º ano o saldo desse investimento era de</p>",
+    "options": {
+      "A": "R$ 4.345,00",
+      "B": "R$ 4.605,00",
+      "C": "R$ 4.400,00",
+      "D": "R$ 6.655,00"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.financeira",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Nos juros compostos, a cada ano o saldo é multiplicado por \\(1{,}1\\) (o saldo anterior mais 10% dele).</p><ul><li>Fim do 1º ano: \\(5.000 \\cdot 1{,}1 = 5.500\\);</li><li>Fim do 2º ano: \\(5.500 \\cdot 1{,}1 = 6.050\\).</li></ul><p>Nesse momento, Clara retira R$ 2.050,00: \\(6.050 - 2.050 = 4.000\\).</p><ul><li>Fim do 3º ano: \\(4.000 \\cdot 1{,}1 = 4.400\\).</li></ul><p>O saldo final é de <b>R$ 4.400,00</b>. Resposta: <b>C</b>.</p><p>Repare que, no 3º ano, os juros incidem só sobre o que ficou aplicado (R$ 4.000,00), por isso rendem R$ 400,00.</p>",
+    "distractors": {
+      "A": "Usou juros simples nos dois primeiros anos (R$ 500,00 por ano sobre os R$ 5.000,00, chegando a R$ 6.000,00). Nos juros compostos, os juros do 2º ano incidem sobre R$ 5.500,00: são R$ 550,00, e o saldo chega a R$ 6.050,00.",
+      "B": "Deixou os R$ 5.000,00 rendendo os três anos (\\(5.000 \\cdot 1{,}1^3 = 6.655\\)) e só no fim subtraiu a retirada. Mas o dinheiro retirado no 2º ano não rende juros no 3º ano.",
+      "D": "É \\(5.000 \\cdot 1{,}1^3 = 6.655\\): calculou os três anos de juros compostos, mas esqueceu a retirada de R$ 2.050,00."
+    },
+    "tip": "Juros compostos: multiplique o saldo pelo fator (1 + taxa) ano a ano; quando houver retirada, desconte no momento em que ela acontece."
+  }
+]

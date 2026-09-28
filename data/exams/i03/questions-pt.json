@@ -1,0 +1,291 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O Texto 1 pertence ao gênero crônica, publicado com frequência em jornais, revistas e sites.</p><p>Uma característica desse gênero presente no Texto 1 é</p>",
+    "options": {
+      "A": "a apresentação de dados e pesquisas que comprovam, com números, a tese do autor.",
+      "B": "o uso de linguagem técnica, dirigida a especialistas em conserto de eletrodomésticos.",
+      "C": "a narração de um episódio do cotidiano, em primeira pessoa, que conduz a uma reflexão sobre hábitos de consumo.",
+      "D": "a presença de instruções numeradas que ensinam o leitor a consertar os próprios objetos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A crônica é um texto curto que parte de um fato comum do dia a dia, contado de forma leve, muitas vezes em primeira pessoa, e termina levando o leitor a pensar sobre algo maior.</p><p>É exatamente o que acontece no Texto 1:</p><ul><li><b>fato do cotidiano</b>: o ventilador da sala quebra (linhas 1-5), o narrador vai à loja, depois à oficina do seu Nonato;</li><li><b>primeira pessoa</b>: “Levei o motor à loja” (linha 6), “Quase aceitei” (linha 11), “Voltei para casa” (linha 22);</li><li><b>reflexão</b>: a partir do conserto, o narrador pensa em tudo o que já jogou fora (linhas 22-26) e conclui que “não existe fora” (linha 33), ou seja, que o descarte sempre vai parar em algum lugar do planeta.</li></ul><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Dados, números e pesquisas são típicos de reportagens e artigos de divulgação. A crônica não tem números para comprovar nada: o único valor citado, “quinze reais” (linha 21), faz parte da história, não de uma argumentação com dados.",
+      "B": "A linguagem do texto é simples e próxima da conversa (“a gente aprende desde cedo”, linhas 11-12). A única palavra técnica, “capacitor”, precisou até de glossário, o que mostra que o texto se dirige a qualquer leitor.",
+      "D": "Não há passo a passo nem instruções: isso caracterizaria um texto instrucional (como um manual). O narrador conta o que viveu, não ensina a consertar."
+    },
+    "tip": "Crônica = fato do cotidiano + linguagem leve (muitas vezes em primeira pessoa) + reflexão no final."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O cronista usa diversos recursos expressivos para tornar a narrativa mais viva.</p><p>Assinale a alternativa que relaciona corretamente o trecho do Texto 1 à figura de linguagem nele presente:</p>",
+    "options": {
+      "A": "“ergueu uma pecinha preta entre os dedos, como um cirurgião que exibe ao público a bala retirada do paciente” (linhas 19-20) – comparação",
+      "B": "“sem nenhuma consideração pelos trinta e quatro graus que fazia lá fora” (linha 2) – eufemismo",
+      "C": "“Coisa de quinze reais.” (linha 21) – hipérbole",
+      "D": "“Estava orgulhosa: pagara pouco, e ninguém na escola teria outra igual.” (linhas 28-29) – metáfora"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A <b>comparação</b> aproxima dois elementos por meio de um conectivo comparativo explícito, como “como”, “tal qual”, “parecido com”.</p><p>Nas linhas 19-20, seu Nonato “ergueu uma pecinha preta entre os dedos, <b>como</b> um cirurgião que exibe ao público a bala retirada do paciente”. O gesto do consertador é comparado ao de um médico que mostra o que causava o problema do paciente. A palavra “como” torna a comparação explícita. O efeito é valorizar o trabalho de seu Nonato: consertar o ventilador é tratado quase como uma cirurgia que salva uma vida.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Eufemismo suaviza uma ideia desagradável. O trecho não suaviza nada: ele trata o ventilador como se fosse uma pessoa sem “consideração” pelo calor, o que é uma personificação (com tom de humor).",
+      "C": "Hipérbole é exagero. “Quinze reais” é um preço real, dito de forma literal por seu Nonato; justamente por ser pouco, contrasta com a ideia de que “não compensa consertar” (linha 9).",
+      "D": "O trecho está em sentido literal: a filha pagou pouco e a jaqueta é única. Não há transferência de sentido de uma coisa para outra, que é o que caracteriza a metáfora."
+    },
+    "tip": "Se há “como” (ou “tal qual”, “feito”) ligando dois elementos, é comparação; se a aproximação é direta, sem conectivo, é metáfora."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Quase aceitei. Há na palavra “novo” uma espécie de <b><u>feitiço</u></b> que a gente aprende desde cedo: o novo é limpo, é moderno, vem numa caixa lacrada com cheiro de fábrica.” (linhas 11-12)</p></blockquote><p>No contexto em que foi empregada, a palavra destacada refere-se</p>",
+    "options": {
+      "A": "a um ritual de magia usado pelos vendedores para enganar os clientes.",
+      "B": "ao receio de que um aparelho consertado volte a apresentar defeito.",
+      "C": "à dificuldade de encontrar profissionais que consertem aparelhos antigos.",
+      "D": "à atração que os produtos recém-fabricados exercem sobre o consumidor, levando-o a preferir comprar em vez de consertar."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O glossário diz que “feitiço” significa “encantamento, magia”. Mas, no texto, a palavra está em <b>sentido figurado (conotativo)</b>: ninguém fez magia de verdade.</p><p>Veja o que vem logo depois dos dois-pontos, explicando o “feitiço”: “o novo é limpo, é moderno, vem numa caixa lacrada com cheiro de fábrica” (linha 12). Ou seja, o “feitiço” é o encanto, a sedução que o produto novo exerce sobre as pessoas. E esse encanto quase fez o narrador desistir do conserto: “Quase aceitei” (linha 11) a sugestão de comprar um ventilador novo. Tanto que, na linha 13, ele diz que dona Célia o “livrou do encanto”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Toma a palavra em sentido literal (denotativo). Não há ritual de magia no texto; além disso, o narrador diz que é algo “que a gente aprende desde cedo” (linhas 11-12), isto é, um hábito cultural de todos, não um truque do vendedor.",
+      "B": "O narrador não demonstra medo de o conserto falhar. O que o atrai é a novidade do produto (“limpo”, “moderno”, “caixa lacrada”, linha 12).",
+      "C": "A dificuldade de achar quem conserte não é o sentido de “feitiço”; aliás, dona Célia indica seu Nonato logo em seguida (linha 14), sem dificuldade alguma."
+    },
+    "tip": "Quando uma palavra do glossário parece não caber no texto, procure o sentido figurado: a explicação costuma vir logo depois, muitas vezes após dois-pontos."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>A retomada de termos já mencionados, por meio de pronomes e outras expressões, garante a coesão de um texto.</p><p>Assinale a alternativa em que o termo destacado está corretamente associado ao elemento que ele retoma no Texto 1:</p>",
+    "options": {
+      "A": "“Levei o motor à loja onde <b><u>o</u></b> tinha comprado.” (linha 6): “o” retoma “loja”.",
+      "B": "“[...] esperam sua vez em prateleiras que vão até o teto, <b><u>cada um</u></b> com um bilhete amarrado com o nome do dono.” (linhas 16-17): “cada um” retoma os aparelhos que aguardam conserto na oficina.",
+      "C": "“<b><u>Ele</u></b> conserta até o que não tem conserto.” (linha 14): “Ele” retoma “o vendedor”.",
+      "D": "“[...] vão parar em algum lugar, e <b><u>esse lugar</u></b> também é a nossa casa, só que maior.” (linhas 34-35): “esse lugar” retoma “a oficina do seu Nonato”."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Para descobrir o que um termo retoma, volte no texto e pergunte: “de quem (ou de quê) se está falando?”.</p><p>Nas linhas 15-17, a oficina tem “rádios, liquidificadores, ferros de passar e um aspirador de pó sem mangueira” que “esperam sua vez em prateleiras”, “<b>cada um</b> com um bilhete amarrado com o nome do dono”. Quem tem um bilhete com o nome do dono? Cada um desses aparelhos que aguardam conserto. Por isso a expressão está no masculino (“cada um”), concordando com “rádios, liquidificadores, ferros...”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O narrador não comprou a loja, e sim o motor (o ventilador). O pronome “o” retoma “o motor”: “levei o motor à loja onde comprei o motor”. Além disso, “loja” é feminino e seria retomado por “a”.",
+      "C": "A frase é dita por dona Célia logo depois de citar seu Nonato (“Leva no seu Nonato”, linha 14). “Ele” retoma seu Nonato, o consertador; o vendedor, ao contrário, disse que não compensava consertar (linha 9).",
+      "D": "“Esse lugar” retoma “algum lugar” (linha 34), o destino dos objetos jogados fora. O narrador diz que esse lugar é o planeta, “a nossa casa, só que maior”, e não a oficina."
+    },
+    "tip": "Pronome retoma alguém ou algo já dito: leia a frase trocando o pronome pelo termo que você acha que ele retoma e veja se o sentido se mantém."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>As falas das personagens do Texto 1 reproduzem a linguagem oral e informal do dia a dia, como se vê na orientação de dona Célia ao narrador:</p><blockquote><p>“– Leva no seu Nonato, ali na rua de baixo.” (linha 14)</p></blockquote><p>Considerando que dona Célia trata o narrador por “você”, a reescrita do início dessa fala que está de acordo com a norma-padrão da língua é:</p>",
+    "options": {
+      "A": "Leve-o ao seu Nonato, ali na rua de baixo.",
+      "B": "Leva ele ao seu Nonato, ali na rua de baixo.",
+      "C": "Leve-o no seu Nonato, ali na rua de baixo.",
+      "D": "Levas no seu Nonato, ali na rua de baixo."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.gramatica.regencia",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A fala de dona Célia é adequada à situação (uma conversa entre vizinhos), mas foge da norma-padrão em dois pontos:</p><ol><li><b>Imperativo</b>: quem trata o interlocutor por “você” deve usar o imperativo na 3ª pessoa, formado a partir do presente do subjuntivo: “que você leve” → <b>leve</b>. A forma “leva” é o imperativo do tratamento “tu”; misturá-la com “você” é muito comum na fala, mas não é aceito pela norma-padrão.</li><li><b>Regência</b>: o verbo “levar”, quando indica destino (para onde se leva), pede a preposição <b>a</b> (ou “para”): leva-se algo <b>a</b> alguém. “Levar em” é uso próprio da oralidade.</li></ol><p>Na alternativa A, os dois problemas foram corrigidos: “Leve” (imperativo de “você”), “-o” (pronome oblíquo retomando o motor, objeto direto) e “ao seu Nonato” (preposição “a” + artigo “o”).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Mantém o imperativo “leva”, próprio do tratamento “tu”, e usa o pronome reto “ele” como objeto direto, o que a norma-padrão não aceita (o correto é “-o”).",
+      "C": "Corrige o imperativo e o pronome, mas mantém a regência da fala informal: “levar no” em vez de “levar ao”. Verbos que indicam destino pedem a preposição “a”.",
+      "D": "“Levas” é presente do indicativo (“tu levas”), e não imperativo; além disso, continua com a regência informal “no seu Nonato”."
+    },
+    "tip": "Com “você”, o imperativo sai do presente do subjuntivo (leve, faça, venha); e quem vai ou leva, vai ou leva “a” algum lugar."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote><p>“Na semana seguinte, minha filha chegou do brechó com uma jaqueta jeans [...]. Estava orgulhosa: <b><u>pagara</u></b> pouco, e ninguém na escola teria outra igual.” (linhas 27-29)</p></blockquote><p>A forma verbal destacada indica uma ação</p>",
+    "options": {
+      "A": "que ainda vai acontecer, depois da chegada da filha em casa.",
+      "B": "que se repetia habitualmente no passado, como um costume da filha.",
+      "C": "hipotética, cuja realização dependeria de uma condição.",
+      "D": "passada e concluída antes de outro fato também passado, podendo ser substituída por “tinha pagado”."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Pagara” está no <b>pretérito mais-que-perfeito do indicativo</b> (forma simples). Esse tempo indica uma ação que aconteceu <b>antes</b> de outra ação que também já é passada.</p><p>Monte a linha do tempo: primeiro a filha <b>pagou</b> pela jaqueta no brechó; depois ela <b>chegou</b> do brechó e <b>estava</b> orgulhosa (linhas 27-28). O pagamento é anterior à chegada, que já é passada. Por isso se usa “pagara”, que equivale à forma composta, mais comum hoje: “<b>tinha pagado</b> pouco”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Ação futura seria expressa pelo futuro (“pagará”). Cuidado com a semelhança entre “pagara” e “pagará”: o acento muda o tempo verbal.",
+      "B": "Ação habitual no passado é marcada pelo pretérito imperfeito (“pagava”). O texto fala de uma compra específica, e não de um costume.",
+      "C": "Ideia hipotética, que depende de uma condição, é marcada pelo futuro do pretérito (“pagaria”, como em “se tivesse dinheiro, pagaria”). “Pagara”, sem acento e com “-ra”, é mais-que-perfeito: indica um fato que realmente aconteceu."
+    },
+    "tip": "Pretérito mais-que-perfeito (pagara, fizera, dissera) = passado do passado; troque por “tinha pagado, tinha feito” para conferir."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote><p>“Dizem que é roupa velha;<br>eu prefiro: roupa vivida.” (versos 13-14)</p></blockquote><p>Ao trocar a expressão “roupa velha” por “roupa vivida”, o eu lírico</p>",
+    "options": {
+      "A": "reconhece que a jaqueta está gasta demais e anuncia que vai descartá-la em breve.",
+      "B": "recusa a visão negativa sobre a roupa usada e a valoriza pelas histórias e marcas que ela acumulou.",
+      "C": "concorda com quem desvaloriza a roupa de segunda mão, mas a usa por falta de opção.",
+      "D": "revela que a jaqueta, na verdade, é nova e só parece antiga por causa do remendo."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Velha” tem aqui um sentido negativo: algo gasto, ultrapassado, que perdeu o valor. “Vivida” muda o ponto de vista: a jaqueta não está apenas gasta, ela <b>tem uma história</b>.</p><p>Todo o poema prepara essa troca. Nas estrofes anteriores, a jaqueta é apresentada como alguém que “andou”, “dançou” e “morou” (versos 1-4, uma personificação), guarda a “cicatriz” de um tombo no remendo do cotovelo (versos 5-8) e traz no bolso o bilhete de outra pessoa (versos 9-12). Essas marcas são justamente o que a torna “vivida”. Por isso, ao dizer “eu prefiro”, o eu lírico se opõe a quem “diz” que ela é velha e valoriza a peça de segunda mão.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O eu lírico não pensa em jogar a jaqueta fora. Nos versos 17-18, diz que, quando ela não lhe couber mais, “vai seguir outra avenida”, ou seja, vai passar para outra pessoa.",
+      "C": "É o contrário: o eu lírico discorda de quem “diz” que é roupa velha (verso 13). Nada no poema indica falta de opção; a escolha é afetiva.",
+      "D": "O poema deixa claro que a jaqueta teve outro dono: “já morou noutro endereço” (verso 4) e tem um bilhete “com letra que não é minha” (verso 10)."
+    },
+    "tip": "Quando o autor troca uma palavra por outra de sentido próximo, pergunte-se o que muda na avaliação: aqui, de negativa (“velha”) para positiva (“vivida”)."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>A filha do narrador do Texto 1 aparece com uma jaqueta comprada em um brechó (linhas 27-31), e o Texto 2 também tem como assunto uma jaqueta de segunda mão.</p><p>Os dois textos se aproximam porque, em ambos,</p>",
+    "options": {
+      "A": "a roupa usada é tratada como sinal de dificuldade financeira, algo que deve ser escondido dos outros.",
+      "B": "a peça é valorizada apenas por ter custado pouco dinheiro.",
+      "C": "a peça de segunda mão é valorizada por carregar marcas de uma vida anterior, o que a torna única.",
+      "D": "a jaqueta precisa passar por um conserto antes de voltar a ser usada."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No Texto 1, a jaqueta da filha “tinha sido de alguém, noutra década, noutra cidade, noutra vida” (linhas 27-28), e ela está orgulhosa porque “ninguém na escola teria outra igual” (linha 29). O narrador ainda diz que a filha a exibe “como quem mostra um achado arqueológico” (linhas 30-31), isto é, um objeto precioso por causa do seu passado.</p><p>No Texto 2, o eu lírico valoriza exatamente as marcas da vida anterior da jaqueta: as ruas e festas por onde passou (versos 1-4), o remendo (versos 5-8), o bilhete no bolso (versos 9-12). Por isso a chama de “roupa vivida” (verso 14).</p><p>Nos dois casos, o passado da peça é o que lhe dá valor e a torna única.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Essa era a visão do passado, do tempo do narrador: “no meu tempo roupa usada era sinal de aperto, coisa que se escondia dos colegas” (linhas 29-30). O texto mostra que essa visão mudou: a filha “exibe a jaqueta” (linha 30).",
+      "B": "O preço baixo aparece só no Texto 1 (“pagara pouco”, linha 28) e não é o único motivo do orgulho: a filha também valoriza ter uma peça que ninguém mais tem. No Texto 2, o preço nem é mencionado.",
+      "D": "Nenhuma das jaquetas precisa de conserto. O remendo do Texto 2 (verso 5) já foi feito por um dono anterior e faz parte da história da peça. O conserto, no Texto 1, é do ventilador."
+    },
+    "tip": "Em questões de comparação, procure a ideia que aparece nos DOIS textos; alternativas que valem só para um deles (ou para uma parte de um deles) estão erradas."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“<b><u>Mas</u></b> é preciso reconhecer que o descarte correto resolve apenas a ponta final do problema.” (linha 16)</p></blockquote><p>A conjunção destacada, que abre o último parágrafo do Texto 3, introduz</p>",
+    "options": {
+      "A": "uma oposição, equivalente a “porém”, que relativiza o valor do descarte correto e prepara a defesa de que é preciso trocar menos de aparelho.",
+      "B": "uma conclusão das ideias anteriores, equivalente a “portanto”, que confirma o descarte correto como solução completa.",
+      "C": "uma explicação, equivalente a “pois”, que justifica a existência de pontos de coleta nas lojas.",
+      "D": "uma adição, equivalente a “além disso”, que acrescenta novas vantagens ao descarte em pontos de coleta."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O terceiro parágrafo apresenta uma solução: devolver os aparelhos em pontos de coleta, apagar os dados, doar ou vender o que ainda funciona (linhas 11-15). Até aí, parece que o problema está resolvido.</p><p>O “Mas” da linha 16 é uma conjunção <b>adversativa</b> (como “porém”, “contudo”, “entretanto”): ele se opõe, em parte, ao que foi dito antes. O autor admite que o descarte correto é bom, mas diz que ele resolve “apenas a ponta final do problema”. Em seguida, apresenta sua tese: enquanto as pessoas trocarem de celular à toa, as gavetas continuarão cheias (linhas 17-18); por isso, “consertar, doar e usar por mais tempo é ainda mais” importante que reciclar (linha 19), já que “o lixo eletrônico mais fácil de tratar é aquele que nunca chegou a ser produzido” (linhas 19-20).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Mas” não conclui; ele contraria. E o parágrafo diz o oposto de “solução completa”: o descarte resolve “apenas a ponta final do problema” (linha 16).",
+      "C": "Nada no último parágrafo explica por que existem pontos de coleta; isso foi dito no terceiro parágrafo (linhas 11-13), pela lei. O “Mas” muda a direção do raciocínio.",
+      "D": "Adição somaria argumentos na mesma direção. O último parágrafo não elogia mais o descarte; ele mostra seus limites e propõe algo além dele."
+    },
+    "tip": "“Mas” e seus parentes (porém, contudo, todavia, entretanto) costumam anunciar a ideia mais importante: em textos de opinião, é comum a tese vir logo depois deles."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote><p>“No Brasil, a lei determina que fabricantes e comerciantes recebam de volta os eletrônicos descartados, e <b><u>muitas lojas mantêm pontos de coleta para isso</u></b>.” (linhas 11-13)</p></blockquote><p>Ao passar a oração destacada para a voz passiva analítica, mantendo o tempo verbal e o sentido original, obtém-se:</p>",
+    "options": {
+      "A": "pontos de coleta foram mantidos por muitas lojas para isso.",
+      "B": "pontos de coleta são mantidos por muitas lojas para isso.",
+      "C": "muitas lojas são mantidas por pontos de coleta para isso.",
+      "D": "pontos de coleta são mantidas por muitas lojas para isso."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na voz ativa, o sujeito pratica a ação: <b>muitas lojas</b> (sujeito) <b>mantêm</b> (verbo no presente) <b>pontos de coleta</b> (objeto direto).</p><p>Para passar à <b>voz passiva analítica</b>:</p><ol><li>o objeto direto vira sujeito: <b>pontos de coleta</b>;</li><li>o verbo vira locução com “ser” no <b>mesmo tempo</b> do verbo original + particípio: “mantêm” (presente) → “<b>são mantidos</b>”;</li><li>o antigo sujeito vira agente da passiva, com “por”: <b>por muitas lojas</b>.</li></ol><p>O particípio concorda com o novo sujeito, “pontos” (masculino plural): “mantidos”. Resultado: “pontos de coleta são mantidos por muitas lojas para isso”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Foram mantidos” está no pretérito perfeito; o verbo original, “mantêm”, está no presente. A transformação mudou o tempo verbal.",
+      "C": "Inverte os papéis: agora seriam os pontos de coleta que manteriam as lojas, o que muda completamente o sentido.",
+      "D": "O particípio deveria concordar com o sujeito “pontos” (masculino plural): “mantidos”, e não “mantidas”."
+    },
+    "tip": "Voz passiva analítica: objeto vira sujeito, verbo “ser” no mesmo tempo do verbo original + particípio concordando com o novo sujeito, e o antigo sujeito vem com “por”."
+  }
+]

@@ -37,13 +37,14 @@ and import it as JSON.
 | Set | Source | Key |
 |---|---|---|
 | Provas 2014, 2015, 2016 (manhã e tarde), 2017 (manhã e tarde), 2018 (manhã e tarde), 2019, 2022, 2023, 2024, 2025 | cp2.g12.br, blog.cp2.g12.br/cp2digital and dhui.cp2.g12.br | official (2019 only has the preliminary key online) |
+| Provas inéditas 01 to 10 | written for this project in the CPII format: original texts, 10 Portuguese and 10 Math questions and an essay proposal each | solved and cross-checked by independent reviewers |
 | Matemática 2011 and 2013 | CP2 Digital Google Forms (questions adapted to multiple choice by the school) | solved and cross-checked, no official key |
 
 There was no exam in 2020 and 2021 (admission by lottery during the pandemic). The exam year is the
 year it was applied; students enter school the following year.
 
-Exam content belongs to Colégio Pedro II. Solutions, tips, topic tags and the essay theme bank were
-written for this project and verified by independent passes (transcription check against the page
+Exam content belongs to Colégio Pedro II. Solutions, tips, topic tags, the original exams and the essay
+theme bank were written for this project and verified by independent passes (transcription check against the page
 images, independent solving, adversarial review).
 
 ## Layout
@@ -68,6 +69,7 @@ node tools/build.mjs             # writes dist/simulador-cp2.html
 python3 tools/validate.py p2025 --stage explain   # schema and content checks
 node tools/check_katex.mjs p2025                  # LaTeX syntax
 node tools/shoot.mjs p2025                        # screenshot every question as rendered
+node tools/e2e.mjs                                # drive the main flows in a headless browser
 ```
 
 The build pre-renders all LaTeX with KaTeX, inlines fonts (Source Sans 3 and Literata) and images

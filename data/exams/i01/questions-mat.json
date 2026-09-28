@@ -1,0 +1,268 @@
+[
+  {
+    "n": 11,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em fevereiro, um par de tênis custava R$ 240,00 em uma loja de artigos esportivos. Em março, a loja reajustou o preço desse tênis em 25%. Em abril, colocou na vitrine o cartaz: <b>“Promoção: 20% de desconto sobre o preço atual!”</b>.</p><p>Um cliente que comprou esse tênis em abril, durante a promoção, pagou</p>",
+    "options": {
+      "A": "R$ 192,00.",
+      "B": "R$ 228,00.",
+      "C": "R$ 240,00.",
+      "D": "R$ 252,00."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os dois percentuais são aplicados em momentos diferentes e sobre valores diferentes, então vamos por etapas.</p><p><b>Março (aumento de 25%):</b> 25% de 240 é \\(0{,}25 \\cdot 240 = 60\\). O novo preço é \\(240 + 60 = 300\\) reais.</p><p><b>Abril (desconto de 20% sobre o preço atual):</b> o preço atual é 300. 20% de 300 é \\(0{,}20 \\cdot 300 = 60\\). O preço na promoção é \\(300 - 60 = 240\\) reais.</p><p>Usando fatores multiplicativos: \\(240 \\cdot 1{,}25 \\cdot 0{,}80 = 240 \\cdot 1 = 240\\).</p><p>O cliente pagou R$ 240,00, o mesmo preço de fevereiro. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Aplicou o desconto de 20% sobre o preço de fevereiro, esquecendo o reajuste de março: \\(240 \\cdot 0{,}80 = 192\\).",
+      "B": "Achou que a combinação \"aumento de 25% e desconto de 20%\" deixaria o preço 5% abaixo do original e fez \\(240 \\cdot 0{,}95 = 228\\). Na verdade, os fatores se multiplicam: \\(1{,}25 \\cdot 0{,}80 = 1\\), e o preço volta exatamente ao valor de fevereiro.",
+      "D": "Subtraiu os percentuais (\\(25\\% - 20\\% = 5\\%\\)) e aplicou um aumento de 5% sobre 240, obtendo 252. Porcentagens sucessivas não se somam nem se subtraem, porque cada uma é calculada sobre uma base diferente."
+    },
+    "tip": "Aumentos e descontos sucessivos se multiplicam: use os fatores (1,25 e 0,80), nunca some ou subtraia as taxas."
+  },
+  {
+    "n": 12,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para limpar a calha de sua casa, Marcos apoiou uma escada de 5 m de comprimento em um muro vertical, com o pé da escada no chão horizontal, a 1,4 m do muro, como mostra a figura.</p><p><img src=\"img/i01/mat-q12.svg\" alt=\"Figura: um muro vertical à esquerda e o chão horizontal. Uma escada reta está apoiada com o topo encostado no muro e o pé no chão. O comprimento da escada está indicado como 5 m, e a distância do pé da escada até o muro, medida no chão, como 1,4 m. Há um sinal de ângulo reto entre o muro e o chão.\"></p><p>Enquanto Marcos buscava uma ferramenta, a escada escorregou: o topo desceu 0,8 m, continuando encostado no muro, e o pé se afastou do muro, sempre sobre o chão.</p><p>Nessa escorregada, o pé da escada se afastou do muro</p>",
+    "options": {
+      "A": "0,8 m.",
+      "B": "1,6 m.",
+      "C": "2,2 m.",
+      "D": "3,0 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O muro, o chão e a escada formam um triângulo retângulo. A escada é a hipotenusa (5 m).</p><p><b>1) Altura inicial do topo.</b> Com a distância do pé ao muro igual a 1,4 m:</p><p>\\[h^2 + 1{,}4^2 = 5^2 \\Rightarrow h^2 = 25 - 1{,}96 = 23{,}04 \\Rightarrow h = 4{,}8 \\text{ m}\\]</p><p><b>2) Nova altura.</b> O topo desceu 0,8 m: \\(4{,}8 - 0{,}8 = 4\\) m.</p><p><b>3) Nova distância do pé ao muro.</b> A escada continua com 5 m:</p><p>\\[d^2 + 4^2 = 5^2 \\Rightarrow d^2 = 25 - 16 = 9 \\Rightarrow d = 3 \\text{ m}\\]</p><p><b>4) Quanto o pé se afastou:</b> \\(3 - 1{,}4 = 1{,}6\\) m. Resposta: <b>B</b>.</p><p>Repare que o topo desceu 0,8 m, mas o pé andou o dobro disso: os dois deslocamentos não precisam ser iguais.</p>",
+    "distractors": {
+      "A": "Supôs que o pé se afasta exatamente o mesmo tanto que o topo desce. Isso não é verdade: a escada gira, e os deslocamentos na horizontal e na vertical são diferentes.",
+      "C": "Subtraiu a descida do topo da nova distância (\\(3 - 0{,}8 = 2{,}2\\)), misturando uma medida vertical com uma horizontal. O afastamento é a nova distância menos a distância inicial, 1,4 m.",
+      "D": "Parou na nova distância do pé ao muro (3 m). A pergunta é quanto o pé se afastou, ou seja, \\(3 - 1{,}4\\)."
+    },
+    "tip": "Escada apoiada no muro é triângulo retângulo com a escada como hipotenusa; ela não muda de tamanho quando escorrega."
+  },
+  {
+    "n": 13,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A planta a seguir representa o piso da sala de um apartamento. O canto marcado com linha tracejada pertence à varanda e não faz parte da sala. Todos os cantos da sala formam ângulos retos.</p><p><img src=\"img/i01/mat-q13.svg\" alt=\"Planta de uma sala em forma de L, obtida de um retângulo de 8 m por 6 m do qual se retirou o canto superior direito, marcado com linha tracejada e com a palavra varanda. Medidas indicadas: lado de baixo 8 m, lado esquerdo 6 m, lado de cima 5 m e lado direito 4 m. As medidas do recorte não estão escritas.\"></p><p>O piso escolhido é vendido apenas em caixas fechadas, e cada caixa cobre 2,4 m². Desconsiderando perdas no corte das peças, o menor número de caixas que devem ser compradas para cobrir todo o piso da sala é</p>",
+    "options": {
+      "A": "12.",
+      "B": "15.",
+      "C": "17.",
+      "D": "18."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Medidas do recorte (varanda).</b> A sala cabe em um retângulo de 8 m por 6 m. O lado de cima mede 5 m, então o recorte tem \\(8 - 5 = 3\\) m de largura. O lado direito mede 4 m, então o recorte tem \\(6 - 4 = 2\\) m de altura.</p><p><b>2) Área da sala.</b> Retângulo inteiro menos o recorte:</p><p>\\[8 \\cdot 6 - 3 \\cdot 2 = 48 - 6 = 42 \\text{ m}^2\\]</p><p>(Outra forma: dividir o L em dois retângulos, \\(5 \\cdot 2 = 10\\) e \\(8 \\cdot 4 = 32\\), somando 42 m².)</p><p><b>3) Número de caixas.</b> \\(42 \\div 2{,}4 = 17{,}5\\). Com 17 caixas cobrimos só \\(17 \\cdot 2{,}4 = 40{,}8\\) m², que não bastam. Como a loja só vende caixas fechadas, é preciso comprar <b>18 caixas</b>. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou o perímetro no lugar da área: \\(8 + 6 + 5 + 4 + 3 + 2 = 28\\) m e \\(28 \\div 2{,}4 \\approx 11{,}7\\), arredondado para 12. Piso cobre superfície, então a medida certa é a área.",
+      "B": "Errou as medidas do recorte, usando o lado de 4 m no lugar de 2 m: \\(48 - 3 \\cdot 4 = 36\\) e \\(36 \\div 2{,}4 = 15\\). O recorte tem altura \\(6 - 4 = 2\\) m.",
+      "C": "Fez a conta certa (\\(42 \\div 2{,}4 = 17{,}5\\)), mas arredondou para baixo. Com 17 caixas faltaria piso para 1,2 m²; como só se vendem caixas fechadas, arredonda-se para cima."
+    },
+    "tip": "Quando algo é vendido em unidades inteiras e precisa cobrir tudo, arredonde sempre para cima."
+  },
+  {
+    "n": 14,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a premiação de uma gincana, o grêmio estudantil tem três rolos de fita de cetim, com 84 cm, 120 cm e 156 cm de comprimento. A ideia é cortar todas as fitas em pedaços de mesmo comprimento, com o <b>maior comprimento possível</b>, sem sobrar nenhum pedaço de fita. Cada pedaço, com um número inteiro de centímetros, será preso a uma medalha.</p><p>Nessas condições, o grêmio obterá</p>",
+    "options": {
+      "A": "30 pedaços de 12 cm.",
+      "B": "60 pedaços de 6 cm.",
+      "C": "90 pedaços de 4 cm.",
+      "D": "12 pedaços de 30 cm."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O comprimento de cada pedaço precisa dividir exatamente 84, 120 e 156 (para não sobrar fita) e deve ser o maior possível. Então procuramos o <b>MDC</b> desses números.</p><p>\\(84 = 2^2 \\cdot 3 \\cdot 7\\), \\(\\;120 = 2^3 \\cdot 3 \\cdot 5\\), \\(\\;156 = 2^2 \\cdot 3 \\cdot 13\\)</p><p>O MDC usa os fatores comuns com o menor expoente: \\(\\text{MDC} = 2^2 \\cdot 3 = 12\\). Cada pedaço terá 12 cm.</p><p>Número de pedaços: \\(84 \\div 12 = 7\\), \\(\\;120 \\div 12 = 10\\), \\(\\;156 \\div 12 = 13\\). Total: \\(7 + 10 + 13 = 30\\) pedaços.</p><p>Resposta: <b>A</b>, 30 pedaços de 12 cm.</p>",
+    "distractors": {
+      "B": "Pedaços de 6 cm também dividem as três fitas sem sobra (\\(14 + 20 + 26 = 60\\) pedaços), mas 6 não é o maior divisor comum: faltou um fator 2 no MDC.",
+      "C": "Pedaços de 4 cm também não deixam sobra (\\(21 + 30 + 39 = 90\\)), mas faltou o fator 3 no MDC. O enunciado pede o maior comprimento possível.",
+      "D": "Trocou os papéis dos números: o MDC (12) é o comprimento de cada pedaço, e 30 é a quantidade de pedaços. Além disso, 84 não é divisível por 30."
+    },
+    "tip": "\"Maior pedaço possível sem sobra\" pede MDC; \"próximo encontro\" ou \"menor quantidade que dá certo\" pede MMC."
+  },
+  {
+    "n": 15,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lia quer emoldurar uma fotografia retangular de 20 cm por 30 cm. A moldura terá a mesma largura \\(x\\), em centímetros, em todos os lados, de modo que a foto emoldurada continua sendo um retângulo. Ela escolheu a largura \\(x\\) para que a área ocupada <b>apenas pela moldura</b> seja igual à área da fotografia.</p><p>A largura \\(x\\) da moldura é</p>",
+    "options": {
+      "A": "10 cm.",
+      "B": "6 cm.",
+      "C": "5 cm.",
+      "D": "2,5 cm."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Área da foto:</b> \\(20 \\cdot 30 = 600\\) cm².</p><p><b>2) Área total (foto + moldura).</b> A moldura acrescenta \\(x\\) de cada lado, então as medidas externas são \\(20 + 2x\\) e \\(30 + 2x\\). Se a moldura tem a mesma área da foto, a área total é \\(600 + 600 = 1200\\) cm²:</p><p>\\[(20 + 2x)(30 + 2x) = 1200\\]</p><p><b>3) Desenvolvendo:</b></p><p>\\[600 + 40x + 60x + 4x^2 = 1200 \\Rightarrow 4x^2 + 100x - 600 = 0 \\Rightarrow x^2 + 25x - 150 = 0\\]</p><p><b>4) Resolvendo</b> (Bhaskara): \\(\\Delta = 25^2 - 4 \\cdot 1 \\cdot (-150) = 625 + 600 = 1225\\), e \\(\\sqrt{1225} = 35\\).</p><p>\\[x = \\frac{-25 \\pm 35}{2} \\Rightarrow x = 5 \\text{ ou } x = -30\\]</p><p>Uma largura não pode ser negativa, então \\(x = 5\\) cm.</p><p><b>Conferindo:</b> a foto emoldurada mede \\(30 \\times 40\\), com área 1200 cm², e a moldura ocupa \\(1200 - 600 = 600\\) cm². Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Encontrou o acréscimo total em cada dimensão (\\(2x = 10\\)), mas a pergunta é a largura da moldura em cada lado, \\(x = 5\\).",
+      "B": "Calculou a moldura como quatro faixas retangulares, \\(2 \\cdot 20x + 2 \\cdot 30x = 100x = 600\\), esquecendo os quatro quadradinhos \\(x \\times x\\) dos cantos. Com \\(x = 6\\), a moldura teria \\(36 \\cdot 46 - 600 = 1056\\) cm², bem mais que 600.",
+      "D": "Dividiu por 2 a resposta correta, como se a largura 5 cm fosse repartida entre os dois lados opostos. Com \\(x = 2{,}5\\), a área total seria \\(25 \\cdot 35 = 875\\) cm², e a moldura teria só 275 cm²."
+    },
+    "tip": "Em moldura ou calçada de largura \\(x\\), cada dimensão cresce \\(2x\\); monte a área total e não esqueça os cantos."
+  },
+  {
+    "n": 16,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O mapa de um parque estadual, distribuído aos visitantes, foi desenhado na escala 1 : 25 000. Nesse mapa, a trilha que leva da portaria até a cachoeira é quase reta e mede 6 cm.</p><p>A distância real aproximada entre a portaria e a cachoeira é de</p>",
+    "options": {
+      "A": "150 m.",
+      "B": "1,5 km.",
+      "C": "15 km.",
+      "D": "150 km."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A escala 1 : 25 000 significa que cada 1 cm no mapa corresponde a 25 000 cm na realidade.</p><p>Então 6 cm no mapa correspondem a \\(6 \\cdot 25\\,000 = 150\\,000\\) cm reais.</p><p>Convertendo: \\(150\\,000\\) cm \\(= 1\\,500\\) m (dividindo por 100) \\(= 1{,}5\\) km (dividindo por 1000).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Errou a conversão de centímetros para metros, dividindo por 1000 em vez de 100: \\(150\\,000 \\div 1000 = 150\\).",
+      "C": "Errou a conversão por um fator 10: \\(150\\,000\\) cm são 1 500 m, isto é, 1,5 km, e não 15 km.",
+      "D": "Converteu 150 000 cm como se fossem metros (150 000 m = 150 km). A escala compara medidas na mesma unidade: o resultado está em centímetros."
+    },
+    "tip": "Escala 1 : N: multiplique a medida do mapa por N e mantenha a unidade; só depois converta."
+  },
+  {
+    "n": 17,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Bruna registrou, na tabela a seguir, quantos minutos dedicou à leitura de um livro em cada dia de uma semana.</p><table><thead><tr><th>Dia</th><th>Seg</th><th>Ter</th><th>Qua</th><th>Qui</th><th>Sex</th><th>Sáb</th><th>Dom</th></tr></thead><tbody><tr><td>Tempo de leitura (minutos)</td><td>30</td><td>15</td><td>40</td><td>20</td><td>55</td><td>35</td><td>50</td></tr></tbody></table><p>Ela quer que a média diária de leitura, considerando esses sete dias e a segunda-feira seguinte, seja de 40 minutos.</p><p>Para isso, na segunda-feira seguinte, Bruna deverá ler durante</p>",
+    "options": {
+      "A": "35 minutos.",
+      "B": "40 minutos.",
+      "C": "45 minutos.",
+      "D": "75 minutos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias",
+      "mat.est.graficos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1) Total da semana:</b> \\(30 + 15 + 40 + 20 + 55 + 35 + 50 = 245\\) minutos. (A média desses 7 dias é \\(245 \\div 7 = 35\\) minutos.)</p><p><b>2) Total necessário.</b> Para a média de 8 dias ser 40 minutos, a soma dos 8 dias deve ser \\(8 \\cdot 40 = 320\\) minutos.</p><p><b>3) Tempo do 8º dia:</b> \\(320 - 245 = 75\\) minutos.</p><p><b>Outra forma de pensar:</b> em cada um dos 7 dias faltaram 5 minutos para chegar a 40, ou seja, faltaram \\(7 \\cdot 5 = 35\\) minutos. O 8º dia precisa ter os seus 40 minutos mais esses 35: \\(40 + 35 = 75\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou só o que faltou nos 7 primeiros dias (\\(7 \\cdot 5 = 35\\)), esquecendo que o 8º dia também precisa ter seus próprios 40 minutos.",
+      "B": "Supôs que bastaria ler, no novo dia, o valor da média desejada. Isso só manteria a média se ela já fosse 40; como a média atual é 35, ler 40 minutos deixaria a média em \\(285 \\div 8 \\approx 35{,}6\\).",
+      "C": "Somou à meta apenas a diferença entre as médias (\\(40 + 5 = 45\\)). Essa diferença de 5 minutos precisa ser compensada em cada um dos 7 dias anteriores, não uma vez só."
+    },
+    "tip": "Em problemas de média, trabalhe com a soma: soma = média × quantidade de valores."
+  },
+  {
+    "n": 18,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um artesão monta um mosaico com peças em forma de polígonos regulares, todas com lados de mesma medida. Em cada vértice do mosaico, como o vértice V da figura, encontram-se exatamente três peças: um quadrado, um hexágono regular e um terceiro polígono regular, que se encaixam sem sobreposição e sem deixar espaço entre elas.</p><p><img src=\"img/i01/mat-q18.svg\" alt=\"Figura: três polígonos regulares com lados de mesma medida em volta de um ponto V, marcado em vermelho. Acima e à direita de V há um quadrado; acima e à esquerda, um hexágono regular; abaixo de V, ocupando o espaço restante, um polígono regular maior, com muitos lados, identificado como polígono desconhecido. Os três polígonos têm V como vértice comum e preenchem completamente a volta em torno de V.\"></p><p>O número de diagonais do terceiro polígono é</p>",
+    "options": {
+      "A": "9.",
+      "B": "12.",
+      "C": "54.",
+      "D": "108."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1) Os ângulos em V somam 360°</b>, porque as três peças preenchem a volta completa sem sobra.</p><p>Ângulo interno do quadrado: 90°. Ângulo interno do hexágono regular: \\(\\dfrac{(6 - 2) \\cdot 180^\\circ}{6} = \\dfrac{720^\\circ}{6} = 120^\\circ\\).</p><p>Ângulo interno do terceiro polígono: \\(360^\\circ - 90^\\circ - 120^\\circ = 150^\\circ\\).</p><p><b>2) Número de lados.</b> Se o ângulo interno é 150°, o ângulo externo é \\(180^\\circ - 150^\\circ = 30^\\circ\\). Como os ângulos externos de um polígono somam 360°: \\(n = \\dfrac{360^\\circ}{30^\\circ} = 12\\). É um dodecágono.</p><p><b>3) Diagonais:</b></p><p>\\[d = \\frac{n(n - 3)}{2} = \\frac{12 \\cdot 9}{2} = 54\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contou só as diagonais que saem de um vértice (\\(n - 3 = 9\\)). O total considera todos os 12 vértices e divide por 2.",
+      "B": "Parou no número de lados do polígono (12). A pergunta pede o número de diagonais.",
+      "D": "Fez \\(12 \\cdot 9 = 108\\) e esqueceu de dividir por 2: cada diagonal liga dois vértices e foi contada duas vezes."
+    },
+    "tip": "Mosaico em volta de um vértice: os ângulos internos somam 360°. Diagonais: \\(\\frac{n(n-3)}{2}\\)."
+  },
+  {
+    "n": 19,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Com palitos de fósforo, Caio montou a sequência de figuras a seguir. Cada nova figura tem um quadradinho a mais que a anterior, sempre enfileirado à direita.</p><p><img src=\"img/i01/mat-q19.svg\" alt=\"Três figuras feitas com palitos de fósforo. Figura 1: um quadradinho, formado por 4 palitos. Figura 2: dois quadradinhos lado a lado, que compartilham um palito, totalizando 7 palitos. Figura 3: três quadradinhos lado a lado em fila, totalizando 10 palitos.\"></p><p>Mantendo esse padrão, o número de palitos necessários para montar a Figura 40 é</p>",
+    "options": {
+      "A": "160.",
+      "B": "130.",
+      "C": "124.",
+      "D": "121."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Contando os palitos: Figura 1 tem 4, Figura 2 tem 7, Figura 3 tem 10. A cada nova figura acrescentam-se <b>3 palitos</b> (o novo quadradinho aproveita um lado do anterior).</p><p>Uma forma de ver: o primeiro palito vertical, à esquerda, e mais 3 palitos para cada quadradinho. Na Figura \\(n\\):</p><p>\\[P(n) = 3n + 1\\]</p><p>Conferindo: \\(P(1) = 4\\), \\(P(2) = 7\\), \\(P(3) = 10\\). ✓</p><p>Para a Figura 40: \\(P(40) = 3 \\cdot 40 + 1 = 121\\) palitos. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Contou 4 palitos para cada quadradinho (\\(4 \\cdot 40\\)), sem perceber que quadradinhos vizinhos compartilham um palito.",
+      "B": "Partiu dos 10 palitos da Figura 3 e somou 3 palitos quarenta vezes (\\(10 + 3 \\cdot 40\\)). A partir da Figura 3 faltam apenas 37 figuras: \\(10 + 3 \\cdot 37 = 121\\).",
+      "C": "Partiu dos 4 palitos da Figura 1 e somou 3 quarenta vezes (\\(4 + 3 \\cdot 40\\)). Da Figura 1 até a Figura 40 há só 39 acréscimos: \\(4 + 3 \\cdot 39 = 121\\)."
+    },
+    "tip": "Em sequências com acréscimo fixo, ache a fórmula e teste nas primeiras figuras antes de usar."
+  },
+  {
+    "n": 20,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um pote há 7 bombons de mesmo tamanho e mesma embalagem: 4 são de morango e 3 são de coco. Sem olhar, Júlia retira dois bombons do pote, um depois do outro, sem devolver o primeiro.</p><p>A probabilidade de os dois bombons retirados serem do mesmo sabor é</p>",
+    "options": {
+      "A": "\\(\\dfrac{3}{7}\\)",
+      "B": "\\(\\dfrac{1}{2}\\)",
+      "C": "\\(\\dfrac{25}{49}\\)",
+      "D": "\\(\\dfrac{4}{7}\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>\"Mesmo sabor\" acontece de dois jeitos: os dois de morango <b>ou</b> os dois de coco. Calculamos cada caso e somamos.</p><p><b>Dois de morango:</b> na 1ª retirada, 4 dos 7 bombons são de morango. Sobram 6 bombons, dos quais 3 de morango:</p><p>\\[\\frac{4}{7} \\cdot \\frac{3}{6} = \\frac{12}{42}\\]</p><p><b>Dois de coco:</b> na 1ª retirada, 3 dos 7; depois, 2 dos 6 restantes:</p><p>\\[\\frac{3}{7} \\cdot \\frac{2}{6} = \\frac{6}{42}\\]</p><p><b>Somando:</b> \\(\\dfrac{12}{42} + \\dfrac{6}{42} = \\dfrac{18}{42} = \\dfrac{3}{7}\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Pensou que só há dois resultados (\"mesmo sabor\" ou \"sabores diferentes\") e que eles são igualmente prováveis. Eles não são: \"sabores diferentes\" tem probabilidade \\(\\frac{4}{7}\\).",
+      "C": "Calculou como se o primeiro bombom fosse devolvido ao pote: \\(\\frac{4}{7} \\cdot \\frac{4}{7} + \\frac{3}{7} \\cdot \\frac{3}{7} = \\frac{16 + 9}{49} = \\frac{25}{49}\\). Sem devolução, o pote passa a ter 6 bombons na segunda retirada.",
+      "D": "Calculou a probabilidade do evento contrário, sabores diferentes: \\(\\frac{4}{7} \\cdot \\frac{3}{6} + \\frac{3}{7} \\cdot \\frac{4}{6} = \\frac{24}{42} = \\frac{4}{7}\\)."
+    },
+    "tip": "Sem reposição, o total (e a quantidade do que já saiu) diminui na segunda retirada. Casos com \"ou\" se somam."
+  }
+]

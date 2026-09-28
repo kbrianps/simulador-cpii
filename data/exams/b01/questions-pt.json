@@ -1,0 +1,272 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Na aula de Ciências, a professora dividiu a turma em grupos de quatro alunos <b><u>a fim de que</u></b> todos pudessem manusear o microscópio.”</p></blockquote><p>No trecho, a expressão destacada introduz uma ideia de</p>",
+    "options": {
+      "A": "causa.",
+      "B": "consequência.",
+      "C": "finalidade.",
+      "D": "condição."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pergunte: para que a professora dividiu a turma em grupos pequenos? Para que todos pudessem manusear o microscópio. A oração introduzida por “a fim de que” indica o <b>objetivo</b> da ação.</p><p>Teste a troca: “dividiu a turma em grupos de quatro alunos <b>para que</b> todos pudessem manusear o microscópio”. O sentido se mantém, então a relação é de <b>finalidade</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A causa é o motivo que já existia antes da ação (“porque”, “já que”). Aqui a oração fala de algo que a professora pretende alcançar depois: é um objetivo, não um motivo.",
+      "B": "Consequência seria um resultado que simplesmente aconteceu (“de modo que todos puderam”). “A fim de que” mostra intenção, e o verbo no subjuntivo (“pudessem”) indica que o resultado ainda era um desejo.",
+      "D": "Condição é uma exigência para que algo aconteça (“se”, “caso”). Manusear o microscópio não é condição para dividir a turma; é o que se quer conseguir com a divisão."
+    },
+    "tip": "Se dá para trocar o conectivo por “para que” e perguntar “para quê?”, a relação é de finalidade."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Quem sobe uma montanha sente o ar ficar mais frio: <b><u>à medida que</u></b> a altitude aumenta, a temperatura do ar tende a diminuir.”</p></blockquote><p>A expressão destacada pode ser substituída, sem alteração de sentido, por</p>",
+    "options": {
+      "A": "à proporção que.",
+      "B": "assim que.",
+      "C": "ainda que.",
+      "D": "uma vez que."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“À medida que” liga dois fatos que variam <b>juntos</b>: quanto mais a altitude aumenta, mais a temperatura cai. Essa é a relação de <b>proporção</b>.</p><p>Entre as opções, a única locução proporcional é “à proporção que”. Teste: “à proporção que a altitude aumenta, a temperatura do ar tende a diminuir”. O sentido é o mesmo.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Assim que” indica tempo pontual, um fato logo depois do outro (“assim que cheguei, choveu”). O trecho não fala de um momento, mas de uma variação gradual.",
+      "C": "“Ainda que” é concessivo, apresenta um obstáculo que não impede o fato. A altitude não é um obstáculo à queda da temperatura.",
+      "D": "“Uma vez que” é causal. Embora a altitude ajude a explicar o frio, a expressão original destaca que as duas coisas mudam ao mesmo tempo e na mesma medida, e essa ideia se perde com “uma vez que”."
+    },
+    "tip": "“À medida que” e “à proporção que” indicam proporção: pense em “quanto mais..., mais (ou menos)...”."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“<b><u>Conforme</u></b> o aplicativo de transporte havia previsto, o metrô chegou lotado à estação às sete da manhã.”</p></blockquote><p>No trecho, a palavra destacada estabelece uma relação de</p>",
+    "options": {
+      "A": "tempo.",
+      "B": "proporção.",
+      "C": "causa.",
+      "D": "conformidade."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O trecho diz que o metrô chegou lotado <b>do jeito que</b> o aplicativo tinha previsto. Os fatos estão de acordo com a previsão.</p><p>Teste a troca: “<b>De acordo com o que</b> o aplicativo havia previsto” ou “<b>Como</b> o aplicativo havia previsto”. O sentido se mantém: a relação é de <b>conformidade</b>.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A previsão foi feita antes, mas a palavra não marca o momento em que o metrô chegou; ela diz que a chegada aconteceu de acordo com a previsão.",
+      "B": "“Conforme” pode ser proporcional quando duas coisas variam juntas (“conforme o trem enche, fica mais quente”). Aqui não há variação gradual, só a confirmação de uma previsão.",
+      "C": "A previsão do aplicativo não é o motivo de o metrô estar lotado: o aplicativo apenas anunciou o que ia acontecer."
+    },
+    "tip": "“Conforme” com sentido de “de acordo com” indica conformidade; com sentido de “à medida que”, indica proporção."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia as duas frases.</p><blockquote><p>Lucas guardou metade da mesada durante seis meses. Ele não conseguiu juntar o dinheiro para o tênis que queria.</p></blockquote><p>Assinale a alternativa que une as duas frases em um só período de forma coerente, mantendo a relação lógica entre as ideias.</p>",
+    "options": {
+      "A": "Como guardou metade da mesada durante seis meses, Lucas não conseguiu juntar o dinheiro para o tênis que queria.",
+      "B": "Embora tenha guardado metade da mesada durante seis meses, Lucas não conseguiu juntar o dinheiro para o tênis que queria.",
+      "C": "Lucas guardou metade da mesada durante seis meses, portanto não conseguiu juntar o dinheiro para o tênis que queria.",
+      "D": "Lucas guardou metade da mesada durante seis meses para que não conseguisse juntar o dinheiro para o tênis que queria."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Quem guarda dinheiro durante meses espera conseguir comprar o que quer. A segunda frase mostra o contrário: mesmo assim, Lucas não juntou o suficiente. Há uma quebra de expectativa, uma <b>oposição</b> entre as ideias.</p><p>O conectivo que expressa um fato que não impede o outro é o concessivo: “<b>Embora</b> tenha guardado metade da mesada durante seis meses, Lucas não conseguiu...”. Seria possível também usar “mas” (“guardou..., mas não conseguiu”).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Como”, no início do período, é causal: a frase diria que Lucas não juntou o dinheiro <i>por causa</i> de ter guardado a mesada, o que é absurdo.",
+      "C": "“Portanto” apresenta uma conclusão lógica. Não faz sentido concluir que alguém não juntou dinheiro justamente porque economizou.",
+      "D": "“Para que” indica finalidade: Lucas teria economizado com o objetivo de não conseguir comprar o tênis, o que contradiz o sentido das frases."
+    },
+    "tip": "Quando o segundo fato contraria o que se esperava do primeiro, a relação é de oposição: use “embora”, “apesar de” ou “mas”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>A palavra “logo” pode ter diferentes valores, dependendo do contexto. Assinale a alternativa em que ela tem o mesmo valor de “portanto”.</p>",
+    "options": {
+      "A": "O técnico pediu tempo e, logo depois, a equipe virou o set.",
+      "B": "Terminem o aquecimento, porque logo começa a partida.",
+      "C": "A levantadora torceu o tornozelo no treino; logo, não jogará a final.",
+      "D": "Logo que o árbitro apitou, a torcida levantou as bandeiras."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>“Portanto” introduz uma <b>conclusão</b> tirada do que foi dito antes. Procure a frase em que “logo” liga uma premissa a uma conclusão.</p><p>Em C, a levantadora torceu o tornozelo (fato); a conclusão é que ela não jogará a final. Teste: “torceu o tornozelo no treino; <b>portanto</b>, não jogará a final”. O sentido se mantém. Repare também na pontuação: o “logo” conclusivo costuma vir entre vírgulas ou depois de ponto e vírgula.</p><p>Nas outras alternativas, “logo” é um advérbio de <b>tempo</b>, com sentido de “em seguida”, “em breve” ou, na locução “logo que”, “assim que”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Logo depois” significa “pouco tempo depois”: indica tempo. A virada do set não é uma conclusão lógica do pedido de tempo.",
+      "B": "Aqui “logo” quer dizer “em breve”, “daqui a pouco”. A conjunção que explica a ordem é “porque”, não “logo”.",
+      "D": "“Logo que” é uma locução temporal equivalente a “assim que”: marca o momento em que a torcida levantou as bandeiras."
+    },
+    "tip": "Troque “logo” por “portanto” e por “em seguida”: a troca que mantém o sentido revela o valor da palavra."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“A biblioteca comunitária do bairro <b><u>não só</u></b> empresta livros, <b><u>mas também</u></b> oferece oficinas gratuitas de desenho aos sábados.”</p></blockquote><p>A expressão destacada estabelece entre as ideias uma relação de</p>",
+    "options": {
+      "A": "adição.",
+      "B": "oposição.",
+      "C": "alternância.",
+      "D": "explicação."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A frase apresenta duas coisas que a biblioteca faz: empresta livros <b>e</b> oferece oficinas. A segunda informação se <b>soma</b> à primeira, reforçando a importância da biblioteca.</p><p>A estrutura “não só... mas também” (ou “não apenas... como também”) é aditiva. Teste: “A biblioteca empresta livros <b>e, além disso,</b> oferece oficinas”. O sentido é o mesmo.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O “mas” sozinho costuma indicar oposição, e essa é a armadilha. Na dupla “não só... mas também”, porém, ele não contraria nada: as duas ideias caminham na mesma direção.",
+      "C": "Alternância seria uma coisa ou outra (“ou... ou”, “ora... ora”). A biblioteca faz as duas atividades, não uma no lugar da outra.",
+      "D": "Explicação seria uma justificativa (“pois”, “porque”). Oferecer oficinas não explica o empréstimo de livros; é mais uma atividade acrescentada."
+    },
+    "tip": "“Não só... mas também” soma ideias: não se deixe enganar pelo “mas”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia uma das regras de um jogo de tabuleiro.</p><blockquote><p>“O jogador pode comprar uma carta extra, <b><u>desde que</u></b> tenha parado em uma casa azul.”</p></blockquote><p>A expressão destacada pode ser substituída, sem alteração de sentido, por</p>",
+    "options": {
+      "A": "a partir do momento em que.",
+      "B": "visto que.",
+      "C": "ainda que.",
+      "D": "contanto que."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A regra diz que a carta extra só é permitida se o jogador tiver parado em uma casa azul. Parar na casa azul é uma <b>exigência</b>, uma <b>condição</b>.</p><p>“Desde que” seguido de verbo no subjuntivo (“tenha parado”) tem valor condicional. Teste: “pode comprar uma carta extra, <b>contanto que</b> tenha parado em uma casa azul”, ou “<b>se</b> tiver parado”. O sentido se mantém.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Desde que” também pode indicar tempo, como em “desde que ganhei o tabuleiro, jogo todas as noites”. Mas aí ele marca um ponto de partida no tempo, com verbo no indicativo. Na regra, a ideia é de exigência, não de momento.",
+      "B": "“Visto que” é causal e apresenta um fato já acontecido como motivo. A regra não afirma que o jogador parou na casa azul; ela impõe isso como condição.",
+      "C": "“Ainda que” é concessivo: diria que o jogador pode comprar a carta mesmo tendo parado na casa azul, como se isso fosse um obstáculo. O sentido da regra mudaria."
+    },
+    "tip": "“Desde que” + subjuntivo = condição (troque por “contanto que” ou “se”); “desde que” + indicativo = tempo."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“O festival de música da escola terá entrada solidária, <b><u>ou seja</u></b>, cada pessoa deverá levar um quilo de alimento não perecível para entrar.”</p></blockquote><p>No trecho, a expressão destacada introduz</p>",
+    "options": {
+      "A": "uma ressalva que contraria a informação anterior.",
+      "B": "uma consequência provocada pela informação anterior.",
+      "C": "um esclarecimento sobre o sentido da expressão anterior.",
+      "D": "uma alternativa à informação anterior."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A expressão “entrada solidária” pode não ser clara para todos os leitores. Depois de “ou seja”, o texto explica o que ela significa: cada pessoa leva um quilo de alimento para entrar.</p><p>“Ou seja”, assim como “isto é” e “quer dizer”, introduz um <b>esclarecimento</b>, uma reformulação do que acabou de ser dito. Teste: “terá entrada solidária, <b>isto é</b>, cada pessoa deverá levar...”. O sentido se mantém.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A segunda parte não contraria a primeira; ela diz a mesma coisa com mais detalhes. Não há ressalva (como seria com “mas” ou “porém”).",
+      "B": "Levar alimento não é um efeito da entrada solidária: é a própria definição dela. Para consequência, o texto usaria “por isso” ou “de modo que”.",
+      "D": "A palavra “ou” faz pensar em alternativa, mas “ou seja” não oferece uma segunda opção ao leitor: é uma locução explicativa."
+    },
+    "tip": "“Ou seja”, “isto é” e “quer dizer” anunciam uma explicação: o que vem depois diz a mesma coisa de outra forma."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“A barraca de pastel fechou mais cedo <b><u>porque</u></b> o óleo acabou.”</p></blockquote><p>Assinale a reescrita que mantém o sentido do período original.</p>",
+    "options": {
+      "A": "O óleo acabou, de modo que a barraca de pastel fechou mais cedo.",
+      "B": "A barraca de pastel fechou mais cedo, embora o óleo tivesse acabado.",
+      "C": "A barraca de pastel fechou mais cedo para que o óleo acabasse.",
+      "D": "A barraca de pastel fechou mais cedo; portanto, o óleo acabou."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.transformacoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No original, há uma <b>causa</b> (o óleo acabou) e uma <b>consequência</b> (a barraca fechou mais cedo).</p><p>Uma reescrita correta pode inverter a ordem das orações, desde que a causa continue sendo causa e a consequência continue sendo consequência. Em A, a causa vem primeiro e “de modo que” introduz a consequência: “O óleo acabou, <b>de modo que</b> a barraca fechou mais cedo”. A relação é a mesma.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Embora” transforma a falta de óleo em obstáculo que não impediu o fechamento, uma relação de concessão. Além disso, fica sem sentido: a falta de óleo é justamente o que explica o fechamento.",
+      "C": "“Para que” indica finalidade: a barraca teria fechado com o objetivo de fazer o óleo acabar. A relação muda completamente.",
+      "D": "Esta é a armadilha mais forte: “portanto” faz do fim do óleo uma <i>conclusão</i> tirada do fechamento, como se alguém deduzisse “fechou, então o óleo deve ter acabado”. A causa virou conclusão, e o sentido do original se perdeu."
+    },
+    "tip": "Ao reescrever uma relação de causa, confira qual fato é o motivo e qual é o efeito: “de modo que” e “por isso” introduzem o efeito; “porque” e “já que”, o motivo."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Na porta de uma loja de animais, havia o seguinte aviso:</p><blockquote><p>“Feche o portão ao sair, <b><u>senão</u></b> os filhotes podem fugir para a rua.”</p></blockquote><p>A palavra destacada pode ser substituída, sem prejuízo do sentido, por</p>",
+    "options": {
+      "A": "além disso.",
+      "B": "caso contrário.",
+      "C": "a não ser.",
+      "D": "por conseguinte."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos",
+      "pt.gramatica.formacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O aviso dá uma orientação (fechar o portão) e mostra o que pode acontecer se ela não for seguida: os filhotes podem fugir. “Senão” equivale a “se não fizer isso”, isto é, a “<b>caso contrário</b>”.</p><p>Teste: “Feche o portão ao sair; <b>caso contrário</b>, os filhotes podem fugir para a rua”. O sentido se mantém: há uma condição negativa implícita.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Além disso” acrescentaria uma nova informação, como se a fuga dos filhotes fosse mais uma recomendação. O aviso, porém, mostra o risco de deixar o portão aberto.",
+      "C": "“Senão” pode significar “a não ser” em frases como “não quero nada senão descanso” (exceto). Aqui não há exceção: há o que acontece se a orientação for ignorada.",
+      "D": "“Por conseguinte” é conclusivo: diria que fechar o portão faz os filhotes fugirem, o oposto do que o aviso quer dizer."
+    },
+    "tip": "“Senão” (junto) pode significar “caso contrário” ou “exceto”; “se não” (separado) é o “se” condicional seguido de “não”."
+  }
+]

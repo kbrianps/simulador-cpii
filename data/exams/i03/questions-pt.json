@@ -9,7 +9,7 @@
     "options": {
       "A": "a apresentação de dados e pesquisas que comprovam, com números, a tese do autor.",
       "B": "o uso de linguagem técnica, dirigida a especialistas em conserto de eletrodomésticos.",
-      "C": "a narração de um episódio do cotidiano, em primeira pessoa, que conduz a uma reflexão sobre hábitos de consumo.",
+      "C": "a narração de um fato do cotidiano, em primeira pessoa, que leva a uma reflexão sobre consumo.",
       "D": "a presença de instruções numeradas que ensinam o leitor a consertar os próprios objetos."
     },
     "answer": "C",
@@ -36,7 +36,7 @@
     ],
     "stem": "<p>O cronista usa diversos recursos expressivos para tornar a narrativa mais viva.</p><p>Assinale a alternativa que relaciona corretamente o trecho do Texto 1 à figura de linguagem nele presente:</p>",
     "options": {
-      "A": "“ergueu uma pecinha preta entre os dedos, como um cirurgião que exibe ao público a bala retirada do paciente” (linhas 19-20) – comparação",
+      "A": "“como um cirurgião que exibe ao público a bala retirada do paciente” (linhas 19-20) – comparação",
       "B": "“sem nenhuma consideração pelos trinta e quatro graus que fazia lá fora” (linha 2) – eufemismo",
       "C": "“Coisa de quinze reais.” (linha 21) – hipérbole",
       "D": "“Estava orgulhosa: pagara pouco, e ninguém na escola teria outra igual.” (linhas 28-29) – metáfora"
@@ -67,7 +67,7 @@
       "A": "a um ritual de magia usado pelos vendedores para enganar os clientes.",
       "B": "ao receio de que um aparelho consertado volte a apresentar defeito.",
       "C": "à dificuldade de encontrar profissionais que consertem aparelhos antigos.",
-      "D": "à atração que os produtos recém-fabricados exercem sobre o consumidor, levando-o a preferir comprar em vez de consertar."
+      "D": "à atração que os produtos novos exercem sobre o consumidor."
     },
     "answer": "D",
     "annulled": false,
@@ -94,7 +94,7 @@
     "stem": "<p>A retomada de termos já mencionados, por meio de pronomes e outras expressões, garante a coesão de um texto.</p><p>Assinale a alternativa em que o termo destacado está corretamente associado ao elemento que ele retoma no Texto 1:</p>",
     "options": {
       "A": "“Levei o motor à loja onde <b><u>o</u></b> tinha comprado.” (linha 6): “o” retoma “loja”.",
-      "B": "“[...] esperam sua vez em prateleiras que vão até o teto, <b><u>cada um</u></b> com um bilhete amarrado com o nome do dono.” (linhas 16-17): “cada um” retoma os aparelhos que aguardam conserto na oficina.",
+      "B": "“[...] prateleiras que vão até o teto, <b><u>cada um</u></b> com um bilhete amarrado com o nome do dono.” (linha 17): “cada um” retoma os aparelhos que aguardam conserto.",
       "C": "“<b><u>Ele</u></b> conserta até o que não tem conserto.” (linha 14): “Ele” retoma “o vendedor”.",
       "D": "“[...] vão parar em algum lugar, e <b><u>esse lugar</u></b> também é a nossa casa, só que maior.” (linhas 34-35): “esse lugar” retoma “a oficina do seu Nonato”."
     },
@@ -154,7 +154,7 @@
       "A": "que ainda vai acontecer, depois da chegada da filha em casa.",
       "B": "que se repetia habitualmente no passado, como um costume da filha.",
       "C": "hipotética, cuja realização dependeria de uma condição.",
-      "D": "passada e concluída antes de outro fato também passado, podendo ser substituída por “tinha pagado”."
+      "D": "passada e anterior a outro fato passado, equivalente a “tinha pagado”."
     },
     "answer": "D",
     "annulled": false,
@@ -180,7 +180,7 @@
     "stem": "<blockquote><p>“Dizem que é roupa velha;<br>eu prefiro: roupa vivida.” (versos 13-14)</p></blockquote><p>Ao trocar a expressão “roupa velha” por “roupa vivida”, o eu lírico</p>",
     "options": {
       "A": "reconhece que a jaqueta está gasta demais e anuncia que vai descartá-la em breve.",
-      "B": "recusa a visão negativa sobre a roupa usada e a valoriza pelas histórias e marcas que ela acumulou.",
+      "B": "recusa a visão negativa da roupa usada e a valoriza pelas marcas e histórias que carrega.",
       "C": "concorda com quem desvaloriza a roupa de segunda mão, mas a usa por falta de opção.",
       "D": "revela que a jaqueta, na verdade, é nova e só parece antiga por causa do remendo."
     },
@@ -238,7 +238,7 @@
     ],
     "stem": "<blockquote><p>“<b><u>Mas</u></b> é preciso reconhecer que o descarte correto resolve apenas a ponta final do problema.” (linha 16)</p></blockquote><p>A conjunção destacada, que abre o último parágrafo do Texto 3, introduz</p>",
     "options": {
-      "A": "uma oposição, equivalente a “porém”, que relativiza o valor do descarte correto e prepara a defesa de que é preciso trocar menos de aparelho.",
+      "A": "uma oposição, equivalente a “porém”, que aponta os limites do descarte correto e prepara a defesa de consumir menos.",
       "B": "uma conclusão das ideias anteriores, equivalente a “portanto”, que confirma o descarte correto como solução completa.",
       "C": "uma explicação, equivalente a “pois”, que justifica a existência de pontos de coleta nas lojas.",
       "D": "uma adição, equivalente a “além disso”, que acrescenta novas vantagens ao descarte em pontos de coleta."

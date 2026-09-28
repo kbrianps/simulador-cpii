@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma aula de Ciências, a professora contou que a distância média entre a Terra e a Lua é de cerca de <b>384 000 km</b>. Em seguida, pediu aos estudantes que escrevessem esse número em notação científica, isto é, na forma \\(a \\times 10^{n}\\), com \\(1 \\le a < 10\\) e \\(n\\) inteiro.</p><p>A forma correta, em quilômetros, é</p>",
+    "options": {
+      "A": "\\(3{,}84 \\times 10^{3}\\)",
+      "B": "\\(3{,}84 \\times 10^{4}\\)",
+      "C": "\\(3{,}84 \\times 10^{5}\\)",
+      "D": "\\(3{,}84 \\times 10^{6}\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para ficar com um número entre 1 e 10 na frente, a vírgula de 384 000 precisa ir para depois do algarismo 3:</p><p>\\[384\\,000 \\;\\to\\; 3{,}84\\]</p><p>Contando as casas que a vírgula andou para a esquerda: 384000 tem 6 algarismos, e a vírgula saiu do final e parou depois do primeiro algarismo, andando <b>5 casas</b>. Cada casa corresponde a um fator 10, então:</p><p>\\[384\\,000 = 3{,}84 \\times 100\\,000 = 3{,}84 \\times 10^{5}\\]</p><p>Conferindo: \\(3{,}84 \\times 100\\,000 = 384\\,000\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contou apenas os três zeros do final de 384 000 e esqueceu que os algarismos 8 e 4 também ficam depois da vírgula. \\(3{,}84 \\times 10^{3} = 3\\,840\\), bem menor que a distância dada.",
+      "B": "Contou uma casa a menos no deslocamento da vírgula. \\(3{,}84 \\times 10^{4} = 38\\,400\\), dez vezes menos que 384 000.",
+      "D": "Usou como expoente o número total de algarismos (6), mas a vírgula anda só 5 casas, porque o primeiro algarismo fica antes dela. \\(3{,}84 \\times 10^{6} = 3\\,840\\,000\\)."
+    },
+    "tip": "Na notação científica, o expoente é o número de casas que a vírgula anda até sobrar um único algarismo não nulo antes dela."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para pintar o muro do quintal, seu Jorge calculou que vai precisar de exatamente \\(2\\dfrac{1}{2}\\) litros de tinta. Na loja de materiais de construção, essa tinta só é vendida em latinhas de \\(\\dfrac{1}{4}\\) de litro.</p><p>Para ter exatamente a quantidade de tinta de que precisa, seu Jorge deverá comprar</p>",
+    "options": {
+      "A": "5 latinhas.",
+      "B": "8 latinhas.",
+      "C": "9 latinhas.",
+      "D": "10 latinhas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Queremos saber quantas vezes \\(\\dfrac{1}{4}\\) de litro cabe em \\(2\\dfrac{1}{2}\\) litros.</p><p><b>Pelo raciocínio direto:</b> cada litro inteiro equivale a 4 latinhas de \\(\\dfrac{1}{4}\\). Então 2 litros equivalem a \\(2 \\times 4 = 8\\) latinhas. O meio litro que falta equivale a 2 latinhas, pois \\(\\dfrac{1}{2} = \\dfrac{2}{4}\\). Total: \\(8 + 2 = 10\\).</p><p><b>Pela divisão de frações:</b> \\(2\\dfrac{1}{2} = \\dfrac{5}{2}\\), e</p><p>\\[\\frac{5}{2} \\div \\frac{1}{4} = \\frac{5}{2} \\times \\frac{4}{1} = \\frac{20}{2} = 10\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Confundiu a latinha de \\(\\dfrac{1}{4}\\) de litro com uma de \\(\\dfrac{1}{2}\\) litro: \\(2{,}5 \\div \\dfrac{1}{2} = 5\\). Com uma latinha menor, são necessárias mais latinhas.",
+      "B": "Considerou só os 2 litros inteiros (\\(2 \\times 4 = 8\\)) e esqueceu o meio litro, que equivale a mais 2 latinhas.",
+      "C": "Contou o meio litro como se fosse uma única latinha de \\(\\dfrac{1}{4}\\) (8 + 1). Meio litro é o dobro de um quarto de litro: são 2 latinhas."
+    },
+    "tip": "Dividir por uma fração é perguntar quantas vezes ela cabe no número: multiplique pelo inverso."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para uma apresentação de dança no ginásio da escola, 169 estudantes se organizaram em uma formação quadrada, com o mesmo número de estudantes em cada fileira e em cada coluna, sem sobrar ninguém.</p><p>Na apresentação seguinte, a coreógrafa quer uma nova formação quadrada, com <b>uma fileira e uma coluna a mais</b> do que a anterior.</p><p>Para completar a nova formação, será preciso acrescentar ao grupo exatamente</p>",
+    "options": {
+      "A": "14 estudantes.",
+      "B": "26 estudantes.",
+      "C": "27 estudantes.",
+      "D": "28 estudantes."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Em uma formação quadrada, o total de estudantes é o número de cada fileira elevado ao quadrado. Então o lado da formação é a raiz quadrada de 169:</p><p>\\[\\sqrt{169} = 13, \\text{ pois } 13 \\times 13 = 169.\\]</p><p>A nova formação terá 14 fileiras com 14 estudantes cada:</p><p>\\[14^{2} = 196\\]</p><p>Serão necessários \\(196 - 169 = 27\\) estudantes a mais.</p><p>Outra forma de ver: a nova fileira tem 14 lugares e a nova coluna também, mas o lugar do canto é o mesmo nas duas; logo, \\(14 + 14 - 1 = 27\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Acrescentou só uma fileira de 14 estudantes (ou só uma coluna), esquecendo que a formação cresce nas duas direções.",
+      "B": "Somou uma fileira e uma coluna de 13 (\\(13 + 13\\)), mas a formação nova tem lado 14, e o canto também precisa de um estudante.",
+      "D": "Somou uma fileira e uma coluna de 14 (\\(14 + 14\\)) e contou duas vezes o lugar do canto, que pertence às duas ao mesmo tempo."
+    },
+    "tip": "Formação quadrada com N pessoas tem lado \\(\\sqrt{N}\\); para crescer uma unidade no lado, compare os dois quadrados."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No treino de vôlei, o técnico anotou quantos saques cada jogadora acertou em uma série de exercícios. Cada jogadora fez um número diferente de saques:</p><table><thead><tr><th>Jogadora</th><th>Saques acertados</th><th>Saques feitos</th></tr></thead><tbody><tr><td>Ana</td><td>14</td><td>20</td></tr><tr><td>Bia</td><td>15</td><td>24</td></tr><tr><td>Clara</td><td>26</td><td>40</td></tr></tbody></table><p>O técnico vai organizar as jogadoras da que teve <b>maior aproveitamento</b> (fração de saques acertados em relação aos saques feitos) para a que teve <b>menor aproveitamento</b>. A ordem correta é</p>",
+    "options": {
+      "A": "Ana, Clara, Bia.",
+      "B": "Clara, Bia, Ana.",
+      "C": "Ana, Bia, Clara.",
+      "D": "Bia, Clara, Ana."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O aproveitamento de cada jogadora é a fração <i>acertos / saques feitos</i>. Simplificando ou transformando em decimal:</p><ul><li>Ana: \\(\\dfrac{14}{20} = \\dfrac{7}{10} = 0{,}7\\)</li><li>Bia: \\(\\dfrac{15}{24} = \\dfrac{5}{8} = 0{,}625\\)</li><li>Clara: \\(\\dfrac{26}{40} = \\dfrac{13}{20} = 0{,}65\\)</li></ul><p>Também dá para comparar com denominador comum 40: \\(\\dfrac{28}{40}\\), \\(\\dfrac{25}{40}\\) e \\(\\dfrac{26}{40}\\).</p><p>Do maior para o menor: \\(0{,}7 > 0{,}65 > 0{,}625\\), isto é, Ana, Clara, Bia. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Ordenou pelo número de saques acertados (26, 15, 14), sem levar em conta quantos saques cada uma fez. Quem saca mais vezes tende a acertar mais, então é preciso comparar frações.",
+      "C": "Ordenou pelo número de erros (Ana errou 6, Bia 9 e Clara 14), o que também ignora o total de saques de cada uma.",
+      "D": "Inverteu a ordem pedida: essa é a sequência do menor para o maior aproveitamento."
+    },
+    "tip": "Para comparar desempenhos com totais diferentes, compare frações: leve todas ao mesmo denominador ou ao decimal."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma gráfica imprime adesivos em folhas quadradas, com \\(2^{3}\\) adesivos em cada fileira e \\(2^{3}\\) adesivos em cada coluna. As folhas são vendidas em pacotes fechados com 4 folhas cada. A prefeitura encomendou \\(2^{14}\\) adesivos para uma campanha de vacinação nas escolas da cidade.</p><p>Para atender exatamente a essa encomenda, a gráfica deverá enviar um número de pacotes igual a</p>",
+    "options": {
+      "A": "\\(2^{6}\\)",
+      "B": "\\(2^{8}\\)",
+      "C": "\\(2^{9}\\)",
+      "D": "\\(2^{22}\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Adesivos em uma folha:</b> a folha é quadrada, então o total é o número da fileira vezes o número da coluna:</p><p>\\[2^{3} \\times 2^{3} = 2^{3+3} = 2^{6}\\]</p><p><b>Adesivos em um pacote:</b> como \\(4 = 2^{2}\\),</p><p>\\[2^{6} \\times 2^{2} = 2^{8} \\text{ adesivos}\\]</p><p><b>Número de pacotes:</b> total encomendado dividido pela quantidade de cada pacote. Na divisão de potências de mesma base, subtraímos os expoentes:</p><p>\\[\\frac{2^{14}}{2^{8}} = 2^{14-8} = 2^{6} = 64\\]</p><p>Conferindo: 64 pacotes com \\(2^{8} = 256\\) adesivos dão \\(64 \\times 256 = 16\\,384 = 2^{14}\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu as 4 folhas de cada pacote e dividiu \\(2^{14}\\) apenas pelos \\(2^{6}\\) adesivos de uma folha. Assim obteve o número de <b>folhas</b>, e não de pacotes.",
+      "C": "Não multiplicou fileira por coluna: usou \\(2^{3}\\) adesivos por folha em vez de \\(2^{3} \\times 2^{3}\\), obtendo \\(2^{14} \\div 2^{5} = 2^{9}\\).",
+      "D": "Multiplicou o total encomendado pela quantidade de cada pacote \\((2^{14} \\times 2^{8})\\) em vez de dividir. Para saber quantos pacotes são necessários, divide-se o total pela quantidade de cada pacote."
+    },
+    "tip": "Na multiplicação de potências de mesma base, somam-se os expoentes; na divisão, subtraem-se."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dona Célia está fazendo uma toalha de crochê e trabalha sempre no mesmo ritmo. Ela já fez \\(\\dfrac{3}{4}\\) da toalha e, para isso, gastou <b>1 hora e 12 minutos</b>.</p><p>Mantendo esse ritmo, o tempo total que ela terá gastado para fazer a toalha inteira será de</p>",
+    "options": {
+      "A": "54 minutos.",
+      "B": "1 hora e 30 minutos.",
+      "C": "1 hora e 36 minutos.",
+      "D": "1 hora e 48 minutos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, passamos o tempo para minutos: 1 h 12 min = 60 + 12 = <b>72 minutos</b>.</p><p>Esses 72 minutos correspondem a 3 quartos da toalha. Então cada quarto leva</p><p>\\[72 \\div 3 = 24 \\text{ minutos}.\\]</p><p>A toalha inteira tem 4 quartos:</p><p>\\[4 \\times 24 = 96 \\text{ minutos} = 60 + 36 = 1 \\text{ h } 36 \\text{ min}.\\]</p><p>(Pela divisão de frações: \\(72 \\div \\dfrac{3}{4} = 72 \\times \\dfrac{4}{3} = 96\\).) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou \\(\\dfrac{3}{4}\\) de 72 minutos (54 min), mas 72 minutos já são os três quartos; o que se procura é o todo, que é maior que 72.",
+      "B": "Somou a 72 minutos um quarto de 72 (18 min). O quarto que falta não é um quarto do tempo já gasto, e sim um terço dele (24 min), porque 72 min correspondem a três quartos.",
+      "D": "Tratou 72 minutos como se fossem \\(\\dfrac{2}{3}\\) da toalha: \\(72 \\div \\dfrac{2}{3} = 108\\) min = 1 h 48 min."
+    },
+    "tip": "Se uma fração do todo é conhecida, divida pelo numerador para achar uma parte e multiplique pelo denominador para achar o todo."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No mural da sala de aula, a professora fixou, lado a lado e alinhadas pela base, duas placas quadradas de cortiça: uma com área de \\(18\\ \\text{dm}^{2}\\) e outra com área de \\(8\\ \\text{dm}^{2}\\).</p><p>O comprimento total ocupado pelas duas placas, medido ao longo da base, em decímetros, é igual a</p>",
+    "options": {
+      "A": "\\(\\sqrt{26}\\)",
+      "B": "\\(5\\sqrt{2}\\)",
+      "C": "\\(7\\sqrt{2}\\)",
+      "D": "\\(12\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O lado de um quadrado é a raiz quadrada da sua área. O comprimento total é a soma dos dois lados:</p><p>\\[\\sqrt{18} + \\sqrt{8}\\]</p><p>Não podemos somar os radicandos, mas podemos simplificar cada raiz, tirando um quadrado perfeito de dentro dela:</p><ul><li>\\(\\sqrt{18} = \\sqrt{9 \\times 2} = \\sqrt{9}\\cdot\\sqrt{2} = 3\\sqrt{2}\\)</li><li>\\(\\sqrt{8} = \\sqrt{4 \\times 2} = \\sqrt{4}\\cdot\\sqrt{2} = 2\\sqrt{2}\\)</li></ul><p>Agora as duas parcelas têm o mesmo radical e podem ser somadas como termos semelhantes:</p><p>\\[3\\sqrt{2} + 2\\sqrt{2} = 5\\sqrt{2} \\approx 7{,}07 \\text{ dm}\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou os radicandos: \\(\\sqrt{18} + \\sqrt{8} \\ne \\sqrt{26}\\). Por exemplo, \\(\\sqrt{9} + \\sqrt{16} = 7\\), mas \\(\\sqrt{25} = 5\\).",
+      "C": "Simplificou \\(\\sqrt{8}\\) como \\(4\\sqrt{2}\\), esquecendo de tirar a raiz do 4. O certo é \\(\\sqrt{8} = \\sqrt{4}\\cdot\\sqrt{2} = 2\\sqrt{2}\\).",
+      "D": "Multiplicou as raízes em vez de somá-las: \\(\\sqrt{18}\\cdot\\sqrt{8} = \\sqrt{144} = 12\\). O comprimento pedido é a soma dos lados."
+    },
+    "tip": "Raízes só se somam depois de simplificadas para o mesmo radical, como termos semelhantes: \\(3\\sqrt{2} + 2\\sqrt{2} = 5\\sqrt{2}\\)."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma aula prática de Ciências, uma bolinha de borracha foi solta, a partir do repouso, de uma altura de 81 cm. Cada vez que toca o chão, ela sobe, na vertical, até \\(\\dfrac{2}{3}\\) da altura de onde caiu, e volta a cair.</p><p>Desde o momento em que foi solta até tocar o chão pela <b>terceira vez</b>, a distância total percorrida pela bolinha, subindo e descendo, foi de</p>",
+    "options": {
+      "A": "153 cm.",
+      "B": "171 cm.",
+      "C": "225 cm.",
+      "D": "261 cm."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Vamos acompanhar a bolinha passo a passo.</p><ul><li>Cai 81 cm e toca o chão pela <b>1ª vez</b>.</li><li>Sobe \\(\\dfrac{2}{3}\\) de 81: \\(81 \\div 3 \\times 2 = 54\\) cm, e desce os mesmos 54 cm, tocando o chão pela <b>2ª vez</b>.</li><li>Sobe \\(\\dfrac{2}{3}\\) de 54: \\(54 \\div 3 \\times 2 = 36\\) cm, e desce 36 cm, tocando o chão pela <b>3ª vez</b>.</li></ul><p>Somando tudo:</p><p>\\[81 + (54 + 54) + (36 + 36) = 81 + 108 + 72 = 261 \\text{ cm}\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou \\(\\dfrac{1}{3}\\) da altura em vez de \\(\\dfrac{2}{3}\\): alturas 81, 27 e 9 cm, e total \\(81 + 54 + 18 = 153\\) cm.",
+      "B": "Somou só as descidas \\((81 + 54 + 36)\\), esquecendo que, antes de cada nova queda, a bolinha também sobe.",
+      "C": "Parou no ponto mais alto depois do 2º toque \\((81 + 54 + 54 + 36)\\) e esqueceu a última descida de 36 cm, que é o que leva ao 3º toque."
+    },
+    "tip": "Em problemas de quique, desenhe o caminho: cada altura depois da primeira aparece duas vezes (sobe e desce)."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na olimpíada de matemática da escola, um dos desafios apresentava quatro números muito grandes, escritos como potências:</p><p>\\[2^{60} \\qquad 3^{40} \\qquad 5^{20} \\qquad 10^{15}\\]</p><p>Colocando esses números em <b>ordem crescente</b>, obtém-se</p>",
+    "options": {
+      "A": "\\(2^{60} < 3^{40} < 5^{20} < 10^{15}\\)",
+      "B": "\\(10^{15} < 5^{20} < 3^{40} < 2^{60}\\)",
+      "C": "\\(5^{20} < 10^{15} < 3^{40} < 2^{60}\\)",
+      "D": "\\(5^{20} < 10^{15} < 2^{60} < 3^{40}\\)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Não dá para comparar só pelas bases nem só pelos expoentes. A ideia é escrever todas as potências com o <b>mesmo expoente</b>. Os expoentes 60, 40, 20 e 15 são todos múltiplos de 5, e usamos \\((a^{m})^{n} = a^{m \\cdot n}\\):</p><ul><li>\\(2^{60} = (2^{12})^{5} = 4096^{5}\\)</li><li>\\(3^{40} = (3^{8})^{5} = 6561^{5}\\)</li><li>\\(5^{20} = (5^{4})^{5} = 625^{5}\\)</li><li>\\(10^{15} = (10^{3})^{5} = 1000^{5}\\)</li></ul><p>Com o mesmo expoente, é maior a potência de maior base:</p><p>\\[625 < 1000 < 4096 < 6561\\]</p><p>Logo, \\(5^{20} < 10^{15} < 2^{60} < 3^{40}\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Ordenou pelas bases (2, 3, 5, 10), ignorando que os expoentes são diferentes e muito maiores nas bases pequenas.",
+      "B": "Ordenou pelos expoentes (15, 20, 40, 60), ignorando as bases. Um expoente maior não garante uma potência maior quando a base é menor.",
+      "C": "Acertou os dois menores, mas comparou \\(2^{60}\\) e \\(3^{40}\\) só pelo expoente. Com expoente comum, \\(2^{60} = 4096^{5}\\) e \\(3^{40} = 6561^{5}\\), então \\(3^{40}\\) é maior."
+    },
+    "tip": "Para comparar potências de bases e expoentes diferentes, reescreva todas com o mesmo expoente e compare as bases."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Antes de uma viagem, Marcos parou em um posto. O marcador do tanque do carro indicava que havia combustível em \\(\\dfrac{3}{8}\\) da capacidade do tanque. Ele colocou 33 litros, e o marcador passou a indicar \\(\\dfrac{5}{6}\\) da capacidade.</p><p>A capacidade total do tanque desse carro é de</p>",
+    "options": {
+      "A": "39,6 litros.",
+      "B": "72 litros.",
+      "C": "88 litros.",
+      "D": "396 litros."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.fracoes",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Os 33 litros colocados correspondem à diferença entre as duas frações do tanque:</p><p>\\[\\frac{5}{6} - \\frac{3}{8}\\]</p><p>Com denominador comum 24 (o MMC de 6 e 8):</p><p>\\[\\frac{5}{6} = \\frac{20}{24}, \\qquad \\frac{3}{8} = \\frac{9}{24}, \\qquad \\frac{20}{24} - \\frac{9}{24} = \\frac{11}{24}.\\]</p><p>Então \\(\\dfrac{11}{24}\\) do tanque equivalem a 33 litros. Um vinte e quatro avos do tanque é \\(33 \\div 11 = 3\\) litros, e o tanque inteiro tem</p><p>\\[24 \\times 3 = 72 \\text{ litros}.\\]</p><p>Conferindo: \\(\\dfrac{3}{8}\\) de 72 = 27 L; \\(27 + 33 = 60\\) L, e \\(\\dfrac{5}{6}\\) de 72 = 60 L. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu 33 por \\(\\dfrac{5}{6}\\), como se os 33 litros fossem todo o combustível do tanque depois de abastecer. Mas o tanque já tinha combustível antes.",
+      "C": "Dividiu 33 por \\(\\dfrac{3}{8}\\), tratando os 33 litros como se correspondessem à fração que havia antes de abastecer.",
+      "D": "Subtraiu as frações de forma errada: fez \\(\\dfrac{5 - 3}{24} = \\dfrac{2}{24}\\), sem converter os numeradores para o denominador 24. Aí \\(33 \\div \\dfrac{2}{24} = 396\\) L, um tanque impossível para um carro."
+    },
+    "tip": "A quantidade acrescentada corresponde à diferença entre a fração final e a inicial; para subtrair, iguale os denominadores."
+  }
+]

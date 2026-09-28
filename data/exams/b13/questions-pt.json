@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Caio, aluno do 9º ano, ficou gripado e escreveu duas mensagens na mesma noite. A primeira foi para um colega de turma; a segunda, para a professora de Geografia.</p><blockquote><p><b>Mensagem 1</b> (aplicativo de conversa)<br>“Aí, Duda, amanhã n vou pra aula não, tô mó gripado. Me passa a matéria dps? vlw”</p><p><b>Mensagem 2</b> (e-mail)<br>“Prezada professora Helena, informo que não poderei comparecer à aula de amanhã, pois estou gripado. Poderia, por gentileza, indicar o conteúdo que será trabalhado? Atenciosamente, Caio Martins, 9º ano B.”</p></blockquote><p>Comparando as duas mensagens, conclui-se que Caio</p>",
+    "options": {
+      "A": "só se comunicou corretamente no e-mail, já que a mensagem ao colega traz erros que devem ser evitados em qualquer situação.",
+      "B": "adequou a linguagem a cada interlocutor e situação: informal com o colega, formal com a professora.",
+      "C": "deveria ter enviado a Mensagem 1 também à professora, pois ela é mais curta e, por isso, mais clara.",
+      "D": "usou o mesmo registro nas duas mensagens, variando apenas o assunto tratado em cada uma delas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>As duas mensagens dizem praticamente a mesma coisa: Caio vai faltar porque está gripado e quer saber o conteúdo da aula. O que muda é o <b>registro</b>, ou seja, o grau de formalidade.</p><p>Com o colega, numa conversa por aplicativo, ele usa abreviações (“n”, “dps”, “vlw”), reduções da fala (“tô”, “pra”) e gíria (“mó”). Com a professora, num e-mail, usa vocativo respeitoso (“Prezada professora”), frases completas, expressão de cortesia (“por gentileza”) e fecho formal (“Atenciosamente”).</p><p>Essa mudança não é erro nem incoerência: é <b>adequação</b>. Um bom usuário da língua escolhe a forma de falar ou escrever de acordo com quem vai ler e com a situação.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Confunde adequação com correção. A Mensagem 1 é adequada à conversa entre colegas por aplicativo; seria inadequada apenas se fosse enviada à professora.",
+      "C": "Ser curta não torna a mensagem adequada. Abreviações e gírias como “mó” e “vlw” soariam desrespeitosas num e-mail para a professora.",
+      "D": "O assunto é o mesmo nas duas mensagens; o que muda é justamente o registro (informal x formal)."
+    },
+    "tip": "Não existe um único jeito certo de falar em todas as situações: a pergunta-chave é “essa linguagem é adequada para quem vai ler e para esse momento?”."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Numa página de receitas na internet, a receita de escondidinho recebeu estes comentários:</p><blockquote><p>“Aqui em Recife a gente faz com <b>macaxeira</b> e fica uma delícia!” (Rita, Recife)</p><p>“Em Porto Alegre chamamos de <b>aipim</b>. Testei e aprovei.” (Gustavo, Porto Alegre)</p><p>“Usei <b>mandioca</b> congelada e deu supercerto.” (Célia, São Paulo)</p></blockquote><p>As palavras destacadas, usadas para nomear o mesmo alimento, são um exemplo de</p>",
+    "options": {
+      "A": "variação histórica, pois duas dessas palavras caíram em desuso e só aparecem em textos antigos.",
+      "B": "erro de vocabulário, já que apenas uma das três palavras está registrada no dicionário.",
+      "C": "gíria, pois são palavras criadas por grupos de jovens para se diferenciar dos adultos.",
+      "D": "variação regional, pois cada nome é usado em uma parte diferente do país."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os três leitores falam da mesma raiz usada na receita, mas cada um a chama pelo nome usado em sua região: “macaxeira” (Recife), “aipim” (Porto Alegre) e “mandioca” (São Paulo). Os próprios comentários indicam a cidade de cada um.</p><p>Quando a diferença na língua está ligada ao <b>lugar</b> de origem do falante, temos a <b>variação regional</b> (também chamada de geográfica). As três palavras são corretas e aparecem nos dicionários; nenhuma é “melhor” que a outra.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "As três palavras estão em pleno uso hoje; a variação histórica diz respeito a mudanças da língua ao longo do tempo, o que não é o caso.",
+      "B": "“Macaxeira”, “aipim” e “mandioca” estão todas nos dicionários. Não há erro: há nomes regionais diferentes.",
+      "C": "Gíria é vocabulário de um grupo social (como os jovens). Aqui, o que diferencia os falantes é a região em que vivem, não a idade."
+    },
+    "tip": "Quando a diferença de palavras acompanha a diferença de lugar (cidade, estado, região), pense em variação regional."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia um aviso escrito à maneira dos que eram afixados nos bondes das cidades brasileiras no início do século XX.</p><blockquote><p>AVISO<br>É expressamente <b>prohibido</b> aos senhores passageiros fumar no interior dos <b>bonds</b>, bem como cuspir no assoalho. Os que desobedecerem serão convidados a retirar-se do <b>vehiculo</b>.<br>A <b>Directoria</b></p></blockquote><p>Para um leitor de hoje, as palavras destacadas chamam a atenção porque</p>",
+    "options": {
+      "A": "seguem a ortografia de outra época, o que exemplifica a variação histórica.",
+      "B": "são erros de digitação, comuns em avisos feitos às pressas para o transporte público.",
+      "C": "revelam um registro informal, próprio da conversa entre o motorneiro e os passageiros.",
+      "D": "mostram uma variação regional, típica da forma de escrever de uma única região do país."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Hoje escrevemos “proibido”, “bondes”, “veículo” e “Diretoria”. As formas do aviso (“prohibido”, “vehiculo”, com <i>h</i>; “Directoria”, com <i>c</i>) seguiam a ortografia usada antes das reformas ortográficas do século XX, que simplificaram a escrita. “Bond”, palavra de origem inglesa, depois se adaptou ao português como “bonde”.</p><p>Quando a diferença entre duas formas da língua se explica pela <b>passagem do tempo</b>, temos a <b>variação histórica</b>. Repare que o restante do aviso é bem formal (“expressamente”, “bem como”, “serão convidados a retirar-se”), o que combina com um comunicado oficial da empresa.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "As formas se repetem com regularidade (o <i>h</i> e o <i>c</i> que hoje não se escrevem), o que mostra uma norma de escrita de outra época, e não descuido.",
+      "C": "O aviso é formal: tem “senhores passageiros”, “expressamente”, “serão convidados a retirar-se”. Não reproduz uma conversa informal.",
+      "D": "Essas grafias eram usadas em todo o país naquela época. O que as diferencia das atuais é o tempo, não o lugar."
+    },
+    "tip": "Palavra com grafia “estranha”, como “pharmacia” ou “prohibido”, em texto antigo: é variação histórica, não erro."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Tiago chegou em casa depois de um campeonato de <i>videogame</i> on-line e contou à avó o resultado:</p><blockquote><p>– Vó, a gente perdeu porque o tanque não segurou a <i>lane</i>, aí o <i>jungle</i> não deu <i>gank</i> e o time todo levou <i>wipe</i>.<br>– Entendi foi nada, meu filho.</p></blockquote><p>A reação da avó se explica porque Tiago usou</p>",
+    "options": {
+      "A": "palavras típicas de uma região do Brasil diferente daquela onde a avó nasceu.",
+      "B": "linguagem formal demais, com termos técnicos que só aparecem em documentos oficiais.",
+      "C": "um vocabulário próprio do grupo dos jogadores, pouco conhecido por quem não joga.",
+      "D": "frases com erros graves de concordância e de regência, que impediriam qualquer pessoa de entender a mensagem."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Palavras como “tanque”, “<i>lane</i>”, “<i>jungle</i>”, “<i>gank</i>” e “<i>wipe</i>” fazem parte do vocabulário dos jogadores: cada uma tem um sentido específico dentro do jogo. Entre jogadores, a comunicação é rápida e eficiente; para quem não joga, como a avó, a frase fica incompreensível.</p><p>Esse vocabulário de um grupo que compartilha uma atividade é chamado de <b>jargão</b> (ou gíria de grupo) e é um tipo de <b>variação social</b>. O problema não está nas palavras em si, mas na escolha do interlocutor: com a avó, Tiago precisaria “traduzir” o que aconteceu.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Os termos não vêm de uma região do Brasil; vêm do universo dos jogos, e boa parte deles é emprestada do inglês.",
+      "B": "A fala de Tiago é informal (“Vó”, “a gente”, “aí”). Termos técnicos de um grupo não tornam a fala formal nem a aproximam de documentos oficiais.",
+      "D": "Não há erros de concordância nem de regência: “o time todo levou”, “a gente perdeu” e “não segurou a <i>lane</i>” seguem a norma. A dificuldade vem do vocabulário, não da gramática."
+    },
+    "tip": "Quando só “quem é do meio” entende as palavras (jogadores, médicos, surfistas), trata-se de jargão, uma variação ligada ao grupo social."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Depois de uma vitória num campeonato regional de futebol, o autor do gol deu esta entrevista a uma rádio, ainda na beira do campo:</p><blockquote><p>“Nós joguemo com raça, os menino tava tudo concentrado e o gol saiu no finalzinho, graças a Deus.”</p></blockquote><p>O trecho foi publicado numa rede social e recebeu comentários como “Não sabe nem falar!” e “Tinha que voltar pra escola!”.</p><p>À luz dos estudos sobre variação linguística, a avaliação mais adequada desses comentários é:</p>",
+    "options": {
+      "A": "Os comentários estão certos, pois as formas usadas pelo jogador são erros que tornam sua fala incompreensível para os ouvintes.",
+      "B": "Os comentários estão certos, pois numa entrevista de rádio qualquer forma informal é proibida, seja qual for a situação.",
+      "C": "Os comentários estão errados, pois a fala do jogador segue a norma-padrão, já que na língua oral não existem regras de concordância.",
+      "D": "Os comentários revelam preconceito linguístico: a fala segue regras de uma variedade popular, adequada a uma entrevista espontânea."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.variacao",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Formas como “joguemo”, “os menino tava” e “tudo concentrado” não seguem a concordância da norma-padrão (“jogamos”, “os meninos estavam todos concentrados”). Mas elas <b>não são aleatórias</b>: seguem regras de uma variedade popular muito difundida no Brasil, em que o plural costuma ser marcado apenas no primeiro elemento (“<b>os</b> menino”). Tanto que qualquer ouvinte entende perfeitamente a mensagem.</p><p>Além disso, a situação conta: uma entrevista rápida, na beira do campo, logo depois do jogo, é um momento de fala espontânea. Zombar do jeito de falar de alguém, julgando sua inteligência ou sua escolaridade por isso, é o que se chama de <b>preconceito linguístico</b>.</p><p>Isso não quer dizer que a norma-padrão não importe: ela é esperada em outras situações, como numa redação escolar. Mas “diferente da norma-padrão” não é o mesmo que “não saber falar”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A fala é totalmente compreensível: todo mundo entende que o time jogou com raça, estava concentrado e fez o gol no fim. Diferença em relação à norma-padrão não é falta de sentido.",
+      "B": "Entrevista de rádio feita na beira do campo, logo após o jogo, é situação de fala espontânea, que admite informalidade. Nenhuma forma é proibida em si; o que existe é adequação à situação.",
+      "C": "Chega à conclusão certa (os comentários são injustos) por um motivo falso. A fala do jogador não segue a norma-padrão, e a língua oral tem regras, sim: a variedade popular marca o plural de um modo diferente, mas regular."
+    },
+    "tip": "Variedade popular não é “falta de regra”: é outra regra. Julgar a pessoa pelo jeito de falar é preconceito linguístico."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p><b>cafuné</b> (ca.fu.né) <i>s.m.</i> <b>1.</b> Carinho que se faz coçando levemente a cabeça de alguém com a ponta dos dedos. <i>A avó fazia cafuné no neto até ele dormir.</i> <b>2.</b> <i>p. ext.</i> Qualquer gesto de carinho ou de afeto.</p></blockquote><p>O texto acima é um verbete de dicionário. Uma característica desse gênero presente nele é</p>",
+    "options": {
+      "A": "a divisão dos sentidos da palavra em acepções numeradas e o uso de abreviações.",
+      "B": "a apresentação da opinião do autor do dicionário sobre a importância do carinho nas relações familiares.",
+      "C": "o uso de linguagem conotativa, com o objetivo principal de emocionar o leitor, como em “coçando levemente”.",
+      "D": "a narração, no exemplo em itálico, de um episódio real vivido pelo autor do verbete e sua família."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O verbete de dicionário tem como finalidade <b>explicar o sentido das palavras</b> de forma objetiva. Para isso, segue uma estrutura fixa: a palavra em destaque, a divisão silábica “(ca.fu.né)”, a classe gramatical abreviada (“<i>s.m.</i>”, substantivo masculino), os sentidos numerados (as <b>acepções</b> 1 e 2) e, às vezes, um exemplo de uso. A abreviação “<i>p. ext.</i>” (“por extensão”) indica que o sentido 2 é uma ampliação do sentido 1.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O verbete define a palavra de modo objetivo; não há avaliação pessoal sobre família ou carinho.",
+      "C": "“Coçando levemente” descreve o gesto de modo literal, para definir a palavra. A finalidade do verbete é informar, não emocionar.",
+      "D": "A frase em itálico é um exemplo de uso, criado para mostrar a palavra numa frase; não é o relato de um fato vivido por quem escreveu o dicionário."
+    },
+    "tip": "Verbete de dicionário: palavra em destaque, classe gramatical abreviada, sentidos numerados e exemplo de uso. Linguagem objetiva, sem opinião."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>VENDO bicicleta aro 26, 21 marchas, freio a disco, pouco uso. Acompanha capacete. R$ 650,00 (aceito proposta). Tratar c/ Marcos, bloco B, ap. 302.</p></blockquote><p>O texto acima, publicado no mural de um condomínio, é um anúncio classificado. Sua finalidade e uma de suas características são, respectivamente,</p>",
+    "options": {
+      "A": "narrar a história da bicicleta; uso de verbos no passado.",
+      "B": "ensinar a andar de bicicleta; uso de verbos no imperativo.",
+      "C": "vender um produto; frases curtas e abreviações.",
+      "D": "defender uma opinião sobre a bicicleta como meio de transporte; uso de argumentos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O anúncio começa com “VENDO”, em maiúsculas, o que já revela a finalidade: <b>vender</b> a bicicleta. Em seguida, apresenta só o essencial para quem quer comprar: características (aro 26, 21 marchas, freio a disco), estado (pouco uso), preço e contato.</p><p>Como o espaço num mural ou num jornal é pequeno, o classificado usa <b>frases curtas, muitas vezes sem verbo</b>, e <b>abreviações</b> (“c/”, “ap.”).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não conta a história da bicicleta; descreve o produto no presente para quem quer comprá-lo.",
+      "B": "Não há instruções de uso. O único verbo de ação dirigido ao leitor, “Tratar”, é para fechar negócio, não para ensinar a pedalar.",
+      "D": "O anúncio não discute a bicicleta como meio de transporte nem apresenta argumentos; apenas oferece um produto à venda."
+    },
+    "tip": "Classificado: finalidade de vender (ou comprar, alugar), frases curtas, abreviações, preço e contato."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>Rio de Janeiro, 12 de março de 2026.</p><p>Ao Senhor Administrador Regional,</p><p>Nós, moradores da Rua Aurora, vimos solicitar providências quanto à iluminação da praça da nossa rua, que está apagada há mais de dois meses. Desde então, crianças e idosos deixaram de frequentar o local à noite, e as duas reclamações feitas por telefone ficaram sem resposta.</p><p>Contando com sua atenção, aguardamos retorno.</p><p>Atenciosamente,<br>Associação de Moradores da Rua Aurora</p></blockquote><p>Considerando o gênero desse texto e o seu interlocutor, é correto afirmar que a carta</p>",
+    "options": {
+      "A": "usa linguagem informal, adequada a um bilhete deixado para um vizinho conhecido dos moradores.",
+      "B": "usa linguagem formal, adequada a quem se dirige a uma autoridade pública, e une a descrição de um problema a um pedido de solução.",
+      "C": "tem como principal objetivo emocionar o leitor com uma descrição poética da praça durante a noite.",
+      "D": "não tem um destinatário definido e, por isso, funciona como uma notícia dirigida a qualquer leitor."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.variacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>É uma <b>carta de solicitação</b> (ou de reclamação). Ela tem as partes típicas do gênero: local e data, vocativo com o destinatário (“Ao Senhor Administrador Regional”), corpo do texto, despedida (“Atenciosamente”) e assinatura (a associação).</p><p>Como o destinatário é uma autoridade pública, os moradores usam <b>linguagem formal</b>: “vimos solicitar providências”, “Contando com sua atenção”. E o texto cumpre a finalidade do gênero: descreve o problema (a praça apagada há mais de dois meses, suas consequências, as reclamações sem resposta) e pede uma solução.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O vocativo “Ao Senhor Administrador Regional” e expressões como “vimos solicitar providências” mostram registro formal, dirigido a uma autoridade, e não a um vizinho.",
+      "C": "A praça é descrita de modo objetivo; o que se quer não é emocionar, mas obter uma providência (“aguardamos retorno”).",
+      "D": "O destinatário está explícito no vocativo. A carta se dirige a uma pessoa específica, com um pedido, diferentemente da notícia, que informa um público amplo."
+    },
+    "tip": "Em cartas, olhe o vocativo: ele mostra quem é o interlocutor e ajuda a explicar o nível de formalidade escolhido."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia dois trechos que tratam do mesmo acontecimento.</p><blockquote><p><b>Trecho 1</b><br>Cerca de noventa filhotes de tartaruga-marinha foram soltos na manhã de ontem na Praia do Farol por voluntários de um projeto de conservação. A soltura, acompanhada por moradores e turistas, ocorreu depois de os ovos passarem quase dois meses protegidos em um cercado na areia.</p><p><b>Trecho 2</b><br>Hoje acordei às cinco para ver a soltura. Quando o primeiro filhote correu para o mar, juro que prendi a respiração. Tão pequeno e já sabendo o caminho! Voltei pra casa com areia até nas orelhas e o coração enorme.</p></blockquote><p>Comparando os dois trechos, é correto afirmar que</p>",
+    "options": {
+      "A": "os dois pertencem ao mesmo gênero, a notícia, pois relatam o mesmo fato real, ocorrido em um lugar e em uma data determinados.",
+      "B": "o Trecho 2 é mais objetivo que o Trecho 1, pois informa um horário exato (“às cinco”), enquanto o outro usa números aproximados.",
+      "C": "o Trecho 1 é uma crônica, pois parte de um fato do cotidiano para chegar a uma reflexão sobre o sentido da vida.",
+      "D": "o Trecho 1 tem marcas de notícia (3ª pessoa, dados objetivos), e o Trecho 2, de relato pessoal (1ª pessoa, sentimentos)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O <b>tema</b> dos dois trechos é o mesmo, mas o <b>gênero</b> é definido pela finalidade e pelo modo de escrever.</p><p>O Trecho 1 responde às perguntas típicas da notícia: <i>o quê</i> (soltura de filhotes de tartaruga), <i>quem</i> (voluntários de um projeto), <i>quando</i> (manhã de ontem), <i>onde</i> (Praia do Farol) e <i>como</i> (ovos protegidos em um cercado). Usa a 3ª pessoa e linguagem impessoal.</p><p>O Trecho 2 está em 1ª pessoa (“acordei”, “prendi”, “Voltei”), marca o tempo a partir do próprio dia de quem escreve (“Hoje”) e expressa emoções (“juro que prendi a respiração”, “o coração enorme”), com exclamação e linguagem informal (“pra”). São marcas de diário ou relato pessoal.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Tratar do mesmo fato não faz dois textos terem o mesmo gênero. O Trecho 2, em 1ª pessoa e cheio de emoção, não tem a linguagem impessoal da notícia.",
+      "B": "Um horário exato não torna o texto objetivo. O Trecho 2 é marcado pela subjetividade (“juro que prendi a respiração”, “o coração enorme”).",
+      "C": "O Trecho 1 não faz reflexão nenhuma sobre a vida; só informa, de modo impessoal. É uma característica de notícia, não de crônica."
+    },
+    "tip": "Mesmo assunto não significa mesmo gênero: observe a pessoa do discurso (1ª ou 3ª), a presença de emoções e a finalidade do texto."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p><b>ABRAÇO</b><br>Uso adulto e pediátrico</p><p><b>Indicações:</b> saudade, tristeza, dias de chuva e comemorações em geral.</p><p><b>Modo de usar:</b> envolver a pessoa com os dois braços e manter por pelo menos cinco segundos. Pode ser repetido várias vezes ao dia.</p><p><b>Contraindicações:</b> não há.</p><p><b>Reações adversas:</b> sorrisos involuntários e vontade de repetir a dose.</p><p><b>Em caso de superdosagem:</b> procure um amigo.</p></blockquote><p>O texto imita a organização de uma bula de remédio. Esse recurso</p>",
+    "options": {
+      "A": "aproveita a estrutura e a linguagem de um gênero conhecido, com suas seções e instruções, para cumprir, com humor, outra finalidade: valorizar o afeto entre as pessoas.",
+      "B": "funciona como propaganda de um medicamento chamado Abraço, com a finalidade de convencer o leitor a comprá-lo em farmácias.",
+      "C": "comprova que se trata de uma bula verdadeira, pois o texto apresenta as mesmas seções que as bulas de remédio costumam ter.",
+      "D": "revela que o autor desconhece o gênero bula, pois inclui informações impossíveis em um remédio, como “sorrisos involuntários”."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.genero",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O texto tem a “cara” de uma bula: nome em destaque, público (“Uso adulto e pediátrico”), seções como “Indicações”, “Modo de usar”, “Contraindicações” e “Reações adversas”, e instruções com verbos no infinitivo (“envolver”, “manter”). Mas o “remédio” é um abraço, indicado para saudade e comemorações, e a “superdosagem” se resolve procurando “um amigo”.</p><p>Quando um texto usa a forma de um gênero para cumprir a finalidade de outro, dizemos que há <b>mistura de gêneros</b> (intergenericidade). O leitor reconhece a bula, percebe o jogo e acha graça. A finalidade real não é orientar sobre um medicamento, mas fazer uma homenagem bem-humorada ao carinho.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não existe produto à venda: o “remédio” é um gesto, que não se compra. Faltam preço, marca ou qualquer apelo de compra.",
+      "C": "Ter as mesmas seções não torna a bula verdadeira; o conteúdo (“procure um amigo”, “sorrisos involuntários”) mostra que se trata de uma brincadeira com o gênero.",
+      "D": "As informações “impossíveis” são intencionais: é justamente o contraste entre a forma séria da bula e o conteúdo afetivo que produz humor. O autor conhece bem o gênero, tanto que imita suas seções."
+    },
+    "tip": "Forma de um gênero + finalidade de outro = mistura de gêneros. Pergunte sempre: para que o texto foi escrito de verdade?"
+  }
+]

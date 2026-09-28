@@ -1,0 +1,269 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para enfeitar um bolo redondo de 24 cm de diâmetro, Carla vai contornar a lateral do bolo com uma fita, dando exatamente uma volta completa, e ainda vai usar mais 5 cm de fita para fazer um pequeno laço.</p><p>Considere \\(\\pi = 3\\).</p><p>O comprimento total de fita que Carla vai usar é</p>",
+    "options": {
+      "A": "41 cm",
+      "B": "72 cm",
+      "C": "77 cm",
+      "D": "149 cm"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> uma volta completa em torno do bolo é o comprimento da circunferência:</p><p>\\[C = \\pi \\cdot d = 3 \\cdot 24 = 72 \\text{ cm}\\]</p><p>(É o mesmo que \\(2\\pi r = 2 \\cdot 3 \\cdot 12 = 72\\) cm.)</p><p><b>2º passo:</b> some os 5 cm do laço: \\(72 + 5 = 77\\) cm. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Multiplicou \\(\\pi\\) pelo raio (3 · 12 = 36) e somou 5. O comprimento da circunferência é \\(\\pi\\) vezes o diâmetro, ou \\(2\\pi\\) vezes o raio.",
+      "B": "72 cm é só a volta em torno do bolo. Faltou somar os 5 cm do laço.",
+      "D": "Usou \\(2\\pi\\) vezes o diâmetro (2 · 3 · 24 = 144) e somou 5. O fator 2 só entra quando se usa o raio."
+    },
+    "tip": "Comprimento da circunferência: C = π · d = 2 · π · r. Cuidado para não usar o 2 junto com o diâmetro."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma roda-gigante tem 16 cabines, presas à borda de uma estrutura circular e igualmente espaçadas ao longo dela. As cabines são numeradas de 1 a 16, em sequência. Imagine os segmentos que ligam o centro da roda às cabines 1 e 7.</p><p>O menor ângulo formado por esses dois segmentos mede</p>",
+    "options": {
+      "A": "135°",
+      "B": "157,5°",
+      "C": "112,5°",
+      "D": "22,5°"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> as 16 cabines dividem a volta completa (360°) em 16 partes iguais. O ângulo central entre duas cabines vizinhas é</p><p>\\[\\dfrac{360^\\circ}{16} = 22{,}5^\\circ\\]</p><p><b>2º passo:</b> da cabine 1 até a cabine 7 há 6 espaços entre cabines vizinhas (1 a 2, 2 a 3, ..., 6 a 7), e não 7. Então</p><p>\\[6 \\cdot 22{,}5^\\circ = 135^\\circ\\]</p><p>Pelo outro lado da roda seriam 10 espaços (225°), que dá o ângulo maior. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contou 7 espaços, um para cada cabine de 1 a 7. O número de espaços é a diferença entre os números: 7 − 1 = 6.",
+      "C": "Contou só 5 espaços, deixando de fora um dos trechos entre as cabines 1 e 7.",
+      "D": "22,5° é o ângulo entre duas cabines vizinhas. Ele precisa ser multiplicado pelo número de espaços entre as cabines 1 e 7."
+    },
+    "tip": "Pontos igualmente espaçados na circunferência: ângulo central entre vizinhos = 360° dividido pelo número de pontos."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um gramado, dois irrigadores fixos molham, cada um, uma região circular com centro no próprio irrigador. O primeiro tem alcance (raio) de 6 m, e o segundo, de 4 m. Os dois irrigadores estão a 10 m de distância um do outro.</p><p>Sobre as duas regiões molhadas, é correto afirmar que elas</p>",
+    "options": {
+      "A": "se sobrepõem, e uma parte da grama recebe água dos dois irrigadores.",
+      "B": "se tocam em um único ponto, sem se sobrepor.",
+      "C": "ficam separadas, com uma faixa de 5 m de grama seca entre elas.",
+      "D": "ficam uma inteiramente dentro da outra."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> compare a distância entre os centros com a soma dos raios: \\(6 + 4 = 10\\) m.</p><p><b>2º passo:</b> a distância entre os irrigadores também é 10 m. Andando em linha reta do primeiro irrigador para o segundo, a água do primeiro chega até 6 m, e a do segundo cobre os últimos 4 m. As duas regiões se encontram exatamente em um ponto dessa linha: as circunferências são tangentes externas.</p><p>Se a distância fosse menor que 10 m, elas se sobreporiam; se fosse maior, sobraria grama seca entre elas. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Haveria sobreposição se a distância entre os centros fosse menor que a soma dos raios (10 m). Como ela é igual a 10 m, as regiões só se tocam.",
+      "C": "Tratou 6 m e 4 m como diâmetros (raios de 3 m e 2 m) e calculou 10 − 5 = 5 m. O alcance do irrigador é o raio.",
+      "D": "Uma região ficaria dentro da outra só se a distância entre os centros fosse menor que a diferença dos raios (2 m)."
+    },
+    "tip": "Duas circunferências: compare a distância entre os centros com a soma e com a diferença dos raios."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um palco reto AB foi montado na borda de uma arena circular de centro O. As pontas A e B do palco estão sobre a circunferência que limita a arena, e o ângulo \\(A\\hat{O}B\\) mede 80°. Um espectador está no ponto P, também sobre essa circunferência, do lado oposto ao palco, como mostra a figura.</p><p><img src=\"img/b28/mat-q04.svg\" alt=\"Circunferência de centro O. Na parte de baixo, o palco é a corda AB, com A à esquerda e B à direita. Os raios OA e OB formam no centro um ângulo de 80 graus. No alto da circunferência, do lado oposto ao palco, está o ponto P, ligado por segmentos tracejados às pontas A e B do palco.\"></p><p>O ângulo \\(A\\hat{P}B\\), sob o qual o espectador vê o palco, mede</p>",
+    "options": {
+      "A": "160°",
+      "B": "80°",
+      "C": "20°",
+      "D": "40°"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> \\(A\\hat{O}B\\) é um ângulo central (vértice no centro), e \\(A\\hat{P}B\\) é um ângulo inscrito (vértice sobre a circunferência). Os dois enxergam o mesmo arco AB, o arco de baixo, onde está o palco.</p><p><b>2º passo:</b> o ângulo inscrito mede a metade do ângulo central correspondente ao mesmo arco:</p><p>\\[A\\hat{P}B = \\dfrac{80^\\circ}{2} = 40^\\circ\\]</p><p>Uma consequência curiosa: qualquer espectador sobre esse arco de cima vê o palco sob o mesmo ângulo de 40°. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Dobrou o ângulo central, invertendo a relação. É o ângulo central que mede o dobro do inscrito.",
+      "B": "Supôs que o ângulo visto de P é igual ao ângulo no centro. Como P está sobre a circunferência, e não no centro, o ângulo é a metade.",
+      "C": "Dividiu 80° por 4. A relação entre ângulo inscrito e ângulo central é de metade, uma única vez."
+    },
+    "tip": "Ângulo inscrito = metade do ângulo central que enxerga o mesmo arco."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma pista de patinação tem a forma de uma coroa circular, isto é, da região entre duas circunferências de mesmo centro. No meio da pista há um canteiro circular de 4 m de raio, que não faz parte da pista. A borda externa da pista fica a 6 m do centro. O piso da pista será pintado com uma tinta especial, e o serviço custa R$ 15,00 por metro quadrado pintado.</p><p>Considere \\(\\pi = 3\\).</p><p>O gasto total com a pintura será de</p>",
+    "options": {
+      "A": "R$ 900,00",
+      "B": "R$ 180,00",
+      "C": "R$ 1.620,00",
+      "D": "R$ 2.340,00"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> a área da pista é a área do círculo grande menos a área do canteiro:</p><p>\\[A = \\pi \\cdot 6^2 - \\pi \\cdot 4^2 = 3 \\cdot 36 - 3 \\cdot 16 = 108 - 48 = 60 \\text{ m}^2\\]</p><p><b>2º passo:</b> o custo é \\(60 \\cdot 15 = 900\\) reais. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou \\(\\pi \\cdot (6 - 4)^2 = 12\\) m², usando a largura da pista como raio. A área da coroa é a diferença entre as áreas dos círculos, e não a área de um círculo de raio 2 m.",
+      "C": "Usou o círculo inteiro de 6 m de raio (108 m²), sem descontar o canteiro.",
+      "D": "Somou as áreas dos dois círculos (108 + 48 = 156 m²). O canteiro deve ser subtraído, não somado."
+    },
+    "tip": "Área da coroa circular = π · R² − π · r². Não confunda com π · (R − r)²."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No parquinho da praça, as correntes de um balanço medem 2,4 m, do ponto em que estão presas até o assento. Em um movimento de ida, o assento vai de uma posição extrema à outra, e as correntes, sempre esticadas, giram 60° em torno do ponto em que estão presas.</p><p>Considere \\(\\pi = 3\\).</p><p>O comprimento do arco descrito pelo assento nesse movimento de ida é</p>",
+    "options": {
+      "A": "1,2 m",
+      "B": "7,2 m",
+      "C": "2,4 m",
+      "D": "4,8 m"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> o assento se move sobre uma circunferência cujo centro é o ponto em que as correntes estão presas e cujo raio é o comprimento das correntes, 2,4 m.</p><p><b>2º passo:</b> o comprimento da circunferência inteira seria \\(2 \\cdot \\pi \\cdot r = 2 \\cdot 3 \\cdot 2{,}4 = 14{,}4\\) m.</p><p><b>3º passo:</b> 60° é \\(\\dfrac{60}{360} = \\dfrac{1}{6}\\) da volta completa. Então o arco mede</p><p>\\[\\dfrac{14{,}4}{6} = 2{,}4 \\text{ m}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Tratou 2,4 m como diâmetro, usando raio de 1,2 m. As correntes vão do centro do movimento até o assento: são o raio.",
+      "B": "7,2 m é meia volta (\\(\\pi \\cdot r = 3 \\cdot 2{,}4\\)). O balanço gira só 60°, que é 1/6 da volta, e não 180°.",
+      "D": "Dividiu a circunferência por 3, como se 60° fosse 1/3 da volta (60/180). A volta completa tem 360°."
+    },
+    "tip": "Comprimento de um arco = (ângulo ÷ 360°) × 2πr."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um artesão fez uma moldura com a forma do quadrilátero ABCD para um espelho redondo. O espelho encosta nos quatro lados da moldura, ou seja, a circunferência do espelho é tangente aos lados AB, BC, CD e DA. Os lados medem AB = 30 cm, BC = 42 cm e CD = 50 cm, como mostra a figura (fora de escala).</p><p><img src=\"img/b28/mat-q07.svg\" alt=\"Quadrilátero ABCD irregular, com A embaixo à esquerda, B embaixo à direita, C no alto à direita e D no alto à esquerda, mais afastado para a esquerda que A. Dentro dele há um círculo que toca os quatro lados. As medidas indicadas são: AB = 30 cm, BC = 42 cm, CD = 50 cm, e o lado DA está marcado com x.\"></p><p>A medida \\(x\\) do lado DA é</p>",
+    "options": {
+      "A": "42 cm",
+      "B": "22 cm",
+      "C": "62 cm",
+      "D": "38 cm"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> de um ponto fora de uma circunferência saem dois segmentos tangentes a ela, e esses dois segmentos têm a mesma medida. Por quê? Ligue o ponto ao centro da circunferência e aos dois pontos de contato. O raio que vai até um ponto de contato é perpendicular à reta tangente, então aparecem dois triângulos retângulos com a mesma hipotenusa (do ponto até o centro) e um cateto igual (o raio). Pelo Teorema de Pitágoras, os outros catetos, que são os dois segmentos tangentes, também são iguais.</p><p>Assim, em cada vértice da moldura, os dois pedaços de lado que vão até os pontos de contato com o espelho são iguais. Chame essas medidas de \\(a\\) (vértice A), \\(b\\) (B), \\(c\\) (C) e \\(d\\) (D).</p><p><b>2º passo:</b> então \\(AB = a + b\\), \\(BC = b + c\\), \\(CD = c + d\\) e \\(DA = d + a\\). Somando os lados opostos:</p><p>\\[AB + CD = a + b + c + d = BC + DA\\]</p><p><b>3º passo:</b> \\(30 + 50 = 42 + x \\Rightarrow x = 80 - 42 = 38\\) cm. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Supôs que os lados opostos são iguais, como em um paralelogramo. Em um quadrilátero com circunferência inscrita, o que vale é a igualdade das somas dos lados opostos.",
+      "B": "Igualou somas de lados vizinhos (AB + BC = CD + DA), obtendo 72 = 50 + x. A propriedade vale para lados opostos.",
+      "C": "Igualou AB + DA a BC + CD (30 + x = 92). AB e DA são vizinhos; os pares certos são AB com CD e BC com DA."
+    },
+    "tip": "Quadrilátero com circunferência inscrita: a soma de dois lados opostos é igual à soma dos outros dois."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um leque de papel aberto tem a forma mostrada na figura. As varetas partem do ponto O, e o papel ocupa apenas a faixa entre dois arcos de circunferência de centro O, com raios de 8 cm e 20 cm. Totalmente aberto, o leque forma um ângulo de 150°.</p><p><img src=\"img/b28/mat-q08.svg\" alt=\"Leque aberto com vértice O embaixo. Varetas saem de O em forma de raios, abrindo um ângulo de 150 graus. O papel, sombreado, ocupa só a faixa entre um arco interno, de raio 8 cm, e um arco externo, de raio 20 cm, ambos com centro em O. Perto de O, entre o vértice e o arco interno, as varetas ficam sem papel.\"></p><p>Considere \\(\\pi = 3\\).</p><p>A área de papel do leque é</p>",
+    "options": {
+      "A": "140 cm²",
+      "B": "420 cm²",
+      "C": "500 cm²",
+      "D": "1008 cm²"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo:</b> se o leque desse uma volta completa, o papel seria uma coroa circular de área</p><p>\\[\\pi \\cdot 20^2 - \\pi \\cdot 8^2 = 3 \\cdot 400 - 3 \\cdot 64 = 1200 - 192 = 1008 \\text{ cm}^2\\]</p><p><b>2º passo:</b> o leque abre só 150°, que é a fração \\(\\dfrac{150}{360} = \\dfrac{5}{12}\\) da volta. Então</p><p>\\[\\dfrac{5}{12} \\cdot 1008 = 5 \\cdot 84 = 420 \\text{ cm}^2\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu de multiplicar por \\(\\pi\\): \\(\\dfrac{5}{12} \\cdot (400 - 64) = 140\\).",
+      "C": "Calculou o setor inteiro de raio 20 cm (\\(\\dfrac{5}{12} \\cdot 1200 = 500\\)), sem descontar a parte sem papel, perto de O.",
+      "D": "1008 cm² é a coroa circular completa, de 360°. O leque abre só 150°."
+    },
+    "tip": "Parte de uma coroa circular: calcule a área da coroa inteira e multiplique pela fração ângulo ÷ 360°."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma loja de materiais de construção, três canos iguais, de 20 cm de diâmetro, são amarrados juntos com uma cinta bem esticada. Cada cano encosta nos outros dois, como mostra a figura, que representa um corte dos canos.</p><p><img src=\"img/b28/mat-q09.svg\" alt=\"Corte de três canos circulares iguais, de 20 cm de diâmetro, arrumados como uma pilha: dois embaixo, lado a lado, e um em cima, apoiado nos dois. Cada cano encosta nos outros dois. Uma cinta contorna os três canos por fora, com três trechos retos, cada um tangente a dois canos, e três trechos curvos, cada um encostado em um cano.\"></p><p>Considere \\(\\pi = 3\\).</p><p>O comprimento da cinta, sem contar a parte do fecho, é</p>",
+    "options": {
+      "A": "90 cm",
+      "B": "240 cm",
+      "C": "120 cm",
+      "D": "150 cm"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo (trechos retos):</b> um fato importante é que o raio que vai do centro até o ponto em que uma reta toca a circunferência (reta tangente) é perpendicular a essa reta. Cada trecho reto da cinta toca dois canos. Ligue os centros desses dois canos e trace, de cada centro, o raio até o ponto em que a cinta toca o cano. Esses dois raios medem 10 cm e são perpendiculares à cinta, então eles, o trecho reto e o segmento entre os centros formam um retângulo. Assim, cada trecho reto mede o mesmo que a distância entre os centros, que é raio mais raio: \\(10 + 10 = 20\\) cm, porque os canos se encostam. Os três trechos retos somam 60 cm, e os três centros formam um triângulo equilátero de lado 20 cm.</p><p><b>2º passo (trechos curvos):</b> em cada cano, a cinta encosta no arco que fica entre os dois raios perpendiculares. Em volta do centro desse cano, quatro ângulos completam a volta de 360°: os dois ângulos retos dos retângulos (90° + 90°), o ângulo do triângulo equilátero (60°) e o ângulo do arco da cinta. Então o arco tem</p><p>\\[360^\\circ - 90^\\circ - 90^\\circ - 60^\\circ = 120^\\circ,\\]</p><p>que é um terço da volta. Os três arcos somam \\(3 \\cdot 120^\\circ = 360^\\circ\\), exatamente uma circunferência completa de um cano:</p><p>\\[\\pi \\cdot d = 3 \\cdot 20 = 60 \\text{ cm}\\]</p><p><b>3º passo:</b> comprimento total: \\(60 + 60 = 120\\) cm. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Considerou que os três arcos juntos formam só meia volta (30 cm). Os três arcos de 120° completam uma volta inteira.",
+      "B": "Contou uma circunferência completa em cada cano (3 · 60 = 180) e somou os 60 cm dos trechos retos. A cinta encosta em apenas um terço de cada cano.",
+      "D": "Considerou cada arco como meia circunferência (3 · 30 = 90) e somou os 60 cm retos. Cada arco tem 120°, não 180°."
+    },
+    "tip": "Cinta em volta de canos: trechos retos = distâncias entre centros; os arcos somam sempre uma volta completa."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O corte de um túnel de metrô é um círculo de 5 m de raio. O piso do túnel é horizontal, fica abaixo do centro O do círculo e, na altura do piso, o túnel tem 8 m de largura, como mostra o esquema (fora de escala).</p><p><img src=\"img/b28/mat-q10.svg\" alt=\"Corte de um túnel: uma circunferência de centro O. Uma linha horizontal abaixo do centro representa o piso e corta a circunferência em dois pontos distantes 8 m um do outro. A parte de baixo da circunferência, abaixo do piso, está tracejada. Uma linha vertical tracejada, marcada com h, vai do piso até o ponto mais alto do túnel, passando por O.\"></p><p>A distância \\(h\\), do piso até o ponto mais alto do túnel, é</p>",
+    "options": {
+      "A": "8 m",
+      "B": "3 m",
+      "C": "9 m",
+      "D": "10 m"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.circunferencia",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo:</b> o piso é uma corda de 8 m. A reta vertical que passa pelo centro O é perpendicular a essa corda e a corta ao meio, no ponto M. Então cada metade mede 4 m.</p><p><b>2º passo:</b> ligue O a uma das pontas do piso: esse segmento é um raio, de 5 m. Forma-se um triângulo retângulo com hipotenusa 5 m e catetos 4 m e OM. Pelo Teorema de Pitágoras:</p><p>\\[OM^2 + 4^2 = 5^2 \\Rightarrow OM^2 = 25 - 16 = 9 \\Rightarrow OM = 3 \\text{ m}\\]</p><p><b>3º passo:</b> do piso até o centro são 3 m, e do centro até o ponto mais alto é mais um raio, 5 m: \\(h = 3 + 5 = 8\\) m. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "3 m é só a distância do piso até o centro O. Falta somar o raio, do centro até o topo.",
+      "C": "Somou o raio com a metade da largura (5 + 4). A distância do piso ao centro vem de Pitágoras e mede 3 m, não 4 m.",
+      "D": "10 m é o diâmetro do círculo. O piso não passa pela parte mais baixa do círculo; ele fica 3 m abaixo do centro."
+    },
+    "tip": "A perpendicular do centro até uma corda cai no meio dela: raio, meia corda e distância ao centro formam um triângulo retângulo."
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Expliquei que não era só o wi-fi. Ele demorou a entender o tamanho da tragédia.” (linha 5)</blockquote><p>Ao empregar a palavra “tragédia” para se referir à falta de luz, a narradora do Texto 1</p>",
+    "options": {
+      "A": "revela que o apagão causou prejuízos graves aos moradores do prédio.",
+      "B": "mostra que ela própria também ficou desesperada por não poder usar a internet em casa.",
+      "C": "brinca com o exagero do filho, para quem ficar sem internet parecia uma catástrofe.",
+      "D": "critica a empresa de energia, que demorou a resolver o problema do bairro."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Uma tragédia é um acontecimento terrível, com grandes perdas. Nada disso acontece no texto: ninguém se machuca, nada se estraga, e a noite termina com café, violão e cantoria no pátio (linhas 6-13).</p><p>Então por que “tragédia”? Porque a narradora está imitando o ponto de vista de Téo, que grita “Mãe, o wi-fi caiu!” (linha 4) como se fosse o fim do mundo. Para ele, perceber que o prédio inteiro estava sem luz (e, portanto, sem internet por um bom tempo) era uma catástrofe. A mãe usa a palavra com <b>ironia</b>, achando graça do exagero do filho.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não fala de nenhum prejuízo. Ao contrário, a noite sem luz acaba sendo agradável para os vizinhos (linhas 6-13). Tomar “tragédia” ao pé da letra é justamente perder a ironia.",
+      "B": "Quem se desespera é Téo. A mãe explica a situação com calma (“Expliquei que não era só o wi-fi”, linha 5) e desce para o pátio sem nenhuma queixa.",
+      "D": "A empresa de energia nem é mencionada. O texto só informa que a luz voltou “perto das onze” (linha 17), sem culpar ninguém."
+    },
+    "tip": "Quando uma palavra forte demais aparece para um fato pequeno, desconfie de ironia: o narrador pode estar imitando o exagero de outra pessoa."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Téo ficou encostado na parede, de braços cruzados, conferindo a tela apagada de tempos em tempos, como quem espera notícias de muito longe.” (linhas 10-11)</blockquote><p>A atitude de Téo descrita nesse trecho permite inferir que, no início da noite, o rapaz</p>",
+    "options": {
+      "A": "resistia a participar do encontro e continuava preso ao celular, mesmo sem conexão.",
+      "B": "aguardava uma mensagem importante de um amigo que morava em outra cidade.",
+      "C": "estava com medo do escuro e preferia ficar perto da mãe, encostado na parede.",
+      "D": "não gostava de música e se incomodava com o violão tocado pelo vizinho do 105."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Observe os detalhes do trecho. “Encostado na parede” e “de braços cruzados” é a postura de quem fica de fora, fechado, sem querer se misturar. “Conferindo a tela apagada de tempos em tempos” mostra que ele continuava olhando o celular, embora não houvesse internet nem nada para ver.</p><p>A comparação “como quem espera notícias de muito longe” reforça essa ideia: Téo esperava algo do mundo digital, que naquele momento parecia distante. Portanto, no começo da noite, ele <b>resistia a participar</b> do encontro e continuava ligado ao celular.</p><p>Essa leitura se confirma pelo contraste com o que vem depois: “Na terceira música, porém, já estava sentado no degrau ao lado do violonista” (linhas 11-12). O “porém” marca a mudança de atitude.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Lê a comparação “como quem espera notícias de muito longe” ao pé da letra. A expressão “como quem” indica apenas semelhança; o texto não fala de amigo nem de mensagem.",
+      "C": "Não há nenhum sinal de medo no texto. Ficar encostado na parede, de braços cruzados, indica afastamento do grupo, e não susto.",
+      "D": "É desmentido pelo próprio texto: logo depois, Téo senta ao lado do violonista, pergunta os acordes e canta alto (linhas 11-13)."
+    },
+    "tip": "Gestos e posturas descritos pelo narrador (braços cruzados, olhar baixo) costumam revelar sentimentos que o texto não diz com todas as letras."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Nove anos de ‘bom dia’, e eu nunca tinha perguntado nada além disso.” (linhas 15-16)</blockquote><p>Com esse comentário sobre o porteiro, a narradora</p>",
+    "options": {
+      "A": "se queixa de que seu Joaquim nunca foi simpático com os moradores do prédio.",
+      "B": "revela que seu Joaquim tinha sido contratado havia pouco tempo pelo condomínio.",
+      "C": "sugere que não é adequado conversar com os funcionários do prédio.",
+      "D": "reconhece, com certo arrependimento, que sua relação com ele era superficial."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A narradora descobre, na noite do apagão, que seu Joaquim trabalhava no prédio havia muito tempo, “desde antes de eu me mudar para lá” (linha 15). Em seguida, faz uma conta: nove anos se cumprimentando, e ela “nunca tinha perguntado nada além disso”.</p><p>A expressão “nada além disso” mostra que a relação se limitava ao cumprimento. A frase não acusa o porteiro; a narradora olha para si mesma e percebe que nunca demonstrou interesse por ele. Há, portanto, uma <b>autocrítica</b>: ela reconhece que a relação era superficial e lamenta isso.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Inverte a responsabilidade. Quem “nunca tinha perguntado nada” é a narradora; o porteiro, ao contrário, passa a noite ajudando os vizinhos com uma vela (linha 14).",
+      "B": "O texto diz o contrário: ele trabalhava ali “desde antes de eu me mudar para lá” (linha 15), ou seja, há mais de nove anos.",
+      "C": "A narradora não defende essa ideia; ela lamenta justamente não ter conversado. O tom é de arrependimento, e não de regra de etiqueta."
+    },
+    "tip": "Quando o narrador comenta a própria atitude (“eu nunca tinha...”), pergunte-se se ele está se justificando ou se criticando."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Alguém gritou ‘Voltou!’, como quem comemora um gol, e em poucos minutos o pátio se esvaziou. Os elevadores devolveram os vizinhos aos seus apartamentos, um de cada vez.” (linhas 17-19)</blockquote><p>Considerando o que ocorre antes desse trecho, a narradora sugere que</p>",
+    "options": {
+      "A": "os moradores ficaram aliviados, porque o encontro no pátio tinha sido desagradável para todos.",
+      "B": "com a volta da luz, a convivência improvisada se desfez e cada um retornou ao isolamento.",
+      "C": "os vizinhos combinaram de se encontrar no pátio todas as noites a partir daquela terça-feira.",
+      "D": "o prédio tinha elevadores lentos, o que obrigou os moradores a esperar muito para subir."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Antes desse trecho, a falta de luz obrigou os moradores a descer, e o pátio virou um lugar de convivência: café, violão, conversa, gente descobrindo o nome de quem cruzava no elevador havia anos (linhas 6-16).</p><p>Quando a luz volta, dois detalhes chamam a atenção:</p><ul><li>a volta da energia é comemorada “como quem comemora um gol”, e “em poucos minutos o pátio se esvaziou”: aquilo que acabou com o encontro foi recebido com festa;</li><li>os elevadores devolvem os vizinhos “aos seus apartamentos, um de cada vez”: cada um volta separado para o seu espaço, como vivia antes.</li></ul><p>A imagem sugere que a convivência daquela noite era provisória e que, com a luz, a vida de cada um por si recomeçou. Há um tom levemente melancólico na cena.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Confunde a alegria pela luz com rejeição ao encontro. O texto mostra uma noite agradável (café, música, Téo cantando “sem vergonha nenhuma”, linha 13); nada indica que tenha sido ruim.",
+      "C": "O texto não fala de novos encontros no pátio. A única continuação é pessoal: o rapaz do 105 ficou de ensinar uma música a Téo (linha 21).",
+      "D": "Lê “um de cada vez” ao pé da letra, como problema técnico. A expressão destaca que os vizinhos voltam separados, cada um para o seu apartamento; a velocidade dos elevadores não está em questão."
+    },
+    "tip": "Em crônicas, detalhes aparentemente banais (o elevador, a vela, o fone) costumam carregar o sentido principal da cena."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Seu Joaquim sorriu. Eu também sorri, e não disse nada, para não estragar.” (linha 22)</blockquote><p>No desfecho da crônica, a narradora prefere ficar em silêncio porque</p>",
+    "options": {
+      "A": "percebeu no filho uma mudança espontânea, que um comentário poderia constranger.",
+      "B": "estava irritada com o filho, que continuava usando fone de ouvido até mesmo na portaria do prédio.",
+      "C": "não queria que o porteiro descobrisse que Téo tinha passado a noite anterior no pátio do prédio.",
+      "D": "desconfiava de que o rapaz do 105 não cumpriria a promessa de ensinar a música ao seu filho."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Compare o Téo do início com o do fim. No começo, ele só se preocupa com o wi-fi (linha 4) e fica de braços cruzados, olhando o celular (linhas 10-11). Na manhã seguinte, ele <b>tira o fone do ouvido</b> para cumprimentar o porteiro pelo nome e conta, animado, que vai aprender a música com o vizinho (linhas 20-21).</p><p>A mãe percebe essa mudança e fica feliz (“Eu também sorri”). Se ela comentasse (“Olha só, agora você conversa com os vizinhos!”), o filho, adolescente, poderia ficar sem graça e voltar a se fechar. Por isso ela se cala “para não estragar”: o que não pode ser estragado é essa atitude nova e espontânea do filho.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contradiz o próprio trecho: a narradora sorri. Além disso, o texto destaca que Téo <b>tirou</b> o fone para falar, sinal de mudança, e não de falta de educação.",
+      "C": "Seu Joaquim passou a noite no pátio com a vela (linha 14) e viu todos lá; não havia nada a esconder dele.",
+      "D": "Nada no texto indica desconfiança em relação ao vizinho. O silêncio da mãe está ligado ao filho, e não à promessa do rapaz."
+    },
+    "tip": "Para entender um final aberto, compare o personagem no início e no fim do texto: o que mudou costuma ser a chave do desfecho."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote>“Quando você acordar,<br>eu já vou estar no segundo ônibus.<br>Quando eu voltar,<br>você já vai estar sonhando.” (versos 9 a 12)</blockquote><p>Esses versos do Texto 2 permitem inferir que</p>",
+    "options": {
+      "A": "mãe e filho moram em cidades diferentes e só se encontram nas férias.",
+      "B": "o filho trabalha à noite e, por isso, passa o dia inteiro dormindo.",
+      "C": "a mãe viajou a passeio e deixou o filho sozinho por alguns dias.",
+      "D": "a rotina da mãe faz com que os dois quase não se encontrem acordados."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os versos mostram dois desencontros: de manhã, quando o filho acorda, a mãe já saiu há algum tempo (está “no segundo ônibus”, o que sugere um trajeto longo); à noite, quando ela volta, ele já dorme (“você já vai estar sonhando”).</p><p>Por isso ela precisa deixar um bilhete com todas as orientações. Como a mãe sai muito cedo, volta tarde e não conseguiu ir à reunião da escola (verso 8), pode-se inferir que é a rotina dela, provavelmente de trabalho, que faz com que os dois quase não se vejam acordados.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A mãe volta para casa no mesmo dia e ainda deixa um beijo no travesseiro do filho de madrugada (versos 13-15): eles moram juntos.",
+      "B": "Inverte os papéis. Quem sai cedo e volta tarde é a mãe; o filho dorme à noite, quando ela chega (“você já vai estar sonhando”).",
+      "C": "Não há viagem nem passeio. A mãe pega ônibus de manhã e volta à noite (“Quando eu voltar”), rotina típica de quem vai trabalhar."
+    },
+    "tip": "Inferir é juntar pistas do texto: horários, deslocamentos e ausências revelam a rotina dos personagens mesmo quando ela não é dita."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote>“Assinei o bilhete da escola:<br>desculpa não ter ido à reunião.” (versos 7 e 8)</blockquote><p>Nesses versos, o pedido de desculpas da mãe revela que ela</p>",
+    "options": {
+      "A": "não se interessa pela vida escolar do filho e prefere resolver tudo por bilhetes.",
+      "B": "acompanha a vida escolar do filho, mas lamenta não ter conseguido ir à reunião.",
+      "C": "descobriu que o filho escondeu dela o bilhete que convocava para a reunião.",
+      "D": "esqueceu de avisar ao filho que a reunião da escola tinha sido cancelada."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Dois detalhes se completam. Primeiro, a mãe <b>assinou o bilhete da escola</b>: ela está atenta ao que a escola pede. Segundo, ela pede <b>desculpa</b> ao filho por não ter ido à reunião: ninguém se desculpa por algo que não considera importante.</p><p>Se ela se importa e mesmo assim não foi, o motivo provável está no próprio poema: ela sai de madrugada e volta à noite (versos 9-12). A mãe acompanha a vida escolar do filho, mas a rotina a impediu de comparecer, e ela lamenta isso.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O pedido de desculpas mostra o contrário: ela se importa. O bilhete é a forma que encontrou de estar presente, já que quase não vê o filho acordado.",
+      "C": "Nada no poema fala de bilhete escondido. A mãe assinou o bilhete normalmente; a desculpa é por ela não ter ido.",
+      "D": "O verso diz “não ter ido à reunião”, o que indica que a reunião aconteceu. Não há menção a cancelamento."
+    },
+    "tip": "Um pedido de desculpas sempre revela algo implícito: quem pede desculpas reconhece que falhou em algo que considera importante."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<blockquote>“Tem um beijo meu no seu travesseiro.<br>Fui eu que deixei ali, de madrugada,<br>devagarinho, para não acordar você.” (versos 13 a 15)</blockquote><p>Considerando o poema inteiro, a última estrofe permite concluir que</p>",
+    "options": {
+      "A": "a mãe e o filho brigaram na véspera, e ela tenta fazer as pazes sem precisar conversar.",
+      "B": "a mãe escreveu o bilhete de madrugada porque não conseguiu dormir de preocupação.",
+      "C": "mesmo sem ver o filho acordado, a mãe esteve com ele, e o carinho supera o desencontro.",
+      "D": "o filho costuma acordar à toa durante a madrugada e dorme muito mal todas as noites."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>As três primeiras estrofes mostram uma mãe e um filho que quase não se encontram: ela sai antes de ele acordar e volta depois de ele dormir (versos 9-12). Tudo o que ela quer dizer precisa ir por escrito.</p><p>A última estrofe revela que, mesmo assim, houve um encontro: de madrugada, ela entrou no quarto e beijou o filho (ou o travesseiro dele) “devagarinho, para não acordar você”. Ele não viu, por isso ela conta no bilhete.</p><p>O poema termina, portanto, mostrando que o afeto encontra um jeito de chegar ao filho apesar da rotina que os separa. As instruções práticas (feijão, janela, pão) também são formas de cuidado, mas é o beijo que fecha o bilhete com carinho.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não há nenhuma pista de briga. O tom do bilhete é carinhoso do começo ao fim, e o desencontro vem da rotina, e não de um conflito.",
+      "B": "A expressão “de madrugada” se refere ao momento em que ela deixou o beijo, e não à escrita do bilhete. O poema também não fala de insônia nem de preocupação.",
+      "D": "O cuidado “para não acordar você” é gentileza de quem entra no quarto de quem dorme; não indica que o filho tenha sono ruim."
+    },
+    "tip": "Em poemas, a última estrofe costuma responder ao problema criado nas anteriores; leia o final à luz do que veio antes."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote>“Dica da secretaria: o que tem nome volta para casa.”</blockquote><p>Com essa frase, que encerra o aviso do Texto 3, a secretaria pretende</p>",
+    "options": {
+      "A": "recomendar, de forma indireta, que os alunos ponham nome em seus objetos.",
+      "B": "informar que os objetos com nome serão levados até a casa dos alunos pela escola.",
+      "C": "avisar que somente os objetos sem nome serão doados no fim de novembro.",
+      "D": "criticar os pais que compram material escolar sem etiqueta de identificação."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A frase não dá uma ordem direta (“Coloquem nome em seus objetos!”), mas faz uma constatação: objetos com nome conseguem voltar ao dono. O leitor deduz o conselho: se não quiser perder suas coisas, <b>escreva seu nome nelas</b>.</p><p>A lista confirma a ideia: os casacos do uniforme e até um trabalho nota 10 estão ali justamente porque estão “sem nome”.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Lê “volta para casa” ao pé da letra. A expressão significa que o objeto consegue ser devolvido ao dono; o aviso não promete entregas.",
+      "C": "O aviso diz que serão doados “os itens não retirados”, sem distinguir os com nome dos sem nome. A dica não trata da doação.",
+      "D": "Os pais não são mencionados no aviso, e a frase não tem tom de crítica, mas de conselho."
+    },
+    "tip": "Muitos conselhos aparecem disfarçados de constatação: descubra o que o leitor deveria fazer a partir do que a frase afirma."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T3"
+    ],
+    "stem": "<blockquote>“23 casacos de moletom (17 deles do uniforme da escola, sem nome)”</blockquote><p>A informação entre parênteses nesse item do aviso sugere que muitos casacos continuam na secretaria porque</p>",
+    "options": {
+      "A": "a escola distribuiu mais casacos do que o número de alunos matriculados.",
+      "B": "dezessete alunos decidiram abandonar o uniforme no começo do ano letivo.",
+      "C": "a maior parte dos casacos perdidos pertence a estudantes de outras escolas.",
+      "D": "são iguais e, sem o nome escrito, não há como saber de quem é cada um."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O parêntese destaca duas características dos 17 casacos: são <b>do uniforme</b> e estão <b>sem nome</b>.</p><p>Casacos de uniforme são iguais entre si. Um aluno que perdeu o seu não consegue reconhecê-lo no meio dos outros, e a secretaria também não tem como saber a quem devolver. É por isso que eles se acumulam, e é por isso que o aviso termina com a dica de pôr nome nas coisas.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O aviso trata de achados e perdidos, e não de distribuição de casacos. Os casacos foram esquecidos por alunos, e não sobraram de uma entrega.",
+      "B": "Perder um casaco não é o mesmo que abandonar o uniforme. Os casacos foram esquecidos, como as garrafas e os estojos.",
+      "C": "O texto diz o contrário: 17 dos 23 casacos são do uniforme <b>da escola</b>, ou seja, pertencem a alunos dela."
+    },
+    "tip": "Informações entre parênteses muitas vezes trazem o detalhe que explica o problema; não as pule."
+  }
+]

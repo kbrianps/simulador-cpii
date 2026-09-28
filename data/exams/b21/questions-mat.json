@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Rafael juntou 150 figurinhas repetidas do álbum da Copa e decidiu dar todas elas aos colegas do seu time de futsal. Ele quer que cada colega receba a mesma quantidade de figurinhas e que não sobre nenhuma.</p><p>Rafael <b>não</b> conseguirá fazer essa divisão se o número de colegas for igual a</p>",
+    "options": {
+      "A": "6.",
+      "B": "10.",
+      "C": "20.",
+      "D": "25."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A divisão é possível, sem sobra, exatamente quando o número de colegas é um <b>divisor</b> de 150. Vamos testar cada opção:</p><ul><li>\\(150 \\div 6 = 25\\) (exata);</li><li>\\(150 \\div 10 = 15\\) (exata);</li><li>\\(150 \\div 20 = 7{,}5\\) (não é exata: com 7 figurinhas para cada um, sobrariam \\(150 - 140 = 10\\));</li><li>\\(150 \\div 25 = 6\\) (exata).</li></ul><p>Outra forma: \\(150 = 2 \\cdot 3 \\cdot 5^2\\). Como 150 tem apenas um fator 2, ele não pode ser dividido por \\(20 = 2^2 \\cdot 5\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "6 é divisor de 150: 150 é par e a soma dos algarismos (6) é múltiplo de 3, então 150 é divisível por 6; cada colega receberia 25 figurinhas. Quem marca essa opção aplicou mal o critério de divisibilidade por 6.",
+      "B": "10 é divisor de 150, pois 150 termina em 0; cada colega receberia 15 figurinhas.",
+      "D": "25 é divisor de 150 (\\(25 \\cdot 6 = 150\\)): cada um dos 25 colegas receberia 6 figurinhas, sem sobra. Um número é divisível por 25 quando termina em 00, 25, 50 ou 75, e 150 termina em 50."
+    },
+    "tip": "Dividir sem sobra é o mesmo que procurar um divisor: basta testar a divisão ou comparar os fatores primos."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No bingo da festa da escola, a professora de Matemática criou uma rodada especial: só valem as bolas cujo número é <b>primo</b>. Nessa rodada, ela colocou no globo apenas as bolas numeradas de 40 a 60.</p><p>A quantidade de bolas que valem ponto nessa rodada é</p>",
+    "options": {
+      "A": "5.",
+      "B": "6.",
+      "C": "7.",
+      "D": "8."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Um número primo tem exatamente dois divisores: 1 e ele mesmo. Entre 40 e 60, os pares e os terminados em 5 já estão descartados. Sobram os ímpares</p><p>\\[41,\\ 43,\\ 47,\\ 49,\\ 51,\\ 53,\\ 57,\\ 59.\\]</p><p>Agora eliminamos os que têm outros divisores:</p><ul><li>\\(49 = 7 \\cdot 7\\);</li><li>\\(51 = 3 \\cdot 17\\) (soma dos algarismos 6, múltiplo de 3);</li><li>\\(57 = 3 \\cdot 19\\) (soma dos algarismos 12, múltiplo de 3).</li></ul><p>Os primos são 41, 43, 47, 53 e 59: <b>5 bolas</b>. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contou 49 como primo. Ele é ímpar e não termina em 5, mas \\(49 = 7 \\cdot 7\\).",
+      "C": "Contou 51 e 57 como primos. Os dois são múltiplos de 3 (\\(51 = 3 \\cdot 17\\) e \\(57 = 3 \\cdot 19\\)); a soma dos algarismos denuncia isso.",
+      "D": "Contou todos os ímpares que não terminam em 5 (41, 43, 47, 49, 51, 53, 57, 59), sem testar se tinham outros divisores."
+    },
+    "tip": "Para testar se um número até 100 é primo, basta tentar dividir por 2, 3, 5 e 7."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para o lanche da turma, Dona Célia vai preparar cachorros-quentes, cada um com exatamente 1 pão e 1 salsicha. No mercado, o pão só é vendido em pacotes com 8 unidades, e a salsicha, em pacotes com 10 unidades.</p><p>Ela quer comprar a <b>menor</b> quantidade possível de pacotes de modo que todos os pães e todas as salsichas sejam usados, sem sobrar nada. Para isso, Dona Célia deverá comprar</p>",
+    "options": {
+      "A": "4 pacotes de pão e 5 pacotes de salsicha.",
+      "B": "5 pacotes de pão e 4 pacotes de salsicha.",
+      "C": "8 pacotes de pão e 10 pacotes de salsicha.",
+      "D": "10 pacotes de pão e 8 pacotes de salsicha."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O número de pães comprados é um múltiplo de 8, e o de salsichas, um múltiplo de 10. Como os dois números precisam ser iguais (1 pão para cada salsicha), procuramos o menor múltiplo comum:</p><p>\\[\\text{múltiplos de 8: } 8,\\ 16,\\ 24,\\ 32,\\ \\mathbf{40},\\ \\ldots \\qquad \\text{múltiplos de 10: } 10,\\ 20,\\ 30,\\ \\mathbf{40},\\ \\ldots\\]</p><p>\\(\\text{MMC}(8, 10) = 40\\). Então ela fará 40 cachorros-quentes e precisará de</p><ul><li>\\(40 \\div 8 = 5\\) pacotes de pão;</li><li>\\(40 \\div 10 = 4\\) pacotes de salsicha.</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Encontrou o MMC 40 corretamente, mas trocou as divisões: 4 pacotes de pão dariam só 32 pães, e 5 pacotes de salsicha dariam 50 salsichas.",
+      "C": "Usou os próprios tamanhos dos pacotes como número de pacotes, sem procurar o MMC: 8 pacotes de pão dão 64 pães, e 10 pacotes de salsicha dão 100 salsichas, quantidades diferentes.",
+      "D": "Usou o produto \\(8 \\cdot 10 = 80\\) em vez do MMC. Funciona sem sobra (80 pães e 80 salsichas), mas não é a menor quantidade de pacotes."
+    },
+    "tip": "Quando duas quantidades vêm em \"pacotes\" de tamanhos diferentes e precisam ficar iguais, procure o MMC, não o produto."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A prefeitura vai plantar árvores ao longo de todo o contorno de uma praça retangular que mede 84 m de comprimento por 60 m de largura. O projeto exige que:</p><ul><li>haja uma árvore em cada um dos quatro cantos da praça;</li><li>a distância entre duas árvores vizinhas seja sempre a mesma, um número inteiro de metros;</li><li>essa distância seja a maior possível.</li></ul><p>O número de árvores que serão plantadas no contorno da praça é</p>",
+    "options": {
+      "A": "25.",
+      "B": "28.",
+      "C": "48.",
+      "D": "24."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Como há árvores nos cantos, a distância entre vizinhas precisa dividir exatamente os 84 m e os 60 m. A maior distância possível é o MDC:</p><p>\\[84 = 2^2 \\cdot 3 \\cdot 7, \\qquad 60 = 2^2 \\cdot 3 \\cdot 5 \\quad\\Rightarrow\\quad \\text{MDC}(84, 60) = 2^2 \\cdot 3 = 12 \\text{ m}.\\]</p><p>O contorno (perímetro) mede \\(2 \\cdot 84 + 2 \\cdot 60 = 288\\) m. Como o contorno é fechado, o número de árvores é igual ao número de espaços entre elas:</p><p>\\[288 \\div 12 = 24 \\text{ árvores}.\\]</p><p>Conferindo por lados: cada lado de 84 m tem \\(84 \\div 12 = 7\\) espaços e cada lado de 60 m tem \\(60 \\div 12 = 5\\) espaços; ao todo, \\(7 + 7 + 5 + 5 = 24\\) espaços, logo 24 árvores. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Somou 1 ao número de espaços, como se as árvores estivessem numa linha aberta. No contorno fechado, a última árvore coincide com a primeira.",
+      "B": "Contou as árvores de cada lado separadamente (\\(8 + 8 + 6 + 6 = 28\\)) e contou duas vezes as quatro árvores dos cantos.",
+      "C": "Usou a distância de 6 m, que também divide 84 e 60, mas não é a maior possível: \\(288 \\div 6 = 48\\)."
+    },
+    "tip": "Maior medida que cabe exatamente em dois comprimentos é o MDC; em um contorno fechado, número de árvores = número de espaços."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No nosso calendário, um ano é <b>bissexto</b> (tem 366 dias) de acordo com as regras:</p><ul><li>se o ano é múltiplo de 4, ele é bissexto;</li><li>exceção: se o ano é múltiplo de 100, ele só é bissexto quando também é múltiplo de 400.</li></ul><p>Assim, 1996 e 2000 foram bissextos, mas 1900 não foi.</p><p>A quantidade de anos bissextos de 1801 a 2100, incluindo esses dois anos, é</p>",
+    "options": {
+      "A": "72.",
+      "B": "73.",
+      "C": "74.",
+      "D": "75."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo: múltiplos de 4.</b> O primeiro múltiplo de 4 a partir de 1801 é 1804, e o último até 2100 é o próprio 2100. A quantidade de múltiplos de 4 de 1804 a 2100 é</p><p>\\[\\frac{2100 - 1804}{4} + 1 = \\frac{296}{4} + 1 = 74 + 1 = 75.\\]</p><p><b>2º passo: exceções.</b> Os múltiplos de 100 no intervalo são 1900, 2000 e 2100. Desses, só 2000 é múltiplo de 400. Logo, 1900 e 2100 <b>não</b> são bissextos e precisam ser retirados:</p><p>\\[75 - 2 = 73.\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Retirou os três múltiplos de 100 (1900, 2000 e 2100), esquecendo que 2000, por ser múltiplo de 400, é bissexto.",
+      "C": "Retirou apenas um dos anos de exceção (1900 ou 2100), esquecendo o outro.",
+      "D": "Contou todos os múltiplos de 4 e ignorou a exceção dos múltiplos de 100."
+    },
+    "tip": "Para contar múltiplos de k num intervalo: (último múltiplo − primeiro múltiplo) ÷ k + 1. Depois trate as exceções uma a uma."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No time de basquete da escola, os dois pivôs usam camisas com números diferentes, e cada um desses números é um número <b>primo</b>. O técnico comentou que a soma dos números das camisas dos dois pivôs é 40.</p><p>Sem considerar a ordem dos jogadores, a quantidade de pares diferentes de números que as camisas dos pivôs podem ter é</p>",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "6."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Como a soma é 40 e os números são diferentes, um deles é menor que 20. Os primos menores que 20 são 2, 3, 5, 7, 11, 13, 17 e 19. Para cada um, vemos se o complemento até 40 também é primo:</p><table><thead><tr><th>primo</th><th>complemento</th><th>é primo?</th></tr></thead><tbody><tr><td>2</td><td>38</td><td>não (par)</td></tr><tr><td>3</td><td>37</td><td><b>sim</b></td></tr><tr><td>5</td><td>35</td><td>não (\\(5 \\cdot 7\\))</td></tr><tr><td>7</td><td>33</td><td>não (\\(3 \\cdot 11\\))</td></tr><tr><td>11</td><td>29</td><td><b>sim</b></td></tr><tr><td>13</td><td>27</td><td>não (\\(3 \\cdot 9\\))</td></tr><tr><td>17</td><td>23</td><td><b>sim</b></td></tr><tr><td>19</td><td>21</td><td>não (\\(3 \\cdot 7\\))</td></tr></tbody></table><p>Os pares são \\(\\{3, 37\\}\\), \\(\\{11, 29\\}\\) e \\(\\{17, 23\\}\\): <b>3 pares</b>. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu o par \\(\\{3, 37\\}\\), provavelmente por testar só primos de dois algarismos.",
+      "C": "Aceitou como primo algum número que não é, como 21, 27 ou 33 (todos múltiplos de 3).",
+      "D": "Contou a ordem: \\(3 + 37\\) e \\(37 + 3\\) como pares diferentes, dobrando os 3 pares. O enunciado pede para não considerar a ordem."
+    },
+    "tip": "Para decompor um número em soma de dois primos, percorra os primos menores que a metade e teste o complemento."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na gincana de Matemática, a equipe de Júlia recebeu o seguinte desafio:</p><blockquote>Pensei em dois números naturais. Um deles é 36. O máximo divisor comum dos dois é 12, e o mínimo múltiplo comum dos dois é 180. Qual é o outro número?</blockquote><p>A resposta correta do desafio é</p>",
+    "options": {
+      "A": "5.",
+      "B": "15.",
+      "C": "48.",
+      "D": "60."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Para dois números naturais \\(a\\) e \\(b\\), vale a relação</p><p>\\[\\text{MDC}(a, b) \\cdot \\text{MMC}(a, b) = a \\cdot b.\\]</p><p>Então \\(12 \\cdot 180 = 36 \\cdot b\\), ou seja, \\(2160 = 36b\\), e \\(b = 60\\).</p><p>Conferindo com os fatores primos: \\(36 = 2^2 \\cdot 3^2\\) e \\(60 = 2^2 \\cdot 3 \\cdot 5\\).</p><ul><li>MDC: menores expoentes dos fatores comuns, \\(2^2 \\cdot 3 = 12\\). ✓</li><li>MMC: maiores expoentes de todos os fatores, \\(2^2 \\cdot 3^2 \\cdot 5 = 180\\). ✓</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou \\(180 \\div 36 = 5\\). De fato \\(\\text{MMC}(36, 5) = 180\\), mas \\(\\text{MDC}(36, 5) = 1\\), e não 12.",
+      "B": "Calculou \\(180 \\div 12 = 15\\), dividindo o MMC pelo MDC. Mas \\(\\text{MDC}(36, 15) = 3\\).",
+      "C": "Escolheu um número que tem MDC 12 com 36 (\\(\\text{MDC}(36, 48) = 12\\)), mas não verificou o MMC, que seria 144."
+    },
+    "tip": "MDC × MMC = produto dos dois números. E sempre confira as duas condições do enunciado, não só uma."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa de fim de ano, uma rua foi enfeitada com 60 lâmpadas, numeradas de 1 a 60, todas inicialmente <b>apagadas</b>. Cada lâmpada tem um interruptor: apertado uma vez, ele acende a lâmpada apagada ou apaga a lâmpada acesa.</p><p>Sessenta moradores, numerados de 1 a 60, passaram um de cada vez pela rua. O morador de número \\(k\\) apertou o interruptor de todas as lâmpadas cujo número é múltiplo de \\(k\\) (o morador 1 apertou todos, o morador 2 apertou os das lâmpadas 2, 4, 6, ..., e assim por diante).</p><p>Depois que os 60 moradores passaram, o número de lâmpadas acesas era</p>",
+    "options": {
+      "A": "7.",
+      "B": "8.",
+      "C": "17.",
+      "D": "30."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.logica"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O interruptor da lâmpada \\(n\\) é apertado pelo morador \\(k\\) exatamente quando \\(k\\) é divisor de \\(n\\). Então ele é apertado tantas vezes quanto o número de divisores de \\(n\\).</p><p>A lâmpada começa apagada; termina <b>acesa</b> só se for apertada um número <b>ímpar</b> de vezes.</p><p>Os divisores costumam vir em pares: para 12, temos \\(1 \\cdot 12\\), \\(2 \\cdot 6\\), \\(3 \\cdot 4\\), ou seja, 6 divisores (par). O único jeito de sobrar um divisor sem par é quando \\(k \\cdot k = n\\), isto é, quando \\(n\\) é um <b>quadrado perfeito</b>. Por exemplo, 36 tem os pares \\(1 \\cdot 36\\), \\(2 \\cdot 18\\), \\(3 \\cdot 12\\), \\(4 \\cdot 9\\) e o divisor 6 sozinho: 9 divisores (ímpar).</p><p>Os quadrados perfeitos de 1 a 60 são</p><p>\\[1,\\ 4,\\ 9,\\ 16,\\ 25,\\ 36,\\ 49,\\]</p><p>pois \\(8^2 = 64\\) já passa de 60. São <b>7 lâmpadas acesas</b>. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contou os quadrados perfeitos até 64, incluindo \\(8^2 = 64\\), que não existe entre as 60 lâmpadas.",
+      "C": "Pensou nos 17 números primos até 60. Mas cada primo tem só 2 divisores, então sua lâmpada é apertada 2 vezes e termina apagada.",
+      "D": "Supôs que metade das lâmpadas (as pares, ou as ímpares) ficaria acesa, sem analisar quantas vezes cada interruptor é apertado."
+    },
+    "tip": "Um número tem quantidade ímpar de divisores exatamente quando é quadrado perfeito: os divisores formam pares, e só a raiz quadrada fica sem par."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na aula de Matemática, o professor apresentou o número</p><p>\\[N = 1 \\cdot 2 \\cdot 3 \\cdot 4 \\cdots 29 \\cdot 30,\\]</p><p>que é o produto de todos os números naturais de 1 a 30. Esse número é enorme (tem 33 algarismos), mas o professor pediu aos estudantes apenas que descobrissem, sem fazer a conta toda, com quantos algarismos zero ele termina.</p><p>A quantidade de zeros no final de \\(N\\) é</p>",
+    "options": {
+      "A": "3.",
+      "B": "6.",
+      "C": "7.",
+      "D": "26."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Cada zero no final de um número vem de um fator \\(10 = 2 \\cdot 5\\). Então precisamos saber quantos pares \\(2 \\cdot 5\\) aparecem na fatoração de \\(N\\).</p><p>Fatores 2 existem de sobra (metade dos números é par). Quem limita é o fator 5. Vamos contá-lo:</p><ul><li>múltiplos de 5 até 30: 5, 10, 15, 20, 25, 30, que dão <b>6</b> fatores 5;</li><li>mas \\(25 = 5 \\cdot 5\\) tem <b>dois</b> fatores 5, então soma-se mais <b>1</b>.</li></ul><p>Total de fatores 5: \\(6 + 1 = 7\\). Como há muito mais que 7 fatores 2, formam-se exatamente 7 fatores 10.</p><p>\\(N\\) termina em <b>7 zeros</b>. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contou apenas os múltiplos de 10 (10, 20 e 30), esquecendo que um 5 de 15 ou 25 também forma um 10 quando se junta a um fator 2 de outro número.",
+      "B": "Contou os múltiplos de 5, mas esqueceu que 25 contribui com dois fatores 5.",
+      "D": "Contou os fatores 2 (\\(15 + 7 + 3 + 1 = 26\\)) em vez dos fatores 5. Cada zero precisa de um 2 e de um 5, e os 5 são os que faltam primeiro."
+    },
+    "tip": "Zeros no final = quantidade de pares 2 × 5 na fatoração; conte o fator mais raro (o 5), lembrando que 25 conta duas vezes."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma caça ao tesouro, a última pista dizia:</p><blockquote>A senha do cadeado é um número da forma \\(2^n \\cdot 5\\), em que \\(n\\) é um número natural, e esse número tem exatamente 12 divisores naturais.</blockquote><p>A senha do cadeado é</p>",
+    "options": {
+      "A": "160.",
+      "B": "320.",
+      "C": "2 560.",
+      "D": "20 480."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.divisibilidade",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Todo divisor de \\(2^n \\cdot 5\\) tem a forma \\(2^a \\cdot 5^b\\), com</p><ul><li>\\(a\\) podendo ser \\(0, 1, 2, \\ldots, n\\): são \\(n + 1\\) escolhas;</li><li>\\(b\\) podendo ser 0 ou 1: são 2 escolhas.</li></ul><p>Pelo princípio multiplicativo, o número de divisores é \\((n + 1) \\cdot 2\\). Então</p><p>\\[(n + 1) \\cdot 2 = 12 \\ \\Rightarrow\\ n + 1 = 6 \\ \\Rightarrow\\ n = 5.\\]</p><p>A senha é \\(2^5 \\cdot 5 = 32 \\cdot 5 = 160\\).</p><p>Conferindo: os divisores de 160 são 1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80 e 160, ou seja, 12 divisores. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu de somar 1 ao expoente de 2: fez \\(n \\cdot 2 = 12\\), \\(n = 6\\), e obteve \\(2^6 \\cdot 5 = 320\\), que tem 14 divisores.",
+      "C": "Somou as escolhas em vez de multiplicar: \\((n + 1) + 2 = 12\\), \\(n = 9\\), e obteve \\(2^9 \\cdot 5 = 2560\\), que tem 20 divisores.",
+      "D": "Esqueceu de somar 1 nos dois expoentes: \\(n \\cdot 1 = 12\\), e obteve \\(2^{12} \\cdot 5 = 20480\\), que tem 26 divisores."
+    },
+    "tip": "Para contar divisores, fatore em primos, some 1 a cada expoente e multiplique: 2⁵ · 5¹ tem (5 + 1)(1 + 1) = 12 divisores."
+  }
+]

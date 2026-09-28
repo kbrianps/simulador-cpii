@@ -1,0 +1,286 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No Texto 1, a ordem dada pelo professor “parecia brincadeira” (verso 6) para o eu lírico porque</p>",
+    "options": {
+      "A": "o professor falava da borda, sem entrar na piscina para ensinar.",
+      "B": "o professor pedia que a aluna olhasse para o céu, e não para a água, durante a aula de natação.",
+      "C": "pedia que ela parasse de nadar e soltasse o corpo, justo quando temia afundar.",
+      "D": "a aluna já sabia nadar e não precisava mais de orientação."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na primeira estrofe, a aluna tenta se salvar lutando: “batia os braços, chutava o vazio” (verso 2). Para ela, parar de se mexer significaria afundar.</p><p>Por isso a ordem “Para de nadar. Solta o corpo.” (verso 7) soa absurda, como uma piada. A terceira estrofe confirma a estranheza: “Como pode / quem desiste de lutar / não ir direto para o fundo?” (versos 9-11).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O poema diz que o professor estava “da borda” (verso 5), mas não é isso que torna a ordem estranha; o que espanta a aluna é o conteúdo da ordem.",
+      "B": "Olhar o céu faz parte da ordem, mas sozinho não explica a desconfiança. O que parecia absurdo era parar de nadar quando ela temia afundar (versos 9-11).",
+      "D": "A primeira estrofe mostra que ela ainda não sabia boiar: quanto mais lutava, mais funda a piscina parecia."
+    },
+    "tip": "Quando o poema cita uma fala, procure nos versos seguintes a reação do eu lírico: ela explica o sentido da fala."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>“e a água, que eu julgava inimiga, / me ergueu como quem entende.” (versos 15 e 16)</p><p>Nesses versos do Texto 1, a água</p>",
+    "options": {
+      "A": "é personificada, e a imagem mostra que o que o eu lírico via como ameaça passou a ser apoio.",
+      "B": "é descrita em linguagem apenas literal, pois a água de fato sustenta, pela física, os corpos que boiam na superfície.",
+      "C": "continua sendo apresentada como inimiga, já que ergue a aluna contra a vontade dela.",
+      "D": "representa o professor, que finalmente sai da borda e entra na piscina para segurar a aluna."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A água recebe características humanas: ela “entende” e age “como quem entende”. Atribuir a um ser inanimado sentimentos ou atitudes humanas é a <b>personificação</b> (ou prosopopeia).</p><p>A oração “que eu julgava inimiga” mostra o que o eu lírico pensava antes. Mas a água “me ergueu”: aquilo que parecia ameaça se revelou apoio, e a opinião do eu lírico muda.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É verdade que a água sustenta quem boia, mas dizer que ela age “como quem entende” é linguagem figurada: a água não compreende nada.",
+      "C": "O verbo “julgava” mostra uma opinião antiga, desmentida pelo que acontece: a água a sustenta. A aluna abriu os braços por decisão própria (verso 14), não contra a vontade.",
+      "D": "O professor permanece na borda; nenhum verso diz que ele entrou na água. Quem ergue a aluna é a própria água."
+    },
+    "tip": "Personificação é dar ações ou sentimentos humanos ao que não é humano. Veja também o que a figura revela sobre o eu lírico."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Na última estrofe do Texto 1, o eu lírico relaciona a lição da piscina à própria vida: “há coisas que só seguram / quem para de tentar vencer.” (versos 20 e 21)</p><p>A interpretação mais adequada desses versos é a de que</p>",
+    "options": {
+      "A": "é preciso desistir dos próprios sonhos e objetivos para conseguir viver em paz.",
+      "B": "o eu lírico passou a fugir de qualquer situação difícil, assim como aprendeu a fugir da luta na piscina.",
+      "C": "só consegue boiar quem já aprendeu a nadar bem e a vencer competições.",
+      "D": "em certos momentos difíceis, a calma e a confiança ajudam mais que o esforço desesperado."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A última estrofe amplia a experiência: “Hoje, quando o mundo pesa / e tudo em mim quer se debater” (versos 17-18), ou seja, diante dos problemas da vida, o eu lírico sente a mesma vontade de lutar desesperadamente que sentia na piscina.</p><p>Ele então lembra “da piscina e do céu” (verso 19): assim como a água só a sustentou quando ela parou de se debater e confiou, algumas situações pedem calma e confiança, e não força. “Parar de tentar vencer” não é desistir de tudo; é parar de brigar com aquilo que pode sustentar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É uma leitura literal demais de “para de tentar vencer”. Na piscina, parar de lutar não foi desistência: foi o que permitiu boiar.",
+      "B": "Na piscina, o eu lírico não fugiu: continuou nas aulas até confiar e ser erguido pela água. O que ele abandonou foi a luta desesperada, não a situação difícil. E, na vida, ele enfrenta o que “pesa” lembrando dessa lição.",
+      "C": "O poema mostra o contrário: a aluna boiou quando parou de nadar. E não há competição alguma no texto."
+    },
+    "tip": "Poemas muitas vezes partem de uma cena concreta e, no final, ampliam o sentido para a vida. Leia o último verso à luz da cena inicial."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No Texto 2, a história é contada</p>",
+    "options": {
+      "A": "por um narrador observador, que descreve de fora a rotina do guichê de achados e perdidos.",
+      "B": "pelo próprio guarda-chuva, narrador-personagem que fala em primeira pessoa.",
+      "C": "pela moça do guichê, que risca o calendário e observa os objetos da prateleira.",
+      "D": "pela menina, que relata em primeira pessoa o dia em que conseguiu um guarda-chuva na estação."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Quem diz “Estou nesta prateleira” (linha 1), “Meu dono, um senhor de chapéu, me deixou encostado” (linhas 4-5) e “Guarda-chuva que se preza” (linha 7) é o próprio guarda-chuva. Ele participa da história e a conta em primeira pessoa: é um <b>narrador-personagem</b>.</p><p>Além disso, ele se atribui sentimentos humanos: não guarda “mágoa” (linhas 6-7), “confessa” e prende “a respiração” (linha 18).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O narrador não está de fora: usa “eu”, “me”, “meu” e participa dos acontecimentos.",
+      "C": "A moça do guichê aparece como personagem, citada em terceira pessoa (“a moça do guichê risca um calendário”, linhas 1-2).",
+      "D": "A menina também é citada em terceira pessoa (linhas 15-17), e o narrador nem sabe o nome dela (linhas 20-21)."
+    },
+    "tip": "Para identificar o narrador, procure os pronomes: “eu”, “me”, “meu” indicam narrador-personagem. Pergunte-se quem diz esse “eu”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>“Eu, confesso, prendi a respiração, se é que guarda-chuva respira.” (linhas 18 e 19)</p><p>No Texto 2, a oração “se é que guarda-chuva respira” produz um efeito de humor porque</p>",
+    "options": {
+      "A": "revela que o narrador estava doente, com dificuldade de respirar por causa da umidade da chuva.",
+      "B": "mostra que o narrador tinha medo de ser levado pela moça do guichê para longe da prateleira tranquila.",
+      "C": "critica a menina, que pediu um guarda-chuva à moça do guichê sem ter perdido nenhum na estação.",
+      "D": "o narrador descreve uma reação humana e logo lembra que é um objeto, duvidando da própria ação."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Prender a respiração” é uma reação humana de expectativa: é o que fazemos quando esperamos algo importante. O guarda-chuva usa a expressão porque torce para ser escolhido pela menina.</p><p>Logo em seguida, porém, ele se corrige: “se é que guarda-chuva respira”. O narrador brinca com a própria condição de objeto, o que quebra a seriedade da cena e cria o <b>humor</b>. Ao mesmo tempo, a expressão mostra ao leitor quanto aquele momento era importante para ele.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Não se fala em doença. Prender a respiração indica expectativa, não problema de saúde.",
+      "B": "Pelo contrário: o narrador torcia para sair da prateleira. O desfecho, na mochila da menina, é apresentado de forma positiva.",
+      "C": "A menina pede “meio sem graça” (linha 16) por necessidade, por causa da chuva. O narrador não a critica."
+    },
+    "tip": "Quando o narrador comenta a própria fala (“se é que...”), ele costuma criar ironia ou humor: pergunte-se o que ele está brincando de corrigir."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No segundo parágrafo do Texto 2, o narrador afirma: “somos lembrados quando chove e abandonados assim que o sol aparece” (linhas 7 e 8). No último parágrafo, diz que a menina, “quando o céu escurece, [...] me procura antes de procurar qualquer outra coisa” (linhas 21 e 22).</p><p>A relação entre esses dois trechos permite concluir que o desfecho do conto</p>",
+    "options": {
+      "A": "mostra uma virada no destino do narrador: ele continua lembrado quando chove, mas agora é valorizado.",
+      "B": "confirma que o narrador voltará a ser esquecido em breve, pois a menina também não sabe o nome dele.",
+      "C": "revela que o narrador foi devolvido ao antigo dono, o senhor de chapéu.",
+      "D": "demonstra que o narrador guarda mágoa da menina, que só se lembra dele por interesse, quando precisa."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No começo, o narrador se apresenta como um objeto que “vive de ser esquecido” (linha 7), e é o que aconteceu: o dono o deixou na plataforma.</p><p>No final, a menina o guarda na mochila e o procura “antes de procurar qualquer outra coisa” (linhas 21-22). Continua sendo lembrado quando chove (“quando o céu escurece”), mas agora ele é o primeiro da lista: ganhou lugar e importância na vida de alguém. O conto termina, assim, com uma virada no destino que ele achava inevitável.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É o narrador quem não sabe o nome da menina (linhas 20-21), não o contrário. E nada indica que ele voltará a ser esquecido; o tom final é de acolhimento.",
+      "C": "O senhor de chapéu nunca voltou. O narrador está “na mochila da menina” (linha 20).",
+      "D": "O narrador diz não guardar mágoa nem do antigo dono (linhas 6-7). O último parágrafo tem tom afetuoso, não ressentido."
+    },
+    "tip": "Compare o começo e o fim de uma narrativa: o desfecho costuma confirmar ou inverter a situação inicial, e é aí que está o sentido do conto."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o poema.</p><blockquote><p><b>Temporal</b></p><p>Chuva no telhado de zinco:<br>tique, taque, tique, taque,<br>um tamborim de mil dedos<br>ensaiando o seu batuque.</p></blockquote><p>O segundo verso contribui para a construção do poema porque</p>",
+    "options": {
+      "A": "descreve o formato das gotas que caem no telhado.",
+      "B": "imita o som da chuva no zinco e prepara a imagem musical dos versos seguintes.",
+      "C": "indica que o eu lírico está contando os segundos, como um relógio, até a chuva finalmente parar.",
+      "D": "quebra o ritmo do poema com sons sem sentido, afastando-o da ideia de música."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“tique, taque, tique, taque” são palavras que imitam um som: é a <b>onomatopeia</b>. Aqui ela reproduz o barulho das gotas no telhado de zinco.</p><p>Esse som prepara a metáfora dos versos seguintes, em que a chuva vira “um tamborim de mil dedos / ensaiando o seu batuque”. O verso sonoro faz o leitor quase ouvir a batucada.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "As palavras do verso não descrevem forma nenhuma; elas reproduzem um som.",
+      "C": "O “tique-taque” lembra relógio, mas no poema não há contagem de tempo: os versos seguintes transformam o som em batuque, em música.",
+      "D": "Os sons têm sentido: imitam a chuva. E a repetição regular cria ritmo e aproxima o poema da música, em vez de afastá-lo dela."
+    },
+    "tip": "Onomatopeia é a palavra que imita um som. Nos poemas, ela quase sempre reforça uma imagem sonora do texto."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o miniconto.</p><blockquote><p><b>Mudança</b></p><p>A mãe encaixotou tudo: os pratos, os livros, os retratos da parede. Só não encontrou caixa do tamanho do quintal.</p></blockquote><p>A partir da última frase do miniconto, é possível inferir que</p>",
+    "options": {
+      "A": "a mãe se esqueceu de embalar os objetos que estavam no quintal, como os vasos e os brinquedos.",
+      "B": "a família vai se mudar para uma casa nova com um quintal ainda maior que o da antiga.",
+      "C": "há coisas da vida na casa antiga que não podem ser levadas na mudança.",
+      "D": "a mãe desistiu da mudança porque não havia caixas suficientes."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Minicontos dizem muito com poucas palavras e deixam boa parte do sentido para o leitor.</p><p>A primeira frase lista o que pode ir para as caixas: pratos, livros, retratos. A segunda muda de tom: um quintal não cabe em caixa nenhuma. Ele representa o espaço vivido pela família, as brincadeiras, as árvores, os dias passados ali. A frase sugere, com certa melancolia, que isso fica para trás.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É uma leitura literal. O texto não fala de objetos no quintal: fala do próprio quintal, que não pode ser encaixotado.",
+      "B": "Nada no miniconto informa como é a casa nova. A frase final sugere perda, não ganho.",
+      "D": "A mãe “encaixotou tudo”; a mudança continua. A falta de uma caixa “do tamanho do quintal” é figurada."
+    },
+    "tip": "Em minicontos, a última frase costuma mudar o sentido de tudo: pergunte-se o que ela deixa implícito."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um conto.</p><blockquote><p>Dona Cida arrumou as laranjas em pirâmide, como fazia havia trinta anos, e olhou o céu fechado. Ia chover, claro que ia, justo no sábado da feira grande. E quem ia subir a ladeira com sacola debaixo de chuva? Ninguém. Suspirou, cobriu as frutas com a lona azul e ficou esperando o primeiro freguês.</p></blockquote><p>Nas frases “Ia chover, claro que ia, justo no sábado da feira grande. E quem ia subir a ladeira com sacola debaixo de chuva? Ninguém.”,</p>",
+    "options": {
+      "A": "a personagem fala diretamente com os fregueses, o que é indicado pela pergunta.",
+      "B": "o narrador abandona a terceira pessoa e passa a contar a história como personagem.",
+      "C": "a voz do narrador se mistura aos pensamentos de Dona Cida, sem aspas nem verbo de elocução.",
+      "D": "o narrador faz uma pergunta direta ao leitor, pedindo sua opinião sobre o movimento da feira no sábado."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O trecho começa e termina com o narrador em terceira pessoa contando as ações de Dona Cida (“arrumou”, “olhou”, “Suspirou”, “cobriu”).</p><p>No meio, porém, aparecem frases que soam como o pensamento da feirante: a irritação de “claro que ia”, o “justo no sábado da feira grande”, a pergunta e a resposta desanimada “Ninguém.”. Não há travessão, aspas ou verbo como “pensou” ou “disse”: a voz do narrador e a da personagem se fundem. Esse recurso se chama <b>discurso indireto livre</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não há fregueses presentes: ela ainda espera “o primeiro freguês”. E não há sinal de fala, como travessão ou aspas; é um pensamento.",
+      "B": "O narrador continua em terceira pessoa: logo depois vem “Suspirou”, e não “suspirei”. Não há “eu” no trecho.",
+      "D": "A pergunta não é dirigida ao leitor; é a própria Dona Cida que a faz a si mesma e a responde (“Ninguém.”)."
+    },
+    "tip": "Frases com o tom da personagem (exclamações, perguntas, desabafos) dentro de uma narração em terceira pessoa, sem aspas nem “pensou”, indicam discurso indireto livre."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o poema.</p><blockquote><p><b>Medida</b></p><p>Primeiro, o quarto ficou pequeno.<br>Depois, a rua, a escola, o bairro.<br>Hoje a cidade inteira me aperta<br>e eu sonho com o tamanho do mundo.</p></blockquote><p>A sequência de lugares apresentada no poema</p>",
+    "options": {
+      "A": "cresce a cada verso e expressa o crescimento do eu lírico e sua vontade de ir cada vez mais longe.",
+      "B": "está em ordem decrescente de tamanho, mostrando que o eu lírico sente saudade e quer voltar ao seu quarto.",
+      "C": "descreve literalmente uma cidade que perdeu espaço por causa das construções.",
+      "D": "revela que o eu lírico tem medo do mundo lá fora e prefere continuar nos lugares que já conhece."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.literario",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Os lugares aparecem em ordem crescente: quarto, rua, escola, bairro, cidade, mundo. Essa progressão é a figura chamada <b>gradação</b>.</p><p>Os lugares não encolhem de verdade: é o eu lírico que cresce e passa a querer mais do que eles oferecem. Cada espaço “fica pequeno” e depois “aperta”, e o poema termina no maior de todos, o “tamanho do mundo”, que ainda é só um sonho. Por isso o título “Medida”: o eu lírico vai medindo o mundo pelo tamanho do próprio desejo.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A ordem é crescente (do quarto ao mundo), e o eu lírico não quer voltar: ele sonha com o mundo.",
+      "C": "A linguagem é figurada. A cidade não perdeu espaço; é o eu lírico que se sente apertado nela.",
+      "D": "O último verso mostra desejo, não medo: “eu sonho com o tamanho do mundo”."
+    },
+    "tip": "Gradação é uma sequência que cresce ou diminui aos poucos. Descubra o sentido da ordem: o que aumenta junto com os lugares?"
+  }
+]

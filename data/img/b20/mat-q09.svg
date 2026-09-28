@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="440" height="300" fill="#fff"/>
+  <line x1="20" y1="250" x2="420" y2="250" stroke="#777" stroke-width="1.5"/>
+  <path d="M60,250 L60,190 L150,190 L150,130 L240,130 L240,70 L330,70 L330,250 Z" fill="#b0bec5" stroke="#333" stroke-width="2"/>
+  <text x="54" y="225" text-anchor="end">20 cm</text>
+  <text x="144" y="165" text-anchor="end">20 cm</text>
+  <text x="234" y="105" text-anchor="end">20 cm</text>
+  <text x="105" y="214" text-anchor="middle">30 cm</text>
+  <text x="195" y="154" text-anchor="middle">30 cm</text>
+  <text x="285" y="94" text-anchor="middle">30 cm</text>
+  <text x="220" y="280" text-anchor="middle" font-size="14">Escada vista de lado (largura da escada: 1 m)</text>
+</svg>

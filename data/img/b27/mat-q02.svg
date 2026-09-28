@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 295" width="480" height="295" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="480" height="295" fill="#ffffff"/>
+  <rect x="20" y="240" width="440" height="22" fill="#d9d9d9"/>
+  <text x="240.0" y="280.0" text-anchor="middle" font-size="15" fill="#555">meio-fio</text>
+  <polygon points="70.0,240 270,240 349.5,112.8 149.5,112.8" fill="#eef3fa" stroke="#1f4e8c" stroke-width="3"/>
+  <path d="M 104.0 240.0 A 34 34 0 0 0 88.0 211.2" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <text x="122.0" y="228.0" text-anchor="middle" fill="#c0392b" font-size="15">58°</text>
+  <text x="66.0" y="260.0" text-anchor="middle" font-weight="bold">A</text>
+  <text x="274.0" y="260.0" text-anchor="middle" font-weight="bold">B</text>
+  <text x="363.5" y="116.8" text-anchor="middle" font-weight="bold">C</text>
+  <text x="135.5" y="116.8" text-anchor="middle" font-weight="bold">D</text>
+</svg>

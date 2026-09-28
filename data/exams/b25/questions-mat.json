@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A cantina de uma escola vende garrafas de suco e de água. O gráfico mostra quantas garrafas de cada tipo foram vendidas em cada dia de uma semana.</p><p><img src=\"img/b25/mat-q01.svg\" alt=\"Gráfico de barras duplas intitulado Garrafas vendidas na cantina. Eixo vertical: Garrafas, de 0 a 60, de 10 em 10. Para cada dia há uma barra de Suco e uma de Água, com o valor escrito sobre ela. Segunda: suco 30, água 35. Terça: suco 45, água 30. Quarta: suco 25, água 40. Quinta: suco 40, água 20. Sexta: suco 50, água 45.\"></p><p>O dia da semana em que a diferença entre o número de garrafas de suco e o número de garrafas de água vendidas foi a maior é</p>",
+    "options": {
+      "A": "terça-feira.",
+      "B": "quarta-feira.",
+      "C": "quinta-feira.",
+      "D": "sexta-feira."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Para cada dia, calcule a diferença entre a barra maior e a barra menor:</p><ul><li>Segunda: \\(35 - 30 = 5\\) (mais água);</li><li>Terça: \\(45 - 30 = 15\\) (mais suco);</li><li>Quarta: \\(40 - 25 = 15\\) (mais água);</li><li>Quinta: \\(40 - 20 = 20\\) (mais suco);</li><li>Sexta: \\(50 - 45 = 5\\) (mais suco).</li></ul><p>A maior diferença, 20 garrafas, aconteceu na quinta-feira. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Na terça a diferença é 15 garrafas, menor que a de quinta (20). É uma diferença grande, mas não a maior da semana.",
+      "B": "Na quarta a diferença também é 15 (com mais água que suco), menor que as 20 garrafas de quinta.",
+      "D": "Sexta é o dia com as barras mais altas, mas as duas quase empatam: a diferença é só 5. O que importa é a distância entre as barras, não a altura delas."
+    },
+    "tip": "Diferença entre duas barras é a distância entre os topos delas, não a altura da maior."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O grupo de teatro de uma escola vai encomendar sapatilhas para a apresentação de fim de ano. A professora anotou o número do calçado de cada um dos 9 integrantes, na ordem em que eles responderam:</p><p style=\"text-align:center\">38, 36, 41, 35, 36, 40, 37, 39, 36</p><p>A moda e a mediana desses números são, respectivamente,</p>",
+    "options": {
+      "A": "36 e 37.",
+      "B": "37 e 36.",
+      "C": "36 e 36.",
+      "D": "36 e 38."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Moda</b> é o valor que mais se repete. O número 36 aparece três vezes, mais que qualquer outro. Moda: 36.</p><p><b>Mediana</b> é o valor do meio depois de colocar os dados <b>em ordem</b>:</p><p style=\"text-align:center\">35, 36, 36, 36, <b>37</b>, 38, 39, 40, 41</p><p>São 9 valores, então o do meio é o 5º: 37. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Trocou a ordem pedida: a moda é 36 e a mediana é 37, não o contrário.",
+      "C": "Pegou o 5º número da lista na ordem em que foi anotada (36), sem colocar os valores em ordem crescente antes.",
+      "D": "Usou o meio dos números diferentes (35, 36, 37, 38, 39, 40, 41), esquecendo que o 36 aparece três vezes e precisa ser contado três vezes."
+    },
+    "tip": "Mediana só depois de ordenar, e cada valor repetido conta quantas vezes aparece."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lia está escolhendo um plano de internet para o celular. A tabela mostra as opções de uma operadora.</p><table><thead><tr><th>Plano</th><th>Mensalidade</th><th>Internet incluída</th><th>Preço de cada GB usado além do incluído</th></tr></thead><tbody><tr><td>Básico</td><td>R$ 40,00</td><td>10 GB</td><td>R$ 5,00</td></tr><tr><td>Mais</td><td>R$ 55,00</td><td>15 GB</td><td>R$ 4,00</td></tr><tr><td>Top</td><td>R$ 70,00</td><td>25 GB</td><td>R$ 3,00</td></tr><tr><td>Livre</td><td>R$ 20,00</td><td>nenhuma</td><td>R$ 3,00</td></tr></tbody></table><p>Lia usa 18 GB de internet por mês. Para gastar o mínimo possível, ela deve escolher o plano</p>",
+    "options": {
+      "A": "Livre, pagando R$ 54,00 por mês.",
+      "B": "Mais, pagando R$ 67,00 por mês.",
+      "C": "Top, pagando R$ 70,00 por mês.",
+      "D": "Básico, pagando R$ 40,00 por mês."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Calcule o gasto mensal de Lia em cada plano, usando 18 GB:</p><ul><li><b>Básico:</b> passa \\(18 - 10 = 8\\) GB. Custo: \\(40 + 8 \\cdot 5 = 80\\) reais.</li><li><b>Mais:</b> passa \\(18 - 15 = 3\\) GB. Custo: \\(55 + 3 \\cdot 4 = 67\\) reais.</li><li><b>Top:</b> 18 GB cabem nos 25 GB incluídos. Custo: 70 reais.</li><li><b>Livre:</b> paga todos os 18 GB. Custo: \\(20 + 18 \\cdot 3 = 74\\) reais.</li></ul><p>O menor valor é R$ 67,00, no plano Mais. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calculou só os 18 GB do plano Livre (\\(18 \\cdot 3 = 54\\)) e esqueceu a mensalidade de R$ 20,00. O custo real é R$ 74,00.",
+      "C": "O plano Top não cobra nada extra, mas sai R$ 70,00, mais caro que os R$ 67,00 do plano Mais. Pagar alguns GB extras pode compensar.",
+      "D": "Olhou só a mensalidade. No Básico, Lia passaria 8 GB da franquia e pagaria mais R$ 40,00, totalizando R$ 80,00."
+    },
+    "tip": "Em comparação de planos, calcule o custo total de cada um para o consumo dado; a mensalidade sozinha engana."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma banda tem 6 músicos, e a média das idades deles é 24 anos. O baterista, que tem 35 anos, saiu da banda e foi substituído por um baterista de 17 anos. Os outros cinco músicos continuaram na banda.</p><p>Logo depois da troca, a média das idades dos 6 músicos da banda passou a ser</p>",
+    "options": {
+      "A": "20,4 anos.",
+      "B": "20,5 anos.",
+      "C": "21 anos.",
+      "D": "21,8 anos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Se a média de 6 idades é 24, a soma das idades é \\(6 \\cdot 24 = 144\\) anos.</p><p>Na troca, sai uma pessoa de 35 anos e entra uma de 17. A soma passa a ser</p><p>\\[144 - 35 + 17 = 126.\\]</p><p>Continuam sendo 6 músicos, então a nova média é \\(126 \\div 6 = 21\\) anos.</p><p>Outro caminho: a soma diminuiu \\(35 - 17 = 18\\) anos, repartidos entre 6 pessoas, o que baixa a média em \\(18 \\div 6 = 3\\) anos: \\(24 - 3 = 21\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Dividiu a redução de 18 anos por 5 (\\(18 \\div 5 = 3{,}6\\)) em vez de 6. A banda continua com 6 músicos.",
+      "B": "Fez a média entre 24 e 17, como se o novo baterista valesse tanto quanto todo o resto da banda.",
+      "D": "Tirou o baterista de 35 anos e calculou a média dos 5 que ficaram (\\(109 \\div 5 = 21{,}8\\)), esquecendo de incluir o novo baterista."
+    },
+    "tip": "Média virou soma: multiplique pela quantidade, ajuste a soma e divida de novo."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A biblioteca de um bairro publicou em um folheto o gráfico a seguir, com o número de visitantes em março e em abril, e a frase: <i>“Nosso público dobrou!”</i>.</p><p><img src=\"img/b25/mat-q05.svg\" alt=\"Gráfico de barras intitulado Visitantes da biblioteca. O eixo vertical começa em 300, e não em zero, e vai até 550, de 50 em 50. Barra de março: 400 visitantes. Barra de abril: 500 visitantes. Por causa do eixo começar em 300, a barra de abril parece ter o dobro da altura da barra de março.\"></p><p>Analisando os números do gráfico, de março para abril o número de visitantes, na verdade, aumentou</p>",
+    "options": {
+      "A": "20%.",
+      "B": "25%.",
+      "C": "50%.",
+      "D": "100%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O eixo vertical começa em 300, e não em zero. Por isso a barra de abril parece ter o dobro da altura da de março, mas os números são 400 e 500.</p><p>O aumento foi de \\(500 - 400 = 100\\) visitantes. Em relação ao valor inicial (março):</p><p>\\[\\frac{100}{400} = \\frac{1}{4} = 25\\%.\\]</p><p>O público não dobrou (dobrar seria chegar a 800). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu o aumento pelo valor de abril (\\(100 \\div 500\\)). A porcentagem de aumento é sempre calculada sobre o valor inicial, 400.",
+      "C": "Misturou leituras: usou o aumento real (100 visitantes), mas dividiu pela altura visível da barra de abril, contada a partir do 300 (200). Com o eixo cortado, a altura das barras não serve para calcular porcentagens; use os valores 400 e 500.",
+      "D": "Acreditou no tamanho visual das barras, que parecem dobrar porque o eixo começa em 300. Os valores reais são 400 e 500."
+    },
+    "tip": "Antes de comparar barras, veja onde o eixo começa: eixo cortado exagera diferenças."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A família de Rafael organizou os gastos de um mês na tabela a seguir.</p><table><thead><tr><th>Gasto</th><th>Valor</th></tr></thead><tbody><tr><td>Moradia</td><td>R$ 1.600,00</td></tr><tr><td>Alimentação</td><td>R$ 1.200,00</td></tr><tr><td>Transporte</td><td>R$ 600,00</td></tr><tr><td>Lazer</td><td>R$ 400,00</td></tr><tr><td>Outros</td><td>R$ 1.000,00</td></tr></tbody></table><p>Rafael vai representar esses gastos em um gráfico de setores (gráfico de “pizza”), em que o ângulo de cada setor é proporcional ao valor gasto. Os setores de Moradia e de Transporte, juntos, vão formar um ângulo de</p>",
+    "options": {
+      "A": "45°.",
+      "B": "120°.",
+      "C": "165°.",
+      "D": "220°."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O total gasto no mês é</p><p>\\[1600 + 1200 + 600 + 400 + 1000 = 4800 \\text{ reais}.\\]</p><p>Moradia e Transporte somam \\(1600 + 600 = 2200\\) reais. A fração do total é \\(\\dfrac{2200}{4800} = \\dfrac{11}{24}\\).</p><p>O círculo inteiro tem 360°, então o ângulo é</p><p>\\[\\frac{11}{24} \\cdot 360^\\circ = 11 \\cdot 15^\\circ = 165^\\circ.\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o ângulo só do Transporte (\\(\\frac{600}{4800} \\cdot 360^\\circ = 45^\\circ\\)). Faltou somar a Moradia.",
+      "B": "É o ângulo só da Moradia (\\(\\frac{1600}{4800} \\cdot 360^\\circ = 120^\\circ\\)). Faltou somar o Transporte.",
+      "D": "Tratou cada R$ 10,00 como se valesse 1° (2.200 dividido por 10). O ângulo depende da fração do total: \\(\\frac{2200}{4800} \\cdot 360^\\circ = 165^\\circ\\)."
+    },
+    "tip": "Setor de um gráfico de pizza: fração do total vezes 360°."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um campeonato de ginástica, cada apresentação recebe notas de 5 juízes. Pela regra, a maior e a menor nota são descartadas, e a nota final é a média aritmética das três notas restantes. As notas de duas ginastas foram:</p><table><thead><tr><th>Ginasta</th><th>Juiz 1</th><th>Juiz 2</th><th>Juiz 3</th><th>Juiz 4</th><th>Juiz 5</th></tr></thead><tbody><tr><td>Ana</td><td>8,4</td><td>8,7</td><td>9,0</td><td>10,0</td><td>8,0</td></tr><tr><td>Beatriz</td><td>8,9</td><td>9,1</td><td>8,6</td><td>8,9</td><td>8,2</td></tr></tbody></table><p>Comparando as duas ginastas, é correto afirmar que</p>",
+    "options": {
+      "A": "Ana vence, com 8,82 pontos contra 8,74 de Beatriz.",
+      "B": "Beatriz vence, com 8,9 pontos contra 8,7 de Ana.",
+      "C": "Beatriz vence, com 8,8 pontos contra 8,7 de Ana, e também venceria se a nota final fosse a média das cinco notas.",
+      "D": "Beatriz vence, com 8,8 pontos contra 8,7 de Ana, mas Ana venceria se a nota final fosse a média das cinco notas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Ana:</b> descartando 10,0 (maior) e 8,0 (menor), sobram 8,4; 8,7 e 9,0.</p><p>\\[\\frac{8{,}4 + 8{,}7 + 9{,}0}{3} = \\frac{26{,}1}{3} = 8{,}7.\\]</p><p><b>Beatriz:</b> descartando 9,1 (maior) e 8,2 (menor), sobram 8,9; 8,6 e 8,9.</p><p>\\[\\frac{8{,}9 + 8{,}6 + 8{,}9}{3} = \\frac{26{,}4}{3} = 8{,}8.\\]</p><p>Pela regra, Beatriz vence. Agora, com a média das cinco notas:</p><ul><li>Ana: \\((8{,}4 + 8{,}7 + 9{,}0 + 10{,}0 + 8{,}0) \\div 5 = 44{,}1 \\div 5 = 8{,}82\\);</li><li>Beatriz: \\((8{,}9 + 9{,}1 + 8{,}6 + 8{,}9 + 8{,}2) \\div 5 = 43{,}7 \\div 5 = 8{,}74\\).</li></ul><p>Com a média simples, Ana venceria, graças ao 10,0 que a regra descarta. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou a média das cinco notas, sem descartar a maior e a menor como manda a regra.",
+      "B": "Usou a mediana de cada ginasta (8,7 e 8,9), e não a média das três notas centrais.",
+      "C": "O resultado pela regra está certo, mas pela média das cinco notas Ana teria 8,82 e Beatriz 8,74: o vencedor mudaria."
+    },
+    "tip": "Descartar extremos protege o resultado de uma nota fora do padrão, e isso pode mudar o vencedor."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Theo participou de um jogo de perguntas com 5 rodadas. Em cada rodada, ele fez um número inteiro de pontos, maior ou igual a zero. Nas quatro primeiras rodadas, ele fez 2, 4, 7 e 11 pontos. Ele esqueceu quantos pontos fez na 5ª rodada, mas lembra que, considerando as cinco rodadas, a média aritmética dos pontos foi igual à mediana.</p><p>O número de pontos que Theo pode ter feito na 5ª rodada é</p>",
+    "options": {
+      "A": "nenhum: não há um número de pontos que torne isso possível.",
+      "B": "apenas 6.",
+      "C": "apenas 11.",
+      "D": "6 ou 11."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Chame de \\(x\\) os pontos da 5ª rodada. A soma é \\(2 + 4 + 7 + 11 + x = 24 + x\\), e a média é \\(\\dfrac{24 + x}{5}\\).</p><p>A mediana é o 3º valor depois de ordenar os cinco números, e ela depende de onde \\(x\\) fica:</p><ul><li><b>Se \\(x \\le 4\\):</b> ordem 2, x, 4, 7, 11 (ou x, 2, 4, 7, 11). Mediana 4. Então \\(24 + x = 20\\), ou seja, \\(x = -4\\): impossível.</li><li><b>Se \\(4 \\le x \\le 7\\):</b> ordem 2, 4, x, 7, 11. Mediana \\(x\\). Então \\(24 + x = 5x\\), \\(4x = 24\\), \\(x = 6\\). Como 6 está entre 4 e 7, serve.</li><li><b>Se \\(x \\ge 7\\):</b> ordem 2, 4, 7, x, 11 (ou 2, 4, 7, 11, x). Mediana 7. Então \\(24 + x = 35\\), \\(x = 11\\). Como \\(11 \\ge 7\\), serve.</li></ul><p>Conferindo: com 6, os dados são 2, 4, 6, 7, 11, média \\(30 \\div 5 = 6\\) e mediana 6. Com 11, são 2, 4, 7, 11, 11, média \\(35 \\div 5 = 7\\) e mediana 7. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Considerou só o caso em que \\(x\\) é pequeno (mediana 4), encontrou \\(x = -4\\) e concluiu que não havia solução. É preciso testar todas as posições possíveis de \\(x\\).",
+      "B": "Supôs que \\(x\\) ficaria no meio da lista (mediana igual a \\(x\\)) e não testou o caso em que \\(x\\) é grande e a mediana fica sendo 7.",
+      "C": "Supôs que a mediana seria sempre 7 (o número do meio da lista escrita) e não testou o caso em que \\(x\\) fica entre 4 e 7."
+    },
+    "tip": "Quando um dado é desconhecido, a mediana muda com a posição dele: separe em casos e confira cada resposta."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma escola instalou um pluviômetro (aparelho que mede a chuva) no pátio. Ao final de cada semana, os estudantes anotaram a <b>chuva acumulada</b>, isto é, o total de chuva desde o início da medição, e fizeram o gráfico a seguir.</p><p><img src=\"img/b25/mat-q09.svg\" alt=\"Gráfico de linha intitulado Chuva acumulada desde o início da medição. Eixo vertical: Chuva acumulada (mm), de 0 a 140, de 20 em 20. Eixo horizontal: Semana, da 1ª à 6ª. Valores marcados nos pontos: 1ª semana, 15; 2ª, 40; 3ª, 50; 4ª, 90; 5ª, 95; 6ª, 120.\"></p><p>Com base no gráfico, é correto afirmar que</p>",
+    "options": {
+      "A": "a semana mais chuvosa foi a 4ª, com 40 mm, e a menos chuvosa foi a 5ª, com 5 mm.",
+      "B": "a semana mais chuvosa foi a 6ª, com 120 mm de chuva.",
+      "C": "choveu mais na 4ª semana do que nas três primeiras semanas juntas.",
+      "D": "em todas as semanas, choveu mais do que na semana anterior."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.graficos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O gráfico mostra o total <b>acumulado</b>. A chuva de cada semana é a diferença entre um ponto e o anterior:</p><table><thead><tr><th>Semana</th><th>1ª</th><th>2ª</th><th>3ª</th><th>4ª</th><th>5ª</th><th>6ª</th></tr></thead><tbody><tr><td>Acumulado (mm)</td><td>15</td><td>40</td><td>50</td><td>90</td><td>95</td><td>120</td></tr><tr><td>Chuva na semana (mm)</td><td>15</td><td>25</td><td>10</td><td>40</td><td>5</td><td>25</td></tr></tbody></table><p>A semana mais chuvosa foi a 4ª (40 mm) e a menos chuvosa foi a 5ª (5 mm). Resposta: <b>A</b>.</p><p>No gráfico, a semana mais chuvosa é o trecho mais inclinado da linha, e a menos chuvosa é o trecho mais “deitado”.</p>",
+    "distractors": {
+      "B": "120 mm é o total das seis semanas, não a chuva da 6ª semana, que foi \\(120 - 95 = 25\\) mm.",
+      "C": "Nas três primeiras semanas choveram 50 mm no total (o valor acumulado na 3ª), mais que os 40 mm da 4ª semana.",
+      "D": "A linha sempre sobe porque o total acumulado nunca diminui, mas isso não significa que a chuva de cada semana aumentou: na 3ª choveram 10 mm, menos que os 25 mm da 2ª."
+    },
+    "tip": "Em gráfico acumulado, o valor de cada período é a diferença entre dois pontos seguidos, e o trecho mais íngreme é o maior."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um aplicativo, os clientes de um restaurante dão notas de 1 a 5 estrelas. O gráfico mostra todas as avaliações recebidas até hoje.</p><p><img src=\"img/b25/mat-q10.svg\" alt=\"Gráfico de barras intitulado Avaliações do restaurante. Eixo vertical: Número de avaliações, de 0 a 20, de 5 em 5. Eixo horizontal: Nota dada pelo cliente. 1 estrela: 4 avaliações; 2 estrelas: 2; 3 estrelas: 6; 4 estrelas: 10; 5 estrelas: 18.\"></p><p>A nota do restaurante no aplicativo é a média aritmética de todas as avaliações. O dono quer que essa nota chegue a pelo menos 4,2. Se todas as próximas avaliações forem de 5 estrelas, o menor número de novas avaliações necessário para isso é</p>",
+    "options": {
+      "A": "3.",
+      "B": "11.",
+      "C": "12.",
+      "D": "15."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.medias",
+      "mat.est.graficos",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>Situação atual.</b> Total de avaliações: \\(4 + 2 + 6 + 10 + 18 = 40\\). Soma das estrelas:</p><p>\\[4 \\cdot 1 + 2 \\cdot 2 + 6 \\cdot 3 + 10 \\cdot 4 + 18 \\cdot 5 = 4 + 4 + 18 + 40 + 90 = 156.\\]</p><p>Média atual: \\(156 \\div 40 = 3{,}9\\).</p><p><b>Com \\(n\\) novas avaliações de 5 estrelas</b>, a soma vira \\(156 + 5n\\) e o número de avaliações vira \\(40 + n\\). Queremos</p><p>\\[\\frac{156 + 5n}{40 + n} \\ge 4{,}2 \\;\\Rightarrow\\; 156 + 5n \\ge 168 + 4{,}2n \\;\\Rightarrow\\; 0{,}8n \\ge 12 \\;\\Rightarrow\\; n \\ge 15.\\]</p><p>Conferindo: com 15 novas, a média é \\(\\dfrac{156 + 75}{55} = \\dfrac{231}{55} = 4{,}2\\). Com 14, seria \\(\\dfrac{226}{54} \\approx 4{,}19\\), que não basta. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Manteve 40 no denominador: \\((156 + 5n) \\div 40 \\ge 4{,}2\\) dá \\(n \\ge 2{,}4\\), ou seja, 3. Mas cada nova avaliação também aumenta o número de avaliações.",
+      "B": "Dividiu os 12 pontos que faltam (\\(168 - 156\\)) por \\(5 - 3{,}9 = 1{,}1\\), comparando a nota 5 com a média antiga. O certo é comparar com a meta: cada avaliação de 5 estrelas fica \\(5 - 4{,}2 = 0{,}8\\) acima dela, e \\(12 \\div 0{,}8 = 15\\).",
+      "C": "Achou que faltavam 12 pontos (\\(4{,}2 \\cdot 40 - 156\\)) e que cada nova avaliação resolveria 1 ponto. Esqueceu que o número de avaliações também cresce."
+    },
+    "tip": "Quando entram novos dados, a média muda no numerador e no denominador: monte a fração inteira antes de comparar."
+  }
+]

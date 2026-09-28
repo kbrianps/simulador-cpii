@@ -1,0 +1,82 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Quem cozinha cuida",
+    "subtitle": null,
+    "author": "Lúcia Fontes",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Todo ano, no começo das férias, repete-se em muitas casas a mesma cena: o adolescente",
+      "abre a geladeira, olha longamente para dentro dela, fecha a porta e anuncia que “não",
+      "tem nada para comer”. Há ovos, arroz, tomate, um resto de feijão. Comida, portanto,",
+      "existe. O que falta é saber o que fazer com ela.",
+      "Saber cozinhar ainda é tratado como um talento especial, quase um dom, ou como",
+      "obrigação exclusiva de quem cuida da casa. Nem uma coisa nem outra. Cozinhar é uma",
+      "habilidade básica, como ler um mapa ou nadar, e deveria fazer parte da formação de",
+      "todo jovem, em casa e na escola.",
+      "A primeira razão é a autonomia. Quem sabe preparar um arroz, refogar legumes e fazer",
+      "um ovo não depende de ninguém para se alimentar bem, nem fica preso a lanches caros e",
+      "pouco nutritivos. Não se trata de formar chefs de restaurante, mas pessoas capazes de",
+      "se virar quando, cedo ou tarde, precisarem morar sozinhas.",
+      "A segunda razão é a divisão justa do trabalho dentro de casa. Enquanto cozinhar for",
+      "visto como “coisa de mãe” ou “coisa de avó”, alguém continuará acumulando a tarefa",
+      "sozinho, todos os dias, sem descanso nem reconhecimento. Aprender a cozinhar é também",
+      "aprender a dividir.",
+      "A escola, por sua vez, pode colaborar sem criar uma nova disciplina. Uma aula de",
+      "Ciências fica mais viva quando se observa a massa do pão crescer; as frações ganham",
+      "sentido numa receita que precisa ser dobrada para a turma inteira; a História aparece",
+      "no prato quando se descobre de onde vieram o feijão, a mandioca e o arroz que comemos.",
+      "No fim das contas, a cozinha é uma sala de aula que quase todas as casas já têm. Basta",
+      "abrir a porta para os mais jovens e ter a paciência de aceitar alguns ovos queimados",
+      "pelo caminho. Quem aprende a cozinhar aprende, antes de tudo, a cuidar de si e dos",
+      "outros."
+    ],
+    "para_starts": [
+      1,
+      5,
+      9,
+      13,
+      17,
+      21
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Cozinha, sim; currículo, com cuidado",
+    "subtitle": "Carta do leitor",
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Li com atenção o artigo “Quem cozinha cuida” e concordo que saber cozinhar dá",
+      "autonomia aos jovens. É verdade, também, que uma receita pode tornar mais concretas",
+      "algumas aulas. Discordo, porém, da ideia de que a escola deva assumir mais essa",
+      "tarefa.",
+      "Como professor, vejo todo ano novos temas chegando ao currículo, enquanto o número de",
+      "horas de aula continua o mesmo: cada novidade acaba ocupando o lugar de alguma coisa.",
+      "Além disso, em muitas escolas a cozinha mal dá conta de preparar a merenda. Como",
+      "ensinar receitas sem fogão nem panelas para todos?",
+      "Antes de pedir que a escola ensine a cozinhar, seria melhor garantir que ela tenha",
+      "estrutura para alimentar bem os seus alunos. A cozinha de casa, essa sim, pode e deve",
+      "se abrir para os filhos."
+    ],
+    "para_starts": [
+      1,
+      5,
+      9
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador. Carta de leitor fictício (Rodrigo A., professor).",
+    "glossary": [],
+    "epigraph": null
+  }
+]

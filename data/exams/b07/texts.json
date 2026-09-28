@@ -1,0 +1,75 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "O silêncio também é de todos",
+    "subtitle": null,
+    "author": "Helena Prado",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Quem mora em cidade grande aprende cedo a dormir com barulho. Buzinas, motos de",
+      "escapamento aberto, caixas de som no volume máximo e obras que começam antes das",
+      "sete fazem parte da rotina de milhões de brasileiros. O problema é que nos",
+      "acostumamos tanto que deixamos de enxergar o barulho como aquilo que ele muitas",
+      "vezes é: uma forma de poluição.",
+      "Ninguém precisa ser especialista para perceber os efeitos. Uma noite mal dormida por",
+      "causa do som do vizinho deixa qualquer pessoa irritada e desatenta no dia seguinte.",
+      "Estudantes que tentam ler perto de uma avenida movimentada sabem quanto custa manter",
+      "a concentração. E há quem sofra ainda mais: bebês, idosos, pessoas doentes e",
+      "trabalhadores que precisam dormir durante o dia.",
+      "Não se trata de proibir a alegria. A festa de aniversário, o ensaio da bateria da",
+      "escola de samba e a pelada na rua têm o seu lugar. O que defendo é que o silêncio",
+      "seja tratado como um bem comum, como a água limpa e a calçada livre. Ninguém tem o",
+      "direito de sujar o rio de todos; do mesmo modo, ninguém deveria ter o direito de",
+      "encher de ruído, a qualquer hora, o ar que todos respiram.",
+      "Leis sobre o assunto já existem em muitas cidades. Falta, porém, algo que nenhuma",
+      "lei resolve sozinha: a gentileza de lembrar que, do outro lado da parede, há alguém",
+      "tentando descansar."
+    ],
+    "para_starts": [
+      1,
+      6,
+      11,
+      16
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "A orquestra da janela",
+    "subtitle": null,
+    "author": "Caio Rezende",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "Meu primo do interior veio passar uma semana comigo e, na primeira noite, não pregou",
+      "o olho. Reclamou do ônibus que freava na esquina, do cachorro do prédio vizinho, do",
+      "vendedor de pamonha que passava anunciando o produto num alto-falante. Eu ri. Moro",
+      "aqui há vinte anos e já nem escuto essas coisas.",
+      "Na verdade, escuto, sim, mas de outro jeito. O barulho da rua, para mim, funciona",
+      "como um relógio. O caminhão do gás passa às nove; às onze, o menino do terceiro",
+      "andar começa a treinar trompete, sempre errando a mesma nota; no fim da tarde, a",
+      "feira desmonta as barracas num estrondo de ferro e de gente rindo. Quando tudo isso",
+      "para, fico inquieto, como quem percebe que o coração deu uma falhada.",
+      "No último dia, meu primo confessou que já estava gostando do trompete. Não sei se",
+      "foi educação ou costume. Sei que, de volta ao sítio, ele me mandou uma mensagem:",
+      "disse que o silêncio de lá estava alto demais."
+    ],
+    "para_starts": [
+      1,
+      5,
+      10
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

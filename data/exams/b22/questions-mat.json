@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na feira, seu Joaquim usa uma balança antiga, de dois pratos. Para descobrir a massa de um pacote de feijão, ele fez a seguinte arrumação, e a balança ficou em equilíbrio:</p><ul><li>no prato da esquerda, colocou 3 pacotes de feijão iguais e um peso de 200 g;</li><li>no prato da direita, colocou 1 pacote igual aos outros e um peso de 1 kg.</li></ul><p>A massa de cada pacote de feijão é</p>",
+    "options": {
+      "A": "200 g.",
+      "B": "300 g.",
+      "C": "400 g.",
+      "D": "600 g."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Seja \\(x\\) a massa de um pacote, em gramas. Lembrando que 1 kg = 1000 g, o equilíbrio da balança dá a equação</p><p>\\[3x + 200 = x + 1000.\\]</p><p>Retirando 1 pacote e 200 g de cada prato (a balança continua equilibrada):</p><p>\\[3x - x = 1000 - 200 \\ \\Rightarrow\\ 2x = 800 \\ \\Rightarrow\\ x = 400.\\]</p><p>Conferindo: esquerda \\(3 \\cdot 400 + 200 = 1400\\) g; direita \\(400 + 1000 = 1400\\) g. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Somou os pacotes em vez de retirar um de cada prato: \\(3x + x = 800\\), \\(x = 200\\). Aí a esquerda teria 800 g e a direita 1200 g.",
+      "B": "Errou os dois sinais ao passar os termos de lado: \\(3x + x = 1000 + 200\\), \\(x = 300\\).",
+      "D": "Passou o 200 somando: \\(2x = 1000 + 200\\), \\(x = 600\\). Aí a esquerda teria 2000 g e a direita 1600 g."
+    },
+    "tip": "Numa balança em equilíbrio, tirar a mesma coisa dos dois pratos é o mesmo que isolar a incógnita na equação."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A turma do 9º ano vai cercar a horta da escola, que tem a forma de um retângulo. O comprimento da horta mede 3 m a mais que o dobro da largura. Para cercar todo o contorno, foram usados exatamente 54 m de tela.</p><p>O comprimento da horta mede</p>",
+    "options": {
+      "A": "8 m.",
+      "B": "19 m.",
+      "C": "17 m.",
+      "D": "37 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame a largura de \\(x\\). Então o comprimento é \\(2x + 3\\).</p><p>O contorno do retângulo é o perímetro, que soma dois comprimentos e duas larguras:</p><p>\\[2x + 2(2x + 3) = 54 \\ \\Rightarrow\\ 2x + 4x + 6 = 54 \\ \\Rightarrow\\ 6x = 48 \\ \\Rightarrow\\ x = 8.\\]</p><p>A largura é 8 m, e o comprimento é \\(2 \\cdot 8 + 3 = 19\\) m.</p><p>Conferindo: \\(2 \\cdot 19 + 2 \\cdot 8 = 38 + 16 = 54\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "8 m é a largura. A equação foi resolvida corretamente, mas a pergunta é sobre o comprimento.",
+      "C": "Somou só um comprimento e uma largura (\\(x + 2x + 3 = 54\\)), esquecendo que o retângulo tem dois de cada lado, e respondeu a largura errada que encontrou, \\(x = 17\\).",
+      "D": "Somou só um comprimento e uma largura (\\(x + 2x + 3 = 54\\)), achou \\(x = 17\\) e calculou o comprimento \\(2 \\cdot 17 + 3 = 37\\). Mas o contorno seria \\(2 \\cdot 37 + 2 \\cdot 17 = 108\\) m."
+    },
+    "tip": "\"Contorno\" é perímetro: dois comprimentos mais duas larguras. E responda a medida que foi pedida."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um prédio, a água passa da caixa-d'água A para a caixa-d'água B por uma bomba. Às 7h, a caixa A tinha 500 litros e a caixa B tinha 100 litros. A partir desse momento:</p><ul><li>a caixa A passou a perder 15 litros por minuto;</li><li>a caixa B passou a receber 25 litros por minuto (parte dessa água vem de outra entrada).</li></ul><p>As duas caixas ficaram com a mesma quantidade de água depois de</p>",
+    "options": {
+      "A": "10 minutos.",
+      "B": "15 minutos.",
+      "C": "16 minutos.",
+      "D": "40 minutos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.alg.inequacoes_funcoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Depois de \\(t\\) minutos:</p><ul><li>caixa A: \\(500 - 15t\\) litros;</li><li>caixa B: \\(100 + 25t\\) litros.</li></ul><p>Igualando:</p><p>\\[500 - 15t = 100 + 25t \\ \\Rightarrow\\ 500 - 100 = 25t + 15t \\ \\Rightarrow\\ 400 = 40t \\ \\Rightarrow\\ t = 10.\\]</p><p>Conferindo: A fica com \\(500 - 150 = 350\\) L e B com \\(100 + 250 = 350\\) L. Resposta: <b>A</b>.</p><p>Outra forma de pensar: a diferença inicial é de 400 L, e a cada minuto ela diminui \\(15 + 25 = 40\\) L (uma caixa desce e a outra sobe). Então \\(400 \\div 40 = 10\\) minutos.</p>",
+    "distractors": {
+      "B": "Somou os volumes iniciais em vez de subtrair: \\((500 + 100) \\div 40 = 15\\).",
+      "C": "Considerou só a caixa B enchendo e dividiu a diferença por 25: \\(400 \\div 25 = 16\\), esquecendo que a caixa A também está baixando.",
+      "D": "Subtraiu as vazões (\\(25 - 15 = 10\\)) em vez de somá-las: \\(400 \\div 10 = 40\\). Como uma caixa perde e a outra ganha, a diferença entre elas diminui \\(15 + 25 = 40\\) L por minuto."
+    },
+    "tip": "Quando uma quantidade desce e a outra sobe, escreva as duas em função do tempo e iguale."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Ana e Bia combinaram de se encontrar em uma ciclovia reta de 66 km, partindo das extremidades opostas, uma na direção da outra.</p><ul><li>Ana saiu às 8h e pedalou sempre a 12 km/h.</li><li>Bia se atrasou e só saiu às 8h30, mas pedalou sempre a 18 km/h.</li></ul><p>As duas se encontraram às</p>",
+    "options": {
+      "A": "10h12.",
+      "B": "10h24.",
+      "C": "10h30.",
+      "D": "10h42."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Seja \\(t\\) o tempo, em horas, que Ana pedalou até o encontro. Bia saiu meia hora depois, então pedalou \\(t - 0{,}5\\) horas.</p><p>No encontro, as distâncias percorridas pelas duas somam os 66 km da ciclovia:</p><p>\\[12t + 18(t - 0{,}5) = 66 \\ \\Rightarrow\\ 12t + 18t - 9 = 66 \\ \\Rightarrow\\ 30t = 75 \\ \\Rightarrow\\ t = 2{,}5.\\]</p><p>Ana pedalou 2,5 h, isto é, 2 h 30 min. Saindo às 8h, o encontro foi às <b>10h30</b>.</p><p>Conferindo: Ana percorreu \\(12 \\cdot 2{,}5 = 30\\) km e Bia \\(18 \\cdot 2 = 36\\) km; \\(30 + 36 = 66\\) km. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Ignorou o atraso de Bia: \\(30t = 66\\), \\(t = 2{,}2\\) h \\(= 2\\) h 12 min, somado às 8h.",
+      "B": "Aplicou o atraso à pessoa errada: \\(12(t - 0{,}5) + 18t = 66\\), \\(t = 2{,}4\\) h \\(= 2\\) h 24 min.",
+      "D": "Calculou o encontro como se as duas saíssem juntas (2 h 12 min) e depois somou os 30 minutos de atraso."
+    },
+    "tip": "Quem sai depois pedala menos tempo: use t para uma e t − 0,5 para a outra, e some as distâncias."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante uma queda de energia, Lúcia acendeu ao mesmo tempo duas velas de mesma altura. As velas queimam em ritmo constante, mas são de espessuras diferentes:</p><ul><li>a vela grossa, sozinha, queima por inteiro em 4 horas;</li><li>a vela fina, sozinha, queima por inteiro em 3 horas.</li></ul><p>A altura da vela grossa ficou igual ao dobro da altura da vela fina depois de</p>",
+    "options": {
+      "A": "2 h.",
+      "B": "2 h 24 min.",
+      "C": "2 h 40 min.",
+      "D": "3 h."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq1",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Considere a altura inicial igual a 1 (a vela inteira). Por hora, a vela grossa perde \\(\\frac{1}{4}\\) da altura, e a fina perde \\(\\frac{1}{3}\\). Depois de \\(t\\) horas, restam:</p><ul><li>vela grossa: \\(1 - \\dfrac{t}{4}\\);</li><li>vela fina: \\(1 - \\dfrac{t}{3}\\).</li></ul><p>Queremos que a grossa seja o dobro da fina:</p><p>\\[1 - \\frac{t}{4} = 2\\left(1 - \\frac{t}{3}\\right) \\ \\Rightarrow\\ 1 - \\frac{t}{4} = 2 - \\frac{2t}{3}.\\]</p><p>Multiplicando tudo por 12: \\(12 - 3t = 24 - 8t\\), logo \\(5t = 12\\) e \\(t = 2{,}4\\) h.</p><p>Como \\(0{,}4\\) h \\(= 0{,}4 \\cdot 60 = 24\\) min, o tempo é <b>2 h 24 min</b>.</p><p>Conferindo: restam \\(1 - 0{,}6 = 0{,}4\\) da grossa e \\(1 - 0{,}8 = 0{,}2\\) da fina; de fato, 0,4 é o dobro de 0,2. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Testou só horas inteiras. Com 2 h, restam \\(\\frac{1}{2}\\) da grossa e \\(\\frac{1}{3}\\) da fina, e \\(\\frac{1}{2}\\) ainda não é o dobro de \\(\\frac{1}{3}\\).",
+      "C": "Resolveu a equação corretamente (\\(t = 2{,}4\\) h), mas converteu 2,4 h como se fosse 2 h 40 min. Na verdade, \\(0{,}4\\) h \\(= 24\\) min.",
+      "D": "Às 3 h, a vela fina acaba. Quem marca essa opção pode ter pensado no momento em que a diferença entre as velas fica maior, mas aí a fina tem altura zero, e a grossa (\\(\\frac{1}{4}\\)) não é o dobro de zero."
+    },
+    "tip": "Tempo decimal em horas: multiplique a parte decimal por 60 para achar os minutos (0,4 h = 24 min)."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>No sítio da avó de Pedro há apenas patos e cabras. Pedro contou 30 cabeças e 84 patas no total.</p><p>O número de cabras no sítio é</p>",
+    "options": {
+      "A": "12.",
+      "B": "15.",
+      "C": "18.",
+      "D": "21."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Seja \\(p\\) o número de patos e \\(c\\) o de cabras. Cada animal tem 1 cabeça; cada pato tem 2 patas e cada cabra, 4:</p><p>\\[\\begin{cases} p + c = 30 \\\\ 2p + 4c = 84 \\end{cases}\\]</p><p>Multiplicando a primeira equação por 2: \\(2p + 2c = 60\\). Subtraindo da segunda: \\(2c = 24\\), logo \\(c = 12\\) e \\(p = 18\\).</p><p>Conferindo: \\(2 \\cdot 18 + 4 \\cdot 12 = 36 + 48 = 84\\) patas. Resposta: <b>A</b>.</p><p>Raciocínio rápido: se os 30 animais fossem patos, haveria 60 patas. Sobram 24 patas, e cada cabra acrescenta 2 patas a mais que um pato: \\(24 \\div 2 = 12\\) cabras.</p>",
+    "distractors": {
+      "B": "Dividiu os 30 animais ao meio, sem usar a informação das patas.",
+      "C": "18 é o número de patos. O sistema foi resolvido, mas a resposta foi dada para a incógnita errada.",
+      "D": "Dividiu todas as patas por 4 (\\(84 \\div 4 = 21\\)), como se só houvesse cabras."
+    },
+    "tip": "Em problemas de cabeças e patas, suponha que todos são do tipo com menos patas e veja quantas patas \"sobram\"."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Léo e Téo colecionam bolinhas de gude e fizeram a seguinte observação:</p><ul><li>se Léo der 10 bolinhas para Téo, os dois ficarão com a mesma quantidade;</li><li>se, em vez disso, Téo der 10 bolinhas para Léo, Léo ficará com o dobro da quantidade de Téo.</li></ul><p>Juntos, Léo e Téo têm</p>",
+    "options": {
+      "A": "70 bolinhas.",
+      "B": "90 bolinhas.",
+      "C": "100 bolinhas.",
+      "D": "120 bolinhas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Seja \\(L\\) o número de bolinhas de Léo e \\(T\\) o de Téo.</p><p>Primeira condição: \\(L - 10 = T + 10\\), ou seja, \\(L = T + 20\\). (Atenção: a diferença entre eles é 20, e não 10, porque um perde 10 e o outro ganha 10.)</p><p>Segunda condição: \\(L + 10 = 2(T - 10)\\).</p><p>Substituindo \\(L = T + 20\\) na segunda:</p><p>\\[T + 20 + 10 = 2T - 20 \\ \\Rightarrow\\ T + 30 = 2T - 20 \\ \\Rightarrow\\ T = 50.\\]</p><p>Então \\(L = 70\\) e o total é \\(70 + 50 = 120\\).</p><p>Conferindo: \\(70 - 10 = 60 = 50 + 10\\) e \\(70 + 10 = 80 = 2 \\cdot 40\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "70 é a quantidade só de Léo; faltou somar as 50 de Téo.",
+      "B": "Achou que a diferença entre eles era 10 (\\(L = T + 10\\)), chegando a \\(T = 40\\) e \\(L = 50\\). Mas, se Léo der 10 bolinhas, ficaria com 40 e Téo com 50.",
+      "C": "Escreveu a segunda condição como \\(L + 10 = 2T - 10\\), multiplicando só o \\(T\\) por 2, e chegou a \\(T = 40\\) e \\(L = 60\\)."
+    },
+    "tip": "Numa troca, quem dá perde e quem recebe ganha: se ficam iguais depois de uma entrega de 10, a diferença era 20."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma linha de ônibus da cidade é identificada por um número de dois algarismos. Um passageiro curioso percebeu duas coisas sobre esse número:</p><ul><li>a soma dos seus dois algarismos é 11;</li><li>se os algarismos forem trocados de lugar, o novo número será 27 unidades maior que o número da linha.</li></ul><p>O número dessa linha de ônibus é</p>",
+    "options": {
+      "A": "29.",
+      "B": "38.",
+      "C": "74.",
+      "D": "47."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Chame de \\(a\\) o algarismo das dezenas e de \\(b\\) o das unidades. O número vale \\(10a + b\\), e o número com os algarismos trocados vale \\(10b + a\\).</p><p>\\[\\begin{cases} a + b = 11 \\\\ (10b + a) - (10a + b) = 27 \\end{cases}\\]</p><p>A segunda equação fica \\(9b - 9a = 27\\), isto é, \\(b - a = 3\\).</p><p>Somando com \\(a + b = 11\\): \\(2b = 14\\), então \\(b = 7\\) e \\(a = 4\\). O número é <b>47</b>.</p><p>Conferindo: \\(4 + 7 = 11\\) e \\(74 - 47 = 27\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "29 tem algarismos com soma 11, mas \\(92 - 29 = 63\\), e não 27. Verificou só a primeira condição.",
+      "B": "38 tem algarismos com soma 11, mas \\(83 - 38 = 45\\). Verificou só a primeira condição.",
+      "C": "74 é o número com os algarismos trocados. Quem troca os algarismos de 74 obtém 47, que é 27 unidades <b>menor</b>."
+    },
+    "tip": "Número de dois algarismos ab vale 10a + b; ao trocar os algarismos, a diferença é sempre 9 vezes a diferença dos algarismos."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma lanchonete prepara refresco de caju misturando dois refrescos prontos:</p><ul><li>o refresco do tipo A tem 20% de polpa de caju;</li><li>o refresco do tipo B tem 50% de polpa de caju.</li></ul><p>O dono quer obter 30 litros de mistura com exatamente 30% de polpa de caju.</p><p>A quantidade de refresco do tipo A que ele deve usar é</p>",
+    "options": {
+      "A": "10 litros.",
+      "B": "15 litros.",
+      "C": "20 litros.",
+      "D": "21 litros."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(x\\) a quantidade de refresco A e \\(y\\) a de refresco B, em litros.</p><ul><li>Volume total: \\(x + y = 30\\).</li><li>Polpa: 30% de 30 L é \\(0{,}3 \\cdot 30 = 9\\) L de polpa, então \\(0{,}2x + 0{,}5y = 9\\).</li></ul><p>Da primeira, \\(y = 30 - x\\). Substituindo:</p><p>\\[0{,}2x + 0{,}5(30 - x) = 9 \\ \\Rightarrow\\ 0{,}2x + 15 - 0{,}5x = 9 \\ \\Rightarrow\\ 0{,}3x = 6 \\ \\Rightarrow\\ x = 20.\\]</p><p>Então \\(y = 10\\).</p><p>Conferindo: \\(0{,}2 \\cdot 20 + 0{,}5 \\cdot 10 = 4 + 5 = 9\\) L de polpa em 30 L, que são 30%. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "10 litros é a quantidade de refresco B. O sistema foi resolvido, mas a resposta foi dada para a incógnita errada.",
+      "B": "Misturou metade de cada tipo. Assim a mistura teria \\(0{,}2 \\cdot 15 + 0{,}5 \\cdot 15 = 10{,}5\\) L de polpa, ou seja, 35%, e não 30%.",
+      "D": "Calculou os 9 L de polpa e subtraiu do total (\\(30 - 9 = 21\\)), confundindo a quantidade de polpa com a de refresco B."
+    },
+    "tip": "Em misturas, monte uma equação para o volume total e outra para a quantidade do ingrediente (porcentagem vezes volume)."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um barco faz passeios em um trecho de rio de 36 km. Descendo o rio (a favor da correnteza), ele percorre esse trecho em 2 horas; subindo o rio (contra a correnteza), leva 3 horas para percorrer o mesmo trecho.</p><p>Considere que a velocidade do barco em relação à água e a velocidade da correnteza são sempre as mesmas: descendo, as duas se somam; subindo, a da correnteza é descontada da do barco.</p><p>Se, em um dia de pane, o motor ficasse desligado e o barco fosse levado apenas pela correnteza, ele desceria esses 36 km em</p>",
+    "options": {
+      "A": "2 h 24 min.",
+      "B": "5 h.",
+      "C": "6 h.",
+      "D": "12 h."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sistemas",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(b\\) a velocidade do barco em relação à água e \\(c\\) a da correnteza, em km/h.</p><ul><li>Descendo: \\(b + c = 36 \\div 2 = 18\\).</li><li>Subindo: \\(b - c = 36 \\div 3 = 12\\).</li></ul><p>\\[\\begin{cases} b + c = 18 \\\\ b - c = 12 \\end{cases}\\]</p><p>Somando: \\(2b = 30\\), \\(b = 15\\) km/h. Então \\(c = 18 - 15 = 3\\) km/h.</p><p>Só com a correnteza, o barco anda a 3 km/h. Para percorrer 36 km: \\(36 \\div 3 = 12\\) horas. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou a velocidade do barco em vez da correnteza: \\(36 \\div 15 = 2{,}4\\) h \\(= 2\\) h 24 min. Mas com o motor desligado o barco não tem velocidade própria.",
+      "B": "Somou os tempos de descida e de subida (\\(2 + 3 = 5\\)), sem montar o sistema.",
+      "C": "Achou a correnteza pela diferença \\(18 - 12 = 6\\) km/h, esquecendo de dividir por 2 (essa diferença é \\(2c\\)). Com 6 km/h, obteve \\(36 \\div 6 = 6\\) h."
+    },
+    "tip": "Barco e correnteza: descendo, b + c; subindo, b − c. Somando e subtraindo as duas equações você acha cada velocidade."
+  }
+]

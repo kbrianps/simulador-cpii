@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma livraria oferece 15% de desconto aos professores em qualquer livro. A professora Denise escolheu um dicionário cujo preço de etiqueta é R$ 180,00.</p><p>Com o desconto, Denise pagará pelo dicionário</p>",
+    "options": {
+      "A": "R$ 153,00.",
+      "B": "R$ 162,00.",
+      "C": "R$ 165,00.",
+      "D": "R$ 207,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro calculamos o valor do desconto: 15% de R$ 180,00.</p><p>\\[0{,}15 \\cdot 180 = 27\\]</p><p>O desconto é de R$ 27,00. Tirando esse valor do preço de etiqueta:</p><p>\\[180 - 27 = 153\\]</p><p>Outro caminho: com 15% de desconto, paga-se 85% do preço, e \\(0{,}85 \\cdot 180 = 153\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Aplicou um desconto de 10% (R$ 18,00) em vez de 15%.",
+      "C": "Tirou 15 reais do preço, em vez de 15 por cento. “15%” é uma fração do preço (15 em cada 100), e não 15 reais.",
+      "D": "Somou os 15% ao preço (\\(180 + 27\\)), como se fosse um acréscimo. Desconto diminui o valor."
+    },
+    "tip": "Desconto de 15% significa pagar 85%: multiplique o preço por 0,85."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A passagem do ônibus intermunicipal entre duas cidades vizinhas custava R$ 8,50. Depois de um reajuste, passou a custar R$ 9,35.</p><p>Em relação ao preço antigo, o aumento da passagem foi de</p>",
+    "options": {
+      "A": "10%.",
+      "B": "11%.",
+      "C": "85%.",
+      "D": "110%."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O aumento, em reais, foi de</p><p>\\[9{,}35 - 8{,}50 = 0{,}85\\]</p><p>Para saber quanto isso representa em relação ao preço <b>antigo</b>, dividimos pelo preço antigo:</p><p>\\[\\dfrac{0{,}85}{8{,}50} = \\dfrac{85}{850} = \\dfrac{1}{10} = 0{,}10 = 10\\%\\]</p><p>Conferindo: 10% de R$ 8,50 é R$ 0,85, e \\(8{,}50 + 0{,}85 = 9{,}35\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou \\(9{,}35 \\div 8{,}50 = 1{,}1\\) e leu 1,1 como 11%. Na verdade 1,1 significa 110% do preço antigo, ou seja, um aumento de 10%.",
+      "C": "Leu o aumento de R$ 0,85 como se fosse 85%. Um valor em reais só vira porcentagem depois de ser dividido pelo preço de referência.",
+      "D": "É a razão entre o preço novo e o antigo (1,1 = 110%). Ela mostra quanto o preço novo representa do antigo, e não quanto ele aumentou: o aumento é 110% - 100% = 10%."
+    },
+    "tip": "Aumento percentual = (valor novo - valor antigo) ÷ valor antigo."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para ajudar a pagar a viagem de formatura, Bruno aplicou R$ 1.200,00 em um investimento que rende <b>juros simples</b> de 0,5% ao mês. Ele não fará depósitos nem retiradas durante a aplicação.</p><p>Ao final de 8 meses, o valor total que Bruno terá nesse investimento será de</p>",
+    "options": {
+      "A": "R$ 48,00.",
+      "B": "R$ 1.206,00.",
+      "C": "R$ 1.248,00.",
+      "D": "R$ 1.680,00."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.financeira",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Em juros simples, os juros de cada mês são sempre calculados sobre o valor aplicado no início, R$ 1.200,00.</p><p>Juros de um mês: \\(0{,}5\\%\\) de 1.200 \\(= 0{,}005 \\cdot 1.200 = 6\\), ou seja, R$ 6,00.</p><p>Juros de 8 meses: \\(8 \\cdot 6 = 48\\), ou seja, R$ 48,00.</p><p>Valor total (montante): \\(1.200 + 48 = 1.248\\).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "São só os juros dos 8 meses. A pergunta pede o valor total, que inclui os R$ 1.200,00 aplicados.",
+      "B": "Considerou os juros de apenas um mês (R$ 6,00). Em 8 meses, os juros se repetem 8 vezes.",
+      "D": "Usou 5% ao mês em vez de 0,5%: \\(0{,}05 \\cdot 1.200 \\cdot 8 = 480\\). Atenção à vírgula: 0,5% = 0,005."
+    },
+    "tip": "Juros simples: J = capital × taxa × tempo, e o montante é capital + J."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lia preparou 2 litros de um refresco de caju em que 15% do volume é suco concentrado e o restante é água. Achou o sabor forte demais e resolveu acrescentar <b>apenas água</b> à jarra, até que o suco concentrado passasse a representar 10% do volume total do refresco.</p><p>Para isso, Lia deve acrescentar</p>",
+    "options": {
+      "A": "0,1 litro de água.",
+      "B": "0,3 litro de água.",
+      "C": "1 litro de água.",
+      "D": "3 litros de água."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A quantidade de suco concentrado não muda quando se acrescenta água. Ela é</p><p>\\[15\\% \\text{ de } 2 \\text{ L} = 0{,}15 \\cdot 2 = 0{,}3 \\text{ L}\\]</p><p>Depois de acrescentar a água, esses 0,3 L devem ser 10% do volume total \\(V\\):</p><p>\\[0{,}10 \\cdot V = 0{,}3 \\Rightarrow V = 3 \\text{ L}\\]</p><p>O refresco passa de 2 L para 3 L, então Lia deve acrescentar \\(3 - 2 = 1\\) litro de água.</p><p>Conferindo: \\(0{,}3 \\div 3 = 0{,}1 = 10\\%\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou 5% de 2 L (a diferença entre 15% e 10%). Mas, ao acrescentar água, o total muda, e os 10% passam a ser calculados sobre um volume maior.",
+      "B": "0,3 L é a quantidade de suco concentrado, que continua a mesma. A pergunta é quanto de água acrescentar.",
+      "D": "3 L é o volume final do refresco. Como já havia 2 L na jarra, só é preciso acrescentar a diferença."
+    },
+    "tip": "Ao diluir, a quantidade do ingrediente fica fixa; use-a para achar o novo total."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A conta mensal de internet da casa de Vítor, no valor de R$ 150,00, foi paga com 10 dias de atraso. Para pagamentos atrasados, a empresa cobra:</p><ul><li>multa de 2% sobre o valor da conta, cobrada uma única vez;</li><li>juros simples de 0,1% ao dia de atraso, também calculados sobre o valor da conta.</li></ul><p>O valor total pago por Vítor foi de</p>",
+    "options": {
+      "A": "R$ 154,50.",
+      "B": "R$ 168,00.",
+      "C": "R$ 181,50.",
+      "D": "R$ 195,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.financeira",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Multa (uma única vez): \\(2\\%\\) de 150 \\(= 0{,}02 \\cdot 150 = 3\\), ou seja, R$ 3,00.</p><p>Juros de um dia: \\(0{,}1\\%\\) de 150 \\(= 0{,}001 \\cdot 150 = 0{,}15\\), ou seja, R$ 0,15.</p><p>Juros de 10 dias: \\(10 \\cdot 0{,}15 = 1{,}50\\), ou seja, R$ 1,50.</p><p>Total: \\(150 + 3 + 1{,}50 = 154{,}50\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Usou juros de 1% ao dia (R$ 1,50 por dia, R$ 15,00 em 10 dias) em vez de 0,1%. Lembre: 0,1% = 0,001.",
+      "C": "Cobrou a multa de 2% em cada um dos 10 dias (R$ 30,00). A multa é cobrada uma única vez; só os juros dependem dos dias.",
+      "D": "Cometeu os dois erros ao mesmo tempo: multa repetida por 10 dias (R$ 30,00) e juros de 1% ao dia (R$ 15,00)."
+    },
+    "tip": "Multa é cobrada uma vez; juros de mora se acumulam por dia. Calcule cada um separadamente."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na baixa temporada, um parque aquático reduziu em 20% o preço do ingresso, que era de R$ 60,00. Quando chegou a alta temporada, o parque decidiu que o ingresso voltaria a custar exatamente o preço original, R$ 60,00.</p><p>Para isso, o preço cobrado na baixa temporada precisou sofrer um aumento de</p>",
+    "options": {
+      "A": "20%.",
+      "B": "25%.",
+      "C": "80%.",
+      "D": "125%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Preço na baixa temporada: com 20% de desconto, paga-se 80% do preço original.</p><p>\\[0{,}80 \\cdot 60 = 48\\]</p><p>Para voltar a R$ 60,00, o ingresso precisa aumentar \\(60 - 48 = 12\\) reais. Esse aumento é calculado sobre o preço <b>atual</b>, R$ 48,00:</p><p>\\[\\dfrac{12}{48} = \\dfrac{1}{4} = 25\\%\\]</p><p>Por que não 20%? Porque 20% de R$ 48,00 é só R$ 9,60, e o ingresso iria para R$ 57,60. O desconto foi calculado sobre R$ 60,00, e o aumento é calculado sobre um valor menor, R$ 48,00; por isso a porcentagem do aumento precisa ser maior.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Achou que bastava aumentar a mesma porcentagem do desconto. Mas os 20% de aumento seriam calculados sobre R$ 48,00 e levariam o ingresso só a R$ 57,60.",
+      "C": "80% é quanto o preço da baixa temporada representa do preço original (R$ 48,00 de R$ 60,00), e não o aumento necessário.",
+      "D": "Calculou \\(60 \\div 48 = 1{,}25\\) e leu como 125%. Esse número diz que o preço original é 125% do preço reduzido, ou seja, 25% a mais."
+    },
+    "tip": "Depois de um desconto, voltar ao preço original exige um aumento percentual maior que o desconto, porque a base do cálculo ficou menor."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Seu Ari, dono de uma oficina de bicicletas, precisa de um empréstimo de R$ 2.000,00 por 3 meses e recebeu duas propostas, ambas com taxa de 10% ao mês e com toda a dívida paga de uma vez no fim dos 3 meses:</p><ul><li>proposta 1: juros simples;</li><li>proposta 2: juros compostos.</li></ul><p>A diferença entre o valor que ele pagaria na proposta 2 e o valor que pagaria na proposta 1 é de</p>",
+    "options": {
+      "A": "R$ 20,00.",
+      "B": "R$ 62,00.",
+      "C": "R$ 600,00.",
+      "D": "R$ 662,00."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.financeira"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Proposta 1 (juros simples):</b> os juros de cada mês são 10% de 2.000, isto é, R$ 200,00. Em 3 meses: \\(3 \\cdot 200 = 600\\). Total: R$ 2.600,00.</p><p><b>Proposta 2 (juros compostos):</b> a cada mês, a dívida é multiplicada por 1,1.</p><ul><li>após o 1º mês: \\(2.000 \\cdot 1{,}1 = 2.200\\);</li><li>após o 2º mês: \\(2.200 \\cdot 1{,}1 = 2.420\\);</li><li>após o 3º mês: \\(2.420 \\cdot 1{,}1 = 2.662\\).</li></ul><p>Diferença: \\(2.662 - 2.600 = 62\\), ou seja, R$ 62,00.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a diferença ao final de apenas 2 meses (\\(2.420 - 2.400\\)). O empréstimo dura 3 meses.",
+      "C": "São os juros da proposta 1 (juros simples), e não a diferença entre as duas propostas.",
+      "D": "São os juros da proposta 2 (\\(2.662 - 2.000\\)). A pergunta compara as duas propostas."
+    },
+    "tip": "Nos juros compostos, os juros de cada mês incidem sobre o saldo já acrescido dos juros anteriores."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um aquário tem 40 peixes, dos quais 40% são peixes-néon e os demais são de outras espécies. Para evitar disputas por espaço, o dono decidiu transferir alguns peixes-néon (e somente eles) para outro aquário, de modo que os peixes-néon passem a ser exatamente 25% dos peixes que ficarem no primeiro aquário.</p><p>O número de peixes-néon que devem ser transferidos é</p>",
+    "options": {
+      "A": "6.",
+      "B": "8.",
+      "C": "10.",
+      "D": "12."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No início há \\(0{,}40 \\cdot 40 = 16\\) peixes-néon e \\(40 - 16 = 24\\) peixes de outras espécies. Os 24 não saem do aquário.</p><p>Seja \\(r\\) o número de néons que <b>ficam</b>. O total de peixes passa a ser \\(24 + r\\), e queremos:</p><p>\\[r = \\dfrac{1}{4}(24 + r) \\Rightarrow 4r = 24 + r \\Rightarrow 3r = 24 \\Rightarrow r = 8\\]</p><p>Ficam 8 néons, então devem ser transferidos \\(16 - 8 = 8\\).</p><p>Conferindo: restam \\(24 + 8 = 32\\) peixes, e \\(8 \\div 32 = 0{,}25 = 25\\%\\). Resposta: <b>B</b>.</p><p>Outro jeito: se os néons forem 25%, os outros peixes serão 75%. Como os outros são 24, o total é \\(24 \\div 0{,}75 = 32\\).</p>",
+    "distractors": {
+      "A": "Calculou 25% de 40 = 10 e deixou 10 néons (transferindo 6). Mas, ao tirar peixes, o total do aquário também diminui: 10 néons em 34 peixes são cerca de 29%, e não 25%.",
+      "C": "Transferiu 25% de 40 = 10 peixes. Restariam 6 néons em 30 peixes, isto é, 20%.",
+      "D": "Deixou 25% dos néons (4 dos 16). Mas os 25% devem ser calculados sobre o total de peixes que ficam: 4 em 28 é cerca de 14%."
+    },
+    "tip": "Quando uma parte sai do grupo, o total muda; ancore o cálculo na parte que não muda."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma loja vende um videogame por R$ 900,00 à vista. A outra opção é pagar em 2 parcelas de R$ 500,00: a primeira no dia da compra e a segunda 30 dias depois.</p><p>Na opção parcelada, a loja está cobrando, na prática, juros mensais de</p>",
+    "options": {
+      "A": "10%.",
+      "B": "11,1%, aproximadamente.",
+      "C": "20%.",
+      "D": "25%."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.financeira",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Compare as duas opções no dia da compra. Na parcelada, o cliente paga R$ 500,00 na hora. Como o preço à vista é R$ 900,00, é como se ele ficasse devendo</p><p>\\[900 - 500 = 400 \\text{ reais}\\]</p><p>Um mês depois, ele quita essa dívida de R$ 400,00 pagando R$ 500,00. Os juros foram de R$ 100,00 sobre uma dívida de R$ 400,00:</p><p>\\[\\dfrac{100}{400} = \\dfrac{1}{4} = 25\\% \\text{ ao mês}\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Dividiu os R$ 100,00 de diferença pelo total parcelado, R$ 1.000,00. Os juros devem ser comparados com o valor que ficou devendo, R$ 400,00.",
+      "B": "Calculou \\(100 \\div 900\\): comparou os juros com o preço à vista inteiro. Mas R$ 500,00 foram pagos na hora e não pagam juros; só R$ 400,00 ficaram financiados.",
+      "C": "Calculou \\(100 \\div 500\\), comparando os juros com a segunda parcela. A parcela já inclui os juros; a dívida era de R$ 400,00."
+    },
+    "tip": "Em parcelamentos com entrada, desconte a entrada do preço à vista: o que sobra é o valor realmente financiado."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma artesã gasta R$ 36,00 em material para fazer cada pulseira que vende. Ela quer fixar o preço de venda de modo que o lucro em cada pulseira seja igual a 20% do <b>preço de venda</b>.</p><p>O preço de venda de cada pulseira deve ser</p>",
+    "options": {
+      "A": "R$ 28,80.",
+      "B": "R$ 30,00.",
+      "C": "R$ 43,20.",
+      "D": "R$ 45,00."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(V\\) o preço de venda. O lucro é \\(V - 36\\), e ele deve ser 20% de \\(V\\):</p><p>\\[V - 36 = 0{,}2\\,V \\Rightarrow V - 0{,}2\\,V = 36 \\Rightarrow 0{,}8\\,V = 36 \\Rightarrow V = \\dfrac{36}{0{,}8} = 45\\]</p><p>Conferindo: vendendo por R$ 45,00, o lucro é \\(45 - 36 = 9\\), e 20% de 45 é exatamente 9.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou \\(36 \\cdot 0{,}8\\), tirando 20% do custo. Assim ela venderia por menos do que gasta, com prejuízo.",
+      "B": "Calculou \\(36 \\div 1{,}2\\). Esse número é menor que o custo e também daria prejuízo.",
+      "C": "Calculou o lucro como 20% do custo (\\(36 \\cdot 1{,}2\\)). O lucro seria R$ 7,20, que é só 16,7% do preço de venda R$ 43,20. O enunciado pede 20% sobre o preço de venda."
+    },
+    "tip": "Lucro sobre o preço de venda: custo = (1 - taxa) × venda; divida o custo por 0,8, não multiplique por 1,2."
+  }
+]

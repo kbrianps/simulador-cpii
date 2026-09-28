@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 350" width="480" height="350" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="480" height="350" fill="#ffffff"/>
+  <polygon points="240.0,35.0 287.9,306.6 100.8,160.4 371.6,127.1 157.7,288.3 240.0,35.0" fill="#fff4cc" stroke="#b8860b" stroke-width="3" fill-rule="nonzero"/>
+  <text x="240.0" y="21.0" text-anchor="middle" font-weight="bold">A</text>
+  <text x="236.0" y="97.9" text-anchor="middle" fill="#c0392b" font-size="15" font-style="italic" font-weight="bold">x</text>
+  <text x="390.4" y="126.3" text-anchor="middle" font-weight="bold">B</text>
+  <text x="317.8" y="153.8" text-anchor="middle" fill="#c0392b" font-size="15">30°</text>
+  <text x="294.7" y="331.4" text-anchor="middle" font-weight="bold">C</text>
+  <text x="258.0" y="261.8" text-anchor="middle" fill="#c0392b" font-size="15">42°</text>
+  <text x="146.0" y="310.4" text-anchor="middle" font-weight="bold">D</text>
+  <text x="191.4" y="246.0" text-anchor="middle" fill="#c0392b" font-size="15">35°</text>
+  <text x="80.9" y="164.3" text-anchor="middle" font-weight="bold">E</text>
+  <text x="156.7" y="180.9" text-anchor="middle" fill="#c0392b" font-size="15">45°</text>
+</svg>

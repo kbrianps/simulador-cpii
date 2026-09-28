@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="480" height="300" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="480" height="300" fill="#ffffff"/>
+  <line x1="20" y1="230" x2="250" y2="230" stroke="#7a6a50" stroke-width="2"/>
+  <line x1="70" y1="230" x2="70" y2="140" stroke="#8a5a2b" stroke-width="8"/>
+  <circle cx="70" cy="112" r="42" fill="#bfe3b4" stroke="#2e7d32" stroke-width="2"/>
+  <line x1="70" y1="70" x2="420" y2="182.0" stroke="#e0a100" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="70" y1="230" x2="420" y2="118.0" stroke="#e0a100" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="320" y1="95" x2="320" y2="144" stroke="#333" stroke-width="4"/>
+  <line x1="320" y1="156" x2="320" y2="205" stroke="#333" stroke-width="4"/>
+  <polyline points="320,95 420,95 420,205 320,205" fill="none" stroke="#333" stroke-width="4"/>
+  <line x1="414" y1="118.0" x2="414" y2="182.0" stroke="#2e7d32" stroke-width="4"/>
+  <line x1="45" y1="70" x2="45" y2="230" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="32.0" y="155.0" text-anchor="middle" fill="#c0392b" font-style="italic" font-weight="bold">h</text>
+  <line x1="70" y1="262" x2="320" y2="262" stroke="#555" stroke-width="1.5"/>
+  <text x="195.0" y="282.0" text-anchor="middle" font-size="15">12 m</text>
+  <line x1="320" y1="222" x2="420" y2="222" stroke="#555" stroke-width="1.5"/>
+  <text x="370.0" y="242.0" text-anchor="middle" font-size="15">15 cm</text>
+  <text x="450.0" y="155.0" text-anchor="middle" font-size="15">4 cm</text>
+  <text x="306.0" y="132.0" text-anchor="end" font-size="14" fill="#555">furo</text>
+  <text x="370.0" y="85.0" text-anchor="middle" font-size="14" fill="#555">caixa</text>
+</svg>

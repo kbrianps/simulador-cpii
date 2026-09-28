@@ -1,0 +1,271 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o aviso publicado na página de um planetário.</p><blockquote><p>“Às terças-feiras, a entrada no planetário é gratuita. Venha <b><u>nos</u></b> visitar e traga a família!”</p></blockquote><p>No aviso, o pronome destacado refere-se</p>",
+    "options": {
+      "A": "aos leitores do aviso, convidados a ir ao planetário.",
+      "B": "à equipe do planetário, que escreve o aviso.",
+      "C": "às famílias convidadas para a visita.",
+      "D": "aos dias de entrada gratuita."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Nos” é pronome de primeira pessoa do plural: aponta para <b>quem fala</b> (“nós”). Quem escreve o aviso é o planetário, isto é, as pessoas que trabalham lá.</p><p>O convite é “venha visitar <b>a nós</b>”, ou seja, venha visitar o planetário. O leitor é chamado de “você”, implícito nos verbos “venha” e “traga”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Os leitores são quem recebe o convite, tratados por “você” (“venha”, “traga”). “Nos” representa quem convida.",
+      "C": "A família é quem vai acompanhar o leitor na visita; ela não é visitada, e “nos” é primeira pessoa, que indica quem escreve.",
+      "D": "Um pronome pessoal oblíquo como “nos” se refere a pessoas do discurso, não a dias da semana. Ninguém visita as terças-feiras."
+    },
+    "tip": "Pronomes de primeira pessoa (eu, nós, me, nos) apontam para quem produz o texto; os de segunda (você, te), para quem o lê."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Marina foi a primeira a chegar à escola. Abriu as janelas da sala, ligou os ventiladores e organizou as carteiras em círculo para o debate.”</p></blockquote><p>Nesse trecho, a retomada de “Marina” nas orações da segunda frase acontece por meio</p>",
+    "options": {
+      "A": "do pronome pessoal “ela”, colocado no início da segunda frase.",
+      "B": "da repetição do nome próprio “Marina” antes de cada verbo.",
+      "C": "da substituição por uma expressão equivalente, como “a aluna”.",
+      "D": "da omissão do sujeito, que é reconhecido pelas terminações dos verbos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Leia a segunda frase: “Abriu as janelas da sala, ligou os ventiladores e organizou as carteiras”. Quem fez essas ações? Marina. Mas o nome dela não aparece de novo, nem um pronome.</p><p>O sujeito foi <b>omitido</b> porque o leitor o identifica pelo contexto e pelas terminações dos verbos (abriu, ligou, organizou: 3ª pessoa do singular). Esse recurso de coesão se chama <b>elipse</b> e evita repetições como “Marina abriu..., Marina ligou..., Marina organizou...”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O pronome “ela” poderia ter sido usado, mas não está escrito no trecho. Confira sempre se a palavra citada na alternativa aparece no texto.",
+      "B": "O nome “Marina” aparece só uma vez, na primeira frase. Não há repetição.",
+      "C": "Nenhuma expressão como “a aluna” ou “a estudante” aparece na segunda frase. A retomada é feita sem palavra nenhuma."
+    },
+    "tip": "Quando o sujeito some mas o leitor sabe quem é, pela terminação do verbo, a coesão foi feita por elipse."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“O mico-leão-dourado vive apenas em trechos de Mata Atlântica do estado do Rio de Janeiro. Por causa do desmatamento, <b><u>o pequeno primata</u></b> chegou a ficar muito perto da extinção.”</p></blockquote><p>A expressão destacada</p>",
+    "options": {
+      "A": "retoma “o mico-leão-dourado”, evitando a repetição do nome do animal.",
+      "B": "refere-se a um filhote de mico-leão-dourado, já que é chamado de “pequeno”.",
+      "C": "apresenta ao leitor outro animal da Mata Atlântica.",
+      "D": "retoma “Mata Atlântica”, ameaçada pelo desmatamento."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O segundo período continua falando do mesmo animal. Em vez de repetir “o mico-leão-dourado”, o texto usa “o pequeno primata”: o mico é um macaco, isto é, um primata, e é um animal de pequeno porte.</p><p>Esse tipo de retomada, feita com outra palavra ou expressão de sentido mais geral, é a <b>substituição lexical</b>. O artigo definido “o” ajuda a mostrar que se trata de algo já conhecido do leitor.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Pequeno” descreve o tamanho da espécie, que é pequena mesmo quando adulta. O texto não fala de filhotes, e sim da espécie inteira quase desaparecer.",
+      "C": "Se fosse outro animal, o texto usaria o artigo indefinido (“um pequeno primata”) e o apresentaria. O artigo “o” indica que o animal já foi mencionado.",
+      "D": "A Mata Atlântica é uma floresta, não um primata. É o animal que chegou perto da extinção."
+    },
+    "tip": "Uma expressão com artigo definido (“o pequeno primata”, “o animal”) costuma retomar algo já citado com outras palavras."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“O técnico conversou com o atacante depois que <b><u>ele</u></b> foi expulso.”</p></blockquote><p>O pronome destacado deixa a frase ambígua, pois pode se referir tanto ao técnico quanto ao atacante. Assinale a reescrita que elimina a ambiguidade, deixando claro que quem foi expulso foi o atacante.</p>",
+    "options": {
+      "A": "Depois que ele foi expulso, o técnico conversou com o atacante.",
+      "B": "O técnico, depois que foi expulso, conversou com o atacante.",
+      "C": "O técnico conversou com o atacante depois da expulsão do jogador.",
+      "D": "O técnico conversou com o atacante depois que o mesmo foi expulso."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.transformacoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Precisamos de uma frase em que só o atacante possa ter sido expulso.</p><p>Em C, a expulsão é “do jogador”. O técnico não é jogador; o atacante é. Assim, a substituição lexical (“o jogador”) aponta para um único referente, e a ambiguidade desaparece.</p><p>Nas outras reescritas, a dúvida continua ou o sentido muda.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Mudar a oração de lugar não resolve: “ele” continua podendo ser o técnico ou o atacante, e agora o pronome aparece até antes dos dois nomes.",
+      "B": "Aqui a ambiguidade some, mas no sentido errado: o sujeito de “foi expulso” passa a ser o técnico.",
+      "D": "“O mesmo” funciona como o pronome “ele” e continua servindo para os dois homens. Além disso, esse uso de “o mesmo” para retomar pessoas é considerado inadequado."
+    },
+    "tip": "Quando um pronome pode retomar dois nomes do mesmo gênero e número, troque-o por uma expressão que só combine com um deles."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Muita gente diz que guardar moedas é perda de tempo. Dona Célia não pensa <b><u>assim</u></b>: em um ano, encheu três potes e pagou o passeio da família ao zoológico.”</p></blockquote><p>A palavra destacada retoma</p>",
+    "options": {
+      "A": "o hábito de dona Célia de guardar moedas.",
+      "B": "a opinião de que guardar moedas é perda de tempo.",
+      "C": "os três potes cheios de moedas.",
+      "D": "o passeio da família ao zoológico."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Pensar assim” é pensar <b>desse modo</b>, isto é, ter a mesma opinião que acabou de ser apresentada. A opinião citada logo antes é a de “muita gente”: guardar moedas é perda de tempo.</p><p>Dona Célia <b>não</b> pensa assim: para ela, guardar moedas vale a pena, e os dois-pontos introduzem a prova disso (os potes cheios e o passeio pago). A palavra “assim” resume uma ideia inteira, e não apenas um nome.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Guardar moedas é o que dona Célia faz, e ela obviamente aprova esse hábito. Se “assim” retomasse o hábito, a frase diria que ela não pensa em guardar moedas, contradizendo o que vem depois.",
+      "C": "Os potes aparecem depois da palavra destacada, como exemplo do resultado. Não faz sentido “pensar” potes.",
+      "D": "O passeio também vem depois dos dois-pontos e é uma consequência da economia. “Assim” olha para trás, para a opinião apresentada antes."
+    },
+    "tip": "Palavras como “assim”, “isso” e “tal” podem retomar uma ideia inteira: pergunte “pensar de que modo?” e procure a resposta no período anterior."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Um vira-lata caramelo apareceu na portaria do prédio numa noite de chuva. O porteiro deu-<b><u>lhe</u></b> água e um pedaço de pão. No dia seguinte, <b><u>o animal</u></b> já abanava o rabo para todos, e hoje <b><u>o novo morador</u></b> tem até casinha no jardim.”</p></blockquote><p>As expressões destacadas referem-se</p>",
+    "options": {
+      "A": "ao porteiro, ao vira-lata e a um vizinho que chegou ao prédio, respectivamente.",
+      "B": "à portaria, ao vira-lata e ao porteiro, respectivamente.",
+      "C": "ao vira-lata, ao porteiro e a um vizinho que chegou ao prédio, respectivamente.",
+      "D": "todas ao vira-lata caramelo."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Siga o cachorro pelo texto:</p><ul><li>“O porteiro deu-<b>lhe</b> água”: deu água a quem? Ao vira-lata que apareceu na portaria.</li><li>“<b>o animal</b> já abanava o rabo”: quem abana o rabo é o cachorro.</li><li>“<b>o novo morador</b> tem até casinha no jardim”: casinha no jardim é coisa de cachorro; ele passou a “morar” no prédio.</li></ul><p>As três expressões retomam o vira-lata caramelo, cada uma de um jeito: por pronome (“lhe”) e por expressões com outras palavras (“o animal”, “o novo morador”).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O porteiro é quem dá a água, então “lhe” não pode ser ele mesmo. E “o novo morador” não é uma pessoa: quem ganhou casinha no jardim foi o cachorro.",
+      "B": "Não se dá água a uma portaria. E “o novo morador” é quem tem a casinha, não o porteiro, que já trabalhava no prédio.",
+      "C": "“O animal” é o cachorro, não o porteiro; e a casinha no jardim mostra que “o novo morador” também é o vira-lata."
+    },
+    "tip": "Para achar o referente, faça a pergunta ao verbo (deu água a quem? quem tem casinha?) e confira se a resposta combina com o contexto."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“A praça <b><u>cujos</u></b> bancos foram reformados pelos moradores ganhou também uma horta comunitária.”</p></blockquote><p>O pronome relativo destacado estabelece uma relação de posse entre</p>",
+    "options": {
+      "A": "os bancos e a praça.",
+      "B": "os bancos e os moradores.",
+      "C": "a horta e a praça.",
+      "D": "os moradores e a horta."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O pronome relativo “cujo” (e suas formas cuja, cujos, cujas) liga um <b>possuidor</b>, que vem antes dele, a uma coisa <b>possuída</b>, que vem logo depois.</p><p>Antes de “cujos” está “a praça”; logo depois, “bancos”. Então: os bancos <b>da praça</b>. Reescrevendo em duas frases: “A praça ganhou também uma horta comunitária. Os bancos <b>da praça</b> foram reformados pelos moradores.” O “cujos” evita repetir “praça” e ainda indica a posse.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Os moradores reformaram os bancos, mas os bancos não são deles: são da praça. “Pelos moradores” indica quem fez a reforma (agente da passiva), não o dono.",
+      "C": "A horta aparece em outra parte da frase (“ganhou também uma horta”). O pronome “cujos” concorda com “bancos”, a palavra que vem logo depois dele.",
+      "D": "Os moradores não estão ligados ao pronome “cujos”. Ele sempre fica entre o possuidor e o que é possuído."
+    },
+    "tip": "“Cujo” fica entre o dono e a coisa: “a praça cujos bancos” = “os bancos da praça”. Ele concorda com a coisa possuída."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Pedro e Caio disputaram a final do torneio de xadrez da escola. <b><u>Este</u></b> venceu com um xeque-mate de cavalo; <b><u>aquele</u></b> pediu revanche para a semana seguinte.”</p></blockquote><p>De acordo com o trecho,</p>",
+    "options": {
+      "A": "Pedro venceu a final, e Caio pediu revanche.",
+      "B": "Caio venceu a final, e Pedro pediu revanche.",
+      "C": "Pedro venceu a final e, mesmo assim, pediu revanche.",
+      "D": "não é possível saber quem venceu, pois os dois pronomes podem se referir a qualquer um dos meninos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Quando dois termos são citados e depois retomados por “este” e “aquele”, a norma-padrão segue uma regra de distância:</p><ul><li>“<b>este</b>” retoma o termo mais <b>próximo</b>, o último citado: Caio;</li><li>“<b>aquele</b>” retoma o termo mais <b>distante</b>, o primeiro citado: Pedro.</li></ul><p>Assim, Caio venceu com o xeque-mate, e Pedro, que perdeu, pediu revanche. Faz sentido: quem pede revanche é quem perdeu.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a leitura invertida: associar “este” ao primeiro nome, só porque ele foi citado primeiro. “Este” aponta para o nome mais perto do pronome, que é Caio.",
+      "C": "Os dois pronomes são diferentes justamente para indicar pessoas diferentes. Além disso, quem vence não costuma pedir revanche.",
+      "D": "Os nomes têm o mesmo gênero, mas “este” e “aquele” resolvem a dúvida pela posição dos termos. O trecho não é ambíguo."
+    },
+    "tip": "Em “A e B... este..., aquele...”: “este” = B (o mais perto), “aquele” = A (o mais longe)."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“O motorista viu a passageira correndo atrás do ônibus e esperou a passageira no ponto. Depois, entregou o troco à passageira.”</p></blockquote><p>Para evitar a repetição de “a passageira”, a reescrita que está de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "“O motorista viu a passageira correndo atrás do ônibus e esperou-lhe no ponto. Depois, entregou-lhe o troco.”",
+      "B": "“O motorista viu a passageira correndo atrás do ônibus e esperou-a no ponto. Depois, entregou-a o troco.”",
+      "C": "“O motorista viu a passageira correndo atrás do ônibus e esperou ela no ponto. Depois, entregou ela o troco.”",
+      "D": "“O motorista viu a passageira correndo atrás do ônibus e esperou-a no ponto. Depois, entregou-lhe o troco.”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.regencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A escolha do pronome depende de o verbo pedir ou não preposição.</p><ul><li>“esperou <b>a passageira</b>”: quem espera, espera alguém, sem preposição (objeto direto). O pronome adequado é “<b>a</b>”: esperou-a.</li><li>“entregou o troco <b>à passageira</b>”: quem entrega, entrega algo <b>a</b> alguém. “À passageira” tem a preposição “a” (objeto indireto). O pronome adequado é “<b>lhe</b>”: entregou-lhe o troco.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Esperar” não pede preposição: espera-se alguém, e não “a alguém”. Por isso o pronome é “a” (esperou-a), e não “lhe”.",
+      "B": "Em “entregou o troco à passageira”, “à passageira” vem com preposição. O pronome que substitui objeto indireto é “lhe”, não “a”.",
+      "C": "“Esperou ela” é comum na fala, mas a norma-padrão não usa o pronome “ela” como objeto. E “entregou ela o troco” perde a preposição e fica confuso."
+    },
+    "tip": "Objeto direto (sem preposição) vira “o, a, os, as”; objeto indireto de pessoa (com preposição “a”) vira “lhe, lhes”."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Antes de levar a massa ao forno, a confeiteira repetiu <b><u>isto</u></b> para os aprendizes: nunca abram a porta do forno nos primeiros vinte minutos, porque o bolo pode solar.”</p></blockquote><p>O pronome destacado</p>",
+    "options": {
+      "A": "retoma “a massa”, termo mencionado antes dele no mesmo período.",
+      "B": "retoma “os aprendizes”, que vão ouvir a orientação.",
+      "C": "anuncia a orientação que vem depois dele, apresentada após os dois-pontos.",
+      "D": "refere-se ao forno, onde a massa vai ser assada."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.pontuacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O que a confeiteira repetiu? A resposta não está antes do pronome, e sim <b>depois</b> dele, após os dois-pontos: “nunca abram a porta do forno nos primeiros vinte minutos, porque o bolo pode solar”.</p><p>Quando um pronome aponta para algo que ainda vai ser dito, ele não retoma: ele <b>anuncia</b>. Esse movimento de antecipação se chama <b>catáfora</b>, e o demonstrativo “isto” é típico desse uso. Os dois-pontos reforçam o anúncio.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O costume de procurar o referente antes do pronome leva a este erro. Mas a confeiteira não “repetiu a massa”: ela repetiu uma orientação.",
+      "B": "Os aprendizes são as pessoas a quem a confeiteira fala (“para os aprendizes”), e não o conteúdo do que ela repetiu.",
+      "D": "O forno aparece dentro da orientação, mas ele não é aquilo que foi repetido. O pronome representa a frase inteira depois dos dois-pontos."
+    },
+    "tip": "Nem todo pronome olha para trás: “isto” seguido de dois-pontos costuma anunciar o que vem depois (catáfora)."
+  }
+]

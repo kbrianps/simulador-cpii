@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 120 500 175" width="500" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="120" width="500" height="175" fill="#fff"/>
+  <line x1="20" y1="260" x2="480" y2="260" stroke="#777" stroke-width="1.5"/>
+  <rect x="70" y="180" width="120" height="80" fill="#cfd8dc" stroke="#333" stroke-width="2"/>
+  <rect x="190" y="140" width="120" height="120" fill="#ffe082" stroke="#333" stroke-width="2"/>
+  <rect x="310" y="210" width="120" height="50" fill="#d7ccc8" stroke="#333" stroke-width="2"/>
+  <text x="130" y="226" text-anchor="middle" font-size="20" font-weight="bold">2</text>
+  <text x="250" y="206" text-anchor="middle" font-size="20" font-weight="bold">1</text>
+  <text x="370" y="242" text-anchor="middle" font-size="20" font-weight="bold">3</text>
+  <text x="130" y="250" text-anchor="middle">altura 40 cm</text>
+  <text x="250" y="240" text-anchor="middle">altura 60 cm</text>
+  <text x="438" y="240">altura</text>
+  <text x="438" y="256">25 cm</text>
+  <text x="130" y="282" text-anchor="middle">60 cm</text>
+  <text x="250" y="282" text-anchor="middle">60 cm</text>
+  <text x="370" y="282" text-anchor="middle">60 cm</text>
+</svg>

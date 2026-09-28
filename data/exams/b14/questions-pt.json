@@ -1,0 +1,279 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>De acordo com o Texto 1, fora do horário de funcionamento da ciclofaixa, o espaço ocupado por ela</p>",
+    "options": {
+      "A": "fica fechado com cones para que a pintura vermelha seja conservada.",
+      "B": "é liberado apenas para a passagem de pedestres.",
+      "C": "volta a ser usado como vaga de estacionamento.",
+      "D": "passa a ser usado como faixa exclusiva dos ônibus que seguem para o terminal."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A resposta está escrita no próprio texto, no fim do primeiro parágrafo: “Fora desse horário, o espaço volta a ser usado como vaga de estacionamento” (linhas 4-5). O “horário” a que o texto se refere é o de funcionamento da ciclofaixa, “todos os dias, das 6h às 22h” (linha 4).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O texto não fala em cones. A cor vermelha é citada só para descrever a faixa (linha 3).",
+      "B": "Os pedestres aparecem apenas no quarto parágrafo, a propósito da sinalização nos cruzamentos (linhas 16-17), não do uso da faixa à noite.",
+      "D": "O terminal de ônibus é só um dos pontos onde a ciclofaixa termina (linha 3); nada se diz sobre faixa exclusiva de ônibus."
+    },
+    "tip": "Em questões com “de acordo com o texto”, volte ao trecho e encontre a frase que diz exatamente aquilo; não complete com o que parece provável."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Na reportagem (Texto 1), aparecem fatos e opiniões. Apresenta um <b>fato</b>, e não uma opinião, o trecho:</p>",
+    "options": {
+      "A": "“A obra levou três meses” (linha 6)",
+      "B": "“A ciclofaixa vai espantar a freguesia” (linha 14)",
+      "C": "“Pedalar na cidade ainda é uma aventura.” (linha 20)",
+      "D": "“mostra que a bicicleta também tem lugar na rua” (linha 21)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.fato_opiniao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>Fato</b> é algo que aconteceu ou existe e pode ser verificado. <b>Opinião</b> é uma avaliação, um julgamento ou uma previsão pessoal, com a qual outra pessoa pode discordar.</p><p>A duração da obra (três meses, linha 6) pode ser conferida: basta consultar as datas de início e de fim dos trabalhos. Ninguém “discorda” de que a obra levou três meses; no máximo, verifica se a informação é verdadeira.</p><p>Já as outras alternativas trazem avaliações de pessoas entrevistadas, com as quais outros moradores poderiam discordar.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É a previsão pessimista de Joaquim, dono da padaria (linhas 12-14). Ninguém sabe ainda se a freguesia vai diminuir; outra pessoa poderia pensar o contrário.",
+      "C": "Chamar a experiência de pedalar de “aventura” é uma avaliação de Renato (linhas 19-20), não um dado verificável.",
+      "D": "É a interpretação de Renato sobre o significado da obra (linhas 20-21). Outra pessoa poderia achar que a ciclofaixa não mostra nada disso."
+    },
+    "tip": "Teste rápido: dá para verificar (fato) ou dá para discordar (opinião)?"
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Segundo as informações do Texto 1, é correto afirmar que</p>",
+    "options": {
+      "A": "os bicicletários já foram instalados na praça do Coreto, junto ao início da ciclofaixa.",
+      "B": "a ciclofaixa foi traçada para ligar entre si as duas escolas estaduais do bairro.",
+      "C": "a prefeitura escolheu o trecho da obra atendendo a um pedido dos comerciantes da rua.",
+      "D": "nos primeiros quinze dias, os agentes de trânsito vão orientar, e não multar."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O quarto parágrafo informa: “Nos primeiros quinze dias, agentes de trânsito vão orientar motoristas e ciclistas, sem aplicar multas” (linhas 17-18).</p><p>As outras alternativas misturam informações do texto com detalhes que ele não diz, ou que diz de forma diferente.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os bicicletários ainda serão instalados: a secretaria “vai instalar, até o fim do mês” (linha 15). O verbo está no futuro.",
+      "B": "A ciclofaixa vai da praça do Coreto ao terminal de ônibus (linhas 2-3). As escolas ficam “ao longo da rua” (linha 9); o texto não diz que a faixa foi feita para ligá-las.",
+      "C": "O pedido veio da associação de moradores (linhas 6-7), e o critério para escolher o trecho foi o movimento de estudantes (linhas 7-9). Um comerciante, aliás, é contra a obra (linhas 12-14)."
+    },
+    "tip": "Cuidado com os tempos verbais (“vai instalar” não é “instalou”) e com quem fez o quê: trocar o agente é um erro comum nas alternativas."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No Texto 1, as avaliações sobre a ciclofaixa são atribuídas a pessoas ouvidas pela reportagem: Luana, Joaquim e Renato. Esse procedimento indica que</p>",
+    "options": {
+      "A": "a repórter concorda com Joaquim, já que a fala dele é a única que critica a obra.",
+      "B": "a repórter dá voz a pontos de vista diferentes, sem assumi-los como seus.",
+      "C": "as falas das pessoas entrevistadas passam a ser fatos comprovados, já que foram registradas pela repórter.",
+      "D": "a repórter declara sua própria opinião favorável à obra ao afirmar que “a ciclofaixa é só o começo” (linhas 19-20)."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.fato_opiniao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A reportagem procura informar sem que o jornalista tome partido. Por isso, as avaliações aparecem <b>atribuídas a outras pessoas</b>: entre aspas (as falas de Luana e Joaquim, linhas 11-14, e de Renato, linhas 20-21) ou introduzidas por expressões como “Para o ciclista Renato Aguiar” (linha 19), “comemora” (linha 11) e “teme” (linha 13).</p><p>A própria repórter anuncia esse procedimento: “A novidade divide opiniões” (linha 10). Em seguida, mostra uma opinião a favor (Luana), uma contra (Joaquim) e uma intermediária (Renato, para quem a obra é positiva, mas insuficiente).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dar voz a alguém não significa concordar com essa pessoa. A repórter também registra a fala favorável de Luana e a avaliação de Renato, sem tomar partido de nenhum deles.",
+      "C": "Registrar uma fala comprova apenas que a pessoa disse aquilo; o conteúdo continua sendo a opinião dela. “A ciclofaixa vai espantar a freguesia” segue sendo uma previsão de Joaquim.",
+      "D": "A frase “a ciclofaixa é só o começo” vem depois de “Para o ciclista Renato Aguiar” (linha 19): é a opinião de Renato, relatada pela repórter, e não dela própria. Esse é o engano mais comum, porque a frase não está entre aspas."
+    },
+    "tip": "Expressões como “para fulano”, “segundo fulano” e verbos como “afirma”, “teme” ou “comemora” mostram de quem é a opinião; não confunda o entrevistado com o autor do texto."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Segundo a resenha (Texto 2), no jogo <i>Vento Norte</i>,</p>",
+    "options": {
+      "A": "os barcos só avançam a favor do vento, e quem tenta ir contra ele perde a vez.",
+      "B": "a direção do vento muda a cada três rodadas, o que obriga os jogadores a planejar suas jogadas com antecedência.",
+      "C": "as regras de desempate não constam do manual, o que provocou discussão entre os jogadores.",
+      "D": "as partidas podem reunir até seis jogadores e são indicadas para crianças a partir de oito anos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A regra central está nas linhas 5-6: “a cada rodada, uma carta sorteada muda a direção do vento, e os barcos só avançam a favor dele. Quem tenta remar contra perde a vez.” A alternativa A diz exatamente isso com outras palavras.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O vento muda “a cada rodada” (linha 5). As “três rodadas” (linha 7) se referem ao planejamento dos jogadores, não à frequência da mudança.",
+      "C": "As regras de empate estão no manual, mas “só na última página, em letras miúdas” (linhas 11-12). O problema é a localização, não a ausência.",
+      "D": "O jogo é para “dois a quatro jogadores” (linha 2) e indicado “para maiores de dez anos” (linha 4)."
+    },
+    "tip": "Números e expressões de frequência (“a cada rodada”, “três rodadas à frente”) são armadilhas clássicas: confira cada um no texto."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>Numa resenha, o autor informa o leitor sobre uma obra e também a avalia. O trecho do Texto 2 em que uma avaliação do resenhista vem apoiada em um fato que ele relata é:</p>",
+    "options": {
+      "A": "“coloca de dois a quatro jogadores no comando de barcos pesqueiros” (linha 2)",
+      "B": "“Cada partida dura cerca de quarenta minutos” (linhas 3-4)",
+      "C": "“o manual deixa a desejar: as regras de empate aparecem só na última página, em letras miúdas” (linhas 11-12)",
+      "D": "“é daqueles jogos que a gente guarda na prateleira de cima, a dos favoritos” (linhas 12-13)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.fato_opiniao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Em “o manual deixa a desejar”, o resenhista dá uma <b>opinião</b> (uma avaliação negativa). Logo depois dos dois-pontos, ele apresenta o <b>fato</b> que justifica essa avaliação: “as regras de empate aparecem só na última página, em letras miúdas” (linhas 11-12), algo que qualquer leitor pode conferir abrindo o manual. Ele ainda acrescenta que elas “provocaram discussão” em sua mesa (linha 12).</p><p>Apoiar a opinião em fatos torna a crítica mais convincente e é um recurso típico de uma boa resenha.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É só informação (número de jogadores e tema do jogo), sem avaliação.",
+      "B": "Também é só informação: a duração da partida. Não há julgamento de valor.",
+      "D": "É uma avaliação, mas não vem apoiada em nenhum fato: guardar o jogo entre os favoritos é o gosto pessoal do autor."
+    },
+    "tip": "Opinião bem fundamentada = avaliação + fato que a sustenta. Os dois-pontos costumam anunciar a justificativa."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o aviso afixado na entrada da piscina de um clube.</p><blockquote><p><b>PISCINA SEMIOLÍMPICA: HORÁRIOS DE USO</b></p><ul><li>Nado livre: de terça a sexta, das 7h às 10h e das 16h às 19h; aos sábados, das 8h às 12h.</li><li>Aulas da escolinha: segundas, quartas e sextas, das 14h às 16h, nas raias 1 a 3. Nesses horários, as raias 4 a 6 ficam liberadas para nado livre.</li><li>Às segundas-feiras pela manhã, a piscina fica fechada para limpeza.</li><li>Menores de 12 anos só podem usar a piscina acompanhados de um adulto responsável, exceto durante as aulas da escolinha.</li><li>Todos os usuários devem estar com o exame médico em dia.</li></ul></blockquote><p>De acordo com o aviso, é correto afirmar que</p>",
+    "options": {
+      "A": "às segundas-feiras, a piscina não pode ser usada em nenhum horário, por causa da limpeza.",
+      "B": "uma criança de 10 anos, com exame médico em dia, pode nadar sozinha numa terça-feira às 17h.",
+      "C": "aos sábados, o nado livre vai das 8h às 12h e das 16h às 19h.",
+      "D": "numa quarta-feira às 15h, um adulto com exame médico em dia pode praticar nado livre na raia 5."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.explicita",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>É preciso cruzar as informações de mais de um item do aviso.</p><p>Quarta-feira às 15h está dentro do horário das aulas da escolinha (segundas, quartas e sextas, das 14h às 16h). O segundo item diz que, nesses horários, “as raias 4 a 6 ficam liberadas para nado livre”. A raia 5 está entre 4 e 6. Como o adulto está com o exame em dia (último item) e não é menor de 12 anos, ele pode nadar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A piscina fecha para limpeza só “pela manhã” das segundas. À tarde, das 14h às 16h, há aulas da escolinha (e nado livre nas raias 4 a 6).",
+      "B": "Terça às 17h é horário de nado livre, mas não de aula da escolinha (que não ocorre às terças). Por isso vale a regra geral: menores de 12 anos precisam estar acompanhados de um adulto.",
+      "C": "O horário das 16h às 19h vale de terça a sexta. Aos sábados, o nado livre é só das 8h às 12h."
+    },
+    "tip": "Em avisos e regulamentos, procure as palavras que limitam a regra: “só”, “exceto”, “pela manhã”, “nesses horários”. É nelas que as alternativas erradas escorregam."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um guia de passeios de um parque estadual.</p><blockquote><p>A Trilha do Mirante tem 3,2 km e começa na portaria principal do parque. O percurso tem trechos de subida e termina em uma cachoeira. É, sem dúvida, o passeio mais encantador da região. O parque abre às 8h, e a entrada na trilha é permitida até as 14h.</p></blockquote><p>O trecho que expressa uma <b>opinião</b> é:</p>",
+    "options": {
+      "A": "“A Trilha do Mirante tem 3,2 km e começa na portaria principal do parque.”",
+      "B": "“É, sem dúvida, o passeio mais encantador da região.”",
+      "C": "“O percurso tem trechos de subida e termina em uma cachoeira.”",
+      "D": "“a entrada na trilha é permitida até as 14h.”"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.fato_opiniao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Dizer que um passeio é “o mais encantador da região” é uma <b>avaliação pessoal</b>: depende do gosto de quem escreve, e outra pessoa pode preferir outro passeio. O adjetivo “encantador”, no superlativo (“o mais”), revela o julgamento.</p><p>Note que a expressão “sem dúvida” tenta dar à frase ares de certeza, mas não a transforma em fato: continua não havendo como comprovar que esse é o passeio mais encantador.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A extensão da trilha e o seu ponto de partida podem ser medidos e conferidos: são fatos.",
+      "C": "Existir subida e terminar numa cachoeira são características observáveis do percurso: é fato.",
+      "D": "O horário de entrada é uma regra do parque, que pode ser verificada na portaria: é fato."
+    },
+    "tip": "Adjetivos de valor (encantador, lindo, melhor) costumam indicar opinião, mesmo quando vêm acompanhados de “sem dúvida” ou “com certeza”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a receita.</p><blockquote><p><b>Bolo de fubá</b> (rende 12 fatias)</p><p><b>Ingredientes:</b> 3 ovos; 1 xícara de fubá; 1 xícara de açúcar; meia xícara de óleo; 1 xícara de leite; 2 colheres (sopa) de farinha de trigo; 1 colher (sopa) de fermento em pó.</p><p><b>Modo de preparo:</b> Bata no liquidificador os ovos, o óleo e o leite por dois minutos. Acrescente o fubá, o açúcar e a farinha e bata mais um pouco. Por último, misture o fermento com uma colher, sem bater. Despeje em forma untada e leve ao forno preaquecido a 180 °C por cerca de 40 minutos, ou até que um palito espetado na massa saia limpo.</p><p><b>Dica:</b> se quiser, junte à massa 2 colheres (sopa) de erva-doce, junto com o fermento.</p></blockquote><p>De acordo com a receita, é correto afirmar que</p>",
+    "options": {
+      "A": "o fermento deve ser batido no liquidificador junto com o fubá, o açúcar e a farinha.",
+      "B": "a erva-doce é um ingrediente indispensável para o sabor do bolo.",
+      "C": "o palito espetado na massa serve para verificar se o bolo está assado.",
+      "D": "o bolo deve ficar no forno exatamente 40 minutos, nem mais nem menos."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.explicita",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A receita diz: “por cerca de 40 minutos, ou até que um palito espetado na massa saia limpo”. Ou seja, o palito é o teste que indica o fim do cozimento: se ele sair limpo, o bolo está assado.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O fermento vai “por último” e é misturado “com uma colher, sem bater”. Quem responde A ignora essa restrição.",
+      "B": "A erva-doce aparece na “Dica”, introduzida por “se quiser”: é opcional, não faz parte da lista de ingredientes.",
+      "D": "A receita diz “cerca de 40 minutos, ou até que um palito... saia limpo”: o tempo é aproximado e depende do teste do palito."
+    },
+    "tip": "Palavras como “cerca de”, “se quiser” e “sem” mudam completamente a instrução: leia o texto inteiro antes de marcar."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o anúncio de um aplicativo fictício de controle de mesada.</p><blockquote><p>Talvez você ache que catorze anos é cedo demais para pensar em poupar. Com o <b>Cofrin</b>, você separa parte da mesada em “caixinhas” com nomes como “bicicleta” ou “show”. O aplicativo é gratuito para menores de 18 anos, e os responsáveis recebem um aviso a cada depósito. “Minha filha comprou o fone que queria sem pedir nada a ninguém”, conta a mãe de uma usuária. O Cofrin é o jeito mais inteligente de um adolescente aprender a lidar com dinheiro.</p></blockquote><p>Em anúncios, é comum que opiniões sejam apresentadas como se fossem fatos, sem nenhuma marca de que se trata de uma avaliação. Isso ocorre em:</p>",
+    "options": {
+      "A": "“O Cofrin é o jeito mais inteligente de um adolescente aprender a lidar com dinheiro.”",
+      "B": "“O aplicativo é gratuito para menores de 18 anos, e os responsáveis recebem um aviso a cada depósito.”",
+      "C": "“Minha filha comprou o fone que queria sem pedir nada a ninguém”",
+      "D": "“Talvez você ache que catorze anos é cedo demais para pensar em poupar.”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.fato_opiniao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A frase final faz uma <b>avaliação</b> (“o jeito mais inteligente”, um superlativo que não pode ser comprovado), mas a apresenta como uma verdade: verbo “é” no presente, sem “acreditamos”, “para nós”, “talvez” ou aspas atribuindo a frase a alguém. É a opinião do anunciante disfarçada de fato, um recurso comum para convencer o leitor.</p><p>Compare com as outras alternativas: ou são fatos verificáveis, ou são opiniões e relatos que o próprio texto marca como tais.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Aqui há fatos: o preço para menores e o funcionamento do aviso podem ser conferidos no próprio aplicativo.",
+      "C": "A fala está entre aspas e é atribuída a “a mãe de uma usuária”. O texto deixa claro de quem é o relato, portanto não o apresenta como um fato assumido pelo anunciante.",
+      "D": "É, sim, uma opinião (achar que é cedo para poupar), mas ela está claramente marcada como tal: “Talvez” e “você ache” mostram que se trata de uma suposição sobre o que o leitor pensa."
+    },
+    "tip": "Desconfie de superlativos (“o mais”, “o melhor”) afirmados sem nenhuma fonte: é opinião com roupa de fato."
+  }
+]

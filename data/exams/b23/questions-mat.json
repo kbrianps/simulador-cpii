@@ -1,0 +1,272 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O campo de futebol <i>society</i> de um clube tem a forma de um retângulo cujo comprimento é o dobro da largura. A área desse campo é de 1.800 m².</p><p>O perímetro do campo é</p>",
+    "options": {
+      "A": "90 m.",
+      "B": "180 m.",
+      "C": "120 m.",
+      "D": "60 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Chame a largura de \\(x\\) metros. Então o comprimento é \\(2x\\), e a área é</p><p>\\[x \\cdot 2x = 1800 \\quad\\Rightarrow\\quad 2x^2 = 1800 \\quad\\Rightarrow\\quad x^2 = 900\\]</p><p>Como \\(x\\) é uma medida, só vale a raiz positiva: \\(x = 30\\). A largura é 30 m e o comprimento é 60 m.</p><p>\\[\\text{Perímetro} = 2 \\cdot 30 + 2 \\cdot 60 = 60 + 120 = 180 \\text{ m}\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou só uma largura e um comprimento: \\(30 + 60 = 90\\). O perímetro é o contorno inteiro, com dois lados de cada tipo.",
+      "C": "Tratou o campo como um quadrado de lado 30 m: \\(4 \\cdot 30 = 120\\). O comprimento é o dobro da largura, e não igual a ela.",
+      "D": "Parou no comprimento do campo (60 m) e não calculou o perímetro pedido."
+    },
+    "tip": "Em uma equação incompleta do tipo \\(ax^2 = c\\), basta isolar \\(x^2\\) e tirar a raiz; em problemas de medida, descarte a raiz negativa."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dona Célia vai costurar uma fita em toda a volta de um tapete retangular. Ela mediu e anotou:</p><ul><li>o perímetro do tapete é de 20 dm;</li><li>a área do tapete é de 21 dm².</li></ul><p>As medidas, em decímetros, do comprimento e da largura desse tapete são as duas raízes da equação</p>",
+    "options": {
+      "A": "\\(x^2 + 10x + 21 = 0\\)",
+      "B": "\\(x^2 - 20x + 21 = 0\\)",
+      "C": "\\(x^2 - 10x + 21 = 0\\)",
+      "D": "\\(x^2 - 10x - 21 = 0\\)"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Se os lados medem \\(a\\) e \\(b\\), o perímetro dá \\(2a + 2b = 20\\), ou seja, \\(a + b = 10\\). A área dá \\(a \\cdot b = 21\\).</p><p>Uma equação do 2º grau com raízes \\(a\\) e \\(b\\) pode ser escrita como</p><p>\\[x^2 - (\\text{soma})\\,x + (\\text{produto}) = 0 \\quad\\Rightarrow\\quad x^2 - 10x + 21 = 0\\]</p><p>Conferindo: as raízes dessa equação são 3 e 7 (\\(3 + 7 = 10\\) e \\(3 \\cdot 7 = 21\\)); um tapete de 7 dm por 3 dm tem perímetro 20 dm e área 21 dm².</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Usou o sinal errado na soma: em \\(x^2 + 10x + 21 = 0\\), as raízes são \\(-3\\) e \\(-7\\), que não podem ser medidas.",
+      "B": "Usou o perímetro (20) como soma dos lados. A soma de comprimento e largura é metade do perímetro, 10.",
+      "D": "Errou o sinal do produto: com \\(-21\\), o produto das raízes seria negativo, e uma das medidas teria de ser negativa."
+    },
+    "tip": "Equação com raízes de soma \\(S\\) e produto \\(P\\): \\(x^2 - Sx + P = 0\\). Lembre que a soma dos lados de um retângulo é a metade do perímetro."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante um almoço de domingo, a avó de Lívia propôs uma charada:</p><blockquote>Se eu elevar ao quadrado a sua idade de hoje, obtenho o mesmo resultado que ao multiplicar por 5 a idade que você terá daqui a 10 anos.</blockquote><p>Sabendo que a charada está correta, daqui a 10 anos Lívia terá</p>",
+    "options": {
+      "A": "10 anos.",
+      "B": "15 anos.",
+      "C": "50 anos.",
+      "D": "20 anos."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Seja \\(x\\) a idade de Lívia hoje. Daqui a 10 anos ela terá \\(x + 10\\). A charada diz que</p><p>\\[x^2 = 5(x + 10) \\quad\\Rightarrow\\quad x^2 - 5x - 50 = 0\\]</p><p>\\[\\Delta = (-5)^2 - 4 \\cdot 1 \\cdot (-50) = 25 + 200 = 225, \\qquad \\sqrt{225} = 15\\]</p><p>\\[x = \\frac{5 \\pm 15}{2} \\quad\\Rightarrow\\quad x = 10 \\ \\text{ ou } \\ x = -5\\]</p><p>Idade não é negativa, então Lívia tem 10 anos hoje. Conferindo: \\(10^2 = 100\\) e \\(5 \\cdot 20 = 100\\).</p><p>Daqui a 10 anos, ela terá \\(10 + 10 = 20\\) anos. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É a idade de Lívia hoje. A pergunta é a idade que ela terá daqui a 10 anos.",
+      "B": "Trocou o sinal de \\(b\\) na fórmula e achou \\(x = 5\\) como idade atual (\\(5 + 10 = 15\\)). Conferindo: \\(5^2 = 25\\), mas \\(5 \\cdot 15 = 75\\), não bate.",
+      "C": "Calculou \\(5 \\cdot 10 = 50\\), que é só uma parte do lado direito da equação, e não a idade futura."
+    },
+    "tip": "Depois de achar a raiz, confira na frase original e releia a pergunta: ela pode pedir a idade atual ou a idade futura."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma confeiteira assou uma fornada de <i>brownie</i> em uma assadeira quadrada. Antes de cortar os pedaços para vender, ela retirou, para experimentar, uma faixa de 4 cm de largura ao longo de um dos lados. O restante do <i>brownie</i> ficou com a forma de um retângulo de 480 cm² de área.</p><p>A área da faixa retirada para experimentar era de</p>",
+    "options": {
+      "A": "96 cm².",
+      "B": "80 cm².",
+      "C": "576 cm².",
+      "D": "120 cm²."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Seja \\(x\\) o lado da assadeira, em cm. Depois de tirar a faixa de 4 cm, sobra um retângulo de lados \\(x\\) e \\(x - 4\\):</p><p>\\[x(x - 4) = 480 \\quad\\Rightarrow\\quad x^2 - 4x - 480 = 0\\]</p><p>\\[\\Delta = 16 + 1920 = 1936, \\qquad \\sqrt{1936} = 44\\]</p><p>\\[x = \\frac{4 \\pm 44}{2} \\quad\\Rightarrow\\quad x = 24 \\ \\text{ ou } \\ x = -20\\]</p><p>O lado é 24 cm. A faixa retirada é um retângulo de 4 cm por 24 cm:</p><p>\\[4 \\cdot 24 = 96 \\text{ cm}^2\\]</p><p>(Conferindo: \\(24^2 = 576\\) e \\(576 - 480 = 96\\).) Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Multiplicou 4 pela medida \\(x - 4 = 20\\). A faixa corre ao longo de um lado inteiro da assadeira, que mede 24 cm.",
+      "C": "É a área da assadeira inteira (\\(24^2 = 576\\)), e não só a da faixa retirada.",
+      "D": "Dividiu 480 por 4, misturando a área do restante com a largura da faixa, sem montar a equação."
+    },
+    "tip": "Chame o lado desconhecido de \\(x\\) e escreva as dimensões do pedaço que sobrou em função de \\(x\\); a área vira uma equação do 2º grau."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa junina de uma praça, foram fincados alguns postes, cada um em um vértice de um polígono convexo. A decoração ligou cada par de postes <b>não vizinhos</b> com um cordão de bandeirinhas, ou seja, cada cordão ocupa uma diagonal do polígono.</p><p>O número \\(d\\) de diagonais de um polígono convexo de \\(n\\) lados é dado por</p><p>\\[d = \\frac{n(n - 3)}{2}\\]</p><p>Se foram usados exatamente 20 cordões de bandeirinhas, o número de postes fincados foi</p>",
+    "options": {
+      "A": "5.",
+      "B": "8.",
+      "C": "13.",
+      "D": "16."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O número de postes é o número \\(n\\) de vértices (e de lados) do polígono. Com \\(d = 20\\):</p><p>\\[\\frac{n(n - 3)}{2} = 20 \\quad\\Rightarrow\\quad n^2 - 3n = 40 \\quad\\Rightarrow\\quad n^2 - 3n - 40 = 0\\]</p><p>\\[\\Delta = 9 + 160 = 169, \\qquad \\sqrt{169} = 13\\]</p><p>\\[n = \\frac{3 \\pm 13}{2} \\quad\\Rightarrow\\quad n = 8 \\ \\text{ ou } \\ n = -5\\]</p><p>Só \\(n = 8\\) serve. Conferindo: \\(\\frac{8 \\cdot 5}{2} = 20\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Trocou o sinal de \\(b\\) na fórmula de Bhaskara (\\(\\frac{-3 + 13}{2} = 5\\)) ou usou o valor absoluto da raiz negativa. Um pentágono tem só 5 diagonais.",
+      "C": "Parou em \\(\\sqrt{\\Delta} = 13\\) e esqueceu de terminar a fórmula de Bhaskara.",
+      "D": "Fez \\(3 + 13 = 16\\) e esqueceu de dividir por \\(2a = 2\\)."
+    },
+    "tip": "Quando a fórmula é dada, substitua o valor conhecido, passe tudo para um lado e resolva; teste a raiz encontrada na fórmula original."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma horta comunitária, um canteiro tem a forma de um triângulo retângulo. Um dos catetos mede 2 m a mais que o outro, e a área do canteiro é de 24 m².</p><p>Os moradores vão colocar uma cerca apenas no lado maior do canteiro, a hipotenusa. O comprimento dessa cerca será de</p>",
+    "options": {
+      "A": "8 m.",
+      "B": "14 m.",
+      "C": "10 m.",
+      "D": "24 m."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.geo.pitagoras",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Sejam \\(x\\) e \\(x + 2\\) os catetos, em metros. A área de um triângulo retângulo é a metade do produto dos catetos:</p><p>\\[\\frac{x(x + 2)}{2} = 24 \\quad\\Rightarrow\\quad x^2 + 2x - 48 = 0\\]</p><p>\\[\\Delta = 4 + 192 = 196, \\qquad x = \\frac{-2 \\pm 14}{2} \\quad\\Rightarrow\\quad x = 6 \\ \\text{ ou } \\ x = -8\\]</p><p>Os catetos medem 6 m e 8 m. Pelo Teorema de Pitágoras:</p><p>\\[h^2 = 6^2 + 8^2 = 36 + 64 = 100 \\quad\\Rightarrow\\quad h = 10 \\text{ m}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o cateto maior. O lado maior de um triângulo retângulo é a hipotenusa, que ainda precisa ser calculada com Pitágoras.",
+      "B": "Somou os catetos (\\(6 + 8\\)). A hipotenusa não é a soma dos catetos: ela é sempre menor que essa soma.",
+      "D": "Calculou o perímetro do canteiro (\\(6 + 8 + 10 = 24\\)), mas a cerca vai só na hipotenusa."
+    },
+    "tip": "Área do triângulo retângulo = cateto vezes cateto dividido por 2. Achados os catetos, Pitágoras dá a hipotenusa."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um aplicativo de treino de Matemática propõe o seguinte desafio:</p><blockquote>Escolha o número \\(k\\) para que a equação \\(x^2 - 6x + k = 0\\) tenha duas raízes reais <b>iguais</b>. Depois, informe essa raiz.</blockquote><p>A resposta correta para o desafio é</p>",
+    "options": {
+      "A": "\\(k = 9\\) e raiz igual a \\(3\\).",
+      "B": "\\(k = 9\\) e raiz igual a \\(-3\\).",
+      "C": "\\(k = 36\\) e raiz igual a \\(6\\).",
+      "D": "\\(k = -9\\) e raiz igual a \\(3\\)."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Uma equação do 2º grau tem duas raízes reais iguais quando \\(\\Delta = 0\\).</p><p>\\[\\Delta = (-6)^2 - 4 \\cdot 1 \\cdot k = 36 - 4k = 0 \\quad\\Rightarrow\\quad k = 9\\]</p><p>Com \\(\\Delta = 0\\), a raiz é \\(x = \\dfrac{-b}{2a} = \\dfrac{6}{2} = 3\\). De fato, \\(x^2 - 6x + 9 = (x - 3)^2\\), que só se anula em \\(x = 3\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Acertou \\(k\\), mas errou o sinal da raiz: \\(-b = -(-6) = 6\\), então a raiz é \\(\\frac{6}{2} = 3\\), positiva.",
+      "C": "Usou \\(k = b^2 = 36\\), esquecendo o fator \\(4a\\) do discriminante. Com \\(k = 36\\), \\(\\Delta = 36 - 144 < 0\\) e não há raiz real.",
+      "D": "Errou o sinal ao resolver \\(36 - 4k = 0\\). Com \\(k = -9\\), \\(\\Delta = 72 > 0\\), e as raízes seriam diferentes."
+    },
+    "tip": "Raízes reais iguais: \\(\\Delta = 0\\). Diferentes: \\(\\Delta > 0\\). Nenhuma raiz real: \\(\\Delta < 0\\)."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A caixa d'água de um sítio pode ser enchida por duas torneiras, A e B, cada uma com vazão constante. Sozinha, a torneira B leva 5 horas a mais que a torneira A para encher a caixa vazia. Abertas ao mesmo tempo, as duas enchem a caixa vazia em 6 horas.</p><p>Sozinha, a torneira B enche a caixa vazia em</p>",
+    "options": {
+      "A": "10 horas.",
+      "B": "15 horas.",
+      "C": "12 horas.",
+      "D": "11 horas."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja \\(x\\) o tempo, em horas, que A leva sozinha. B leva \\(x + 5\\). Em 1 hora, A enche \\(\\frac{1}{x}\\) da caixa, B enche \\(\\frac{1}{x + 5}\\), e as duas juntas enchem \\(\\frac{1}{6}\\):</p><p>\\[\\frac{1}{x} + \\frac{1}{x + 5} = \\frac{1}{6}\\]</p><p>Multiplicando tudo por \\(6x(x + 5)\\):</p><p>\\[6(x + 5) + 6x = x(x + 5) \\quad\\Rightarrow\\quad 12x + 30 = x^2 + 5x \\quad\\Rightarrow\\quad x^2 - 7x - 30 = 0\\]</p><p>\\[\\Delta = 49 + 120 = 169, \\qquad x = \\frac{7 \\pm 13}{2} \\quad\\Rightarrow\\quad x = 10 \\ \\text{ ou } \\ x = -3\\]</p><p>A leva 10 horas, então B leva \\(10 + 5 = 15\\) horas. Conferindo: \\(\\frac{1}{10} + \\frac{1}{15} = \\frac{3}{30} + \\frac{2}{30} = \\frac{1}{6}\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É o tempo da torneira A, a mais rápida. A pergunta é sobre a torneira B.",
+      "C": "Supôs que cada torneira sozinha leva o dobro do tempo das duas juntas (\\(2 \\cdot 6\\)), o que só valeria se as torneiras fossem iguais.",
+      "D": "Somou 5 horas ao tempo das duas juntas. As 5 horas a mais são em relação ao tempo da torneira A sozinha, não ao das duas juntas."
+    },
+    "tip": "Em problemas de torneiras, some o que cada uma faz em 1 hora (frações da caixa), e não os tempos."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma loja aumentou em \\(p\\%\\) o preço de uma bicicleta que custava R$ 1.250,00. No mês seguinte, em uma promoção, deu um desconto de \\(p\\%\\) sobre o novo preço, e a bicicleta passou a custar R$ 1.050,00.</p><p>O valor de \\(p\\) é</p>",
+    "options": {
+      "A": "16.",
+      "B": "8.",
+      "C": "4.",
+      "D": "40."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Escreva \\(p\\%\\) como a taxa \\(t = \\frac{p}{100}\\). Um aumento de \\(p\\%\\) multiplica o preço por \\((1 + t)\\), e um desconto de \\(p\\%\\) multiplica por \\((1 - t)\\):</p><p>\\[1250 \\cdot (1 + t)(1 - t) = 1050 \\quad\\Rightarrow\\quad 1 - t^2 = \\frac{1050}{1250} = 0{,}84\\]</p><p>\\[t^2 = 0{,}16 \\quad\\Rightarrow\\quad t = 0{,}4 \\quad(\\text{a taxa é positiva})\\]</p><p>Logo \\(p = 40\\). Conferindo: 40% de 1.250 é 500, o preço foi a R$ 1.750,00; 40% de 1.750 é 700, e \\(1750 - 700 = 1050\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou a queda total, \\(\\frac{1250 - 1050}{1250} = 16\\%\\), que é \\(t^2\\), e esqueceu de tirar a raiz quadrada.",
+      "B": "Dividiu os 16% de queda por 2, como se aumento e desconto se compensassem em partes. A relação correta é \\(t^2 = 0{,}16\\).",
+      "C": "Errou a raiz: \\(\\sqrt{0{,}16} = 0{,}4\\) (40%), e não 0,04 (4%). Conferindo: \\(0{,}04^2 = 0{,}0016\\)."
+    },
+    "tip": "Aumentar e depois descontar a mesma porcentagem sempre reduz o preço: o fator é \\((1 + t)(1 - t) = 1 - t^2\\)."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na aula de Artes, Júlia cortou um arame de 44 cm em dois pedaços. Com cada pedaço, ela dobrou o contorno de um quadrado, sem sobras. A soma das áreas dos dois quadrados formados é de 61 cm².</p><p>A diferença entre a área do quadrado maior e a área do quadrado menor é de</p>",
+    "options": {
+      "A": "11 cm².",
+      "B": "1 cm².",
+      "C": "4 cm².",
+      "D": "36 cm²."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.eq2",
+      "mat.alg.sistemas",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Sejam \\(a\\) e \\(b\\) os lados dos quadrados, em cm. Os perímetros somam o arame todo: \\(4a + 4b = 44\\), então \\(a + b = 11\\), ou seja, \\(b = 11 - a\\). As áreas somam 61:</p><p>\\[a^2 + (11 - a)^2 = 61 \\quad\\Rightarrow\\quad a^2 + 121 - 22a + a^2 = 61 \\quad\\Rightarrow\\quad 2a^2 - 22a + 60 = 0\\]</p><p>Dividindo por 2: \\(a^2 - 11a + 30 = 0\\). Dois números com soma 11 e produto 30 são 5 e 6, então os lados medem 5 cm e 6 cm (\\(25 + 36 = 61\\)).</p><p>\\[36 - 25 = 11 \\text{ cm}^2\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É a diferença entre os lados (\\(6 - 5\\)), e não entre as áreas.",
+      "C": "É a diferença entre os perímetros (\\(24 - 20\\)), isto é, entre os comprimentos dos pedaços de arame.",
+      "D": "É só a área do quadrado maior; faltou subtrair a área do menor."
+    },
+    "tip": "O arame vira perímetro: divida cada pedaço por 4 para achar o lado. Depois, uma incógnita substitui a outra e surge uma equação do 2º grau."
+  }
+]

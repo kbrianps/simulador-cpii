@@ -1,0 +1,270 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>No grupo de mensagens da turma, um aluno escreveu:</p><blockquote><p>“Coordenadora<b><u>,</u></b> Paula esqueceu o casaco na quadra.”</p></blockquote><p>A vírgula destacada indica que</p>",
+    "options": {
+      "A": "Paula é a coordenadora, e o nome dela foi usado para explicar quem ela é.",
+      "B": "a mensagem se dirige à coordenadora, e quem esqueceu o casaco foi Paula.",
+      "C": "a coordenadora e Paula, juntas, esqueceram o casaco na quadra.",
+      "D": "foi a coordenadora quem esqueceu na quadra o casaco de Paula."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A palavra “Coordenadora”, separada por vírgula no início da frase, é um <b>vocativo</b>: é o nome usado para chamar a pessoa com quem se fala. O aluno está chamando a atenção da coordenadora para dar um aviso.</p><p>O aviso vem depois da vírgula: “Paula esqueceu o casaco na quadra”. Pergunte ao verbo: quem esqueceu? <b>Paula</b>, que é o sujeito.</p><p>Sem a vírgula (“Coordenadora Paula esqueceu o casaco”), a frase mudaria: “Coordenadora” passaria a ser o cargo de Paula, e ela é que teria esquecido o casaco.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Essa leitura só valeria sem a vírgula (“Coordenadora Paula”). Com a vírgula, “Coordenadora” é a pessoa chamada, e não um título de Paula.",
+      "C": "Não há soma de pessoas: para isso seria preciso “A coordenadora e Paula esqueceram”. O verbo “esqueceu” está no singular e tem um só sujeito, Paula.",
+      "D": "Inverte os papéis: a coordenadora é quem recebe o aviso, e não quem esqueceu o casaco. Nada indica que o casaco seja de outra pessoa."
+    },
+    "tip": "Nome de quem é chamado, separado por vírgula, é vocativo: ele não é o sujeito do verbo."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma receita:</p><blockquote><p>“Misture a farinha, os ovos e o leite até formar um creme liso. Acrescente o açúcar <b><u>(se preferir, troque por mel)</u></b> e leve ao forno por 40 minutos.”</p></blockquote><p>Os parênteses foram usados, no trecho, para</p>",
+    "options": {
+      "A": "inserir uma sugestão opcional, sem interromper a sequência de passos.",
+      "B": "reproduzir a fala de outra pessoa, que discorda do autor da receita.",
+      "C": "destacar o ingrediente mais importante da receita, que não pode faltar.",
+      "D": "indicar que a palavra “mel” foi usada em sentido figurado, com intenção irônica."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Os parênteses servem para intercalar uma informação <b>acessória</b>, isto é, um comentário ou detalhe que pode ser retirado sem prejudicar a frase principal.</p><p>Tire o trecho entre parênteses: “Acrescente o açúcar e leve ao forno por 40 minutos.” A instrução continua completa. O que estava entre parênteses era só uma sugestão opcional: quem quiser pode usar mel no lugar do açúcar.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não há fala de ninguém nem discordância. A sugestão é do próprio autor da receita, que oferece uma opção ao leitor.",
+      "C": "É o contrário: o que vai entre parênteses é secundário. Além disso, o mel é apenas uma troca opcional, “se preferir”.",
+      "D": "Não há ironia: “mel” tem sentido literal, é um ingrediente que pode substituir o açúcar. Para marcar ironia, o texto costuma usar aspas ou exclamação."
+    },
+    "tip": "Parênteses intercalam informação acessória: se você apagar o que está dentro deles, a frase principal continua completa."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o diálogo entre dois amigos durante uma partida de xadrez:</p><blockquote><p>– Se você mexer esse peão<b><u>...</u></b></p><p>– Tarde demais! Já mexi, e agora o seu cavalo está cercado.</p></blockquote><p>As reticências destacadas na primeira fala indicam</p>",
+    "options": {
+      "A": "uma dúvida do jogador sobre as regras de movimento do peão.",
+      "B": "uma lista de jogadas possíveis que continuaria depois.",
+      "C": "uma frase incompleta, cortada pela resposta do adversário.",
+      "D": "uma pausa irônica, mostrando que o jogador acha graça na jogada do amigo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A primeira fala começa uma condição (“Se você mexer esse peão”), mas não diz o que aconteceria. A frase fica <b>incompleta</b>, e as reticências marcam exatamente isso: algo que ficou por dizer.</p><p>A segunda fala confirma: o amigo responde “Tarde demais! Já mexi”, cortando o aviso. Ele nem espera a conclusão, porque a jogada já foi feita.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não há pergunta nem hesitação sobre regras: o jogador sabe o que vai acontecer e tenta avisar. Dúvida costuma vir marcada por ponto de interrogação.",
+      "B": "Reticências podem encerrar uma enumeração inacabada, mas aqui não há lista nenhuma, apenas uma única condição que não foi concluída.",
+      "D": "Nada no diálogo mostra graça ou ironia. O tom é de alerta, e a resposta do amigo mostra pressa, não humor."
+    },
+    "tip": "Reticências no fim de uma fala de diálogo costumam marcar frase interrompida ou deixada incompleta."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o aviso afixado na entrada de um museu da cidade:</p><blockquote><p>“O museu abre de terça a sexta, das 10h às 17h<b><u>;</u></b> aos sábados, das 9h às 13h<b><u>;</u></b> aos domingos e feriados, fica fechado.”</p></blockquote><p>No aviso, os sinais de ponto e vírgula destacados foram empregados para</p>",
+    "options": {
+      "A": "indicar uma pausa mais longa, porque as informações sobre os horários se contradizem.",
+      "B": "separar blocos de informação que já contêm vírgulas no seu interior.",
+      "C": "introduzir uma explicação sobre o motivo de o museu mudar de horário ao longo da semana.",
+      "D": "separar uma pergunta do visitante da resposta dada pelo museu."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O aviso apresenta três blocos de informação: (1) de terça a sexta, das 10h às 17h; (2) aos sábados, das 9h às 13h; (3) aos domingos e feriados, fica fechado.</p><p>Cada bloco <b>já usa vírgula por dentro</b> (“de terça a sexta<b>,</b> das 10h às 17h”). Se os blocos também fossem separados por vírgula, o leitor não saberia onde termina um e começa o outro. Por isso se usa o ponto e vírgula: ele marca uma separação mais forte que a vírgula, organizando os itens de uma enumeração mais complexa.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Os horários não se contradizem: cada um vale para dias diferentes. O ponto e vírgula organiza os blocos, não indica conflito.",
+      "C": "O aviso não explica por que o horário muda; só informa os horários. Explicação costuma ser introduzida por dois-pontos ou por conectivos como “pois”.",
+      "D": "Não há pergunta nem resposta no aviso, e o ponto e vírgula não tem essa função."
+    },
+    "tip": "Ponto e vírgula separa itens de uma enumeração quando esses itens já têm vírgulas dentro deles."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“No passeio ao cinema, Joana pagou os ingressos; o irmão<b><u>,</u></b> a pipoca e os refrigerantes.”</p></blockquote><p>A vírgula destacada no trecho acima marca</p>",
+    "options": {
+      "A": "a omissão do verbo “pagou”, que fica subentendido para não ser repetido.",
+      "B": "um vocativo, pois Joana está falando diretamente com o irmão.",
+      "C": "um aposto, que explica quem é o irmão de Joana.",
+      "D": "uma separação entre sujeito e verbo, o que seria um erro de pontuação."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O período tem duas partes separadas por ponto e vírgula. Na primeira, o verbo aparece: “Joana <b>pagou</b> os ingressos”. Na segunda, ele não aparece: “o irmão, a pipoca e os refrigerantes”.</p><p>Para entender a segunda parte, recuperamos o verbo da primeira: “o irmão <b>pagou</b> a pipoca e os refrigerantes”. A vírgula ocupa o lugar desse verbo, que foi omitido para evitar repetição. Esse uso da vírgula marca a <b>omissão de um termo</b> já mencionado (a chamada elipse ou zeugma).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Joana não está falando com ninguém: o trecho é uma narração em 3ª pessoa. “O irmão” é o sujeito da segunda oração, e não alguém sendo chamado.",
+      "C": "Aposto explicaria o termo anterior, como em “o irmão, Pedro, ...”. Aqui, “a pipoca e os refrigerantes” não explica quem é o irmão: é o que ele pagou.",
+      "D": "Não há verbo depois da vírgula para ser separado do sujeito. A vírgula está justamente no lugar do verbo omitido, e esse uso é correto."
+    },
+    "tip": "Quando um verbo já dito não é repetido, a vírgula pode marcar o lugar onde ele foi omitido."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Um grupo de alunos escreveu frases para o relatório de uma caminhada por um parque estadual.</p><p>A frase pontuada de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "Na trilha do parque estadual, os visitantes, devem seguir sempre as placas amarelas do percurso.",
+      "B": "Os guardas florestais do parque recomendam, que ninguém alimente os macacos nem os quatis.",
+      "C": "Durante a caminhada, a bióloga, que conhece a mata, explicou por que as bromélias acumulam água.",
+      "D": "Levamos na mochila garrafas de água protetor solar, e um casaco leve para o fim da tarde."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na alternativa C, todas as vírgulas têm justificativa:</p><ul><li>“Durante a caminhada,” é um adjunto adverbial de tempo deslocado para o início da frase, e por isso é separado por vírgula;</li><li>“que conhece a mata” é uma informação explicativa sobre a bióloga, intercalada entre vírgulas.</li></ul><p>Retire as partes entre vírgulas e sobra “a bióloga explicou por que as bromélias acumulam água”: sujeito, verbo e complemento ligados, sem vírgula entre eles.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A vírgula depois de “os visitantes” separa o sujeito do verbo “devem seguir”, o que a norma-padrão não permite. A vírgula depois de “Na trilha do parque estadual” está correta, porque isola o adjunto adverbial deslocado.",
+      "B": "A vírgula separa o verbo “recomendam” do seu complemento, a oração “que ninguém alimente os macacos”. Verbo e complemento não se separam por vírgula.",
+      "D": "Na enumeração, a vírgula deve separar os itens: “garrafas de água, protetor solar e um casaco leve”. Faltou vírgula entre os dois primeiros itens e sobrou vírgula antes do “e”, que já liga os dois últimos."
+    },
+    "tip": "Não se separa com uma só vírgula o sujeito do verbo, nem o verbo do seu complemento."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Regamos a horta da escola todos os dias, mas as alfaces murcharam com o calor.”</p></blockquote><p>Ao substituir “mas” por “porém”, deslocando essa conjunção para depois de “as alfaces”, a reescrita pontuada de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "Regamos a horta da escola todos os dias; as alfaces, porém, murcharam com o calor.",
+      "B": "Regamos a horta da escola todos os dias; as alfaces porém, murcharam com o calor.",
+      "C": "Regamos a horta da escola todos os dias, as alfaces, porém murcharam com o calor.",
+      "D": "Regamos a horta da escola, todos os dias; as alfaces porém murcharam com o calor."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Diferentemente de “mas”, a conjunção “porém” pode mudar de lugar dentro da oração. Quando ela é deslocada para o meio da oração, deve ficar <b>entre vírgulas</b>, como uma expressão intercalada: “as alfaces<b>,</b> porém<b>,</b> murcharam”.</p><p>Além disso, como “porém” deixou de ligar as orações no ponto de encontro entre elas, a separação entre as duas orações passa a ser marcada por ponto e vírgula (ou ponto final).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Falta a vírgula antes de “porém”. Termo intercalado precisa de duas vírgulas, uma antes e outra depois; com uma só, a vírgula acaba separando o sujeito “as alfaces” do verbo.",
+      "C": "Falta a vírgula depois de “porém”: termo intercalado precisa de duas vírgulas, e, com uma só, “porém” fica colado ao verbo “murcharam”. Além disso, o ponto e vírgula entre as orações seria a separação mais adequada.",
+      "D": "“Porém” ficou sem as vírgulas obrigatórias que o isolam no meio da oração. A vírgula antes de “todos os dias” também é desnecessária, mas o erro decisivo é o da conjunção deslocada."
+    },
+    "tip": "“Porém”, “contudo” e “entretanto” deslocados para o meio da oração ficam entre vírgulas."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>O síndico de um condomínio precisou escolher entre dois avisos:</p><blockquote><p><b>Aviso 1:</b> “Os blocos que têm elevador passarão por vistoria na próxima semana.”</p><p><b>Aviso 2:</b> “Os blocos, que têm elevador, passarão por vistoria na próxima semana.”</p></blockquote><p>Comparando os dois avisos, é correto afirmar que</p>",
+    "options": {
+      "A": "os dois avisos têm exatamente o mesmo sentido, pois as vírgulas indicam apenas uma pausa na leitura.",
+      "B": "no aviso 2, apenas uma parte dos blocos do condomínio passará por vistoria, pois só alguns têm elevador.",
+      "C": "no aviso 1, fica claro que todos os blocos do condomínio têm elevador e passarão por vistoria.",
+      "D": "o aviso 1 indica que só os blocos com elevador serão vistoriados; o aviso 2, que todos os blocos têm elevador."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A diferença está nas vírgulas em torno da oração “que têm elevador”.</p><ul><li><b>Aviso 1, sem vírgulas:</b> a oração <b>restringe</b> o sentido de “os blocos”. Ela separa, entre todos os blocos, só aqueles que têm elevador. Logo, subentende-se que existem blocos sem elevador, e esses não passarão por vistoria.</li><li><b>Aviso 2, com vírgulas:</b> a oração é <b>explicativa</b>. Ela apenas acrescenta uma informação sobre todos os blocos: todos têm elevador, e todos serão vistoriados.</li></ul><p>Um teste: retire a oração entre vírgulas do aviso 2. Fica “Os blocos passarão por vistoria”, ou seja, todos eles.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Aqui as vírgulas mudam o sentido: sem elas, a oração seleciona alguns blocos; com elas, a informação vale para todos.",
+      "B": "É o contrário: no aviso 2, a oração entre vírgulas é só um comentário sobre todos os blocos, então todos serão vistoriados.",
+      "C": "Troca os avisos: é o aviso 2, com vírgulas, que informa que todos os blocos têm elevador. O aviso 1 dá a entender que só alguns têm."
+    },
+    "tip": "Oração com “que” sem vírgulas restringe (só alguns); entre vírgulas, explica (vale para todos)."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a frase, escrita sem nenhuma pontuação interna:</p><blockquote><p>O técnico disse o capitão é o melhor jogador do time</p></blockquote><p>Mantendo as mesmas palavras, na mesma ordem, a pontuação que faz do capitão a pessoa que fala e do técnico a pessoa elogiada é:</p>",
+    "options": {
+      "A": "O técnico disse: o capitão é o melhor jogador do time.",
+      "B": "O técnico disse, o capitão é o melhor jogador do time.",
+      "C": "O técnico, disse o capitão é o melhor jogador do time.",
+      "D": "O técnico, disse o capitão, é o melhor jogador do time."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Queremos que o <b>capitão</b> seja quem fala. Então “disse o capitão” precisa formar um bloco próprio, uma intercalação que indica quem é o autor da fala, como em “A prova, disse a professora, será na sexta”.</p><p>Isolando esse bloco entre duas vírgulas, sobra a afirmação: “O técnico [...] é o melhor jogador do time”. Agora “o técnico” é o sujeito de “é”: é ele o elogiado.</p><p>Na D, portanto, o capitão diz que o técnico é o melhor jogador.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os dois-pontos depois de “disse” fazem do técnico quem fala, e o elogiado passa a ser o capitão: o contrário do pedido.",
+      "B": "O técnico continua sendo quem fala e o capitão o elogiado. Além disso, a vírgula entre “disse” e o que foi dito não é a pontuação adequada; o padrão seria usar dois-pontos.",
+      "C": "Com uma só vírgula, a intercalação fica incompleta: “disse o capitão é o melhor jogador” vira uma sequência sem sentido claro, e o técnico fica solto no início da frase."
+    },
+    "tip": "Para indicar quem fala no meio de uma frase, isole “disse fulano” entre duas vírgulas."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma crônica:</p><blockquote><p>– Alguém vai descer no próximo ponto? – perguntou o motorista, olhando pelo retrovisor.</p></blockquote><p>Ao passar a fala do motorista para o discurso indireto, a reescrita pontuada de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "O motorista perguntou: se alguém ia descer no próximo ponto?",
+      "B": "O motorista perguntou se alguém ia descer no próximo ponto.",
+      "C": "O motorista perguntou, se alguém ia descer no próximo ponto.",
+      "D": "O motorista perguntou se alguém ia descer no próximo ponto?"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.pontuacao",
+      "pt.gramatica.transformacoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No discurso direto, a fala aparece tal como foi dita, marcada pelo travessão e com a sua própria pontuação (aqui, o ponto de interrogação).</p><p>No discurso indireto, o narrador <b>conta</b> o que a personagem disse, com as próprias palavras. A pergunta deixa de ser uma frase interrogativa e vira uma oração que completa o verbo “perguntou”, introduzida por “se”. Essa é a chamada <b>interrogativa indireta</b>, e por isso:</p><ul><li>não há dois-pontos nem travessão;</li><li>não há vírgula entre “perguntou” e o seu complemento;</li><li>a frase termina com <b>ponto final</b>, porque o período, como um todo, é uma declaração.</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Mistura os dois discursos: os dois-pontos e o ponto de interrogação pertencem ao discurso direto e não combinam com a construção “perguntou se...”.",
+      "C": "A vírgula separa o verbo “perguntou” do seu complemento (“se alguém ia descer...”), o que a norma-padrão não permite.",
+      "D": "A pergunta indireta é uma declaração sobre o que foi perguntado, por isso termina em ponto final. O ponto de interrogação só cabe na pergunta direta."
+    },
+    "tip": "Pergunta em discurso indireto (“perguntou se...”) termina com ponto final, sem dois-pontos nem ponto de interrogação."
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>Em um artigo de opinião, o <b>tema</b> é o assunto tratado, e a <b>tese</b> é a posição que o autor defende sobre esse assunto.</p><p>Assinale a alternativa que apresenta, respectivamente, o tema e a tese do Texto 1.</p>",
+    "options": {
+      "A": "Tema: a falta de comida nas casas durante as férias. Tese: as famílias deveriam abastecer melhor a geladeira nesse período.",
+      "B": "Tema: o aprendizado da culinária pelos jovens. Tese: cozinhar é uma habilidade básica, que todo jovem deveria aprender.",
+      "C": "Tema: a formação de chefs de restaurante. Tese: a escola deveria criar uma disciplina obrigatória de gastronomia para os alunos.",
+      "D": "Tema: a divisão das tarefas domésticas. Tese: cozinhar é um dom especial que apenas algumas pessoas da família possuem."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O <b>tema</b> responde à pergunta “de que o texto fala?”. O artigo inteiro trata de jovens aprendendo (ou não) a cozinhar: a cena da geladeira, as razões para aprender, o papel da casa e da escola.</p><p>A <b>tese</b> responde à pergunta “o que o autor defende sobre isso?”. Ela aparece com clareza no segundo parágrafo: “Cozinhar é uma habilidade básica, como ler um mapa ou nadar, e deveria fazer parte da formação de todo jovem, em casa e na escola.” (linhas 6-8). Os parágrafos seguintes trazem as razões que sustentam essa posição.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Toma a cena de abertura como assunto principal. O próprio texto avisa que comida existe (“Comida, portanto, existe”, linhas 3-4); o problema é não saber prepará-la.",
+      "C": "A autora afirma que “Não se trata de formar chefs de restaurante” (linha 11) e que a escola pode colaborar “sem criar uma nova disciplina” (linha 17).",
+      "D": "A divisão das tarefas é só um dos argumentos (quarto parágrafo), e a “tese” proposta é justamente a ideia que a autora rejeita: para ela, cozinhar não é “quase um dom” (linha 5)."
+    },
+    "tip": "Tema é o assunto (um nome); tese é uma opinião sobre o assunto (uma frase com a qual se pode concordar ou não)."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No primeiro parágrafo do Texto 1 (linhas 1-4), a autora descreve uma cena do cotidiano: o adolescente abre a geladeira e anuncia que “não tem nada para comer”.</p><p>Começar o artigo com essa cena é uma estratégia que serve para</p>",
+    "options": {
+      "A": "comprovar, com dados de pesquisa, que os jovens brasileiros se alimentam mal nas férias.",
+      "B": "criticar as famílias que não mantêm a geladeira abastecida durante as férias escolares.",
+      "C": "narrar uma experiência pessoal da autora com o próprio filho, para emocionar o leitor.",
+      "D": "aproximar o leitor do assunto e mostrar que não falta comida, falta saber prepará-la."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A cena é comum (“repete-se em muitas casas”, linha 1), e muitos leitores vão reconhecê-la. Isso prende a atenção e aproxima o leitor do assunto.</p><p>Mas a cena também tem uma virada: a autora lista o que existe na geladeira (“Há ovos, arroz, tomate, um resto de feijão”, linha 3) e conclui: “Comida, portanto, existe. O que falta é saber o que fazer com ela.” (linhas 3-4). Assim, a situação cotidiana serve para <b>apresentar o problema</b> que o artigo vai discutir: a falta de saber cozinhar.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O parágrafo não traz números nem pesquisas; é uma cena imaginada, típica, e não um dado.",
+      "B": "A autora afirma o contrário: a geladeira tem comida. A crítica não é à falta de alimentos, mas à falta de saber cozinhá-los.",
+      "C": "A cena é genérica (“muitas casas”, “o adolescente”); a autora não fala de si nem de um filho seu."
+    },
+    "tip": "Um bom começo de artigo costuma usar uma situação conhecida para apresentar o problema; procure a frase que “vira” a cena em argumento."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Cozinhar é uma habilidade básica, como ler um mapa ou nadar” (linhas 6-7)</blockquote><p>Ao comparar cozinhar com ler um mapa ou nadar, a autora pretende</p>",
+    "options": {
+      "A": "mostrar que cozinhar se aprende, como qualquer habilidade, e não depende de um dom.",
+      "B": "alertar que cozinhar é tão arriscado quanto nadar e exige sempre a supervisão de adultos.",
+      "C": "propor que as aulas de Geografia e de Educação Física deem lugar às aulas de culinária.",
+      "D": "indicar que cozinhar é uma atividade de lazer, própria das férias, como passear e ir à praia."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pouco antes, a autora critica a visão de que saber cozinhar é “um talento especial, quase um dom” (linha 5) e responde: “Nem uma coisa nem outra.”</p><p>Ler um mapa e nadar são habilidades que ninguém traz de nascença: todo mundo aprende, com prática, e elas são úteis para a vida. Ao colocar cozinhar ao lado delas, a autora reforça que se trata de algo que <b>se aprende</b> e que <b>todos deveriam saber</b>. A comparação funciona como argumento contra a ideia de dom.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Pega apenas uma característica de “nadar” (o risco) que não tem relação com o texto. O ponto comum da comparação é ser uma habilidade básica que se aprende.",
+      "C": "A comparação não sugere trocar disciplinas. Aliás, a autora defende que a escola colabore “sem criar uma nova disciplina” (linha 17).",
+      "D": "O texto não trata a culinária como lazer, e sim como habilidade básica para a autonomia (linhas 9-12)."
+    },
+    "tip": "Numa comparação argumentativa, pergunte: qual característica os dois elementos têm em comum? É ela que o autor quer destacar."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<blockquote>“Não se trata de formar chefs de restaurante, mas pessoas capazes de se virar quando, cedo ou tarde, precisarem morar sozinhas.” (linhas 11-12)</blockquote><p>No desenvolvimento do artigo, essa frase tem a função de</p>",
+    "options": {
+      "A": "introduzir um novo argumento, segundo o qual a culinária é uma boa opção de carreira para os jovens.",
+      "B": "admitir que a proposta da autora é difícil de pôr em prática e talvez não funcione nas escolas.",
+      "C": "delimitar o alcance da proposta, evitando que ela pareça exagerada, e reforçar a ideia de autonomia.",
+      "D": "criticar os restaurantes, que oferecem aos jovens refeições caras e pouco nutritivas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Um leitor poderia pensar: “Ela quer que todo jovem vire cozinheiro profissional?”. A frase se antecipa a essa leitura e <b>esclarece o tamanho da proposta</b>: o objetivo não é formar profissionais (“Não se trata de formar chefs”), mas pessoas que saibam se virar sozinhas.</p><p>Ao fazer isso, a autora torna a tese mais razoável e retoma o argumento do parágrafo, a <b>autonomia</b> (linha 9): quem sabe cozinhar “não depende de ninguém para se alimentar bem”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o contrário: a frase afasta a ideia de carreira (“Não se trata de formar chefs”). O foco é a vida cotidiana, e não a profissão.",
+      "B": "A autora não reconhece nenhuma dificuldade nessa frase; ela apenas explica o que pretende. O texto segue confiante na proposta.",
+      "D": "Os restaurantes aparecem só na expressão “chefs de restaurante”, sem crítica. Os “lanches caros e pouco nutritivos” (linhas 10-11) são outro assunto."
+    },
+    "tip": "Frases do tipo “Não se trata de X, mas de Y” servem para corrigir uma leitura exagerada ou errada da tese."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No quarto parágrafo (linhas 13-16), a autora apresenta a “segunda razão” para defender sua tese: a divisão justa do trabalho dentro de casa.</p><p>Em relação à primeira razão, apresentada no terceiro parágrafo (linhas 9-12), esse argumento</p>",
+    "options": {
+      "A": "amplia a discussão, mostrando que saber cozinhar beneficia também quem divide a casa com o jovem.",
+      "B": "contradiz a primeira razão, pois mostra que o jovem não deveria cozinhar sozinho, e sim com ajuda.",
+      "C": "repete a primeira razão com outras palavras, sem acrescentar nenhuma ideia nova ao artigo.",
+      "D": "restringe a proposta às mães e às avós, que são as pessoas da casa que já sabem cozinhar."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A primeira razão é <b>individual</b>: quem sabe cozinhar “não depende de ninguém para se alimentar bem” (linha 10). O benefício é do próprio jovem.</p><p>A segunda razão olha para <b>os outros</b>: enquanto cozinhar for visto como “coisa de mãe” ou “coisa de avó”, “alguém continuará acumulando a tarefa sozinho” (linhas 14-15). Se o jovem aprende, a família inteira ganha, porque o trabalho passa a ser dividido. A frase final resume: “Aprender a cozinhar é também aprender a dividir.” O advérbio “também” indica acréscimo.</p><p>Assim, o novo argumento amplia a discussão do plano pessoal para o da convivência familiar.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não há contradição. “Dividir” no texto significa repartir as tarefas da casa, o que exige justamente que o jovem saiba cozinhar sozinho.",
+      "C": "O argumento é novo: a primeira razão fala do benefício para o próprio jovem; a segunda, da justiça com quem sempre cozinhou.",
+      "D": "A autora critica a ideia de que cozinhar seja “coisa de mãe” ou “coisa de avó” (linha 14); ela quer que a tarefa deixe de ficar com uma só pessoa."
+    },
+    "tip": "Ao comparar dois argumentos, veja quem é beneficiado em cada um: o próprio indivíduo, a família, a sociedade."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>No quinto parágrafo do Texto 1 (linhas 17-20), a autora afirma que a escola “pode colaborar sem criar uma nova disciplina”.</p><p>Qual das frases abaixo, se fosse acrescentada ao final desse parágrafo, <b>reforçaria</b> o argumento apresentado nele?</p>",
+    "options": {
+      "A": "“Por isso, toda escola deveria contratar um cozinheiro profissional para dar uma aula semanal de culinária.”",
+      "B": "“Afinal, muitos adultos também não sabem cozinhar e nem por isso deixam de se alimentar todos os dias.”",
+      "C": "“Ainda assim, o ideal é que os alunos só aprendam a cozinhar depois de terminarem a educação básica.”",
+      "D": "“Em Língua Portuguesa, por exemplo, ler e escrever receitas ajuda a estudar textos instrucionais.”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O argumento do parágrafo é que a culinária pode entrar nas <b>disciplinas que já existem</b>, sem ocupar um horário novo. Para sustentá-lo, a autora dá exemplos: Ciências (a massa do pão), frações em Matemática (dobrar a receita) e História (a origem dos alimentos).</p><p>Uma frase que reforce esse argumento precisa ser <b>mais um exemplo do mesmo tipo</b>. É o que faz a alternativa D: em Língua Portuguesa, a receita pode ser estudada como texto, sem criar aula nova.</p><p>As outras frases ou contradizem o parágrafo, ou enfraquecem a tese do artigo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Uma aula semanal de culinária com professor próprio é, na prática, uma nova disciplina, justamente o que a autora diz não ser necessário.",
+      "B": "Essa frase enfraquece o artigo inteiro, pois sugere que saber cozinhar não faz falta. É um argumento contrário à tese.",
+      "C": "Contradiz a tese, que defende a culinária na formação dos jovens “em casa e na escola” (linha 8), e não depois dela."
+    },
+    "tip": "Para reforçar um argumento, a frase acrescentada precisa ir na mesma direção dele; um novo exemplo do mesmo tipo é a forma mais segura."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [
+      "T1"
+    ],
+    "stem": "<p>O título do Texto 1, “Quem cozinha cuida”, é retomado na última frase do artigo: “Quem aprende a cozinhar aprende, antes de tudo, a cuidar de si e dos outros.” (linhas 23-24).</p><p>Essa frase funciona como síntese do artigo porque</p>",
+    "options": {
+      "A": "“cuidar de si” remete à colaboração da escola, e “cuidar dos outros” remete à cena da geladeira do início.",
+      "B": "“cuidar de si” retoma a autonomia, e “cuidar dos outros” retoma a divisão das tarefas da casa.",
+      "C": "“cuidar de si” retoma a ideia de dom, e “cuidar dos outros” retoma a formação de chefs de restaurante.",
+      "D": "“cuidar de si” e “cuidar dos outros” referem-se à paciência dos adultos diante dos ovos queimados."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O artigo apresenta duas razões principais, cada uma anunciada claramente:</p><ul><li>“A primeira razão é a autonomia” (linha 9): saber cozinhar permite se alimentar bem sem depender de ninguém, ou seja, <b>cuidar de si</b>;</li><li>“A segunda razão é a divisão justa do trabalho dentro de casa” (linha 13): quem cozinha deixa de sobrecarregar mãe ou avó, ou seja, <b>cuida dos outros</b>.</li></ul><p>A frase final junta as duas razões numa só ideia e ecoa o título, fechando o texto em torno da tese.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Troca os argumentos por partes do texto que não são razões da tese: a cena da geladeira é a introdução, e a escola é o espaço de aplicação da proposta.",
+      "C": "A autora rejeita a ideia de dom (“Nem uma coisa nem outra”, linha 6) e diz que não quer formar chefs (linha 11). Uma síntese não retomaria ideias que o texto recusa.",
+      "D": "A paciência com os “ovos queimados” (linha 22) é um pedido aos adultos da casa, e não o conteúdo dos dois cuidados da frase final."
+    },
+    "tip": "Na conclusão, procure como o autor amarra os argumentos: muitas vezes cada parte da frase final corresponde a um parágrafo do desenvolvimento."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>O Texto 2 é uma carta de leitor escrita em resposta ao Texto 1.</p><p>A posição defendida pelo autor da carta em relação ao artigo é a de que</p>",
+    "options": {
+      "A": "concorda inteiramente com o artigo e propõe que a culinária se torne uma disciplina obrigatória.",
+      "B": "discorda inteiramente do artigo, pois considera que saber cozinhar não traz benefícios aos jovens.",
+      "C": "concorda que cozinhar dá autonomia aos jovens, mas discorda de que a escola assuma essa tarefa.",
+      "D": "defende que os jovens aprendam a cozinhar apenas na escola, sem a participação da família."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.tema_tese",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A carta deixa sua posição clara logo no primeiro parágrafo:</p><ul><li>concordância: “concordo que saber cozinhar dá autonomia aos jovens” (linhas 1-2);</li><li>discordância: “Discordo, porém, da ideia de que a escola deva assumir mais essa tarefa” (linhas 3-4).</li></ul><p>No fim, o leitor indica onde, para ele, o aprendizado deve acontecer: “A cozinha de casa, essa sim, pode e deve se abrir para os filhos” (linhas 10-11). Portanto, a tese da carta é uma <b>concordância parcial</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O leitor não concorda inteiramente: ele discorda do papel da escola. E o próprio artigo não propõe disciplina nova (Texto 1, linha 17).",
+      "B": "O leitor reconhece que saber cozinhar dá autonomia (linhas 1-2); a discordância é só sobre a escola.",
+      "D": "É o oposto da carta, que defende a casa como lugar desse aprendizado (linhas 10-11) e questiona o papel da escola."
+    },
+    "tip": "Em textos que respondem a outros, identifique com o que o autor concorda e com o que discorda: a tese costuma estar no “porém”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [
+      "T2"
+    ],
+    "stem": "<p>No primeiro parágrafo do Texto 2 (linhas 1-4), o leitor usa as expressões “concordo que” e “É verdade, também, que” antes de afirmar “Discordo, porém”.</p><p>Essa forma de organizar o parágrafo</p>",
+    "options": {
+      "A": "mostra que o leitor mudou de opinião durante a escrita da carta, sem perceber a contradição.",
+      "B": "enfraquece a carta, porque o leitor acaba concordando com tudo o que o artigo afirma.",
+      "C": "tem como principal objetivo elogiar a autora do artigo para que a carta seja publicada.",
+      "D": "reconhece pontos válidos do artigo antes de discordar, o que torna a crítica equilibrada."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Esse recurso se chama <b>concessão</b>: o autor admite que o outro lado tem razão em alguns pontos (“concordo que”, “É verdade, também, que”) e só depois apresenta sua discordância, introduzida pela conjunção adversativa “porém”.</p><p>A estratégia mostra que o leitor leu o artigo com atenção e não está discordando por teimosia. Com isso, sua crítica ganha credibilidade: parece justa, e não uma rejeição de tudo.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "A organização é planejada, e não uma contradição: o “porém” marca exatamente a passagem do que o leitor aceita para o que ele rejeita.",
+      "B": "O leitor não concorda com tudo; a parte principal da carta é a discordância sobre a escola. A concessão fortalece essa crítica.",
+      "C": "Não há elogio pessoal à autora, e a carta não fala em ser publicada. As concordâncias são sobre ideias do artigo."
+    },
+    "tip": "“É verdade que... porém...” é a fórmula da concessão: ceder num ponto para ganhar força no ponto principal."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>No segundo parágrafo do Texto 2, o leitor argumenta que, como as horas de aula não aumentam, “cada novidade acaba ocupando o lugar de alguma coisa” (linha 6).</p><p>Considerando o quinto parágrafo do Texto 1 (linhas 17-20), pode-se afirmar que esse argumento do leitor</p>",
+    "options": {
+      "A": "confirma a proposta do Texto 1, cuja autora também defende uma disciplina própria de culinária.",
+      "B": "não tem relação com o Texto 1, pois a autora do artigo não menciona a escola em nenhum momento.",
+      "C": "perde parte da força, pois a autora propõe integrar a culinária a disciplinas que já existem.",
+      "D": "é confirmado pelo Texto 1, cuja autora admite que as receitas tomariam o lugar das aulas de Ciências."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.argumentacao",
+      "pt.leitura.comparacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O argumento do leitor supõe que ensinar culinária significa <b>acrescentar</b> um conteúdo ao currículo; como o tempo é fixo, algo teria de sair.</p><p>Mas o Texto 1 não propõe isso. Seu quinto parágrafo diz que a escola “pode colaborar sem criar uma nova disciplina” (linha 17) e mostra como: a massa do pão na aula de Ciências, as frações numa receita dobrada, a origem dos alimentos em História. A culinária entraria <b>dentro</b> das aulas que já existem, como recurso para ensinar os conteúdos de sempre.</p><p>Assim, esse argumento do leitor responde a uma proposta que o artigo não fez, e por isso perde parte da força. (O outro argumento da carta, sobre a falta de estrutura das cozinhas, continua válido e não está em questão aqui.)</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A autora do Texto 1 diz exatamente o contrário: a escola pode colaborar “sem criar uma nova disciplina” (linha 17).",
+      "B": "O Texto 1 fala da escola na tese (“em casa e na escola”, linha 8) e dedica a ela todo o quinto parágrafo.",
+      "D": "A autora não admite perda alguma: ela diz que a aula de Ciências “fica mais viva” com a receita (linhas 17-18). A culinária serve ao conteúdo, e não o substitui."
+    },
+    "tip": "Antes de aceitar uma crítica, confira se ela ataca o que o outro texto realmente disse; às vezes o crítico rebate uma proposta que não foi feita."
+  }
+]

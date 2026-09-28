@@ -1,0 +1,272 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um médico receitou a Caio um xarope na dose de 5 mL a cada 8 horas, todos os dias, sem interrupção. O frasco do xarope contém 0,12 L.</p><p>Se Caio começar um frasco cheio e seguir a receita corretamente, o xarope desse frasco será suficiente para exatamente</p>",
+    "options": {
+      "A": "8 dias.",
+      "B": "24 dias.",
+      "C": "15 dias.",
+      "D": "5 dias."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.unidades",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, passamos o conteúdo do frasco para mililitros: 1 L = 1000 mL, então \\(0{,}12\\) L \\(= 0{,}12 \\cdot 1000 = 120\\) mL.</p><p>Um dia tem 24 horas; tomando uma dose a cada 8 horas, são \\(24 \\div 8 = 3\\) doses por dia, ou seja, \\(3 \\cdot 5 = 15\\) mL por dia.</p><p>Duração do frasco: \\(120 \\div 15 = 8\\) dias. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou o número de doses do frasco (\\(120 \\div 5 = 24\\)) e deu esse valor como número de dias.",
+      "C": "Dividiu 120 mL pelo intervalo de 8 horas, misturando volume com tempo.",
+      "D": "Dividiu 120 mL por 24 (horas do dia), como se fosse 1 mL por hora, sem considerar as doses de 5 mL."
+    },
+    "tip": "Converta tudo para a mesma unidade (mL) e descubra quanto se gasta por dia antes de dividir."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma embalagem de suco tem a forma de um paralelepípedo retângulo cujas medidas internas são 6 cm, 10 cm e 20 cm.</p><p>Quando está completamente cheia, essa embalagem contém</p>",
+    "options": {
+      "A": "12 L.",
+      "B": "0,12 L.",
+      "C": "1,2 L.",
+      "D": "120 L."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Volume do paralelepípedo: comprimento vezes largura vezes altura.</p><p>\\(6 \\cdot 10 \\cdot 20 = 1200\\) cm³.</p><p>Como 1 L = 1 dm³ = 1000 cm³, temos \\(1200 \\div 1000 = 1{,}2\\) L. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Dividiu 1200 por 100, como se 1 L fossem 100 cm³.",
+      "B": "Dividiu 1200 por 10 000, como se 1 L fossem 10 000 cm³.",
+      "D": "Dividiu 1200 por 10, como se 1 L fossem 10 cm³."
+    },
+    "tip": "1 litro = 1 dm³ = 1000 cm³ (um cubo de 10 cm de aresta)."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A pista de atletismo de um clube tem 400 m por volta. Letícia está se preparando para uma corrida de 5 km e quer correr, na pista, exatamente essa distância.</p><p>O número de voltas que ela deve dar é</p>",
+    "options": {
+      "A": "1,25.",
+      "B": "12,5.",
+      "C": "125.",
+      "D": "80."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Passamos a distância da corrida para metros: 1 km = 1000 m, então 5 km = 5000 m.</p><p>Número de voltas: \\(5000 \\div 400 = 12{,}5\\).</p><p>Ela deve dar 12 voltas completas e mais meia volta. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Usou 5 km = 500 m: \\(500 \\div 400 = 1{,}25\\).",
+      "C": "Usou 5 km = 50 000 m: \\(50\\,000 \\div 400 = 125\\).",
+      "D": "Inverteu a divisão: \\(400 \\div 5 = 80\\), misturando metros com quilômetros."
+    },
+    "tip": "Antes de dividir, coloque as duas medidas na mesma unidade: 1 km = 1000 m."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A caixa de areia do parquinho de uma praça tem o fundo retangular, de 3 m por 2 m, e paredes verticais. A prefeitura vai colocar areia até formar uma camada de 30 cm de altura em toda a caixa. A areia é entregue em sacos de 20 litros cada.</p><p>O número de sacos necessários é</p>",
+    "options": {
+      "A": "9.",
+      "B": "90.",
+      "C": "900.",
+      "D": "30."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Colocamos tudo em metros: 30 cm = 0,3 m.</p><p>Volume de areia: \\(3 \\cdot 2 \\cdot 0{,}3 = 1{,}8\\) m³.</p><p>Como 1 m³ = 1000 L, temos \\(1{,}8 \\cdot 1000 = 1800\\) L.</p><p>Número de sacos: \\(1800 \\div 20 = 90\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Multiplicou medidas em unidades diferentes (\\(3 \\cdot 2 \\cdot 30 = 180\\)) e tratou o resultado como 180 litros.",
+      "C": "Usou 1 m³ = 10 000 L, e obteve 18 000 L.",
+      "D": "Não usou a altura da camada: pegou a área do fundo (6 m² = 600 dm²) e dividiu por 20, como se área fosse volume."
+    },
+    "tip": "Volume de areia = área do fundo vezes altura da camada, tudo na mesma unidade; depois 1 m³ = 1000 L."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um sítio tem uma cisterna com a forma de um cubo de 2 m de aresta (medida interna), que estava completamente vazia. Um caminhão-pipa com 12.000 litros de água despejou nela o necessário para enchê-la completamente, e o restante da água continuou no caminhão.</p><p>A quantidade de água que continuou no caminhão foi de</p>",
+    "options": {
+      "A": "6.000 L.",
+      "B": "11.992 L.",
+      "C": "10.000 L.",
+      "D": "4.000 L."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Volume do cubo: \\(2 \\cdot 2 \\cdot 2 = 2^3 = 8\\) m³.</p><p>Como 1 m³ = 1000 L, a cisterna comporta \\(8 \\cdot 1000 = 8000\\) L.</p><p>Sobra no caminhão: \\(12\\,000 - 8000 = 4000\\) L. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Calculou o volume do cubo como \\(2 \\cdot 3 = 6\\) m³, confundindo \\(2^3\\) com \\(2 \\cdot 3\\).",
+      "B": "Achou 8 m³ corretamente, mas tratou esse volume como 8 litros.",
+      "C": "Usou a aresta como se fosse o volume (2 m³ = 2000 L)."
+    },
+    "tip": "Volume do cubo é aresta ao cubo (a · a · a), e cada metro cúbico cabe 1000 litros."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em meteorologia, a quantidade de chuva é medida em milímetros: dizer que choveu 1 mm significa que, se a água não escorresse nem se infiltrasse, ela formaria sobre um chão plano uma camada de 1 mm de altura.</p><p>Uma casa tem um sistema que recolhe a água da chuva que cai sobre o telhado, cuja projeção horizontal é um retângulo de 10 m por 5 m. Em um dia em que choveu 12 mm, se toda a água que caiu sobre essa área fosse recolhida, o volume obtido seria de</p>",
+    "options": {
+      "A": "60 L.",
+      "B": "6.000 L.",
+      "C": "600 L.",
+      "D": "6 L."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.unidades",
+      "mat.med.volume"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A água forma uma camada com a forma de um paralelepípedo muito baixo: base de \\(10 \\cdot 5 = 50\\) m² e altura de 12 mm.</p><p>Em metros: 1 m = 1000 mm, então 12 mm = 0,012 m.</p><p>Volume: \\(50 \\cdot 0{,}012 = 0{,}6\\) m³.</p><p>Como 1 m³ = 1000 L: \\(0{,}6 \\cdot 1000 = 600\\) L. Resposta: <b>C</b>.</p><p>Observação: cada 1 mm de chuva sobre 1 m² corresponde a exatamente 1 litro de água.</p>",
+    "distractors": {
+      "A": "Converteu 12 mm como 0,0012 m (dividiu por 10 000), obtendo 0,06 m³.",
+      "B": "Converteu 12 mm como 0,12 m (dividiu por 100), obtendo 6 m³.",
+      "D": "Achou 0,6 m³ corretamente, mas usou 1 m³ = 10 L na conversão final."
+    },
+    "tip": "1 mm de chuva sobre 1 m² equivale a 1 litro; para outras contas, lembre que 1 m = 1000 mm e 1 m³ = 1000 L."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para uma festa, Marta preparou 2,7 litros de refresco e vai servi-lo em copos cilíndricos, todos iguais, com 6 cm de diâmetro interno e 10 cm de altura interna. Ela vai encher cada copo completamente.</p><p>Considerando \\(\\pi = 3\\), o número de copos que ela conseguirá encher com todo o refresco é</p>",
+    "options": {
+      "A": "10.",
+      "B": "30.",
+      "C": "2.",
+      "D": "100."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O volume de um cilindro é a área da base vezes a altura: \\(V = \\pi r^2 h\\).</p><p>O diâmetro é 6 cm, então o raio é 3 cm.</p><p>\\(V = 3 \\cdot 3^2 \\cdot 10 = 3 \\cdot 9 \\cdot 10 = 270\\) cm³ = 270 mL (pois 1 cm³ = 1 mL).</p><p>O refresco: 2,7 L = 2700 mL.</p><p>Número de copos: \\(2700 \\div 270 = 10\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu o \\(\\pi\\) na fórmula (\\(9 \\cdot 10 = 90\\) cm³): \\(2700 \\div 90 = 30\\).",
+      "C": "Usou o diâmetro como raio (\\(3 \\cdot 36 \\cdot 10 = 1080\\) cm³): \\(2700 \\div 1080 = 2{,}5\\), ou seja, 2 copos cheios.",
+      "D": "Converteu 2,7 L como 27 000 cm³: \\(27\\,000 \\div 270 = 100\\)."
+    },
+    "tip": "Volume do cilindro = π · raio² · altura (raio é metade do diâmetro), e 1 cm³ = 1 mL."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Luísa faz velas artesanais em forma de cubo. Com um bloco de parafina, ela consegue fazer exatamente 40 velas cúbicas de 5 cm de aresta. Ela decidiu usar outro bloco igual para fazer velas maiores, também cúbicas, com 10 cm de aresta.</p><p>Desconsiderando perdas, o número de velas grandes que ela conseguirá fazer com esse bloco é</p>",
+    "options": {
+      "A": "20.",
+      "B": "10.",
+      "C": "8.",
+      "D": "5."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Volume de uma vela pequena: \\(5^3 = 125\\) cm³. O bloco tem \\(40 \\cdot 125 = 5000\\) cm³ de parafina.</p><p>Volume de uma vela grande: \\(10^3 = 1000\\) cm³.</p><p>Número de velas grandes: \\(5000 \\div 1000 = 5\\).</p><p>Outra forma de pensar: dobrando a aresta, o volume fica multiplicado por \\(2 \\cdot 2 \\cdot 2 = 8\\); então cada vela grande gasta a parafina de 8 pequenas, e \\(40 \\div 8 = 5\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Achou que, dobrando a aresta, o volume também dobra (\\(40 \\div 2 = 20\\)).",
+      "B": "Multiplicou o volume por 4 (fator das áreas, \\(2^2\\)) em vez de 8 (fator dos volumes, \\(2^3\\)): \\(40 \\div 4 = 10\\).",
+      "C": "Encontrou o fator 8 pelo qual o volume é multiplicado e deu esse número como resposta, sem dividir 40 por ele."
+    },
+    "tip": "Se todas as medidas de um sólido são multiplicadas por k, o volume é multiplicado por k³: aresta dobrada, volume 8 vezes maior."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na entrada de uma biblioteca pública será construída uma escada de concreto maciço com três degraus iguais. Cada degrau tem 20 cm de altura e 30 cm de profundidade, e a escada tem 1 m de largura. A figura mostra a escada vista de lado, apoiada no chão.</p><p><img src=\"img/b20/mat-q09.svg\" alt=\"Perfil lateral de uma escada maciça de três degraus, subindo da esquerda para a direita, apoiada no chão. Cada degrau tem 20 cm de altura (espelho) e 30 cm de profundidade (piso). O perfil vai do chão até o alto do terceiro degrau, a 60 cm de altura, e termina em uma face vertical à direita. Abaixo, a legenda: largura da escada, 1 m.\"></p><p>O volume de concreto necessário para construir essa escada é de</p>",
+    "options": {
+      "A": "0,54 m³.",
+      "B": "0,36 m³.",
+      "C": "0,27 m³.",
+      "D": "3,6 m³."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.med.volume",
+      "mat.geo.areas",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A escada é um prisma: a base é o perfil lateral (em forma de escada) e a \"altura\" do prisma é a largura, 1 m. Então o volume é a área do perfil vezes 1 m.</p><p>Dividimos o perfil em três colunas verticais de 30 cm de largura:</p><ul><li>1ª coluna (degrau mais baixo): 30 cm por 20 cm, área 600 cm²;</li><li>2ª coluna: 30 cm por 40 cm, área 1200 cm²;</li><li>3ª coluna: 30 cm por 60 cm, área 1800 cm².</li></ul><p>Área do perfil: \\(600 + 1200 + 1800 = 3600\\) cm².</p><p>Como 1 m² = 10 000 cm², temos 3600 cm² = 0,36 m².</p><p>Volume: \\(0{,}36 \\cdot 1 = 0{,}36\\) m³. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calculou o volume do bloco retangular que envolve a escada (\\(0{,}9 \\cdot 0{,}6 \\cdot 1 = 0{,}54\\) m³), sem descontar os espaços acima dos degraus.",
+      "C": "Tratou o perfil como um triângulo de catetos 90 cm e 60 cm (\\(\\frac{90 \\cdot 60}{2} = 2700\\) cm²), ignorando as quinas dos degraus.",
+      "D": "Converteu 3600 cm² como se 1 m² tivesse 1000 cm², obtendo 3,6 m²."
+    },
+    "tip": "Sólidos com a mesma seção de ponta a ponta são prismas: volume = área da seção vezes o comprimento."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma piscina tem a forma de um paralelepípedo retângulo com medidas internas de 6 m de comprimento, 3 m de largura e 1,2 m de profundidade. Para enchê-la completamente, estando vazia, será usada uma mangueira que despeja, sem parar, 0,5 litro de água por segundo.</p><p>O tempo necessário para encher a piscina é de</p>",
+    "options": {
+      "A": "720 horas.",
+      "B": "3 horas.",
+      "C": "12 horas.",
+      "D": "43,2 horas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.unidades",
+      "mat.med.volume"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Volume da piscina: \\(6 \\cdot 3 \\cdot 1{,}2 = 21{,}6\\) m³ \\(= 21{,}6 \\cdot 1000 = 21\\,600\\) L.</p><p>A mangueira despeja 0,5 L por segundo, isto é, 1 litro a cada 2 segundos. Tempo: \\(21\\,600 \\div 0{,}5 = 43\\,200\\) segundos.</p><p>Convertendo: 1 hora = 60 min = \\(60 \\cdot 60 = 3600\\) segundos. Então \\(43\\,200 \\div 3600 = 12\\) horas. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Dividiu os 43 200 segundos por 60 uma única vez (obteve 720 minutos) e chamou o resultado de horas.",
+      "B": "Multiplicou o volume pela vazão (\\(21\\,600 \\cdot 0{,}5 = 10\\,800\\)) em vez de dividir, e depois converteu esses 10 800 segundos em 3 horas.",
+      "D": "Dividiu os 43 200 segundos por 1000, como se 1 hora tivesse 1000 segundos."
+    },
+    "tip": "Tempo = volume ÷ vazão; depois converta com calma: 1 h = 60 min = 3600 s."
+  }
+]

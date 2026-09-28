@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 320" width="460" height="320" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="460" height="320" fill="#ffffff"/>
+  <circle cx="180.0" cy="200.0" r="45" fill="#e3e8ee" stroke="#555" stroke-width="2.5"/>
+  <circle cx="180.0" cy="200.0" r="36" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+  <circle cx="225.0" cy="122.1" r="45" fill="#e3e8ee" stroke="#555" stroke-width="2.5"/>
+  <circle cx="225.0" cy="122.1" r="36" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+  <circle cx="270.0" cy="200.0" r="45" fill="#e3e8ee" stroke="#555" stroke-width="2.5"/>
+  <circle cx="270.0" cy="200.0" r="36" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+  <path d="M 141.0 177.5 L 186.0 99.6 A 45 45 0 0 1 264.0 99.6 L 309.0 177.5 A 45 45 0 0 1 270.0 245.0 L 180.0 245.0 A 45 45 0 0 1 141.0 177.5 Z" fill="none" stroke="#c0392b" stroke-width="4"/>
+  <line x1="135.0" y1="267.0" x2="225.0" y2="267.0" stroke="#333" stroke-width="1.5"/>
+  <line x1="135.0" y1="260.0" x2="135.0" y2="274.0" stroke="#333" stroke-width="1.5"/>
+  <line x1="225.0" y1="260.0" x2="225.0" y2="274.0" stroke="#333" stroke-width="1.5"/>
+  <text x="180.0" y="291.0" text-anchor="middle" font-size="15">20 cm</text>
+  <text x="345.0" y="150.0" text-anchor="start" font-size="15" fill="#c0392b" font-weight="bold">cinta</text>
+</svg>

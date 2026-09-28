@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="480" height="360" fill="#fff"/>
+  <line x1="40" y1="20" x2="40" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="90" y1="20" x2="90" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="140" y1="20" x2="140" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="190" y1="20" x2="190" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="240" y1="20" x2="240" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="290" y1="20" x2="290" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="340" y1="20" x2="340" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="390" y1="20" x2="390" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="440" y1="20" x2="440" y2="320" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="20" x2="440" y2="20" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="70" x2="440" y2="70" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="120" x2="440" y2="120" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="170" x2="440" y2="170" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="220" x2="440" y2="220" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="270" x2="440" y2="270" stroke="#bbb" stroke-width="1"/>
+  <line x1="40" y1="320" x2="440" y2="320" stroke="#bbb" stroke-width="1"/>
+  <polygon points="40,320 340,320 440,170 290,20 40,70" fill="#81c784" fill-opacity="0.75" stroke="#1b5e20" stroke-width="2.5"/>
+  <text x="190" y="175" text-anchor="middle" font-size="16">mata</text>
+  <text x="240" y="350" text-anchor="middle" font-size="14">Lado de cada quadradinho: 10 m</text>
+</svg>

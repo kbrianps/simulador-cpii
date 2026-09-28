@@ -1,7 +1,7 @@
 // Início: countdown, where the student stands, and the answer map of every exam.
 
 function answerMapHTML() {
-  const rows = EXAMS.map((e) => {
+  const rows = EXAMS.filter((e) => !e.bank).map((e) => {
     let prevSubj = null;
     const cells = e.questions
       .map((q) => {
@@ -17,7 +17,10 @@ function answerMapHTML() {
     const done = e.questions.filter((q) => questionStatus(q.id)).length;
     return `<div class="map-row"><div class="map-label"><b>${esc(e.title)}</b><br><small class="muted">${done} de ${e.questions.length} feitas</small></div><div class="map-cells">${cells}</div></div>`;
   }).join("");
-  return `<div class="map">${rows}</div>
+  const bankQ = ALL_Q.filter((q) => EXAM[q.examId].bank);
+  const bankDone = bankQ.filter((q) => questionStatus(q.id)).length;
+  const bankLine = bankQ.length ? `<p class="muted" style="margin-top:14px">Banco de questões por assunto: ${bankDone} de ${bankQ.length} feitas. <a href="#/praticar">Treinar</a></p>` : "";
+  return `<div class="map">${rows}</div>${bankLine}
     <div class="map-legend"><span><i class="cell ok">✓</i> acertou (última tentativa)</span><span><i class="cell bad">✕</i> errou</span><span><i class="cell">7</i> ainda não fez</span><span><i class="cell void">·</i> anulada</span><span class="muted">Nas provas oficiais, as questões 1 a 10 são de Português e 11 a 20 de Matemática.</span></div>`;
 }
 

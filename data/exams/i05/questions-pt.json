@@ -8,7 +8,7 @@
     "stem": "<p>O Texto 1 é um artigo de opinião: nele, a autora defende um ponto de vista (a tese) e apresenta argumentos para sustentá-lo.</p><p>A tese defendida no texto é a de que</p>",
     "options": {
       "A": "o funk e o rap devem ficar livres de qualquer crítica, por serem produzidos nas periferias.",
-      "B": "as manifestações musicais das periferias são cultura legítima e não devem ser julgadas pela origem de quem as produz.",
+      "B": "a música das periferias é cultura legítima e não deve ser julgada pela origem de quem a produz.",
       "C": "o samba deixou de pertencer à periferia no momento em que passou a representar o país no exterior.",
       "D": "as batalhas de rima devem substituir as aulas de língua portuguesa nas escolas das periferias."
     },
@@ -65,7 +65,7 @@
     ],
     "stem": "<blockquote><p>“É claro que há letras que merecem crítica, como em qualquer estilo musical. O problema é outro: julga-se o gênero inteiro pelo lugar de onde ele vem e pelo endereço de quem o produz.” (linhas 16-18)</p></blockquote><p>No desenvolvimento da argumentação, a primeira frase do trecho acima tem a função de</p>",
     "options": {
-      "A": "admitir uma possível objeção dos leitores para, em seguida, mostrar que a questão principal é outra.",
+      "A": "admitir uma possível objeção para, em seguida, mostrar que a questão principal é outra.",
       "B": "reforçar a opinião de quem considera o funk e o rap “música de bandido”.",
       "C": "apresentar a conclusão do texto, antecipando a proposta do último parágrafo.",
       "D": "introduzir um dado de pesquisa que comprova a qualidade das letras de funk e de rap."
@@ -97,7 +97,7 @@
       "A": "“algumas décadas”.",
       "B": "“os primeiros sambas”.",
       "C": "“as periferias”.",
-      "D": "“as batalhas de rima de hoje”."
+      "D": "“as batalhas de rima”."
     },
     "answer": "D",
     "annulled": false,
@@ -271,7 +271,7 @@
     "options": {
       "A": "defendem que o funk e o rap substituam a escola na formação dos jovens das periferias.",
       "B": "denunciam principalmente a repressão policial sofrida pelos sambistas no início do século XX.",
-      "C": "valorizam manifestações musicais de origem popular, a exemplo do rap e das batalhas de rima, como formas legítimas de expressão.",
+      "C": "valorizam manifestações musicais populares, a exemplo do rap, como formas legítimas de expressão.",
       "D": "afirmam que as batalhas de rima são superiores às formas musicais mais antigas, como o samba."
     },
     "answer": "C",

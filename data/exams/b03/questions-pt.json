@@ -1,0 +1,269 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Numa aula de culinária da escola, os alunos anotaram frases ditas durante a preparação de um bolo. Assinale a alternativa em que há uma <b>comparação</b>, e não uma metáfora:</p>",
+    "options": {
+      "A": "“Essa batedeira é um trator: mistura qualquer massa.”",
+      "B": "“Depois de meia hora com o forno ligado, a cozinha virou uma sauna.”",
+      "C": "“A massa cresceu feito uma nuvem dentro da forma.”",
+      "D": "“A receita da avó do Caio é um tesouro da turma.”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A <b>comparação</b> aproxima dois seres por uma semelhança usando um <b>conectivo comparativo</b> (como, feito, igual a, tal qual, que nem). A <b>metáfora</b> faz a mesma aproximação, mas sem conectivo: uma coisa é chamada diretamente pelo nome da outra.</p><p>Em “A massa cresceu <b>feito</b> uma nuvem”, a palavra “feito” tem o sentido de “como”: a massa não virou nuvem, apenas cresceu de um jeito parecido com ela, fofa e volumosa. Há, portanto, conectivo, e a figura é a comparação.</p><p>Nas demais frases, a semelhança está implícita: a batedeira “é um trator”, a cozinha “virou uma sauna”, a receita “é um tesouro”. São metáforas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não há conectivo: a batedeira é chamada diretamente de “trator” por ser forte. É metáfora, não comparação.",
+      "B": "“Virou uma sauna” afirma diretamente que a cozinha se transformou em outra coisa, sem “como” ou “feito”. É metáfora para dizer que ela ficou muito quente.",
+      "D": "A receita é chamada de “tesouro” sem nenhum conectivo, pelo valor que tem para a turma. É metáfora."
+    },
+    "tip": "Procure o conectivo: com “como”, “feito”, “igual a” ou “que nem” é comparação; sem ele, é metáfora."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Mãe, eu já te mandei <b><u>um milhão de mensagens</u></b> e você não respondeu nenhuma!”</p></blockquote><p>Nessa mensagem enviada por um adolescente, a expressão destacada constitui um exemplo de</p>",
+    "options": {
+      "A": "hipérbole.",
+      "B": "eufemismo.",
+      "C": "metonímia.",
+      "D": "antítese."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Ninguém consegue mandar, de fato, um milhão de mensagens enquanto espera uma resposta. O número é um <b>exagero proposital</b>, usado para mostrar a impaciência do filho e a sensação de que insistiu muito.</p><p>O exagero intencional para dar ênfase a uma ideia é a <b>hipérbole</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Eufemismo suaviza uma ideia desagradável. Aqui acontece o contrário: a fala aumenta a situação para reforçar a reclamação.",
+      "C": "Metonímia troca um termo por outro com o qual tem relação real (autor pela obra, parte pelo todo). “Um milhão de mensagens” não substitui nenhuma outra palavra: apenas exagera a quantidade.",
+      "D": "A antítese aproxima ideias opostas. O contraste entre “um milhão” e “nenhuma” aparece na frase inteira, mas a expressão destacada, sozinha, não opõe ideias: ela exagera a quantidade."
+    },
+    "tip": "Se a frase é impossível ao pé da letra porque aumenta demais uma quantidade ou intensidade, pense em hipérbole."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“No fim da tarde, o vento <b><u>assobiava</u></b> entre as árvores do parque, e as folhas secas <b><u>corriam</u></b> pela calçada, <b><u>fugindo</u></b> da chuva que se aproximava.”</p></blockquote><p>Os termos destacados atribuem a elementos da natureza ações próprias de seres humanos. Essa figura de linguagem é a</p>",
+    "options": {
+      "A": "metonímia.",
+      "B": "antítese.",
+      "C": "hipérbole.",
+      "D": "personificação."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Assobiar, correr e fugir são ações de pessoas (ou de animais, no caso de correr e fugir). No trecho, quem faz essas ações é o vento e são as folhas secas, que são seres inanimados. Fugir, em especial, supõe vontade e medo, sentimentos humanos.</p><p>Dar características, ações ou sentimentos humanos a seres que não são humanos é a <b>personificação</b> (também chamada de prosopopeia). O recurso deixa a cena mais viva, como se a natureza reagisse à chegada da chuva.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Na metonímia, um termo é trocado por outro com o qual tem relação real. Aqui, “vento” e “folhas” mantêm o sentido de sempre; o figurado está nas ações humanas atribuídas a eles.",
+      "B": "Não há ideias opostas no trecho. Quem pensa em antítese talvez associe o “fim da tarde” à chuva, mas isso não é oposição de sentidos.",
+      "C": "Não existe exagero de quantidade ou intensidade. O efeito vem de tratar o vento e as folhas como se fossem pessoas."
+    },
+    "tip": "Coisas ou elementos da natureza agindo ou sentindo como gente: personificação (ou prosopopeia)."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Nas férias, a Rafaela leu <b><u>três Monteiro Lobato</u></b> seguidos e, na volta às aulas, já foi à biblioteca da escola pedir mais um.”</p></blockquote><p>Na expressão destacada, a linguagem figurada é construída por meio de</p>",
+    "options": {
+      "A": "metáfora, pois a leitora é comparada ao escritor, sem uso de conectivo.",
+      "B": "metonímia, pois o nome do autor é usado no lugar das obras que ele escreveu.",
+      "C": "hipérbole, pois se exagera a quantidade de livros lidos durante as férias.",
+      "D": "personificação, pois o escritor é tratado como alguém que ainda está vivo."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Monteiro Lobato é um escritor brasileiro. Rafaela não “leu” o escritor, e sim <b>livros escritos por ele</b>. O nome do autor ocupa o lugar de suas obras, e o numeral “três” deixa isso claro: são três livros.</p><p>Quando um termo é trocado por outro com o qual mantém uma <b>relação real, de proximidade</b> (e não de semelhança), temos a <b>metonímia</b>. O caso do autor pela obra é um dos mais comuns, como em “ouvir Tom Jobim” ou “ler Machado de Assis”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Na metáfora há uma semelhança entre dois seres. O trecho não diz que Rafaela se parece com o escritor; ele usa o nome do autor para indicar seus livros, uma relação de proximidade.",
+      "C": "Ler três livros nas férias é perfeitamente possível, então não há exagero. O número apenas conta as obras lidas.",
+      "D": "Personificação dá traços humanos ao que não é humano. Monteiro Lobato foi uma pessoa, e o trecho não trata dele, mas dos seus livros."
+    },
+    "tip": "Metáfora nasce da semelhança; metonímia nasce da proximidade real, como o autor no lugar da obra (“ler Monteiro Lobato”)."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Naquele campeonato, a nossa equipe de vôlei não passou da primeira fase. Mas foi ali que eu entendi uma coisa: <b><u>às vezes, perder um jogo também é ganhar</u></b>.”</p></blockquote><p>No trecho destacado, a atleta junta, numa mesma afirmação, ideias que parecem se contradizer, mas que revelam um sentido mais profundo. Esse recurso é o</p>",
+    "options": {
+      "A": "paradoxo.",
+      "B": "eufemismo.",
+      "C": "pleonasmo.",
+      "D": "ironia."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>À primeira vista, “perder” e “ganhar” são opostos, e ninguém pode perder e ganhar o mesmo jogo. Porém a atleta não está falando do placar: ao perder, ela ganhou aprendizado, experiência, uma nova compreensão.</p><p>Quando duas ideias contrárias são <b>afirmadas sobre a mesma coisa, ao mesmo tempo</b> (a derrota “é” uma vitória), a frase parece absurda, mas guarda uma verdade. Essa figura é o <b>paradoxo</b>. Ele vai além da antítese, que apenas coloca ideias opostas lado a lado sem fundi-las numa só afirmação.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Eufemismo suaviza algo desagradável com palavras mais leves. A atleta não esconde a derrota: ela diz claramente que a equipe “não passou da primeira fase”.",
+      "C": "Pleonasmo é a repetição de uma ideia já expressa (como “subir para cima”). “Perder” e “ganhar” não repetem a mesma ideia; ao contrário, são opostas.",
+      "D": "Na ironia, diz-se o contrário do que se pensa, com tom de crítica ou deboche. A atleta fala sério: ela realmente acredita que a derrota lhe trouxe algo bom."
+    },
+    "tip": "Antítese põe opostos lado a lado; paradoxo afirma os opostos sobre a mesma coisa (“perder também é ganhar”) e ainda assim faz sentido."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Que maravilha! O trem atrasou quarenta minutos de novo. Assim ninguém corre o risco de chegar cedo demais ao trabalho.”</p></blockquote><p>Nessa fala de um passageiro na plataforma, o recurso expressivo predominante e o efeito que ele produz estão corretamente indicados em:</p>",
+    "options": {
+      "A": "hipérbole, pois o passageiro exagera o tempo de espera para chamar a atenção dos outros.",
+      "B": "eufemismo, pois o passageiro suaviza sua reclamação para não ofender os funcionários.",
+      "C": "ironia, pois o passageiro elogia o atraso quando, na verdade, pretende criticá-lo.",
+      "D": "antítese, pois o passageiro opõe chegar cedo a chegar atrasado para descrever o horário do trem."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Ninguém fica feliz de verdade com um atraso de quarenta minutos, ainda mais “de novo”. Quando o passageiro diz “Que maravilha!” e apresenta uma suposta vantagem (não correr o risco de chegar cedo), ele afirma o <b>contrário do que pensa</b>.</p><p>Esse recurso é a <b>ironia</b>: o elogio aparente é, na verdade, uma crítica ao serviço de trens. O contexto (a espera, a repetição do problema) permite ao ouvinte perceber o sentido real.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Não há exagero: “quarenta minutos” é apresentado como o tempo real do atraso. O efeito da fala vem do elogio falso, não de aumentar os fatos.",
+      "B": "A fala não suaviza nada; ela critica com deboche. O eufemismo troca uma ideia dura por uma mais leve, e a ironia, ao contrário, torna a crítica mais afiada.",
+      "D": "A oposição entre “cedo” e “atrasado” é só aparente e secundária. O sentido da fala depende de perceber que o passageiro diz o contrário do que quer dizer."
+    },
+    "tip": "Elogio que, pelo contexto, é na verdade uma crítica: ironia. Pergunte-se se quem fala acredita mesmo no que disse."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Aviso afixado na porta da loja Casa do Estudante:</p><blockquote><p>“Aos nossos clientes: informamos que, desde o início deste mês, três vendedores <b><u>deixaram de fazer parte da nossa equipe</u></b>. Agradecemos a dedicação de todos.”</p></blockquote><p>O aviso da loja usa a expressão destacada como eufemismo, isto é, para suavizar a informação de que os vendedores</p>",
+    "options": {
+      "A": "foram promovidos a cargos de gerência.",
+      "B": "foram demitidos ou desligados da loja.",
+      "C": "foram contratados para reforçar a equipe da loja.",
+      "D": "saíram de férias coletivas no início do mês."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O <b>eufemismo</b> troca uma expressão considerada dura ou desagradável por outra mais delicada.</p><p>Dizer que alguém “deixou de fazer parte da equipe” é um modo gentil de dizer que essa pessoa <b>não trabalha mais na loja</b>, ou seja, foi demitida ou desligada. O agradecimento final (“Agradecemos a dedicação de todos”) reforça que se trata de uma despedida.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Quem é promovido continua na equipe, apenas em outro cargo. Além disso, uma promoção é boa notícia e não precisaria ser suavizada.",
+      "C": "É o contrário do que diz o trecho: os vendedores “deixaram de fazer parte” da equipe, ou seja, saíram dela. Além disso, uma contratação é boa notícia e não precisaria ser suavizada.",
+      "D": "Férias são temporárias: o funcionário volta. A expressão indica um desligamento, e férias também não seriam algo desagradável a ponto de exigir eufemismo."
+    },
+    "tip": "Eufemismo é um jeito educado de dar má notícia: descubra qual palavra dura está escondida atrás da expressão gentil."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>A <b>sinestesia</b> é a figura de linguagem que mistura, numa mesma expressão, sensações percebidas por sentidos diferentes (visão, audição, olfato, paladar e tato). Assinale a alternativa em que ela ocorre:</p>",
+    "options": {
+      "A": "“O barulho da bateria da escola de samba podia ser ouvido a quarteirões de distância.”",
+      "B": "“A padaria da esquina cheirava a pão recém-saído do forno e a café passado.”",
+      "C": "“Ao meio-dia, a areia da praia brilhava sob um sol forte e sem nuvens.”",
+      "D": "“Da sala de espera, ouvia-se o som macio de um violão que acalmava os pacientes.”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Para haver sinestesia, é preciso que uma sensação de um sentido seja descrita com uma palavra própria de <b>outro sentido</b>.</p><p>Em “o som <b>macio</b> de um violão”, o som é percebido pela <b>audição</b>, mas o adjetivo “macio” pertence ao <b>tato</b> (algo macio é algo agradável de tocar). A mistura das duas sensações sugere uma música suave e aconchegante, coerente com o efeito de acalmar os pacientes.</p><p>Nas outras alternativas, cada frase fica dentro de um único sentido: audição (A), olfato (B) e visão (C).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O trecho fala só de audição (“barulho”, “ouvido”). Pode até haver algum exagero na distância, mas não há mistura de sentidos.",
+      "B": "Tudo está no campo do olfato: a padaria “cheirava” a pão e a café. Mencionar comida não basta para envolver o paladar, pois nenhum sabor é descrito.",
+      "C": "“Brilhava”, “sol” e “sem nuvens” pertencem todos à visão. Quem escolhe esta opção pode pensar no calor do sol, mas o calor não é descrito na frase."
+    },
+    "tip": "Na sinestesia, uma sensação ganha um adjetivo de outro sentido: som macio, cor gritante, voz doce, olhar frio."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Primeiro veio uma garoa fina; depois, uma chuva firme; por fim, um temporal que alagou a avenida e deixou o bairro sem luz.”</p></blockquote><p>Nesse trecho de uma notícia sobre o tempo, observa-se uma figura de linguagem cujo nome e efeito estão corretamente indicados em:</p>",
+    "options": {
+      "A": "gradação, pois os termos aparecem em ordem crescente de intensidade, acompanhando o agravamento da chuva.",
+      "B": "antítese, pois a garoa fina se opõe ao temporal, mostrando que o tempo mudou de repente.",
+      "C": "hipérbole, pois o temporal é exagerado para tornar a notícia mais dramática para o leitor.",
+      "D": "pleonasmo, pois as palavras “garoa”, “chuva” e “temporal” repetem a mesma ideia sem acrescentar informação."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O trecho apresenta três momentos em sequência: “garoa fina”, “chuva firme”, “temporal”. Cada termo é <b>mais intenso que o anterior</b>, e os marcadores “Primeiro”, “depois” e “por fim” organizam essa progressão.</p><p>A enumeração de termos em ordem crescente (ou decrescente) de intensidade é a <b>gradação</b>. O efeito é fazer o leitor acompanhar, passo a passo, o agravamento do tempo até as consequências mais graves: a avenida alagada e o bairro sem luz.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Garoa e temporal diferem em intensidade, mas não são ideias opostas. Além disso, o trecho mostra uma mudança aos poucos, em etapas, e não uma virada repentina.",
+      "C": "Um temporal que alaga uma avenida e derruba a luz é algo que acontece de verdade; nada no trecho é impossível ou exagerado de propósito.",
+      "D": "As palavras não são repetições: cada uma indica uma intensidade diferente de chuva, e é justamente essa diferença que dá sentido ao trecho."
+    },
+    "tip": "Termos em escada, cada um mais forte (ou mais fraco) que o anterior: gradação."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p><b>Feira de domingo</b></p><p>A feira acorda antes do sol,<br>grita laranja, grita pastel;<br>a balança conversa com a freguesa<br>e o troco vem com um pedaço de céu.<br>É barulho que me dá sossego,<br>são mil vozes num só pregão;<br>e quando a última lona se fecha,<br>fica um cheiro de fruta no chão.</p></blockquote><p>Considere as seguintes afirmações sobre a linguagem figurada do poema:</p><p>I. Em “A feira acorda antes do sol” (verso 1), há personificação, pois a feira recebe uma ação própria de seres vivos.</p><p>II. Em “É barulho que me dá sossego” (verso 5), há paradoxo, pois ideias contrárias são afirmadas sobre a mesma coisa e, ainda assim, fazem sentido.</p><p>III. Em “são mil vozes num só pregão” (verso 6), há eufemismo, pois o eu lírico atenua o barulho da feira.</p><p>Está correto o que se afirma em</p>",
+    "options": {
+      "A": "I, apenas.",
+      "B": "I e II, apenas.",
+      "C": "II e III, apenas.",
+      "D": "I, II e III."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Analise cada afirmação separadamente.</p><p><b>I. Correta.</b> Acordar é ação de seres vivos, e a feira é um lugar, um evento. Ao dizer que ela “acorda antes do sol”, o poema a trata como se fosse gente: é a <b>personificação</b>. O efeito é mostrar que a feira começa a funcionar de madrugada.</p><p><b>II. Correta.</b> “Barulho” e “sossego” têm sentidos opostos: normalmente o barulho tira o sossego. O eu lírico, porém, afirma que aquele barulho específico, o da feira, <b>lhe dá sossego</b>. As duas ideias contrárias se fundem numa mesma afirmação, que parece absurda, mas faz sentido: o movimento da feira é familiar e tranquiliza quem gosta dela. Isso é o <b>paradoxo</b>.</p><p><b>III. Incorreta.</b> O eufemismo suaviza uma ideia desagradável. O verso 6 faz o contrário: “mil vozes” aumenta propositalmente o número de pessoas falando, para mostrar o burburinho da feira. A figura é a <b>hipérbole</b>.</p><p>Como só I e II estão corretas, a resposta é <b>B</b>.</p>",
+    "distractors": {
+      "A": "Deixa de reconhecer o paradoxo do verso 5. Quem escolhe esta opção costuma ver ali apenas uma contradição sem sentido, mas o eu lírico afirma de verdade que o barulho da feira o acalma.",
+      "C": "Aceita a afirmação III, que está errada: “mil vozes” exagera, não suaviza (é hipérbole). Além disso, recusa a I, embora a feira “acorde” como se fosse gente.",
+      "D": "Considera correta a afirmação III. O verso 6 aumenta o número de vozes para mostrar o burburinho da feira: é hipérbole, e não eufemismo."
+    },
+    "tip": "Em questões com afirmações I, II e III, julgue cada uma sozinha, como verdadeira ou falsa, e só depois procure a alternativa que junta as verdadeiras."
+  }
+]

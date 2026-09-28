@@ -1,0 +1,266 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para uma festa, Nina vai escolher a roupa entre as peças que tem no armário:</p><ul><li>3 saias e 2 calças;</li><li>5 blusas;</li><li>2 vestidos.</li></ul><p>Ela vai usar <b>ou</b> um vestido sozinho, <b>ou</b> uma blusa com uma saia ou com uma calça. Considerando apenas essas peças, o número de maneiras diferentes de Nina se vestir é</p>",
+    "options": {
+      "A": "12.",
+      "B": "27.",
+      "C": "50.",
+      "D": "60."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Há dois tipos de escolha, que não acontecem ao mesmo tempo:</p><ul><li><b>Blusa com saia ou calça:</b> são \\(3 + 2 = 5\\) peças para a parte de baixo e 5 blusas. Pelo princípio multiplicativo, \\(5 \\cdot 5 = 25\\) combinações.</li><li><b>Vestido sozinho:</b> 2 maneiras.</li></ul><p>Como Nina escolhe um caso <b>ou</b> o outro, somam-se as possibilidades: \\(25 + 2 = 27\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou todas as peças (\\(3 + 2 + 5 + 2 = 12\\)). Mas uma blusa pode ser combinada com cada peça de baixo, então nessa parte é preciso multiplicar.",
+      "C": "Multiplicou o vestido junto (\\(5 \\cdot 5 \\cdot 2 = 50\\)), como se Nina usasse vestido, blusa e saia ao mesmo tempo. O vestido é uma alternativa, então se soma.",
+      "D": "Multiplicou tudo (\\(3 \\cdot 2 \\cdot 5 \\cdot 2 = 60\\)), como se ela vestisse saia, calça, blusa e vestido juntos."
+    },
+    "tip": "Escolhas que acontecem juntas se multiplicam; escolhas que são alternativas (uma ou outra) se somam."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um jogo de palavras, as letras da palavra ABACATE foram escritas em 7 fichas iguais, uma letra em cada ficha. As fichas foram viradas para baixo e embaralhadas, e um jogador vai desvirar uma delas ao acaso.</p><p>A probabilidade de a letra da ficha desvirada ser uma vogal é</p>",
+    "options": {
+      "A": "\\(\\dfrac{2}{7}\\)",
+      "B": "\\(\\dfrac{2}{5}\\)",
+      "C": "\\(\\dfrac{3}{7}\\)",
+      "D": "\\(\\dfrac{4}{7}\\)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>As 7 fichas são: A, B, A, C, A, T, E. Cada ficha tem a mesma chance de ser desvirada.</p><p>As fichas com vogal são as três com A e a ficha com E: 4 fichas.</p><p>\\[P = \\frac{\\text{fichas com vogal}}{\\text{total de fichas}} = \\frac{4}{7}.\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Contou as vogais diferentes (A e E) em vez das fichas: a letra A está em 3 fichas e cada uma conta.",
+      "B": "Contou só letras diferentes: 2 vogais (A, E) entre 5 letras (A, B, C, T, E). Mas o que se sorteia são as 7 fichas, e o A aparece em três delas.",
+      "C": "Essa é a probabilidade de sair consoante (B, C ou T), o contrário do que foi pedido."
+    },
+    "tip": "Em sorteio, conte objetos (fichas), não tipos: letras repetidas contam várias vezes."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um aquário tem 12 peixes: 5 vermelhos, 3 amarelos e 4 pretos. Para limpar o aquário, Davi vai pegar um peixe com uma rede, sem escolher, de modo que todos os peixes têm a mesma chance de ser pegos.</p><p>A probabilidade de o peixe pego <b>não</b> ser amarelo é</p>",
+    "options": {
+      "A": "\\(\\dfrac{3}{4}\\)",
+      "B": "\\(\\dfrac{1}{4}\\)",
+      "C": "\\(\\dfrac{2}{3}\\)",
+      "D": "\\(\\dfrac{5}{12}\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Não são amarelos os peixes vermelhos e os pretos: \\(5 + 4 = 9\\) peixes, de um total de 12.</p><p>\\[P = \\frac{9}{12} = \\frac{3}{4}.\\]</p><p>Outro caminho: a chance de ser amarelo é \\(\\frac{3}{12} = \\frac{1}{4}\\), e a de não ser é \\(1 - \\frac{1}{4} = \\frac{3}{4}\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Essa é a probabilidade de o peixe <b>ser</b> amarelo (\\(3 \\div 12\\)). A pergunta pede o contrário.",
+      "C": "Considerou as 3 cores como se fossem igualmente prováveis (2 cores de 3). Mas há quantidades diferentes de peixes de cada cor.",
+      "D": "Contou só os vermelhos (\\(5 \\div 12\\)) e esqueceu que os pretos também não são amarelos."
+    },
+    "tip": "“Não ser” é o complemento: 1 menos a probabilidade de ser."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O campeonato de futsal de uma escola terá 8 equipes. Na primeira fase, cada equipe joga exatamente uma vez contra cada uma das outras. Depois, as 4 equipes com mais pontos disputam duas semifinais, e as vencedoras fazem a final.</p><p>O número total de jogos desse campeonato será</p>",
+    "options": {
+      "A": "10.",
+      "B": "28.",
+      "C": "31.",
+      "D": "59."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>Primeira fase.</b> Cada uma das 8 equipes enfrenta as outras 7: \\(8 \\cdot 7 = 56\\). Mas assim cada jogo foi contado duas vezes (o jogo A contra B é o mesmo que B contra A). Então são</p><p>\\[\\frac{8 \\cdot 7}{2} = 28 \\text{ jogos}.\\]</p><p><b>Fase final.</b> 2 semifinais e 1 final: 3 jogos.</p><p>Total: \\(28 + 3 = 31\\) jogos. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Contou os 7 jogos de uma única equipe na primeira fase e somou os 3 da fase final. É preciso contar os jogos de todas as equipes.",
+      "B": "Calculou certo a primeira fase, mas esqueceu as semifinais e a final.",
+      "D": "Não dividiu por 2 na primeira fase (\\(56 + 3\\)), contando cada jogo duas vezes, uma para cada equipe."
+    },
+    "tip": "Em “todos contra todos”, multiplique e divida por 2, porque cada jogo tem duas equipes."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Três irmãos resolveram decidir quem lava a louça do jantar jogando, ao mesmo tempo, três moedas comuns, cada uma com cara e coroa. Se saírem <b>exatamente duas caras</b>, quem lava a louça é o irmão mais velho.</p><p>A probabilidade de o irmão mais velho ter de lavar a louça é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{4}\\)",
+      "B": "\\(\\dfrac{3}{8}\\)",
+      "C": "\\(\\dfrac{1}{2}\\)",
+      "D": "\\(\\dfrac{2}{3}\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada moeda tem 2 resultados, então as três juntas têm \\(2 \\cdot 2 \\cdot 2 = 8\\) resultados igualmente prováveis (K = cara, C = coroa):</p><p style=\"text-align:center\">KKK, KKC, KCK, CKK, KCC, CKC, CCK, CCC</p><p>Têm exatamente duas caras: KKC, KCK e CKK, ou seja, 3 resultados.</p><p>\\[P = \\frac{3}{8}.\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Considerou só 4 resultados (0, 1, 2 ou 3 caras) como se fossem igualmente prováveis. Eles não são: “duas caras” pode acontecer de 3 maneiras, e “três caras”, de uma só.",
+      "C": "Achou que cara e coroa em igual chance dariam metade para qualquer evento. Aqui o evento “exatamente duas caras” ocupa 3 dos 8 resultados.",
+      "D": "Pensou em “2 de 3 moedas” e escreveu a fração \\(\\frac{2}{3}\\). Essa fração não é uma probabilidade do problema: é preciso listar os 8 resultados."
+    },
+    "tip": "Para jogar várias moedas, liste todos os resultados (são \\(2^n\\)) e conte os favoráveis."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Cinco amigos, entre eles os gêmeos Lia e Léo, vão tirar uma foto lado a lado, em fila. Os gêmeos querem ficar juntos, um ao lado do outro, em qualquer ordem.</p><p>O número de maneiras diferentes de organizar os cinco amigos na fila é</p>",
+    "options": {
+      "A": "48.",
+      "B": "60.",
+      "C": "72.",
+      "D": "120."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Como os gêmeos ficam grudados, trate os dois como um só “bloco”. Então há 4 elementos para enfileirar: o bloco e os outros 3 amigos.</p><p>Maneiras de enfileirar 4 elementos: \\(4 \\cdot 3 \\cdot 2 \\cdot 1 = 24\\).</p><p>Dentro do bloco, os gêmeos podem ficar como Lia-Léo ou Léo-Lia: 2 maneiras.</p><p>\\[24 \\cdot 2 = 48.\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Pensou que os gêmeos ficam juntos em metade das filas (\\(120 \\div 2 = 60\\)). Não é metade: das 120 filas, só 48 têm os gêmeos lado a lado.",
+      "C": "Esse é o número de filas em que os gêmeos ficam <b>separados</b> (\\(120 - 48 = 72\\)).",
+      "D": "Contou todas as filas possíveis com 5 pessoas (\\(5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 120\\)), sem a exigência dos gêmeos juntos."
+    },
+    "tip": "Pessoas que devem ficar juntas viram um bloco; depois, multiplique pelas ordens dentro do bloco."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na formatura do 9º ano, dois estudantes serão sorteados para fazer o discurso da turma. Cinco se candidataram: Clara, Davi, Elisa, Fábio e Gabi. O sorteio escolhe 2 desses 5, e todas as duplas têm a mesma chance.</p><p>A probabilidade de que <b>pelo menos um</b> entre Clara e Davi seja sorteado é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{10}\\)",
+      "B": "\\(\\dfrac{3}{10}\\)",
+      "C": "\\(\\dfrac{2}{5}\\)",
+      "D": "\\(\\dfrac{7}{10}\\)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, liste as duplas possíveis (a ordem não importa). Usando as iniciais C, D, E, F e G:</p><p style=\"text-align:center\">CD, CE, CF, CG, DE, DF, DG, EF, EG, FG</p><p>São 10 duplas. As que <b>não</b> têm Clara nem Davi são EF, EG e FG: 3 duplas. Então as que têm pelo menos um dos dois são \\(10 - 3 = 7\\).</p><p>\\[P = \\frac{7}{10}.\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Essa é a probabilidade de os <b>dois</b> serem sorteados (só a dupla CD). “Pelo menos um” inclui também as duplas com só um deles.",
+      "B": "Essa é a probabilidade de <b>nenhum</b> dos dois ser sorteado (EF, EG, FG). Faltou fazer \\(1 - \\frac{3}{10}\\).",
+      "C": "Essa é a chance de Clara ser sorteada (4 das 10 duplas têm Clara). Faltou incluir as duplas em que só Davi aparece."
+    },
+    "tip": "Em “pelo menos um”, costuma ser mais fácil contar o caso contrário (nenhum) e subtrair do total."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um clube náutico vai numerar seus barcos com números de três algarismos. Para isso, só há adesivos dos algarismos 0, 1, 2, 3, 4 e 5, e os números devem ser <b>pares</b> e ter os <b>três algarismos diferentes</b>. Um número de três algarismos não pode começar com 0.</p><p>A quantidade de números que podem ser formados é</p>",
+    "options": {
+      "A": "32.",
+      "B": "48.",
+      "C": "52.",
+      "D": "60."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem",
+      "mat.num.divisibilidade"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O número é par se o último algarismo for 0, 2 ou 4. O 0 precisa de cuidado, porque ele também não pode ser o primeiro. Separe em casos:</p><ul><li><b>Termina em 0:</b> o primeiro algarismo pode ser 1, 2, 3, 4 ou 5 (5 opções), e o do meio, qualquer um dos 4 que sobraram. \\(5 \\cdot 4 = 20\\).</li><li><b>Termina em 2:</b> o primeiro não pode ser 0 nem 2: sobram 1, 3, 4, 5 (4 opções). O do meio pode ser qualquer um dos 4 que sobraram, inclusive o 0. \\(4 \\cdot 4 = 16\\).</li><li><b>Termina em 4:</b> mesmo raciocínio, \\(4 \\cdot 4 = 16\\).</li></ul><p>Total: \\(20 + 16 + 16 = 52\\). Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu que o 0 é par e contou só os números terminados em 2 ou 4 (\\(16 + 16\\)).",
+      "B": "Fez \\(3 \\cdot 4 \\cdot 4\\), tirando sempre o 0 das opções do primeiro algarismo. Quando o número termina em 0, o 0 já foi usado e o primeiro algarismo tem 5 opções, não 4.",
+      "D": "Fez \\(3 \\cdot 5 \\cdot 4\\), sem se preocupar com o 0 no início. Isso inclui números como 024, que não têm três algarismos."
+    },
+    "tip": "Quando o 0 aparece em duas restrições ao mesmo tempo, separe o caso “termina em 0” dos outros."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na festa junina da escola, uma barraca tem duas roletas. A roleta 1 é dividida em 4 partes iguais, numeradas de 1 a 4, e a roleta 2 é dividida em 5 partes iguais, numeradas de 1 a 5. O jogador gira as duas roletas e multiplica os números sorteados. Ele ganha um prêmio se o produto for um número <b>par</b>.</p><p>A probabilidade de o jogador ganhar o prêmio é</p>",
+    "options": {
+      "A": "\\(\\dfrac{1}{5}\\)",
+      "B": "\\(\\dfrac{3}{10}\\)",
+      "C": "\\(\\dfrac{1}{2}\\)",
+      "D": "\\(\\dfrac{7}{10}\\)"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.probabilidade",
+      "mat.est.contagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Há \\(4 \\cdot 5 = 20\\) resultados igualmente prováveis (um número de cada roleta).</p><p>Um produto só é <b>ímpar</b> quando os dois números são ímpares. Na roleta 1 os ímpares são 1 e 3 (2 opções); na roleta 2, 1, 3 e 5 (3 opções). Produtos ímpares: \\(2 \\cdot 3 = 6\\) resultados.</p><p>Produtos pares: \\(20 - 6 = 14\\) resultados.</p><p>\\[P = \\frac{14}{20} = \\frac{7}{10}.\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Achou que o produto só é par quando os dois números são pares (\\(2 \\cdot 2 = 4\\) de 20). Basta um dos números ser par.",
+      "B": "Essa é a probabilidade de o produto ser ímpar (6 de 20), o contrário do que foi pedido.",
+      "C": "Supôs que par e ímpar teriam a mesma chance, como acontece com um único número. No produto, o par é bem mais provável."
+    },
+    "tip": "Produto é ímpar só se todos os fatores forem ímpares; por isso, calcule o ímpar e use o complemento."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A figura representa as ruas de um bairro. Caio vai a pé de casa até a escola, andando pelas ruas, sempre para o leste (para a direita na figura) ou para o norte (para cima), de modo a fazer um caminho mais curto possível. Hoje, o trecho de rua marcado como “em obras” está fechado.</p><p><img src=\"img/b26/mat-q10.svg\" alt=\"Mapa em forma de malha de ruas: 4 ruas verticais e 3 horizontais, formando 3 quarteirões na horizontal e 2 na vertical. A casa fica no cruzamento do canto inferior esquerdo, e a escola, no cruzamento do canto superior direito. Uma seta indica o norte para cima. O trecho fechado, marcado em vermelho com a legenda em obras, fica na rua horizontal do meio, entre a segunda e a terceira rua vertical, contando da esquerda.\"></p><p>O número de caminhos diferentes que Caio pode fazer hoje é</p>",
+    "options": {
+      "A": "6.",
+      "B": "8.",
+      "C": "9.",
+      "D": "10."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.est.contagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Caio precisa andar 3 quarteirões para o leste (L) e 2 para o norte (N), em alguma ordem. Sem obras, o número de caminhos é o número de ordens de L, L, L, N, N: escolher em quais 2 dos 5 passos ele vai para o norte, o que dá 10 caminhos (LLLNN, LLNLN, LLNNL, LNLLN, LNLNL, LNNLL, NLLLN, NLLNL, NLNLL, NNLLL).</p><p>Agora conte os caminhos que usam o trecho fechado. Ele liga o cruzamento que fica 1 quarteirão a leste e 1 ao norte da casa ao cruzamento seguinte para o leste. Para usá-lo, Caio precisa:</p><ul><li>chegar ao início do trecho (1 L e 1 N, em qualquer ordem): 2 caminhos;</li><li>passar pelo trecho (1 L);</li><li>do fim do trecho até a escola (1 L e 1 N, em qualquer ordem): 2 caminhos.</li></ul><p>São \\(2 \\cdot 2 = 4\\) caminhos que passam pela obra (LNLLN, LNLNL, NLLLN, NLLNL). Sobram \\(10 - 4 = 6\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Contou só 2 caminhos passando pela obra (\\(10 - 2\\)), considerando apenas um modo de chegar ao trecho. São 2 modos de chegar e 2 de continuar: \\(2 \\cdot 2 = 4\\).",
+      "C": "Descontou apenas 1 caminho, como se só um trajeto usasse o trecho fechado.",
+      "D": "Esse é o total de caminhos sem a obra. Faltou retirar os que passam pelo trecho fechado."
+    },
+    "tip": "Para contar caminhos que evitam um trecho, conte todos e subtraia os que passam por ele (chegar até o trecho vezes sair dele)."
+  }
+]

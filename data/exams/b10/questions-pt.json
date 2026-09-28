@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma reportagem sobre mobilidade urbana:</p><blockquote><p>“Até 2015, existiam poucas ciclovias no bairro, e muitos moradores tinham medo de pedalar entre os carros e os ônibus.”</p></blockquote><p>Ao substituir o verbo “existir” pelo verbo “haver”, mantendo o tempo verbal e seguindo a norma-padrão, o trecho fica:</p>",
+    "options": {
+      "A": "“Até 2015, haviam poucas ciclovias no bairro [...]”",
+      "B": "“Até 2015, houveram poucas ciclovias no bairro [...]”",
+      "C": "“Até 2015, havia poucas ciclovias no bairro [...]”",
+      "D": "“Até 2015, houve poucas ciclovias no bairro [...]”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.concordancia",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Há uma diferença importante entre os dois verbos:</p><ul><li><b>existir</b> tem sujeito e concorda com ele: “poucas ciclovias <b>existiam</b>” (plural);</li><li><b>haver</b>, com o sentido de existir, é <b>impessoal</b>: não tem sujeito e fica sempre na 3ª pessoa do singular. “Poucas ciclovias” passa a ser objeto direto.</li></ul><p>Além disso, é preciso manter o tempo verbal. “Existiam” está no pretérito imperfeito, que descreve uma situação que durava no passado (“até 2015”). O imperfeito de “haver” é <b>havia</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Mantém o plural de “existiam”, mas “haver” no sentido de existir não vai para o plural. É um desvio muito comum na fala.",
+      "B": "Tem dois problemas: o plural (“houveram”) e a troca de tempo, pois “houve” é pretérito perfeito, e não imperfeito.",
+      "D": "A concordância está correta (singular), mas o tempo mudou: “existiam” é imperfeito, e o correspondente de “haver” é “havia”, não “houve”, que é pretérito perfeito."
+    },
+    "tip": "“Haver” no sentido de existir não tem plural: havia poucas ciclovias, houve muitos acidentes, há vagas."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a frase de uma notícia esportiva, que ainda não havia passado pela revisão:</p><blockquote><p>“Mais de dois milhões de pessoas assistiram a final do campeonato feminino pela televisão.”</p></blockquote><p>O verbo “assistir”, com o sentido de “ver”, exige a preposição “a”. A reescrita que está de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "“Mais de dois milhões de pessoas assistiram na final do campeonato feminino pela televisão.”",
+      "B": "“Mais de dois milhões de pessoas assistiu à final do campeonato feminino pela televisão.”",
+      "C": "“Mais de dois milhões de pessoas assistiram há final do campeonato feminino pela televisão.”",
+      "D": "“Mais de dois milhões de pessoas assistiram à final do campeonato feminino pela televisão.”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.regencia",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Quem assiste, no sentido de ver, assiste <b>a</b> alguma coisa: assistir a um filme, assistir ao jogo, assistir à final.</p><p>Na frase, o complemento é “a final” (substantivo feminino, com artigo “a”). Juntando a preposição exigida pelo verbo e o artigo, temos a + a = <b>à</b>, com acento grave (crase): “assistiram <b>à</b> final”.</p><p>Também é preciso manter a concordância: o sujeito “mais de dois milhões de pessoas” leva o verbo ao plural, “assistiram”.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usa a preposição “em” (na = em + a), comum na fala, mas “assistir” no sentido de ver pede a preposição “a”.",
+      "B": "Corrige a regência, mas cria um erro de concordância: com “mais de dois milhões de pessoas”, o verbo fica no plural (“assistiram”).",
+      "C": "Confunde “à” (preposição + artigo) com “há” (verbo haver). A frase não indica tempo passado nem existência."
+    },
+    "tip": "Assistir (ver) pede “a”: assistir ao jogo, assistir à final, assistir a um show."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho do diário de treino de uma corredora amadora, com três lacunas:</p><blockquote><p>“No sábado, fui ___ pé do clube ___ praça do coreto, para aquecer, e só voltei para casa ___ noite, depois da prova de cinco quilômetros.”</p></blockquote><p>De acordo com a norma-padrão, as lacunas devem ser preenchidas, respectivamente, por:</p>",
+    "options": {
+      "A": "a / à / à",
+      "B": "à / à / à",
+      "C": "a / a / a",
+      "D": "à / a / à"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.regencia"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A crase é a fusão da preposição “a” com o artigo feminino “a”. Por isso, só ocorre antes de palavra feminina que aceita artigo. Vamos analisar cada lacuna:</p><ol><li>“fui <b>a</b> pé”: “pé” é palavra masculina, então não existe artigo “a” para se juntar à preposição. Sem acento grave.</li><li>“do clube <b>à</b> praça”: a estrutura é “de um lugar <b>a</b> outro” (preposição), e “praça” aceita o artigo “a” (a praça). Preposição + artigo = <b>à</b>. Repare no paralelo: “<b>do</b> clube” (de + o) pede “<b>à</b> praça” (a + a).</li><li>“voltei <b>à</b> noite”: é uma locução adverbial de tempo formada por palavra feminina, que recebe acento grave, como “à tarde”. O mesmo vale para locuções de modo, como “às pressas”.</li></ol><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Coloca acento grave antes de “pé”, palavra masculina. Não há artigo feminino para se fundir com a preposição.",
+      "C": "Não marca nenhuma crase. Falta o acento em “à praça” (preposição exigida pela ideia de destino + artigo) e na locução de tempo “à noite”.",
+      "D": "Troca as duas primeiras lacunas: põe acento antes do masculino “pé” e o omite antes de “praça”, que é feminino e vem precedido da preposição de destino."
+    },
+    "tip": "Antes de palavra masculina (a pé, a cavalo) não há crase; locuções femininas de tempo e modo (à noite, às pressas) levam acento grave."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Uma professora pediu que os alunos revisassem o comunicado da feira de ciências da escola antes de enviá-lo às famílias. Das frases abaixo, retiradas do comunicado, a única que está de acordo com a norma-padrão quanto à concordância verbal é:</p>",
+    "options": {
+      "A": "“Participará da feira de ciências todas as turmas do 9º ano.”",
+      "B": "“Serão expostos no pátio coberto os trabalhos sobre energia solar.”",
+      "C": "“Foi escolhido pelos professores três projetos para a etapa regional.”",
+      "D": "“Falta ainda duas semanas para a abertura da feira.”"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Em todas as frases, o sujeito aparece <b>depois</b> do verbo. Nessa ordem, é fácil esquecer a concordância, porque o verbo vem antes de sabermos se o sujeito é singular ou plural. Uma boa técnica é colocar a frase na ordem direta (sujeito + verbo):</p><ul><li>A: “Todas as turmas do 9º ano <b>participarão</b>...”</li><li>B: “Os trabalhos sobre energia solar <b>serão expostos</b>...” (correto: plural e masculino)</li><li>C: “Três projetos <b>foram escolhidos</b>...”</li><li>D: “Duas semanas ainda <b>faltam</b>...”</li></ul><p>Só em B o verbo e o particípio concordam com o sujeito.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O sujeito “todas as turmas do 9º ano” está no plural; o verbo deveria ser “participarão”.",
+      "C": "O sujeito é “três projetos”; na voz passiva, tanto o auxiliar quanto o particípio concordam com ele: “foram escolhidos”.",
+      "D": "O sujeito de “faltar” é “duas semanas”, que está no plural: “Faltam ainda duas semanas”. O verbo “faltar” não é impessoal."
+    },
+    "tip": "Sujeito depois do verbo? Coloque a frase na ordem direta: “duas semanas faltam” mostra na hora que o certo é “faltam”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>No clube de leitura da biblioteca do bairro, um participante comentou:</p><blockquote><p>“Eu prefiro mais ler o livro do que ver o filme, porque no livro eu imagino os personagens do meu jeito.”</p></blockquote><p>A fala é adequada a uma conversa informal. A reescrita do início dessa fala de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "“Eu prefiro mais ler o livro a ver o filme [...]”",
+      "B": "“Eu prefiro ler o livro do que ver o filme [...]”",
+      "C": "“Eu prefiro ler o livro a ver o filme [...]”",
+      "D": "“Eu prefiro ler o livro à ver o filme [...]”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.regencia",
+      "pt.variacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O verbo “preferir” já contém a ideia de “gostar mais”. Por isso, na norma-padrão:</p><ul><li>não se usa “mais” com ele (“prefiro mais” é redundante, como “subir para cima”);</li><li>a segunda opção é introduzida pela preposição <b>a</b>, e não por “do que”: prefere-se uma coisa <b>a</b> outra.</li></ul><p>Assim: “Eu prefiro ler o livro <b>a</b> ver o filme”. Como “ver” é verbo, não há artigo antes dele e, portanto, não há crase.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Corrige a preposição, mas mantém o “mais”, que é redundante com “preferir”.",
+      "B": "Retira o “mais”, mas mantém “do que”, estrutura da comparação da fala informal. “Preferir” pede a preposição “a”.",
+      "D": "Usa acento grave antes de um verbo (“ver”). Verbos não recebem artigo, então não pode haver crase."
+    },
+    "tip": "Prefere-se uma coisa A outra: sem “mais” e sem “do que”."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Um rapaz escreveu uma receita de panqueca de banana para postar no blog de culinária da família e ficou em dúvida entre “meio” e “meia”:</p><blockquote><p>“Amasse as bananas com um garfo até ficarem ___ desmanchadas. Em seguida, junte ___ xícara de aveia e mexa bem.”</p></blockquote><p>A alternativa que completa as lacunas de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "“meio desmanchadas” / “meia xícara”",
+      "B": "“meias desmanchadas” / “meia xícara”",
+      "C": "“meio desmanchadas” / “meio xícara”",
+      "D": "“meias desmanchadas” / “meio xícara”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.concordancia",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A palavra “meio” muda de comportamento conforme o sentido:</p><ul><li>Quando significa “<b>um pouco</b>, mais ou menos” e modifica um adjetivo, é <b>advérbio</b> e não varia: “meio desmanchadas” (um pouco desmanchadas), como “meio cansada”, “meio abertas”.</li><li>Quando significa “<b>metade</b>” e acompanha um substantivo, é <b>numeral</b> e concorda com ele: “meia xícara” (metade de uma xícara), como “meia hora”, “meio litro”.</li></ul><p>Na receita, as bananas não devem ficar pela metade, e sim “um pouco” desmanchadas; já a aveia é metade de uma xícara.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Acerta “meia xícara”, mas flexiona o advérbio. Em “meias desmanchadas”, “meio” significa “um pouco” e deve ficar invariável.",
+      "C": "Acerta o advérbio, mas deixa o numeral sem concordância. “Xícara” é feminino, e “meio” (metade) concorda com ele: “meia xícara”.",
+      "D": "Inverte as duas regras: flexiona o advérbio, que é invariável, e não flexiona o numeral, que deve concordar com “xícara”."
+    },
+    "tip": "“Meio” = um pouco (advérbio): não varia. “Meio” = metade (numeral): concorda com o substantivo, como em “meia xícara”."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a avaliação que um visitante deixou no site de um parque estadual:</p><blockquote><p>“A trilha que eu mais gosto é a da cachoeira. O mirante que chegamos no fim da tarde tem a vista mais bonita da serra.”</p></blockquote><p>Em uma versão revisada de acordo com a norma-padrão, o texto ficaria:</p>",
+    "options": {
+      "A": "“A trilha que eu mais gosto é a da cachoeira. O mirante em que chegamos no fim da tarde [...]”",
+      "B": "“A trilha da qual eu mais gosto é a da cachoeira. O mirante que chegamos no fim da tarde [...]”",
+      "C": "“A trilha em que eu mais gosto é a da cachoeira. O mirante a que chegamos no fim da tarde [...]”",
+      "D": "“A trilha de que eu mais gosto é a da cachoeira. O mirante a que chegamos no fim da tarde [...]”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.regencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Quando o pronome relativo “que” retoma um termo que é complemento de um verbo com preposição, a preposição exigida pelo verbo deve vir <b>antes</b> do pronome. Para descobrir qual é, coloque a oração na ordem direta:</p><ul><li>“eu gosto <b>da</b> trilha”: quem gosta, gosta <b>de</b> algo. Então: “a trilha <b>de que</b> (ou da qual) eu mais gosto”.</li><li>“chegamos <b>ao</b> mirante”: na norma-padrão, quem chega, chega <b>a</b> algum lugar. Então: “o mirante <b>a que</b> (ou ao qual, aonde) chegamos”.</li></ul><p>Na fala, é comum omitir a preposição ou usar “chegar em”, mas o texto revisado deve seguir a regência dos verbos.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Mantém “a trilha que eu mais gosto”, sem a preposição “de” exigida por “gostar”, e usa “em que” com “chegar”, regência própria da fala.",
+      "B": "Corrige o primeiro período (“da qual”), mas mantém “o mirante que chegamos”, sem a preposição “a” exigida por “chegar”.",
+      "C": "Corrige o verbo “chegar”, mas usa “em que” com “gostar”. Ninguém “gosta em” algo: o verbo pede a preposição “de”."
+    },
+    "tip": "Para acertar a preposição antes do “que”, desfaça a frase: “gosto da trilha” vira “a trilha de que gosto”; “cheguei ao mirante” vira “o mirante a que cheguei”."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Uma turma do 9º ano organizou uma planilha para controlar o dinheiro da excursão ao museu. Ao lado de cada gasto, os alunos escreveram observações.</p><p>A observação que está de acordo com a norma-padrão quanto à concordância é:</p>",
+    "options": {
+      "A": "“Sobrou dez reais do dinheiro da rifa.”",
+      "B": "“Cinquenta reais é pouco para pagar o ônibus e a entrada do museu.”",
+      "C": "“As camisetas da turma custaram caras.”",
+      "D": "“Segue anexo as notas fiscais das compras.”"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.concordancia",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Vamos analisar cada frase:</p><ul><li>A: o sujeito de “sobrar” é “dez reais” (plural). O certo é “<b>Sobraram</b> dez reais”.</li><li>B: quando o sujeito indica uma <b>quantidade</b> (preço, peso, distância, tempo) vista como um todo e o predicado é “é pouco”, “é muito”, “é suficiente”, o verbo “ser” fica no <b>singular</b>. “Cinquenta reais é pouco” quer dizer “essa quantia é pouco dinheiro”. Está correta.</li><li>C: em “custar caro”, “caro” indica o modo como as camisetas custaram, funcionando como <b>advérbio</b>, que não varia: “custaram <b>caro</b>”.</li><li>D: “anexo” é adjetivo e concorda com o substantivo a que se refere: “Seguem <b>anexas</b> as notas fiscais” (o verbo também vai para o plural).</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O sujeito vem depois do verbo e está no plural (“dez reais”). Na ordem direta fica claro: “dez reais sobraram”.",
+      "C": "“Caro” está ligado ao verbo “custar”, indicando o preço, e por isso fica invariável: “custaram caro”. Seria “caras” só se fosse adjetivo ligado ao substantivo, como em “as camisetas eram caras”.",
+      "D": "“Anexo” é adjetivo e deve concordar com “notas fiscais” (feminino plural): “Seguem anexas as notas fiscais”."
+    },
+    "tip": "Quantia vista como um todo + “é pouco / é muito / é suficiente” = verbo no singular: “Dez reais é pouco”."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o aviso de um torneio de jogos de tabuleiro, com três verbos entre parênteses:</p><blockquote><p>“Cada um dos competidores ___ (receber) duas fichas na entrada. ___ (fazer) três anos que o torneio acontece no clube do bairro, e, até agora, já ___ (estar) inscritas quarenta equipes.”</p></blockquote><p>De acordo com a norma-padrão, e mantendo o presente do indicativo, as lacunas devem ser preenchidas por:</p>",
+    "options": {
+      "A": "recebe / Faz / estão",
+      "B": "recebem / Fazem / estão",
+      "C": "recebe / Fazem / está",
+      "D": "recebem / Faz / está"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.concordancia",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Cada lacuna envolve uma regra diferente de concordância:</p><ol><li>“<b>Cada um</b> dos competidores <b>recebe</b>”: o núcleo do sujeito é “cada um” (singular). “Dos competidores” só indica de que grupo se fala; por isso o verbo fica no singular.</li><li>“<b>Faz</b> três anos”: o verbo “fazer” indicando tempo decorrido é <b>impessoal</b>, não tem sujeito e fica no singular, como “haver” no sentido de existir.</li><li>“<b>estão</b> inscritas quarenta equipes”: o sujeito, que vem depois do verbo, é “quarenta equipes” (plural). Na ordem direta: “quarenta equipes estão inscritas”.</li></ol><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Concorda o verbo com “competidores”, que não é o núcleo do sujeito (o núcleo é “cada um”), e flexiona “fazer”, que é impessoal quando indica tempo.",
+      "C": "Acerta a primeira, mas pluraliza o impessoal “fazer” e deixa no singular o verbo cujo sujeito é “quarenta equipes”. As duas regras foram trocadas.",
+      "D": "Acerta o impessoal “Faz”, mas erra as outras duas: “cada um” pede singular, e “quarenta equipes”, sujeito posposto, pede plural."
+    },
+    "tip": "“Cada um dos...” pede verbo no singular; “fazer” indicando tempo é impessoal (Faz três anos); sujeito depois do verbo continua mandando na concordância."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Uma família planejou as férias e anotou o roteiro no celular. Das frases abaixo, a única em que o uso ou a ausência do acento indicativo de crase está de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "“Na primeira semana, viajaremos de avião à Curitiba.”",
+      "B": "“Depois, vamos de ônibus a Bahia para ver o mar.”",
+      "C": "“No meio da viagem, iremos à Paraíba visitar os avós.”",
+      "D": "“No domingo seguinte, voltaremos à casa, cansados e felizes.”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.regencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Há crase quando a preposição “a” se junta ao artigo “a”. Com nomes de lugares, nem todos aceitam artigo. Um teste prático é trocar o verbo “ir” por “voltar”:</p><ul><li>se volto <b>da</b> (de + a), vou <b>à</b>: há crase;</li><li>se volto <b>de</b>, vou <b>a</b>: não há crase.</li></ul><p>Aplicando o teste:</p><ul><li>A: “volto <b>de</b> Curitiba” → “viajaremos <b>a</b> Curitiba”, sem crase.</li><li>B: “volto <b>da</b> Bahia” → “vamos <b>à</b> Bahia”, com crase.</li><li>C: “volto <b>da</b> Paraíba” → “iremos <b>à</b> Paraíba”, com crase. Está correta.</li><li>D: “casa” no sentido de “o próprio lar”, sem nenhum termo que a especifique, não recebe artigo (“volto <b>de</b> casa”). Então: “voltaremos <b>a</b> casa”, sem crase. Haveria crase em “voltaremos à casa dos avós”.</li></ul><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Curitiba não aceita artigo (“volto de Curitiba”, e não “da Curitiba”), então não há crase: “viajaremos a Curitiba”.",
+      "B": "Bahia aceita artigo (“volto da Bahia”), por isso a preposição exigida por “ir” se junta a ele: “vamos à Bahia”.",
+      "D": "“Casa”, no sentido de lar e sem especificação, não aceita artigo (“volto de casa”). Só haveria crase com um termo especificador, como em “à casa dos avós”."
+    },
+    "tip": "Na dúvida sobre crase antes de lugar, troque por “voltar”: volto da, vou à; volto de, crase para quê?"
+  }
+]

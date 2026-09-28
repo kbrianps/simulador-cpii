@@ -1,0 +1,270 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma loja de brinquedos vai enfeitar sua vitrine para o Natal. A vitrine tem a forma de um retângulo de 2,4 m de largura por 1,5 m de altura, e a loja quer colar uma fita de LED em todo o contorno dela.</p><p>A fita é vendida apenas em rolos inteiros de 2 m cada. O menor número de rolos que a loja precisa comprar é</p>",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O contorno da vitrine é o seu <b>perímetro</b>: a soma dos quatro lados do retângulo.</p><p>\\(2{,}4 + 1{,}5 + 2{,}4 + 1{,}5 = 7{,}8\\) m.</p><p>Cada rolo tem 2 m. Com 3 rolos a loja teria só 6 m, o que não basta. Com 4 rolos ela tem 8 m, que cobrem os 7,8 m (sobram 0,2 m).</p><p>Logo, o menor número de rolos é 4. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Somou só uma largura e uma altura (\\(2{,}4 + 1{,}5 = 3{,}9\\) m), que é metade do contorno, e chegou a 2 rolos.",
+      "B": "Calculou \\(7{,}8 \\div 2 = 3{,}9\\) e arredondou para baixo. Com 3 rolos faltariam 1,8 m de fita.",
+      "D": "Tratou os quatro lados como se todos medissem 2,4 m (\\(4 \\cdot 2{,}4 = 9{,}6\\) m) e chegou a 5 rolos."
+    },
+    "tip": "Contorno é perímetro (soma dos lados); quando o material vem em unidades inteiras, arredonde sempre para cima."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Bia vai fazer um jogo da memória caseiro. Ela tem uma folha retangular de papel-cartão de 60 cm por 40 cm e vai recortá-la inteira em cartões quadrados de 10 cm de lado, sem desperdiçar papel.</p><p>O número de cartões que Bia vai obter é</p>",
+    "options": {
+      "A": "10.",
+      "B": "24.",
+      "C": "20.",
+      "D": "240."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Ao longo dos 60 cm cabem \\(60 \\div 10 = 6\\) cartões, e ao longo dos 40 cm cabem \\(40 \\div 10 = 4\\) cartões.</p><p>A folha fica dividida em 6 colunas e 4 linhas: \\(6 \\cdot 4 = 24\\) cartões.</p><p>Conferindo pelas áreas: a folha tem \\(60 \\cdot 40 = 2400\\) cm² e cada cartão tem \\(10 \\cdot 10 = 100\\) cm², e \\(2400 \\div 100 = 24\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou as quantidades de cada lado (\\(6 + 4 = 10\\)) em vez de multiplicá-las.",
+      "C": "Dividiu o perímetro da folha (\\(200\\) cm) pelo lado do cartão, o que mede comprimento e não área.",
+      "D": "Dividiu a área da folha (2400 cm²) pelo lado do cartão (10 cm), e não pela área do cartão (100 cm²)."
+    },
+    "tip": "Para saber quantas peças cabem numa superfície, compare área com área (ou conte linhas vezes colunas)."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na fachada de um centro cultural há uma janela de vidro colorido com a forma de um triângulo retângulo. O lado vertical da janela mede 4 m; o lado horizontal, na base, mede 3 m; e o lado inclinado mede 5 m.</p><p>O vidro trincou, e a administração vai substituí-lo por um vidro especial que custa R$ 35,00 o metro quadrado. Sem considerar sobras e cortes, o gasto com o vidro será de</p>",
+    "options": {
+      "A": "R$ 210,00.",
+      "B": "R$ 420,00.",
+      "C": "R$ 262,50.",
+      "D": "R$ 245,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Um lado da janela é vertical e o outro é horizontal, então esses dois lados são perpendiculares: são os catetos do triângulo retângulo. Um cateto serve de base e o outro, de altura.</p><p>Área da janela: \\(\\dfrac{3 \\cdot 4}{2} = 6\\) m².</p><p>Custo: \\(6 \\cdot 35 = 210\\) reais. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esqueceu de dividir por 2: \\(3 \\cdot 4 = 12\\) m² é a área do retângulo, e o triângulo é metade dele.",
+      "C": "Usou o lado inclinado (5 m) como altura: \\(\\dfrac{3 \\cdot 5}{2} = 7{,}5\\) m². A altura precisa ser perpendicular à base.",
+      "D": "Somou os catetos (\\(3 + 4 = 7\\)) e multiplicou pelo preço, misturando comprimento com área."
+    },
+    "tip": "No triângulo retângulo, os catetos são base e altura: área = cateto vezes cateto dividido por 2."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um artista vai fazer um mosaico cobrindo um painel de 1,2 m² de área com peças de cerâmica em forma de losango, todas iguais, encaixadas sem sobreposição e sem espaços entre elas. As diagonais de cada losango medem 30 cm e 20 cm.</p><p>Desconsiderando cortes e perdas, o número de peças necessárias é</p>",
+    "options": {
+      "A": "20.",
+      "B": "4.",
+      "C": "400.",
+      "D": "40."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Área de um losango: \\(\\dfrac{D \\cdot d}{2} = \\dfrac{30 \\cdot 20}{2} = 300\\) cm².</p><p>Agora passamos a área do painel para cm². Como 1 m = 100 cm, um quadrado de 1 m de lado tem \\(100 \\cdot 100 = 10\\,000\\) cm². Assim, 1 m² = 10 000 cm² e</p><p>\\(1{,}2\\) m² \\(= 1{,}2 \\cdot 10\\,000 = 12\\,000\\) cm².</p><p>Número de peças: \\(12\\,000 \\div 300 = 40\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Esqueceu de dividir o produto das diagonais por 2 e usou 600 cm² por peça: \\(12\\,000 \\div 600 = 20\\).",
+      "B": "Converteu 1 m² como se fosse 1000 cm² (1,2 m² = 1200 cm²): \\(1200 \\div 300 = 4\\).",
+      "C": "Converteu 1 m² como se fosse 100 000 cm² (1,2 m² = 120 000 cm²): \\(120\\,000 \\div 300 = 400\\)."
+    },
+    "tip": "1 m² = 10 000 cm², porque o fator 100 entra duas vezes (comprimento e largura). Área do losango: diagonal maior vezes diagonal menor, dividido por 2."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma vidraçaria vende espelhos redondos, todos com a mesma espessura e o mesmo preço por centímetro quadrado. Para decorar a parede da sala, Renata está em dúvida entre comprar um espelho de 40 cm de diâmetro ou dois espelhos de 30 cm de diâmetro cada.</p><p>Considerando \\(\\pi = 3\\), é correto afirmar que os dois espelhos menores juntos têm, em relação ao espelho maior,</p>",
+    "options": {
+      "A": "60 cm² de área a mais.",
+      "B": "150 cm² de área a mais.",
+      "C": "600 cm² de área a mais.",
+      "D": "525 cm² de área a menos."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A superfície de cada espelho é um círculo, cuja área é \\(\\pi r^2\\), em que o raio é metade do diâmetro.</p><p><b>Espelho maior:</b> raio 20 cm, área \\(3 \\cdot 20^2 = 3 \\cdot 400 = 1200\\) cm².</p><p><b>Espelho menor:</b> raio 15 cm, área \\(3 \\cdot 15^2 = 3 \\cdot 225 = 675\\) cm². Dois espelhos menores: \\(2 \\cdot 675 = 1350\\) cm².</p><p>Diferença: \\(1350 - 1200 = 150\\) cm² a mais para os dois espelhos menores. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Comparou os contornos (comprimentos das circunferências): \\(2 \\cdot 90 - 120 = 60\\). Isso mede a borda dos espelhos, não a área.",
+      "C": "Usou o diâmetro no lugar do raio: \\(2 \\cdot 3 \\cdot 30^2 - 3 \\cdot 40^2 = 5400 - 4800 = 600\\).",
+      "D": "Comparou o espelho maior com apenas um espelho menor: \\(1200 - 675 = 525\\)."
+    },
+    "tip": "A área do círculo usa o raio, que é metade do diâmetro; para comparar superfícies, compare áreas, não contornos."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A horta de uma escola ocupa um terreno com a forma do triângulo ABC da figura. O lado AB mede 18 m, e a altura relativa a esse lado, isto é, a distância do vértice C até a reta AB, é de 10 m. Para dividir a horta entre duas turmas, foi instalada uma cerca reta ligando o vértice C ao ponto D do lado AB, com AD = 12 m e DB = 6 m.</p><p><img src=\"img/b19/mat-q06.svg\" alt=\"Triângulo ABC com o lado AB horizontal embaixo e o vértice C no alto. Uma linha tracejada vertical sai de C e encontra AB formando um ângulo reto; ela mede 10 m. O ponto D está sobre AB e um segmento liga C a D, dividindo o triângulo em duas partes: ADC, à esquerda, e DBC, à direita. Abaixo de AB estão as medidas AD = 12 m e DB = 6 m.\"></p><p>A turma que ficou com a parte ADC terá, para plantar, uma área de</p>",
+    "options": {
+      "A": "60 m².",
+      "B": "45 m².",
+      "C": "120 m².",
+      "D": "90 m²."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O triângulo ADC tem base AD = 12 m. Sua altura em relação a essa base é a distância de C até a reta AB, que é a mesma altura do triângulo inteiro: 10 m.</p><p>Área de ADC: \\(\\dfrac{12 \\cdot 10}{2} = 60\\) m².</p><p>Conferindo: o triângulo DBC tem \\(\\dfrac{6 \\cdot 10}{2} = 30\\) m², e \\(60 + 30 = 90\\) m², que é a área de ABC (\\(\\dfrac{18 \\cdot 10}{2} = 90\\)). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Supôs que a cerca divide a horta ao meio (\\(90 \\div 2 = 45\\)). Como AD é o dobro de DB, a parte ADC é o dobro da parte DBC.",
+      "C": "Multiplicou base por altura sem dividir por 2: \\(12 \\cdot 10 = 120\\).",
+      "D": "Calculou a área da horta inteira, e não só da parte ADC."
+    },
+    "tip": "Triângulos com o mesmo vértice e bases sobre a mesma reta têm a mesma altura; suas áreas ficam na mesma razão que as bases."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A planta de um sítio foi desenhada sobre uma malha quadriculada em que o lado de cada quadradinho representa 10 m. A região sombreada é uma área de mata que será preservada.</p><p><img src=\"img/b19/mat-q07.svg\" alt=\"Malha quadriculada com 8 quadradinhos na horizontal e 6 na vertical; o lado de cada quadradinho representa 10 m. A região de mata é um pentágono. Contando os quadradinhos a partir do canto inferior esquerdo da malha, seus vértices são: canto inferior esquerdo (0, 0); ponto na borda de baixo a 6 quadradinhos para a direita (6, 0); ponto na borda direita a 3 quadradinhos de altura (8, 3); ponto na borda de cima a 5 quadradinhos da esquerda (5, 6); ponto na borda esquerda a 5 quadradinhos de altura (0, 5).\"></p><p>A área real dessa região de mata é</p>",
+    "options": {
+      "A": "4.800 m².",
+      "B": "2.800 m².",
+      "C": "3.800 m².",
+      "D": "380 m²."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.cartesiano"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Vamos medir em quadradinhos e só no final converter. Uma boa estratégia é partir do retângulo que envolve a malha e retirar os triângulos que ficam fora da mata.</p><p>Retângulo inteiro: \\(8 \\cdot 6 = 48\\) quadradinhos.</p><p>Triângulos que sobram fora da mata (todos retângulos):</p><ul><li>embaixo, à direita: catetos 2 e 3, área \\(\\dfrac{2 \\cdot 3}{2} = 3\\);</li><li>em cima, à direita: catetos 3 e 3, área \\(\\dfrac{3 \\cdot 3}{2} = 4{,}5\\);</li><li>em cima, à esquerda: catetos 5 e 1, área \\(\\dfrac{5 \\cdot 1}{2} = 2{,}5\\).</li></ul><p>Mata: \\(48 - 3 - 4{,}5 - 2{,}5 = 38\\) quadradinhos.</p><p>Cada quadradinho representa \\(10 \\text{ m} \\times 10 \\text{ m} = 100\\) m². Área real: \\(38 \\cdot 100 = 3800\\) m². Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou a área do retângulo inteiro (\\(48 \\cdot 100\\)) sem retirar os cantos que não são mata.",
+      "B": "Retirou os triângulos dos cantos sem dividir por 2 (\\(48 - 6 - 9 - 5 = 28\\) quadradinhos).",
+      "D": "Contou certo os 38 quadradinhos, mas considerou que cada um vale 10 m², quando na verdade vale \\(10 \\cdot 10 = 100\\) m²."
+    },
+    "tip": "Em malhas, envolva a figura num retângulo e subtraia os triângulos dos cantos; lembre que um quadradinho de lado 10 m tem 100 m²."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma empresa de publicidade cobra pela lona dos painéis um valor proporcional à área impressa. Pela lona de um painel retangular de 4 m por 3 m, um cliente pagou R$ 480,00.</p><p>Agora esse cliente quer um painel maior, também retangular, com o comprimento e a largura, cada um, 25% maiores que os do painel anterior. Mantido o mesmo preço por metro quadrado, a lona do novo painel custará</p>",
+    "options": {
+      "A": "R$ 600,00.",
+      "B": "R$ 960,00.",
+      "C": "R$ 720,00.",
+      "D": "R$ 750,00."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Preço por metro quadrado: o painel antigo tem \\(4 \\cdot 3 = 12\\) m², então \\(480 \\div 12 = 40\\) reais por m².</p><p>Novas medidas (25% a mais em cada uma):</p><ul><li>comprimento: \\(4 \\cdot 1{,}25 = 5\\) m;</li><li>largura: \\(3 \\cdot 1{,}25 = 3{,}75\\) m.</li></ul><p>Nova área: \\(5 \\cdot 3{,}75 = 18{,}75\\) m². Custo: \\(18{,}75 \\cdot 40 = 750\\) reais.</p><p>Repare que a área não aumentou 25%: ela foi multiplicada por \\(1{,}25 \\cdot 1{,}25 = 1{,}5625\\), um aumento de 56,25%. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Aplicou 25% de aumento ao preço (\\(480 \\cdot 1{,}25 = 600\\)), como se a área crescesse na mesma porcentagem que cada lado.",
+      "B": "Supôs que a área (e o preço) dobraria.",
+      "C": "Somou os dois aumentos (25% + 25% = 50%): \\(480 \\cdot 1{,}5 = 720\\). Os aumentos se multiplicam, não se somam."
+    },
+    "tip": "Se cada lado é multiplicado por k, a área é multiplicada por k²: lados 25% maiores dão área 56,25% maior."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na cerimônia de premiação de um campeonato de atletismo, o pódio é formado por três blocos encostados lado a lado. Vista de frente, a face de cada bloco é um retângulo de 60 cm de largura; as alturas são 60 cm (1º lugar, no centro), 40 cm (2º lugar, à esquerda) e 25 cm (3º lugar, à direita), como na figura.</p><p><img src=\"img/b19/mat-q09.svg\" alt=\"Vista de frente de um pódio apoiado no chão: três retângulos encostados, cada um com 60 cm de largura. O da esquerda, com o número 2, tem 40 cm de altura; o do centro, com o número 1, tem 60 cm de altura; o da direita, com o número 3, tem 25 cm de altura. As bases dos três estão alinhadas no chão.\"></p><p>A organização vai colar uma faixa adesiva dourada apenas no contorno externo da figura formada pela frente do pódio, incluindo a borda que toca o chão. O comprimento de faixa necessário é</p>",
+    "options": {
+      "A": "480 cm.",
+      "B": "610 cm.",
+      "C": "545 cm.",
+      "D": "425 cm."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.poligonos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Percorremos o contorno externo a partir do canto de baixo, à esquerda, no sentido horário:</p><ul><li>sobe a lateral do bloco 2: 40 cm;</li><li>topo do bloco 2: 60 cm;</li><li>degrau até o topo do bloco 1: \\(60 - 40 = 20\\) cm;</li><li>topo do bloco 1: 60 cm;</li><li>degrau descendo até o topo do bloco 3: \\(60 - 25 = 35\\) cm;</li><li>topo do bloco 3: 60 cm;</li><li>desce a lateral do bloco 3: 25 cm;</li><li>borda no chão: \\(3 \\cdot 60 = 180\\) cm.</li></ul><p>Total: \\(40 + 60 + 20 + 60 + 35 + 60 + 25 + 180 = 480\\) cm.</p><p>Atalho: os trechos horizontais somam \\(180 + 180 = 360\\) cm, e os verticais sobem 60 cm e descem 60 cm, somando 120 cm. É o mesmo perímetro de um retângulo de 180 cm por 60 cm. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Somou os perímetros dos três retângulos (\\(200 + 240 + 170 = 610\\)), contando também as linhas internas, onde os blocos se encostam, que não fazem parte do contorno.",
+      "C": "Partiu de 610 cm e descontou cada linha de encosto só uma vez (\\(610 - 40 - 25 = 545\\)). Cada linha interna foi contada duas vezes (uma em cada bloco), então precisa ser descontada duas vezes.",
+      "D": "Esqueceu os dois degraus verticais entre os blocos (20 cm e 35 cm): \\(480 - 55 = 425\\)."
+    },
+    "tip": "Contorno de figura em degraus: some tudo o que é horizontal e tudo o que é vertical; linhas internas não entram no perímetro."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A bandeira de um bloco de carnaval é um retângulo ABCD de 90 cm de comprimento por 60 cm de altura. Nela, foi pintado de vermelho o triângulo AEV: o ponto E fica no lado AB, com AE = 60 cm, e o ponto V fica em algum lugar do lado CD, oposto a AB. O restante da bandeira é amarelo.</p><p><img src=\"img/b19/mat-q10.svg\" alt=\"Retângulo ABCD com A no canto inferior esquerdo, B no inferior direito, C no superior direito e D no superior esquerdo. AB é dividido pelo ponto E em AE = 60 cm e EB = 30 cm; a altura BC mede 60 cm. O triângulo vermelho tem vértices A, E e V, sendo V um ponto do lado de cima, DC. O restante do retângulo é amarelo.\"></p><p>O desenhista esqueceu de anotar a posição exata do ponto V no lado CD. Sobre a área amarela da bandeira, pode-se afirmar que ela</p>",
+    "options": {
+      "A": "mede 2.700 cm², pois é metade da bandeira.",
+      "B": "mede 1.800 cm².",
+      "C": "mede 3.600 cm², qualquer que seja a posição de V.",
+      "D": "não pode ser calculada sem conhecer a posição de V."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.areas",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Tome AE como base do triângulo vermelho: 60 cm.</p><p>A altura relativa a essa base é a distância de V até a reta AB. Como V está no lado CD, que é paralelo a AB, essa distância é sempre a altura da bandeira, 60 cm, não importa onde V esteja.</p><p>Área vermelha: \\(\\dfrac{60 \\cdot 60}{2} = 1800\\) cm².</p><p>Área da bandeira: \\(90 \\cdot 60 = 5400\\) cm².</p><p>Área amarela: \\(5400 - 1800 = 3600\\) cm², para qualquer posição de V. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Achou que o triângulo ocupa metade da bandeira. Isso só aconteceria se a base fosse o lado AB inteiro (90 cm).",
+      "B": "Calculou a área vermelha (1800 cm²), e não a amarela.",
+      "D": "Não percebeu que, com V em qualquer ponto de CD, a altura do triângulo em relação a AE é sempre 60 cm, então a área não muda."
+    },
+    "tip": "Deslizar o vértice de um triângulo sobre uma reta paralela à base não muda a altura, logo não muda a área."
+  }
+]

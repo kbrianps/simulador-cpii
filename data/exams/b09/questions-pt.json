@@ -1,0 +1,269 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o aviso afixado nas estações de uma linha de metrô:</p><blockquote><p>“Atenção, passageiros: a partir da próxima segunda-feira, a Estação Praça das Flores fecha às 22h, por causa das obras na plataforma. Aos sábados e domingos, o horário de funcionamento continua o mesmo.”</p></blockquote><p>A forma verbal “fecha” está no presente do indicativo. Nesse aviso, porém, ela se refere a</p>",
+    "options": {
+      "A": "um hábito antigo da estação, que se repete há muitos anos.",
+      "B": "um fato futuro, apresentado como certo por já estar decidido.",
+      "C": "uma possibilidade ainda incerta, que depende do andamento das obras.",
+      "D": "uma ação que está acontecendo no exato momento em que o aviso é lido."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O presente do indicativo nem sempre indica algo que acontece agora. Acompanhado de uma expressão de tempo futuro, ele pode anunciar um fato que ainda vai ocorrer.</p><p>No aviso, a expressão “a partir da próxima segunda-feira” mostra que o novo horário ainda não começou: a mudança acontecerá depois. Mesmo assim, o verbo não aparece no futuro (“fechará”), e sim no presente (“fecha”).</p><p>Esse uso é comum em avisos, agendas e programações: o presente dá à informação um tom de <b>certeza</b>, como algo já combinado e decidido pela administração do metrô. Compare: “Amanhã a gente viaja cedo”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O presente pode indicar hábito (“a estação fecha às 22h todos os dias”), mas aqui a expressão “a partir da próxima segunda-feira” mostra que o horário é novo, e não um costume antigo.",
+      "C": "O aviso não apresenta a mudança como dúvida. Para isso, seriam usadas formas como “poderá fechar” ou “talvez feche”. O presente, ao contrário, transmite certeza.",
+      "D": "Esse seria o presente do momento da fala. No momento da leitura, a mudança ainda não começou, pois ela só vale a partir da próxima segunda-feira."
+    },
+    "tip": "Presente + expressão de tempo futuro (“amanhã”, “a partir de segunda”) = futuro dito com certeza, como algo já programado."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma notícia publicada no jornal mural de uma escola:</p><blockquote><p>“Na eleição do grêmio, o sim venceu com folga. A chapa vencedora repetiu durante toda a campanha que os alunos estavam cansados do depois: queriam a quadra reformada ainda neste ano.”</p></blockquote><p>As palavras “sim” e “depois” costumam ser advérbios, mas, no trecho, vêm precedidas de artigo (“o sim”, “do depois”) e passam a funcionar como substantivos.</p><p>O mesmo processo ocorre com a palavra destacada em:</p>",
+    "options": {
+      "A": "“O <b>amanhã</b> da turma depende das escolhas feitas hoje.”",
+      "B": "“<b>Amanhã</b> a turma apresenta a proposta ao diretor.”",
+      "C": "“A turma respondeu que <b>sim</b>, sem pensar duas vezes.”",
+      "D": "“<b>Depois</b> da votação, a turma comemorou no pátio.”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Quando uma palavra de outra classe passa a ser usada como substantivo, dizemos que houve <b>substantivação</b>. A pista mais comum é o <b>artigo</b> antes dela.</p><p>No trecho da notícia, “o sim” significa “a resposta sim, o voto favorável”, e “do depois” (de + o + depois) significa “do adiamento, da espera”. As duas palavras passam a nomear algo.</p><p>Na alternativa A, o mesmo acontece: “amanhã” vem precedido do artigo “o” e significa “o futuro”. Tanto que pode receber um complemento, como qualquer substantivo: “o amanhã <i>da turma</i>”.</p><p>Nas outras alternativas, as palavras continuam com sua função habitual.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Aqui “amanhã” é advérbio de tempo: indica quando a turma apresenta a proposta. Não há artigo antes dele.",
+      "C": "“Sim” é advérbio de afirmação, a própria resposta da turma. Não vem precedido de artigo nem nomeia algo.",
+      "D": "“Depois” forma a locução “depois de”, que indica tempo (após a votação). Não há artigo antes de “depois”: o artigo que aparece em “da votação” pertence a “votação”."
+    },
+    "tip": "Artigo antes de uma palavra que não é substantivo costuma transformá-la em substantivo: o sim, o não, o amanhã, o porquê."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o diálogo entre um menino e o atendente de uma padaria, às seis e meia da manhã:</p><blockquote><p>– Moço, o senhor poderia trocar esta nota de cinquenta? Eu queria só um pão de queijo, e sei que ainda é cedo para tanto troco.</p><p>– Sem problema, meu filho. O caixa acabou de abrir.</p></blockquote><p>O menino usa as formas verbais “poderia” e “queria” em lugar de “pode” e “quero”. Com essa escolha, ele</p>",
+    "options": {
+      "A": "indica que o pedido se refere a uma compra feita em outro dia.",
+      "B": "apresenta o pedido como uma hipótese que não poderá se realizar.",
+      "C": "suaviza o pedido, tornando-o mais educado diante do atendente.",
+      "D": "mostra dúvida sobre a quantia de dinheiro que tem no bolso."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Poderia” está no futuro do pretérito e “queria” no pretérito imperfeito. Nenhum dos dois, porém, fala de passado ou de hipótese nesse diálogo: o menino quer o pão de queijo <b>agora</b>.</p><p>Esses tempos verbais têm um uso muito comum na conversa do dia a dia: <b>atenuar</b> um pedido, deixando-o menos direto. Compare:</p><ul><li>“O senhor pode trocar esta nota? Quero um pão de queijo.” (mais direto)</li><li>“O senhor poderia trocar esta nota? Eu queria um pão de queijo.” (mais cortês)</li></ul><p>O cuidado do menino aparece também na justificativa “sei que ainda é cedo para tanto troco”: ele sabe que está pedindo um favor e escolhe formas mais gentis.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O imperfeito “queria” parece falar de passado, mas o menino está comprando naquele momento. O pretérito foi usado para suavizar o pedido, não para localizar a compra em outro dia.",
+      "B": "O futuro do pretérito pode expressar hipótese (“se eu tivesse dinheiro, compraria”), mas aqui não há condição nenhuma, e o pedido é atendido logo em seguida.",
+      "D": "O menino sabe exatamente o que tem: uma nota de cinquenta. A dúvida que ele demonstra é sobre a disposição do atendente de trocá-la, não sobre o dinheiro."
+    },
+    "tip": "“Poderia” e “queria” no lugar de “pode” e “quero” são marcas de cortesia: o pedido fica mais suave."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma crônica esportiva:</p><blockquote><p>“Mesmo com o ginásio lotado de torcedores rivais, o time de vôlei do bairro não se intimidou. No último ponto, a levantadora resolveu atacar ela mesma, de surpresa, e fechou o jogo. Foi mesmo uma noite para guardar na memória.”</p></blockquote><p>A palavra “mesmo” aparece três vezes no trecho, com sentidos diferentes. Na ordem em que aparecem, as ocorrências expressam</p>",
+    "options": {
+      "A": "reforço de quem praticou a ação (= própria), concessão (= embora) e confirmação (= realmente).",
+      "B": "concessão (= embora), confirmação (= realmente) e reforço de quem praticou a ação (= própria).",
+      "C": "confirmação (= realmente), reforço de quem praticou a ação (= própria) e concessão (= embora).",
+      "D": "concessão (= embora), reforço de quem praticou a ação (= própria) e confirmação (= realmente)."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Mesmo” pode pertencer a classes diferentes, e só o contexto mostra qual. Uma boa estratégia é substituir cada ocorrência pela palavra que tem o mesmo sentido:</p><ol><li>“<b>Mesmo com</b> o ginásio lotado” = “<i>Embora</i> o ginásio estivesse lotado”. Há uma ideia contrária (a torcida rival) que não impediu o fato principal: é <b>concessão</b>.</li><li>“atacar ela <b>mesma</b>” = “atacar ela <i>própria</i>”. A palavra concorda com “ela” (feminino) e reforça quem fez a ação: foi a levantadora, e não outra jogadora.</li><li>“Foi <b>mesmo</b> uma noite” = “Foi <i>realmente</i> uma noite”. Aqui é advérbio e <b>confirma</b> a afirmação.</li></ol><p>A ordem é, portanto: concessão, reforço e confirmação.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Inverte as duas primeiras ocorrências. “Mesmo com o ginásio lotado” não reforça pessoa alguma: introduz um obstáculo que não impediu a vitória (concessão).",
+      "B": "Acerta a primeira, mas troca as duas últimas. “Ela mesma” concorda com “ela” e equivale a “ela própria”; já o último “mesmo” pode ser trocado por “realmente”.",
+      "C": "Começa por “confirmação”, mas o primeiro “mesmo” não confirma nada: com “com”, ele indica um fato contrário que não impediu o resultado."
+    },
+    "tip": "Para descobrir o valor de “mesmo”, troque-o por “embora”, “próprio” ou “realmente” e veja qual mantém o sentido."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um relato de viagem:</p><blockquote><p>“Naquela manhã de julho, o barco balançava havia uma hora e ninguém tinha avistado nada. De repente, a uns quinze metros de nós, uma baleia salta, gira o corpo no ar e desaba na água. Todo mundo grita ao mesmo tempo.”</p></blockquote><p>O narrador começa o relato no pretérito (“balançava”, “tinha avistado”) e, a partir de “De repente”, passa a usar o presente (“salta”, “gira”, “desaba”, “grita”). Essa mudança</p>",
+    "options": {
+      "A": "aproxima o leitor da cena, como se o salto da baleia acontecesse diante de seus olhos.",
+      "B": "indica que a baleia salta todos os dias naquele mesmo ponto do mar.",
+      "C": "mostra que o narrador ainda está no barco no momento em que escreve o relato.",
+      "D": "revela que o salto da baleia é uma suposição, e não algo que de fato ocorreu."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Os fatos do relato aconteceram no passado, “naquela manhã de julho”. O narrador, no entanto, conta a parte mais emocionante no presente. Esse recurso é chamado de <b>presente histórico</b> (ou presente narrativo).</p><p>Ao trocar o pretérito pelo presente no momento do salto, o narrador faz a cena parecer que está acontecendo agora. O leitor “vê” a baleia saltar, girar e cair, e sente a surpresa junto com as pessoas do barco. A mudança coincide com a expressão “De repente”, que marca justamente o ponto alto da história.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Esse seria o presente habitual, que indica repetição (“as baleias saltam ali todo inverno”). O relato fala de uma única manhã e de uma única baleia.",
+      "C": "O próprio texto situa os fatos no passado (“Naquela manhã de julho”). O presente é um recurso de narração, não uma informação sobre onde o narrador está.",
+      "D": "Suposições costumam vir no futuro do pretérito ou no subjuntivo (“talvez saltasse”). O presente do indicativo apresenta o salto como fato, e a reação de todos confirma que ele aconteceu."
+    },
+    "tip": "Presente usado para narrar fatos passados (presente histórico) serve para dar vida à cena, como se ela acontecesse diante do leitor."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma crônica sobre a vida no bairro:</p><blockquote><p>“Seu Aníbal, dono da banca de jornal da esquina, é um velho amigo da nossa família. Não é um amigo velho: tem pouco mais de quarenta anos. É que conhece meu pai desde o tempo em que os dois soltavam pipa na mesma laje.”</p></blockquote><p>No trecho, a mudança de posição do adjetivo “velho” altera o sentido da expressão: antes do substantivo, indica uma amizade antiga; depois dele, indica idade avançada.</p><p>A alternativa em que a troca de posição do adjetivo também provoca mudança de sentido é:</p>",
+    "options": {
+      "A": "“uma rua tranquila” / “uma tranquila rua”",
+      "B": "“um grande homem” / “um homem grande”",
+      "C": "“um dia lindo” / “um lindo dia”",
+      "D": "“um jardim florido” / “um florido jardim”"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na maioria dos casos, trocar o adjetivo de lugar muda apenas o estilo da frase, deixando-a mais expressiva ou mais poética. Alguns adjetivos, porém, mudam de <b>sentido</b> conforme a posição, como “velho” no trecho: “velho amigo” (amigo de longa data) e “amigo velho” (amigo idoso).</p><p>Isso também acontece com “grande”:</p><ul><li>“um <b>grande</b> homem”: um homem importante, admirável;</li><li>“um homem <b>grande</b>”: um homem alto, de corpo grande.</li></ul><p>Um homem pode ser grande sem ser um grande homem, e vice-versa.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A rua continua sendo calma nas duas formas. A anteposição (“tranquila rua”) só dá um tom mais literário.",
+      "C": "“Dia lindo” e “lindo dia” significam a mesma coisa; a anteposição apenas dá mais ênfase à avaliação.",
+      "D": "Nas duas ordens o jardim tem flores. “Florido jardim” soa mais poético, mas o sentido não muda."
+    },
+    "tip": "Teste o sentido: se a troca de posição muda o que a expressão significa (como “velho amigo” e “amigo velho”), o adjetivo mudou de sentido, não só de lugar."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a mensagem que uma menina enviou para o irmão:</p><blockquote><p>“O Biscoito sumiu de novo. A ração está intacta, e a porta do quintal continua fechada. Onde estará esse gato agora? Estará dormindo em cima do guarda-roupa, como da última vez?”</p></blockquote><p>Nas duas perguntas, a forma verbal “estará”, no futuro do presente, não se refere a um fato que ainda vai acontecer. Ela foi empregada para</p>",
+    "options": {
+      "A": "dar uma ordem ao gato para que ele apareça logo.",
+      "B": "afirmar com certeza o lugar onde o gato se escondeu.",
+      "C": "expressar dúvida ou suposição sobre um fato do momento presente.",
+      "D": "indicar que o gato só vai reaparecer no dia seguinte."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A menina quer saber onde o gato está <b>agora</b> (a palavra “agora” está na própria pergunta). Mesmo assim, ela usa o futuro: “Onde <b>estará</b>?” em vez de “Onde está?”.</p><p>Esse é um uso comum do futuro do presente: exprimir <b>incerteza</b>, <b>suposição</b> sobre algo atual. É como se ela dissesse: “Onde será que ele está?”, “Será que ele está dormindo em cima do guarda-roupa?”. Ela levanta uma hipótese com base no que já aconteceu antes (“como da última vez”), sem ter certeza.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Ordens se dão com o imperativo (“Apareça, Biscoito!”). A menina não fala com o gato: ela pergunta ao irmão onde ele pode estar.",
+      "B": "As frases são perguntas, justamente porque ela não sabe onde o gato está. O futuro, nesse caso, reforça a dúvida em vez de trazer certeza.",
+      "D": "É o engano de ler o futuro sempre como tempo que ainda vai chegar. A pergunta trata do momento presente (“agora”), e não de quando o gato voltará."
+    },
+    "tip": "Futuro em pergunta sobre o presente (“Que horas serão?”, “Onde estará?”) costuma indicar dúvida: equivale a “será que...?”."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma notícia sobre um torneio de xadrez:</p><blockquote><p>“No campeonato de xadrez do clube, um garoto de onze anos surpreendeu os veteranos. Em seis rodadas, ele perdeu uma partida só e ainda levou para casa um prêmio de melhor jogada da competição.”</p></blockquote><p>A palavra “um” (ou “uma”) pode ser <b>artigo indefinido</b>, quando apenas apresenta algo de modo não específico, ou <b>numeral</b>, quando indica a quantidade exata (um, e não dois ou três). Considere as ocorrências:</p><p>I. “<b>um</b> garoto de onze anos”<br>II. “<b>uma</b> partida só”<br>III. “<b>um</b> prêmio de melhor jogada”</p><p>Há numeral em</p>",
+    "options": {
+      "A": "I, apenas.",
+      "B": "III, apenas.",
+      "C": "I e III, apenas.",
+      "D": "II, apenas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Para distinguir, pergunte se a frase está falando de <b>quantidade</b>, isto é, se faria sentido trocar “um” por “dois” e manter a lógica da contagem.</p><ul><li><b>I</b>: “um garoto de onze anos” apresenta ao leitor um personagem ainda desconhecido. Não se está contando garotos: é <b>artigo</b>. Depois, ele passa a ser retomado por “ele”.</li><li><b>II</b>: “perdeu uma partida só” informa quantas partidas o garoto perdeu entre as seis rodadas. A palavra “só” reforça a ideia de quantidade: uma, e não duas. É <b>numeral</b>.</li><li><b>III</b>: “um prêmio de melhor jogada” apenas apresenta o prêmio, sem destacar quantidade. É <b>artigo</b>.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Em I, “um” só introduz o garoto na notícia, que ainda não era conhecido do leitor. O texto não está contando quantos garotos surpreenderam os veteranos.",
+      "B": "Em III, o prêmio é apenas apresentado, sem ênfase em quantidade. Quem marca a quantidade no trecho é “uma partida só”, em oposição às seis rodadas.",
+      "C": "Inverte a análise: em I e III, “um” apenas apresenta algo novo no texto (artigo), e a única ocorrência que indica contagem, “uma partida só” (II), ficou de fora."
+    },
+    "tip": "“Um” é numeral quando indica quantidade (combina com “só”, “apenas”, ou se opõe a “dois”); é artigo quando apenas apresenta algo novo no texto."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia a mensagem publicada em um grupo de receitas na internet:</p><blockquote><p>“Minha sobrinha tem alergia a ovo, e o aniversário dela é no sábado. Alguém conhece uma receita de bolo de chocolate que não leve ovo e que fique fofinho?”</p></blockquote><p>Se a autora tivesse escrito “uma receita de bolo de chocolate que não <b>leva</b> ovo”, o verbo passaria do presente do subjuntivo para o presente do indicativo. Em comparação com essa versão, a forma original “<b>leve</b>” indica que a autora</p>",
+    "options": {
+      "A": "já tem uma receita escolhida e quer apenas confirmar se ela dá certo.",
+      "B": "busca qualquer receita que atenda às condições, sem saber se alguém conhece uma.",
+      "C": "dá uma ordem aos participantes do grupo para que tirem o ovo da receita.",
+      "D": "situa o preparo do bolo no passado, em um aniversário anterior."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.verbos",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Nas orações que caracterizam um substantivo (“uma receita <i>que...</i>”), a escolha do modo verbal muda o sentido:</p><ul><li><b>Indicativo</b> (“que não <b>leva</b> ovo”): trata a receita como algo real e certo, uma receita que existe e que se conhece.</li><li><b>Subjuntivo</b> (“que não <b>leve</b> ovo”): trata a receita como algo <b>desejado</b> ou hipotético. A autora descreve as características que a receita precisa ter, sem saber se ela existe ou se alguém a conhece.</li></ul><p>É exatamente a situação da mensagem: ela procura qualquer receita que cumpra duas condições (não levar ovo e ficar fofinha). O segundo verbo, “fique”, também está no subjuntivo pelo mesmo motivo.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É o contrário: quem já tem uma receita definida falaria dela com o indicativo (“tenho uma receita que não leva ovo”). O subjuntivo mostra que a receita ainda está sendo procurada.",
+      "C": "“Leve” tem a mesma forma do imperativo (“leve o bolo”), mas aqui está dentro da oração “que não leve ovo”, que caracteriza a receita. Ninguém está recebendo uma ordem.",
+      "D": "O presente do subjuntivo não indica passado. O aniversário é “no sábado”, ou seja, ainda vai acontecer."
+    },
+    "tip": "“Procuro algo que seja...” (subjuntivo) = algo desejado, hipotético; “Tenho algo que é...” (indicativo) = algo real e conhecido."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um cartão-postal enviado por uma turista:</p><blockquote><p>“Chegamos a Ouro Preto na sexta à noite, mortos de cansaço depois de nove horas de estrada. Mesmo assim, antes de dormir, ainda passeamos pelas ladeiras de pedra.”</p></blockquote><p>Na expressão “mortos <b>de</b> cansaço”, a preposição “de” introduz a <b>causa</b> do estado descrito: eles estavam mortos por causa do cansaço.</p><p>A preposição destacada tem esse mesmo valor em:</p>",
+    "options": {
+      "A": "“Viajamos <b>de</b> ônibus durante toda a madrugada.”",
+      "B": "“No café da manhã, provamos um doce <b>de</b> leite delicioso.”",
+      "C": "“As crianças choravam <b>de</b> sono no banco do ônibus.”",
+      "D": "“Saímos <b>de</b> Belo Horizonte logo depois do almoço.”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.classes",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A preposição “de” é uma palavra de ligação que pode estabelecer relações de sentido muito diferentes. Para identificar a relação, faça uma pergunta ao termo que ela introduz:</p><ul><li>A: viajamos <b>como</b>? De ônibus: <b>meio</b> de transporte.</li><li>B: doce feito <b>de quê</b>? De leite: <b>matéria</b>, ingrediente.</li><li>C: choravam <b>por quê</b>? De sono, isto é, por causa do sono: <b>causa</b>.</li><li>D: saímos <b>de onde</b>? De Belo Horizonte: <b>origem</b>, ponto de partida.</li></ul><p>Assim como em “mortos de cansaço”, em C a preposição introduz o motivo do estado: o sono faz as crianças chorarem. É possível até substituir: “choravam <i>por causa do</i> sono”.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“De ônibus” responde a “como viajamos?”: indica o meio de transporte, não a causa da viagem.",
+      "B": "“Doce de leite” indica a matéria de que o doce é feito. Não dá para trocar por “por causa do leite”.",
+      "D": "“De Belo Horizonte” indica o lugar de onde partiram (origem), respondendo à pergunta “de onde?”. Não explica o motivo de nenhum estado ou ação."
+    },
+    "tip": "Para descobrir o valor de uma preposição, faça a pergunta certa: por quê? (causa), como? (meio), de quê? (matéria), de onde? (origem)."
+  }
+]

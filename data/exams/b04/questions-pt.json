@@ -1,0 +1,267 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Depois de três derrotas seguidas, a equipe de handebol da turma mostrou-se <b><u>obstinada</u></b> nos treinos e acabou vencendo o torneio interclasses.”</p></blockquote><p>A palavra destacada pode ser substituída, sem prejuízo de sentido, por</p>",
+    "options": {
+      "A": "indiferente.",
+      "B": "persistente.",
+      "C": "desanimada.",
+      "D": "desorganizada."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Quem é <b>obstinado</b> mantém-se firme num objetivo e não desiste diante das dificuldades. O contexto ajuda: mesmo depois de “três derrotas seguidas”, a equipe continuou treinando com empenho e “acabou vencendo”.</p><p>O sinônimo adequado é <b>persistente</b>. Teste a troca: “a equipe mostrou-se <i>persistente</i> nos treinos e acabou vencendo o torneio”. O sentido se mantém.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Indiferente” é quem não se importa. Uma equipe que não liga para os treinos dificilmente viraria o jogo e ganharia o torneio.",
+      "C": "“Desanimada” seria a reação esperada depois de três derrotas, mas o trecho mostra o contrário: a equipe reagiu e venceu. Essa opção lê só o começo da frase.",
+      "D": "Nada no trecho fala de organização. Além disso, a desorganização não combina com a vitória que vem em seguida."
+    },
+    "tip": "Para achar o sinônimo, use o contexto (“três derrotas” e “acabou vencendo”) e teste cada opção dentro da frase."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“No trabalho de Ciências sobre reciclagem, a Júlia foi a única que <b><u>pôs a mão na massa</u></b>; o resto do grupo só deu palpite.”</p></blockquote><p>No contexto, a expressão destacada significa que Júlia</p>",
+    "options": {
+      "A": "sujou as mãos manuseando o lixo reciclável.",
+      "B": "copiou o trabalho de outro grupo da turma.",
+      "C": "deu ordens aos colegas sobre o que fazer.",
+      "D": "trabalhou de fato na realização da tarefa."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Pôr a mão na massa” é uma <b>expressão idiomática</b>: seu sentido não é a soma do significado de cada palavra. Ela quer dizer <b>trabalhar de verdade</b>, envolver-se diretamente na execução de algo.</p><p>O próprio trecho confirma esse sentido pela oposição: Júlia “pôs a mão na massa”, enquanto “o resto do grupo só deu palpite”. Dar palpite é opinar sem fazer; pôr a mão na massa é fazer.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Essa é uma leitura literal da expressão, influenciada pelo tema do trabalho (reciclagem). Nada indica que ela tenha mexido no lixo; a expressão fala do esforço dela.",
+      "B": "Copiar é o oposto de trabalhar com empenho. A expressão tem sentido positivo, e o trecho elogia Júlia em relação aos colegas.",
+      "C": "Dar ordens se aproxima de “dar palpite”, que é justamente o que o resto do grupo fazia. Júlia se diferencia por executar a tarefa."
+    },
+    "tip": "Expressões idiomáticas devem ser lidas como um bloco; o contraste na própria frase (fazer x dar palpite) costuma entregar o sentido."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>A palavra <b>pesado</b> (e suas flexões) pode ser usada em sentido denotativo (literal) ou conotativo (figurado). Assinale a alternativa em que ela está empregada em <b>sentido denotativo</b>:</p>",
+    "options": {
+      "A": "“Com tantos livros, a mochila de Pedro ficou pesada demais.”",
+      "B": "“Depois da discussão entre os dois alunos, o clima na sala ficou pesado.”",
+      "C": "“Aquela brincadeira foi pesada para uma festa de criança.”",
+      "D": "“Depois do jogo, ele caiu num sono pesado e só acordou no dia seguinte.”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O <b>sentido denotativo</b> é o sentido literal, o primeiro que aparece no dicionário. Para “pesado”, é: que tem muito peso, difícil de carregar.</p><p>Em A, a mochila cheia de livros tem, de fato, muito peso: é o sentido literal. Nas outras frases, “pesado” é usado em sentido figurado:</p><ul><li>B: clima pesado = ambiente tenso, desconfortável;</li><li>C: brincadeira pesada = de mau gosto, grosseira;</li><li>D: sono pesado = sono profundo, difícil de interromper.</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "O clima de uma sala não pode ser colocado numa balança. “Pesado” aqui quer dizer tenso, carregado de mal-estar: sentido conotativo.",
+      "C": "Uma brincadeira não tem peso físico. “Pesada” significa de mau gosto ou ofensiva: sentido figurado.",
+      "D": "O sono não tem peso de verdade. “Sono pesado” é sono profundo; o uso é conotativo, ainda que muito comum."
+    },
+    "tip": "Denotativo é o sentido “de dicionário”: pergunte-se se a coisa poderia, de verdade, ser pesada numa balança."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Os moradores do bairro fizeram um abaixo-assinado pedindo uma nova <b><u>linha</u></b> de ônibus que vá até o hospital.”</p></blockquote><p>A palavra destacada tem o <b>mesmo sentido</b> que no trecho acima em:</p>",
+    "options": {
+      "A": "“Minha avó comprou uma linha vermelha para costurar a barra da calça.”",
+      "B": "“Escreva o seu nome completo na primeira linha da folha de respostas.”",
+      "C": "“A linha 2 do metrô vai funcionar até mais tarde durante o feriado.”",
+      "D": "“O juiz marcou lateral porque a bola ultrapassou a linha do campo.”"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Linha” é uma palavra <b>polissêmica</b>: tem vários sentidos, e o contexto define qual deles vale.</p><p>No trecho, “linha de ônibus” é um <b>serviço regular de transporte que faz sempre o mesmo percurso</b>. Na alternativa C, “linha 2 do metrô” tem exatamente esse sentido: um trajeto fixo de transporte público.</p><p>Nas outras alternativas, “linha” é fio de costura (A), espaço para escrever na folha (B) e marca pintada no campo (D).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Aqui “linha” é o fio usado para costurar. É outro significado da mesma palavra, sem relação com transporte.",
+      "B": "“Linha da folha” é o traço ou espaço horizontal em que se escreve. Não indica percurso de transporte.",
+      "D": "A linha do campo é uma marca pintada que limita a área de jogo. Quem escolhe esta opção pode associar “linha” a trajeto, mas ela não é um serviço de transporte."
+    },
+    "tip": "Palavra com vários sentidos: descubra o sentido no trecho original (trajeto de transporte) e procure a opção com o mesmo tipo de coisa."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Com a alta dos preços dos alimentos, o salário de muitas famílias <b><u>encolhe</u></b> a cada ida ao supermercado.”</p></blockquote><p>O verbo destacado foi empregado em sentido figurado. No contexto, ele indica que</p>",
+    "options": {
+      "A": "os patrões passaram a reduzir o valor do salário dos empregados.",
+      "B": "as famílias passaram a receber o salário em parcelas menores.",
+      "C": "os supermercados diminuíram de tamanho por causa da crise.",
+      "D": "o mesmo dinheiro compra menos produtos do que antes."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No sentido literal, “encolher” é diminuir de tamanho, como uma roupa que encolhe na lavagem. Um salário, porém, não tem tamanho físico.</p><p>A causa apontada na frase é “a alta dos preços dos alimentos”. O valor do salário continua o mesmo, mas, como tudo fica mais caro, ele <b>rende menos</b>: compra menos coisas a cada ida ao mercado. É como se o salário “encolhesse”. Trata-se da perda do poder de compra.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Essa leitura toma “encolhe” ao pé da letra, como se o valor do salário fosse cortado. A frase atribui a perda à alta dos preços, e não a uma redução feita pelos patrões.",
+      "B": "Receber em parcelas é mudar a forma de pagamento, não o valor. Nada no trecho fala de parcelamento.",
+      "C": "O verbo se refere ao salário, e não ao supermercado. Quem escolhe esta opção liga “encolhe” ao termo errado da frase."
+    },
+    "tip": "Quando uma palavra concreta (encolher) se aplica a algo abstrato (salário), pergunte-se qual efeito real ela descreve no contexto."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“A gente jurava que tinha descoberto a passagem secreta da última fase do jogo, mas <b><u>deu com os burros n’água</u></b>: era só uma parede pintada.”</p></blockquote><p>No contexto, a expressão destacada significa que os jogadores</p>",
+    "options": {
+      "A": "fracassaram naquilo que estavam tentando fazer.",
+      "B": "encontraram, no jogo, uma passagem cheia de água.",
+      "C": "desistiram da fase antes mesmo de tentar vencê-la.",
+      "D": "foram enganados de propósito por um colega de equipe."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Dar com os burros n’água” é uma expressão idiomática popular que significa <b>fracassar, não conseguir o que se pretendia</b>, depois de acreditar no sucesso.</p><p>O trecho mostra exatamente isso: os jogadores “juravam” ter achado a passagem secreta, mas a conjunção “mas” introduz a frustração, e os dois-pontos explicam o motivo: “era só uma parede pintada”. A tentativa deu errado.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É a leitura literal, ligada à palavra “água”. A expressão não fala de água de verdade; o que os jogadores encontraram foi uma parede pintada.",
+      "C": "Eles não desistiram antes: tentaram, acreditando que tinham descoberto a passagem. A expressão indica o fracasso depois da tentativa.",
+      "D": "O trecho não menciona nenhum colega nem uma enganação proposital. O engano veio da própria impressão dos jogadores diante da parede pintada."
+    },
+    "tip": "Em expressão idiomática, desconfie da opção que explica as palavras ao pé da letra (burros, água); o sentido está no conjunto."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“O vizinho do 302 vive dizendo que o meu trabalho de férias na lanchonete da praça é um ‘<b><u>empreguinho</u></b>’, mas é com ele que eu pago o meu curso de inglês.”</p></blockquote><p>Na fala do jovem, o diminutivo presente na palavra destacada expressa</p>",
+    "options": {
+      "A": "o tamanho reduzido da lanchonete onde ele trabalha.",
+      "B": "o pouco valor que o vizinho dá ao emprego do rapaz.",
+      "C": "o carinho que o rapaz sente pelo trabalho nas férias.",
+      "D": "a curta duração do emprego, que acaba com o fim das férias."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.gramatica.formacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O sufixo <b>-inho</b> nem sempre indica tamanho pequeno. Dependendo do contexto, ele pode expressar carinho (“amorzinho”), intensidade (“cedinho”) ou <b>desprezo, pouco caso</b>.</p><p>Aqui, o rapaz reproduz, entre aspas, a palavra usada pelo vizinho, que “vive dizendo” que o trabalho dele é um “empreguinho”. O diminutivo mostra que o vizinho considera aquele emprego pouco importante. A segunda parte da frase (“mas é com ele que eu pago o meu curso”) é a resposta do rapaz a esse desprezo: o emprego tem, sim, valor.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O diminutivo está em “emprego”, e não em “lanchonete”. O trecho não diz nada sobre o tamanho do estabelecimento.",
+      "C": "O diminutivo pode ser carinhoso, mas a palavra, entre aspas, é do vizinho, e o “mas” que vem depois mostra que o rapaz discorda dela: ela expressa um olhar negativo, não afeto.",
+      "D": "É verdade que o trabalho é “de férias”, mas essa informação já vem em outra parte da frase. O diminutivo, usado pelo vizinho, expressa desvalorização."
+    },
+    "tip": "O diminutivo muda de sentido com o contexto: pode ser tamanho, carinho ou desprezo. Veja quem fala e com que intenção."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Minha avó <b><u>guarda o tempo em potes de vidro</u></b>:<br>geleia de março, compota de julho,<br>doce de abóbora do mês das chuvas.<br>Quando abro um deles, volta o ano inteiro.”</p></blockquote><p>Nesses versos, a expressão destacada foi empregada em sentido conotativo e significa que a avó</p>",
+    "options": {
+      "A": "tenta impedir a passagem dos anos, recusando-se a aceitar que está envelhecendo.",
+      "B": "armazena comida em casa para enfrentar os meses do ano em que falta alimento.",
+      "C": "prepara doces com o que cada época oferece, e eles guardam a lembrança desses meses.",
+      "D": "anota nos rótulos dos potes a data de validade de cada doce que prepara."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.semantica.figuras",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O tempo não pode, literalmente, ser guardado num pote. Os versos seguintes explicam o que há nos potes: “geleia de março, compota de julho, / doce de abóbora do mês das chuvas”. São <b>conservas feitas com o que cada época oferece</b>, e cada uma está ligada a um momento do ano.</p><p>O último verso fecha a ideia: “Quando abro um deles, volta o ano inteiro”. Ao provar o doce, o eu lírico relembra a época em que ele foi feito. Assim, “guardar o tempo” significa <b>preservar lembranças</b> por meio das conservas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É uma interpretação que vai além do texto. Os versos não falam de envelhecimento nem de lutar contra a passagem do tempo; falam de doces que guardam memórias.",
+      "B": "Essa leitura é prática demais: nada indica falta de alimentos. O último verso mostra que o valor dos potes é afetivo (“volta o ano inteiro”), não de estoque.",
+      "D": "É uma leitura literal que liga “tempo” a “data de validade”. Os meses citados indicam quando os doces foram feitos, e não um prazo marcado em rótulos."
+    },
+    "tip": "Para decifrar uma imagem poética, leia os versos ao redor: eles costumam explicar o que a expressão figurada representa."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Antes da caminhada no parque estadual, os guias <b><u>advertiram</u></b> os visitantes de que a trilha ficava escorregadia <b><u>após</u></b> a chuva e <b><u>recomendaram</u></b> o uso de calçados <b><u>adequados</u></b>.”</p></blockquote><p>Assinale a alternativa em que a substituição da palavra destacada <b>altera</b> o sentido original do trecho:</p>",
+    "options": {
+      "A": "“recomendaram” por “exigiram”",
+      "B": "“advertiram” por “avisaram”",
+      "C": "“adequados” por “apropriados”",
+      "D": "“após” por “depois de”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Para responder, compare o sentido de cada par dentro da frase.</p><ul><li>“Advertiram” e “avisaram”: ambos indicam informar alguém sobre um risco. Sentido mantido.</li><li>“Após” e “depois de”: as duas formas indicam tempo posterior. Sentido mantido.</li><li>“Adequados” e “apropriados”: os dois significam próprios, convenientes para aquela situação. Sentido mantido.</li><li>“Recomendaram” e “exigiram”: <b>recomendar</b> é aconselhar, sugerir, deixando a decisão ao visitante; <b>exigir</b> é impor como obrigação. Com “exigiram”, quem estivesse sem o calçado certo poderia ser impedido de fazer a trilha, o que o trecho original não diz.</li></ul><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Avisar” e “advertir” têm sentido equivalente nesse contexto: os guias informaram um perigo aos visitantes. A troca não altera o sentido.",
+      "C": "“Adequados” e “apropriados” são sinônimos: calçados próprios para a trilha molhada. A troca mantém o sentido.",
+      "D": "“Após” e “depois de” expressam a mesma relação de tempo (com a contração, fica “depois da chuva”). É uma troca perfeita, apenas com uma forma mais comum."
+    },
+    "tip": "Cuidado com palavras de intensidade diferente: recomendar (conselho) não é exigir (obrigação), assim como pedir não é mandar."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>Cartaz na porta de uma sorveteria:<br>“SORVETERIA IGLU AZUL: o sabor que <b><u>derrete</u></b> corações.”</p></blockquote><p>O efeito expressivo do slogan está corretamente explicado em:</p>",
+    "options": {
+      "A": "Emprega “derrete” apenas em sentido denotativo, destacando que o sorvete se desfaz depressa no calor.",
+      "B": "Usa uma expressão negativa, sugerindo que o sorvete pode causar problemas de saúde.",
+      "C": "Emprega “corações” em sentido literal, referindo-se ao formato dos sorvetes vendidos na loja.",
+      "D": "Explora dois sentidos: o sorvete derrete de fato, e “derreter corações” é encantar as pessoas."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido",
+      "pt.leitura.multimodal"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O slogan aproveita a <b>ambiguidade intencional</b> do verbo “derreter”.</p><p>No sentido <b>denotativo</b>, sorvete derrete: passa do estado sólido ao líquido. Essa ideia está ligada ao produto vendido. Já a expressão “derreter corações” tem sentido <b>conotativo</b>: significa comover, encantar, conquistar o afeto de alguém.</p><p>Ao juntar os dois sentidos, o cartaz lembra que se trata de sorvete e, ao mesmo tempo, promete que o sabor vai encantar os clientes. Esse jogo com os sentidos da palavra é um recurso comum na publicidade.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O sentido literal está presente, mas não é o único: ninguém falaria em derreter “corações” se quisesse falar só do calor. A opção ignora a parte figurada do slogan.",
+      "B": "“Derreter corações” é uma expressão positiva, de encantamento. Nenhum anúncio usaria o próprio slogan para sugerir que o produto faz mal.",
+      "C": "Não há nada no cartaz sobre o formato dos sorvetes. “Corações”, aqui, representa as pessoas e seus sentimentos, em sentido figurado."
+    },
+    "tip": "Em slogans, desconfie de palavras que combinam com o produto e com uma expressão figurada ao mesmo tempo: o duplo sentido é proposital."
+  }
+]

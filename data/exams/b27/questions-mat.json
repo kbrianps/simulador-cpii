@@ -1,0 +1,269 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A flâmula do time de handebol da escola tem a forma de um triângulo isósceles. O lado preso à haste é a base do triângulo, e os outros dois lados, que têm a mesma medida, se encontram na ponta da flâmula, formando ali um ângulo de 36°.</p><p>A medida de cada um dos dois ângulos da flâmula junto à haste é</p>",
+    "options": {
+      "A": "72°",
+      "B": "144°",
+      "C": "54°",
+      "D": "36°"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> em um triângulo isósceles, os ângulos da base (os dois junto à haste) são iguais. Chame cada um deles de \\(x\\).</p><p><b>2º passo:</b> a soma dos ângulos internos de qualquer triângulo é 180°:</p><p>\\[x + x + 36^\\circ = 180^\\circ \\Rightarrow 2x = 144^\\circ \\Rightarrow x = 72^\\circ\\]</p><p>Conferindo: \\(72^\\circ + 72^\\circ + 36^\\circ = 180^\\circ\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "144° é a soma dos dois ângulos da base (180° menos 36°). Faltou dividir por 2, já que são dois ângulos iguais.",
+      "C": "Tratou o triângulo como se fosse retângulo e fez \\(90^\\circ - 36^\\circ\\). Não há ângulo reto na flâmula.",
+      "D": "Supôs que todos os ângulos são iguais ao da ponta. Isso só aconteceria em um triângulo equilátero, e aí cada ângulo mediria 60°."
+    },
+    "tip": "Triângulo isósceles: ângulos da base iguais. Tire o ângulo do vértice de 180° e divida o resto por 2."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um estacionamento, as vagas foram pintadas inclinadas em relação ao meio-fio, para facilitar a manobra. Cada vaga tem a forma do paralelogramo ABCD da figura, com o lado AB sobre o meio-fio e o ângulo \\(D\\hat{A}B\\) medindo 58°.</p><p><img src=\"img/b27/mat-q02.svg\" alt=\"Faixa cinza horizontal na parte de baixo, indicando o meio-fio. Sobre ela está o paralelogramo ABCD: A embaixo à esquerda e B embaixo à direita, com o lado AB apoiado no meio-fio; D em cima à esquerda e C em cima à direita, deslocados para a direita, de modo que os lados AD e BC ficam inclinados. O ângulo no vértice A, entre AB e AD, está marcado com 58 graus.\"></p><p>A medida do ângulo \\(A\\hat{D}C\\) é</p>",
+    "options": {
+      "A": "58°",
+      "B": "32°",
+      "C": "122°",
+      "D": "116°"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.geo.angulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo:</b> no paralelogramo, o lado DC é paralelo ao lado AB. O lado AD funciona como uma transversal que corta essas duas paralelas.</p><p><b>2º passo:</b> os ângulos \\(D\\hat{A}B\\) e \\(A\\hat{D}C\\) ficam do mesmo lado da transversal e entre as paralelas (colaterais internos), por isso somam 180°. Em outras palavras: ângulos consecutivos de um paralelogramo são suplementares.</p><p>\\[A\\hat{D}C = 180^\\circ - 58^\\circ = 122^\\circ\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "58° é a medida do ângulo oposto a \\(\\hat{A}\\), que é \\(B\\hat{C}D\\). O ângulo em D é vizinho de A, não oposto.",
+      "B": "Calculou o complemento (90° − 58°). Ângulos consecutivos do paralelogramo somam 180°, e não 90°.",
+      "D": "Dobrou 58°. Não existe relação de dobro entre os ângulos de um paralelogramo."
+    },
+    "tip": "No paralelogramo, ângulos opostos são iguais e ângulos vizinhos (consecutivos) somam 180°."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Ao abrir uma tesoura de cozinha, as duas peças giram em torno do parafuso O. Cada peça é reta: a lâmina OA continua no cabo OC, e a lâmina OB continua no cabo OD, de modo que A, O e C estão alinhados, assim como B, O e D. Com a tesoura aberta, as lâminas formam o ângulo \\(A\\hat{O}B\\) de 38°.</p><p><img src=\"img/b27/mat-q03.svg\" alt=\"Tesoura aberta vista de cima. O parafuso O fica no centro. Para a direita saem as duas lâminas: OA, inclinada para cima, e OB, inclinada para baixo, formando entre si um ângulo de 38 graus. Para a esquerda saem os dois cabos, com argolas nas pontas: OC, que desce para a esquerda e é o prolongamento da lâmina OA, e OD, que sobe para a esquerda e é o prolongamento da lâmina OB. O ângulo x está marcado entre os cabos OC e OD. O ângulo y está marcado na parte de cima, entre a lâmina OA e o cabo OD.\"></p><p>Sendo \\(x\\) a medida do ângulo \\(C\\hat{O}D\\), entre os cabos, e \\(y\\) a medida do ângulo \\(A\\hat{O}D\\), entre a lâmina OA e o cabo OD, tem-se</p>",
+    "options": {
+      "A": "x = 142° e y = 38°",
+      "B": "x = 38° e y = 52°",
+      "C": "x = 76° e y = 104°",
+      "D": "x = 38° e y = 142°"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.angulos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p><b>1º passo (x):</b> as retas AC e BD se cruzam em O. Os ângulos \\(A\\hat{O}B\\) e \\(C\\hat{O}D\\) são opostos pelo vértice, pois OC é o prolongamento de OA e OD é o prolongamento de OB. Ângulos opostos pelo vértice são iguais: \\(x = 38^\\circ\\).</p><p><b>2º passo (y):</b> como B, O e D estão alinhados, o ângulo \\(B\\hat{O}D\\) é raso (180°). A semirreta OA divide esse ângulo raso em \\(A\\hat{O}B\\) e \\(A\\hat{O}D\\), que são suplementares:</p><p>\\[y = 180^\\circ - 38^\\circ = 142^\\circ\\]</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Trocou os valores: o ângulo entre os cabos é oposto pelo vértice ao das lâminas (38°), e o ângulo entre OA e OD é o suplementar (142°).",
+      "B": "Acertou x, mas usou o complemento (90° − 38°) para y. Como B, O e D estão alinhados, os ângulos somam 180°, não 90°.",
+      "C": "Dobrou os valores, como se os cabos abrissem o dobro das lâminas. Na verdade, lâmina e cabo formam uma só reta, então as aberturas são iguais."
+    },
+    "tip": "Duas retas que se cruzam formam ângulos opostos pelo vértice iguais e ângulos vizinhos que somam 180°."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Três lotes vizinhos ficam entre a Rua das Palmeiras e a Rua do Sol. As divisas laterais dos lotes são segmentos paralelos entre si. As frentes dos lotes para a Rua das Palmeiras medem 20 m, 24 m e 36 m, e a frente total dos três lotes para a Rua do Sol mede 100 m, como mostra a figura.</p><p><img src=\"img/b27/mat-q04.svg\" alt=\"Duas ruas representadas por retas não paralelas: a Rua das Palmeiras, horizontal, embaixo, e a Rua do Sol, inclinada, em cima. Quatro segmentos paralelos entre si, as divisas, ligam as duas ruas e formam três lotes, numerados 1, 2 e 3 da esquerda para a direita. Na Rua das Palmeiras, as frentes dos lotes 1, 2 e 3 medem 20 m, 24 m e 36 m. Na Rua do Sol, a frente total dos três lotes mede 100 m, e a frente do lote 3 está marcada com um ponto de interrogação.\"></p><p>A frente do lote 3 para a Rua do Sol mede</p>",
+    "options": {
+      "A": "36 m",
+      "B": "45 m",
+      "C": "56 m",
+      "D": "30 m"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.angulos",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> as divisas são paralelas e cortam as duas ruas (duas transversais). Pelo Teorema de Tales, os segmentos determinados em uma rua são proporcionais aos segmentos correspondentes na outra.</p><p><b>2º passo:</b> na Rua das Palmeiras, a frente total é \\(20 + 24 + 36 = 80\\) m. Na Rua do Sol, é 100 m. Então cada medida na Rua do Sol é \\(\\dfrac{100}{80} = 1{,}25\\) vez a medida correspondente na Rua das Palmeiras.</p><p>\\[x = 36 \\cdot 1{,}25 = 45 \\text{ m}\\]</p><p>Conferindo: \\(20 \\cdot 1{,}25 + 24 \\cdot 1{,}25 + 36 \\cdot 1{,}25 = 25 + 30 + 45 = 100\\) m. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Repetiu a medida da frente na Rua das Palmeiras. As ruas não são paralelas, então as frentes mudam de uma rua para a outra, sempre na mesma proporção.",
+      "C": "Somou ao lote 3 toda a diferença de 20 m entre as frentes totais (36 + 20). A diferença se reparte entre os três lotes, proporcionalmente.",
+      "D": "30 m é a frente do lote 2 na Rua do Sol (24 · 1,25). Faltou usar a medida do lote 3."
+    },
+    "tip": "Retas paralelas cortando duas transversais: os pedaços de uma transversal são proporcionais aos da outra (Tales)."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um jogo de montar, Lia tem duas varetas retas, uma de 7 cm e outra de 12 cm. Ela quer cortar uma terceira vareta, com medida inteira em centímetros, para formar com as três um triângulo, em que as varetas se tocam apenas pelas pontas.</p><p>Quantas medidas diferentes a terceira vareta pode ter?</p>",
+    "options": {
+      "A": "6",
+      "B": "13",
+      "C": "15",
+      "D": "18"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> três segmentos formam um triângulo quando cada lado é menor que a soma dos outros dois (desigualdade triangular). Isso equivale a dizer que o terceiro lado \\(x\\) fica entre a diferença e a soma dos outros dois:</p><p>\\[12 - 7 < x < 12 + 7 \\Rightarrow 5 < x < 19\\]</p><p><b>2º passo:</b> os valores inteiros são 6, 7, 8, ..., 18. Contando: \\(18 - 6 + 1 = 13\\) medidas.</p><p>Por que 5 e 19 não servem? Com \\(x = 5\\), temos \\(7 + 5 = 12\\): as varetas de 7 cm e 5 cm, juntas, ficam deitadas exatamente sobre a de 12 cm, e não sobra abertura. Com \\(x = 19\\) acontece o mesmo com \\(7 + 12 = 19\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Pensou que a terceira vareta precisaria ficar entre 7 cm e 12 cm (de 7 a 12, são 6 valores). Ela pode ser menor que 7 ou maior que 12, desde que respeite a desigualdade triangular.",
+      "C": "Incluiu 5 cm e 19 cm. Nesses casos a soma de duas varetas é igual à terceira, e as varetas ficam alinhadas, sem formar triângulo.",
+      "D": "Só verificou que a terceira vareta deve ser menor que 19 cm (de 1 a 18). Esqueceu que ela também precisa ser maior que 12 − 7 = 5 cm."
+    },
+    "tip": "O terceiro lado de um triângulo fica sempre estritamente entre a diferença e a soma dos outros dois."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na olimpíada de robótica da escola, a equipe de Caio programou um robô para repetir sempre o mesmo par de comandos: andar 40 cm em linha reta e, em seguida, girar 24° para a esquerda, sem sair do lugar. O robô parte do ponto P e para quando volta ao ponto P pela primeira vez. O caminho percorrido forma o contorno de um polígono regular.</p><p>A distância total percorrida pelo robô é</p>",
+    "options": {
+      "A": "3 m",
+      "B": "5,6 m",
+      "C": "6 m",
+      "D": "9,6 m"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.poligonos",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> a cada vértice, o robô muda de direção 24°. Esse giro é o ângulo externo do polígono.</p><p><b>2º passo:</b> para fechar o contorno, o robô precisa dar uma volta completa em giros, ou seja, a soma dos ângulos externos de qualquer polígono convexo é 360°. O número de lados é</p><p>\\[n = \\dfrac{360^\\circ}{24^\\circ} = 15\\]</p><p>(Confira: o ângulo interno é \\(180^\\circ - 24^\\circ = 156^\\circ\\), e \\(\\dfrac{180^\\circ \\cdot 13}{15} = 156^\\circ\\).)</p><p><b>3º passo:</b> são 15 lados de 40 cm: \\(15 \\cdot 40 = 600\\) cm = 6 m. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Dividiu 180° por 24°, obtendo 7,5 lados (e 7,5 · 40 = 300 cm). A soma dos ângulos externos é 360°, e o número de lados precisa ser inteiro.",
+      "B": "Contou 14 trechos, um a menos. Como o robô termina no ponto de partida, o número de trechos é igual ao número de giros: 15.",
+      "D": "Usou os 24° como se fossem o número de lados (24 · 40 = 960 cm). O número de lados é 360° dividido pelo giro."
+    },
+    "tip": "Quem anda contornando um polígono gira, no total, 360°. Número de lados = 360° dividido pelo ângulo externo."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na feira de ciências, Nina construiu uma câmara escura: uma caixa fechada com um furinho no centro de uma das faces. A luz que vem de um objeto passa pelo furo em linha reta e forma, na face oposta, uma imagem invertida do objeto. A caixa de Nina tem 15 cm de profundidade, que é a distância do furo até a face oposta. Apontando a caixa para uma árvore que estava a 12 m do furo, ela obteve uma imagem de 4 cm de altura, como mostra o esquema (fora de escala). A árvore e a face onde a imagem se forma são paralelas.</p><p><img src=\"img/b27/mat-q07.svg\" alt=\"Esquema fora de escala. À esquerda, uma árvore vertical de altura h, sobre o chão. À direita, uma caixa com um furo na face voltada para a árvore. Dois raios de luz, em linhas tracejadas, saem do topo e da base da árvore, passam pelo furo e se cruzam ali, chegando à face do fundo da caixa, onde se forma a imagem invertida da árvore, com 4 cm de altura. A distância da árvore até o furo é 12 m, e a profundidade da caixa, do furo até o fundo, é 15 cm.\"></p><p>A altura \\(h\\) da árvore é</p>",
+    "options": {
+      "A": "3,2 m",
+      "B": "32 cm",
+      "C": "45 m",
+      "D": "16 m"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p><b>1º passo:</b> os dois raios se cruzam no furo e formam dois triângulos: um com a árvore e outro com a imagem. Eles têm os ângulos no furo opostos pelo vértice, e a árvore é paralela à imagem, então os triângulos são semelhantes. As alturas desses triângulos (medidas a partir do furo) são 12 m e 15 cm.</p><p><b>2º passo:</b> use a mesma unidade: 12 m = 1200 cm. A razão de semelhança é</p><p>\\[\\dfrac{h}{4} = \\dfrac{1200}{15} = 80 \\Rightarrow h = 4 \\cdot 80 = 320 \\text{ cm} = 3{,}2 \\text{ m}\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Converteu 12 m para 120 cm (em vez de 1200 cm). Com isso a razão ficou 8 em vez de 80, e a árvore ficou dez vezes menor.",
+      "C": "Inverteu a proporção e fez \\(h = \\dfrac{15 \\cdot 1200}{4} = 4500\\) cm. Na semelhança, a altura da árvore está para 4 cm assim como 1200 cm está para 15 cm.",
+      "D": "Somou as medidas (12 + 4). A relação entre os triângulos é de proporção, não de soma."
+    },
+    "tip": "Na câmara escura (e em figuras em forma de X com lados paralelos), os dois triângulos são semelhantes: monte a proporção com as medidas na mesma unidade."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um acampamento, as barracas de três grupos, A, B e C, ficam nos vértices de um triângulo retângulo, com o ângulo reto no vértice A. A distância entre as barracas A e B é de 10 m, e entre as barracas A e C, de 24 m. Os monitores querem acender a fogueira em um ponto P que fique à mesma distância das três barracas, para que nenhum grupo fique mais longe do fogo que os outros.</p><p>A distância do ponto P até cada uma das barracas será de</p>",
+    "options": {
+      "A": "26 m",
+      "B": "17 m",
+      "C": "aproximadamente 8,7 m",
+      "D": "13 m"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.triangulos",
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo:</b> o ponto que fica à mesma distância dos três vértices de um triângulo é o circuncentro, onde se encontram as mediatrizes dos lados. Ele é o centro da circunferência que passa por A, B e C.</p><p><b>2º passo:</b> no triângulo retângulo, esse ponto é o ponto médio da hipotenusa BC. Veja por quê: complete o triângulo até formar um retângulo ABDC. As diagonais de um retângulo são iguais e se cortam ao meio. Assim, o ponto médio M de BC também é o ponto médio de AD, e fica à mesma distância de A, B e C (metade da diagonal).</p><p><b>3º passo:</b> calcule a hipotenusa pelo Teorema de Pitágoras:</p><p>\\[BC^2 = 10^2 + 24^2 = 100 + 576 = 676 \\Rightarrow BC = 26 \\text{ m}\\]</p><p><b>4º passo:</b> a distância de P a cada barraca é metade da hipotenusa: \\(26 \\div 2 = 13\\) m. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "26 m é a hipotenusa inteira, a distância entre as barracas B e C. O ponto P fica no meio dela.",
+      "B": "Fez a média entre 10 m e 24 m. A média não garante a mesma distância até as três barracas.",
+      "C": "Usou o baricentro (encontro das medianas). A mediana que sai de A mede 13 m, e o baricentro fica a 2/3 dela a partir de A: \\(\\dfrac{2}{3} \\cdot 13 \\approx 8{,}7\\) m. Só que o baricentro não está à mesma distância dos três vértices; o ponto certo é o encontro das mediatrizes."
+    },
+    "tip": "No triângulo retângulo, o ponto médio da hipotenusa está à mesma distância dos três vértices."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa de fim de ano, Bia desenhou uma estrela de cinco pontas, não regular, traçando cinco segmentos de reta: AC, CE, EB, BD e DA. Com um transferidor, ela mediu os ângulos das pontas B, C, D e E, obtendo 30°, 42°, 35° e 45°, respectivamente, como mostra a figura.</p><p><img src=\"img/b27/mat-q09.svg\" alt=\"Estrela de cinco pontas irregular, formada pelos segmentos AC, CE, EB, BD e DA. As pontas, em sentido horário a partir do alto, são A (no topo), B (à direita), C (embaixo à direita), D (embaixo à esquerda) e E (à esquerda). Os ângulos das pontas estão marcados: x na ponta A, 30 graus na ponta B, 42 graus na ponta C, 35 graus na ponta D e 45 graus na ponta E.\"></p><p>A medida \\(x\\) do ângulo da ponta A é</p>",
+    "options": {
+      "A": "28°",
+      "B": "36°",
+      "C": "108°",
+      "D": "208°"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.angulos",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo:</b> o segmento EB cruza DA em um ponto Q e cruza AC em um ponto P, formando o triângulo APQ, com ângulo \\(x\\) em A.</p><p><b>2º passo:</b> o ângulo \\(A\\hat{P}Q\\) é ângulo externo do triângulo PCE. Um ângulo externo é igual à soma dos dois internos não adjacentes, então \\(A\\hat{P}Q = \\hat{C} + \\hat{E}\\). Do mesmo modo, \\(A\\hat{Q}P\\) é externo ao triângulo QDB, e \\(A\\hat{Q}P = \\hat{D} + \\hat{B}\\).</p><p><b>3º passo:</b> no triângulo APQ, a soma dos ângulos é 180°:</p><p>\\[x + (\\hat{C} + \\hat{E}) + (\\hat{B} + \\hat{D}) = 180^\\circ\\]</p><p>Ou seja, em qualquer estrela de cinco pontas desse tipo, a soma dos ângulos das pontas é 180°. Então</p><p>\\[x = 180^\\circ - (30^\\circ + 42^\\circ + 35^\\circ + 45^\\circ) = 180^\\circ - 152^\\circ = 28^\\circ\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "36° é o ângulo da ponta de uma estrela regular (180° ÷ 5). A estrela de Bia não é regular, então é preciso usar as medidas dadas.",
+      "C": "108° é o ângulo interno do pentágono regular. As pontas da estrela não são ângulos de um pentágono.",
+      "D": "Supôs que as pontas somam 360° (360° − 152°). A soma das pontas da estrela é 180°, como mostra o triângulo APQ."
+    },
+    "tip": "Nas pontas de uma estrela de cinco pontas, a soma dos ângulos é sempre 180°: use o teorema do ângulo externo para juntar as pontas em um só triângulo."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma horta comunitária, um canteiro tem a forma do triângulo ABC e área de 180 m². Uma cerca reta DE, paralela ao lado BC, divide o canteiro em duas partes: o triângulo ADE, onde serão plantadas ervas, e o trapézio DBCE, onde serão plantadas hortaliças. O ponto D fica sobre o lado AB, com AD = 20 m e DB = 10 m, como mostra a figura.</p><p><img src=\"img/b27/mat-q10.svg\" alt=\"Triângulo ABC com o vértice A no alto e a base BC embaixo. Uma cerca tracejada DE, paralela a BC, liga o ponto D do lado AB ao ponto E do lado AC. A parte de cima, o triângulo ADE, é a área das ervas; a parte de baixo, o trapézio DBCE, é a área das hortaliças. No lado AB estão indicadas as medidas AD = 20 m e DB = 10 m.\"></p><p>A área da parte destinada às hortaliças é</p>",
+    "options": {
+      "A": "60 m²",
+      "B": "80 m²",
+      "C": "100 m²",
+      "D": "120 m²"
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.semelhanca",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p><b>1º passo:</b> como DE é paralela a BC, os triângulos ADE e ABC são semelhantes (têm o ângulo A em comum e ângulos correspondentes iguais).</p><p><b>2º passo:</b> a razão de semelhança é \\(\\dfrac{AD}{AB} = \\dfrac{20}{30} = \\dfrac{2}{3}\\).</p><p><b>3º passo:</b> em figuras semelhantes, a razão entre as áreas é o quadrado da razão entre os lados:</p><p>\\[\\dfrac{\\text{área}(ADE)}{\\text{área}(ABC)} = \\left(\\dfrac{2}{3}\\right)^2 = \\dfrac{4}{9} \\Rightarrow \\text{área}(ADE) = \\dfrac{4}{9} \\cdot 180 = 80 \\text{ m}^2\\]</p><p><b>4º passo:</b> o trapézio é o que sobra: \\(180 - 80 = 100\\) m². Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Usou a razão entre os lados sem elevar ao quadrado: DB é 1/3 de AB, e tomou 1/3 de 180. Áreas não seguem a razão dos lados.",
+      "B": "80 m² é a área do triângulo ADE, a parte das ervas. A pergunta é sobre o trapézio.",
+      "D": "Aplicou a razão 2/3 diretamente à área (2/3 de 180) e tomou o resultado como resposta. A razão das áreas é (2/3)² = 4/9."
+    },
+    "tip": "Se os lados de figuras semelhantes estão na razão k, as áreas estão na razão k²."
+  }
+]

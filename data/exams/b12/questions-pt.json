@@ -1,0 +1,271 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Ao tirar a forma quente do forno, o confeiteiro <b><u>queimou-se</u></b> no braço e precisou interromper a fornada.”</p></blockquote><p>A forma verbal destacada está na voz</p>",
+    "options": {
+      "A": "ativa, porque o sujeito apenas pratica a ação, que recai sobre outro ser.",
+      "B": "reflexiva, porque o sujeito pratica a ação e, ao mesmo tempo, é atingido por ela.",
+      "C": "passiva sintética, porque o “se” indica que algo foi queimado por alguém não identificado.",
+      "D": "passiva analítica, porque o confeiteiro sofre uma ação praticada pelo forno."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Pergunte: quem queimou? O confeiteiro. E quem foi queimado? O próprio confeiteiro. O pronome “se” retoma o sujeito: é como dizer “o confeiteiro queimou <b>a si mesmo</b>”.</p><p>Quando o sujeito pratica a ação e também a recebe, o verbo está na <b>voz reflexiva</b>, formada com um pronome oblíquo da mesma pessoa do sujeito (me, te, se, nos...): “eu me queimei”, “ele se queimou”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Na voz ativa, a ação recairia sobre outro ser, como em “o confeiteiro queimou o bolo”. Aqui a ação volta para o próprio sujeito.",
+      "C": "Na passiva sintética, o sujeito sofre a ação praticada por outro, não identificado, como em “Venderam-se os bolos” (os bolos foram vendidos). Aqui o confeiteiro é o sujeito e não há outro agente.",
+      "D": "A passiva analítica exige “ser + particípio” (“foi queimado”), o que não aparece na frase. E o forno não é agente da passiva: nenhum termo com “pelo” ou “por” indica isso."
+    },
+    "tip": "Voz reflexiva: o sujeito faz e recebe a ação, com pronome da mesma pessoa (ele se queimou = queimou a si mesmo)."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Rafa anotou num caderno as frases abaixo sobre como estava usando a mesada.</p><p>A frase que forma um <b>período simples</b>, isto é, que tem uma única oração, é:</p>",
+    "options": {
+      "A": "Juntei as moedas do cofrinho e troquei tudo por notas no banco.",
+      "B": "Guardei o troco do lanche porque o mês ainda estava no começo.",
+      "C": "Com a mesada de março, comprei um fone novo para os treinos.",
+      "D": "Quem economiza um pouco por semana viaja tranquilo nas férias."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.periodo",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Cada oração se organiza em torno de um verbo (ou locução verbal). Para saber se o período é simples, conte os verbos:</p><ul><li>A: “juntei” e “troquei”: duas orações;</li><li>B: “guardei” e “estava”: duas orações;</li><li>C: só “comprei”: <b>uma oração</b>. “Com a mesada de março” e “para os treinos” são termos da oração, não têm verbo;</li><li>D: “economiza” e “viaja”: duas orações.</li></ul><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Tem dois verbos, “juntei” e “troquei”, ligados por “e”: é um período composto por coordenação.",
+      "B": "Tem dois verbos, “guardei” e “estava”. A segunda oração, com “porque”, indica a causa: é um período composto.",
+      "D": "Tem dois verbos: “Quem economiza um pouco por semana” é uma oração inteira que funciona como sujeito de “viaja”. É um período composto."
+    },
+    "tip": "Período simples tem um só verbo (ou locução verbal); conte os verbos para descobrir quantas orações há."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“A previsão indicava ventos fortes no alto da serra, <b><u>logo</u></b> o guia cancelou a subida ao pico.”</p></blockquote><p>No período, a palavra destacada liga as duas orações estabelecendo uma relação de</p>",
+    "options": {
+      "A": "conclusão, pois o cancelamento é consequência da previsão.",
+      "B": "oposição, pois o guia agiu contra o que a previsão indicava.",
+      "C": "condição, pois a subida só aconteceria se houvesse ventos fortes.",
+      "D": "tempo, pois o guia cancelou a subida pouco depois, em seguida."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.periodo",
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A primeira oração traz um fato (ventos fortes no alto da serra). A segunda traz o que se decidiu <b>por causa</b> desse fato (o cancelamento da subida).</p><p>Nessa posição, entre as orações, “logo” é uma conjunção <b>conclusiva</b>, com o mesmo valor de “portanto” ou “por isso”: “A previsão indicava ventos fortes, <b>portanto</b> o guia cancelou a subida.” A troca mantém o sentido.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não há contradição: cancelar a subida é justamente o que se espera diante de ventos fortes. Oposição seria marcada por “mas” ou “porém”.",
+      "C": "Inverte a lógica e muda o sentido: ninguém subiria o pico por causa do vento forte. Condição seria marcada por “se” ou “caso”.",
+      "D": "“Logo” pode significar “em seguida” quando é advérbio (“Volto logo”). Mas aqui ele liga duas orações e equivale a “portanto”, indicando conclusão."
+    },
+    "tip": "“Logo” entre duas orações costuma valer “portanto”: conclusão. Teste a troca por “por isso”."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um relato sobre uma viagem de trem:</p><blockquote><p>“Chegaram cedo os passageiros do primeiro trem. Esperamos na plataforma por vinte minutos. Anunciaram o atraso pelos alto-falantes. Na estação, havia poucos passageiros àquela hora.”</p></blockquote><p>Das orações do trecho, a que <b>não tem sujeito</b> é:</p>",
+    "options": {
+      "A": "“Chegaram cedo os passageiros do primeiro trem.”",
+      "B": "“Esperamos na plataforma por vinte minutos.”",
+      "C": "“Anunciaram o atraso pelos alto-falantes.”",
+      "D": "“Na estação, havia poucos passageiros àquela hora.”"
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Oração sem sujeito é aquela em que o verbo não se refere a ser nenhum. O caso mais cobrado é o do verbo <b>haver</b> no sentido de “existir”: ele é impessoal, fica sempre na 3ª pessoa do singular (“havia”, e não “haviam”), e o termo que o acompanha, “poucos passageiros”, é <b>objeto direto</b>, não sujeito.</p><p>Nas outras orações há sujeito, mesmo quando ele não está escrito:</p><ul><li>A: sujeito posposto “os passageiros do primeiro trem” (quem chegou?);</li><li>B: sujeito oculto “nós”, indicado pela terminação de “esperamos”;</li><li>C: sujeito indeterminado: alguém anunciou, mas não se sabe quem (verbo na 3ª pessoa do plural sem referência no texto).</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "O sujeito existe, só está depois do verbo: quem chegou cedo? “Os passageiros do primeiro trem”, que concordam com “chegaram”.",
+      "B": "O sujeito é oculto (desinencial): a terminação “-mos” de “esperamos” mostra que é “nós”.",
+      "C": "Há sujeito, mas indeterminado: alguém anunciou, sem que o texto diga quem. Sujeito indeterminado não é o mesmo que oração sem sujeito."
+    },
+    "tip": "“Haver” no sentido de existir não tem sujeito e fica no singular: “havia poucos passageiros”."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“<b><u>Quando a nova ponte foi inaugurada</u></b>, o trajeto entre os dois bairros ficou quinze minutos mais curto.”</p></blockquote><p>A reescrita que substitui a oração destacada por uma expressão <b>sem verbo</b>, mantendo o sentido original, é:</p>",
+    "options": {
+      "A": "Quando inauguraram a nova ponte, o trajeto entre os dois bairros ficou quinze minutos mais curto.",
+      "B": "Com a inauguração da nova ponte, o trajeto entre os dois bairros ficou quinze minutos mais curto.",
+      "C": "Apesar da inauguração da nova ponte, o trajeto entre os dois bairros ficou quinze minutos mais curto.",
+      "D": "Inaugurada a nova ponte, o trajeto entre os dois bairros ficou quinze minutos mais curto."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.periodo"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A oração destacada tem o verbo “foi inaugurada” e indica o momento (e também o motivo) em que o trajeto ficou mais curto.</p><p>Para transformá-la em expressão sem verbo, trocamos o verbo pelo <b>substantivo</b> correspondente: inaugurar → <b>inauguração</b>. A preposição “com” mantém a ideia de tempo e causa: “<b>Com a inauguração da nova ponte</b>, o trajeto ficou mais curto”. Essa transformação se chama nominalização.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O sentido se mantém, mas ainda há verbo (“inauguraram”): só se trocou a voz passiva pela ativa com sujeito indeterminado.",
+      "C": "Não tem verbo, mas “apesar de” indica concessão, uma ideia contrária: daria a entender que o trajeto encurtou mesmo com a ponte, o que muda o sentido.",
+      "D": "O sentido se mantém, mas “inaugurada” é uma forma verbal (particípio): o trecho continua sendo uma oração, agora reduzida."
+    },
+    "tip": "Para trocar uma oração por uma expressão sem verbo, transforme o verbo em substantivo: inaugurar vira inauguração."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Joguei a mesma fase dez vezes, mas não consegui derrotar o chefão.”</p></blockquote><p>A reescrita iniciada por “Embora” que mantém o sentido original e está de acordo com a norma-padrão é:</p>",
+    "options": {
+      "A": "Embora eu tenha jogado a mesma fase dez vezes, não consegui derrotar o chefão.",
+      "B": "Embora eu joguei a mesma fase dez vezes, não consegui derrotar o chefão.",
+      "C": "Embora eu tenha jogado a mesma fase dez vezes, consegui derrotar o chefão.",
+      "D": "Embora eu não conseguisse derrotar o chefão, joguei a mesma fase dez vezes."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.periodo",
+      "pt.coesao.conectivos",
+      "pt.gramatica.verbos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No original, as duas orações são <b>coordenadas</b>, ligadas por “mas” (oposição): o esforço (jogar dez vezes) não trouxe o resultado esperado (derrotar o chefão).</p><p>Com “embora”, a mesma ideia vira uma relação de <b>concessão</b>, e a oração com “embora” passa a ser <b>subordinada</b>. Três cuidados:</p><ol><li>“embora” acompanha a ideia que vinha antes do “mas”: jogar dez vezes;</li><li>depois de “embora”, o verbo fica no <b>subjuntivo</b>: “tenha jogado”;</li><li>a outra oração continua negativa: “não consegui derrotar o chefão”.</li></ol><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Depois de “embora”, a norma-padrão exige o subjuntivo (“tenha jogado”), e não o indicativo “joguei”.",
+      "C": "Perdeu o “não”: agora o jogador teria derrotado o chefão, o contrário do que diz o original.",
+      "D": "Inverteu as ideias: o “embora” foi para o fracasso, e a frase passa a sugerir que ele jogou dez vezes apesar de perder, o que não é o sentido original."
+    },
+    "tip": "Troca de “mas” por “embora”: o “embora” vai para a ideia que vinha antes do “mas”, e o verbo vai para o subjuntivo."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“<b><u>Na sexta-feira</u></b>, a turma do 9º ano foi <b><u>ao planetário</u></b> <b><u>de metrô</u></b> <b><u>com a professora de Ciências</u></b>.”</p></blockquote><p>Sobre as circunstâncias expressas pelos termos destacados, está correto o que se afirma em:</p>",
+    "options": {
+      "A": "“Na sexta-feira” indica lugar.",
+      "B": "“ao planetário” indica companhia.",
+      "C": "“de metrô” indica meio.",
+      "D": "“com a professora de Ciências” indica modo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Os termos destacados acrescentam ao verbo “foi” circunstâncias da ação. Faça uma pergunta para cada um:</p><ul><li>Quando foi? “Na sexta-feira”: <b>tempo</b>;</li><li>Aonde foi? “ao planetário”: <b>lugar</b> (destino);</li><li>Como foi, em que transporte? “de metrô”: <b>meio</b>;</li><li>Com quem foi? “com a professora de Ciências”: <b>companhia</b>.</li></ul><p>A única afirmação correta é a da alternativa C.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "“Na sexta-feira” responde à pergunta “quando?”: indica tempo. A preposição “em” engana porque também aparece em expressões de lugar (“na escola”).",
+      "B": "“ao planetário” responde “aonde?”: indica lugar, o destino da turma. Companhia seria “com quem?”.",
+      "D": "“com a professora de Ciências” responde “com quem?”: indica companhia. Modo responderia “de que maneira?”, como “animadamente”."
+    },
+    "tip": "Para classificar a circunstância, faça a pergunta ao verbo: quando? (tempo), aonde? (lugar), como/em quê? (meio), com quem? (companhia)."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>No mural de um clube do bairro, havia os seguintes anúncios:</p><blockquote><p>I. “Precisa-se de monitores para a colônia de férias.”</p><p>II. “Trata-se de vaga para os fins de semana.”</p><p>III. “Treina-se até as 22h nas quadras cobertas.”</p><p>IV. “Alugam-se quadras de tênis aos sábados.”</p></blockquote><p>O anúncio em que o “se” é pronome apassivador, ou seja, em que a frase está na voz passiva sintética, é o</p>",
+    "options": {
+      "A": "I.",
+      "B": "II.",
+      "C": "III.",
+      "D": "IV."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.termos",
+      "pt.gramatica.concordancia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Só há voz passiva quando o verbo tem <b>objeto direto</b> (verbo transitivo direto), pois é esse termo que vira sujeito paciente. Um bom teste é passar a frase para a passiva analítica (ser + particípio):</p><ul><li>IV: “Alugam-se quadras de tênis” → “Quadras de tênis <b>são alugadas</b> aos sábados”. Funciona! “Alugar” é transitivo direto, “quadras de tênis” é o sujeito, e por isso o verbo vai para o plural: “alugam-se”.</li><li>I e II: “precisar de” e “tratar-se de” pedem preposição (não têm objeto direto). O “se” indetermina o sujeito, e o verbo fica no singular.</li><li>III: “treinar”, aqui, não tem complemento. Também é caso de sujeito indeterminado.</li></ul><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "“Precisar” pede a preposição “de” (precisa-se <b>de</b> monitores). Sem objeto direto não há passiva: o “se” é índice de indeterminação do sujeito. Não dá para dizer “monitores são precisados”.",
+      "B": "“Tratar-se de” é uma expressão com preposição e sujeito indeterminado; não é possível transformá-la em “vaga é tratada”.",
+      "C": "“Treinar”, nessa frase, não tem objeto direto. O “se” só indica que alguém (não identificado) treina: é índice de indeterminação do sujeito."
+    },
+    "tip": "Teste do “se”: se a frase vira “ser + particípio” (quadras são alugadas), é passiva sintética; se o verbo pede preposição ou não tem complemento, o “se” indetermina o sujeito."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>As frases abaixo foram escritas por alunos sobre uma visita ao zoológico.</p><p>A única frase que <b>não</b> pode ser transformada em voz passiva analítica, porque o seu verbo não tem objeto direto, é:</p>",
+    "options": {
+      "A": "O tratador alimentou os filhotes de manhã.",
+      "B": "Os visitantes gostaram do novo viveiro das aves.",
+      "C": "A bióloga mostrou as araras às crianças.",
+      "D": "A chuva adiou a visita guiada ao aquário."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.transformacoes",
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Na voz passiva analítica, o <b>objeto direto</b> da voz ativa vira sujeito, e o verbo vira “ser + particípio”. Sem objeto direto, não há como fazer a transformação.</p><p>Na alternativa B, o verbo “gostar” é transitivo indireto: quem gosta, gosta <b>de</b> algo. “Do novo viveiro” é objeto indireto, e a frase “O novo viveiro foi gostado pelos visitantes” é inaceitável.</p><p>As demais admitem a passiva:</p><ul><li>A: “Os filhotes foram alimentados pelo tratador de manhã.”</li><li>C: “As araras foram mostradas às crianças pela bióloga.”</li><li>D: “A visita guiada ao aquário foi adiada pela chuva.”</li></ul><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Alimentar” tem objeto direto (“os filhotes”), então a passiva é possível: “Os filhotes foram alimentados pelo tratador”.",
+      "C": "“Mostrar” tem objeto direto (“as araras”) e também indireto (“às crianças”). O objeto direto vira sujeito: “As araras foram mostradas às crianças pela bióloga”.",
+      "D": "Um agente que não é pessoa também pode virar agente da passiva: “A visita guiada foi adiada pela chuva”. “Adiar” tem objeto direto (“a visita guiada”)."
+    },
+    "tip": "Só vai para a voz passiva o verbo que tem objeto direto; verbos com preposição obrigatória, como “gostar de”, não admitem passiva."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<blockquote><p>“Depois de rever o lance no vídeo, o árbitro considerou o gol <b><u>irregular</u></b>.”</p></blockquote><p>O termo destacado exerce a mesma função sintática da parte destacada em:</p>",
+    "options": {
+      "A": "“A diretoria do clube nomeou Bia <b><u>capitã</u></b> do time feminino.”",
+      "B": "“A torcida saiu do estádio <b><u>animada</u></b> com a virada.”",
+      "C": "“O time <b><u>campeão</u></b> desfilou pela cidade em carro aberto.”",
+      "D": "“O árbitro mostrou <b><u>o cartão amarelo</u></b> ao zagueiro.”"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.gramatica.termos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Em “o árbitro considerou o gol irregular”, o verbo “considerar” tem o objeto direto “o gol”, e “irregular” atribui uma característica a esse objeto. É o <b>predicativo do objeto</b>.</p><p>Teste: troque o objeto por pronome. Fica “o árbitro considerou-<b>o</b> irregular”: o adjetivo fica de fora do pronome, mostrando que não faz parte do objeto, mas o qualifica por meio do verbo.</p><p>Na alternativa A, “nomear” tem o objeto direto “Bia”, e “capitã” diz o que Bia passou a ser: “nomeou-<b>a</b> capitã”. Também é predicativo do objeto.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "“Animada” caracteriza a torcida, que é o sujeito de “saiu”: é predicativo do sujeito, e não do objeto.",
+      "C": "“Campeão” faz parte do sujeito “o time campeão”, junto ao substantivo: é adjunto adnominal. Teste: “ele desfilou” substitui tudo, inclusive “campeão”.",
+      "D": "“O cartão amarelo” é o próprio objeto direto de “mostrou” (mostrou o quê?), e não uma característica atribuída a ele."
+    },
+    "tip": "Predicativo do objeto: característica dada ao objeto por verbos como considerar, julgar, nomear, eleger. Teste com pronome: “considerou-o irregular”."
+  }
+]

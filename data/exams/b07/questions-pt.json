@@ -1,0 +1,284 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>O Texto 1 e o Texto 2 tratam dos sons de uma cidade grande, mas o fazem a partir de pontos de vista diferentes.</p><p>A diferença entre os dois textos está no fato de que</p>",
+    "options": {
+      "A": "o Texto 1 defende a proibição de festas e ensaios nas ruas, enquanto o Texto 2 defende que a cidade seja ainda mais barulhenta.",
+      "B": "o Texto 1 trata o barulho urbano como poluição que prejudica as pessoas, e o Texto 2 mostra os sons da rua como parte afetiva da rotina do narrador.",
+      "C": "o Texto 1 relata a experiência de alguém que veio do interior e não conseguiu dormir, enquanto o Texto 2 cita as leis que já regulam o barulho em muitas cidades.",
+      "D": "o Texto 1 considera o barulho um problema apenas para os estudantes que moram perto de avenidas, enquanto o Texto 2 afirma que ninguém é incomodado pelos sons da cidade."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.tema_tese"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Veja como cada texto encara os sons da cidade.</p><ul><li>Texto 1: a autora afirma que o barulho muitas vezes é “uma forma de poluição” (linha 5) e lista seus efeitos: noite mal dormida, irritação, falta de concentração (linhas 6-10).</li><li>Texto 2: o narrador diz que o barulho da rua “funciona como um relógio” (linhas 5-6) e que, quando os sons param, ele fica “inquieto” (linha 9). Os sons fazem parte da sua rotina e do seu afeto pelo lugar.</li></ul><p>Portanto, um texto vê o barulho como problema; o outro, como parte querida do cotidiano.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "O Texto 1 diz justamente o contrário: “Não se trata de proibir a alegria” (linha 11); festas e ensaios “têm o seu lugar” (linha 12). E o Texto 2 não defende mais barulho, apenas mostra afeto pelos sons que já existem.",
+      "C": "As informações estão trocadas. É no Texto 2 que aparece o primo vindo do interior (linha 1), e é o Texto 1 que menciona as leis (linha 16).",
+      "D": "O Texto 1 cita vários grupos prejudicados (bebês, idosos, doentes, trabalhadores, linhas 9-10), não só estudantes. E o Texto 2 mostra alguém incomodado: o primo que “não pregou o olho” (linhas 1-2)."
+    },
+    "tip": "Para comparar pontos de vista, resuma em uma frase como cada texto avalia o assunto (positivo, negativo, neutro) e só depois leia as alternativas."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>Os dois textos empregam comparações:</p><blockquote>“O que defendo é que o silêncio seja tratado como um bem comum, como a água limpa e a calçada livre.” (Texto 1, linhas 12-13)</blockquote><blockquote>“Quando tudo isso para, fico inquieto, como quem percebe que o coração deu uma falhada.” (Texto 2, linhas 8-9)</blockquote><p>Considerando o papel dessas comparações em cada texto, é correto afirmar que</p>",
+    "options": {
+      "A": "as duas comparações servem para provar, com dados científicos, que o barulho constante das cidades grandes faz mal à saúde de quem mora nelas.",
+      "B": "a comparação do Texto 1 expressa um sentimento pessoal e íntimo da autora, enquanto a do Texto 2 apresenta uma proposta concreta para resolver o problema do barulho na cidade.",
+      "C": "as duas comparações têm a mesma função: convencer o leitor de que o silêncio é mais valioso que o barulho.",
+      "D": "a comparação do Texto 1 sustenta o argumento de que o silêncio é um bem coletivo, e a do Texto 2 mostra como os sons da rua se tornaram íntimos para o narrador."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.argumentacao",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O Texto 1 é um artigo de opinião. Ao aproximar o silêncio da “água limpa” e da “calçada livre”, a autora mostra que ele é um bem de uso coletivo, e logo depois completa o raciocínio: ninguém pode sujar o rio de todos nem encher de ruído “o ar que todos respiram” (linhas 13-15). A comparação é um <b>argumento</b>.</p><p>O Texto 2 é uma crônica em primeira pessoa. Comparar a falta de barulho a uma falha do coração mostra que os sons da rua viraram parte do próprio corpo do narrador, algo íntimo. A comparação <b>expressa um sentimento</b>.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Nenhum dos dois trechos traz dados. São comparações, recursos de linguagem, não informações numéricas ou científicas.",
+      "B": "As funções estão invertidas. Quem expressa sentimento é o narrador do Texto 2; quem argumenta é a autora do Texto 1. E o Texto 2 não propõe solução alguma.",
+      "C": "O Texto 2 não defende o silêncio: nele, é a falta de barulho que deixa o narrador inquieto. As comparações têm funções diferentes."
+    },
+    "tip": "Uma mesma figura (a comparação) pode argumentar num artigo de opinião e emocionar numa crônica: pergunte sempre para que ela serve naquele texto."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [
+      "T1",
+      "T2"
+    ],
+    "stem": "<p>Apesar de avaliarem o barulho urbano de maneiras diferentes, os dois textos se aproximam em um ponto.</p><p>Uma ideia presente tanto no Texto 1 quanto no Texto 2 é a de que</p>",
+    "options": {
+      "A": "o costume modifica a maneira como as pessoas percebem os sons ao seu redor.",
+      "B": "as leis são a melhor solução para o problema do barulho nas grandes cidades.",
+      "C": "quem vem do interior nunca consegue se adaptar à vida na cidade grande.",
+      "D": "o silêncio completo é o ambiente ideal para o descanso e para os estudos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Procure nos dois textos o efeito do hábito.</p><ul><li>Texto 1: “nos acostumamos tanto que deixamos de enxergar o barulho como aquilo que ele muitas vezes é” (linhas 3-5). O costume faz o morador deixar de perceber o barulho como problema.</li><li>Texto 2: depois de vinte anos, o narrador diz que “já nem escuto essas coisas” (linhas 3-4); o primo, que não dormia na primeira noite, termina “gostando do trompete”, talvez por “costume” (linhas 10-11), e estranha o silêncio do sítio (linha 12).</li></ul><p>Os dois textos mostram, portanto, que o hábito altera a percepção dos sons, ainda que o Texto 1 veja isso como um perigo e o Texto 2, com bom humor.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Só o Texto 1 fala de leis, e mesmo ele diz que falta algo “que nenhuma lei resolve sozinha” (linhas 16-17). O Texto 2 não trata do assunto.",
+      "C": "O Texto 2 mostra o contrário: em uma semana o primo já estava gostando do trompete. E o Texto 1 nem menciona pessoas do interior.",
+      "D": "O Texto 1 defende o silêncio em certos momentos, mas o Texto 2 sugere que o silêncio completo pode incomodar: para o primo, o silêncio do sítio ficou “alto demais” (linha 12)."
+    },
+    "tip": "Quando os textos discordam, o ponto em comum costuma estar num detalhe que os dois mencionam de passagem. Aqui, a palavra-chave era “costume”."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A</b></p><blockquote><p><b>Bolo de milho de liquidificador</b></p><p>Bata no liquidificador o milho, os ovos, o leite e o açúcar. Acrescente o fermento e misture com uma colher. Despeje em uma forma untada e asse em forno médio por cerca de 40 minutos.</p></blockquote><p><b>Texto B</b></p><blockquote><p>Segui a receita à risca: bati tudo, untei a forma, esperei os quarenta minutos marcados no relógio. O bolo saiu dourado por fora e cru por dentro. Minha vizinha, que cozinha desde menina, riu da minha cara: “Forno não lê receita, meu filho. Tem que espetar o palito.”</p></blockquote><p>Em relação ao Texto A, o Texto B</p>",
+    "options": {
+      "A": "corrige a lista de ingredientes do Texto A, acrescentando o que faltava para que o bolo crescesse e ficasse pronto.",
+      "B": "apresenta as mesmas instruções, porém em linguagem mais formal.",
+      "C": "relata uma experiência que revela um limite da receita: o tempo indicado nem sempre basta.",
+      "D": "critica a vizinha, que não soube explicar o modo correto de assar o bolo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O Texto A é uma receita: dá ordens (“Bata”, “Despeje”, “asse”) de forma impessoal, para qualquer leitor.</p><p>O Texto B conta, em primeira pessoa, o que aconteceu com alguém que seguiu essa receita. Mesmo cumprindo os “quarenta minutos”, o bolo ficou cru por dentro. A fala da vizinha resume a lição: “Forno não lê receita” e é preciso testar com o palito. Ou seja, o Texto B mostra que a instrução “cerca de 40 minutos” não resolve tudo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "O Texto B não fala de ingredientes. O problema foi o tempo no forno, não a lista do que usar.",
+      "B": "O Texto B não repete as instruções e é mais informal, não mais formal: narra um episódio e traz a fala descontraída da vizinha.",
+      "D": "A vizinha não é criticada; ela é quem dá a dica certa. Quem erra é o narrador, que confiou só no relógio."
+    },
+    "tip": "Receita, manual e regulamento instruem; relato e crônica contam o que aconteceu. Compare o que cada gênero faz com o mesmo assunto."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A</b></p><blockquote><p>Os vaga-lumes produzem luz própria por meio de uma reação química no corpo e usam esses sinais luminosos para encontrar parceiros. Em lugares muito iluminados por postes e letreiros, os sinais se perdem no clarão, e os encontros ficam mais difíceis.</p></blockquote><p><b>Texto B</b></p><blockquote><p>Na minha rua acenderam tantas luzes<br>que os vaga-lumes, envergonhados,<br>apagaram suas pequenas lanternas<br>e foram namorar em outro lugar.</p></blockquote><p>Os dois textos tratam do mesmo fenômeno. Comparando-os, conclui-se que</p>",
+    "options": {
+      "A": "o Texto A explica o fenômeno em linguagem objetiva, e o Texto B o recria em linguagem figurada, dando sentimentos humanos aos insetos.",
+      "B": "o Texto A e o Texto B usam linguagem figurada, pois ambos chamam a luz dos vaga-lumes de “lanternas”.",
+      "C": "o Texto B contradiz o Texto A, pois afirma que os vaga-lumes preferem os lugares iluminados, onde é mais fácil encontrar parceiros.",
+      "D": "o Texto A é um poema, pois trata da natureza, e o Texto B, um trecho de divulgação científica, pois explica o comportamento dos insetos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.semantica.sentido",
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>O Texto A informa: explica como os vaga-lumes produzem luz, para que a usam e por que a iluminação artificial atrapalha. As palavras estão no sentido literal (denotativo).</p><p>O Texto B é um poema que diz a mesma coisa de forma figurada: os vaga-lumes ficam “envergonhados”, apagam “suas pequenas lanternas” e vão “namorar em outro lugar”. Atribuir sentimentos e ações humanas a animais é a <b>personificação</b>.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A palavra “lanternas” só aparece no Texto B. O Texto A fala em “sinais luminosos”, expressão literal.",
+      "C": "Os textos concordam: nos dois, o excesso de luz afasta os vaga-lumes ou atrapalha seus encontros. Os insetos do poema vão embora justamente por causa das luzes.",
+      "D": "Os gêneros estão trocados. O Texto B, escrito em versos, é o poema; o Texto A é o trecho de divulgação científica."
+    },
+    "tip": "Mesmo assunto, linguagens diferentes: a informativa explica com palavras no sentido literal; a poética recria o fato com imagens."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A</b></p><blockquote><p>A estudante Lara Menezes, de 14 anos, venceu no domingo o torneio de xadrez da escola municipal do bairro. Na final, Lara derrotou o colega Davi Souza em uma partida de pouco mais de uma hora. Participaram da competição 32 alunos do 6º ao 9º ano.</p></blockquote><p><b>Texto B</b></p><blockquote><p>Querido diário: GANHEI! Minhas mãos tremiam tanto que quase derrubei o rei do Davi antes da hora. No meio da partida perdi a rainha e pensei em desistir, mas lembrei do que a professora sempre diz: quem se apressa perde duas vezes. Respirei e continuei.</p></blockquote><p>Os dois textos tratam da mesma partida de xadrez. Uma informação que aparece <b>apenas</b> no Texto B é a de que</p>",
+    "options": {
+      "A": "Lara venceu o colega Davi na partida final do torneio da escola.",
+      "B": "o torneio reuniu alunos de várias séries do ensino fundamental.",
+      "C": "a partida final entre os dois durou pouco mais de uma hora.",
+      "D": "Lara perdeu a rainha e chegou a pensar em desistir."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.explicita"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Confira cada informação nos dois textos.</p><ul><li>A vitória de Lara sobre Davi aparece nos dois (A: “derrotou o colega Davi Souza”; B: “GANHEI!” e “o rei do Davi”).</li><li>Os alunos de várias séries e a duração da partida aparecem só no Texto A.</li><li>A perda da rainha e a vontade de desistir estão só no diário: “perdi a rainha e pensei em desistir”.</li></ul><p>Isso combina com os gêneros: a notícia registra fatos verificáveis; o diário revela o que a própria jogadora sentiu e pensou.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Essa informação está nos dois textos, não apenas no B.",
+      "B": "Os participantes “do 6º ao 9º ano” são citados somente no Texto A, a notícia.",
+      "C": "A duração da partida aparece somente no Texto A. O diário não fala em tempo."
+    },
+    "tip": "Em perguntas com “apenas”, marque cada alternativa com A, B ou “os dois” antes de escolher."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A (trecho de coluna sobre educação)</b></p><blockquote><p>Dar mesada a um adolescente não é apenas dar dinheiro: é dar a chance de errar com pouco. Quem gasta tudo na primeira semana e passa o resto do mês de bolso vazio aprende uma lição que nenhuma palestra ensina. Por isso, os pais não devem socorrer o filho a cada aperto.</p></blockquote><p><b>Texto B (postagem de um blog escrito por uma adolescente)</b></p><blockquote><p>Recebo mesada desde os doze anos e já fiz muita besteira: uma vez gastei tudo em figurinhas no dia do pagamento e fiquei três semanas sem lanche. Aprendi. O que acho injusto é quando os pais usam a mesada como castigo e cortam o dinheiro por causa de nota baixa. Mesada não é prêmio, é treino.</p></blockquote><p>Comparando os dois textos, percebe-se que a autora do Texto B</p>",
+    "options": {
+      "A": "discorda do Texto A, pois considera que os pais devem socorrer o filho sempre que o dinheiro acabar antes do fim do mês.",
+      "B": "concorda que a mesada ensina, inclusive pelos erros, e acrescenta uma crítica que o Texto A não faz.",
+      "C": "concorda com o Texto A quanto à ideia de que cortar a mesada é um bom castigo para notas baixas.",
+      "D": "discorda do Texto A, pois afirma que os erros com dinheiro não ensinam nada e só deixam o adolescente sem lanche."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O Texto A defende que a mesada é uma chance de “errar com pouco” e que o erro ensina (“aprende uma lição”).</p><p>A autora do Texto B confirma isso com a própria experiência: gastou tudo em figurinhas, ficou sem lanche e conclui “Aprendi.” Até resume a mesma ideia: “Mesada não é prêmio, é treino.”</p><p>Depois, ela <b>acrescenta</b> um ponto que o Texto A não discute: é injusto usar a mesada como castigo por nota baixa.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "A autora do Texto B não pede socorro dos pais: ela ficou três semanas sem lanche e diz que aprendeu com isso, o que combina com o Texto A.",
+      "C": "É justamente o contrário: ela chama de “injusto” cortar a mesada por nota baixa. E o Texto A nem trata de castigo.",
+      "D": "A frase “Aprendi.” mostra que, para ela, o erro ensinou. Nesse ponto, ela concorda com o Texto A."
+    },
+    "tip": "Ao comparar opiniões, separe três coisas: onde os textos concordam, onde discordam e o que um deles acrescenta de novo."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A (comunicado de uma escola)</b></p><blockquote><p>Senhores responsáveis,</p><p>Informamos que a visita ao Jardim Botânico ocorrerá no dia 14, com saída às 7h30. Solicitamos que os alunos tragam lanche e entreguem a autorização assinada até o dia 10.</p><p>Atenciosamente,<br>A Coordenação</p></blockquote><p><b>Texto B (mensagem de um aluno no grupo da turma)</b></p><blockquote><p>geeente o passeio é dia 14!!! tem q chegar 7 e meia senão o ônibus vai embora sem vc kkkk<br>traz lanche e NÃO ESQUECE a autorização assinada, até dia 10 hein</p></blockquote><p>Os dois textos transmitem praticamente as mesmas informações. As diferenças de linguagem entre eles se explicam principalmente</p>",
+    "options": {
+      "A": "pelo fato de o Texto B conter informações erradas sobre a data e o horário do passeio.",
+      "B": "pela idade de quem escreve, já que adolescentes ainda não conseguem usar a linguagem formal em nenhuma situação.",
+      "C": "pelos interlocutores e pela situação: o Texto A é um comunicado oficial aos responsáveis; o Texto B, uma conversa entre colegas.",
+      "D": "pela intenção de cada texto: o Texto A quer informar os responsáveis, e o Texto B quer apenas divertir os colegas com piadas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.variacao",
+      "pt.leitura.genero"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Quem fala com quem? No Texto A, a coordenação da escola se dirige aos “Senhores responsáveis” por meio de um comunicado oficial: por isso usa vocativo formal, verbos como “Informamos” e “Solicitamos” e fecho “Atenciosamente”.</p><p>No Texto B, um aluno escreve para os colegas num grupo de mensagens, situação íntima e descontraída: por isso usa abreviações (“q”, “vc”), risada (“kkkk”), letras maiúsculas para dar ênfase e o imperativo informal (“traz”, “não esquece”).</p><p>A linguagem se adapta a quem lê e à situação: é o que chamamos de adequação do <b>registro</b>.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "As informações coincidem: dia 14, saída às 7h30 (“7 e meia”), lanche e autorização até o dia 10.",
+      "B": "A diferença não é incapacidade. O aluno escolheu o registro informal porque falava com colegas; em outra situação, ele usaria a linguagem formal.",
+      "D": "O Texto B também quer informar: repete data, horário, lanche e prazo. O “kkkk” é só um toque de humor, não a finalidade da mensagem."
+    },
+    "tip": "Registro formal ou informal não é certo ou errado: depende de quem fala, com quem fala e em que situação."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir, publicados na seção de cartas de um jornal de bairro.</p><p><b>Texto A (carta de um ciclista)</b></p><blockquote><p>A ciclovia da Rua das Palmeiras vai salvar vidas. Hoje, quem pedala divide a pista com carros e ônibus, e cada ida ao trabalho é uma aposta. Retirar algumas vagas de estacionamento é um preço pequeno diante disso.</p></blockquote><p><b>Texto B (carta de uma comerciante)</b></p><blockquote><p>Ninguém aqui é contra a segurança de quem pedala. Mas a ciclovia foi desenhada sem ouvir quem vive da rua: sem vagas na porta, os fregueses mais velhos e quem carrega compras pesadas vão comprar em outro bairro. Por que não passar a ciclovia pela rua paralela, que é mais larga?</p></blockquote><p>A comparação entre as duas cartas permite afirmar que</p>",
+    "options": {
+      "A": "as duas cartas concordam quanto à importância da segurança dos ciclistas, mas divergem quanto ao lugar e à forma de implantar a ciclovia.",
+      "B": "a autora do Texto B se opõe a qualquer ciclovia no bairro, porque acredita que ela sempre prejudica o comércio de rua.",
+      "C": "o autor do Texto A reconhece que a retirada de vagas vai afastar os fregueses mais velhos do comércio local.",
+      "D": "a autora do Texto B nega que os ciclistas corram riscos ao dividir a pista com carros e ônibus."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.argumentacao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O Texto A defende a ciclovia da Rua das Palmeiras porque ela protege os ciclistas.</p><p>O Texto B começa com uma concessão: “Ninguém aqui é contra a segurança de quem pedala.” Assim, a comerciante concorda com o objetivo. A crítica, introduzida pelo “Mas”, é a outra parte: a ciclovia foi planejada “sem ouvir quem vive da rua”, e a autora propõe outro traçado, pela rua paralela.</p><p>Logo, os textos concordam sobre a segurança e discordam sobre onde e como fazer a ciclovia.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "A autora não rejeita toda ciclovia: ela sugere construí-la na rua paralela. É um erro comum ler a crítica ao projeto como rejeição da ideia inteira.",
+      "C": "O Texto A fala em “preço pequeno”, mas não menciona fregueses nem comércio. O prejuízo aos fregueses mais velhos é argumento do Texto B.",
+      "D": "Ela não nega o risco; ao contrário, abre a carta dizendo que ninguém é contra a segurança de quem pedala."
+    },
+    "tip": "Fique atento às concessões (“Ninguém é contra...”, “É verdade que...”) seguidas de “mas”: o autor concorda com uma parte para discordar de outra."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia os textos a seguir.</p><p><b>Texto A (trecho de artigo de opinião)</b></p><blockquote><p>Filhote não é presente de Natal. Quem ganha um animal de surpresa não escolheu assumir, por dez ou quinze anos, a ração, o veterinário e os passeios diários. Passada a novidade, muitos desses bichos acabam esquecidos no quintal ou abandonados. Antes de levar um animal para casa, a família inteira precisa decidir junto.</p></blockquote><p><b>Texto B (trecho de conto)</b></p><blockquote><p>Tomás pediu um cachorro durante três anos. Fez as contas da ração com o pai, visitou o abrigo com a mãe e leu tudo o que encontrou sobre vacinas. Quando Pipoca chegou, numa terça-feira de março, sem laço de fita nem caixa de presente, já tinha cama, coleira e uma escala de passeios pregada na geladeira.</p></blockquote><p>Em relação ao Texto A, o Texto B pode ser lido como</p>",
+    "options": {
+      "A": "um contra-argumento, pois mostra uma criança que ganhou um filhote de surpresa no Natal e, mesmo assim, cuidou bem dele.",
+      "B": "uma ilustração do abandono de animais, já que Pipoca foi deixado em um abrigo.",
+      "C": "um exemplo do tipo de adoção defendido no Texto A: planejada, decidida em família e sem o caráter de surpresa.",
+      "D": "uma defesa de que a decisão de adotar um animal cabe somente às crianças, que são as mais interessadas."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.comparacao",
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O Texto A critica o animal dado de surpresa e defende que a família inteira decida junto, consciente dos custos e cuidados de muitos anos.</p><p>No Texto B, cada detalhe mostra essa decisão planejada:</p><ul><li>o pedido durou “três anos” (não foi impulso);</li><li>Tomás “fez as contas da ração com o pai” e “visitou o abrigo com a mãe” (decisão em família e consciência dos custos);</li><li>Pipoca chegou “numa terça-feira de março, sem laço de fita nem caixa de presente” (não foi presente de Natal nem surpresa);</li><li>já havia cama, coleira e “escala de passeios” (compromisso com os cuidados diários).</li></ul><p>A narrativa funciona como exemplo positivo do que o artigo defende.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Tomás não foi surpreendido: ele pediu por três anos e participou de tudo. O detalhe “sem laço de fita nem caixa de presente” afasta a ideia de presente-surpresa.",
+      "B": "Pipoca veio de um abrigo e foi adotado; não foi deixado lá. O conto mostra o oposto do abandono.",
+      "D": "Tomás decide com o pai e com a mãe, como pede o Texto A. Nada indica que a decisão coube só a ele."
+    },
+    "tip": "Uma narrativa pode servir de exemplo ou de contraexemplo para um artigo. Compare os detalhes da história com as condições que o artigo exige."
+  }
+]

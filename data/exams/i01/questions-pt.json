@@ -9,7 +9,7 @@
     "options": {
       "A": "os jovens de hoje leem menos do que os das gerações anteriores, por causa das telas.",
       "B": "as telas precisam ser afastadas da rotina dos adolescentes para que a leitura sobreviva.",
-      "C": "a leitura entre os jovens não acabou, mas o desafio atual é sustentar uma leitura atenta e profunda, seja no papel, seja na tela.",
+      "C": "a leitura entre os jovens não acabou; o desafio é mantê-la atenta e profunda, no papel ou na tela.",
       "D": "as fanfics e os vídeos de recomendação já formam leitores tão preparados quanto a leitura dos clássicos."
     },
     "answer": "C",
@@ -93,10 +93,10 @@
     ],
     "stem": "<blockquote><p>“Basta olhar com atenção para perceber que a leitura não desapareceu: <b>mudou de endereço</b>.” (linha 6)</p></blockquote><p>A expressão destacada, empregada em sentido figurado, significa que a leitura</p>",
     "options": {
-      "A": "passou a ser praticada principalmente dentro das bibliotecas.",
+      "A": "passou a ser praticada principalmente dentro das bibliotecas, longe das telas.",
       "B": "deixou de existir nas casas e nas escolas dos jovens.",
       "C": "foi substituída por vídeos curtos sobre livros.",
-      "D": "passou a acontecer também em outros meios e espaços, como as telas dos celulares."
+      "D": "passou a ocupar também outros meios, como as telas dos celulares."
     },
     "answer": "D",
     "annulled": false,
@@ -153,7 +153,7 @@
     "options": {
       "A": "afirme, com certeza, que os adultos já valorizam as leituras dos jovens.",
       "B": "dê uma ordem direta aos adultos, típica do modo imperativo.",
-      "C": "apresente, como sugestão, uma atitude hipotética que os adultos ainda não costumam tomar.",
+      "C": "sugira uma atitude hipotética que os adultos ainda não costumam tomar.",
       "D": "relate uma atitude que os adultos tomaram no passado e já abandonaram."
     },
     "answer": "C",
@@ -213,7 +213,7 @@
       "A": "é a autora da história que lê, pois criou um herói só seu.",
       "B": "vai abandonar o celular por ter descoberto que o livro de papel é mais interessante.",
       "C": "lê no celular a mesma obra que depois pedirá na biblioteca, apenas em outro formato.",
-      "D": "lê uma fanfic e, a partir dela, vai buscar a obra original, como o Texto 1 propõe ao falar em usar as leituras dos jovens “como ponte” (linha 27)."
+      "D": "lê uma fanfic e vai buscar a obra original, usando-a como a “ponte” de que fala o Texto 1."
     },
     "answer": "D",
     "annulled": false,

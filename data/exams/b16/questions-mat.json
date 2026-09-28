@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma padaria, as receitas de pão são escritas em “porcentagem do padeiro”: a quantidade de cada ingrediente é indicada como uma porcentagem da massa de farinha. Na receita do pão de fôrma da casa, a água corresponde a 70% da farinha, o sal a 2% e o fermento a 1%.</p><p>Para preparar uma fornada com 500 g de farinha, o padeiro deve usar uma quantidade de água igual a</p>",
+    "options": {
+      "A": "150 g.",
+      "B": "350 g.",
+      "C": "570 g.",
+      "D": "714 g."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Na porcentagem do padeiro, a base (o “todo”) é sempre a massa de farinha. A água é 70% dessa massa:</p><p>\\[70\\% \\text{ de } 500 = 0{,}7 \\cdot 500 = 350 \\text{ g}\\]</p><p>Outra forma: 10% de 500 g é 50 g; então 70% é \\(7 \\cdot 50 = 350\\) g. As informações sobre sal e fermento não são necessárias para esta pergunta.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Calculou 30% de 500 g, como se a água fosse “o que falta” para completar 100%. Mas a água é 70% da farinha, e não o restante dela.",
+      "C": "Somou 70 g aos 500 g, tratando “70%” como “70 gramas a mais”. A porcentagem precisa ser calculada sobre os 500 g.",
+      "D": "Dividiu 500 por 0,7, como se os 500 g fossem 70% de alguma coisa. Aqui é o contrário: a farinha é o todo, e a água é 70% dela."
+    },
+    "tip": "Descubra primeiro qual é o “todo” (a base): a porcentagem é sempre calculada sobre ele."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O álbum de figurinhas de um campeonato de futebol tem 640 figurinhas diferentes para colar. Depois de dois meses de trocas no recreio, Pedro já colou 512 figurinhas no seu álbum.</p><p>A porcentagem das figurinhas do álbum que ainda faltam para Pedro completá-lo é</p>",
+    "options": {
+      "A": "80%.",
+      "B": "12,8%.",
+      "C": "20%.",
+      "D": "25%."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.fracoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Primeiro, quantas figurinhas faltam: \\(640 - 512 = 128\\).</p><p>Agora comparamos a parte (128) com o todo (640, o álbum completo):</p><p>\\[\\frac{128}{640} = \\frac{1}{5} = 0{,}20 = 20\\%\\]</p><p>Conferindo: Pedro já tem \\(\\frac{512}{640} = 80\\%\\) do álbum, e \\(100\\% - 80\\% = 20\\%\\).</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É a porcentagem que Pedro já colou, e não a que falta. A pergunta pede o que ainda falta para completar o álbum.",
+      "B": "Tratou as 128 figurinhas que faltam como se o todo fosse 1.000: \\(\\frac{128}{1000} = 12{,}8\\%\\). O todo é o álbum, com 640 figurinhas.",
+      "D": "Dividiu 128 por 512, usando como base as figurinhas que Pedro já tem. A porcentagem do álbum deve ter como base o álbum completo (640)."
+    },
+    "tip": "Porcentagem = parte ÷ todo. Antes de dividir, pergunte: “porcentagem de quê?”. Esse é o todo."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma loja de instrumentos musicais, um violão custa R$ 360,00. Para quem paga por Pix, a loja oferece 5% de desconto sobre esse preço.</p><p>Um cliente que comprar esse violão pagando por Pix pagará</p>",
+    "options": {
+      "A": "R$ 342,00.",
+      "B": "R$ 355,00.",
+      "C": "R$ 18,00.",
+      "D": "R$ 378,00."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Calcule o desconto: 10% de 360 é 36, então 5% é a metade disso, R$ 18,00.</p><p>O preço com desconto é \\(360 - 18 = 342\\).</p><p>Outra forma: pagar com 5% de desconto é pagar 95% do preço: \\(0{,}95 \\cdot 360 = 342\\).</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Tirou R$ 5,00 do preço, confundindo 5% com 5 reais. O desconto é 5% de R$ 360,00, ou seja, R$ 18,00.",
+      "C": "R$ 18,00 é o valor do desconto, e não o valor que o cliente paga. Faltou subtrair do preço.",
+      "D": "Somou os 5% ao preço (\\(360 + 18\\)), como se fosse um acréscimo. Desconto diminui o preço."
+    },
+    "tip": "Desconto de x%: você paga (100 − x)% do preço. Com 5% de desconto, multiplique por 0,95."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na temporada passada, Bia, armadora do time de basquete da escola, acertava 60% dos lances livres que cobrava. Depois de um semestre de treinos extras, seu aproveitamento nos lances livres ficou 25% maior do que o da temporada passada.</p><p>Nesta temporada, Bia já cobrou 40 lances livres, sempre com esse novo aproveitamento. O número de lances livres que ela acertou foi</p>",
+    "options": {
+      "A": "24.",
+      "B": "32.",
+      "C": "34.",
+      "D": "30."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O aproveitamento ficou 25% <b>maior do que 60%</b>. O aumento é calculado sobre os 60%, e não somado a eles:</p><p>\\[25\\% \\text{ de } 60\\% = 0{,}25 \\cdot 60\\% = 15\\%\\]</p><p>Então o novo aproveitamento é \\(60\\% + 15\\% = 75\\%\\) (ou \\(1{,}25 \\cdot 60\\% = 75\\%\\)).</p><p>Em 40 cobranças: \\(0{,}75 \\cdot 40 = 30\\) acertos.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Usou o aproveitamento antigo (60% de 40 = 24) e ignorou a melhora.",
+      "B": "Pensou que, se o novo aproveitamento é 25% maior que o antigo, o antigo seria 25% menor que o novo, e fez \\(60\\% \\div 0{,}75 = 80\\%\\) (80% de 40 = 32). Mas o aumento de 25% é calculado sobre os 60%: \\(1{,}25 \\cdot 60\\% = 75\\%\\).",
+      "C": "Somou 25 pontos percentuais: \\(60\\% + 25\\% = 85\\%\\), e 85% de 40 = 34. Mas “25% maior” é um aumento relativo: 25% de 60%, que dá 15 pontos percentuais."
+    },
+    "tip": "“25% maior” que uma porcentagem não é somar 25: multiplique por 1,25. Somar diretamente é aumentar em pontos percentuais."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma reserva ambiental, uma equipe de biólogos colocou anilhas de identificação nas patas de 45 araras. Segundo o relatório da equipe, essas 45 araras correspondem a 18% de todas as araras que vivem na reserva.</p><p>De acordo com esse relatório, o número total de araras que vivem na reserva é</p>",
+    "options": {
+      "A": "53.",
+      "B": "225.",
+      "C": "250.",
+      "D": "810."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Aqui conhecemos a parte (45) e a porcentagem que ela representa (18%). Queremos o todo \\(T\\):</p><p>\\[0{,}18 \\cdot T = 45 \\quad\\Rightarrow\\quad T = \\frac{45}{0{,}18} = \\frac{4500}{18} = 250\\]</p><p>Por regra de três: se 18% valem 45, então 2% valem \\(45 \\div 9 = 5\\), e 100% valem \\(50 \\cdot 5 = 250\\).</p><p>Conferindo: 18% de 250 = \\(0{,}18 \\cdot 250 = 45\\). Certo.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou \\(45 \\cdot 1{,}18 \\approx 53\\), como se o total fosse 18% a mais que 45. Mas as 45 araras são apenas 18% do total, então o total é bem maior.",
+      "B": "Arredondou 18% para 20% (um quinto) e fez \\(45 \\cdot 5 = 225\\). A aproximação muda o resultado: com 18% exatos, o total é 250.",
+      "D": "Multiplicou 45 por 18. A porcentagem não entra como fator inteiro: é preciso dividir 45 por 0,18 (ou por 18 e multiplicar por 100)."
+    },
+    "tip": "Se você conhece a parte e a porcentagem, o todo é parte ÷ porcentagem (em decimal). Confira fazendo a conta de volta."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lara faz pulseiras de miçangas para vender na feira de artesanato do bairro. O material de cada pulseira custa R$ 30,00, e Lara vende cada uma com lucro de 60% sobre esse custo.</p><p>Em relação ao preço de venda de cada pulseira, o lucro de Lara corresponde a</p>",
+    "options": {
+      "A": "37,5%.",
+      "B": "60%.",
+      "C": "18%.",
+      "D": "62,5%."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.num.financeira"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, o lucro em reais. Ele é 60% do custo:</p><p>\\[0{,}6 \\cdot 30 = 18 \\text{ reais}\\]</p><p>Então o preço de venda é \\(30 + 18 = 48\\) reais.</p><p>Agora a pergunta muda a base: queremos o lucro (R$ 18,00) em relação ao preço de venda (R$ 48,00):</p><p>\\[\\frac{18}{48} = \\frac{3}{8} = 0{,}375 = 37{,}5\\%\\]</p><p>Repare: o lucro é o mesmo (R$ 18,00), mas a porcentagem muda conforme a base. Sobre o custo (R$ 30,00) ele é 60%; sobre o preço de venda (R$ 48,00), que é maior, ele é só 37,5%.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Repetiu os 60% do enunciado. Mas 60% é o lucro em relação ao custo; a pergunta pede o lucro em relação ao preço de venda, que é outra base.",
+      "C": "Confundiu o lucro em reais (R$ 18,00) com a porcentagem. É preciso dividir os R$ 18,00 pelo preço de venda, R$ 48,00.",
+      "D": "\\(\\frac{30}{48} = 62{,}5\\%\\) é a parte do preço de venda que corresponde ao custo do material, e não ao lucro. O lucro é \\(100\\% - 62{,}5\\% = 37{,}5\\%\\)."
+    },
+    "tip": "Mesmo valor em reais, bases diferentes, porcentagens diferentes. Antes de calcular, pergunte: “porcentagem em relação a quê?”."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para a festa junina da escola, uma turma preparou refresco de caju em dois garrafões:</p><ul><li>no primeiro, 2 litros de refresco com 20% de suco concentrado;</li><li>no segundo, 3 litros de refresco com 10% de suco concentrado.</li></ul><p>Na hora da festa, os estudantes despejaram os dois garrafões em um único caldeirão e misturaram bem.</p><p>A porcentagem de suco concentrado no refresco do caldeirão é</p>",
+    "options": {
+      "A": "15%.",
+      "B": "30%.",
+      "C": "16%.",
+      "D": "14%."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.est.medias"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Calcule quanto suco concentrado há em cada garrafão:</p><ul><li>primeiro: 20% de 2 L = 0,4 L;</li><li>segundo: 10% de 3 L = 0,3 L.</li></ul><p>No caldeirão há \\(0{,}4 + 0{,}3 = 0{,}7\\) L de suco concentrado em \\(2 + 3 = 5\\) L de refresco:</p><p>\\[\\frac{0{,}7}{5} = 0{,}14 = 14\\%\\]</p><p>O resultado fica mais perto de 10% porque há mais refresco do garrafão mais fraco.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Fez a média simples de 20% e 10%. Isso só vale se os garrafões tivessem o mesmo volume; aqui o de 10% tem mais refresco e pesa mais.",
+      "B": "Somou as porcentagens. Misturar dois refrescos não soma as concentrações: o suco se espalha por um volume maior.",
+      "C": "Trocou os volumes: usou 3 L com 20% e 2 L com 10% (\\(0{,}6 + 0{,}2 = 0{,}8\\) L em 5 L). Confira qual volume corresponde a cada concentração."
+    },
+    "tip": "Em misturas, some as quantidades (em litros ou gramas) e divida pelo total. Não faça média simples de porcentagens."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma pesquisa de mobilidade em certa cidade verificou que, em 2024, 8% dos deslocamentos diários eram feitos de bicicleta. Em 2025, depois da construção de novas ciclovias, esse índice passou para 10%. No mesmo período, porém, o número total de deslocamentos diários na cidade diminuiu 30%, porque muitas pessoas passaram a trabalhar de casa.</p><p>Comparando 2025 com 2024, o número de deslocamentos diários feitos de bicicleta</p>",
+    "options": {
+      "A": "aumentou 25%.",
+      "B": "diminuiu 12,5%.",
+      "C": "diminuiu 5%.",
+      "D": "diminuiu 30%."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>As porcentagens 8% e 10% são calculadas sobre totais diferentes, então não podem ser comparadas diretamente. Chame de \\(T\\) o total de deslocamentos diários em 2024.</p><ul><li>2024: bicicleta \\(= 0{,}08T\\).</li><li>2025: o total caiu 30%, então passou a ser \\(0{,}7T\\), e a bicicleta \\(= 0{,}10 \\cdot 0{,}7T = 0{,}07T\\).</li></ul><p>Comparando:</p><p>\\[\\frac{0{,}07T}{0{,}08T} = \\frac{7}{8} = 0{,}875 = 87{,}5\\%\\]</p><p>O número de 2025 é 87,5% do de 2024, ou seja, diminuiu \\(100\\% - 87{,}5\\% = 12{,}5\\%\\).</p><p>Com números: se em 2024 eram 100.000 deslocamentos, 8.000 eram de bicicleta. Em 2025, com 70.000 deslocamentos, 10% dá 7.000. De 8.000 para 7.000, a queda é \\(\\frac{1.000}{8.000} = 12{,}5\\%\\).</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Comparou só as porcentagens (de 8% para 10%, um aumento de 25%), como se o total de deslocamentos não tivesse mudado. Como o total caiu 30%, o número de viagens de bicicleta também foi afetado.",
+      "C": "Somou as variações como se fossem pontos: \\(+25\\% - 30\\% = -5\\%\\). Variações percentuais sucessivas se multiplicam: \\(1{,}25 \\cdot 0{,}7 = 0{,}875\\), uma queda de 12,5%.",
+      "D": "Aplicou ao número de ciclistas a mesma queda do total, ignorando que a participação da bicicleta subiu de 8% para 10%."
+    },
+    "tip": "Uma porcentagem maior de um total menor pode dar um número menor. Calcule as quantidades (parte = porcentagem × total) antes de comparar."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma cooperativa agrícola colocou 20 kg de tomates frescos para secar ao sol. Nesses tomates frescos, 95% da massa é água. Durante a secagem, apenas parte da água evapora, e o restante da massa (polpa, casca e sementes) não se altera.</p><p>Ao final da secagem, a água passou a representar 80% da massa dos tomates. A massa dos tomates secos é</p>",
+    "options": {
+      "A": "1 kg.",
+      "B": "5 kg.",
+      "C": "16 kg.",
+      "D": "17 kg."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O segredo é olhar para a parte que <b>não muda</b>: a massa seca (tudo o que não é água).</p><p>Nos tomates frescos, a massa seca é \\(100\\% - 95\\% = 5\\%\\) de 20 kg:</p><p>\\[0{,}05 \\cdot 20 = 1 \\text{ kg}\\]</p><p>Depois da secagem, a água é 80% da massa, então esse 1 kg de massa seca passa a ser 20% da nova massa \\(M\\):</p><p>\\[0{,}20 \\cdot M = 1 \\quad\\Rightarrow\\quad M = 5 \\text{ kg}\\]</p><p>Conferindo: em 5 kg, 1 kg é massa seca e 4 kg são água, e \\(\\frac{4}{5} = 80\\%\\). Evaporaram \\(19 - 4 = 15\\) kg de água.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "1 kg é só a massa seca, sem nenhuma água. Os tomates secos ainda têm 80% de água, então pesam mais que isso.",
+      "C": "Calculou 80% de 20 kg. Mas os 80% se referem à massa final (desconhecida), e não à massa inicial.",
+      "D": "Achou que, como a água caiu de 95% para 80% (15 pontos percentuais), a massa diminuiu 15%: \\(20 - 3 = 17\\) kg. As porcentagens mudam de base; é preciso usar a parte que não varia."
+    },
+    "tip": "Quando o total muda, ancore a conta na parte que fica constante e descubra que porcentagem ela passa a ser."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O grêmio de uma escola imprimiu um cartaz retangular de 50 cm por 40 cm para anunciar a feira de ciências. Como o cartaz ficou pequeno para o mural, o grêmio vai reimprimi-lo aumentando em 20% cada uma de suas dimensões (largura e altura).</p><p>Em relação à área do cartaz original, a área do novo cartaz será maior em</p>",
+    "options": {
+      "A": "20%.",
+      "B": "40%.",
+      "C": "4%.",
+      "D": "44%."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.num.porcentagem",
+      "mat.geo.areas"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Novas dimensões: 20% a mais em cada uma.</p><ul><li>largura: \\(1{,}2 \\cdot 50 = 60\\) cm;</li><li>altura: \\(1{,}2 \\cdot 40 = 48\\) cm.</li></ul><p>Áreas: original \\(50 \\cdot 40 = 2.000\\) cm²; nova \\(60 \\cdot 48 = 2.880\\) cm².</p><p>Aumento: \\(2.880 - 2.000 = 880\\) cm², e \\(\\frac{880}{2.000} = 0{,}44 = 44\\%\\).</p><p>Sem as medidas: a área é largura × altura, então ela fica multiplicada por \\(1{,}2 \\cdot 1{,}2 = 1{,}44\\), isto é, aumenta 44%, qualquer que seja o tamanho do cartaz.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Achou que a área cresce na mesma porcentagem que cada lado. Mas a área depende das duas dimensões, e as duas aumentaram.",
+      "B": "Somou os dois aumentos (20% + 20%). Os aumentos se multiplicam: \\(1{,}2 \\cdot 1{,}2 = 1{,}44\\), e não \\(1 + 0{,}2 + 0{,}2 = 1{,}4\\). Faltou o “pedaço” de 20% de 20%.",
+      "C": "Calculou \\(0{,}2 \\cdot 0{,}2 = 0{,}04\\), que é só o pedaço extra do canto. A área nova é \\(1{,}2 \\cdot 1{,}2 = 1{,}44\\) vezes a antiga."
+    },
+    "tip": "Se cada dimensão é multiplicada por k, a área é multiplicada por k². Aumentar 20% é multiplicar por 1,2; a área fica multiplicada por 1,44."
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "T1",
+    "label": "Texto 1",
+    "title": "Ciclofaixa da Rua das Palmeiras começa a funcionar na segunda-feira",
+    "subtitle": "Trecho de 2,4 km liga a praça do Coreto ao terminal de ônibus do Jardim Aurora e divide a opinião de moradores e comerciantes",
+    "author": null,
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "A partir da próxima segunda-feira, quem pedala pelo bairro do Jardim Aurora vai",
+      "contar com 2,4 quilômetros de ciclofaixa na Rua das Palmeiras, entre a praça do",
+      "Coreto e o terminal de ônibus. A faixa, pintada de vermelho e separada dos carros",
+      "por tachões, vai funcionar todos os dias, das 6h às 22h. Fora desse horário, o",
+      "espaço volta a ser usado como vaga de estacionamento.",
+      "A obra levou três meses e foi pedida pela associação de moradores em um",
+      "abaixo-assinado entregue à prefeitura no ano passado. Segundo a secretaria municipal",
+      "de transportes, a escolha do trecho levou em conta o movimento de estudantes: há",
+      "duas escolas estaduais ao longo da rua.",
+      "A novidade divide opiniões. A estudante Luana Prado, de 15 anos, que vai de",
+      "bicicleta para a escola, comemora: “Agora minha mãe vai parar de ficar com o coração",
+      "na mão toda vez que eu saio de casa”. Já o dono de uma padaria da rua, Joaquim",
+      "Seixas, teme perder clientes: “Quem vem de carro buscar pão não vai ter onde parar.",
+      "A ciclofaixa vai espantar a freguesia”.",
+      "A secretaria informou que vai instalar, até o fim do mês, dois bicicletários na",
+      "praça do Coreto e que a sinalização para pedestres será reforçada nos cruzamentos",
+      "próximos às escolas. Nos primeiros quinze dias, agentes de trânsito vão orientar",
+      "motoristas e ciclistas, sem aplicar multas.",
+      "Para o ciclista Renato Aguiar, que coordena um grupo de pedal no bairro, a",
+      "ciclofaixa é só o começo. “Pedalar na cidade ainda é uma aventura. Um trecho de dois",
+      "quilômetros não resolve tudo, mas mostra que a bicicleta também tem lugar na rua”,",
+      "afirma."
+    ],
+    "para_starts": [
+      1,
+      6,
+      10,
+      15,
+      19
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  },
+  {
+    "id": "T2",
+    "label": "Texto 2",
+    "title": "Vento Norte: um jogo que ensina a esperar",
+    "subtitle": null,
+    "author": "Otávio Lemos",
+    "kind": "prosa",
+    "numbering": "every5",
+    "lines": [
+      "<i>Vento Norte</i>, jogo de tabuleiro lançado este ano por uma pequena editora",
+      "independente, coloca de dois a quatro jogadores no comando de barcos pesqueiros que",
+      "disputam os melhores pontos de pesca de um arquipélago. Cada partida dura cerca de",
+      "quarenta minutos, e a caixa indica o jogo para maiores de dez anos.",
+      "A regra central é simples: a cada rodada, uma carta sorteada muda a direção do",
+      "vento, e os barcos só avançam a favor dele. Quem tenta remar contra perde a vez.",
+      "Parece pouco, mas é aí que mora a graça do jogo. Planejar três rodadas à frente, sem",
+      "saber para onde o vento vai soprar, é um exercício de paciência que poucos jogos",
+      "conseguem propor com tanta leveza.",
+      "As ilustrações, em tons de azul e ocre, são das mais bonitas que vi nos últimos",
+      "anos. Já o manual deixa a desejar: as regras de empate aparecem só na última página,",
+      "em letras miúdas, e provocaram discussão na minha mesa. Mesmo assim, <i>Vento Norte</i> é",
+      "daqueles jogos que a gente guarda na prateleira de cima, a dos favoritos."
+    ],
+    "para_starts": [
+      1,
+      5,
+      10
+    ],
+    "stanza_breaks": [],
+    "images": [],
+    "source": "Texto elaborado para o simulador.",
+    "glossary": [],
+    "epigraph": null
+  }
+]

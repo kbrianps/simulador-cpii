@@ -36,10 +36,10 @@
     ],
     "stem": "<blockquote><p>“Às seis da tarde, quando o sol já não <b><u>castiga</u></b> o cimento, a quadra da praça do bairro começa a encher.” (linhas 1-2)</p></blockquote><p>No contexto, o verbo destacado foi empregado em sentido figurado e significa</p>",
     "options": {
-      "A": "pune.",
-      "B": "esfria.",
-      "C": "ilumina.",
-      "D": "aquece intensamente."
+      "A": "pune com rigor.",
+      "B": "esfria lentamente.",
+      "C": "ilumina com força.",
+      "D": "aquece demais."
     },
     "answer": "D",
     "annulled": false,
@@ -49,7 +49,7 @@
       "pt.semantica.figuras"
     ],
     "difficulty": 1,
-    "explanation": "<p>No sentido literal (denotativo), “castigar” é aplicar uma punição a alguém. Mas o sol não pune ninguém: aqui a palavra está em sentido figurado (conotativo).</p><p>Pense na cena: às seis da tarde o sol está mais fraco. Antes disso, ele “castigava” o cimento, isto é, esquentava muito o piso da quadra, a ponto de tornar o jogo desconfortável. Por isso as pessoas só chegam quando o sol “já não castiga”. Substitua: “quando o sol já não <b>aquece intensamente</b> o cimento”. O sentido se mantém.</p><p>Repare que o texto atribui ao sol uma ação humana (castigar), o que também é uma personificação.</p><p>Resposta: <b>D</b>.</p>",
+    "explanation": "<p>No sentido literal (denotativo), “castigar” é aplicar uma punição a alguém. Mas o sol não pune ninguém: aqui a palavra está em sentido figurado (conotativo).</p><p>Pense na cena: às seis da tarde o sol está mais fraco. Antes disso, ele “castigava” o cimento, isto é, esquentava muito o piso da quadra, a ponto de tornar o jogo desconfortável. Por isso as pessoas só chegam quando o sol “já não castiga”. Substitua: “quando o sol já não <b>aquece demais</b> o cimento”. O sentido se mantém.</p><p>Repare que o texto atribui ao sol uma ação humana (castigar), o que também é uma personificação.</p><p>Resposta: <b>D</b>.</p>",
     "distractors": {
       "A": "“Punir” é o sentido literal de “castigar”. O sol não aplica punição; o texto usa a palavra de modo figurado para falar do calor forte.",
       "B": "É o contrário: o sol esquenta o cimento. O que muda às seis da tarde é que ele deixa de esquentar tanto, e não que passe a esfriar o piso.",
@@ -96,7 +96,7 @@
     "options": {
       "A": "foi uma obra pequena e pouco importante, que não mudou a rotina da quadra.",
       "B": "servia apenas para facilitar a entrada de equipamentos esportivos na quadra.",
-      "C": "além de permitir o acesso, comunica às pessoas com deficiência que elas pertencem àquele espaço.",
+      "C": "além de dar acesso, diz aos cadeirantes que eles também são esperados ali.",
       "D": "tornou dispensável a ajuda dos amigos, o que levou Diego a se afastar do grupo."
     },
     "answer": "C",
@@ -152,7 +152,7 @@
     ],
     "stem": "<p>O poema “Chuteira emprestada” (Texto 2) emprega linguagem figurada para falar da conquista de um espaço no esporte.</p><p>Assinale a alternativa que relaciona corretamente o trecho à figura de linguagem presente nele:</p>",
     "options": {
-      "A": "“Mas o chão da quadra não pergunta / quem é que chega com o pé descalço” (versos 5 e 6) – personificação",
+      "A": "“Mas o chão da quadra não pergunta” (verso 5) – personificação",
       "B": "“que a bola tinha dono e endereço,” (verso 2) – paradoxo",
       "C": "“Quem ria antes, agora pensa;” (verso 11) – onomatopeia",
       "D": "“o laço, a saia, o jeito, o começo.” (verso 4) – eufemismo"
@@ -165,7 +165,7 @@
       "pt.leitura.literario"
     ],
     "difficulty": 2,
-    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir ações ou características humanas a seres inanimados. Perguntar é uma ação humana, e nos versos 5 e 6 quem “não pergunta” é o <b>chão da quadra</b>. A imagem sugere que o esporte, em si, não faz distinção: o piso recebe qualquer pessoa, sem querer saber quem ela é.</p><p>Confira as outras figuras citadas:</p><ul><li>paradoxo: união de ideias que parecem se anular (“estar sozinho no meio da multidão”);</li><li>onomatopeia: palavra que imita um som (“tic-tac”);</li><li>eufemismo: suavização de uma ideia desagradável (“partiu” no lugar de “morreu”).</li></ul><p>Nenhuma delas aparece nos versos 2, 11 e 4.</p><p>Resposta: <b>A</b>.</p>",
+    "explanation": "<p><b>Personificação</b> (ou prosopopeia) é atribuir ações ou características humanas a seres inanimados. Perguntar é uma ação humana, e no verso 5 quem “não pergunta” é o <b>chão da quadra</b>. A imagem sugere que o esporte, em si, não faz distinção: o piso recebe qualquer pessoa, sem querer saber quem ela é.</p><p>Confira as outras figuras citadas:</p><ul><li>paradoxo: união de ideias que parecem se anular (“estar sozinho no meio da multidão”);</li><li>onomatopeia: palavra que imita um som (“tic-tac”);</li><li>eufemismo: suavização de uma ideia desagradável (“partiu” no lugar de “morreu”).</li></ul><p>Nenhuma delas aparece nos versos 2, 11 e 4.</p><p>Resposta: <b>A</b>.</p>",
     "distractors": {
       "B": "“Ter dono e endereço” não junta ideias contraditórias. É uma forma figurada de dizer que a bola (o futebol) seria propriedade de alguns, mas não há paradoxo.",
       "C": "Nenhuma palavra do verso imita um som. “Ria” e “pensa” são verbos comuns; o verso faz um contraste entre o passado e o presente.",
@@ -184,7 +184,7 @@
       "A": "reforçar que a exclusão vivida pelo eu lírico continua a mesma no presente.",
       "B": "indicar que o eu lírico apenas imagina uma situação que ainda não aconteceu.",
       "C": "mostrar que as ações descritas se repetem da mesma forma em todas as épocas.",
-      "D": "contrapor um passado de exclusão a um presente em que o eu lírico ocupa o espaço do jogo."
+      "D": "opor o passado de exclusão a um presente em que o eu lírico ocupa seu espaço."
     },
     "answer": "D",
     "annulled": false,

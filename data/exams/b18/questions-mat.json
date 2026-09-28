@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A pista de skate de uma praça tem uma rampa cujo perfil lateral é um triângulo retângulo. A base da rampa, no chão, mede 1,2 m, e a altura da parte mais alta é de 0,9 m, como mostra o esquema:</p><p><img src=\"img/b18/mat-q01.svg\" alt=\"Triângulo retângulo desenhado sobre uma linha de chão. O cateto horizontal, no chão, mede 1,2 m. O cateto vertical, à direita, mede 0,9 m, e há um sinal de ângulo reto entre eles. O lado inclinado, que liga a ponta esquerda da base ao topo do lado vertical, é a superfície da rampa e está marcado com a letra x.\"></p><p>O comprimento \\(x\\) da superfície inclinada da rampa é</p>",
+    "options": {
+      "A": "0,3 m.",
+      "B": "0,63 m.",
+      "C": "1,05 m.",
+      "D": "1,5 m."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A superfície inclinada é a hipotenusa do triângulo retângulo, e os catetos medem 1,2 m e 0,9 m. Pelo Teorema de Pitágoras:</p><p>\\[x^2 = 1{,}2^2 + 0{,}9^2 = 1{,}44 + 0{,}81 = 2{,}25\\]</p><p>\\[x = \\sqrt{2{,}25} = 1{,}5 \\text{ m}\\]</p><p>Repare que 0,9, 1,2 e 1,5 são proporcionais a 3, 4 e 5. Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Subtraiu as medidas dos catetos (\\(1{,}2 - 0{,}9\\)). Pitágoras relaciona os quadrados dos lados, não os lados.",
+      "B": "Subtraiu os quadrados (\\(1{,}44 - 0{,}81 = 0{,}63\\)) e ainda esqueceu a raiz. A hipotenusa é o maior lado, então os quadrados dos catetos se somam.",
+      "C": "Fez a média dos catetos. A hipotenusa é sempre maior que cada cateto, então precisa passar de 1,2 m."
+    },
+    "tip": "Lado oposto ao ângulo reto é a hipotenusa: some os quadrados dos catetos e tire a raiz."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para conferir se o canto de uma parede em construção forma um ângulo reto, um pedreiro usa o seguinte método: a partir do canto, ele marca 60 cm ao longo da base de uma das paredes e 80 cm ao longo da base da outra. Depois, mede a distância, em linha reta, entre as duas marcas.</p><p>Para que o canto forme exatamente um ângulo reto, essa distância deve ser de</p>",
+    "options": {
+      "A": "70 cm.",
+      "B": "100 cm.",
+      "C": "140 cm.",
+      "D": "10.000 cm."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Se o canto for reto, as duas marcas e o canto formam um triângulo retângulo com catetos de 60 cm e 80 cm. A distância entre as marcas é a hipotenusa \\(d\\):</p><p>\\[d^2 = 60^2 + 80^2 = 3.600 + 6.400 = 10.000\\]</p><p>\\[d = \\sqrt{10.000} = 100 \\text{ cm}\\]</p><p>Se a distância medida for diferente de 100 cm, o canto não está no esquadro. Esse truque usa o triângulo de lados 3, 4 e 5 (aqui, multiplicados por 20). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Fez a média de 60 e 80. A distância entre as marcas é a hipotenusa, maior que os dois catetos.",
+      "C": "Somou 60 e 80. Isso seria o caminho passando pelo canto; a distância em linha reta é menor.",
+      "D": "Encontrou \\(d^2 = 10.000\\), mas esqueceu de extrair a raiz quadrada."
+    },
+    "tip": "Os números 3, 4 e 5 (ou seus múltiplos) garantem um ângulo reto: é o esquadro do pedreiro."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O fundo de uma gaveta de cozinha é um retângulo com 40 cm de largura. Uma espátula reta de 50 cm, colocada deitada no fundo, cabe exatamente na diagonal desse retângulo, com as pontas encostando em dois cantos opostos.</p><p>A outra dimensão do fundo da gaveta (a profundidade) mede</p>",
+    "options": {
+      "A": "30 cm.",
+      "B": "64 cm.",
+      "C": "90 cm.",
+      "D": "900 cm."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A diagonal do retângulo divide o fundo em dois triângulos retângulos. A espátula (50 cm) é a hipotenusa; a largura (40 cm) e a profundidade \\(p\\) são os catetos:</p><p>\\[p^2 + 40^2 = 50^2 \\Rightarrow p^2 = 2.500 - 1.600 = 900 \\Rightarrow p = 30 \\text{ cm}\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Somou os quadrados (\\(\\sqrt{2.500 + 1.600} \\approx 64\\)), tratando a espátula como cateto. Mas ela está na diagonal, que é a hipotenusa: um cateto não pode ser maior que a diagonal.",
+      "C": "Somou 50 e 40. A profundidade precisa ser menor que a diagonal de 50 cm.",
+      "D": "Chegou a \\(p^2 = 900\\) e esqueceu a raiz quadrada."
+    },
+    "tip": "Quando a hipotenusa é dada, o cateto que falta sai de uma subtração de quadrados."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>A vela de um pequeno barco tem a forma do triângulo retângulo MCR, com ângulo reto em C. O lado CM, preso ao mastro, mede 3 m, e o lado CR, preso à retranca (a haste horizontal), mede 4 m. Para reforçar a vela, foi feita uma costura reta CH, que vai do canto C até o lado MR, perpendicular a ele, como mostra a figura:</p><p><img src=\"img/b18/mat-q04.svg\" alt=\"Triângulo retângulo MCR com ângulo reto no vértice C, embaixo à esquerda. O lado vertical CM, sobre o mastro, mede 3 m. O lado horizontal CR, sobre a retranca, mede 4 m. O lado inclinado MR liga o topo do mastro à ponta da retranca. Uma linha tracejada chamada costura vai de C até o ponto H, sobre o lado MR, formando ângulo reto com MR.\"></p><p>O comprimento da costura CH é</p>",
+    "options": {
+      "A": "2,4 m.",
+      "B": "2,5 m.",
+      "C": "3,5 m.",
+      "D": "6 m."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.triangulos"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Primeiro, a hipotenusa MR:</p><p>\\[MR^2 = 3^2 + 4^2 = 25 \\Rightarrow MR = 5 \\text{ m}\\]</p><p>CH é a altura relativa à hipotenusa. A área do triângulo pode ser calculada de dois jeitos:</p><ul><li>usando os catetos como base e altura: \\(\\dfrac{3 \\cdot 4}{2} = 6\\) m²;</li><li>usando a hipotenusa como base e CH como altura: \\(\\dfrac{5 \\cdot CH}{2}\\).</li></ul><p>Igualando: \\(\\dfrac{5 \\cdot CH}{2} = 6 \\Rightarrow 5 \\cdot CH = 12 \\Rightarrow CH = 2{,}4\\) m.</p><p>Essa é a relação métrica \\(a \\cdot h = b \\cdot c\\) (hipotenusa vezes altura igual ao produto dos catetos). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É a metade da hipotenusa (5 ÷ 2). Esse valor é a distância de C até o ponto médio de MR, que não é o pé da perpendicular.",
+      "C": "Fez a média dos catetos. A altura relativa à hipotenusa é menor que os dois catetos.",
+      "D": "É a área do triângulo (6 m²), e não uma medida de comprimento. A área serve para achar a altura: \\(CH = \\dfrac{2 \\cdot 6}{5}\\)."
+    },
+    "tip": "Altura relativa à hipotenusa: h = (cateto × cateto) ÷ hipotenusa."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Duas ruas retas e perpendiculares, a Rua 1 e a Rua 2, se encontram na esquina P. Uma avenida reta corta a Rua 1 no ponto A e a Rua 2 no ponto B. Um caminho de pedestres liga a esquina P ao ponto H da avenida, perpendicular a ela. Sabe-se que AH = 90 m e HB = 160 m, como mostra a figura:</p><p><img src=\"img/b18/mat-q05.svg\" alt=\"Esquema visto de cima. No alto, uma avenida horizontal com os pontos A, H e B, da esquerda para a direita. O trecho AH mede 90 m e o trecho HB mede 160 m. Abaixo, o ponto P, esquina onde a Rua 1 (que liga P a A) e a Rua 2 (que liga P a B) se encontram formando ângulo reto. Uma linha tracejada liga P a H e é perpendicular à avenida.\"></p><p>A distância entre a esquina P e o ponto A, pela Rua 1, é de</p>",
+    "options": {
+      "A": "90 m.",
+      "B": "120 m.",
+      "C": "125 m.",
+      "D": "150 m."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.semelhanca"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>O triângulo APB é retângulo em P, a avenida AB é a hipotenusa e PH é a altura relativa a ela. Assim, AH = 90 m é a projeção do cateto PA sobre a hipotenusa.</p><p>A hipotenusa mede \\(AB = 90 + 160 = 250\\) m.</p><p>Pela relação métrica \\(b^2 = a \\cdot m\\) (cateto ao quadrado é igual à hipotenusa vezes a projeção desse cateto):</p><p>\\[PA^2 = AB \\cdot AH = 250 \\cdot 90 = 22.500 \\Rightarrow PA = 150 \\text{ m}\\]</p><p>Conferindo por outro caminho: \\(PH^2 = 90 \\cdot 160 = 14.400\\), então \\(PH = 120\\) m, e no triângulo PHA: \\(PA^2 = 90^2 + 120^2 = 8.100 + 14.400 = 22.500\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "90 m é a projeção AH, medida sobre a avenida. PA é o cateto, que é sempre maior que sua projeção.",
+      "B": "120 m é a medida do caminho PH (altura relativa à hipotenusa), e não da Rua 1 até A.",
+      "C": "É a metade da avenida (250 ÷ 2). Só daria isso se H fosse o ponto médio e o triângulo fosse isósceles, o que não acontece aqui."
+    },
+    "tip": "No triângulo retângulo, cada cateto ao quadrado é a hipotenusa vezes a projeção dele: b² = a·m."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um varal é feito com uma corda de 5,2 m, amarrada, bem esticada, no alto de dois postes verticais de mesma altura, que estão a 4,8 m um do outro. Quando uma sacola é pendurada exatamente no meio da corda, ela forma dois trechos retos e iguais, como mostra o esquema:</p><p><img src=\"img/b18/mat-q06.svg\" alt=\"Dois postes verticais de mesma altura, a 4,8 m um do outro. Do alto de cada poste sai um trecho reto de corda até o ponto do meio, onde está pendurada uma sacola. Uma linha tracejada horizontal liga os topos dos dois postes, e uma linha tracejada vertical, marcada d, vai do meio dessa linha horizontal até o ponto onde a sacola está pendurada.\"></p><p>A distância \\(d\\) entre o ponto em que a sacola está pendurada e a linha horizontal que passa pelos pontos de amarração é</p>",
+    "options": {
+      "A": "0,2 m.",
+      "B": "0,4 m.",
+      "C": "1 m.",
+      "D": "2 m."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A linha tracejada vertical divide a figura em dois triângulos retângulos iguais. Em cada um:</p><ul><li>a hipotenusa é metade da corda: \\(5{,}2 \\div 2 = 2{,}6\\) m;</li><li>um cateto é metade da distância entre os postes: \\(4{,}8 \\div 2 = 2{,}4\\) m;</li><li>o outro cateto é \\(d\\).</li></ul><p>\\[d^2 + 2{,}4^2 = 2{,}6^2 \\Rightarrow d^2 = 6{,}76 - 5{,}76 = 1 \\Rightarrow d = 1 \\text{ m}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou a metade da sobra de corda: \\((5{,}2 - 4{,}8) \\div 2\\). Diferença de comprimentos não dá a altura; é preciso usar Pitágoras.",
+      "B": "Subtraiu os comprimentos (\\(5{,}2 - 4{,}8\\)). Pitágoras trabalha com os quadrados dos lados.",
+      "D": "Usou a corda inteira e a distância inteira: \\(\\sqrt{5{,}2^2 - 4{,}8^2} = 2\\). Mas os triângulos retângulos são formados pelas metades, pois a sacola está no meio."
+    },
+    "tip": "Figura simétrica? Divida ao meio: cada metade costuma ser um triângulo retângulo."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma torcida mandou fazer uma bandeira retangular cujo comprimento e largura estão na razão de 4 para 3. Para deixar a bandeira firme, uma vareta reta foi presa ao longo de uma de suas diagonais, que mede 2,5 m.</p><p>A área dessa bandeira é de</p>",
+    "options": {
+      "A": "1,5 m².",
+      "B": "3 m².",
+      "C": "6,25 m².",
+      "D": "12 m²."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Como comprimento e largura estão na razão 4 para 3, podemos escrevê-las como \\(4k\\) e \\(3k\\). A diagonal é a hipotenusa do triângulo formado por esses dois lados:</p><p>\\[(4k)^2 + (3k)^2 = 2{,}5^2 \\Rightarrow 16k^2 + 9k^2 = 6{,}25 \\Rightarrow 25k^2 = 6{,}25 \\Rightarrow k^2 = 0{,}25 \\Rightarrow k = 0{,}5\\]</p><p>Comprimento: \\(4 \\cdot 0{,}5 = 2\\) m. Largura: \\(3 \\cdot 0{,}5 = 1{,}5\\) m.</p><p>Área: \\(2 \\cdot 1{,}5 = 3\\) m². Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu o produto por 2, como na área de um triângulo. A bandeira é um retângulo: área = comprimento × largura.",
+      "C": "Elevou a diagonal ao quadrado (\\(2{,}5^2\\)). Isso seria a área de um quadrado com lado igual à diagonal, e não a da bandeira.",
+      "D": "Usou 4 m e 3 m como medidas reais. A razão 4 para 3 só diz a proporção; as medidas reais saem da diagonal de 2,5 m."
+    },
+    "tip": "Razão a : b entre lados? Escreva ak e bk e use Pitágoras com a diagonal para achar k."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante uma tempestade, uma árvore de 8 m de altura, que estava em pé na vertical em um terreno plano, quebrou em um ponto do tronco. A parte de cima não se soltou totalmente: ficou presa ao ponto da quebra, e sua ponta tocou o chão a 4 m da base da árvore, como mostra o esquema:</p><p><img src=\"img/b18/mat-q08.svg\" alt=\"Esquema: sobre uma linha de chão, a parte de baixo do tronco fica vertical, com altura marcada x, desde a base até o ponto da quebra. Do ponto da quebra, a parte de cima da árvore desce inclinada, em linha reta, até tocar o chão. A distância no chão entre a base da árvore e a ponta que tocou o chão é de 4 m. Há um sinal de ângulo reto entre o tronco e o chão.\"></p><p>A altura \\(x\\) do ponto em que o tronco quebrou é</p>",
+    "options": {
+      "A": "3 m.",
+      "B": "4 m.",
+      "C": "5 m.",
+      "D": "6,9 m, aproximadamente."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>A parte que ficou em pé mede \\(x\\). Como a árvore tinha 8 m, a parte tombada mede \\(8 - x\\). Ela é a hipotenusa do triângulo retângulo cujos catetos são \\(x\\) e 4 m:</p><p>\\[x^2 + 4^2 = (8 - x)^2\\]</p><p>Desenvolvendo o quadrado: \\((8 - x)^2 = 64 - 16x + x^2\\). Então</p><p>\\[x^2 + 16 = 64 - 16x + x^2 \\Rightarrow 16x = 48 \\Rightarrow x = 3 \\text{ m}\\]</p><p>Conferindo: a parte tombada mede \\(8 - 3 = 5\\) m, e \\(3^2 + 4^2 = 25 = 5^2\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "4 m é a distância no chão entre a base e a ponta. A altura da quebra é outra medida, que precisa ser calculada.",
+      "C": "5 m é o comprimento da parte tombada (a hipotenusa), e não a altura da quebra.",
+      "D": "Tratou os 8 m como hipotenusa: \\(\\sqrt{8^2 - 4^2} = \\sqrt{48} \\approx 6{,}9\\). Mas a parte inclinada não mede 8 m; ela mede \\(8 - x\\), porque o tronco em pé também faz parte dos 8 m."
+    },
+    "tip": "Quando dois lados dependem da mesma incógnita, escreva-os em função dela antes de aplicar Pitágoras."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma loja de instrumentos musicais embala seus produtos em caixas com a forma de um paralelepípedo retângulo cujas medidas internas são 12 cm, 16 cm e 21 cm. Uma baqueta reta e fina deve ser guardada inteira dentro de uma dessas caixas, que depois será fechada.</p><p>O maior comprimento que essa baqueta pode ter é</p>",
+    "options": {
+      "A": "20 cm.",
+      "B": "21 cm.",
+      "C": "29 cm.",
+      "D": "49 cm."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.med.volume"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O maior segmento que cabe dentro da caixa é a diagonal que liga um canto do fundo ao canto oposto da tampa. Ela sai de dois Pitágoras seguidos.</p><p><b>1º)</b> Diagonal do fundo (retângulo de 12 cm por 16 cm):</p><p>\\[d^2 = 12^2 + 16^2 = 144 + 256 = 400 \\Rightarrow d = 20 \\text{ cm}\\]</p><p><b>2º)</b> A diagonal do fundo e a altura de 21 cm são catetos de um triângulo retângulo em pé dentro da caixa. A diagonal da caixa \\(D\\) é a hipotenusa:</p><p>\\[D^2 = 20^2 + 21^2 = 400 + 441 = 841 \\Rightarrow D = 29 \\text{ cm}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É só a diagonal do fundo da caixa. Inclinando a baqueta para cima, até o canto oposto da tampa, cabe um comprimento maior.",
+      "B": "É a maior aresta da caixa. As diagonais são maiores que as arestas.",
+      "D": "Somou as três medidas (12 + 16 + 21). Nenhum segmento reto dentro da caixa é tão longo: a maior distância é a diagonal da caixa."
+    },
+    "tip": "Diagonal de uma caixa: D² = a² + b² + c² (Pitágoras usado duas vezes)."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O portão de entrada de um sítio tem a forma de um arco de semicircunferência apoiado no chão, com 2,5 m de raio. Uma van, que tem 3 m de largura e forma de caixa retangular, precisa passar pelo portão exatamente pelo meio, como mostra o esquema, em que a van aparece de frente:</p><p><img src=\"img/b18/mat-q10.svg\" alt=\"Esquema de frente. Sobre a linha do chão há um arco em forma de semicircunferência, que começa e termina no chão. Dentro dele, centralizado, um retângulo representa a van vista de frente, com 3 m de largura e altura marcada h. Os dois cantos de cima do retângulo tocam o arco.\"></p><p>A maior altura \\(h\\) que a van pode ter para conseguir passar pelo portão é</p>",
+    "options": {
+      "A": "1,5 m.",
+      "B": "2 m.",
+      "C": "2,5 m.",
+      "D": "2,9 m, aproximadamente."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.geo.pitagoras",
+      "mat.geo.circunferencia"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Seja O o centro da semicircunferência, no chão, bem no meio do portão. Como a van passa pelo meio, cada canto de cima da van fica a \\(3 \\div 2 = 1{,}5\\) m do meio, na horizontal.</p><p>O canto de cima da van que toca o arco está a 2,5 m de O, porque todo ponto do arco está a um raio do centro. Temos então um triângulo retângulo com:</p><ul><li>hipotenusa: o raio, 2,5 m (de O até o canto);</li><li>cateto horizontal: 1,5 m;</li><li>cateto vertical: a altura \\(h\\).</li></ul><p>\\[h^2 + 1{,}5^2 = 2{,}5^2 \\Rightarrow h^2 = 6{,}25 - 2{,}25 = 4 \\Rightarrow h = 2 \\text{ m}\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É a metade da largura da van, que é um dos catetos, e não a altura.",
+      "C": "2,5 m é a altura do arco apenas no ponto do meio. Nas laterais da van, afastadas 1,5 m do meio, o arco já é mais baixo.",
+      "D": "Somou os quadrados: \\(\\sqrt{2{,}5^2 + 1{,}5^2} \\approx 2{,}9\\). Esse valor passa até da altura máxima do portão (2,5 m); o raio é a hipotenusa, então os quadrados se subtraem."
+    },
+    "tip": "Em arcos e círculos, ligue o centro ao ponto que interessa: esse segmento é um raio e costuma ser a hipotenusa."
+  }
+]

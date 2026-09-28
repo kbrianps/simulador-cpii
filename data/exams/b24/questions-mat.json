@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O carro de Rogério percorre, em média, 12 km com 1 litro de gasolina. Ele vai fazer uma viagem de 300 km, e o litro da gasolina custa R$ 6,20.</p><p>Mantida essa média, o gasto de Rogério com gasolina nessa viagem será de</p>",
+    "options": {
+      "A": "R$ 155,00.",
+      "B": "R$ 25,00.",
+      "C": "R$ 1.860,00.",
+      "D": "R$ 74,40."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.operacoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A distância percorrida é diretamente proporcional aos litros gastos:</p><p>\\[\\frac{12 \\text{ km}}{1 \\text{ L}} = \\frac{300 \\text{ km}}{x} \\quad\\Rightarrow\\quad x = \\frac{300}{12} = 25 \\text{ litros}\\]</p><p>O gasto também é proporcional aos litros:</p><p>\\[25 \\cdot 6{,}20 = 155\\]</p><p>O gasto será de R$ 155,00. Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Parou no número de litros (25) e o leu como se fosse o valor em reais.",
+      "C": "Multiplicou a distância pelo preço do litro (\\(300 \\cdot 6{,}20\\)), como se cada quilômetro gastasse 1 litro.",
+      "D": "Multiplicou o rendimento pelo preço (\\(12 \\cdot 6{,}20\\)), que não representa nada na viagem."
+    },
+    "tip": "Faça em duas etapas: primeiro a regra de três para os litros, depois litros vezes preço."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Durante uma tempestade, Caio viu um relâmpago e contou 6 segundos até ouvir o trovão. A luz do relâmpago chega praticamente no mesmo instante, e o som percorre cerca de 340 metros a cada segundo.</p><p>A distância aproximada entre Caio e o local onde caiu o raio era de</p>",
+    "options": {
+      "A": "56,7 m.",
+      "B": "2,04 km.",
+      "C": "20,4 km.",
+      "D": "204 m."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A distância percorrida pelo som é diretamente proporcional ao tempo: em 1 s, 340 m; em 6 s,</p><p>\\[6 \\cdot 340 = 2040 \\text{ m}\\]</p><p>Como 1 km = 1.000 m, temos 2.040 m = 2,04 km. Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Dividiu 340 por 6. Com mais tempo, o som vai mais longe, então é preciso multiplicar.",
+      "C": "Errou a conversão: 2.040 m são 2,04 km (divide-se por 1.000), e não 20,4 km.",
+      "D": "Errou a conversão para metros: \\(6 \\cdot 340 = 2040\\), e não 204."
+    },
+    "tip": "Grandezas diretamente proporcionais: dobrou uma, dobra a outra. Confira sempre a unidade pedida nas alternativas."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Nos treinos da semana, Bia acertou 18 dos 24 lances livres que cobrou. No jogo do fim de semana, ela cobrou 40 lances livres e manteve exatamente a mesma razão entre acertos e lances cobrados.</p><p>No jogo, o número de lances livres que Bia <b>errou</b> foi</p>",
+    "options": {
+      "A": "30.",
+      "B": "6.",
+      "C": "10.",
+      "D": "34."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A razão de acertos no treino é</p><p>\\[\\frac{18}{24} = \\frac{3}{4}\\]</p><p>No jogo, ela acertou \\(\\frac{3}{4}\\) de 40, ou seja, \\(40 \\div 4 \\cdot 3 = 30\\) lances. Então errou</p><p>\\[40 - 30 = 10\\]</p><p>(Ou direto: ela erra \\(\\frac{6}{24} = \\frac{1}{4}\\) dos lances, e \\(\\frac{1}{4}\\) de 40 é 10.) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o número de acertos. A pergunta pede os erros.",
+      "B": "É o número de erros do treino. Com mais lances cobrados e a mesma razão, o número de erros também aumenta.",
+      "D": "Manteve o mesmo número de erros do treino (6) e calculou \\(40 - 6\\). O que se mantém é a razão, não a quantidade."
+    },
+    "tip": "Simplifique a razão (18/24 = 3/4) antes de aplicar ao novo total, e releia se a pergunta quer os acertos ou os erros."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um abrigo de animais, a razão entre o número de cães e o número de gatos é de 4 para 3. Sabe-se que há 8 cães a mais do que gatos.</p><p>O número total de cães e gatos desse abrigo é</p>",
+    "options": {
+      "A": "32.",
+      "B": "24.",
+      "C": "15.",
+      "D": "56."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.alg.eq1"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Razão 4 para 3 significa que, para cada 4 partes de cães, há 3 partes iguais de gatos: cães \\(= 4k\\) e gatos \\(= 3k\\).</p><p>A diferença é de 1 parte, e ela vale 8:</p><p>\\[4k - 3k = 8 \\quad\\Rightarrow\\quad k = 8\\]</p><p>Cães: \\(4 \\cdot 8 = 32\\). Gatos: \\(3 \\cdot 8 = 24\\). Total: \\(32 + 24 = 56\\), ou seja, \\(7k = 56\\).</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "É só o número de cães. A pergunta pede o total de animais.",
+      "B": "É só o número de gatos. Faltou somar os cães.",
+      "C": "Somou os números da razão com a diferença (\\(4 + 3 + 8\\)). A razão diz quantas partes cada grupo tem, não quantos animais."
+    },
+    "tip": "Com razão \\(a : b\\), escreva as quantidades como \\(ak\\) e \\(bk\\) e use a informação extra (soma ou diferença) para achar \\(k\\)."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na bicicleta de Nina, a engrenagem dos pedais tem 48 dentes e a engrenagem presa à roda traseira tem 16 dentes; as duas são ligadas pela corrente. Quando os pedais dão uma volta completa, a corrente avança 48 dentes, e a engrenagem da roda traseira gira o mesmo número de dentes.</p><p>A cada volta completa, a roda traseira avança 2 m no chão. Para percorrer 1,2 km sem deixar de pedalar, Nina precisa dar</p>",
+    "options": {
+      "A": "600 voltas nos pedais.",
+      "B": "1.800 voltas nos pedais.",
+      "C": "200 voltas nos pedais.",
+      "D": "400 voltas nos pedais."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Quando os pedais dão 1 volta, a corrente avança 48 dentes. A engrenagem da roda tem 16 dentes, então ela dá</p><p>\\[48 \\div 16 = 3 \\text{ voltas}\\]</p><p>O número de voltas de cada engrenagem é <b>inversamente</b> proporcional ao seu número de dentes: a engrenagem menor gira mais.</p><p>Em 1,2 km = 1.200 m, a roda dá \\(1200 \\div 2 = 600\\) voltas. Como a roda dá 3 voltas para cada volta dos pedais:</p><p>\\[600 \\div 3 = 200 \\text{ voltas nos pedais}\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É o número de voltas da roda. Cada volta dos pedais produz 3 voltas da roda, então os pedais giram menos.",
+      "B": "Multiplicou as 600 voltas da roda por 3, invertendo a relação: é a roda que gira 3 vezes mais que os pedais, e não o contrário.",
+      "D": "Não usou os 2 m de cada volta da roda: fez \\(1200 \\div 3\\), como se cada volta da roda avançasse só 1 m."
+    },
+    "tip": "Em engrenagens ligadas, voltas vezes dentes é constante: menos dentes, mais voltas."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um grupo de amigos ia repartir igualmente, entre 6 jogadores, um pacote de 480 cartas de um jogo, de modo que cada um receberia 80 cartas. Antes da distribuição, chegaram mais alguns amigos para jogar, e as mesmas 480 cartas foram repartidas igualmente entre todos. Com isso, cada jogador recebeu 48 cartas.</p><p>O número de amigos que chegaram depois foi</p>",
+    "options": {
+      "A": "10.",
+      "B": "4.",
+      "C": "32.",
+      "D": "16."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Com o total de cartas fixo, o número de jogadores e o número de cartas por jogador são grandezas <b>inversamente</b> proporcionais: o produto das duas é sempre 480.</p><p>\\[6 \\cdot 80 = n \\cdot 48 \\quad\\Rightarrow\\quad n = \\frac{480}{48} = 10 \\text{ jogadores}\\]</p><p>Eram 6 e passaram a ser 10, então chegaram \\(10 - 6 = 4\\) amigos.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "É o número total de jogadores depois da chegada. A pergunta é quantos chegaram.",
+      "C": "Calculou a diferença de cartas por jogador (\\(80 - 48\\)), que não é o número de pessoas.",
+      "D": "Somou os 6 jogadores iniciais ao total de 10, contando os primeiros jogadores duas vezes."
+    },
+    "tip": "Total fixo repartido igualmente: mais pessoas, menos para cada uma. Multiplique (pessoas vezes parte = total) em vez de montar a regra de três direta."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>O relógio da torre de uma praça atrasa 4 minutos a cada 6 horas, sempre no mesmo ritmo. Ele foi acertado exatamente ao meio-dia de uma segunda-feira.</p><p>Ao meio-dia (horário correto) da quarta-feira dessa mesma semana, o relógio da torre estará marcando</p>",
+    "options": {
+      "A": "11h28.",
+      "B": "12h32.",
+      "C": "11h44.",
+      "D": "11h12."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Do meio-dia de segunda ao meio-dia de quarta passam 2 dias, isto é, \\(2 \\cdot 24 = 48\\) horas.</p><p>O atraso é diretamente proporcional ao tempo decorrido:</p><p>\\[\\frac{4 \\text{ min}}{6 \\text{ h}} = \\frac{x}{48 \\text{ h}} \\quad\\Rightarrow\\quad x = 4 \\cdot \\frac{48}{6} = 4 \\cdot 8 = 32 \\text{ min}\\]</p><p>Um relógio atrasado marca <b>menos</b> que o horário certo: 12h00 menos 32 min = 11h28.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Acertou o atraso de 32 minutos, mas somou em vez de subtrair. Um relógio que atrasa marca uma hora anterior à correta.",
+      "C": "Contou só 24 horas (\\(4 \\cdot 4 = 16\\) min de atraso). De segunda ao meio-dia até quarta ao meio-dia são 48 horas.",
+      "D": "Contou 3 dias (segunda, terça e quarta), ou seja, 72 horas, o que daria 48 minutos de atraso (11h12). Do meio-dia de segunda ao de quarta são só 2 dias."
+    },
+    "tip": "Conte com cuidado o intervalo de tempo (de meio-dia a meio-dia são 24 h por dia) e pense no sentido: atrasar é marcar menos."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em uma gincana escolar, um prêmio de R$ 1.170,00 será dividido entre as três equipes finalistas em partes <b>inversamente</b> proporcionais aos tempos que elas levaram para completar a prova final:</p><table><thead><tr><th>Equipe</th><th>Tempo na prova final</th></tr></thead><tbody><tr><td>Azul</td><td>2 minutos</td></tr><tr><td>Verde</td><td>3 minutos</td></tr><tr><td>Amarela</td><td>4 minutos</td></tr></tbody></table><p>A equipe Azul receberá</p>",
+    "options": {
+      "A": "R$ 270,00.",
+      "B": "R$ 520,00.",
+      "C": "R$ 540,00.",
+      "D": "R$ 260,00."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Partes inversamente proporcionais a 2, 3 e 4 são diretamente proporcionais a \\(\\frac{1}{2}\\), \\(\\frac{1}{3}\\) e \\(\\frac{1}{4}\\). Assim, as partes são \\(\\frac{k}{2}\\), \\(\\frac{k}{3}\\) e \\(\\frac{k}{4}\\):</p><p>\\[\\frac{k}{2} + \\frac{k}{3} + \\frac{k}{4} = 1170 \\quad\\Rightarrow\\quad \\frac{6k + 4k + 3k}{12} = 1170 \\quad\\Rightarrow\\quad \\frac{13k}{12} = 1170\\]</p><p>\\[k = \\frac{1170 \\cdot 12}{13} = 90 \\cdot 12 = 1080\\]</p><p>Azul: \\(\\frac{1080}{2} = 540\\); Verde: \\(\\frac{1080}{3} = 360\\); Amarela: \\(\\frac{1080}{4} = 270\\). Conferindo: \\(540 + 360 + 270 = 1170\\).</p><p>A equipe Azul, a mais rápida, recebe R$ 540,00. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "É a parte da equipe Amarela, a mais lenta. Na divisão inversa, quem gastou menos tempo recebe mais.",
+      "B": "Dividiu em partes diretamente proporcionais (\\(\\frac{4}{9}\\) de 1.170 = 520) e deu à Azul a maior parte, misturando os dois tipos de divisão.",
+      "D": "Dividiu em partes diretamente proporcionais aos tempos: \\(\\frac{2}{9}\\) de 1.170 = 260. Assim a equipe mais rápida seria punida, e não premiada."
+    },
+    "tip": "Inversamente proporcional a 2, 3 e 4 é o mesmo que diretamente proporcional a 1/2, 1/3 e 1/4. Confira: a soma das partes tem de dar o total."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um grupo de 30 escoteiros levou para um acampamento comida suficiente para 20 dias, considerando que cada escoteiro come a mesma quantidade por dia. Depois de 5 dias de acampamento, chegaram mais 20 escoteiros, que passaram a dividir a comida restante com o grupo, no mesmo ritmo de consumo.</p><p>A partir da chegada dos novos escoteiros, a comida restante foi suficiente para</p>",
+    "options": {
+      "A": "9 dias.",
+      "B": "12 dias.",
+      "C": "15 dias.",
+      "D": "25 dias."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Depois de 5 dias, a comida que sobrou daria para os mesmos 30 escoteiros por mais \\(20 - 5 = 15\\) dias.</p><p>Com o total de comida fixo, o número de pessoas e o número de dias são <b>inversamente</b> proporcionais. Agora são \\(30 + 20 = 50\\) escoteiros:</p><p>\\[30 \\cdot 15 = 50 \\cdot x \\quad\\Rightarrow\\quad x = \\frac{450}{50} = 9 \\text{ dias}\\]</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Não descontou os 5 dias já consumidos: fez \\(\\frac{30 \\cdot 20}{50} = 12\\), como se os 50 escoteiros estivessem lá desde o início.",
+      "C": "Descontou os 5 dias, mas esqueceu os escoteiros que chegaram: 15 dias só valeria para os 30 do início.",
+      "D": "Montou a regra de três como direta (\\(\\frac{15 \\cdot 50}{30} = 25\\)). Mais gente comendo faz a comida durar menos, não mais."
+    },
+    "tip": "Primeiro veja quanto sobrou (em \"dias para o grupo antigo\"); depois use a proporção inversa: pessoas vezes dias é constante."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Uma jarra contém 4 litros de refresco, preparado com xarope concentrado e água na razão de 1 para 3 (1 parte de xarope para cada 3 partes de água). Achando o refresco fraco, Rita decidiu acrescentar apenas xarope à jarra, sem colocar mais água, até que a razão entre xarope e água passasse a ser de 1 para 2.</p><p>A quantidade de xarope que Rita precisa acrescentar é</p>",
+    "options": {
+      "A": "1 litro.",
+      "B": "cerca de 333 mL.",
+      "C": "1,5 litro.",
+      "D": "500 mL."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.proporcao",
+      "mat.num.unidades"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Na razão 1 para 3, os 4 litros estão divididos em \\(1 + 3 = 4\\) partes de 1 litro: há 1 L de xarope e 3 L de água.</p><p>A água não muda (3 L). Para a razão ficar 1 para 2, o xarope deve ser metade da água:</p><p>\\[\\frac{\\text{xarope}}{3} = \\frac{1}{2} \\quad\\Rightarrow\\quad \\text{xarope} = 1{,}5 \\text{ L}\\]</p><p>Como já há 1 L, é preciso acrescentar \\(1{,}5 - 1 = 0{,}5\\) L, ou seja, 500 mL.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Achou que, para passar de 1 : 3 para 1 : 2, bastava dobrar o xarope. Com 2 L de xarope e 3 L de água, a razão seria 2 : 3, mais forte que 1 : 2.",
+      "B": "Aplicou a razão nova ao volume antigo de 4 L (\\(\\frac{1}{3}\\) de 4 L \\(\\approx 1{,}333\\) L de xarope) e subtraiu 1 L. Mas o volume total muda quando se acrescenta xarope; o que fica fixo é a água.",
+      "C": "É a quantidade total de xarope que a jarra deve ter no final. Faltou subtrair o 1 L que já estava lá."
+    },
+    "tip": "Quando só um ingrediente é acrescentado, fixe a quantidade do outro (aqui, a água) e aplique a nova razão a ele."
+  }
+]

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 330" width="440" height="330" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="440" height="330" fill="#ffffff"/>
+  <path d="M 107.8 230 A 125 125 0 1 1 332.2 230 Z" fill="#eef1f4" stroke="#333" stroke-width="3"/>
+  <path d="M 107.8 230 A 125 125 0 0 0 332.2 230" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="79.8" y1="230" x2="360.2" y2="230" stroke="#8a5a2b" stroke-width="5"/>
+  <line x1="107.8" y1="240" x2="332.2" y2="240" stroke="#333" stroke-width="1.2"/>
+  <line x1="107.8" y1="234" x2="107.8" y2="246" stroke="#333" stroke-width="1.2"/>
+  <line x1="332.2" y1="234" x2="332.2" y2="246" stroke="#333" stroke-width="1.2"/>
+  <text x="220" y="260" text-anchor="middle" font-size="15">8 m</text>
+  <text x="366.2" y="222" text-anchor="middle" font-size="14" fill="#8a5a2b">piso</text>
+  <line x1="220" y1="230" x2="220" y2="50" stroke="#c0392b" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="234.0" y="145.0" text-anchor="middle" fill="#c0392b" font-style="italic" font-weight="bold">h</text>
+  <circle cx="220" cy="175" r="4" fill="#333"/>
+  <text x="204.0" y="180" text-anchor="middle" font-weight="bold">O</text>
+</svg>

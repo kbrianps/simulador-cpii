@@ -1,0 +1,265 @@
+[
+  {
+    "n": 1,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma crônica:</p><blockquote><p>“Às seis da manhã, a chaleira começou a assobiar, impaciente, e a cozinha inteira acordou antes de nós.”</p></blockquote><p>No trecho, o principal recurso expressivo empregado é a</p>",
+    "options": {
+      "A": "antítese, pois o texto opõe o silêncio das pessoas que dormem ao barulho da chaleira.",
+      "B": "hipérbole, pois o texto exagera o volume do som produzido pela chaleira ao ferver.",
+      "C": "personificação, pois o texto atribui à chaleira e à cozinha atitudes humanas.",
+      "D": "eufemismo, pois o texto suaviza, com humor, o incômodo de ter de acordar tão cedo."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Observe o que o trecho diz sobre os objetos. A chaleira está “impaciente”, que é um sentimento humano, e a cozinha “acordou”, que é uma ação de seres vivos. Uma cozinha não dorme nem acorda; o cronista dá vida aos objetos e ao ambiente.</p><p>Quando o texto atribui características humanas a seres inanimados, temos a <b>personificação</b> (ou prosopopeia). O efeito é tornar a cena mais viva: parece que a casa despertou sozinha, antes dos moradores.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "A antítese aproxima palavras de sentidos opostos (como “sono” e “vigília”). O trecho não apresenta dois termos contrários lado a lado.",
+      "B": "Chaleiras realmente apitam, e o texto não diz que o som foi enorme ou impossível. Não há exagero intencional, e sim objetos que ganham atitudes humanas.",
+      "D": "O eufemismo troca uma expressão dura por outra mais suave. O trecho não suaviza nada; ele dá vida à chaleira e à cozinha."
+    },
+    "tip": "Objeto com sentimento ou ação de gente (“impaciente”, “acordou”) é personificação."
+  },
+  {
+    "n": 2,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho:</p><blockquote><p>“Na véspera da prova de Matemática, Lucas <b><u>virou a noite</u></b> resolvendo exercícios e chegou à escola com os olhos pesados de sono.”</p></blockquote><p>No contexto, a expressão destacada significa que Lucas</p>",
+    "options": {
+      "A": "passou a noite inteira acordado.",
+      "B": "mudou de ideia durante a noite.",
+      "C": "dormiu mais cedo que o habitual.",
+      "D": "estudou apenas no começo da noite."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>“Virar a noite” é uma expressão de sentido figurado (conotativo): não se trata de virar alguma coisa de lado. Ela significa atravessar a noite toda sem dormir, geralmente fazendo alguma atividade.</p><p>O próprio trecho confirma esse sentido: Lucas chegou à escola “com os olhos pesados de sono”, consequência de não ter dormido.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Confunde com expressões como “virar a casaca” ou “dar uma virada”, que falam de mudança de opinião. Nada no trecho indica que Lucas mudou de ideia.",
+      "C": "É o oposto do que o trecho sugere: quem dormiu cedo não chegaria “com os olhos pesados de sono”.",
+      "D": "“Virar a noite” indica a noite inteira, e não apenas o começo dela. O sono no dia seguinte reforça que ele passou a noite acordado."
+    },
+    "tip": "Expressões idiomáticas não se entendem palavra por palavra: use as pistas do trecho (aqui, o sono no dia seguinte)."
+  },
+  {
+    "n": 3,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho:</p><blockquote><p>“<b><u>Embora</u></b> a chuva não tivesse parado, o ônibus da excursão ao museu saiu no horário marcado.”</p></blockquote><p>A conjunção destacada pode ser substituída, sem alteração do sentido original do trecho, por</p>",
+    "options": {
+      "A": "Porque.",
+      "B": "Ainda que.",
+      "C": "Desde que.",
+      "D": "Assim que."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>A conjunção “embora” introduz um fato que poderia impedir a ação principal, mas não impede. A chuva seria um motivo para adiar a excursão, e mesmo assim o ônibus saiu no horário. Essa relação se chama <b>concessão</b>.</p><p>Entre as opções, a única locução concessiva é “ainda que”, que, como “embora”, pede o verbo no subjuntivo: “Ainda que a chuva não tivesse parado, o ônibus [...] saiu no horário marcado.”</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "“Porque” indica causa. Com ele, a frase diria que o ônibus saiu no horário por causa da chuva, o que não faz sentido.",
+      "C": "“Desde que”, aqui, indicaria condição: o ônibus sairia só se a chuva não parasse. O trecho não impõe condição; relata um fato que aconteceu apesar da chuva.",
+      "D": "“Assim que” indica tempo (imediatamente depois). O sentido de oposição entre a chuva e a saída do ônibus se perderia."
+    },
+    "tip": "Concessão = “apesar de”. Embora, ainda que, mesmo que e se bem que são substitutos seguros."
+  },
+  {
+    "n": 4,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma notícia de jornal de bairro:</p><blockquote><p>“Às sete da manhã, dezenas de voluntários espalharam-se pela areia da praia com luvas e sacos de lixo. Ao meio-dia, <b><u>o mutirão</u></b> já havia recolhido quase duzentos quilos de plástico.”</p></blockquote><p>No trecho, a expressão destacada contribui para a coesão do texto porque retoma, de forma resumida,</p>",
+    "options": {
+      "A": "os sacos de lixo levados pelos voluntários até a praia.",
+      "B": "a areia da praia onde a limpeza aconteceu.",
+      "C": "os quilos de plástico recolhidos ao longo da manhã.",
+      "D": "os voluntários reunidos para limpar a praia."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>“Mutirão” é a reunião de pessoas que trabalham juntas, sem cobrar, por um objetivo comum. A primeira frase descreve exatamente isso: dezenas de voluntários espalhados pela praia com luvas e sacos, limpando a areia.</p><p>Na segunda frase, em vez de repetir “os voluntários que limparam a praia”, o autor usa “o mutirão”, uma palavra que resume toda essa situação. É uma retomada por <b>substituição lexical</b>, que evita repetição e mantém a ligação entre as frases. Além disso, “o mutirão” é quem “havia recolhido” o plástico, ou seja, o grupo em ação.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Os sacos de lixo são instrumentos usados pelo grupo. Não faz sentido dizer que os sacos “recolheram” o plástico.",
+      "B": "A praia é o lugar da ação, e não quem a realiza. “O mutirão” é o sujeito que recolheu o lixo.",
+      "C": "O plástico é o que foi recolhido (o objeto da ação), e aparece depois da expressão. Não pode ser, ao mesmo tempo, quem recolhe e o que é recolhido."
+    },
+    "tip": "Para achar o que uma expressão retoma, teste a substituição: troque-a pelo candidato e veja se a frase continua fazendo sentido."
+  },
+  {
+    "n": 5,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma crônica:</p><blockquote><p>“Quando o garçom se aproximou com a conta, tio Álvaro lembrou-se de uma ligação urgente, saiu para a calçada com o celular no ouvido e só voltou à mesa quando todos já tinham dividido o valor. Era a terceira ligação urgente do ano, todas em restaurantes.”</p></blockquote><p>Pelo modo como o narrador relata a cena, pode-se inferir que</p>",
+    "options": {
+      "A": "a ligação urgente foi um pretexto usado pelo tio para não participar do pagamento da conta.",
+      "B": "o tio tinha um trabalho muito exigente, que o obrigava a atender ligações a qualquer hora.",
+      "C": "o garçom trouxe a conta errada, e o tio preferiu sair para não discutir com ele.",
+      "D": "a família pediu que o tio saísse da mesa para poder dividir a conta com tranquilidade."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Nenhuma frase diz com todas as letras que o tio fugiu da conta, mas as pistas levam a essa conclusão:</p><ul><li>a ligação “urgente” surge exatamente quando o garçom chega com a conta;</li><li>o tio só volta depois que os outros já dividiram o valor;</li><li>o narrador comenta que foi “a terceira ligação urgente do ano, todas em restaurantes”, o que mostra que a situação se repete sempre no mesmo momento.</li></ul><p>Essa coincidência repetida, contada com ironia, indica que a ligação é uma desculpa para não pagar.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "É uma leitura literal, que aceita a desculpa do tio. O comentário final do narrador (“todas em restaurantes”) mostra que ele não acredita na urgência das ligações.",
+      "C": "O trecho não menciona erro na conta nem discussão com o garçom. Todos dividiram o valor normalmente.",
+      "D": "Não há nenhum pedido da família. Foi o próprio tio que saiu, por iniciativa dele, na hora exata da conta."
+    },
+    "tip": "Inferir é juntar pistas: repare nas coincidências e nos comentários do narrador, que costumam revelar a ironia."
+  },
+  {
+    "n": 6,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de uma narração esportiva publicada em um blog:</p><blockquote><p>“Quando o camisa 9 partiu sozinho em direção ao gol, <b><u>o estádio inteiro</u></b> prendeu a respiração.”</p></blockquote><p>Na expressão destacada, ocorre a figura de linguagem chamada</p>",
+    "options": {
+      "A": "metáfora, pois o estádio é comparado, de forma implícita, a um ser que respira.",
+      "B": "metonímia, pois o lugar é usado para designar as pessoas que estão nele.",
+      "C": "antítese, pois há oposição entre o jogador sozinho e o estádio inteiro.",
+      "D": "eufemismo, pois a expressão suaviza o nervosismo da torcida."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.figuras"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Quem prende a respiração são os torcedores, e não a construção. O narrador usa o nome do lugar (“o estádio”) no lugar das pessoas que ocupam esse lugar.</p><p>Essa troca de um termo por outro com o qual ele mantém uma relação real e próxima (lugar pelos seus ocupantes, autor pela obra, marca pelo produto) é a <b>metonímia</b>. É o mesmo mecanismo de “a escola inteira aplaudiu” ou “o bairro saiu às ruas”.</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Na metáfora há uma comparação implícita baseada em semelhança. Aqui não se compara o estádio a nada: ele simplesmente substitui as pessoas que estão dentro dele, numa relação de proximidade (lugar e ocupantes).",
+      "C": "Jogador “sozinho” e estádio “inteiro” não são termos de sentidos opostos; eles descrevem elementos diferentes da cena. Não há antítese.",
+      "D": "O eufemismo serve para amenizar uma ideia desagradável. A expressão não suaviza o nervosismo; ao contrário, mostra toda a torcida tensa."
+    },
+    "tip": "Lugar no lugar das pessoas que estão nele (“o estádio vibrou”, “a escola votou”) é metonímia, não metáfora."
+  },
+  {
+    "n": 7,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho:</p><blockquote><p>“Depois que o síndico anunciou o aumento da taxa do condomínio, o clima da reunião ficou <b><u>pesado</u></b>.”</p></blockquote><p>A palavra “pesado” foi empregada com o mesmo sentido que tem no trecho acima em:</p>",
+    "options": {
+      "A": "A mochila de Júlia ficou pesada depois que ela guardou os livros novos de Geografia.",
+      "B": "Meu irmão tem sono pesado: nem o despertador consegue acordá-lo.",
+      "C": "Depois da discussão dos dois amigos, o silêncio na mesa ficou pesado.",
+      "D": "Carregar sacos de cimento o dia inteiro é um trabalho pesado."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.semantica.sentido"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>No trecho, “pesado” não fala de peso físico. Um “clima pesado” é um ambiente tenso, desconfortável, cheio de insatisfação, como acontece numa reunião depois de uma notícia ruim (o aumento da taxa).</p><p>Na alternativa C, o “silêncio pesado” depois de uma discussão tem esse mesmo sentido: um ambiente carregado, constrangedor, de tensão entre as pessoas.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Aqui “pesada” tem sentido literal (denotativo): a mochila tem mais massa por causa dos livros.",
+      "B": "“Sono pesado” significa sono profundo, difícil de interromper. É outro sentido figurado, que não se relaciona a tensão entre pessoas.",
+      "D": "“Trabalho pesado” é um trabalho cansativo, que exige muito esforço físico. Também não indica um ambiente tenso."
+    },
+    "tip": "Uma mesma palavra pode ter vários sentidos figurados: substitua por um sinônimo (“tenso”, “profundo”, “cansativo”) e compare."
+  },
+  {
+    "n": 8,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho:</p><blockquote><p>“<b><u>Como</u></b> a feira começou mais cedo no sábado, os melhores tomates acabaram antes das oito.”</p></blockquote><p>A palavra “como” apresenta o mesmo valor semântico que tem no trecho acima em:</p>",
+    "options": {
+      "A": "Ela corta a cebola em cubinhos, como a avó lhe ensinou.",
+      "B": "Como você conseguiu chegar tão rápido ao estádio?",
+      "C": "Como estava sem bateria, o celular não gravou o gol.",
+      "D": "No último minuto, o goleiro voou como um gato e salvou o time."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.conectivos"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>No trecho, “como” introduz a <b>causa</b> do fato principal: os tomates acabaram cedo porque a feira começou mais cedo. Podemos testar a troca: “<i>Porque</i> a feira começou mais cedo no sábado, os melhores tomates acabaram antes das oito.” O sentido se mantém.</p><p>Na alternativa C, acontece o mesmo: a falta de bateria é a causa de o celular não ter gravado o gol (“Porque estava sem bateria...”). Note que o “como” causal costuma aparecer no início do período, antes da oração principal.</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Aqui “como” indica conformidade: ela corta a cebola do modo que a avó ensinou, isto é, “conforme a avó ensinou”.",
+      "B": "Nessa pergunta, “como” é um advérbio interrogativo de modo: pergunta de que maneira a pessoa chegou rápido.",
+      "D": "“Como” estabelece uma comparação entre o goleiro e um gato (“voou como um gato voa”)."
+    },
+    "tip": "“Como” tem vários valores. Teste substituições: “porque” (causa), “conforme” (conformidade), “assim como” (comparação), “de que modo” (pergunta)."
+  },
+  {
+    "n": 9,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho:</p><blockquote><p>“Rodrigo e Felipe disputaram a final do torneio de xadrez da escola. <b><u>Este</u></b> venceu com uma jogada ousada; <b><u>aquele</u></b> ficou com a medalha de prata.”</p></blockquote><p>De acordo com o emprego dos pronomes destacados, conclui-se que</p>",
+    "options": {
+      "A": "Felipe venceu o torneio, e Rodrigo ficou em segundo lugar.",
+      "B": "Rodrigo venceu o torneio, e Felipe ficou em segundo lugar.",
+      "C": "os dois empataram, e cada um recebeu uma medalha diferente.",
+      "D": "não é possível saber quem venceu, pois os pronomes são ambíguos."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.coesao.referenciacao",
+      "pt.gramatica.classes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Quando dois termos são mencionados e depois retomados por “este” e “aquele”, a norma-padrão estabelece:</p><ul><li><b>este</b> retoma o termo mais próximo, isto é, o último mencionado: Felipe;</li><li><b>aquele</b> retoma o termo mais distante, isto é, o primeiro mencionado: Rodrigo.</li></ul><p>Assim, “Este venceu” se refere a Felipe, e “aquele ficou com a medalha de prata” se refere a Rodrigo.</p><p>Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Ligou os pronomes aos nomes na ordem em que aparecem (primeiro pronome com o primeiro nome). Mas “este” indica proximidade e retoma o nome mais próximo, Felipe.",
+      "C": "O trecho diz que um “venceu” e o outro “ficou com a medalha de prata”, ou seja, em segundo lugar. Não houve empate.",
+      "D": "O par “este/aquele” existe justamente para evitar a ambiguidade: a regra de proximidade permite saber a quem cada pronome se refere."
+    },
+    "tip": "Na retomada de dois termos: “este” = o mais perto (o último citado); “aquele” = o mais longe (o primeiro citado)."
+  },
+  {
+    "n": 10,
+    "subject": "portugues",
+    "texts": [],
+    "stem": "<p>Leia o trecho de um conto:</p><blockquote><p>“Como fazia todo domingo, vó Lurdes pôs seis pratos na mesa. Depois ficou um tempo parada, olhando para eles, e devolveu dois ao armário, devagar.”</p></blockquote><p>A partir das ações da personagem, pode-se inferir que</p>",
+    "options": {
+      "A": "vó Lurdes contou errado os pratos por distração e corrigiu o engano sem dar importância a ele.",
+      "B": "dois dos pratos estavam lascados, e vó Lurdes preferiu não usá-los com as visitas.",
+      "C": "vó Lurdes decidiu usar menos louça para ter menos trabalho depois do almoço.",
+      "D": "menos pessoas vêm hoje ao almoço de domingo, e a personagem sente essa ausência."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "pt.leitura.inferencia",
+      "pt.leitura.literario"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O texto não conta o que aconteceu, mas deixa pistas:</p><ul><li>“Como fazia todo domingo”: seis pratos eram o costume, ou seja, por muito tempo seis pessoas almoçaram ali;</li><li>ela “ficou um tempo parada, olhando para eles”: a personagem percebe algo e se detém nesse pensamento;</li><li>“devolveu dois ao armário, devagar”: a lentidão sugere um gesto triste, e não uma simples correção.</li></ul><p>Juntando as pistas, entende-se que duas pessoas deixaram de vir ao almoço (por mudança, briga ou morte, o texto não diz) e que o hábito repetido faz vó Lurdes sentir essa falta.</p><p>Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Se fosse só um engano de contagem, a correção seria rápida. O texto destaca a pausa (“ficou um tempo parada”) e a lentidão (“devagar”), que mostram emoção, não descuido.",
+      "B": "Nada no trecho fala do estado dos pratos. É uma explicação inventada, sem apoio no texto.",
+      "C": "Economizar trabalho não explicaria o costume de todo domingo nem a pausa pensativa da personagem. A inferência precisa dar conta de todas as pistas."
+    },
+    "tip": "Em textos literários, gestos (pausas, lentidão, hábitos) dizem o que o narrador não diz: a boa inferência explica todas as pistas juntas."
+  }
+]

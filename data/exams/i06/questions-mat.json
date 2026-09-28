@@ -167,7 +167,7 @@
       "A": "a média dos salários é R$ 6.500,00, e o anúncio está errado.",
       "B": "a mediana dos salários também é R$ 4.000,00, igual à média.",
       "C": "metade das pessoas da empresa ganha mais de R$ 4.000,00 por mês.",
-      "D": "a média é R$ 4.000,00, a mediana é R$ 2.500,00, e 8 das 10 pessoas ganham menos que a média."
+      "D": "a média é R$ 4.000,00, mas 8 das 10 pessoas ganham menos que a média."
     },
     "answer": "D",
     "annulled": false,

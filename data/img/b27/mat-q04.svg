@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 345" width="500" height="345" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="500" height="345" fill="#ffffff"/>
+  <line x1="20" y1="292" x2="460" y2="292" stroke="#333" stroke-width="3"/>
+  <line x1="46.5" y1="207.5" x2="448.7" y2="61.1" stroke="#333" stroke-width="3"/>
+  <line x1="60.0" y1="292" x2="102.9" y2="187.0" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="130.0" y1="292" x2="185.1" y2="157.1" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="214.0" y1="292" x2="283.8" y2="121.2" stroke="#8a5a2b" stroke-width="2.5"/>
+  <line x1="340.0" y1="292" x2="431.8" y2="67.3" stroke="#8a5a2b" stroke-width="2.5"/>
+  <text x="95.0" y="314" text-anchor="middle" font-size="15">20 m</text>
+  <text x="119.5" y="242.0" text-anchor="middle" font-size="15" fill="#1f4e8c" font-weight="bold">Lote 1</text>
+  <text x="172.0" y="314" text-anchor="middle" font-size="15">24 m</text>
+  <text x="203.2" y="225.6" text-anchor="middle" font-size="15" fill="#1f4e8c" font-weight="bold">Lote 2</text>
+  <text x="277.0" y="314" text-anchor="middle" font-size="15">36 m</text>
+  <text x="317.4" y="203.1" text-anchor="middle" font-size="15" fill="#1f4e8c" font-weight="bold">Lote 3</text>
+  <text x="361.8" y="118.2" text-anchor="middle" font-size="16" fill="#c0392b" font-weight="bold">?</text>
+  <text x="240.0" y="334" text-anchor="middle" font-size="15" fill="#555">Rua das Palmeiras</text>
+  <text x="239.7" y="124.4" text-anchor="middle" font-size="15" fill="#555" transform="rotate(-20.0 239.7 124.4)">Rua do Sol (frente total dos três lotes: 100 m)</text>
+</svg>

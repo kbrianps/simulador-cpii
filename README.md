@@ -38,6 +38,7 @@ and import it as JSON.
 |---|---|---|
 | Provas 2014, 2015, 2016 (manhã e tarde), 2017 (manhã e tarde), 2018 (manhã e tarde), 2019, 2022, 2023, 2024, 2025 | cp2.g12.br, blog.cp2.g12.br/cp2digital and dhui.cp2.g12.br | official (2019 only has the preliminary key online) |
 | Provas inéditas 01 to 10 | written for this project in the CPII format: original texts, 10 Portuguese and 10 Math questions and an essay proposal each | solved and cross-checked by independent reviewers |
+| Banco de questões b01 to b30 | 300 original questions in 30 topic sets of 10 (15 Portuguese, 15 Math), practice only | solved and cross-checked by independent reviewers |
 | Matemática 2011 and 2013 | CP2 Digital Google Forms (questions adapted to multiple choice by the school) | solved and cross-checked, no official key |
 
 There was no exam in 2020 and 2021 (admission by lottery during the pandemic). The exam year is the

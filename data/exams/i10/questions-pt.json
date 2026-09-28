@@ -8,7 +8,7 @@
     "stem": "<p>O Texto 1 é uma reportagem que trata das enchentes nas grandes cidades brasileiras.</p><p>O principal objetivo do texto é</p>",
     "options": {
       "A": "defender que a construção de galerias subterrâneas maiores é a solução definitiva para as enchentes.",
-      "B": "mostrar que as enchentes resultam, em parte, do modo como as cidades trataram seus rios e apontar caminhos para mudar essa relação.",
+      "B": "mostrar que as enchentes vêm, em parte, do modo como as cidades trataram seus rios e apontar como mudar isso.",
       "C": "atribuir exclusivamente aos moradores que descartam lixo nas ruas a responsabilidade pelos alagamentos.",
       "D": "narrar a história de um rio específico que foi enterrado sob uma avenida no século XX."
     },
@@ -96,7 +96,7 @@
     "options": {
       "A": "às placas de trânsito instaladas nas novas avenidas.",
       "B": "às tábuas de madeira usadas para cobrir os rios.",
-      "C": "aos projetos elaborados pelos engenheiros e planejadores urbanos.",
+      "C": "aos projetos feitos por engenheiros e planejadores.",
       "D": "às leis ambientais que proíbem a ocupação das margens."
     },
     "answer": "C",
@@ -182,7 +182,7 @@
     "stem": "<blockquote><p>“Invade a sala, a escola, / arrasta a rua inteira: / não é vingança, é memória / de quem já teve ribeira.” (versos 17 a 20)</p></blockquote><p>Na última estrofe, o eu lírico sugere que as enchentes</p>",
     "options": {
       "A": "são um castigo da natureza contra os moradores que poluem o rio.",
-      "B": "são consequência de o rio ter perdido seu espaço, que ele volta a ocupar quando a chuva é forte.",
+      "B": "resultam de o rio ter perdido seu espaço, que volta a ocupar quando a chuva é forte.",
       "C": "acontecem porque os moradores esqueceram o nome do rio que passava pelo bairro.",
       "D": "atingem apenas a sala e a escola, poupando o restante do bairro."
     },
@@ -239,7 +239,7 @@
     ],
     "stem": "<blockquote><p>“Todo sábado, às sete da manhã, seu Arlindo cumpre o mesmo ritual: abre o portão, desenrola a mangueira verde e começa a <b>“varrer”</b> a calçada com um jato d’água.” (linhas 1-2)</p></blockquote><p>No trecho, as aspas na palavra destacada indicam que ela</p>",
     "options": {
-      "A": "foi usada em sentido especial, pois a limpeza não é feita com vassoura, mas com água.",
+      "A": "tem sentido especial: a limpeza é feita com água, e não com vassoura.",
       "B": "reproduz exatamente uma fala de seu Arlindo, citada pelo narrador.",
       "C": "é uma palavra estrangeira, ainda não incorporada ao português.",
       "D": "tem o mesmo sentido literal de “limpar com vassoura”, apenas reforçado."

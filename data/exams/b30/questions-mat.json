@@ -1,0 +1,269 @@
+[
+  {
+    "n": 1,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Nas aulas de Educação Física, Júlia está treinando pular corda. Na 1ª aula, sua meta foi dar 18 pulos seguidos, e a cada aula seguinte a meta aumenta 2 pulos em relação à aula anterior.</p><p>Na <b>15ª aula</b>, a meta de Júlia será dar um número de pulos seguidos igual a</p>",
+    "options": {
+      "A": "30.",
+      "B": "44.",
+      "C": "46.",
+      "D": "48."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>As metas formam a sequência 18, 20, 22, 24, ..., que cresce sempre 2 unidades de uma aula para a seguinte.</p><p>Da 1ª até a 15ª aula, há \\(15 - 1 = 14\\) passagens de uma aula para a próxima, e em cada uma a meta aumenta 2 pulos:</p><p>\\[18 + 14 \\times 2 = 18 + 28 = 46\\]</p><p>Conferindo com as primeiras: 2ª aula: \\(18 + 1 \\times 2 = 20\\); 3ª aula: \\(18 + 2 \\times 2 = 22\\). A regra funciona. Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Calculou apenas \\(15 \\times 2 = 30\\), esquecendo os 18 pulos da meta da primeira aula.",
+      "B": "Contou 13 aumentos em vez de 14: \\(18 + 13 \\times 2 = 44\\). Essa é a meta da 14ª aula.",
+      "D": "Contou 15 aumentos \\((18 + 15 \\times 2)\\), mas a 1ª aula não tem aumento: da 1ª à 15ª são só 14."
+    },
+    "tip": "Na sequência que cresce sempre o mesmo valor, o n-ésimo termo é o primeiro mais (n - 1) vezes o acréscimo."
+  },
+  {
+    "n": 2,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Três amigos colecionam figurinhas de um álbum da Copa. Carla tem \\(x\\) figurinhas. Beto tem o dobro da quantidade de Carla, menos 5. Davi tem 3 figurinhas a mais do que Beto.</p><p>A expressão que representa o total de figurinhas dos três amigos juntos é</p>",
+    "options": {
+      "A": "\\(5x - 7\\)",
+      "B": "\\(4x - 7\\)",
+      "C": "\\(4x - 2\\)",
+      "D": "\\(5x - 17\\)"
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Vamos escrever a quantidade de cada um:</p><ul><li>Carla: \\(x\\)</li><li>Beto: o dobro de Carla, menos 5: \\(2x - 5\\)</li><li>Davi: 3 a mais que Beto: \\((2x - 5) + 3 = 2x - 2\\)</li></ul><p>Somando e juntando os termos semelhantes:</p><p>\\[x + (2x - 5) + (2x - 2) = (x + 2x + 2x) + (-5 - 2) = 5x - 7\\]</p><p>Teste rápido: se Carla tem 10, Beto tem 15 e Davi tem 18; total 43, e \\(5 \\cdot 10 - 7 = 43\\). Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Somou só Beto e Davi \\((2x - 5 + 2x - 2)\\) e esqueceu as \\(x\\) figurinhas da própria Carla.",
+      "C": "Entendeu que Davi tem 3 a mais do que <b>Carla</b> \\((x + 3)\\): \\(x + 2x - 5 + x + 3 = 4x - 2\\).",
+      "D": "Traduziu “o dobro de Carla, menos 5” como \\(2(x - 5) = 2x - 10\\). Aí Davi teria \\(2x - 7\\), e o total seria \\(5x - 17\\). No texto, primeiro se dobra e depois se tiram 5."
+    },
+    "tip": "Traduza cada frase para uma expressão, uma pessoa por vez, e só depois some os termos semelhantes."
+  },
+  {
+    "n": 3,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um jogo de celular, para passar de um nível para o seguinte, é preciso juntar certa quantidade de estrelas. As quantidades exigidas nos primeiros níveis são:</p><table><thead><tr><th>Nível</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr></thead><tbody><tr><td>Estrelas exigidas</td><td>3</td><td>7</td><td>15</td><td>31</td><td>63</td></tr></tbody></table><p>A regra do jogo é sempre a mesma: a quantidade de um nível é obtida a partir da do nível anterior. Seguindo essa regra, o número de estrelas exigido no <b>nível 7</b> é</p>",
+    "options": {
+      "A": "127.",
+      "B": "192.",
+      "C": "255.",
+      "D": "511."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 1,
+    "explanation": "<p>Observando a tabela, cada valor é o <b>dobro do anterior mais 1</b>:</p><p>\\[3 \\cdot 2 + 1 = 7,\\quad 7 \\cdot 2 + 1 = 15,\\quad 15 \\cdot 2 + 1 = 31,\\quad 31 \\cdot 2 + 1 = 63.\\]</p><p>Continuando:</p><ul><li>Nível 6: \\(63 \\cdot 2 + 1 = 127\\)</li><li>Nível 7: \\(127 \\cdot 2 + 1 = 255\\)</li></ul><p>(Outra forma de ver: cada valor é uma potência de 2 menos 1; o nível 7 exige \\(2^{8} - 1 = 255\\) estrelas.) Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Esse é o valor do nível 6. Faltou aplicar a regra mais uma vez.",
+      "B": "Percebeu que os valores quase dobram, mas esqueceu o “+1”: dobrou 3 seis vezes \\((3, 6, 12, 24, 48, 96, 192)\\). Essa regra não bate nem com o nível 2 da tabela.",
+      "D": "Aplicou a regra uma vez a mais: 511 é o valor do nível 8."
+    },
+    "tip": "Ao descobrir a regra de uma sequência, confira se ela funciona para todos os termos dados antes de continuar."
+  },
+  {
+    "n": 4,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um estacionamento no centro da cidade cobra seus preços da seguinte forma:</p><ul><li>primeira hora (ou fração dela): R$ 8,00;</li><li>cada hora seguinte: R$ 5,00.</li></ul><p>Considerando apenas permanências de um número inteiro \\(h\\) de horas, com \\(h \\ge 1\\), a expressão que fornece o valor a pagar, em reais, é</p>",
+    "options": {
+      "A": "\\(13h\\)",
+      "B": "\\(5h + 3\\)",
+      "C": "\\(5h + 8\\)",
+      "D": "\\(8h + 5\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.alg.inequacoes_funcoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Em \\(h\\) horas, a primeira hora custa R$ 8,00 e as outras \\(h - 1\\) horas custam R$ 5,00 cada:</p><p>\\[P = 8 + 5(h - 1)\\]</p><p>Aplicando a distributiva e juntando os números:</p><p>\\[P = 8 + 5h - 5 = 5h + 3\\]</p><p>Conferindo: 1 hora: \\(5 \\cdot 1 + 3 = 8\\) reais; 3 horas: \\(8 + 5 + 5 = 18\\) e \\(5 \\cdot 3 + 3 = 18\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou os dois preços (8 + 5 = 13) e cobrou esse valor por hora. Com 1 hora, daria R$ 13,00, e não R$ 8,00.",
+      "C": "Cobrou R$ 5,00 por <b>todas</b> as \\(h\\) horas e ainda somou os R$ 8,00 da primeira. A primeira hora seria cobrada duas vezes: com 1 hora, daria R$ 13,00.",
+      "D": "Trocou os papéis dos valores: usou R$ 8,00 por hora e R$ 5,00 como parte fixa."
+    },
+    "tip": "Teste a expressão com valores pequenos (h = 1, h = 2) e compare com a regra do enunciado."
+  },
+  {
+    "n": 5,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Para uma festa de aniversário, uma confeiteira arrumou brigadeiros em 6 bandejas, cada uma com os doces formando um quadrado. A menor bandeja tem 1 brigadeiro; a segunda tem 2 fileiras de 2 brigadeiros; a terceira, 3 fileiras de 3; e assim por diante, até a maior bandeja, com 6 fileiras de 6 brigadeiros.</p><p>O número total de brigadeiros nas 6 bandejas é</p>",
+    "options": {
+      "A": "21.",
+      "B": "36.",
+      "C": "55.",
+      "D": "91."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Cada bandeja forma um quadrado, então tem \\(n^{2}\\) brigadeiros, em que \\(n\\) é o número de brigadeiros em cada fileira:</p><table><thead><tr><th>Bandeja</th><th>1ª</th><th>2ª</th><th>3ª</th><th>4ª</th><th>5ª</th><th>6ª</th></tr></thead><tbody><tr><td>Brigadeiros</td><td>1</td><td>4</td><td>9</td><td>16</td><td>25</td><td>36</td></tr></tbody></table><p>Somando: \\(1 + 4 + 9 + 16 + 25 + 36 = 91\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Somou só o número de brigadeiros de uma fileira de cada bandeja \\((1 + 2 + 3 + 4 + 5 + 6 = 21)\\). Cada bandeja é um quadrado, com \\(n \\times n\\) brigadeiros.",
+      "B": "Contou só a maior bandeja (6 por 6), esquecendo as outras cinco.",
+      "C": "Somou os quadrados só até 5 por 5 (1 + 4 + 9 + 16 + 25), deixando de fora a maior bandeja."
+    },
+    "tip": "Quando cada parte forma um quadrado de n por n, ela tem n² elementos; some os quadrados perfeitos 1, 4, 9, 16... de cada parte."
+  },
+  {
+    "n": 6,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Um terreno retangular será cercado com tela. Sua área, em metros quadrados, é dada pela expressão</p><p>\\[x^{2} + 7x + 12,\\]</p><p>e um de seus lados mede \\((x + 3)\\) metros, sendo \\(x\\) um número positivo.</p><p>A expressão que representa o perímetro desse terreno, em metros, é</p>",
+    "options": {
+      "A": "\\(2x + 7\\)",
+      "B": "\\(4x + 14\\)",
+      "C": "\\(4x + 24\\)",
+      "D": "\\(4x + 26\\)"
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.geo.areas"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>A área do retângulo é o produto dos dois lados. Precisamos descobrir qual expressão, multiplicada por \\((x + 3)\\), dá \\(x^{2} + 7x + 12\\).</p><p>Fatorando o trinômio: procuramos dois números com soma 7 e produto 12. São 3 e 4. Então</p><p>\\[x^{2} + 7x + 12 = (x + 3)(x + 4).\\]</p><p>(Conferindo pela distributiva: \\((x + 3)(x + 4) = x^{2} + 4x + 3x + 12 = x^{2} + 7x + 12\\).)</p><p>O outro lado mede \\((x + 4)\\) m. O perímetro é a soma dos quatro lados:</p><p>\\[2(x + 3) + 2(x + 4) = 2x + 6 + 2x + 8 = 4x + 14\\]</p><p>Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Somou só um lado de cada tipo \\((x + 3) + (x + 4)\\); isso é metade do perímetro.",
+      "C": "Achou o outro lado subtraindo \\(12 - 3 = 9\\), obtendo \\(x + 9\\). Mas \\((x + 3)(x + 9) = x^{2} + 12x + 27\\), que não é a área dada.",
+      "D": "Achou o outro lado somando \\(7 + 3 = 10\\), obtendo \\(x + 10\\). Os números procurados precisam ter soma 7 e produto 12, e \\((x + 3)(x + 10)\\) não dá a área dada."
+    },
+    "tip": "Para achar o lado que falta, fatore a área: no trinômio x² + Sx + P, procure dois números de soma S e produto P."
+  },
+  {
+    "n": 7,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Dona Zélia faz colchas de retalhos com quadradinhos de tecido de mesmo tamanho, cinza ou brancos. Cada colcha é quadrada, e os quadradinhos cinza sempre ocupam a diagonal que vai do canto superior esquerdo ao canto inferior direito. As quatro primeiras colchas da sequência estão representadas a seguir.</p><p><img src=\"img/b30/mat-q07.svg\" alt=\"Quatro figuras quadradas formadas por quadradinhos. Figura 1: 1 quadradinho cinza. Figura 2: quadrado de 2 por 2, com 2 quadradinhos cinza na diagonal e 2 brancos. Figura 3: quadrado de 3 por 3, com 3 cinza na diagonal e 6 brancos. Figura 4: quadrado de 4 por 4, com 4 cinza na diagonal e 12 brancos. Em todas, a diagonal cinza vai do canto superior esquerdo ao canto inferior direito.\"></p><p>Mantendo esse padrão, a Figura 10 terá uma quantidade de quadradinhos <b>brancos</b> igual a</p>",
+    "options": {
+      "A": "10.",
+      "B": "45.",
+      "C": "81.",
+      "D": "90."
+    },
+    "answer": "D",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 2,
+    "explanation": "<p>Na Figura \\(n\\), a colcha é um quadrado de \\(n\\) por \\(n\\), com \\(n^{2}\\) quadradinhos ao todo. A diagonal tem \\(n\\) quadradinhos cinza. Os brancos são o resto:</p><p>\\[\\text{brancos} = n^{2} - n\\]</p><p>Conferindo com as figuras: Figura 2: \\(4 - 2 = 2\\); Figura 3: \\(9 - 3 = 6\\); Figura 4: \\(16 - 4 = 12\\). Está de acordo.</p><p>Figura 10: \\(10^{2} - 10 = 100 - 10 = 90\\). Resposta: <b>D</b>.</p>",
+    "distractors": {
+      "A": "Contou os quadradinhos cinza da Figura 10 (um por linha, 10 ao todo), e não os brancos.",
+      "B": "Contou só os brancos de um dos lados da diagonal \\((90 \\div 2 = 45)\\). Há brancos acima e abaixo da diagonal.",
+      "C": "Usou \\((n - 1)^{2} = 9^{2}\\), mas os brancos não formam um quadrado: cada uma das 10 linhas tem 9 brancos, o que dá \\(10 \\times 9 = 90\\)."
+    },
+    "tip": "Em padrões de figuras, conte o total e subtraia a parte que se destaca: aqui, n² quadradinhos menos os n da diagonal."
+  },
+  {
+    "n": 8,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Em um jardim, há dois canteiros quadrados de grama: um com lado de \\(a\\) metros e outro com lado de \\(b\\) metros, com \\(a > b\\). O jardineiro sabe que:</p><ul><li>a soma das medidas dos lados dos dois canteiros é \\(a + b = 9\\) m;</li><li>uma horta retangular de lados \\(a\\) e \\(b\\) metros teria área de \\(14\\ \\text{m}^{2}\\), ou seja, \\(a \\cdot b = 14\\).</li></ul><p>Sem descobrir os valores de \\(a\\) e \\(b\\), é possível calcular quanto a área do canteiro maior excede a área do menor. Essa diferença, em metros quadrados, é</p>",
+    "options": {
+      "A": "45.",
+      "B": "53.",
+      "C": "67.",
+      "D": "81."
+    },
+    "answer": "A",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>Queremos \\(a^{2} - b^{2}\\). Pela diferença de quadrados:</p><p>\\[a^{2} - b^{2} = (a + b)(a - b) = 9(a - b).\\]</p><p>Falta \\(a - b\\). Usamos o quadrado da diferença e o quadrado da soma:</p><p>\\[(a - b)^{2} = a^{2} - 2ab + b^{2} = (a^{2} + 2ab + b^{2}) - 4ab = (a + b)^{2} - 4ab\\]</p><p>\\[(a - b)^{2} = 9^{2} - 4 \\cdot 14 = 81 - 56 = 25\\]</p><p>Como \\(a > b\\), \\(a - b\\) é positivo: \\(a - b = 5\\). Então</p><p>\\[a^{2} - b^{2} = 9 \\cdot 5 = 45 \\text{ m}^{2}.\\]</p><p>(Conferindo: com soma 9 e produto 14, os lados são 7 e 2, e \\(49 - 4 = 45\\).) Resposta: <b>A</b>.</p>",
+    "distractors": {
+      "B": "Calculou \\(a^{2} + b^{2} = (a + b)^{2} - 2ab = 81 - 28 = 53\\), que é a <b>soma</b> das áreas, e não a diferença pedida.",
+      "C": "Tentou calcular \\(a^{2} + b^{2}\\) e errou o produto notável: fez \\(81 - 14\\), esquecendo o 2 de \\(2ab\\). Além disso, a pergunta é a diferença das áreas.",
+      "D": "Usou \\((a + b)^{2} = 81\\) como se fosse a soma ou a diferença das áreas. Mas \\((a + b)^{2} = a^{2} + 2ab + b^{2}\\), que tem o termo \\(2ab\\) a mais."
+    },
+    "tip": "a² - b² = (a + b)(a - b), e (a - b)² = (a + b)² - 4ab: com a soma e o produto, você consegue as outras combinações."
+  },
+  {
+    "n": 9,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Lucas decidiu juntar dinheiro em um cofrinho. Na 1ª semana, guardou R$ 5,00; na 2ª semana, R$ 7,00; na 3ª, R$ 9,00; e assim por diante, guardando sempre R$ 2,00 a mais do que na semana anterior. Ele não retira nada do cofrinho.</p><p>O total guardado no cofrinho atingirá, pela primeira vez, pelo menos R$ 300,00 ao final da</p>",
+    "options": {
+      "A": "15ª semana.",
+      "B": "16ª semana.",
+      "C": "60ª semana.",
+      "D": "149ª semana."
+    },
+    "answer": "B",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.sequencias",
+      "mat.alg.eq2"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O valor guardado na semana \\(n\\) é \\(5 + 2(n - 1) = 2n + 3\\). O total acumulado é a soma de uma sequência que cresce de 2 em 2. Para somar, juntamos o primeiro com o último termo:</p><p>\\[S_{n} = \\frac{(5 + 2n + 3) \\cdot n}{2} = \\frac{(2n + 8) \\cdot n}{2} = n(n + 4)\\]</p><p>Testando valores próximos de onde o total chega a 300:</p><ul><li>\\(n = 15\\): \\(15 \\cdot 19 = 285\\) (ainda não chegou a 300);</li><li>\\(n = 16\\): \\(16 \\cdot 20 = 320\\) (passou de 300).</li></ul><p>Conferindo a 16ª semana: nela Lucas guarda \\(2 \\cdot 16 + 3 = 35\\) reais, e \\(285 + 35 = 320\\). Resposta: <b>B</b>.</p>",
+    "distractors": {
+      "A": "Parou na 15ª semana porque o total já estava perto de R$ 300,00. Mas ao final dela o cofrinho tem R$ 285,00, ainda abaixo do valor pedido.",
+      "C": "Dividiu 300 por 5, como se Lucas guardasse sempre R$ 5,00. Mas os depósitos aumentam a cada semana.",
+      "D": "Procurou a semana em que o <b>depósito daquela semana</b> chega a R$ 300,00 \\((2n + 3 \\ge 300)\\), em vez do total acumulado no cofrinho."
+    },
+    "tip": "Para somar uma sequência que cresce sempre o mesmo valor: (primeiro + último) vezes o número de termos, dividido por 2."
+  },
+  {
+    "n": 10,
+    "subject": "matematica",
+    "texts": [],
+    "stem": "<p>Na gincana de cálculo mental da escola, a última prova exigia calcular, sem calculadora e sem papel, o valor da expressão</p><p>\\[\\frac{2027^{2} - 2023^{2}}{2025}\\]</p><p>A equipe vencedora percebeu que um produto notável tornava a conta simples. O valor correto da expressão é</p>",
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "8.",
+      "D": "16."
+    },
+    "answer": "C",
+    "annulled": false,
+    "answer_source": "inedita",
+    "topics": [
+      "mat.alg.expressoes",
+      "mat.num.potencia_raiz"
+    ],
+    "difficulty": 3,
+    "explanation": "<p>O numerador é uma diferença de dois quadrados, que pode ser fatorada: \\(a^{2} - b^{2} = (a - b)(a + b)\\).</p><p>\\[2027^{2} - 2023^{2} = (2027 - 2023)(2027 + 2023) = 4 \\cdot 4050\\]</p><p>Repare que \\(4050 = 2 \\cdot 2025\\). Então</p><p>\\[\\frac{4 \\cdot 4050}{2025} = \\frac{4 \\cdot 2 \\cdot 2025}{2025} = 4 \\cdot 2 = 8.\\]</p><p>Resposta: <b>C</b>.</p>",
+    "distractors": {
+      "A": "Usou apenas o fator \\(2027 + 2023 = 4050\\) e dividiu por 2025, esquecendo o fator \\(2027 - 2023 = 4\\).",
+      "B": "Considerou só a diferença \\(2027 - 2023 = 4\\), esquecendo o fator \\((2027 + 2023)\\) e a divisão por 2025.",
+      "D": "Usou \\((2027 - 2023)^{2} = 16\\), como se \\(a^{2} - b^{2}\\) fosse igual a \\((a - b)^{2}\\). Não é: \\((a - b)^{2} = a^{2} - 2ab + b^{2}\\)."
+    },
+    "tip": "Diferença de quadrados, a² - b² = (a - b)(a + b), transforma contas enormes em produtos fáceis."
+  }
+]

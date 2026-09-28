@@ -138,7 +138,7 @@ function viewStats() {
           <tr><td>Respondidas em menos de 1 minuto</td><td class="r">${st.fast.n ? `${st.fast.ok}/${st.fast.n}` : "–"}</td><td class="barcell">${st.fast.n ? hbar(st.fast.ok / st.fast.n, accClass(st.fast.ok / st.fast.n)) : ""}</td></tr>
           <tr><td>Respondidas com 1 minuto ou mais</td><td class="r">${st.slow.n ? `${st.slow.ok}/${st.slow.n}` : "–"}</td><td class="barcell">${st.slow.n ? hbar(st.slow.ok / st.slow.n, accClass(st.slow.ok / st.slow.n)) : ""}</td></tr>
         </tbody></table><p class="muted small">Só conta o tempo das questões feitas no treino.</p></section>
-      <section class="sheet"><h2>Por prova</h2><table class="tbl"><tbody>${EXAMS.map((e) => {
+      <section class="sheet"><h2>Por prova</h2><table class="tbl"><tbody>${EXAMS.filter((e) => !e.bank).map((e) => {
         const x = st.exam[e.id];
         return `<tr><td>${esc(e.title)}</td><td class="r">${x ? `${x.ok}/${x.n}` : "–"}</td><td class="barcell">${x ? hbar(x.ok / x.n, accClass(x.ok / x.n)) : `<span class="muted small">não feita</span>`}</td></tr>`;
       }).join("")}</tbody></table></section>

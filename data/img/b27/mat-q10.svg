@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 325" width="480" height="325" font-family="Arial, Helvetica, sans-serif" font-size="16">
+  <rect width="480" height="325" fill="#ffffff"/>
+  <polygon points="116.7,210.0 60,300 420,300 356.7,210.0" fill="#d9f0d3"/>
+  <polygon points="230,30 116.7,210.0 356.7,210.0" fill="#fdf1d6"/>
+  <polygon points="230,30 60,300 420,300" fill="none" stroke="#333" stroke-width="3"/>
+  <line x1="116.7" y1="210.0" x2="356.7" y2="210.0" stroke="#8a5a2b" stroke-width="3" stroke-dasharray="8 5"/>
+  <text x="230.0" y="20.0" text-anchor="middle" font-weight="bold">A</text>
+  <text x="46.0" y="306.0" text-anchor="middle" font-weight="bold">B</text>
+  <text x="434.0" y="306.0" text-anchor="middle" font-weight="bold">C</text>
+  <text x="100.7" y="214.0" text-anchor="middle" font-weight="bold">D</text>
+  <text x="372.7" y="214.0" text-anchor="middle" font-weight="bold">E</text>
+  <text x="230.0" y="170.0" text-anchor="middle" font-size="15" fill="#8a5a2b">ervas</text>
+  <text x="240.0" y="265.0" text-anchor="middle" font-size="15" fill="#2e7d32">hortaliças</text>
+  <text x="139.3" y="120.0" text-anchor="middle" font-size="15">20 m</text>
+  <text x="58.3" y="259.0" text-anchor="middle" font-size="15">10 m</text>
+</svg>

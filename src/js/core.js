@@ -9,6 +9,7 @@ const Q = {};
 for (const e of EXAMS) {
   e.official = e.id.startsWith("p");
   e.inedita = e.answer_key_kind === "inedita";
+  e.bank = e.id.startsWith("b"); // topic sets for practice only, not full exams
   e.origin = e.official ? "oficial" : e.inedita ? "inedita" : "extra";
   e.textById = Object.fromEntries((e.texts || []).map((t) => [t.id, t]));
   for (const q of e.questions) {

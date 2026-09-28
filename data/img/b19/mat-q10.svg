@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 342" width="480" font-family="Arial, Helvetica, sans-serif" font-size="15">
+  <rect x="0" y="0" width="480" height="342" fill="#fff"/>
+  <rect x="60" y="40" width="360" height="240" fill="#fff176" stroke="#333" stroke-width="2"/>
+  <polygon points="60,280 300,280 160,40" fill="#e53935" stroke="#333" stroke-width="2"/>
+  <text x="44" y="298">A</text>
+  <text x="426" y="298">B</text>
+  <text x="426" y="36">C</text>
+  <text x="44" y="36">D</text>
+  <text x="295" y="298">E</text>
+  <text x="155" y="32">V</text>
+  <circle cx="160" cy="40" r="3" fill="#000"/>
+  <text x="180" y="334" text-anchor="middle">60 cm</text>
+  <line x1="60" y1="314" x2="300" y2="314" stroke="#333" stroke-width="1.2"/>
+  <line x1="60" y1="308" x2="60" y2="320" stroke="#333" stroke-width="1.2"/>
+  <line x1="300" y1="308" x2="300" y2="320" stroke="#333" stroke-width="1.2"/>
+  <text x="360" y="334" text-anchor="middle">30 cm</text>
+  <line x1="300" y1="314" x2="420" y2="314" stroke="#333" stroke-width="1.2"/>
+  <line x1="420" y1="308" x2="420" y2="320" stroke="#333" stroke-width="1.2"/>
+  <text x="430" y="165">60 cm</text>
+</svg>

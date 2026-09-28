@@ -3,7 +3,7 @@
 # usage: tools/deploy.sh
 set -euo pipefail
 cd "$(dirname "$0")/.."
-node tools/build.mjs
+node tools/build.mjs "$@"
 src_rev=$(git rev-parse --short HEAD)
 dir=$(mktemp -d)
 rmdir "$dir"

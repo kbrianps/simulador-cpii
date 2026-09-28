@@ -40,6 +40,7 @@ for (const origin of ["", "oficial", "inedita"]) {
   for (const subject of ["portugues", "matematica"]) {
     await step(`practice-${origin || "all"}-${subject}`, async () => {
       await go("#/praticar");
+      await page.evaluate(() => document.querySelectorAll("details").forEach((d) => (d.open = true)));
       if (!(await page.$(`select[name="origin"] option[value="${origin}"]`))) return;
       await page.selectOption('select[name="origin"]', origin);
       await page.selectOption('select[name="subject"]', subject);
@@ -57,6 +58,16 @@ for (const origin of ["", "oficial", "inedita"]) {
     });
   }
 }
+await step("practice-quick", async () => {
+  await go("#/praticar");
+  await page.click('[data-qs="matematica"]');
+  await page.waitForTimeout(200);
+  await page.click("#quick-go");
+  await page.waitForTimeout(250);
+  if (!(await page.$(".opt"))) throw new Error("quick start did not open a question");
+  await page.keyboard.press("a");
+  await page.keyboard.press("Enter");
+});
 await step("simulado-full", async () => {
   await go("#/simulado");
   const values = await page.$$eval("#exam-pick option", (o) => o.map((x) => x.value));

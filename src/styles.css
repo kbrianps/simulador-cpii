@@ -483,3 +483,14 @@ mark.copy { background: var(--bad-soft); color: var(--bad-ink); border-bottom: 2
   .page { padding: 0; }
   .print-essay { white-space: pre-wrap; font-family: var(--font-read); line-height: 2; }
 }
+
+/* Praticar: one clear main action */
+.quick-start { display: grid; gap: 16px; justify-items: start; }
+.quick-start .lead { margin: 0; }
+.quick-go { font-size: 1.25rem; padding: 16px 28px; }
+.seg-light { display: inline-flex; background: var(--paper-3); border-radius: 10px; padding: 4px; flex-wrap: wrap; }
+.seg-light button { border: 0; background: transparent; padding: 8px 16px; border-radius: 8px; cursor: pointer; color: var(--ink-2); font-weight: 600; }
+.seg-light button[aria-pressed="true"] { background: var(--paper); color: var(--ink); box-shadow: var(--shadow); }
+details.more > summary { cursor: pointer; }
+.topic-links { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.topic-links li { display: flex; justify-content: space-between; gap: 10px; border-bottom: 1px solid var(--rule); padding: 4px 0; }

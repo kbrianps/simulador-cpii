@@ -29,14 +29,22 @@ function startPractice(qids, title, back = "#/praticar", replace = false) {
   else go("#/praticar/sessao");
 }
 
-// Unanswered first, then wrong ones, then the rest; random inside each group.
+// Questions never answered: original ("inédita") ones first, then past exams; shuffled inside each group.
+function freshQuestions(subject) {
+  const pool = ALL_Q.filter((q) => !q.annulled && !lastAttempt(q.id) && (!subject || q.subject === subject));
+  return [...shuffle(pool.filter((q) => EXAM[q.examId].inedita)), ...shuffle(pool.filter((q) => !EXAM[q.examId].inedita))];
+}
+
+// Unanswered first (original ones before past exams), then wrong ones, then the rest.
 function smartOrder(qs) {
   const groups = [[], [], []];
   for (const q of qs) {
     const st = questionStatus(q.id);
     groups[!lastAttempt(q.id) ? 0 : st === "bad" ? 1 : 2].push(q.id);
   }
-  return groups.flatMap((g) => shuffle(g));
+  const ined = (id) => EXAM[Q[id].examId].inedita;
+  const fresh = shuffle(groups[0]);
+  return [...fresh.filter(ined), ...fresh.filter((id) => !ined(id)), ...shuffle(groups[1]), ...shuffle(groups[2])];
 }
 
 function viewPracticeSetup() {
@@ -62,14 +70,45 @@ function viewPracticeSetup() {
       })
       .join("");
 
-  main().innerHTML = `<div class="page">
-    <h1>Praticar questões</h1>
-    <p class="lead">Resolva questões das provas anteriores com correção na hora e resolução comentada. Seus acertos e erros alimentam as estatísticas.</p>
-    <section class="sheet">
-      <div class="filters" id="pf">
+  // Main path: one button that trains questions the student has never seen, new ones first.
+  const qs = S().quickSubject || "";
+  const fresh = freshQuestions(qs);
+  const nFreshNew = fresh.filter((q) => EXAM[q.examId].inedita).length;
+  const subjBtn = (v, l) => `<button type="button" data-qs="${v}" aria-pressed="${qs === v}">${l}</button>`;
+  const topicList = (subj) =>
+    Object.entries(DATA.topics[subj] || {})
+      .map(([id, label]) => {
+        const all = ALL_Q.filter((q) => q.topics[0] === id);
+        if (!all.length) return "";
+        const left = all.filter((q) => !lastAttempt(q.id)).length;
+        const t = st.topic[id];
+        return `<li><a href="#/praticar/assunto/${encodeURIComponent(id)}">${esc(label)}</a>
+          <span class="muted small">${left ? `${left} novas` : "todas feitas"}${t ? `, você acerta ${fmt.pct(t.acc)}` : ""}</span></li>`;
+      })
+      .join("");
+
+  main().innerHTML = `<div class="page page-narrow">
+    <h1>Praticar</h1>
+    <section class="sheet quick-start">
+      <p class="lead">${fresh.length ? `Você tem <b>${fresh.length}</b> questões que ainda não viu${nFreshNew ? `, sendo ${nFreshNew} inéditas` : ""}.` : "Você já resolveu todas as questões desta matéria. Que tal refazer as que errou?"}</p>
+      <div class="seg-light" role="group" aria-label="Matéria">${subjBtn("", "Português e Matemática")}${subjBtn("portugues", "Português")}${subjBtn("matematica", "Matemática")}</div>
+      <button class="btn btn-primary btn-lg quick-go" id="quick-go" ${fresh.length ? "" : "disabled"}>Treinar 10 questões novas</button>
+      <p class="muted small">Primeiro vêm as questões inéditas, depois as das provas anteriores. A correção aparece na hora, com a resolução.</p>
+      <div class="row">
+        ${st.wrongNow.length ? `<button class="btn btn-sm" id="q-wrong">Refazer as que errei (${st.wrongNow.length})</button>` : ""}
+        ${weakTopics(st).length ? `<button class="btn btn-sm" id="q-weak">Treinar meus assuntos mais fracos</button>` : ""}
+        ${flagCount ? `<button class="btn btn-sm" id="q-flag">Revisar as marcadas (${flagCount})</button>` : ""}
+      </div>
+    </section>
+    <details class="sheet more"><summary><b>Escolher um assunto</b></summary>
+      <div class="grid-2" style="margin-top:12px"><div><h3>Português</h3><ul class="topic-links">${topicList("portugues")}</ul></div>
+      <div><h3>Matemática</h3><ul class="topic-links">${topicList("matematica")}</ul></div></div>
+    </details>
+    <details class="sheet more"><summary><b>Mais opções</b> <span class="muted small">(prova específica, dificuldade, questões antigas...)</span></summary>
+      <div class="filters" id="pf" style="margin-top:14px">
         <label class="field">Origem<select name="origin"><option value="">Todas as questões</option><option value="oficial" ${f.origin === "oficial" ? "selected" : ""}>Provas anteriores do CPII</option><option value="inedita" ${f.origin === "inedita" ? "selected" : ""}>Questões inéditas</option></select></label>
         <label class="field">Matéria<select name="subject"><option value="">Todas</option><option value="portugues" ${f.subject === "portugues" ? "selected" : ""}>Português</option><option value="matematica" ${f.subject === "matematica" ? "selected" : ""}>Matemática</option></select></label>
-        <label class="field">Prova<select name="exam"><option value="">Todas as provas</option>${EXAMS.map((e) => `<option value="${e.id}" ${f.exam === e.id ? "selected" : ""}>${esc(e.title)}</option>`).join("")}</select></label>
+        <label class="field">Prova ou bloco<select name="exam"><option value="">Todas</option>${EXAMS.map((e) => `<option value="${e.id}" ${f.exam === e.id ? "selected" : ""}>${esc(e.title)}</option>`).join("")}</select></label>
         <label class="field">Assunto<select name="topic"><option value="">Todos os assuntos</option><optgroup label="Português">${topicOpts("portugues")}</optgroup><optgroup label="Matemática">${topicOpts("matematica")}</optgroup></select></label>
         <label class="field">Dificuldade<select name="diff"><option value="">Todas</option><option value="1" ${f.diff === "1" ? "selected" : ""}>Fácil</option><option value="2" ${f.diff === "2" ? "selected" : ""}>Média</option><option value="3" ${f.diff === "3" ? "selected" : ""}>Difícil</option></select></label>
         <label class="field">Situação<select name="status"><option value="">Todas</option><option value="new" ${f.status === "new" ? "selected" : ""}>Ainda não resolvidas</option><option value="wrong" ${f.status === "wrong" ? "selected" : ""}>Que eu errei</option><option value="flag" ${f.status === "flag" ? "selected" : ""}>Marcadas para revisar</option></select></label>
@@ -77,30 +116,22 @@ function viewPracticeSetup() {
         <label class="field">Quantidade<select name="size"><option value="10" ${f.size === "10" ? "selected" : ""}>10</option><option value="20" ${f.size === "20" ? "selected" : ""}>20</option><option value="all" ${f.size === "all" ? "selected" : ""}>Todas</option></select></label>
         <label class="chk"><input type="checkbox" name="extras" ${f.extras ? "checked" : ""}> Incluir questões extras de Matemática (2011 e 2013)</label>
       </div>
-      <div class="row" style="margin-top:18px"><button class="btn btn-primary btn-lg" id="pf-go">Começar treino</button><span id="pf-count" class="muted"></span></div>
-    </section>
-    <div class="grid-2 block">
-      <section class="sheet"><h2>Treinos rápidos</h2>
-        <div class="stack">
-          <button class="btn" id="q-wrong" ${wrongCount ? "" : "disabled"}>Refazer as que eu errei (${wrongCount})</button>
-          <button class="btn" id="q-flag" ${flagCount ? "" : "disabled"}>Revisar as marcadas (${flagCount})</button>
-          <button class="btn" id="q-weak" ${weakTopics(st).length ? "" : "disabled"}>Treinar meus 3 assuntos mais fracos</button>
-          <button class="btn" id="q-ined" ${ALL_Q.some((q) => EXAM[q.examId].inedita) ? "" : "disabled"}>10 questões inéditas que eu ainda não fiz</button>
-          <button class="btn" id="q-mix">10 questões novas misturadas</button>
-        </div>
-      </section>
-      <section class="sheet"><h2>Como funciona</h2>
-        <p>Escolha a alternativa e confirme. A correção aparece na hora, com a resolução e o motivo de cada alternativa errada.</p>
-        <p>Nos textos, clique numa linha para marcá-la com marca-texto. Quando o enunciado cita linhas, clique na referência para ver o trecho.</p>
-        <p class="muted small">Atalhos: <span class="kbd">A</span> a <span class="kbd">D</span> escolhem, <span class="kbd">Enter</span> confirma e avança.</p>
-      </section>
-    </div>
-    <section class="sheet block"><h2>Por assunto</h2>
-      <div class="table-scroll"><table class="tbl"><thead><tr><th>Assunto</th><th class="r">Questões</th><th class="r">Seus acertos</th><th>Aproveitamento</th></tr></thead>
-      <tbody><tr class="grp"><td colspan="4">Português</td></tr>${topicRows("portugues")}<tr class="grp"><td colspan="4">Matemática</td></tr>${topicRows("matematica")}</tbody></table></div>
-    </section>
+      <div class="row" style="margin-top:18px"><button class="btn btn-primary" id="pf-go">Começar treino</button><span id="pf-count" class="muted"></span></div>
+      <p class="muted small" style="margin-top:12px">Atalhos: <span class="kbd">A</span> a <span class="kbd">D</span> escolhem, <span class="kbd">Enter</span> confirma e avança. Nos textos, clique numa linha para marcá-la.</p>
+    </details>
   </div>`;
 
+  $$("[data-qs]").forEach((b) =>
+    b.addEventListener("click", () => {
+      S().quickSubject = b.dataset.qs;
+      Store.save();
+      viewPracticeSetup();
+    })
+  );
+  $("#quick-go")?.addEventListener("click", () => {
+    const label = qs ? `${SUBJ_LABEL[qs]}: questões novas` : "Questões novas";
+    startPractice(freshQuestions(qs).slice(0, 10).map((q) => q.id), label);
+  });
   const form = $("#pf");
   const read = () => {
     const o = {};
@@ -125,19 +156,19 @@ function viewPracticeSetup() {
     const parts = [nf.topic ? TOPIC_LABEL[nf.topic] : nf.subject ? SUBJ_LABEL[nf.subject] : "Treino", nf.exam ? EXAM[nf.exam].title : ""].filter(Boolean);
     startPractice(ids, parts.join(", "));
   });
-  $("#q-wrong").addEventListener("click", () => startPractice(shuffle(st.wrongNow), "Refazer as erradas"));
-  $("#q-flag").addEventListener("click", () => startPractice(Object.keys(S().flags).filter((id) => Q[id]), "Marcadas para revisar"));
-  $("#q-weak").addEventListener("click", () => {
+  $("#q-wrong")?.addEventListener("click", () => startPractice(shuffle(st.wrongNow), "Refazer as erradas"));
+  $("#q-flag")?.addEventListener("click", () => startPractice(Object.keys(S().flags).filter((id) => Q[id]), "Marcadas para revisar"));
+  $("#q-weak")?.addEventListener("click", () => {
     const weak = weakTopics(st).slice(0, 3).map((t) => t.id);
     const qs = ALL_Q.filter((q) => q.topics.some((t) => weak.includes(t)));
     startPractice(smartOrder(qs).slice(0, 15), "Assuntos mais fracos");
   });
-  $("#q-ined").addEventListener("click", () => {
+  $("#q-ined")?.addEventListener("click", () => {
     const ined = ALL_Q.filter((q) => EXAM[q.examId].inedita && !q.annulled);
     const fresh = ined.filter((q) => !lastAttempt(q.id));
     startPractice(shuffle(fresh.length ? fresh : ined).slice(0, 10).map((q) => q.id), "Questões inéditas");
   });
-  $("#q-mix").addEventListener("click", () => {
+  $("#q-mix")?.addEventListener("click", () => {
     const fresh = ALL_Q.filter((q) => !lastAttempt(q.id));
     startPractice(shuffle(fresh.length ? fresh : ALL_Q).slice(0, 10).map((q) => q.id), "Questões misturadas");
   });

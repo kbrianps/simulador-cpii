@@ -1,4 +1,4 @@
-// Início: countdown, where the student stands, and the answer map of every exam.
+// Início: where the student stands, and the answer map of every exam.
 
 function answerMapHTML() {
   const rows = EXAMS.filter((e) => !e.bank).map((e) => {
@@ -38,17 +38,6 @@ function focusListHTML(list, kind) {
 
 function viewHome() {
   const st = computeStats();
-  const days = INFO.next_exam_date ? daysUntil(INFO.next_exam_date) : null;
-  const dateTxt = INFO.next_exam_date
-    ? new Date(INFO.next_exam_date + "T12:00:00").toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long", year: "numeric" })
-    : "";
-  let count = "";
-  if (days != null) {
-    if (days > 1) count = `<strong>${days} dias</strong>até a prova, ${dateTxt}.`;
-    else if (days === 1) count = `<strong>Amanhã</strong>é a prova, ${dateTxt}. Descanse bem.`;
-    else if (days === 0) count = `<strong>Hoje</strong>é dia de prova. Boa sorte!`;
-    else count = `<strong>Prova realizada</strong>A prova de ${dateTxt} já aconteceu. Continue treinando para o próximo processo seletivo.`;
-  }
   const total = ALL_Q.length;
   const answered = st.first.size;
   const sims = S().sims.filter((s) => s.finishedAt);
@@ -62,7 +51,7 @@ function viewHome() {
   main().innerHTML = `<div class="page">
     <div class="hello">
       <section class="sheet">
-        <p class="countdown">${esc(INFO.next_exam_label || "Processo seletivo do Colégio Pedro II")}<br>${count}</p>
+        <h1>Simulador do Colégio Pedro II</h1><p class="countdown">Processo seletivo para a 1ª série do Ensino Médio.</p>
         <p class="muted">20 questões de múltipla escolha e uma redação, em 3 horas. Nota máxima: 30 pontos.</p>
         <div class="quick">
           <a class="btn btn-primary btn-lg" href="#/simulado">Fazer um simulado</a>
